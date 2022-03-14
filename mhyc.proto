@@ -1,0 +1,229 @@
+syntax = "proto3";
+package mhyc;
+
+option go_package = "./mhyc";
+
+message C2SLogin {
+  int64 AreaId = 1;
+  int64 AccountId = 2;
+  string Token = 3;
+  int64 UserId = 4;
+  int32 Fcm = 5;
+  string LoginPf = 6;
+  int64 Timestamp = 7;
+  string CheckWordUrl = 8;
+  int32 CodeVersion = 9;
+  int32 ExcelVersion = 10;
+}
+
+message S2CLogin {
+  int32 Tag = 1;
+  int32 UserId = 2;
+  int32 NoCharge = 3;
+}
+
+message Ping {}
+
+message Pong {}
+
+message S2CRoleInfo{
+    int32 UserId = 1;
+    repeated IntAttr A = 2;
+    repeated StrAttr B = 3;
+}
+
+message IntAttr{
+    int32 k = 1;
+    int64 v = 2;
+}
+
+message StrAttr{
+  int32 k = 1;
+  string v = 2;
+}
+
+message S2CChangeMap{
+  int32 Tag = 1;
+  int64 MapId = 2;
+  int32 X = 3;
+  int32 Y = 4;
+}
+
+message C2SMailList{
+    int32 MailType = 1;
+}
+
+message S2CMailList{
+    repeated MailInfo MailList = 1;
+}
+
+message MailInfo{
+    int32 MailId = 1;
+    int32 MailTplId = 2;
+    string MailTplParam = 4;
+    string Title = 5;
+    int32 MailType = 6;
+    int32 IsRead = 7;
+    int32 IsReceive = 8;
+    string ReceiveTime = 9;
+    string Content = 10;
+  repeated ItemInfo AttachInfo = 11;
+  repeated ItemData AttachData = 12;
+}
+
+message ItemInfo{
+  int32 ItemId = 1;
+  int64 ItemNum = 2;
+  int32 Bind = 3;
+  int32 ItemValid = 4;
+  int32 DSL = 5;
+  int32 DSS = 6;
+}
+
+message ItemData{
+  string Id = 1;
+  int32 Pos = 2;
+  int32 IId = 3;
+  int64 N = 4;
+  int32 B = 5;
+  int32 A = 6;
+  int64 V = 7;
+  int32 DSL = 8;
+  int32 DSS = 9;
+  int32 DSPos = 10;
+  repeated IntAttr Attr = 11;
+  Pet2 Pet2 = 12;
+  int32 Star = 13;
+  int32 MaxStar = 14;
+  int32 IsNew = 15;
+  int32 State = 16;
+  int64 PartnerId = 17;
+  string Vows = 18;
+  int32 Lev = 19;
+  repeated int32 FeatureId = 20;
+  repeated Skill HLSkill = 21;
+  int32 YQ = 22;
+  int32 ObjType = 23;
+  int32 EquipPart = 24;
+  int32 Quality = 25;
+  int32 HJLev = 26;
+  int32 Exp = 27;
+  int32 TotalExp = 28;
+  int32 PEEffectId = 29;
+  int32 PESuitId = 30;
+  string PetId = 31;
+  int32 Lock = 32;
+}
+
+message Pet2{
+  string Id = 1;
+  int32 IId = 2;
+  int32 L = 3;
+  int32 E = 4;
+  int32 R = 5;
+  int32 ATalent = 6;
+  int32 DTalent = 7;
+  int32 HTalent = 8;
+  int32 Grow = 9;
+  repeated PetSkill S = 10;
+  int32 B = 11;
+  string N = 12;
+  int32 A = 15;
+  int32 D = 16;
+  int32 H = 17;
+  int32 IsNew = 18;
+  int64 TimeStamp = 19;
+  int32 MaxATalent = 20;
+  int32 MaxDTalent = 21;
+  int32 MaxHTalent = 22;
+  int32 MaxGrow = 23;
+  int32 Boundary = 24;
+  int32 Lock = 25;
+  int32 PetType = 27;
+  int32 Q = 28;
+  int64 Fv = 29;
+  repeated ItemInfo RaiseUpItem = 30;
+  int32 Awaken = 31;
+  int64 BaseFv = 32;
+  repeated string Equips = 33;
+  repeated int32 BdjjIds = 34;
+  int32 EA = 35;
+  int32 ED = 36;
+  int32 EH = 37;
+}
+
+message Skill{
+  int32 I = 1;
+  int32 L = 2;
+}
+
+message PetSkill{
+  int32 I = 1;
+  int32 L = 2;
+  int32 Lock = 3;
+}
+
+message C2SGetMailAttach{
+  int32 MailId = 1;
+  int32 MailType = 2;
+}
+
+message S2CGetMailAttach{
+  int32 Tag = 1;
+}
+
+message S2CNewMail{
+
+}
+
+message C2SActGiftNewReceive{
+  int32 Gid = 1;
+  int32 Aid = 2;
+}
+
+message S2CActGiftNewReceive{
+  int32 Tag = 1;
+  int32 Gid = 2;
+  int32 Aid = 3;
+}
+
+message C2SRespect{
+  int32 Type = 1;
+}
+
+message S2CRespect{
+  int32 Tag = 1;
+  repeated ItemInfo Prize = 2;
+  int32 Type = 3;
+}
+
+message S2CServerTime{
+  int64 T = 1;
+}
+
+message S2CNewChatMsg{
+  ChatMsg Chatmessage = 1;
+}
+
+message ChatMsg{
+    int64 ID = 1;
+    int32 ChannelId = 2;
+    int32 Type = 3;
+    string Content = 4;
+    int32 SenderId = 5;
+    string SenderNick = 6;
+    int32 SenderRoleId = 7;
+    int64 SenderGodLevel = 8;
+    int64 AreaId = 9;
+    int32 SenderHead = 10;
+    int32 SenderHeadFrame = 11;
+    int32 SenderChatFrame = 12;
+    int32 SenderTitle = 13;
+    int32 SenderVIP = 14;
+    int32 AtUserShowAreaId = 15;
+    string AtUserNick = 16;
+    int64 AtUserId = 17;
+    string World = 18;
+    string AtWorld = 19;
+    int32 HideVIP = 20;
+}
