@@ -3,8 +3,10 @@ package mhyc
 import (
 	"bytes"
 	"encoding/binary"
+	"fmt"
 	"github.com/gorilla/websocket"
 	"google.golang.org/protobuf/proto"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 )
@@ -26,6 +28,12 @@ func NewClient() (*Client, error) {
 		return nil, err
 	}
 	req.Header.Add("User-Agent", UserAgent)
+	var resp *http.Response
+	if resp, err = http.DefaultClient.Do(req); err != nil {
+		return nil, err
+	}
+	b, _ := ioutil.ReadAll(resp.Body)
+	fmt.Println(b)
 	return nil, nil
 }
 

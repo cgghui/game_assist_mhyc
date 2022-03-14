@@ -15,6 +15,8 @@ func main() {
 
 	var err error
 
+	mhyc.NewClient()
+
 	cli := &mhyc.Client{}
 
 	cli.Conn, _, err = websocket.DefaultDialer.Dial("wss://allws.huanlingxiuxian.com/300914:30042", nil)
