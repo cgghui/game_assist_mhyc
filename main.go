@@ -3,11 +3,11 @@ package main
 import (
 	"bytes"
 	"encoding/binary"
+	"github.com/cgghui/game_assist_mhyc/mhyc"
 	"github.com/gorilla/websocket"
 	"log"
 	"os"
 	"os/signal"
-	"study/mhyc"
 	"time"
 )
 
