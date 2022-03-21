@@ -1,0 +1,2992 @@
+[
+	{
+		"ActId": 25811,
+		"Id": 25811001,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811002,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 18,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811003,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"OddClient": "2.93%",
+		"Sort": 19,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811004,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 20,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811005,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 21,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811006,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "5.62%",
+		"Sort": 22,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811007,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811008,
+		"ItemId": 261,
+		"ItemNum": 2,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811009,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811010,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811011,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811012,
+		"ItemId": 2200251,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 28,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811013,
+		"ItemId": 2200252,
+		"ItemNum": 1,
+		"OddClient": "4.72%",
+		"Sort": 29,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811014,
+		"ItemId": 2200253,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 30,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811015,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "7.42%",
+		"Sort": 31,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811016,
+		"ItemId": 7,
+		"ItemNum": 10000,
+		"OddClient": "11.03%",
+		"Sort": 32,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811017,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811018,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811019,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811020,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811021,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811022,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811023,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811024,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811025,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811026,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811027,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811028,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811029,
+		"ItemId": 3112017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811030,
+		"ItemId": 3113017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811031,
+		"ItemId": 3060006,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811032,
+		"ItemId": 3060106,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 16,
+		"Type": 2
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811033,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 16,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811034,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811035,
+		"ItemId": 2310003,
+		"ItemNum": 5,
+		"OddClient": "4.72%",
+		"Sort": 18,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811036,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "6.53%",
+		"Sort": 19,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811037,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 20,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811038,
+		"ItemId": 1103,
+		"ItemNum": 1,
+		"OddClient": "2.02%",
+		"Sort": 21,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811039,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "9.22%",
+		"Sort": 22,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811040,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811041,
+		"ItemId": 262,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811042,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811043,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811044,
+		"ItemId": 2022,
+		"ItemNum": 3,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811045,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "4.72%",
+		"Sort": 28,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811046,
+		"ItemId": 2200503,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 29,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811047,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "4.72%",
+		"Sort": 30,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811048,
+		"ItemId": 7,
+		"ItemNum": 50000,
+		"OddClient": "11.03%",
+		"Sort": 31,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811049,
+		"ItemId": 3072010,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811050,
+		"ItemId": 1606,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811051,
+		"ItemId": 3071012,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811052,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811053,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811054,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811055,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811056,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811057,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811058,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811059,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.80%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811060,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811061,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811062,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 1
+	},
+	{
+		"ActId": 25811,
+		"Id": 25811063,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611001,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611002,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 18,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611003,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"OddClient": "2.93%",
+		"Sort": 19,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611004,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 20,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611005,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 21,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611006,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "5.62%",
+		"Sort": 22,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611007,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611008,
+		"ItemId": 261,
+		"ItemNum": 2,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611009,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611010,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611011,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611012,
+		"ItemId": 2200251,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 28,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611013,
+		"ItemId": 2200252,
+		"ItemNum": 1,
+		"OddClient": "4.72%",
+		"Sort": 29,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611014,
+		"ItemId": 2200253,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 30,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611015,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "7.42%",
+		"Sort": 31,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611016,
+		"ItemId": 7,
+		"ItemNum": 10000,
+		"OddClient": "11.03%",
+		"Sort": 32,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611017,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611018,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611019,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611020,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611021,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611022,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611023,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611024,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611025,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611026,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611027,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611028,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611029,
+		"ItemId": 3112017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611030,
+		"ItemId": 3113017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611031,
+		"ItemId": 3060006,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611032,
+		"ItemId": 3060106,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 16,
+		"Type": 2
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611033,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 16,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611034,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611035,
+		"ItemId": 2310003,
+		"ItemNum": 5,
+		"OddClient": "4.72%",
+		"Sort": 18,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611036,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "6.53%",
+		"Sort": 19,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611037,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 20,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611038,
+		"ItemId": 1103,
+		"ItemNum": 1,
+		"OddClient": "2.02%",
+		"Sort": 21,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611039,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "9.22%",
+		"Sort": 22,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611040,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611041,
+		"ItemId": 262,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611042,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611043,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611044,
+		"ItemId": 2022,
+		"ItemNum": 3,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611045,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "4.72%",
+		"Sort": 28,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611046,
+		"ItemId": 2200503,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 29,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611047,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "4.72%",
+		"Sort": 30,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611048,
+		"ItemId": 7,
+		"ItemNum": 50000,
+		"OddClient": "11.03%",
+		"Sort": 31,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611049,
+		"ItemId": 3072010,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611050,
+		"ItemId": 1606,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611051,
+		"ItemId": 3071012,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611052,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611053,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611054,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611055,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611056,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611057,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611058,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611059,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.80%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611060,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611061,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611062,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 1
+	},
+	{
+		"ActId": 27611,
+		"Id": 27611063,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511001,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511002,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 18,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511003,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"OddClient": "2.93%",
+		"Sort": 19,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511004,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 20,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511005,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 21,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511006,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "5.62%",
+		"Sort": 22,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511007,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511008,
+		"ItemId": 261,
+		"ItemNum": 2,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511009,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511010,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511011,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511012,
+		"ItemId": 2200251,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 28,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511013,
+		"ItemId": 2200252,
+		"ItemNum": 1,
+		"OddClient": "4.72%",
+		"Sort": 29,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511014,
+		"ItemId": 2200253,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 30,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511015,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "7.42%",
+		"Sort": 31,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511016,
+		"ItemId": 7,
+		"ItemNum": 10000,
+		"OddClient": "11.03%",
+		"Sort": 32,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511017,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511018,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511019,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511020,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511021,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511022,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511023,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511024,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511025,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511026,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511027,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511028,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511029,
+		"ItemId": 3112017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511030,
+		"ItemId": 3113017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511031,
+		"ItemId": 3060006,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511032,
+		"ItemId": 3060106,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 16,
+		"Type": 2
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511033,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 16,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511034,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511035,
+		"ItemId": 2310003,
+		"ItemNum": 5,
+		"OddClient": "4.72%",
+		"Sort": 18,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511036,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "6.53%",
+		"Sort": 19,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511037,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 20,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511038,
+		"ItemId": 1103,
+		"ItemNum": 1,
+		"OddClient": "2.02%",
+		"Sort": 21,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511039,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "9.22%",
+		"Sort": 22,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511040,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511041,
+		"ItemId": 262,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511042,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511043,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511044,
+		"ItemId": 2022,
+		"ItemNum": 3,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511045,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "4.72%",
+		"Sort": 28,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511046,
+		"ItemId": 2200503,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 29,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511047,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "4.72%",
+		"Sort": 30,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511048,
+		"ItemId": 7,
+		"ItemNum": 50000,
+		"OddClient": "11.03%",
+		"Sort": 31,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511049,
+		"ItemId": 3072010,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511050,
+		"ItemId": 1606,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511051,
+		"ItemId": 3071012,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511052,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511053,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511054,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511055,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511056,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511057,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511058,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511059,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.80%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511060,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511061,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511062,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 1
+	},
+	{
+		"ActId": 29511,
+		"Id": 29511063,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411001,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411002,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 18,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411003,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"OddClient": "2.93%",
+		"Sort": 19,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411004,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 20,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411005,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 21,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411006,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "5.62%",
+		"Sort": 22,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411007,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411008,
+		"ItemId": 261,
+		"ItemNum": 2,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411009,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411010,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411011,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411012,
+		"ItemId": 2200251,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 28,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411013,
+		"ItemId": 2200252,
+		"ItemNum": 1,
+		"OddClient": "4.72%",
+		"Sort": 29,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411014,
+		"ItemId": 2200253,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 30,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411015,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "7.42%",
+		"Sort": 31,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411016,
+		"ItemId": 7,
+		"ItemNum": 10000,
+		"OddClient": "11.03%",
+		"Sort": 32,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411017,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411018,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411019,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411020,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411021,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411022,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411023,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411024,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411025,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411026,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411027,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411028,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411029,
+		"ItemId": 3112017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411030,
+		"ItemId": 3113017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411031,
+		"ItemId": 3060006,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411032,
+		"ItemId": 3060106,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 16,
+		"Type": 2
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411033,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 16,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411034,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411035,
+		"ItemId": 2310003,
+		"ItemNum": 5,
+		"OddClient": "4.72%",
+		"Sort": 18,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411036,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "6.53%",
+		"Sort": 19,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411037,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 20,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411038,
+		"ItemId": 1103,
+		"ItemNum": 1,
+		"OddClient": "2.02%",
+		"Sort": 21,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411039,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "9.22%",
+		"Sort": 22,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411040,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411041,
+		"ItemId": 262,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411042,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411043,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411044,
+		"ItemId": 2022,
+		"ItemNum": 3,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411045,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "4.72%",
+		"Sort": 28,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411046,
+		"ItemId": 2200503,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 29,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411047,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "4.72%",
+		"Sort": 30,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411048,
+		"ItemId": 7,
+		"ItemNum": 50000,
+		"OddClient": "11.03%",
+		"Sort": 31,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411049,
+		"ItemId": 3072010,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411050,
+		"ItemId": 1606,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411051,
+		"ItemId": 3071012,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411052,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411053,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411054,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411055,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411056,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411057,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411058,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411059,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.80%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411060,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411061,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411062,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 1
+	},
+	{
+		"ActId": 31411,
+		"Id": 31411063,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211001,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211002,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 18,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211003,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"OddClient": "2.93%",
+		"Sort": 19,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211004,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 20,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211005,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 21,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211006,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "5.62%",
+		"Sort": 22,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211007,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211008,
+		"ItemId": 261,
+		"ItemNum": 2,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211009,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211010,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211011,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211012,
+		"ItemId": 2200251,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 28,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211013,
+		"ItemId": 2200252,
+		"ItemNum": 1,
+		"OddClient": "4.72%",
+		"Sort": 29,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211014,
+		"ItemId": 2200253,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 30,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211015,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "7.42%",
+		"Sort": 31,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211016,
+		"ItemId": 7,
+		"ItemNum": 10000,
+		"OddClient": "11.03%",
+		"Sort": 32,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211017,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211018,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211019,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211020,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211021,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211022,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.43%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211023,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211024,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.62%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211025,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211026,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211027,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211028,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "0.73%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211029,
+		"ItemId": 3112017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211030,
+		"ItemId": 3113017,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211031,
+		"ItemId": 3060006,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211032,
+		"ItemId": 3060106,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 16,
+		"Type": 2
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211033,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 16,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211034,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 17,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211035,
+		"ItemId": 2310003,
+		"ItemNum": 5,
+		"OddClient": "4.72%",
+		"Sort": 18,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211036,
+		"ItemId": 1101,
+		"ItemNum": 1,
+		"OddClient": "6.53%",
+		"Sort": 19,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211037,
+		"ItemId": 1102,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 20,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211038,
+		"ItemId": 1103,
+		"ItemNum": 1,
+		"OddClient": "2.02%",
+		"Sort": 21,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211039,
+		"ItemId": 2200401,
+		"ItemNum": 5,
+		"OddClient": "9.22%",
+		"Sort": 22,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211040,
+		"ItemId": 2200402,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 23,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211041,
+		"ItemId": 262,
+		"ItemNum": 1,
+		"OddClient": "5.62%",
+		"Sort": 24,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211042,
+		"ItemId": 2021,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 25,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211043,
+		"ItemId": 2006,
+		"ItemNum": 10,
+		"OddClient": "5.62%",
+		"Sort": 26,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211044,
+		"ItemId": 2022,
+		"ItemNum": 3,
+		"OddClient": "5.62%",
+		"Sort": 27,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211045,
+		"ItemId": 2005,
+		"ItemNum": 100,
+		"OddClient": "4.72%",
+		"Sort": 28,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211046,
+		"ItemId": 2200503,
+		"ItemNum": 1,
+		"OddClient": "3.82%",
+		"Sort": 29,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211047,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"OddClient": "4.72%",
+		"Sort": 30,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211048,
+		"ItemId": 7,
+		"ItemNum": 50000,
+		"OddClient": "11.03%",
+		"Sort": 31,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211049,
+		"ItemId": 3072010,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 1,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211050,
+		"ItemId": 1606,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 2,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211051,
+		"ItemId": 3071012,
+		"ItemNum": 1,
+		"OddClient": "0.33%",
+		"PrizeType": 1,
+		"Sort": 3,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211052,
+		"ItemId": 3072008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 4,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211053,
+		"ItemId": 1604,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 5,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211054,
+		"ItemId": 3070008,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 6,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211055,
+		"ItemId": 3071009,
+		"ItemNum": 1,
+		"OddClient": "0.45%",
+		"PrizeType": 1,
+		"Sort": 7,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211056,
+		"ItemId": 3113020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 8,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211057,
+		"ItemId": 3112020,
+		"ItemNum": 1,
+		"OddClient": "0.40%",
+		"PrizeType": 1,
+		"Sort": 9,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211058,
+		"ItemId": 3112013,
+		"ItemNum": 1,
+		"OddClient": "0.83%",
+		"PrizeType": 1,
+		"Sort": 10,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211059,
+		"ItemId": 3113013,
+		"ItemNum": 1,
+		"OddClient": "0.80%",
+		"PrizeType": 1,
+		"Sort": 11,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211060,
+		"ItemId": 3011011,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 12,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211061,
+		"ItemId": 1539,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 13,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211062,
+		"ItemId": 3011012,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 14,
+		"Type": 1
+	},
+	{
+		"ActId": 34211,
+		"Id": 34211063,
+		"ItemId": 1540,
+		"ItemNum": 1,
+		"OddClient": "1.20%",
+		"PrizeType": 1,
+		"Sort": 15,
+		"Type": 1
+	}
+]

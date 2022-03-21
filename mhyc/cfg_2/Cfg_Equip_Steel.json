@@ -1,0 +1,177 @@
+[
+	{
+		"AttrAdd": 1000,
+		"GoldCost": "1101:1",
+		"GoldRate": 10000,
+		"Item": "2200401:1",
+		"Level": 1,
+		"Rate": 10000
+	},
+	{
+		"AttrAdd": 1500,
+		"GoldCost": "1102:1",
+		"GoldRate": 10000,
+		"Item": "2200401:2",
+		"Level": 2,
+		"Rate": 9500
+	},
+	{
+		"AttrAdd": 2000,
+		"GoldCost": "1103:1",
+		"GoldRate": 10000,
+		"Item": "2200401:3",
+		"Level": 3,
+		"Rate": 9000
+	},
+	{
+		"AttrAdd": 2500,
+		"GoldCost": "1104:1",
+		"GoldRate": 10000,
+		"Item": "2200401:4",
+		"Level": 4,
+		"Rate": 8500
+	},
+	{
+		"AttrAdd": 3000,
+		"GoldCost": "1105:1",
+		"GoldRate": 10000,
+		"Item": "2200401:5",
+		"Level": 5,
+		"Rate": 7500
+	},
+	{
+		"AttrAdd": 4000,
+		"GoldCost": "1106:1",
+		"GoldRate": 10000,
+		"Item": "2200401:10",
+		"Level": 6,
+		"Rate": 7000,
+		"Reborn": 1
+	},
+	{
+		"AttrAdd": 5000,
+		"GoldCost": "1107:1",
+		"GoldRate": 10000,
+		"Item": "2200401:15",
+		"Level": 7,
+		"Rate": 6500,
+		"Reborn": 1
+	},
+	{
+		"AttrAdd": 6000,
+		"GoldCost": "1108:1",
+		"GoldRate": 10000,
+		"Item": "2200401:20",
+		"Level": 8,
+		"Rate": 6000,
+		"Reborn": 1
+	},
+	{
+		"AttrAdd": 7500,
+		"GoldCost": "1109:1",
+		"GoldRate": 10000,
+		"Item": "2200401:25",
+		"Level": 9,
+		"Rate": 5500,
+		"Reborn": 2
+	},
+	{
+		"AttrAdd": 10000,
+		"GoldCost": "1110:1",
+		"GoldRate": 10000,
+		"Item": "2200401:30",
+		"Level": 10,
+		"Rate": 4500,
+		"Reborn": 2
+	},
+	{
+		"AttrAdd": 12500,
+		"GoldCost": "1111:1",
+		"GoldRate": 10000,
+		"Item": "2200401:50",
+		"Level": 11,
+		"Rate": 4000,
+		"Reborn": 2
+	},
+	{
+		"AttrAdd": 16500,
+		"GoldCost": "1112:1",
+		"GoldRate": 10000,
+		"Item": "2200401:65",
+		"Level": 12,
+		"Rate": 3800,
+		"Reborn": 2
+	},
+	{
+		"AttrAdd": 20000,
+		"GoldCost": "1113:1",
+		"GoldRate": 10000,
+		"Item": "2200401:80",
+		"Level": 13,
+		"Rate": 3600,
+		"Reborn": 3
+	},
+	{
+		"AttrAdd": 23500,
+		"GoldCost": "1114:1",
+		"GoldRate": 10000,
+		"Item": "2200401:95",
+		"Level": 14,
+		"Rate": 3300,
+		"Reborn": 3
+	},
+	{
+		"AttrAdd": 28000,
+		"GoldCost": "1115:1",
+		"GoldRate": 10000,
+		"Item": "2200401:110",
+		"Level": 15,
+		"Rate": 3000,
+		"Reborn": 3
+	},
+	{
+		"AttrAdd": 34000,
+		"GoldCost": "1116:1",
+		"GoldRate": 10000,
+		"Item": "2200401:200",
+		"Level": 16,
+		"Rate": 2500,
+		"Reborn": 4
+	},
+	{
+		"AttrAdd": 43000,
+		"GoldCost": "1117:1",
+		"GoldRate": 10000,
+		"Item": "2200401:300",
+		"Level": 17,
+		"Rate": 2300,
+		"Reborn": 4
+	},
+	{
+		"AttrAdd": 56000,
+		"GoldCost": "1118:1",
+		"GoldRate": 10000,
+		"Item": "2200401:400",
+		"Level": 18,
+		"Rate": 2000,
+		"Reborn": 5
+	},
+	{
+		"AttrAdd": 76000,
+		"GoldCost": "1119:1",
+		"GoldRate": 10000,
+		"Item": "2200401:500",
+		"Level": 19,
+		"Rate": 1800,
+		"Reborn": 5
+	},
+	{
+		"AttrAdd": 106000,
+		"GoldCost": "1120:1",
+		"GoldRate": 10000,
+		"Item": "2200401:600",
+		"Level": 20,
+		"Rate": 1500,
+		"Reborn": 5
+	}
+]

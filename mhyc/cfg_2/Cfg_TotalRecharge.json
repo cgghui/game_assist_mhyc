@@ -1,0 +1,89 @@
+[
+	{
+		"AniType": 1,
+		"Day": 1,
+		"Id": 1,
+		"ItemStr": "2020202:1|321:1|2250303:3|2250301:10|2:600",
+		"Recharge": 6,
+		"ResId": "e/newAct/gftAct/thmGft/ui_6854",
+		"Stage": 1
+	},
+	{
+		"AniType": 1,
+		"Day": 2,
+		"Id": 2,
+		"ItemStr": "351:1|3000:1|2250203:3|2250201:10|2:800",
+		"Recharge": 6,
+		"ResId": "e/newAct/gftAct/thmGft/ui_6854",
+		"Stage": 1
+	},
+	{
+		"AniType": 1,
+		"Day": 3,
+		"Id": 3,
+		"ItemStr": "351:2|3000:2|2401111:5|2040001:10|2:1000",
+		"Recharge": 6,
+		"ResId": "e/newAct/gftAct/thmGft/ui_6854",
+		"Stage": 1
+	},
+	{
+		"AniType": 2,
+		"Day": 1,
+		"Id": 4,
+		"ItemStr": "352:1|322:1|2250303:5|2250301:30|2:1300",
+		"Recharge": 98,
+		"ResId": "4196",
+		"ResType": 157,
+		"Stage": 2
+	},
+	{
+		"AniType": 2,
+		"Day": 2,
+		"Id": 5,
+		"ItemStr": "1601:1|500:10|2250203:5|2250201:30|2:1600",
+		"Recharge": 98,
+		"ResId": "4196",
+		"ResType": 157,
+		"Stage": 2
+	},
+	{
+		"AniType": 2,
+		"Day": 3,
+		"Id": 6,
+		"ItemStr": "4010101:20|500:10|2401111:10|2040001:30|2:2000",
+		"Recharge": 98,
+		"ResId": "4196",
+		"ResType": 157,
+		"Stage": 2
+	},
+	{
+		"AniType": 2,
+		"Day": 1,
+		"Id": 7,
+		"ItemStr": "352:2|322:2|2250303:10|2250301:50|2:2500",
+		"Recharge": 198,
+		"ResId": "2042",
+		"ResType": 24,
+		"Stage": 3
+	},
+	{
+		"AniType": 2,
+		"Day": 2,
+		"Id": 8,
+		"ItemStr": "2250202:5|501:10|2250203:10|2250201:50|2:3000",
+		"Recharge": 198,
+		"ResId": "2042",
+		"ResType": 24,
+		"Stage": 3
+	},
+	{
+		"AniType": 2,
+		"Day": 3,
+		"Id": 9,
+		"ItemStr": "2040243:1|501:10|2401111:15|2040001:50|2:3800",
+		"Recharge": 198,
+		"ResId": "2042",
+		"ResType": 24,
+		"Stage": 3
+	}
+]

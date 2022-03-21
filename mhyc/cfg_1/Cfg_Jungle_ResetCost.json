@@ -1,0 +1,32 @@
+[
+	{
+		"Coin_Num": 1000,
+		"Coin_Type": 2,
+		"Times": 1,
+		"VipLimit": 10
+	},
+	{
+		"Coin_Num": 100,
+		"Coin_Type": 1,
+		"Times": 2,
+		"VipLimit": 15
+	},
+	{
+		"Coin_Num": 300,
+		"Coin_Type": 1,
+		"Times": 3,
+		"VipLimit": 20
+	},
+	{
+		"Coin_Num": 500,
+		"Coin_Type": 1,
+		"Times": 4,
+		"VipLimit": 23
+	},
+	{
+		"Coin_Num": 1000,
+		"Coin_Type": 1,
+		"Times": 5,
+		"VipLimit": 25
+	}
+]

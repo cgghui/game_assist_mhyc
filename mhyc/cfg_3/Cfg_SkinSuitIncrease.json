@@ -1,0 +1,542 @@
+[
+	{
+		"SkillId": "2561",
+		"SkillLevel": "1",
+		"SuitId": 1,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "2",
+		"SuitId": 1,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "3",
+		"SuitId": 1,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "4",
+		"SuitId": 1,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "5",
+		"SuitId": 1,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "6",
+		"SuitId": 1,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "7",
+		"SuitId": 1,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "8",
+		"SuitId": 1,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "9",
+		"SuitId": 1,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2561",
+		"SkillLevel": "10",
+		"SuitId": 1,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "1",
+		"SuitId": 2,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "2",
+		"SuitId": 2,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "3",
+		"SuitId": 2,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "4",
+		"SuitId": 2,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "5",
+		"SuitId": 2,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "6",
+		"SuitId": 2,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "7",
+		"SuitId": 2,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "8",
+		"SuitId": 2,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "9",
+		"SuitId": 2,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2551",
+		"SkillLevel": "10",
+		"SuitId": 2,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "1",
+		"SuitId": 3,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "2",
+		"SuitId": 3,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "3",
+		"SuitId": 3,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "4",
+		"SuitId": 3,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "5",
+		"SuitId": 3,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "6",
+		"SuitId": 3,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "7",
+		"SuitId": 3,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "8",
+		"SuitId": 3,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "9",
+		"SuitId": 3,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2571",
+		"SkillLevel": "10",
+		"SuitId": 3,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "1",
+		"SuitId": 4,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "2",
+		"SuitId": 4,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "3",
+		"SuitId": 4,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "4",
+		"SuitId": 4,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "5",
+		"SuitId": 4,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "6",
+		"SuitId": 4,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "7",
+		"SuitId": 4,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "8",
+		"SuitId": 4,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "9",
+		"SuitId": 4,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2581",
+		"SkillLevel": "10",
+		"SuitId": 4,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "1",
+		"SuitId": 6,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "2",
+		"SuitId": 6,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "3",
+		"SuitId": 6,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "4",
+		"SuitId": 6,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "5",
+		"SuitId": 6,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "6",
+		"SuitId": 6,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "7",
+		"SuitId": 6,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "8",
+		"SuitId": 6,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "9",
+		"SuitId": 6,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2601",
+		"SkillLevel": "10",
+		"SuitId": 6,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "1",
+		"SuitId": 7,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "2",
+		"SuitId": 7,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "3",
+		"SuitId": 7,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "4",
+		"SuitId": 7,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "5",
+		"SuitId": 7,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "6",
+		"SuitId": 7,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "7",
+		"SuitId": 7,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "8",
+		"SuitId": 7,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "9",
+		"SuitId": 7,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2591",
+		"SkillLevel": "10",
+		"SuitId": 7,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "1",
+		"SuitId": 8,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "2",
+		"SuitId": 8,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "3",
+		"SuitId": 8,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "4",
+		"SuitId": 8,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "5",
+		"SuitId": 8,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "6",
+		"SuitId": 8,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "7",
+		"SuitId": 8,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "8",
+		"SuitId": 8,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "9",
+		"SuitId": 8,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2611",
+		"SkillLevel": "10",
+		"SuitId": 8,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "1",
+		"SuitId": 10,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "2",
+		"SuitId": 10,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "3",
+		"SuitId": 10,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "4",
+		"SuitId": 10,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "5",
+		"SuitId": 10,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "6",
+		"SuitId": 10,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "7",
+		"SuitId": 10,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "8",
+		"SuitId": 10,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "9",
+		"SuitId": 10,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2621",
+		"SkillLevel": "10",
+		"SuitId": 10,
+		"SuitLevel": 10
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "1",
+		"SuitId": 11,
+		"SuitLevel": 1
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "2",
+		"SuitId": 11,
+		"SuitLevel": 2
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "3",
+		"SuitId": 11,
+		"SuitLevel": 3
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "4",
+		"SuitId": 11,
+		"SuitLevel": 4
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "5",
+		"SuitId": 11,
+		"SuitLevel": 5
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "6",
+		"SuitId": 11,
+		"SuitLevel": 6
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "7",
+		"SuitId": 11,
+		"SuitLevel": 7
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "8",
+		"SuitId": 11,
+		"SuitLevel": 8
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "9",
+		"SuitId": 11,
+		"SuitLevel": 9
+	},
+	{
+		"SkillId": "2631",
+		"SkillLevel": "10",
+		"SuitId": 11,
+		"SuitLevel": 10
+	}
+]

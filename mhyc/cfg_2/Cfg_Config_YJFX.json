@@ -1,0 +1,90 @@
+[
+	{
+		"CfgKey": "MatchStartTime",
+		"CfgValue": "20:00"
+	},
+	{
+		"CfgKey": "TotalDistance",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "StartSpeedMin",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "StartSpeedMax",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "StartSpeedEachPerson",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "YunGongMax",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "YunGongEachPerson",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "YunGongCost",
+		"CfgValue": "3:10000000"
+	},
+	{
+		"CfgKey": "YunGongGet",
+		"CfgValue": "965:1|2:1000|2060199:100"
+	},
+	{
+		"CfgKey": "MatchStartReward",
+		"CfgValue": "965:1"
+	},
+	{
+		"CfgKey": "MatchCompleteRewardId",
+		"CfgValue": "2015"
+	},
+	{
+		"CfgKey": "StartDurable",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "StartDurableSpeed",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "StartDurableSpeedeTimes",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "PVECD",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ShowReward",
+		"CfgValue": "2020"
+	},
+	{
+		"CfgKey": "BossHurtRate1",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "BossHurtRate2",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "infoSword1",
+		"CfgValue": "-60|-400|0.8|50"
+	},
+	{
+		"CfgKey": "infoSword2",
+		"CfgValue": "20|-220|0.7|100"
+	},
+	{
+		"CfgKey": "infoSword3",
+		"CfgValue": "-100|-20|0.6|120"
+	},
+	{
+		"CfgKey": "infoSword4",
+		"CfgValue": "110|180|0.6|140"
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"Id": 1,
+		"Name": "宠物圣痕",
+		"PicPath": "ui_8186",
+		"RedDot": 40041
+	},
+	{
+		"Id": 2,
+		"Name": "天仙圣痕",
+		"PicPath": "ui_8187",
+		"PrevSWId": 1,
+		"RedDot": 40042,
+		"Unlock": 5
+	},
+	{
+		"Id": 3,
+		"Name": "战神圣痕",
+		"PicPath": "ui_8188",
+		"PrevSWId": 2,
+		"RedDot": 40043,
+		"Unlock": 5
+	},
+	{
+		"Id": 4,
+		"Name": "仙童圣痕",
+		"PicPath": "ui_8189",
+		"PrevSWId": 3,
+		"RedDot": 40044,
+		"Unlock": 5
+	},
+	{
+		"Id": 5,
+		"Name": "偃甲圣痕",
+		"PicPath": "ui_8190",
+		"PrevSWId": 4,
+		"RedDot": 40045,
+		"Unlock": 5
+	},
+	{
+		"Id": 6,
+		"Name": "英雄圣痕",
+		"PicPath": "ui_8191",
+		"PrevSWId": 5,
+		"RedDot": 40046,
+		"Unlock": 5
+	}
+]

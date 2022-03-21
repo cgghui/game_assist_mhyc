@@ -1,0 +1,106 @@
+[
+	{
+		"Exp": 1000,
+		"GenTaskMaxQuality": 3,
+		"GenTaskTotalNum": 5,
+		"Level": 1,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 2000,
+		"GenTaskMaxQuality": 3,
+		"GenTaskTotalNum": 6,
+		"Level": 2,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 4000,
+		"GenTaskMaxQuality": 3,
+		"GenTaskTotalNum": 7,
+		"Level": 3,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 7000,
+		"GenTaskMaxQuality": 4,
+		"GenTaskTotalNum": 7,
+		"Level": 4,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 11000,
+		"GenTaskMaxQuality": 4,
+		"GenTaskTotalNum": 8,
+		"Level": 5,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 16000,
+		"GenTaskMaxQuality": 4,
+		"GenTaskTotalNum": 9,
+		"Level": 6,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 22000,
+		"GenTaskMaxQuality": 5,
+		"GenTaskTotalNum": 9,
+		"Level": 7,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 29000,
+		"GenTaskMaxQuality": 5,
+		"GenTaskTotalNum": 10,
+		"Level": 8,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 37000,
+		"GenTaskMaxQuality": 5,
+		"GenTaskTotalNum": 11,
+		"Level": 9,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 46000,
+		"GenTaskMaxQuality": 6,
+		"GenTaskTotalNum": 11,
+		"Level": 10,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 56000,
+		"GenTaskMaxQuality": 6,
+		"GenTaskTotalNum": 12,
+		"Level": 11,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 67000,
+		"GenTaskMaxQuality": 6,
+		"GenTaskTotalNum": 13,
+		"Level": 12,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 79000,
+		"GenTaskMaxQuality": 7,
+		"GenTaskTotalNum": 13,
+		"Level": 13,
+		"RefreshItem": "2:100"
+	},
+	{
+		"Exp": 92000,
+		"GenTaskMaxQuality": 7,
+		"GenTaskTotalNum": 14,
+		"Level": 14,
+		"RefreshItem": "2:100"
+	},
+	{
+		"GenTaskMaxQuality": 7,
+		"GenTaskTotalNum": 15,
+		"Level": 15,
+		"RefreshItem": "2:100"
+	}
+]

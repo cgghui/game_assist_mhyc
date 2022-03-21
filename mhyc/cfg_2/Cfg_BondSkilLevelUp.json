@@ -1,0 +1,182 @@
+[
+	{
+		"BondId": 1,
+		"ItemData": "2080322:1",
+		"Level": 1,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:2",
+		"Level": 2,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:3",
+		"Level": 3,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:4",
+		"Level": 4,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:5",
+		"Level": 5,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:6",
+		"Level": 6,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:7",
+		"Level": 7,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:8",
+		"Level": 8,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:9",
+		"Level": 9,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 1,
+		"ItemData": "2080322:10",
+		"Level": 10,
+		"SkillId": 10361
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:1",
+		"Level": 1,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:2",
+		"Level": 2,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:3",
+		"Level": 3,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:4",
+		"Level": 4,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:5",
+		"Level": 5,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:6",
+		"Level": 6,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:7",
+		"Level": 7,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:8",
+		"Level": 8,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:9",
+		"Level": 9,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 2,
+		"ItemData": "2080321:10",
+		"Level": 10,
+		"SkillId": 10362
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:1",
+		"Level": 1,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:2",
+		"Level": 2,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:3",
+		"Level": 3,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:4",
+		"Level": 4,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:5",
+		"Level": 5,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:6",
+		"Level": 6,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:7",
+		"Level": 7,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:8",
+		"Level": 8,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:9",
+		"Level": 9,
+		"SkillId": 10363
+	},
+	{
+		"BondId": 3,
+		"ItemData": "2080323:10",
+		"Level": 10,
+		"SkillId": 10363
+	}
+]

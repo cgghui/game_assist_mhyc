@@ -1,0 +1,38 @@
+[
+	{
+		"CounterType": 114,
+		"GetCondition": "7:0",
+		"Id": 1,
+		"Note": "周长积分40分",
+		"Prize": "2251004:3",
+		"TargetCount": 40,
+		"Type": 2
+	},
+	{
+		"CounterType": 114,
+		"GetCondition": "7:0",
+		"Id": 2,
+		"Note": "周长积分100分",
+		"Prize": "2:500",
+		"TargetCount": 100,
+		"Type": 2
+	},
+	{
+		"CounterType": 114,
+		"GetCondition": "7:0",
+		"Id": 3,
+		"Note": "周长积分200分",
+		"Prize": "102:1",
+		"TargetCount": 200,
+		"Type": 2
+	},
+	{
+		"CounterType": 114,
+		"GetCondition": "7:0",
+		"Id": 4,
+		"Note": "周长积分300分",
+		"Prize": "2200203:3",
+		"TargetCount": 260,
+		"Type": 2
+	}
+]

@@ -1,0 +1,1201 @@
+[
+	{
+		"AttrPer": 10000,
+		"FuncId": 28,
+		"Lev": 1
+	},
+	{
+		"AttrPer": 11000,
+		"FuncId": 28,
+		"Lev": 2,
+		"NeedItem": "2041002:1"
+	},
+	{
+		"AttrPer": 11200,
+		"FuncId": 28,
+		"Lev": 3,
+		"NeedItem": "2041002:3"
+	},
+	{
+		"AttrPer": 11500,
+		"FuncId": 28,
+		"Lev": 4,
+		"NeedItem": "2041002:6"
+	},
+	{
+		"AttrPer": 11900,
+		"FuncId": 28,
+		"Lev": 5,
+		"NeedItem": "2041002:10"
+	},
+	{
+		"AttrPer": 12400,
+		"FuncId": 28,
+		"Lev": 6,
+		"NeedItem": "2041002:15"
+	},
+	{
+		"AttrPer": 13000,
+		"FuncId": 28,
+		"Lev": 7,
+		"NeedItem": "2041002:21"
+	},
+	{
+		"AttrPer": 13700,
+		"FuncId": 28,
+		"Lev": 8,
+		"NeedItem": "2041002:28"
+	},
+	{
+		"AttrPer": 14500,
+		"FuncId": 28,
+		"Lev": 9,
+		"NeedItem": "2041002:36"
+	},
+	{
+		"AttrPer": 15400,
+		"FuncId": 28,
+		"Lev": 10,
+		"NeedItem": "2041002:45"
+	},
+	{
+		"AttrPer": 16400,
+		"FuncId": 28,
+		"Lev": 11,
+		"NeedItem": "2041002:55"
+	},
+	{
+		"AttrPer": 17500,
+		"FuncId": 28,
+		"Lev": 12,
+		"NeedItem": "2041002:66"
+	},
+	{
+		"AttrPer": 18700,
+		"FuncId": 28,
+		"Lev": 13,
+		"NeedItem": "2041002:78"
+	},
+	{
+		"AttrPer": 20000,
+		"FuncId": 28,
+		"Lev": 14,
+		"NeedItem": "2041002:91"
+	},
+	{
+		"AttrPer": 21400,
+		"FuncId": 28,
+		"Lev": 15,
+		"NeedItem": "2041002:105"
+	},
+	{
+		"AttrPer": 22900,
+		"FuncId": 28,
+		"Lev": 16,
+		"NeedItem": "2041002:120"
+	},
+	{
+		"AttrPer": 24500,
+		"FuncId": 28,
+		"Lev": 17,
+		"NeedItem": "2041002:136"
+	},
+	{
+		"AttrPer": 26200,
+		"FuncId": 28,
+		"Lev": 18,
+		"NeedItem": "2041002:153"
+	},
+	{
+		"AttrPer": 28000,
+		"FuncId": 28,
+		"Lev": 19,
+		"NeedItem": "2041002:171"
+	},
+	{
+		"AttrPer": 29900,
+		"FuncId": 28,
+		"Lev": 20,
+		"NeedItem": "2041002:190"
+	},
+	{
+		"AttrPer": 31900,
+		"FuncId": 28,
+		"Lev": 21,
+		"NeedItem": "2041002:210"
+	},
+	{
+		"AttrPer": 34000,
+		"FuncId": 28,
+		"Lev": 22,
+		"NeedItem": "2041002:231"
+	},
+	{
+		"AttrPer": 36200,
+		"FuncId": 28,
+		"Lev": 23,
+		"NeedItem": "2041002:253"
+	},
+	{
+		"AttrPer": 38500,
+		"FuncId": 28,
+		"Lev": 24,
+		"NeedItem": "2041002:276"
+	},
+	{
+		"AttrPer": 40900,
+		"FuncId": 28,
+		"Lev": 25,
+		"NeedItem": "2041002:300"
+	},
+	{
+		"AttrPer": 43400,
+		"FuncId": 28,
+		"Lev": 26,
+		"NeedItem": "2041002:325"
+	},
+	{
+		"AttrPer": 46000,
+		"FuncId": 28,
+		"Lev": 27,
+		"NeedItem": "2041002:351"
+	},
+	{
+		"AttrPer": 48700,
+		"FuncId": 28,
+		"Lev": 28,
+		"NeedItem": "2041002:378"
+	},
+	{
+		"AttrPer": 51500,
+		"FuncId": 28,
+		"Lev": 29,
+		"NeedItem": "2041002:406"
+	},
+	{
+		"AttrPer": 54400,
+		"FuncId": 28,
+		"Lev": 30,
+		"NeedItem": "2041002:435"
+	},
+	{
+		"AttrPer": 57400,
+		"FuncId": 28,
+		"Lev": 31,
+		"NeedItem": "2041002:465"
+	},
+	{
+		"AttrPer": 60500,
+		"FuncId": 28,
+		"Lev": 32,
+		"NeedItem": "2041002:496"
+	},
+	{
+		"AttrPer": 63700,
+		"FuncId": 28,
+		"Lev": 33,
+		"NeedItem": "2041002:528"
+	},
+	{
+		"AttrPer": 67000,
+		"FuncId": 28,
+		"Lev": 34,
+		"NeedItem": "2041002:561"
+	},
+	{
+		"AttrPer": 70400,
+		"FuncId": 28,
+		"Lev": 35,
+		"NeedItem": "2041002:595"
+	},
+	{
+		"AttrPer": 73900,
+		"FuncId": 28,
+		"Lev": 36,
+		"NeedItem": "2041002:630"
+	},
+	{
+		"AttrPer": 77500,
+		"FuncId": 28,
+		"Lev": 37,
+		"NeedItem": "2041002:666"
+	},
+	{
+		"AttrPer": 81200,
+		"FuncId": 28,
+		"Lev": 38,
+		"NeedItem": "2041002:703"
+	},
+	{
+		"AttrPer": 85000,
+		"FuncId": 28,
+		"Lev": 39,
+		"NeedItem": "2041002:741"
+	},
+	{
+		"AttrPer": 88900,
+		"FuncId": 28,
+		"Lev": 40,
+		"NeedItem": "2041002:780"
+	},
+	{
+		"AttrPer": 92900,
+		"FuncId": 28,
+		"Lev": 41,
+		"NeedItem": "2041002:820"
+	},
+	{
+		"AttrPer": 97000,
+		"FuncId": 28,
+		"Lev": 42,
+		"NeedItem": "2041002:861"
+	},
+	{
+		"AttrPer": 101200,
+		"FuncId": 28,
+		"Lev": 43,
+		"NeedItem": "2041002:903"
+	},
+	{
+		"AttrPer": 105500,
+		"FuncId": 28,
+		"Lev": 44,
+		"NeedItem": "2041002:946"
+	},
+	{
+		"AttrPer": 109900,
+		"FuncId": 28,
+		"Lev": 45,
+		"NeedItem": "2041002:990"
+	},
+	{
+		"AttrPer": 114400,
+		"FuncId": 28,
+		"Lev": 46,
+		"NeedItem": "2041002:1035"
+	},
+	{
+		"AttrPer": 119000,
+		"FuncId": 28,
+		"Lev": 47,
+		"NeedItem": "2041002:1081"
+	},
+	{
+		"AttrPer": 123700,
+		"FuncId": 28,
+		"Lev": 48,
+		"NeedItem": "2041002:1128"
+	},
+	{
+		"AttrPer": 128500,
+		"FuncId": 28,
+		"Lev": 49,
+		"NeedItem": "2041002:1176"
+	},
+	{
+		"AttrPer": 133400,
+		"FuncId": 28,
+		"Lev": 50,
+		"NeedItem": "2041002:1225"
+	},
+	{
+		"AttrPer": 138400,
+		"FuncId": 28,
+		"Lev": 51,
+		"NeedItem": "2041002:1275"
+	},
+	{
+		"AttrPer": 143500,
+		"FuncId": 28,
+		"Lev": 52,
+		"NeedItem": "2041002:1326"
+	},
+	{
+		"AttrPer": 148700,
+		"FuncId": 28,
+		"Lev": 53,
+		"NeedItem": "2041002:1378"
+	},
+	{
+		"AttrPer": 154000,
+		"FuncId": 28,
+		"Lev": 54,
+		"NeedItem": "2041002:1431"
+	},
+	{
+		"AttrPer": 159400,
+		"FuncId": 28,
+		"Lev": 55,
+		"NeedItem": "2041002:1485"
+	},
+	{
+		"AttrPer": 164900,
+		"FuncId": 28,
+		"Lev": 56,
+		"NeedItem": "2041002:1540"
+	},
+	{
+		"AttrPer": 170500,
+		"FuncId": 28,
+		"Lev": 57,
+		"NeedItem": "2041002:1596"
+	},
+	{
+		"AttrPer": 176200,
+		"FuncId": 28,
+		"Lev": 58,
+		"NeedItem": "2041002:1653"
+	},
+	{
+		"AttrPer": 182000,
+		"FuncId": 28,
+		"Lev": 59,
+		"NeedItem": "2041002:1711"
+	},
+	{
+		"AttrPer": 187900,
+		"FuncId": 28,
+		"Lev": 60,
+		"NeedItem": "2041002:1770"
+	},
+	{
+		"AttrPer": 193900,
+		"FuncId": 28,
+		"Lev": 61,
+		"NeedItem": "2041002:1830"
+	},
+	{
+		"AttrPer": 200000,
+		"FuncId": 28,
+		"Lev": 62,
+		"NeedItem": "2041002:1891"
+	},
+	{
+		"AttrPer": 206200,
+		"FuncId": 28,
+		"Lev": 63,
+		"NeedItem": "2041002:1953"
+	},
+	{
+		"AttrPer": 212500,
+		"FuncId": 28,
+		"Lev": 64,
+		"NeedItem": "2041002:2016"
+	},
+	{
+		"AttrPer": 218900,
+		"FuncId": 28,
+		"Lev": 65,
+		"NeedItem": "2041002:2080"
+	},
+	{
+		"AttrPer": 225400,
+		"FuncId": 28,
+		"Lev": 66,
+		"NeedItem": "2041002:2145"
+	},
+	{
+		"AttrPer": 232000,
+		"FuncId": 28,
+		"Lev": 67,
+		"NeedItem": "2041002:2211"
+	},
+	{
+		"AttrPer": 238700,
+		"FuncId": 28,
+		"Lev": 68,
+		"NeedItem": "2041002:2278"
+	},
+	{
+		"AttrPer": 245500,
+		"FuncId": 28,
+		"Lev": 69,
+		"NeedItem": "2041002:2346"
+	},
+	{
+		"AttrPer": 252400,
+		"FuncId": 28,
+		"Lev": 70,
+		"NeedItem": "2041002:2415"
+	},
+	{
+		"AttrPer": 259400,
+		"FuncId": 28,
+		"Lev": 71,
+		"NeedItem": "2041002:2485"
+	},
+	{
+		"AttrPer": 266500,
+		"FuncId": 28,
+		"Lev": 72,
+		"NeedItem": "2041002:2556"
+	},
+	{
+		"AttrPer": 273700,
+		"FuncId": 28,
+		"Lev": 73,
+		"NeedItem": "2041002:2628"
+	},
+	{
+		"AttrPer": 281000,
+		"FuncId": 28,
+		"Lev": 74,
+		"NeedItem": "2041002:2701"
+	},
+	{
+		"AttrPer": 288400,
+		"FuncId": 28,
+		"Lev": 75,
+		"NeedItem": "2041002:2775"
+	},
+	{
+		"AttrPer": 295900,
+		"FuncId": 28,
+		"Lev": 76,
+		"NeedItem": "2041002:2850"
+	},
+	{
+		"AttrPer": 303500,
+		"FuncId": 28,
+		"Lev": 77,
+		"NeedItem": "2041002:2926"
+	},
+	{
+		"AttrPer": 311200,
+		"FuncId": 28,
+		"Lev": 78,
+		"NeedItem": "2041002:3003"
+	},
+	{
+		"AttrPer": 319000,
+		"FuncId": 28,
+		"Lev": 79,
+		"NeedItem": "2041002:3081"
+	},
+	{
+		"AttrPer": 326900,
+		"FuncId": 28,
+		"Lev": 80,
+		"NeedItem": "2041002:3160"
+	},
+	{
+		"AttrPer": 334900,
+		"FuncId": 28,
+		"Lev": 81,
+		"NeedItem": "2041002:3240"
+	},
+	{
+		"AttrPer": 343000,
+		"FuncId": 28,
+		"Lev": 82,
+		"NeedItem": "2041002:3321"
+	},
+	{
+		"AttrPer": 351200,
+		"FuncId": 28,
+		"Lev": 83,
+		"NeedItem": "2041002:3403"
+	},
+	{
+		"AttrPer": 359500,
+		"FuncId": 28,
+		"Lev": 84,
+		"NeedItem": "2041002:3486"
+	},
+	{
+		"AttrPer": 367900,
+		"FuncId": 28,
+		"Lev": 85,
+		"NeedItem": "2041002:3570"
+	},
+	{
+		"AttrPer": 376400,
+		"FuncId": 28,
+		"Lev": 86,
+		"NeedItem": "2041002:3655"
+	},
+	{
+		"AttrPer": 385000,
+		"FuncId": 28,
+		"Lev": 87,
+		"NeedItem": "2041002:3741"
+	},
+	{
+		"AttrPer": 393700,
+		"FuncId": 28,
+		"Lev": 88,
+		"NeedItem": "2041002:3828"
+	},
+	{
+		"AttrPer": 402500,
+		"FuncId": 28,
+		"Lev": 89,
+		"NeedItem": "2041002:3916"
+	},
+	{
+		"AttrPer": 411400,
+		"FuncId": 28,
+		"Lev": 90,
+		"NeedItem": "2041002:4005"
+	},
+	{
+		"AttrPer": 420400,
+		"FuncId": 28,
+		"Lev": 91,
+		"NeedItem": "2041002:4095"
+	},
+	{
+		"AttrPer": 429500,
+		"FuncId": 28,
+		"Lev": 92,
+		"NeedItem": "2041002:4186"
+	},
+	{
+		"AttrPer": 438700,
+		"FuncId": 28,
+		"Lev": 93,
+		"NeedItem": "2041002:4278"
+	},
+	{
+		"AttrPer": 448000,
+		"FuncId": 28,
+		"Lev": 94,
+		"NeedItem": "2041002:4371"
+	},
+	{
+		"AttrPer": 457400,
+		"FuncId": 28,
+		"Lev": 95,
+		"NeedItem": "2041002:4465"
+	},
+	{
+		"AttrPer": 466900,
+		"FuncId": 28,
+		"Lev": 96,
+		"NeedItem": "2041002:4560"
+	},
+	{
+		"AttrPer": 476500,
+		"FuncId": 28,
+		"Lev": 97,
+		"NeedItem": "2041002:4656"
+	},
+	{
+		"AttrPer": 486200,
+		"FuncId": 28,
+		"Lev": 98,
+		"NeedItem": "2041002:4753"
+	},
+	{
+		"AttrPer": 496000,
+		"FuncId": 28,
+		"Lev": 99,
+		"NeedItem": "2041002:4851"
+	},
+	{
+		"AttrPer": 505900,
+		"FuncId": 28,
+		"Lev": 100,
+		"NeedItem": "2041002:4950"
+	},
+	{
+		"AttrPer": 515900,
+		"FuncId": 28,
+		"Lev": 101,
+		"NeedItem": "2041002:5050"
+	},
+	{
+		"AttrPer": 526000,
+		"FuncId": 28,
+		"Lev": 102,
+		"NeedItem": "2041002:5151"
+	},
+	{
+		"AttrPer": 536200,
+		"FuncId": 28,
+		"Lev": 103,
+		"NeedItem": "2041002:5253"
+	},
+	{
+		"AttrPer": 546500,
+		"FuncId": 28,
+		"Lev": 104,
+		"NeedItem": "2041002:5356"
+	},
+	{
+		"AttrPer": 556900,
+		"FuncId": 28,
+		"Lev": 105,
+		"NeedItem": "2041002:5460"
+	},
+	{
+		"AttrPer": 567400,
+		"FuncId": 28,
+		"Lev": 106,
+		"NeedItem": "2041002:5565"
+	},
+	{
+		"AttrPer": 578000,
+		"FuncId": 28,
+		"Lev": 107,
+		"NeedItem": "2041002:5671"
+	},
+	{
+		"AttrPer": 588700,
+		"FuncId": 28,
+		"Lev": 108,
+		"NeedItem": "2041002:5778"
+	},
+	{
+		"AttrPer": 599500,
+		"FuncId": 28,
+		"Lev": 109,
+		"NeedItem": "2041002:5886"
+	},
+	{
+		"AttrPer": 610400,
+		"FuncId": 28,
+		"Lev": 110,
+		"NeedItem": "2041002:5995"
+	},
+	{
+		"AttrPer": 621400,
+		"FuncId": 28,
+		"Lev": 111,
+		"NeedItem": "2041002:6105"
+	},
+	{
+		"AttrPer": 632500,
+		"FuncId": 28,
+		"Lev": 112,
+		"NeedItem": "2041002:6216"
+	},
+	{
+		"AttrPer": 643700,
+		"FuncId": 28,
+		"Lev": 113,
+		"NeedItem": "2041002:6328"
+	},
+	{
+		"AttrPer": 655000,
+		"FuncId": 28,
+		"Lev": 114,
+		"NeedItem": "2041002:6441"
+	},
+	{
+		"AttrPer": 666400,
+		"FuncId": 28,
+		"Lev": 115,
+		"NeedItem": "2041002:6555"
+	},
+	{
+		"AttrPer": 677900,
+		"FuncId": 28,
+		"Lev": 116,
+		"NeedItem": "2041002:6670"
+	},
+	{
+		"AttrPer": 689500,
+		"FuncId": 28,
+		"Lev": 117,
+		"NeedItem": "2041002:6786"
+	},
+	{
+		"AttrPer": 701200,
+		"FuncId": 28,
+		"Lev": 118,
+		"NeedItem": "2041002:6903"
+	},
+	{
+		"AttrPer": 713000,
+		"FuncId": 28,
+		"Lev": 119,
+		"NeedItem": "2041002:7021"
+	},
+	{
+		"AttrPer": 724900,
+		"FuncId": 28,
+		"Lev": 120,
+		"NeedItem": "2041002:7140"
+	},
+	{
+		"AttrPer": 736900,
+		"FuncId": 28,
+		"Lev": 121,
+		"NeedItem": "2041002:7260"
+	},
+	{
+		"AttrPer": 749000,
+		"FuncId": 28,
+		"Lev": 122,
+		"NeedItem": "2041002:7381"
+	},
+	{
+		"AttrPer": 761200,
+		"FuncId": 28,
+		"Lev": 123,
+		"NeedItem": "2041002:7503"
+	},
+	{
+		"AttrPer": 773500,
+		"FuncId": 28,
+		"Lev": 124,
+		"NeedItem": "2041002:7626"
+	},
+	{
+		"AttrPer": 785900,
+		"FuncId": 28,
+		"Lev": 125,
+		"NeedItem": "2041002:7750"
+	},
+	{
+		"AttrPer": 798400,
+		"FuncId": 28,
+		"Lev": 126,
+		"NeedItem": "2041002:7875"
+	},
+	{
+		"AttrPer": 811000,
+		"FuncId": 28,
+		"Lev": 127,
+		"NeedItem": "2041002:8001"
+	},
+	{
+		"AttrPer": 823700,
+		"FuncId": 28,
+		"Lev": 128,
+		"NeedItem": "2041002:8128"
+	},
+	{
+		"AttrPer": 836500,
+		"FuncId": 28,
+		"Lev": 129,
+		"NeedItem": "2041002:8256"
+	},
+	{
+		"AttrPer": 849400,
+		"FuncId": 28,
+		"Lev": 130,
+		"NeedItem": "2041002:8385"
+	},
+	{
+		"AttrPer": 862400,
+		"FuncId": 28,
+		"Lev": 131,
+		"NeedItem": "2041002:8515"
+	},
+	{
+		"AttrPer": 875500,
+		"FuncId": 28,
+		"Lev": 132,
+		"NeedItem": "2041002:8646"
+	},
+	{
+		"AttrPer": 888700,
+		"FuncId": 28,
+		"Lev": 133,
+		"NeedItem": "2041002:8778"
+	},
+	{
+		"AttrPer": 902000,
+		"FuncId": 28,
+		"Lev": 134,
+		"NeedItem": "2041002:8911"
+	},
+	{
+		"AttrPer": 915400,
+		"FuncId": 28,
+		"Lev": 135,
+		"NeedItem": "2041002:9045"
+	},
+	{
+		"AttrPer": 928900,
+		"FuncId": 28,
+		"Lev": 136,
+		"NeedItem": "2041002:9180"
+	},
+	{
+		"AttrPer": 942500,
+		"FuncId": 28,
+		"Lev": 137,
+		"NeedItem": "2041002:9316"
+	},
+	{
+		"AttrPer": 956200,
+		"FuncId": 28,
+		"Lev": 138,
+		"NeedItem": "2041002:9453"
+	},
+	{
+		"AttrPer": 970000,
+		"FuncId": 28,
+		"Lev": 139,
+		"NeedItem": "2041002:9591"
+	},
+	{
+		"AttrPer": 983900,
+		"FuncId": 28,
+		"Lev": 140,
+		"NeedItem": "2041002:9730"
+	},
+	{
+		"AttrPer": 997900,
+		"FuncId": 28,
+		"Lev": 141,
+		"NeedItem": "2041002:9870"
+	},
+	{
+		"AttrPer": 1012000,
+		"FuncId": 28,
+		"Lev": 142,
+		"NeedItem": "2041002:10011"
+	},
+	{
+		"AttrPer": 1026200,
+		"FuncId": 28,
+		"Lev": 143,
+		"NeedItem": "2041002:10153"
+	},
+	{
+		"AttrPer": 1040500,
+		"FuncId": 28,
+		"Lev": 144,
+		"NeedItem": "2041002:10296"
+	},
+	{
+		"AttrPer": 1054900,
+		"FuncId": 28,
+		"Lev": 145,
+		"NeedItem": "2041002:10440"
+	},
+	{
+		"AttrPer": 1069400,
+		"FuncId": 28,
+		"Lev": 146,
+		"NeedItem": "2041002:10585"
+	},
+	{
+		"AttrPer": 1084000,
+		"FuncId": 28,
+		"Lev": 147,
+		"NeedItem": "2041002:10731"
+	},
+	{
+		"AttrPer": 1098700,
+		"FuncId": 28,
+		"Lev": 148,
+		"NeedItem": "2041002:10878"
+	},
+	{
+		"AttrPer": 1113500,
+		"FuncId": 28,
+		"Lev": 149,
+		"NeedItem": "2041002:11026"
+	},
+	{
+		"AttrPer": 1128400,
+		"FuncId": 28,
+		"Lev": 150,
+		"NeedItem": "2041002:11175"
+	},
+	{
+		"AttrPer": 1143400,
+		"FuncId": 28,
+		"Lev": 151,
+		"NeedItem": "2041002:11325"
+	},
+	{
+		"AttrPer": 1158500,
+		"FuncId": 28,
+		"Lev": 152,
+		"NeedItem": "2041002:11476"
+	},
+	{
+		"AttrPer": 1173700,
+		"FuncId": 28,
+		"Lev": 153,
+		"NeedItem": "2041002:11628"
+	},
+	{
+		"AttrPer": 1189000,
+		"FuncId": 28,
+		"Lev": 154,
+		"NeedItem": "2041002:11781"
+	},
+	{
+		"AttrPer": 1204400,
+		"FuncId": 28,
+		"Lev": 155,
+		"NeedItem": "2041002:11935"
+	},
+	{
+		"AttrPer": 1219900,
+		"FuncId": 28,
+		"Lev": 156,
+		"NeedItem": "2041002:12090"
+	},
+	{
+		"AttrPer": 1235500,
+		"FuncId": 28,
+		"Lev": 157,
+		"NeedItem": "2041002:12246"
+	},
+	{
+		"AttrPer": 1251200,
+		"FuncId": 28,
+		"Lev": 158,
+		"NeedItem": "2041002:12403"
+	},
+	{
+		"AttrPer": 1267000,
+		"FuncId": 28,
+		"Lev": 159,
+		"NeedItem": "2041002:12561"
+	},
+	{
+		"AttrPer": 1282900,
+		"FuncId": 28,
+		"Lev": 160,
+		"NeedItem": "2041002:12720"
+	},
+	{
+		"AttrPer": 1298900,
+		"FuncId": 28,
+		"Lev": 161,
+		"NeedItem": "2041002:12880"
+	},
+	{
+		"AttrPer": 1315000,
+		"FuncId": 28,
+		"Lev": 162,
+		"NeedItem": "2041002:13041"
+	},
+	{
+		"AttrPer": 1331200,
+		"FuncId": 28,
+		"Lev": 163,
+		"NeedItem": "2041002:13203"
+	},
+	{
+		"AttrPer": 1347500,
+		"FuncId": 28,
+		"Lev": 164,
+		"NeedItem": "2041002:13366"
+	},
+	{
+		"AttrPer": 1363900,
+		"FuncId": 28,
+		"Lev": 165,
+		"NeedItem": "2041002:13530"
+	},
+	{
+		"AttrPer": 1380400,
+		"FuncId": 28,
+		"Lev": 166,
+		"NeedItem": "2041002:13695"
+	},
+	{
+		"AttrPer": 1397000,
+		"FuncId": 28,
+		"Lev": 167,
+		"NeedItem": "2041002:13861"
+	},
+	{
+		"AttrPer": 1413700,
+		"FuncId": 28,
+		"Lev": 168,
+		"NeedItem": "2041002:14028"
+	},
+	{
+		"AttrPer": 1430500,
+		"FuncId": 28,
+		"Lev": 169,
+		"NeedItem": "2041002:14196"
+	},
+	{
+		"AttrPer": 1447400,
+		"FuncId": 28,
+		"Lev": 170,
+		"NeedItem": "2041002:14365"
+	},
+	{
+		"AttrPer": 1464400,
+		"FuncId": 28,
+		"Lev": 171,
+		"NeedItem": "2041002:14535"
+	},
+	{
+		"AttrPer": 1481500,
+		"FuncId": 28,
+		"Lev": 172,
+		"NeedItem": "2041002:14706"
+	},
+	{
+		"AttrPer": 1498700,
+		"FuncId": 28,
+		"Lev": 173,
+		"NeedItem": "2041002:14878"
+	},
+	{
+		"AttrPer": 1516000,
+		"FuncId": 28,
+		"Lev": 174,
+		"NeedItem": "2041002:15051"
+	},
+	{
+		"AttrPer": 1533400,
+		"FuncId": 28,
+		"Lev": 175,
+		"NeedItem": "2041002:15225"
+	},
+	{
+		"AttrPer": 1550900,
+		"FuncId": 28,
+		"Lev": 176,
+		"NeedItem": "2041002:15400"
+	},
+	{
+		"AttrPer": 1568500,
+		"FuncId": 28,
+		"Lev": 177,
+		"NeedItem": "2041002:15576"
+	},
+	{
+		"AttrPer": 1586200,
+		"FuncId": 28,
+		"Lev": 178,
+		"NeedItem": "2041002:15753"
+	},
+	{
+		"AttrPer": 1604000,
+		"FuncId": 28,
+		"Lev": 179,
+		"NeedItem": "2041002:15931"
+	},
+	{
+		"AttrPer": 1621900,
+		"FuncId": 28,
+		"Lev": 180,
+		"NeedItem": "2041002:16110"
+	},
+	{
+		"AttrPer": 1639900,
+		"FuncId": 28,
+		"Lev": 181,
+		"NeedItem": "2041002:16290"
+	},
+	{
+		"AttrPer": 1658000,
+		"FuncId": 28,
+		"Lev": 182,
+		"NeedItem": "2041002:16471"
+	},
+	{
+		"AttrPer": 1676200,
+		"FuncId": 28,
+		"Lev": 183,
+		"NeedItem": "2041002:16653"
+	},
+	{
+		"AttrPer": 1694500,
+		"FuncId": 28,
+		"Lev": 184,
+		"NeedItem": "2041002:16836"
+	},
+	{
+		"AttrPer": 1712900,
+		"FuncId": 28,
+		"Lev": 185,
+		"NeedItem": "2041002:17020"
+	},
+	{
+		"AttrPer": 1731400,
+		"FuncId": 28,
+		"Lev": 186,
+		"NeedItem": "2041002:17205"
+	},
+	{
+		"AttrPer": 1750000,
+		"FuncId": 28,
+		"Lev": 187,
+		"NeedItem": "2041002:17391"
+	},
+	{
+		"AttrPer": 1768700,
+		"FuncId": 28,
+		"Lev": 188,
+		"NeedItem": "2041002:17578"
+	},
+	{
+		"AttrPer": 1787500,
+		"FuncId": 28,
+		"Lev": 189,
+		"NeedItem": "2041002:17766"
+	},
+	{
+		"AttrPer": 1806400,
+		"FuncId": 28,
+		"Lev": 190,
+		"NeedItem": "2041002:17955"
+	},
+	{
+		"AttrPer": 1825400,
+		"FuncId": 28,
+		"Lev": 191,
+		"NeedItem": "2041002:18145"
+	},
+	{
+		"AttrPer": 1844500,
+		"FuncId": 28,
+		"Lev": 192,
+		"NeedItem": "2041002:18336"
+	},
+	{
+		"AttrPer": 1863700,
+		"FuncId": 28,
+		"Lev": 193,
+		"NeedItem": "2041002:18528"
+	},
+	{
+		"AttrPer": 1883000,
+		"FuncId": 28,
+		"Lev": 194,
+		"NeedItem": "2041002:18721"
+	},
+	{
+		"AttrPer": 1902400,
+		"FuncId": 28,
+		"Lev": 195,
+		"NeedItem": "2041002:18915"
+	},
+	{
+		"AttrPer": 1921900,
+		"FuncId": 28,
+		"Lev": 196,
+		"NeedItem": "2041002:19110"
+	},
+	{
+		"AttrPer": 1941500,
+		"FuncId": 28,
+		"Lev": 197,
+		"NeedItem": "2041002:19306"
+	},
+	{
+		"AttrPer": 1961200,
+		"FuncId": 28,
+		"Lev": 198,
+		"NeedItem": "2041002:19503"
+	},
+	{
+		"AttrPer": 1981000,
+		"FuncId": 28,
+		"Lev": 199,
+		"NeedItem": "2041002:19701"
+	},
+	{
+		"AttrPer": 2000900,
+		"FuncId": 28,
+		"Lev": 200,
+		"NeedItem": "2041002:19900"
+	}
+]

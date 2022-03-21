@@ -1,0 +1,13 @@
+[
+	{
+		"DoubleTime": "11:30-14:00|18:30-21:00",
+		"GoldRefresh": "1:50",
+		"Id": 1,
+		"Intercept": 20,
+		"NormalRefresh": "2:50",
+		"ProTime": 15,
+		"QuickCost": "1:300",
+		"StartTime": "10:00-23:40",
+		"VIPUnlockFunc": 11
+	}
+]

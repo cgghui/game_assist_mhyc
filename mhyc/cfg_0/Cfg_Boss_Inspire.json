@@ -1,0 +1,61 @@
+[
+	{
+		"AddSeconds": 60,
+		"Desc": "元宝鼓舞",
+		"Enable": 1,
+		"Id": 1,
+		"InspireType": 1,
+		"InstanceType": 8,
+		"NeedItemId": 2,
+		"NeedNum": 100
+	},
+	{
+		"AddSeconds": 90,
+		"Desc": "仙玉鼓舞",
+		"Enable": 1,
+		"Id": 2,
+		"InspireType": 2,
+		"InstanceType": 8,
+		"NeedItemId": 1,
+		"NeedNum": 10
+	},
+	{
+		"AddSeconds": 60,
+		"Desc": "元宝鼓舞",
+		"Id": 3,
+		"InspireType": 1,
+		"InstanceType": 9,
+		"NeedItemId": 2,
+		"NeedNum": 100
+	},
+	{
+		"AddSeconds": 90,
+		"Desc": "仙玉鼓舞",
+		"Enable": 1,
+		"Id": 4,
+		"InspireType": 2,
+		"InstanceType": 9,
+		"NeedItemId": 1,
+		"NeedNum": 10
+	},
+	{
+		"AddSeconds": 60,
+		"Desc": "元宝鼓舞",
+		"Enable": 1,
+		"Id": 5,
+		"InspireType": 1,
+		"InstanceType": 7,
+		"NeedItemId": 2,
+		"NeedNum": 100
+	},
+	{
+		"AddSeconds": 90,
+		"Desc": "仙玉鼓舞",
+		"Enable": 1,
+		"Id": 6,
+		"InspireType": 2,
+		"InstanceType": 7,
+		"NeedItemId": 1,
+		"NeedNum": 10
+	}
+]

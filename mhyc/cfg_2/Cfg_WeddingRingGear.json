@@ -1,0 +1,30 @@
+[
+	{
+		"AnimId": 6425,
+		"AttrId": 2001,
+		"Exp": 50,
+		"ItemId": 2001,
+		"Level": 1
+	},
+	{
+		"AnimId": 6426,
+		"AttrId": 2002,
+		"Exp": 80,
+		"ItemId": 2002,
+		"Level": 2
+	},
+	{
+		"AnimId": 6427,
+		"AttrId": 2003,
+		"Exp": 150,
+		"ItemId": 2003,
+		"Level": 3
+	},
+	{
+		"AnimId": 6428,
+		"AttrId": 2004,
+		"Exp": 500,
+		"ItemId": 2004,
+		"Level": 4
+	}
+]

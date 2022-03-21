@@ -1,0 +1,480 @@
+[
+	{
+		"Attr": 2903001,
+		"Id": 1,
+		"PartnerId": 1001,
+		"SkillId": "2306:1|2307:0|2308:0|2309:0",
+		"Star": 1
+	},
+	{
+		"Attr": 2903002,
+		"Id": 2,
+		"NeedItemCount": 50,
+		"PartnerId": 1001,
+		"SkillId": "2306:2|2307:0|2308:0|2309:0",
+		"Star": 2
+	},
+	{
+		"Attr": 2903003,
+		"Id": 3,
+		"NeedItemCount": 75,
+		"PartnerId": 1001,
+		"SkillId": "2306:3|2307:0|2308:0|2309:0",
+		"Star": 3
+	},
+	{
+		"Attr": 2903004,
+		"Id": 4,
+		"NeedItemCount": 100,
+		"PartnerId": 1001,
+		"SkillId": "2306:4|2307:0|2308:0|2309:0",
+		"Star": 4
+	},
+	{
+		"Attr": 2903005,
+		"Id": 5,
+		"NeedItemCount": 150,
+		"PartnerId": 1001,
+		"SkillId": "2306:5|2307:0|2308:0|2309:0",
+		"Star": 5
+	},
+	{
+		"Attr": 2903006,
+		"Id": 6,
+		"NeedItemCount": 200,
+		"PartnerId": 1001,
+		"SkillId": "2306:6|2307:1|2308:0|2309:0",
+		"Star": 6
+	},
+	{
+		"Attr": 2903007,
+		"Id": 7,
+		"NeedItemCount": 250,
+		"PartnerId": 1001,
+		"SkillId": "2306:7|2307:2|2308:0|2309:0",
+		"Star": 7
+	},
+	{
+		"Attr": 2903008,
+		"Id": 8,
+		"NeedItemCount": 300,
+		"PartnerId": 1001,
+		"SkillId": "2306:8|2307:3|2308:0|2309:0",
+		"Star": 8
+	},
+	{
+		"Attr": 2903009,
+		"Id": 9,
+		"NeedItemCount": 350,
+		"PartnerId": 1001,
+		"SkillId": "2306:9|2307:4|2308:0|2309:0",
+		"Star": 9
+	},
+	{
+		"Attr": 2903010,
+		"Id": 10,
+		"NeedItemCount": 400,
+		"PartnerId": 1001,
+		"SkillId": "2306:10|2307:5|2308:0|2309:0",
+		"Star": 10
+	},
+	{
+		"Attr": 2903011,
+		"Id": 11,
+		"NeedItemCount": 450,
+		"PartnerId": 1001,
+		"SkillId": "2306:11|2307:6|2308:1|2309:0",
+		"Star": 11
+	},
+	{
+		"Attr": 2903012,
+		"Id": 12,
+		"NeedItemCount": 500,
+		"PartnerId": 1001,
+		"SkillId": "2306:12|2307:7|2308:2|2309:0",
+		"Star": 12
+	},
+	{
+		"Attr": 2903013,
+		"Id": 13,
+		"NeedItemCount": 600,
+		"PartnerId": 1001,
+		"SkillId": "2306:13|2307:8|2308:3|2309:0",
+		"Star": 13
+	},
+	{
+		"Attr": 2903014,
+		"Id": 14,
+		"NeedItemCount": 700,
+		"PartnerId": 1001,
+		"SkillId": "2306:14|2307:9|2308:4|2309:0",
+		"Star": 14
+	},
+	{
+		"Attr": 2903015,
+		"Id": 15,
+		"NeedItemCount": 800,
+		"PartnerId": 1001,
+		"SkillId": "2306:15|2307:10|2308:5|2309:0",
+		"Star": 15
+	},
+	{
+		"Attr": 2903016,
+		"Id": 16,
+		"NeedItemCount": 900,
+		"PartnerId": 1001,
+		"SkillId": "2306:16|2307:11|2308:6|2309:1",
+		"Star": 16
+	},
+	{
+		"Attr": 2903017,
+		"Id": 17,
+		"NeedItemCount": 1000,
+		"PartnerId": 1001,
+		"SkillId": "2306:17|2307:12|2308:7|2309:2",
+		"Star": 17
+	},
+	{
+		"Attr": 2903018,
+		"Id": 18,
+		"NeedItemCount": 1200,
+		"PartnerId": 1001,
+		"SkillId": "2306:18|2307:13|2308:8|2309:3",
+		"Star": 18
+	},
+	{
+		"Attr": 2903019,
+		"Id": 19,
+		"NeedItemCount": 1400,
+		"PartnerId": 1001,
+		"SkillId": "2306:19|2307:14|2308:9|2309:4",
+		"Star": 19
+	},
+	{
+		"Attr": 2903020,
+		"Id": 20,
+		"NeedItemCount": 1600,
+		"PartnerId": 1001,
+		"SkillId": "2306:20|2307:15|2308:10|2309:5",
+		"Star": 20
+	},
+	{
+		"Attr": 2903021,
+		"Id": 21,
+		"NeedItemCount": 1800,
+		"PartnerId": 1001,
+		"SkillId": "2306:21|2307:16|2308:11|2309:6",
+		"Star": 21
+	},
+	{
+		"Attr": 2903022,
+		"Id": 22,
+		"NeedItemCount": 2000,
+		"PartnerId": 1001,
+		"SkillId": "2306:22|2307:17|2308:12|2309:7",
+		"Star": 22
+	},
+	{
+		"Attr": 2903023,
+		"Id": 23,
+		"NeedItemCount": 2300,
+		"PartnerId": 1001,
+		"SkillId": "2306:23|2307:18|2308:13|2309:8",
+		"Star": 23
+	},
+	{
+		"Attr": 2903024,
+		"Id": 24,
+		"NeedItemCount": 2600,
+		"PartnerId": 1001,
+		"SkillId": "2306:24|2307:19|2308:14|2309:9",
+		"Star": 24
+	},
+	{
+		"Attr": 2903025,
+		"Id": 25,
+		"NeedItemCount": 2900,
+		"PartnerId": 1001,
+		"SkillId": "2306:25|2307:20|2308:15|2309:10",
+		"Star": 25
+	},
+	{
+		"Attr": 2903026,
+		"Id": 26,
+		"NeedItemCount": 3200,
+		"PartnerId": 1001,
+		"SkillId": "2306:26|2307:21|2308:16|2309:11",
+		"Star": 26
+	},
+	{
+		"Attr": 2903027,
+		"Id": 27,
+		"NeedItemCount": 3500,
+		"PartnerId": 1001,
+		"SkillId": "2306:27|2307:22|2308:17|2309:12",
+		"Star": 27
+	},
+	{
+		"Attr": 2903028,
+		"Id": 28,
+		"NeedItemCount": 3800,
+		"PartnerId": 1001,
+		"SkillId": "2306:28|2307:23|2308:18|2309:13",
+		"Star": 28
+	},
+	{
+		"Attr": 2903029,
+		"Id": 29,
+		"NeedItemCount": 4100,
+		"PartnerId": 1001,
+		"SkillId": "2306:29|2307:24|2308:19|2309:14",
+		"Star": 29
+	},
+	{
+		"Attr": 2903030,
+		"Id": 30,
+		"NeedItemCount": 4400,
+		"PartnerId": 1001,
+		"SkillId": "2306:30|2307:25|2308:20|2309:15",
+		"Star": 30
+	},
+	{
+		"Attr": 2903101,
+		"Id": 1,
+		"PartnerId": 1002,
+		"SkillId": "2406:1|2407:0|2408:0|2409:0",
+		"Star": 1
+	},
+	{
+		"Attr": 2903102,
+		"Id": 2,
+		"NeedItemCount": 50,
+		"PartnerId": 1002,
+		"SkillId": "2406:2|2407:0|2408:0|2409:0",
+		"Star": 2
+	},
+	{
+		"Attr": 2903103,
+		"Id": 3,
+		"NeedItemCount": 75,
+		"PartnerId": 1002,
+		"SkillId": "2406:3|2407:0|2408:0|2409:0",
+		"Star": 3
+	},
+	{
+		"Attr": 2903104,
+		"Id": 4,
+		"NeedItemCount": 100,
+		"PartnerId": 1002,
+		"SkillId": "2406:4|2407:0|2408:0|2409:0",
+		"Star": 4
+	},
+	{
+		"Attr": 2903105,
+		"Id": 5,
+		"NeedItemCount": 150,
+		"PartnerId": 1002,
+		"SkillId": "2406:5|2407:0|2408:0|2409:0",
+		"Star": 5
+	},
+	{
+		"Attr": 2903106,
+		"Id": 6,
+		"NeedItemCount": 200,
+		"PartnerId": 1002,
+		"SkillId": "2406:6|2407:1|2408:0|2409:0",
+		"Star": 6
+	},
+	{
+		"Attr": 2903107,
+		"Id": 7,
+		"NeedItemCount": 250,
+		"PartnerId": 1002,
+		"SkillId": "2406:7|2407:2|2408:0|2409:0",
+		"Star": 7
+	},
+	{
+		"Attr": 2903108,
+		"Id": 8,
+		"NeedItemCount": 300,
+		"PartnerId": 1002,
+		"SkillId": "2406:8|2407:3|2408:0|2409:0",
+		"Star": 8
+	},
+	{
+		"Attr": 2903109,
+		"Id": 9,
+		"NeedItemCount": 350,
+		"PartnerId": 1002,
+		"SkillId": "2406:9|2407:4|2408:0|2409:0",
+		"Star": 9
+	},
+	{
+		"Attr": 2903110,
+		"Id": 10,
+		"NeedItemCount": 400,
+		"PartnerId": 1002,
+		"SkillId": "2406:10|2407:5|2408:0|2409:0",
+		"Star": 10
+	},
+	{
+		"Attr": 2903111,
+		"Id": 11,
+		"NeedItemCount": 450,
+		"PartnerId": 1002,
+		"SkillId": "2406:11|2407:6|2408:1|2409:0",
+		"Star": 11
+	},
+	{
+		"Attr": 2903112,
+		"Id": 12,
+		"NeedItemCount": 500,
+		"PartnerId": 1002,
+		"SkillId": "2406:12|2407:7|2408:2|2409:0",
+		"Star": 12
+	},
+	{
+		"Attr": 2903113,
+		"Id": 13,
+		"NeedItemCount": 600,
+		"PartnerId": 1002,
+		"SkillId": "2406:13|2407:8|2408:3|2409:0",
+		"Star": 13
+	},
+	{
+		"Attr": 2903114,
+		"Id": 14,
+		"NeedItemCount": 700,
+		"PartnerId": 1002,
+		"SkillId": "2406:14|2407:9|2408:4|2409:0",
+		"Star": 14
+	},
+	{
+		"Attr": 2903115,
+		"Id": 15,
+		"NeedItemCount": 800,
+		"PartnerId": 1002,
+		"SkillId": "2406:15|2407:10|2408:5|2409:0",
+		"Star": 15
+	},
+	{
+		"Attr": 2903116,
+		"Id": 16,
+		"NeedItemCount": 900,
+		"PartnerId": 1002,
+		"SkillId": "2406:16|2407:11|2408:6|2409:1",
+		"Star": 16
+	},
+	{
+		"Attr": 2903117,
+		"Id": 17,
+		"NeedItemCount": 1000,
+		"PartnerId": 1002,
+		"SkillId": "2406:17|2407:12|2408:7|2409:2",
+		"Star": 17
+	},
+	{
+		"Attr": 2903118,
+		"Id": 18,
+		"NeedItemCount": 1200,
+		"PartnerId": 1002,
+		"SkillId": "2406:18|2407:13|2408:8|2409:3",
+		"Star": 18
+	},
+	{
+		"Attr": 2903119,
+		"Id": 19,
+		"NeedItemCount": 1400,
+		"PartnerId": 1002,
+		"SkillId": "2406:19|2407:14|2408:9|2409:4",
+		"Star": 19
+	},
+	{
+		"Attr": 2903120,
+		"Id": 20,
+		"NeedItemCount": 1600,
+		"PartnerId": 1002,
+		"SkillId": "2406:20|2407:15|2408:10|2409:5",
+		"Star": 20
+	},
+	{
+		"Attr": 2903121,
+		"Id": 21,
+		"NeedItemCount": 1800,
+		"PartnerId": 1002,
+		"SkillId": "2406:21|2407:16|2408:11|2409:6",
+		"Star": 21
+	},
+	{
+		"Attr": 2903122,
+		"Id": 22,
+		"NeedItemCount": 2000,
+		"PartnerId": 1002,
+		"SkillId": "2406:22|2407:17|2408:12|2409:7",
+		"Star": 22
+	},
+	{
+		"Attr": 2903123,
+		"Id": 23,
+		"NeedItemCount": 2300,
+		"PartnerId": 1002,
+		"SkillId": "2406:23|2407:18|2408:13|2409:8",
+		"Star": 23
+	},
+	{
+		"Attr": 2903124,
+		"Id": 24,
+		"NeedItemCount": 2600,
+		"PartnerId": 1002,
+		"SkillId": "2406:24|2407:19|2408:14|2409:9",
+		"Star": 24
+	},
+	{
+		"Attr": 2903125,
+		"Id": 25,
+		"NeedItemCount": 2900,
+		"PartnerId": 1002,
+		"SkillId": "2406:25|2407:20|2408:15|2409:10",
+		"Star": 25
+	},
+	{
+		"Attr": 2903126,
+		"Id": 26,
+		"NeedItemCount": 3200,
+		"PartnerId": 1002,
+		"SkillId": "2406:26|2407:21|2408:16|2409:11",
+		"Star": 26
+	},
+	{
+		"Attr": 2903127,
+		"Id": 27,
+		"NeedItemCount": 3500,
+		"PartnerId": 1002,
+		"SkillId": "2406:27|2407:22|2408:17|2409:12",
+		"Star": 27
+	},
+	{
+		"Attr": 2903128,
+		"Id": 28,
+		"NeedItemCount": 3800,
+		"PartnerId": 1002,
+		"SkillId": "2406:28|2407:23|2408:18|2409:13",
+		"Star": 28
+	},
+	{
+		"Attr": 2903129,
+		"Id": 29,
+		"NeedItemCount": 4100,
+		"PartnerId": 1002,
+		"SkillId": "2406:29|2407:24|2408:19|2409:14",
+		"Star": 29
+	},
+	{
+		"Attr": 2903130,
+		"Id": 30,
+		"NeedItemCount": 4400,
+		"PartnerId": 1002,
+		"SkillId": "2406:30|2407:25|2408:20|2409:15",
+		"Star": 30
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"BuffId": 85001,
+		"Days": "1:3",
+		"Id": 1,
+		"Level": 1,
+		"SkillId": 850
+	},
+	{
+		"BuffId": 85002,
+		"Days": "4:7",
+		"Id": 2,
+		"Level": 2,
+		"SkillId": 850
+	},
+	{
+		"BuffId": 85003,
+		"Days": "8:11",
+		"Id": 3,
+		"Level": 3,
+		"SkillId": 850
+	},
+	{
+		"BuffId": 85004,
+		"Days": "12:15",
+		"Id": 4,
+		"Level": 4,
+		"SkillId": 850
+	},
+	{
+		"BuffId": 85005,
+		"Days": "16:21",
+		"Id": 5,
+		"Level": 5,
+		"SkillId": 850
+	},
+	{
+		"BuffId": 85006,
+		"Days": "22:99999",
+		"Id": 6,
+		"Level": 6,
+		"SkillId": 850
+	}
+]

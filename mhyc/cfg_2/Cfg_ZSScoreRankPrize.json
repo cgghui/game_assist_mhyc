@@ -1,0 +1,65 @@
+[
+	{
+		"ID": 1,
+		"Prize": 111,
+		"PrizeName": "积分第1名奖励",
+		"Rank_Max": 1,
+		"Rank_Min": 1
+	},
+	{
+		"ID": 2,
+		"Prize": 112,
+		"PrizeName": "积分第2名奖励",
+		"Rank_Max": 2,
+		"Rank_Min": 2
+	},
+	{
+		"ID": 3,
+		"Prize": 113,
+		"PrizeName": "积分第3名奖励",
+		"Rank_Max": 3,
+		"Rank_Min": 3
+	},
+	{
+		"ID": 4,
+		"Prize": 114,
+		"PrizeName": "积分4~5名奖励",
+		"Rank_Max": 5,
+		"Rank_Min": 4
+	},
+	{
+		"ID": 5,
+		"Prize": 115,
+		"PrizeName": "积分6~10名奖励",
+		"Rank_Max": 10,
+		"Rank_Min": 6
+	},
+	{
+		"ID": 6,
+		"Prize": 116,
+		"PrizeName": "积分11~20名奖励",
+		"Rank_Max": 20,
+		"Rank_Min": 11
+	},
+	{
+		"ID": 7,
+		"Prize": 117,
+		"PrizeName": "积分21~50名奖励",
+		"Rank_Max": 50,
+		"Rank_Min": 21
+	},
+	{
+		"ID": 8,
+		"Prize": 118,
+		"PrizeName": "积分51~100名奖励",
+		"Rank_Max": 100,
+		"Rank_Min": 51
+	},
+	{
+		"ID": 9,
+		"Prize": 119,
+		"PrizeName": "积分101~999名奖励",
+		"Rank_Max": 999,
+		"Rank_Min": 101
+	}
+]

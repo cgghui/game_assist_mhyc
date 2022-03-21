@@ -1,0 +1,164 @@
+[
+	{
+		"AttrId": 3500501,
+		"BondId": 1,
+		"IconID": 650001,
+		"Level": 1,
+		"SkillId": 10351,
+		"SkillName": "桃园三结义"
+	},
+	{
+		"AttrId": 3500502,
+		"BondId": 1,
+		"IconID": 650001,
+		"ItemData": "2080261:1",
+		"Level": 2,
+		"SkillId": 10351,
+		"SkillName": "桃园三结义"
+	},
+	{
+		"AttrId": 3500503,
+		"BondId": 1,
+		"IconID": 650001,
+		"ItemData": "2080261:2",
+		"Level": 3,
+		"SkillId": 10351,
+		"SkillName": "桃园三结义"
+	},
+	{
+		"AttrId": 3500504,
+		"BondId": 1,
+		"IconID": 650001,
+		"ItemData": "2080261:3",
+		"Level": 4,
+		"SkillId": 10351,
+		"SkillName": "桃园三结义"
+	},
+	{
+		"AttrId": 3500505,
+		"BondId": 1,
+		"IconID": 650001,
+		"ItemData": "2080261:4",
+		"Level": 5,
+		"SkillId": 10351,
+		"SkillName": "桃园三结义"
+	},
+	{
+		"AttrId": 3500501,
+		"BondId": 2,
+		"IconID": 642008,
+		"Level": 1,
+		"PS1HeroIds": "1|2|3|4|5|6",
+		"PassiveSkillId1": 10371,
+		"SkillId": 10352,
+		"SkillName": "千军万马"
+	},
+	{
+		"AttrId": 3500502,
+		"BondId": 2,
+		"IconID": 642008,
+		"ItemData": "2080262:1",
+		"Level": 2,
+		"PS1HeroIds": "1|2|3|4|5|6",
+		"PassiveSkillId1": 10371,
+		"SkillId": 10352,
+		"SkillName": "千军万马"
+	},
+	{
+		"AttrId": 3500503,
+		"BondId": 2,
+		"IconID": 642008,
+		"ItemData": "2080262:2",
+		"Level": 3,
+		"PS1HeroIds": "1|2|3|4|5|6",
+		"PassiveSkillId1": 10371,
+		"SkillId": 10352,
+		"SkillName": "千军万马"
+	},
+	{
+		"AttrId": 3500504,
+		"BondId": 2,
+		"IconID": 642008,
+		"ItemData": "2080262:3",
+		"Level": 4,
+		"PS1HeroIds": "1|2|3|4|5|6",
+		"PassiveSkillId1": 10371,
+		"SkillId": 10352,
+		"SkillName": "千军万马"
+	},
+	{
+		"AttrId": 3500505,
+		"BondId": 2,
+		"IconID": 642008,
+		"ItemData": "2080262:4",
+		"Level": 5,
+		"PS1HeroIds": "1|2|3|4|5|6",
+		"PassiveSkillId1": 10371,
+		"SkillId": 10352,
+		"SkillName": "千军万马"
+	},
+	{
+		"AttrId": 3500501,
+		"BondId": 3,
+		"IconID": 650022,
+		"Level": 1,
+		"PS1HeroIds": "1|2|3|7|8|9",
+		"PS2HeroIds": "1|2|3|4|5|6|7|8|9",
+		"PassiveSkillId1": 10372,
+		"PassiveSkillId2": 10373,
+		"SkillId": 10353,
+		"SkillName": "决胜天下"
+	},
+	{
+		"AttrId": 3500502,
+		"BondId": 3,
+		"IconID": 650022,
+		"ItemData": "2080263:1",
+		"Level": 2,
+		"PS1HeroIds": "1|2|3|7|8|9",
+		"PS2HeroIds": "1|2|3|4|5|6|7|8|9",
+		"PassiveSkillId1": 10372,
+		"PassiveSkillId2": 10373,
+		"SkillId": 10353,
+		"SkillName": "决胜天下"
+	},
+	{
+		"AttrId": 3500503,
+		"BondId": 3,
+		"IconID": 650022,
+		"ItemData": "2080263:2",
+		"Level": 3,
+		"PS1HeroIds": "1|2|3|7|8|9",
+		"PS2HeroIds": "1|2|3|4|5|6|7|8|9",
+		"PassiveSkillId1": 10372,
+		"PassiveSkillId2": 10373,
+		"SkillId": 10353,
+		"SkillName": "决胜天下"
+	},
+	{
+		"AttrId": 3500504,
+		"BondId": 3,
+		"IconID": 650022,
+		"ItemData": "2080263:3",
+		"Level": 4,
+		"PS1HeroIds": "1|2|3|7|8|9",
+		"PS2HeroIds": "1|2|3|4|5|6|7|8|9",
+		"PassiveSkillId1": 10372,
+		"PassiveSkillId2": 10373,
+		"SkillId": 10353,
+		"SkillName": "决胜天下"
+	},
+	{
+		"AttrId": 3500505,
+		"BondId": 3,
+		"IconID": 650022,
+		"ItemData": "2080263:4",
+		"Level": 5,
+		"PS1HeroIds": "1|2|3|7|8|9",
+		"PS2HeroIds": "1|2|3|4|5|6|7|8|9",
+		"PassiveSkillId1": 10372,
+		"PassiveSkillId2": 10373,
+		"SkillId": 10353,
+		"SkillName": "决胜天下"
+	}
+]

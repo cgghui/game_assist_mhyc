@@ -1,0 +1,35 @@
+[
+	{
+		"FuirstRewards": 1,
+		"Id": 1,
+		"Rank": "1|1",
+		"SecondRewards": 6
+	},
+	{
+		"FuirstRewards": 2,
+		"Id": 2,
+		"Rank": "2|4",
+		"SecondRewards": 7
+	},
+	{
+		"FuirstRewards": 3,
+		"Id": 3,
+		"Rank": "5|10",
+		"SecondRewards": 8
+	},
+	{
+		"FuirstRewards": 4,
+		"Id": 4,
+		"Rank": "11|30",
+		"SecondRewards": 9
+	},
+	{
+		"FuirstRewards": 5,
+		"Id": 5,
+		"Rank": "31|100",
+		"SecondRewards": 10
+	},
+	{
+		"Id": 6
+	}
+]

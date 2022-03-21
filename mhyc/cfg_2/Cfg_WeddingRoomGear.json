@@ -1,0 +1,37 @@
+[
+	{
+		"AnimId": "101",
+		"AttrId": 2011,
+		"ItemID": "2:3800",
+		"Level": 1,
+		"Name": "温馨小屋"
+	},
+	{
+		"AnimId": "102",
+		"AttrId": 2012,
+		"ItemID": "2:5200",
+		"Level": 2,
+		"Name": "经济小房"
+	},
+	{
+		"AnimId": "103",
+		"AttrId": 2013,
+		"ItemID": "2:12800",
+		"Level": 3,
+		"Name": "温馨小筑"
+	},
+	{
+		"AnimId": "104",
+		"AttrId": 2014,
+		"ItemID": "2:32800",
+		"Level": 4,
+		"Name": "奢华小楼"
+	},
+	{
+		"AnimId": "105",
+		"AttrId": 2015,
+		"ItemID": "2:68800",
+		"Level": 5,
+		"Name": "四合大院"
+	}
+]

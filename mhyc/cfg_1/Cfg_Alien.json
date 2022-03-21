@@ -1,0 +1,86 @@
+[
+	{
+		"ActiveAttr": 3623001,
+		"AnimId": "1651|1652",
+		"Id": 1,
+		"MPId": 1,
+		"Name": "光明兽",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 5,
+		"ShowSkillBId": "10501",
+		"SkillAId": "10551"
+	},
+	{
+		"ActiveAttr": 3623002,
+		"AnimId": "1653|1654",
+		"Id": 2,
+		"MPId": 2,
+		"Name": "孔雀明王",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 6,
+		"ShowSkillBId": "10503",
+		"SkillAId": "10552"
+	},
+	{
+		"ActiveAttr": 3623003,
+		"AnimId": "1655|1656",
+		"Id": 3,
+		"MPId": 3,
+		"Name": "逍遥鲲",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 6,
+		"ShowSkillBId": "10505",
+		"SkillAId": "10553"
+	},
+	{
+		"ActiveAttr": 3623004,
+		"AnimId": "1657|1658",
+		"Id": 4,
+		"MPId": 4,
+		"Name": "天吴",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 7,
+		"ShowSkillBId": "10507",
+		"SkillAId": "10554"
+	},
+	{
+		"ActiveAttr": 3623005,
+		"AnimId": "1659|1660",
+		"Id": 5,
+		"MPId": 5,
+		"Name": "白泽",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 7,
+		"ShowSkillBId": "10509",
+		"SkillAId": "10555"
+	},
+	{
+		"ActiveAttr": 3623005,
+		"AnimId": "1661|1662",
+		"Id": 6,
+		"MPId": 6,
+		"Name": "火猿",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 7,
+		"ShowSkillBId": "10536",
+		"SkillAId": "10556"
+	},
+	{
+		"ActiveAttr": 3623005,
+		"AnimId": "1663|1664",
+		"Id": 7,
+		"MPId": 7,
+		"Name": "炎兽",
+		"PveAngerMax": 1,
+		"PvpAngerMax": 6,
+		"Quality": 7,
+		"ShowSkillBId": "10538",
+		"SkillAId": "10557"
+	}
+]

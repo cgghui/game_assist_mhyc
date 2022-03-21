@@ -1,0 +1,86 @@
+[
+	{
+		"Desc": "楼兰-鄯善",
+		"Distance": 6,
+		"Point1": 1,
+		"Point2": 2
+	},
+	{
+		"Desc": "楼兰-敦煌",
+		"Distance": 4,
+		"Point1": 1,
+		"Point2": 10
+	},
+	{
+		"Desc": "楼兰-大宛",
+		"Distance": 6,
+		"Point1": 1,
+		"Point2": 5
+	},
+	{
+		"Desc": "楼兰-龟兹",
+		"Distance": 6,
+		"Point1": 1,
+		"Point2": 8
+	},
+	{
+		"Desc": "鄯善-精绝",
+		"Distance": 4,
+		"Point1": 2,
+		"Point2": 3
+	},
+	{
+		"Desc": "鄯善-渠犁",
+		"Distance": 6,
+		"Point1": 2,
+		"Point2": 11
+	},
+	{
+		"Desc": "精绝-于阗",
+		"Distance": 4,
+		"Point1": 3,
+		"Point2": 4
+	},
+	{
+		"Desc": "于阗-大宛",
+		"Distance": 6,
+		"Point1": 4,
+		"Point2": 5
+	},
+	{
+		"Desc": "大宛-莎车",
+		"Distance": 4,
+		"Point1": 5,
+		"Point2": 6
+	},
+	{
+		"Desc": "莎车-疏勒",
+		"Distance": 6,
+		"Point1": 6,
+		"Point2": 7
+	},
+	{
+		"Desc": "疏勒-姑墨",
+		"Distance": 8,
+		"Point1": 7,
+		"Point2": 9
+	},
+	{
+		"Desc": "疏勒-龟兹",
+		"Distance": 4,
+		"Point1": 7,
+		"Point2": 8
+	},
+	{
+		"Desc": "姑墨-敦煌",
+		"Distance": 6,
+		"Point1": 9,
+		"Point2": 10
+	},
+	{
+		"Desc": "敦煌-渠犁",
+		"Distance": 4,
+		"Point1": 10,
+		"Point2": 11
+	}
+]

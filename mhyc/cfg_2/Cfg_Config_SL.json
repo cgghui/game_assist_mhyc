@@ -1,0 +1,34 @@
+[
+	{
+		"CfgKey": "SLEggId",
+		"CfgValue": "2600001"
+	},
+	{
+		"CfgKey": "SLFallTimes",
+		"CfgValue": "3600"
+	},
+	{
+		"CfgKey": "SLSoulMaxNum",
+		"CfgValue": "200"
+	},
+	{
+		"CfgKey": "SLStar",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "SLSpaceCount",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "SLEggBreak",
+		"CfgValue": "2600003:1|2600021:1|2600007:1"
+	},
+	{
+		"CfgKey": "SlStartSKillId",
+		"CfgValue": "14091|14092|14093|14094|14097|14099|14061|14062"
+	},
+	{
+		"CfgKey": "SLHead",
+		"CfgValue": "2600040"
+	}
+]

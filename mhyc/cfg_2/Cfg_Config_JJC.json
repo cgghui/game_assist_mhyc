@@ -1,0 +1,70 @@
+[
+	{
+		"CfgKey": "JJCTimes",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "JJCnterval",
+		"CfgValue": "7200"
+	},
+	{
+		"CfgKey": "JJCBuyLimitId",
+		"CfgValue": "30004"
+	},
+	{
+		"CfgKey": "JJCBuyNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "JJCWinHonor",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "JJCWinCoin1",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "JJCWinCoin4",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "JJCLoseHonor",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "JJCLoseCoin1",
+		"CfgValue": "500"
+	},
+	{
+		"CfgKey": "JJCLoseCoin4",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "JJCKeepHonor",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "JJCKeepCoin1",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "JJCKeepCoin4",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "JJCMatchRank",
+		"CfgValue": "7000:7500|8600:9000|11000:15000"
+	},
+	{
+		"CfgKey": "JJCMatchRankWeak",
+		"CfgValue": "30|50"
+	},
+	{
+		"CfgKey": "JJCMaxRound",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "JJCInitRank",
+		"CfgValue": "20000"
+	}
+]

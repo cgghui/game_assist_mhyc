@@ -1,0 +1,90 @@
+[
+	{
+		"CfgKey": "DayMarryTimes",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "SameSexMarryCharm",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "CustomMarriageVowsVip",
+		"CfgValue": "15"
+	},
+	{
+		"CfgKey": "VowsLen",
+		"CfgValue": "1|20"
+	},
+	{
+		"CfgKey": "PostMarriageTieTime",
+		"CfgValue": "00:10-23:50"
+	},
+	{
+		"CfgKey": "RelieveMarriagePay",
+		"CfgValue": "2:3888"
+	},
+	{
+		"CfgKey": "RelieveMarriageMin",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "RelieveMarriageMax",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "BetrothalGifts",
+		"CfgValue": "2:520|2:1314|2:2888|2:3344"
+	},
+	{
+		"CfgKey": "SearchPartenrLen",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "SingleIntimacyMin",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "Ringexp",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "InstancePrizeTimes",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "ShowItem",
+		"CfgValue": "2005|2006|2007|2008"
+	},
+	{
+		"CfgKey": "RingBasicLevelMax",
+		"CfgValue": "80"
+	},
+	{
+		"CfgKey": "RingGMLevelMax",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "RoomLevelMax",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "WitnessRedEnvelope",
+		"CfgValue": "2:10:100"
+	},
+	{
+		"CfgKey": "ProposalBox",
+		"CfgValue": "2009|2010|2011"
+	},
+	{
+		"CfgKey": "WeddingInsFightCost",
+		"CfgValue": "2:500"
+	},
+	{
+		"CfgKey": "NeedOpenDays",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "NeedPrice",
+		"CfgValue": "2:500"
+	}
+]

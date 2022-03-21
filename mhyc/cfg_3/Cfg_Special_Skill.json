@@ -1,0 +1,92 @@
+[
+	{
+		"ActiveType": 1,
+		"EffectRound": "26|30",
+		"Id": 1,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第2回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e当前存活的所有战斗单位\u003c/c\u003e造成最大生命20%伤害\n◇天罚效果会击败伙伴",
+		"SkillParam": "-2000"
+	},
+	{
+		"ActiveInterval": 1,
+		"ActiveType": 1,
+		"DeadResult": 1,
+		"EffectRound": "2|30",
+		"Id": 2,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第2回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每间隔1个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e当前存活的所有宠物\u003c/c\u003e造成伤害\n◇天罚效果不会击败伙伴",
+		"SkillParam": "-10"
+	},
+	{
+		"ActiveInterval": 2,
+		"DeadResult": 1,
+		"EffectRound": "1|10",
+		"Id": 3,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第1回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每间隔2个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e存活的我方单位\u003c/c\u003e造成伤害\n◇天罚效果不会击败伙伴",
+		"SkillParam": "-10"
+	},
+	{
+		"ActiveType": 1,
+		"DeadResult": 1,
+		"EffectRound": "1|30",
+		"Id": 4,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第1回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每间隔1个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e双方随机2个存活单位\u003c/c\u003e造成伤害\n◇天罚效果不会击败伙伴",
+		"SkillParam": "-10000"
+	},
+	{
+		"ActiveInterval": 1,
+		"EffectRound": "3|10",
+		"Id": 5,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第3回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每间隔1个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e当前存活的所有战斗单位\u003c/c\u003e造成伤害\n◇天罚效果会击败伙伴",
+		"SkillParam": "-10"
+	},
+	{
+		"ActiveInterval": 2,
+		"ActiveType": 1,
+		"EffectRound": "3|30",
+		"Id": 6,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第3回合\u003c/c\u003e开始。天罚开启\n◇天罚开启后。\u003ccolor=#32ff21\u003e每间隔2个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，战场上会降下天罚神雷。对\u003ccolor=#32ff21\u003e所有存活的宠物和天仙\u003c/c\u003e造成伤害\n◇天罚效果会击败伙伴",
+		"SkillParam": "-10"
+	},
+	{
+		"EffectRound": "21|30",
+		"Id": 101,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第21回合\u003c/c\u003e开始。激励开启\n◇激励开启后\u003ccolor=#32ff21\u003e每个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，\u003ccolor=#32ff21\u003e双方存活单位\u003c/c\u003e会获得10%攻击，20%命中，20%暴击，20%PVP伤害增加。持续整场战斗，效果可叠加",
+		"SkillParam": "551"
+	},
+	{
+		"ActiveInterval": 1,
+		"ActiveType": 1,
+		"EffectRound": "2|30",
+		"Id": 102,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第2回合\u003c/c\u003e开始。激励开启\n◇激励开启后。\u003ccolor=#32ff21\u003e每间隔1个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，双方所有存活宠物会获得激励效果。持续整场战斗，效果可叠加",
+		"SkillParam": "551"
+	},
+	{
+		"ActiveInterval": 2,
+		"EffectRound": "1|10",
+		"Id": 103,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第1回合\u003c/c\u003e开始。激励开启\n◇激励开启后。\u003ccolor=#32ff21\u003e每间隔2个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，我方全体存活单位会获得激励效果。持续整场战斗，效果可叠加",
+		"SkillParam": "551"
+	},
+	{
+		"ActiveType": 1,
+		"EffectRound": "1|30",
+		"Id": 104,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第1回合\u003c/c\u003e开始。激励开启\n◇激励开启后。\u003ccolor=#32ff21\u003e每个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，双方随机2个存活单位会获得激励效果。持续整场战斗，效果可叠加",
+		"SkillParam": "552"
+	},
+	{
+		"ActiveInterval": 1,
+		"EffectRound": "3|10",
+		"Id": 105,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第3回合\u003c/c\u003e开始。激励开启\n◇激励开启后。\u003ccolor=#32ff21\u003e每间隔1个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合开始前\u003c/c\u003e，\u003ccolor=#32ff21\u003e双方存活单位\u003c/c\u003e会获得激励效果。持续整场战斗，效果可叠加",
+		"SkillParam": "552"
+	},
+	{
+		"ActiveInterval": 2,
+		"ActiveType": 1,
+		"EffectRound": "3|30",
+		"Id": 106,
+		"MsgC": "◇从战斗\u003ccolor=#32ff21\u003e第3回合\u003c/c\u003e开始。激励开启\n◇激励开启后。\u003ccolor=#32ff21\u003e每间隔2个回合\u003c/c\u003e触发1次\n◇触发回合。\u003ccolor=#32ff21\u003e回合结束后\u003c/c\u003e，\u003ccolor=#32ff21\u003e双方所有存活的宠物和天仙\u003c/c\u003e会获得激励效果。持续整场战斗，效果可叠加",
+		"SkillParam": "552"
+	}
+]

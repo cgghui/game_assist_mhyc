@@ -1,0 +1,42 @@
+[
+	{
+		"ActId": 1,
+		"Desc1": "font_shouchong_zuo",
+		"Desc2": "font_shouchong_xia",
+		"FunId": 116,
+		"FunType": 1,
+		"Id": 1,
+		"ResPath": "1215",
+		"ResType": 2
+	},
+	{
+		"ActId": 3001,
+		"Desc1": "font_hufu_zuo",
+		"Desc2": "font_hufu_xia",
+		"FunId": 11185,
+		"FunType": 2,
+		"Id": 2,
+		"ResPath": "i/m/main/push/img_zhanlihufu",
+		"ResType": 3
+	},
+	{
+		"ActId": 3002,
+		"Desc1": "font_pixiu_zuo",
+		"Desc2": "font_pixiu_xia",
+		"FunId": 11184,
+		"FunType": 2,
+		"Id": 3,
+		"ResPath": "i/m/main/push/img_pixiu",
+		"ResType": 3
+	},
+	{
+		"ActId": 3003,
+		"Desc1": "font_shendeng_zuo",
+		"Desc2": "font_shendeng_xia",
+		"FunId": 11186,
+		"FunType": 2,
+		"Id": 4,
+		"ResPath": "e/gem/deng/ui_6752",
+		"ResType": 1
+	}
+]

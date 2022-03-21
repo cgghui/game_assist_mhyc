@@ -1,0 +1,10 @@
+[
+	{
+		"CfgKey": "SwordSoulMaxNum",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "ItemSource",
+		"CfgValue": "624"
+	}
+]

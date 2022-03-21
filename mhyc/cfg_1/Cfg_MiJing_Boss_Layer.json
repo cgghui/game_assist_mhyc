@@ -1,0 +1,142 @@
+[
+	{
+		"JoinPayItem": "1:20",
+		"JoinVipLevel": 11,
+		"LayerId": 1,
+		"LimitLevel": 100,
+		"MapId": 2601,
+		"RebornLevel": 1,
+		"RedId": 30431,
+		"ShowLabel": "一层"
+	},
+	{
+		"JoinPayItem": "1:40",
+		"JoinVipLevel": 13,
+		"LayerId": 2,
+		"LimitLevel": 150,
+		"MapId": 2602,
+		"RebornLevel": 2,
+		"RedId": 30432,
+		"ShowLabel": "二层"
+	},
+	{
+		"JoinPayItem": "1:60",
+		"JoinVipLevel": 14,
+		"LayerId": 3,
+		"LimitLevel": 200,
+		"MapId": 2603,
+		"RebornLevel": 3,
+		"RedId": 30433,
+		"ShowLabel": "三层"
+	},
+	{
+		"JoinPayItem": "1:80",
+		"JoinVipLevel": 15,
+		"LayerId": 4,
+		"LimitLevel": 250,
+		"MapId": 2604,
+		"RebornLevel": 4,
+		"RedId": 30434,
+		"ShowLabel": "四层"
+	},
+	{
+		"JoinPayItem": "1:100",
+		"JoinVipLevel": 17,
+		"LayerId": 5,
+		"LimitLevel": 300,
+		"MapId": 2605,
+		"RebornLevel": 5,
+		"RedId": 30435,
+		"ShowLabel": "五层"
+	},
+	{
+		"JoinPayItem": "1:120",
+		"JoinVipLevel": 18,
+		"LayerId": 6,
+		"LimitLevel": 350,
+		"MapId": 2606,
+		"RebornLevel": 6,
+		"RedId": 30436,
+		"ShowLabel": "六层"
+	},
+	{
+		"JoinPayItem": "1:140",
+		"JoinVipLevel": 19,
+		"LayerId": 7,
+		"LimitLevel": 400,
+		"MapId": 2607,
+		"RebornLevel": 7,
+		"RedId": 30437,
+		"ShowLabel": "七层"
+	},
+	{
+		"JoinPayItem": "1:160",
+		"JoinVipLevel": 20,
+		"LayerId": 8,
+		"LimitLevel": 450,
+		"MapId": 2608,
+		"RebornLevel": 8,
+		"RedId": 30438,
+		"ShowLabel": "八层"
+	},
+	{
+		"JoinPayItem": "1:180",
+		"JoinVipLevel": 21,
+		"LayerId": 9,
+		"LimitLevel": 500,
+		"MapId": 2609,
+		"RebornLevel": 9,
+		"RedId": 30439,
+		"ShowLabel": "九层"
+	},
+	{
+		"JoinPayItem": "1:200",
+		"JoinVipLevel": 23,
+		"LayerId": 10,
+		"LimitLevel": 600,
+		"MapId": 2610,
+		"RebornLevel": 10,
+		"RedId": 30440,
+		"ShowLabel": "十层"
+	},
+	{
+		"JoinPayItem": "1:200",
+		"JoinVipLevel": 24,
+		"LayerId": 11,
+		"LimitLevel": 700,
+		"MapId": 2621,
+		"RebornLevel": 11,
+		"RedId": 30456,
+		"ShowLabel": "十一层"
+	},
+	{
+		"JoinPayItem": "1:200",
+		"JoinVipLevel": 25,
+		"LayerId": 12,
+		"LimitLevel": 800,
+		"MapId": 2622,
+		"RebornLevel": 12,
+		"RedId": 30457,
+		"ShowLabel": "十二层"
+	},
+	{
+		"JoinPayItem": "1:200",
+		"JoinVipLevel": 25,
+		"LayerId": 13,
+		"LimitLevel": 860,
+		"MapId": 2623,
+		"RebornLevel": 13,
+		"RedId": 30458,
+		"ShowLabel": "十三层"
+	},
+	{
+		"JoinPayItem": "1:200",
+		"JoinVipLevel": 25,
+		"LayerId": 14,
+		"LimitLevel": 860,
+		"MapId": 2624,
+		"RebornLevel": 14,
+		"RedId": 30459,
+		"ShowLabel": "十四层"
+	}
+]

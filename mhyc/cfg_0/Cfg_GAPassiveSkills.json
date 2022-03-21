@@ -1,0 +1,152 @@
+[
+	{
+		"Level": 1,
+		"SK_Level": 1,
+		"SkillId": 900,
+		"SkillQ": 1
+	},
+	{
+		"Level": 3,
+		"SK_Level": 2,
+		"SkillId": 900,
+		"SkillQ": 2
+	},
+	{
+		"Level": 5,
+		"SK_Level": 3,
+		"SkillId": 900,
+		"SkillQ": 3
+	},
+	{
+		"Level": 7,
+		"SK_Level": 4,
+		"SkillId": 900,
+		"SkillQ": 4
+	},
+	{
+		"Level": 9,
+		"SK_Level": 5,
+		"SkillId": 900,
+		"SkillQ": 5
+	},
+	{
+		"Level": 2,
+		"SK_Level": 1,
+		"SkillId": 901,
+		"SkillQ": 1
+	},
+	{
+		"Level": 4,
+		"SK_Level": 2,
+		"SkillId": 901,
+		"SkillQ": 2
+	},
+	{
+		"Level": 6,
+		"SK_Level": 3,
+		"SkillId": 901,
+		"SkillQ": 3
+	},
+	{
+		"Level": 8,
+		"SK_Level": 4,
+		"SkillId": 901,
+		"SkillQ": 4
+	},
+	{
+		"Level": 10,
+		"SK_Level": 5,
+		"SkillId": 901,
+		"SkillQ": 5
+	},
+	{
+		"Level": 11,
+		"SK_Level": 1,
+		"SkillId": 902,
+		"SkillQ": 1
+	},
+	{
+		"Level": 12,
+		"SK_Level": 2,
+		"SkillId": 902,
+		"SkillQ": 2
+	},
+	{
+		"Level": 13,
+		"SK_Level": 3,
+		"SkillId": 902,
+		"SkillQ": 3
+	},
+	{
+		"Level": 14,
+		"SK_Level": 4,
+		"SkillId": 902,
+		"SkillQ": 4
+	},
+	{
+		"Level": 15,
+		"SK_Level": 5,
+		"SkillId": 902,
+		"SkillQ": 5
+	},
+	{
+		"Level": 16,
+		"SK_Level": 1,
+		"SkillId": 903,
+		"SkillQ": 1
+	},
+	{
+		"Level": 17,
+		"SK_Level": 2,
+		"SkillId": 903,
+		"SkillQ": 2
+	},
+	{
+		"Level": 18,
+		"SK_Level": 3,
+		"SkillId": 903,
+		"SkillQ": 3
+	},
+	{
+		"Level": 19,
+		"SK_Level": 4,
+		"SkillId": 903,
+		"SkillQ": 4
+	},
+	{
+		"Level": 20,
+		"SK_Level": 5,
+		"SkillId": 903,
+		"SkillQ": 5
+	},
+	{
+		"Level": 21,
+		"SK_Level": 1,
+		"SkillId": 904,
+		"SkillQ": 1
+	},
+	{
+		"Level": 22,
+		"SK_Level": 2,
+		"SkillId": 904,
+		"SkillQ": 2
+	},
+	{
+		"Level": 23,
+		"SK_Level": 3,
+		"SkillId": 904,
+		"SkillQ": 3
+	},
+	{
+		"Level": 24,
+		"SK_Level": 4,
+		"SkillId": 904,
+		"SkillQ": 4
+	},
+	{
+		"Level": 25,
+		"SK_Level": 5,
+		"SkillId": 904,
+		"SkillQ": 5
+	}
+]

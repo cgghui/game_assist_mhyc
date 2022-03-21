@@ -1,0 +1,292 @@
+[
+	{
+		"ActId": 25811,
+		"ItemId": 4030240,
+		"Name": "茱萸"
+	},
+	{
+		"ActId": 25811,
+		"GoldType": 2,
+		"GoodsPrice": 1000,
+		"ItemId": 4030241,
+		"Name": "纸鸢"
+	},
+	{
+		"ActId": 25811,
+		"FunId": 25731,
+		"ItemId": 4030242,
+		"Name": "金菊酿"
+	},
+	{
+		"ActId": 26511,
+		"ItemId": 4030248,
+		"Name": "面粉"
+	},
+	{
+		"ActId": 26511,
+		"ItemId": 4030249,
+		"Name": "鸡蛋"
+	},
+	{
+		"ActId": 26511,
+		"ItemId": 4030250,
+		"Name": "奶油"
+	},
+	{
+		"ActId": 26511,
+		"ItemId": 4030251,
+		"Name": "水果"
+	},
+	{
+		"ActId": 27611,
+		"ItemId": 4030255,
+		"Name": "洋葱"
+	},
+	{
+		"ActId": 27611,
+		"GoldType": 2,
+		"GoodsPrice": 1000,
+		"ItemId": 4030256,
+		"Name": "土豆"
+	},
+	{
+		"ActId": 27611,
+		"FunId": 27531,
+		"ItemId": 4030257,
+		"Name": "火鸡肉"
+	},
+	{
+		"ActId": 28171,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 28171,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 28171,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 28172,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 28172,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 28172,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 29171,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 29171,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 29171,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 29172,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 29172,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 29172,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 29511,
+		"ItemId": 4030276,
+		"Name": "灵果"
+	},
+	{
+		"ActId": 29511,
+		"GoldType": 2,
+		"GoodsPrice": 1000,
+		"ItemId": 4030277,
+		"Name": "灵谷"
+	},
+	{
+		"ActId": 29511,
+		"FunId": 29431,
+		"ItemId": 4030278,
+		"Name": "通天香"
+	},
+	{
+		"ActId": 30611,
+		"ItemId": 4030248,
+		"Name": "面粉"
+	},
+	{
+		"ActId": 30611,
+		"ItemId": 4030249,
+		"Name": "鸡蛋"
+	},
+	{
+		"ActId": 30611,
+		"ItemId": 4030250,
+		"Name": "奶油"
+	},
+	{
+		"ActId": 30611,
+		"ItemId": 4030251,
+		"Name": "水果"
+	},
+	{
+		"ActId": 31071,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 31071,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 31071,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 31072,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 31072,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 31072,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 31411,
+		"ItemId": 4030285,
+		"Name": "木条"
+	},
+	{
+		"ActId": 31411,
+		"GoldType": 2,
+		"GoodsPrice": 1000,
+		"ItemId": 4030286,
+		"Name": "花纸"
+	},
+	{
+		"ActId": 31411,
+		"FunId": 31331,
+		"ItemId": 4030287,
+		"Name": "灯芯"
+	},
+	{
+		"ActId": 32011,
+		"ItemId": 4030248,
+		"Name": "面粉"
+	},
+	{
+		"ActId": 32011,
+		"ItemId": 4030249,
+		"Name": "鸡蛋"
+	},
+	{
+		"ActId": 32011,
+		"ItemId": 4030250,
+		"Name": "奶油"
+	},
+	{
+		"ActId": 32011,
+		"ItemId": 4030251,
+		"Name": "水果"
+	},
+	{
+		"ActId": 33911,
+		"ItemId": 4030248,
+		"Name": "面粉"
+	},
+	{
+		"ActId": 33911,
+		"ItemId": 4030249,
+		"Name": "鸡蛋"
+	},
+	{
+		"ActId": 33911,
+		"ItemId": 4030250,
+		"Name": "奶油"
+	},
+	{
+		"ActId": 33911,
+		"ItemId": 4030251,
+		"Name": "水果"
+	},
+	{
+		"ActId": 34211,
+		"ItemId": 4030294,
+		"Name": "木棍"
+	},
+	{
+		"ActId": 34211,
+		"GoldType": 2,
+		"GoodsPrice": 1000,
+		"ItemId": 4030295,
+		"Name": "菱形纸"
+	},
+	{
+		"ActId": 34211,
+		"FunId": 34131,
+		"ItemId": 4030296,
+		"Name": "挂线"
+	},
+	{
+		"ActId": 34471,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 34471,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 34471,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	},
+	{
+		"ActId": 34472,
+		"ItemId": 4030271,
+		"Name": "铜火把"
+	},
+	{
+		"ActId": 34472,
+		"ItemId": 4030272,
+		"Name": "银火把"
+	},
+	{
+		"ActId": 34472,
+		"ItemId": 4030273,
+		"Name": "金火把"
+	}
+]

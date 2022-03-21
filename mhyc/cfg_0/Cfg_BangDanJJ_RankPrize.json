@@ -1,0 +1,198 @@
+[
+	{
+		"BossId": 1,
+		"DropId": 2081,
+		"Id": 1,
+		"Max": 1,
+		"Min": 1
+	},
+	{
+		"BossId": 1,
+		"DropId": 2082,
+		"Id": 2,
+		"Max": 2,
+		"Min": 2
+	},
+	{
+		"BossId": 1,
+		"DropId": 2083,
+		"Id": 3,
+		"Max": 3,
+		"Min": 3
+	},
+	{
+		"BossId": 1,
+		"DropId": 2084,
+		"Id": 4,
+		"Max": 5,
+		"Min": 4
+	},
+	{
+		"BossId": 1,
+		"DropId": 2085,
+		"Id": 5,
+		"Max": 10,
+		"Min": 6
+	},
+	{
+		"BossId": 1,
+		"DropId": 2086,
+		"Id": 6,
+		"Max": 15,
+		"Min": 11
+	},
+	{
+		"BossId": 1,
+		"DropId": 2087,
+		"Id": 7,
+		"Max": 20,
+		"Min": 16
+	},
+	{
+		"BossId": 1,
+		"DropId": 2088,
+		"Id": 8,
+		"Max": 30,
+		"Min": 21
+	},
+	{
+		"BossId": 1,
+		"DropId": 2089,
+		"Id": 9,
+		"Max": 40,
+		"Min": 31
+	},
+	{
+		"BossId": 1,
+		"DropId": 2090,
+		"Id": 10,
+		"Max": 50,
+		"Min": 41
+	},
+	{
+		"BossId": 1,
+		"DropId": 2091,
+		"Id": 11,
+		"Max": 70,
+		"Min": 51
+	},
+	{
+		"BossId": 1,
+		"DropId": 2092,
+		"Id": 12,
+		"Max": 100,
+		"Min": 71
+	},
+	{
+		"BossId": 1,
+		"DropId": 2093,
+		"Id": 13,
+		"Max": 150,
+		"Min": 101
+	},
+	{
+		"BossId": 1,
+		"DropId": 2094,
+		"Id": 14,
+		"Max": 200,
+		"Min": 151
+	},
+	{
+		"BossId": 2,
+		"DropId": 2081,
+		"Id": 101,
+		"Max": 1,
+		"Min": 1
+	},
+	{
+		"BossId": 2,
+		"DropId": 2082,
+		"Id": 102,
+		"Max": 2,
+		"Min": 2
+	},
+	{
+		"BossId": 2,
+		"DropId": 2083,
+		"Id": 103,
+		"Max": 3,
+		"Min": 3
+	},
+	{
+		"BossId": 2,
+		"DropId": 2084,
+		"Id": 104,
+		"Max": 5,
+		"Min": 4
+	},
+	{
+		"BossId": 2,
+		"DropId": 2085,
+		"Id": 105,
+		"Max": 10,
+		"Min": 6
+	},
+	{
+		"BossId": 2,
+		"DropId": 2086,
+		"Id": 106,
+		"Max": 15,
+		"Min": 11
+	},
+	{
+		"BossId": 2,
+		"DropId": 2087,
+		"Id": 107,
+		"Max": 20,
+		"Min": 16
+	},
+	{
+		"BossId": 2,
+		"DropId": 2088,
+		"Id": 108,
+		"Max": 30,
+		"Min": 21
+	},
+	{
+		"BossId": 2,
+		"DropId": 2089,
+		"Id": 109,
+		"Max": 40,
+		"Min": 31
+	},
+	{
+		"BossId": 2,
+		"DropId": 2090,
+		"Id": 110,
+		"Max": 50,
+		"Min": 41
+	},
+	{
+		"BossId": 2,
+		"DropId": 2091,
+		"Id": 111,
+		"Max": 70,
+		"Min": 51
+	},
+	{
+		"BossId": 2,
+		"DropId": 2092,
+		"Id": 112,
+		"Max": 100,
+		"Min": 71
+	},
+	{
+		"BossId": 2,
+		"DropId": 2093,
+		"Id": 113,
+		"Max": 150,
+		"Min": 101
+	},
+	{
+		"BossId": 2,
+		"DropId": 2094,
+		"Id": 114,
+		"Max": 200,
+		"Min": 151
+	}
+]

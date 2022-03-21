@@ -1,0 +1,278 @@
+[
+	{
+		"CounterType": 10701,
+		"Id": 1001,
+		"Independent": 1,
+		"Name": "祈祷2个1级或更高级神坛",
+		"Param": "[5401,5402,5403,5404,5405,5406,5407,5408,5409]",
+		"Prize": "2501001:1000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 10701,
+		"Id": 1002,
+		"Independent": 1,
+		"Name": "祈祷3个1级或更高级神坛",
+		"Param": "[5401,5402,5403,5404,5405,5406,5407,5408,5409]",
+		"Prize": "2501001:2000",
+		"TargetCount": 3
+	},
+	{
+		"CounterType": 10701,
+		"Id": 1003,
+		"Independent": 1,
+		"Name": "祈祷2个2级或更高级神坛",
+		"Param": "[5402,5403,5404,5405,5406,5407,5408,5409]",
+		"Prize": "2501001:3000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1001,
+		"Id": 1004,
+		"Name": "累计占领2个3级或更高级神坛",
+		"Param": "[5403,5404,5405,5406,5407,5408,5409]",
+		"Prize": "2501001:4000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1001,
+		"Id": 1005,
+		"Name": "累计占领2个4级或更高级神坛",
+		"Param": "[5404,5405,5406,5407,5408,5409]",
+		"Prize": "2501001:5000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1001,
+		"Id": 1006,
+		"Name": "累计占领2个5级或更高级神坛",
+		"Param": "[5405,5406,5407,5408,5409]",
+		"Prize": "2501001:6000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1001,
+		"Id": 1007,
+		"Name": "累计占领2个6级或更高级神坛",
+		"Param": "[5406,5407,5408,5409]",
+		"Prize": "2501001:7000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1101,
+		"Name": "战功累计达到2000(占空地可获得)",
+		"Prize": "2501001:1000",
+		"TargetCount": 2000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1102,
+		"Name": "战功累计达到5000",
+		"Prize": "2501001:2000",
+		"TargetCount": 5000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1103,
+		"Name": "战功累计达到20000",
+		"Prize": "2501001:3000",
+		"TargetCount": 20000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1104,
+		"Name": "战功累计达到30000",
+		"Prize": "2501001:4000",
+		"TargetCount": 30000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1105,
+		"Name": "战功累计达到40000",
+		"Prize": "2501001:5000",
+		"TargetCount": 40000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1106,
+		"Name": "战功累计达到50000",
+		"Prize": "2501001:6000",
+		"TargetCount": 50000
+	},
+	{
+		"CounterType": 1101,
+		"Id": 1107,
+		"Name": "战功累计达到60000",
+		"Prize": "2501001:7000",
+		"TargetCount": 60000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1201,
+		"Name": "神坛祈祷累计获得500个圣物精华",
+		"Prize": "2600001:1",
+		"TargetCount": 500
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1202,
+		"Name": "神坛祈祷累计获得5000个圣物精华",
+		"Prize": "2501001:2000",
+		"TargetCount": 5000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1203,
+		"Name": "神坛祈祷累计获得50000个圣物精华",
+		"Prize": "2501001:3000",
+		"TargetCount": 50000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1204,
+		"Name": "神坛祈祷累计获得100000个圣物精华",
+		"Prize": "2501001:4000",
+		"TargetCount": 100000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1205,
+		"Name": "神坛祈祷累计获得200000个圣物精华",
+		"Prize": "2501001:5000",
+		"TargetCount": 200000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1206,
+		"Name": "神坛祈祷累计获得300000个圣物精华",
+		"Prize": "2501001:6000",
+		"TargetCount": 300000
+	},
+	{
+		"CounterType": 1201,
+		"Id": 1207,
+		"Name": "神坛祈祷累计获得400000个圣物精华",
+		"Prize": "2501001:7000",
+		"TargetCount": 400000
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1301,
+		"Name": "神域中祈祷累计获得1个圣物",
+		"Prize": "2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1302,
+		"Name": "神域中祈祷累计获得2个圣物",
+		"Prize": "2501001:2000",
+		"TargetCount": 2
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1303,
+		"Name": "神域中祈祷累计获得8个圣物",
+		"Prize": "2501001:3000",
+		"TargetCount": 8
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1304,
+		"Name": "神域中祈祷累计获得15个圣物",
+		"Prize": "2501001:4000",
+		"TargetCount": 15
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1305,
+		"Name": "神域中祈祷累计获得25个圣物",
+		"Prize": "2501001:5000",
+		"TargetCount": 25
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1306,
+		"Name": "神域中祈祷累计获得35个圣物",
+		"Prize": "2501001:6000",
+		"TargetCount": 35
+	},
+	{
+		"CounterType": 1301,
+		"Id": 1307,
+		"Name": "神域中祈祷累计获得50个圣物",
+		"Prize": "2501001:7000",
+		"TargetCount": 50
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1401,
+		"Name": "累计占领10块空地",
+		"Prize": "2501001:1000",
+		"TargetCount": 10
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1402,
+		"Name": "累计占领30块空地",
+		"Prize": "2501001:2000",
+		"TargetCount": 30
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1403,
+		"Name": "累计点亮60块空地",
+		"Prize": "2501001:3000",
+		"TargetCount": 60
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1404,
+		"Name": "累计占领90块空地",
+		"Prize": "2501001:4000",
+		"TargetCount": 90
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1405,
+		"Name": "累计点亮120块空地",
+		"Prize": "2501001:5000",
+		"TargetCount": 120
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1406,
+		"Name": "累计占领150块空地",
+		"Prize": "2501001:6000",
+		"TargetCount": 150
+	},
+	{
+		"CounterType": 1401,
+		"Id": 1407,
+		"Name": "累计点亮200块空地",
+		"Prize": "2501001:7000",
+		"TargetCount": 200
+	},
+	{
+		"CounterType": 1501,
+		"Id": 1501,
+		"Name": "参与1次归墟之境",
+		"Prize": "2501001:5000",
+		"TargetCount": 1
+	},
+	{
+		"CounterType": 1502,
+		"Id": 1502,
+		"Name": "参与1次云顶天宫",
+		"Prize": "2501001:10000",
+		"TargetCount": 1
+	},
+	{
+		"CounterType": 2301,
+		"Id": 1601,
+		"Name": "前往内域",
+		"Prize": "2501001:5000",
+		"TargetCount": 1
+	}
+]

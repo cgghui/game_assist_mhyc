@@ -1,0 +1,42 @@
+[
+	{
+		"ActiveSkills": "810:1",
+		"AnimId": 1701,
+		"BaseAttr": 3100001,
+		"BaseSkills": "9300:1",
+		"Id": 3,
+		"Name": "机甲小宝",
+		"Quality": 3,
+		"SkinId": 1500100
+	},
+	{
+		"ActiveSkills": "810:2",
+		"AnimId": 1701,
+		"BaseAttr": 3100002,
+		"BaseSkills": "9300:2",
+		"Id": 4,
+		"Name": "机甲小宝",
+		"Quality": 4,
+		"SkinId": 1500100
+	},
+	{
+		"ActiveSkills": "810:3",
+		"AnimId": 1701,
+		"BaseAttr": 3100003,
+		"BaseSkills": "9300:3",
+		"Id": 5,
+		"Name": "机甲小宝",
+		"Quality": 5,
+		"SkinId": 1500100
+	},
+	{
+		"ActiveSkills": "810:4",
+		"AnimId": 1701,
+		"BaseAttr": 3100004,
+		"BaseSkills": "9300:4",
+		"Id": 6,
+		"Name": "机甲小宝",
+		"Quality": 6,
+		"SkinId": 1500100
+	}
+]

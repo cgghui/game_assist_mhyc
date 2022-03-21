@@ -1,0 +1,47 @@
+[
+	{
+		"AppearCp": "8|10",
+		"CostItemId": 1,
+		"CostItemNum1": 15000,
+		"CostItemNum2": 700,
+		"Discount": 1,
+		"GoodsId": 1,
+		"GroupId": 1751
+	},
+	{
+		"AppearCp": "8|10",
+		"CostItemId": 1,
+		"CostItemNum1": 29000,
+		"CostItemNum2": 700,
+		"Discount": 1,
+		"GoodsId": 2,
+		"GroupId": 1752
+	},
+	{
+		"AppearCp": "1|2|3|4|5|6|7|8|9|10",
+		"CostItemId": 2,
+		"CostItemNum1": 20000,
+		"CostItemNum2": 10000,
+		"Discount": 5,
+		"GoodsId": 3,
+		"GroupId": 1753
+	},
+	{
+		"AppearCp": "1|2|3|4|5|6|7|8|9|10",
+		"CostItemId": 1,
+		"CostItemNum1": 1500,
+		"CostItemNum2": 150,
+		"Discount": 1,
+		"GoodsId": 4,
+		"GroupId": 1754
+	},
+	{
+		"AppearCp": "1|2|3|4|5|6|7|8|9|10",
+		"CostItemId": 2,
+		"CostItemNum1": 14000,
+		"CostItemNum2": 7000,
+		"Discount": 5,
+		"GoodsId": 5,
+		"GroupId": 1755
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"CfgKey": "ShenYuMapId",
+		"CfgValue": "3002"
+	},
+	{
+		"CfgKey": "ShenYuFirstReward",
+		"CfgValue": "2510101:1|2501002:1|2501011:1|2501012:1"
+	},
+	{
+		"CfgKey": "ShenYuHallMapId",
+		"CfgValue": "3003"
+	},
+	{
+		"CfgKey": "ShenYuHallPrayTime",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "ShenYuHallPrayReward",
+		"CfgValue": "2501001:2000"
+	},
+	{
+		"CfgKey": "ShenYuHallBlessReward",
+		"CfgValue": "2501001:2000"
+	},
+	{
+		"CfgKey": "ShenYuHallBoxCount",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ShenYuHallBoxTotal",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ShenYuHallActId",
+		"CfgValue": "2003"
+	},
+	{
+		"CfgKey": "ShenyuHallWeaponId",
+		"CfgValue": "1454"
+	},
+	{
+		"CfgKey": "ShenyuHallRoleId",
+		"CfgValue": "35"
+	},
+	{
+		"CfgKey": "ShenyuHallWingId",
+		"CfgValue": "1254"
+	},
+	{
+		"CfgKey": "ShenyuHallHorseId",
+		"CfgValue": "1157"
+	},
+	{
+		"CfgKey": "ShenyuGuideBattleRefreshId",
+		"CfgValue": "37401"
+	},
+	{
+		"CfgKey": "ShenYuHallBoxRefreshPoint",
+		"CfgValue": "91:19|105:26|121:27|131:23|123:56|134:57|131:79|123:79|93:99|72:80|68:92|53:69|19:71|5:62|17:47|7:27|25:26|46:14|62:26|66:7|44:47|71:52|105:59"
+	}
+]

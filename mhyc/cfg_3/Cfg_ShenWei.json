@@ -1,0 +1,103 @@
+[
+	{
+		"AltarLimit": 2,
+		"GodName": "小神",
+		"Icon": "i/m/newAct/shenYu/img_jianxixiaoshen",
+		"Id": 1,
+		"MainIcon": "i/m/newAct/shenYu/font_jxxs",
+		"Maxgod": 10,
+		"ResPower": "[1,180]",
+		"Stage": 1,
+		"TaskId": "[1401,1001,1101,1201]"
+	},
+	{
+		"AltarLimit": 3,
+		"GodName": "准神",
+		"Icon": "i/m/newAct/shenYu/img_zhunshen",
+		"Id": 2,
+		"MainIcon": "i/m/newAct/shenYu/font_zhunshen",
+		"Maxgod": 11,
+		"Power2": 10,
+		"Prize": 1,
+		"ResPower": "[1,180]",
+		"Stage": 2,
+		"TaskId": "[1002,1402,1102,1302,1202]"
+	},
+	{
+		"AltarLimit": 4,
+		"GodName": "真神",
+		"Icon": "i/m/newAct/shenYu/img_zhenshen",
+		"Id": 3,
+		"MainIcon": "i/m/newAct/shenYu/font_zhenshen",
+		"Maxgod": 12,
+		"Power2": 20,
+		"Prize": 2,
+		"ResPower": "[1,160]",
+		"Stage": 3,
+		"TaskId": "[1003,1103,1203,1303,1403]"
+	},
+	{
+		"AltarLimit": 5,
+		"GodName": "神君",
+		"Icon": "i/m/newAct/shenYu/img_shenjun",
+		"Id": 4,
+		"MainIcon": "i/m/newAct/shenYu/font_shenjun",
+		"Maxgod": 15,
+		"Power2": 30,
+		"Prize": 3,
+		"ResPower": "[1,160]",
+		"Stage": 4,
+		"TaskId": "[1004,1104,1204,1304,1404,1601]"
+	},
+	{
+		"AltarLimit": 7,
+		"GodName": "神王",
+		"Icon": "i/m/newAct/shenYu/img_shenwang",
+		"Id": 5,
+		"MainIcon": "i/m/newAct/shenYu/font_shenwang",
+		"Maxgod": 16,
+		"Power2": 40,
+		"Prize": 4,
+		"ResPower": "[1,140]",
+		"Stage": 5,
+		"TaskId": "[1005,1105,1205,1305,1405]"
+	},
+	{
+		"AltarLimit": 8,
+		"GodName": "神尊",
+		"Icon": "i/m/newAct/shenYu/img_shenzun",
+		"Id": 6,
+		"MainIcon": "i/m/newAct/shenYu/font_shenzun",
+		"Maxgod": 17,
+		"Power2": 50,
+		"Prize": 5,
+		"ResPower": "[1,140]",
+		"Stage": 6,
+		"TaskId": "[1006,1106,1206,1306,1406]"
+	},
+	{
+		"AltarLimit": 9,
+		"GodName": "天尊",
+		"Icon": "i/m/newAct/shenYu/img_tianzun",
+		"Id": 7,
+		"MainIcon": "i/m/newAct/shenYu/font_tianzun",
+		"Maxgod": 18,
+		"Power2": 60,
+		"Prize": 6,
+		"ResPower": "[1,120]",
+		"Stage": 7,
+		"TaskId": "[1007,1107,1207,1307,1407]"
+	},
+	{
+		"AltarLimit": 9,
+		"GodName": "诸天",
+		"Icon": "i/m/newAct/shenYu/img_zhutian",
+		"Id": 8,
+		"MainIcon": "i/m/newAct/shenYu/font_zhutian",
+		"Maxgod": 20,
+		"Power2": 70,
+		"Prize": 7,
+		"ResPower": "[1,120]",
+		"Stage": 8
+	}
+]

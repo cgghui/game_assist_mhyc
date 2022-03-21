@@ -1,0 +1,23 @@
+[
+	{
+		"BoundId": 1,
+		"Desc2": "增加{1}%反弹伤害",
+		"Name": "仁王盾",
+		"SkillID": 10451,
+		"WeaponId": 1
+	},
+	{
+		"BoundId": 2,
+		"Desc1": "增加{1}%抗暴",
+		"Name": "修罗面具",
+		"SkillID": 10454,
+		"WeaponId": 2
+	},
+	{
+		"BoundId": 3,
+		"Desc1": "增加{1}%抗眩晕",
+		"Name": "天机盘",
+		"SkillID": 10455,
+		"WeaponId": 3
+	}
+]

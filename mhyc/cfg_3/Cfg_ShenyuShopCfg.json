@@ -1,0 +1,10 @@
+[
+	{
+		"CfgKey": "ShenyuShopRefreshAuto",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "ShenyuShopRefreshCost",
+		"CfgValue": "1:2:500|2:2:1000|3:1:50|4:1:100|5:1:200"
+	}
+]

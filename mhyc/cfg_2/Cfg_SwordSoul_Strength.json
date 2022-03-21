@@ -1,0 +1,50 @@
+[
+	{
+		"AttrPercent": 100,
+		"Level": 1,
+		"LevelIdLimit": 4,
+		"NumLimit": 2
+	},
+	{
+		"AttrPercent": 200,
+		"Level": 2,
+		"LevelIdLimit": 8,
+		"NumLimit": 3
+	},
+	{
+		"AttrPercent": 300,
+		"Level": 3,
+		"LevelIdLimit": 12,
+		"NumLimit": 4
+	},
+	{
+		"AttrPercent": 400,
+		"Level": 4,
+		"LevelIdLimit": 16,
+		"NumLimit": 5
+	},
+	{
+		"AttrPercent": 500,
+		"Level": 5,
+		"LevelIdLimit": 20,
+		"NumLimit": 6
+	},
+	{
+		"AttrPercent": 600,
+		"Level": 6,
+		"LevelIdLimit": 24,
+		"NumLimit": 7
+	},
+	{
+		"AttrPercent": 700,
+		"Level": 7,
+		"LevelIdLimit": 28,
+		"NumLimit": 8
+	},
+	{
+		"AttrPercent": 800,
+		"Level": 8,
+		"LevelIdLimit": 32,
+		"NumLimit": 9
+	}
+]

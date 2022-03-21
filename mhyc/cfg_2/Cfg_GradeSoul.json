@@ -1,0 +1,102 @@
+[
+	{
+		"AttrId": 253001,
+		"Exp": 10,
+		"Level": 1
+	},
+	{
+		"AttrId": 253002,
+		"Exp": 20,
+		"Level": 2
+	},
+	{
+		"AttrId": 253003,
+		"Exp": 40,
+		"Level": 3
+	},
+	{
+		"AttrId": 253004,
+		"Exp": 80,
+		"Level": 4
+	},
+	{
+		"AttrId": 253005,
+		"Exp": 160,
+		"Level": 5
+	},
+	{
+		"AttrId": 253006,
+		"Exp": 300,
+		"Level": 6
+	},
+	{
+		"AttrId": 253007,
+		"Exp": 520,
+		"Level": 7
+	},
+	{
+		"AttrId": 253008,
+		"Exp": 880,
+		"Level": 8
+	},
+	{
+		"AttrId": 253009,
+		"Exp": 1410,
+		"Level": 9
+	},
+	{
+		"AttrId": 253010,
+		"Exp": 2170,
+		"Level": 10
+	},
+	{
+		"AttrId": 253011,
+		"Exp": 3210,
+		"Level": 11
+	},
+	{
+		"AttrId": 253012,
+		"Exp": 4600,
+		"Level": 12
+	},
+	{
+		"AttrId": 253013,
+		"Exp": 6370,
+		"Level": 13
+	},
+	{
+		"AttrId": 253014,
+		"Exp": 8550,
+		"Level": 14
+	},
+	{
+		"AttrId": 253015,
+		"Exp": 11170,
+		"Level": 15
+	},
+	{
+		"AttrId": 253016,
+		"Exp": 14220,
+		"Level": 16
+	},
+	{
+		"AttrId": 253017,
+		"Exp": 17680,
+		"Level": 17
+	},
+	{
+		"AttrId": 253018,
+		"Exp": 21500,
+		"Level": 18
+	},
+	{
+		"AttrId": 253019,
+		"Exp": 25610,
+		"Level": 19
+	},
+	{
+		"AttrId": 253020,
+		"Exp": 29930,
+		"Level": 20
+	}
+]

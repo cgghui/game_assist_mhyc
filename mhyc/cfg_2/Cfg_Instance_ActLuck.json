@@ -1,0 +1,35 @@
+[
+	{
+		"ActId": 1,
+		"BossId": 1101,
+		"MapId": 2501,
+		"Name": "天仙奇缘",
+		"NameIcon": "btn_tianxianqiyuan",
+		"PicID": "banner_tianxianqiyuan",
+		"RefreshId": 901,
+		"ShowPrize": "2040254:1|2040241:1|2040231:1|2022:3|2040122:2|2040001:5",
+		"TitleID": "img_biaoti"
+	},
+	{
+		"ActId": 2,
+		"BossId": 1103,
+		"MapId": 2502,
+		"Name": "宠物奇缘",
+		"NameIcon": "btn_chongwuqiyuan",
+		"PicID": "banner_chongwuqiyuan",
+		"RefreshId": 902,
+		"ShowPrize": "2021651:1|2021607:1|2021555:1|2022:3|2020651:1|2010002:5",
+		"TitleID": "img_biaoti_chongwuqiyuan"
+	},
+	{
+		"ActId": 3,
+		"BossId": 1105,
+		"MapId": 2503,
+		"Name": "战神奇缘",
+		"NameIcon": "btn_zhanshenqiyuan",
+		"PicID": "banner_zhanshenqiyuan",
+		"RefreshId": 903,
+		"ShowPrize": "2030106:1|2030104:1|2030102:1|2022:3|2030152:2|2030201:5",
+		"TitleID": "img_biaoti_zhsnehnqiyuan"
+	}
+]

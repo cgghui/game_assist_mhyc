@@ -1,0 +1,15 @@
+[
+	{
+		"CloseTime": 15,
+		"DiceTime": 5,
+		"LuckPrize": 104,
+		"MonsterId": 208,
+		"OnceShieldMath": 10,
+		"ShieldPrize": 101,
+		"ShieldTrigger": "70|30",
+		"ShowPrize1": 102,
+		"ShowPrize2": 106,
+		"ShowPrize3": 104,
+		"TotalShieldMath": 17500
+	}
+]

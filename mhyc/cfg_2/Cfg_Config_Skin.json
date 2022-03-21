@@ -1,0 +1,14 @@
+[
+	{
+		"CfgKey": "SkinReikiUpMax",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "SkinLevelUpAttr",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "SkinLevelUpDrugInc",
+		"CfgValue": "5"
+	}
+]

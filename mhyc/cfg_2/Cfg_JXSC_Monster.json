@@ -1,0 +1,242 @@
+[
+	{
+		"GroupId": 1,
+		"Id": 1,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 44,
+		"PosY": 88
+	},
+	{
+		"GroupId": 1,
+		"Id": 2,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 21,
+		"PosY": 85
+	},
+	{
+		"GroupId": 1,
+		"Id": 3,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 33,
+		"PosY": 72
+	},
+	{
+		"GroupId": 1,
+		"Id": 4,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 21,
+		"PosY": 60
+	},
+	{
+		"GroupId": 1,
+		"Id": 5,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 24,
+		"PosY": 51
+	},
+	{
+		"GroupId": 1,
+		"Id": 6,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 50,
+		"PosY": 51
+	},
+	{
+		"GroupId": 1,
+		"Id": 7,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 26,
+		"PosY": 29
+	},
+	{
+		"GroupId": 1,
+		"Id": 8,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 37,
+		"PosY": 26
+	},
+	{
+		"GroupId": 1,
+		"Id": 9,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 46,
+		"PosY": 19
+	},
+	{
+		"GroupId": 1,
+		"Id": 10,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 18,
+		"PosY": 16
+	},
+	{
+		"GroupId": 1,
+		"Id": 11,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 39,
+		"PosY": 49
+	},
+	{
+		"GroupId": 1,
+		"Id": 12,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 24,
+		"PosY": 67
+	},
+	{
+		"GroupId": 1,
+		"Id": 13,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 13,
+		"PosY": 86
+	},
+	{
+		"GroupId": 1,
+		"Id": 14,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 39,
+		"PosY": 80
+	},
+	{
+		"GroupId": 1,
+		"Id": 15,
+		"MonsterId": 36,
+		"MonsterType": 1,
+		"PosX": 30,
+		"PosY": 42
+	},
+	{
+		"GroupId": 2,
+		"Id": 16,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 22,
+		"PosY": 20
+	},
+	{
+		"GroupId": 2,
+		"Id": 17,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 39,
+		"PosY": 16
+	},
+	{
+		"GroupId": 2,
+		"Id": 18,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 30,
+		"PosY": 23
+	},
+	{
+		"GroupId": 2,
+		"Id": 19,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 22,
+		"PosY": 31
+	},
+	{
+		"GroupId": 2,
+		"Id": 20,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 41,
+		"PosY": 29
+	},
+	{
+		"GroupId": 2,
+		"Id": 21,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 53,
+		"PosY": 24
+	},
+	{
+		"GroupId": 2,
+		"Id": 22,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 32,
+		"PosY": 35
+	},
+	{
+		"GroupId": 2,
+		"Id": 23,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 53,
+		"PosY": 36
+	},
+	{
+		"GroupId": 2,
+		"Id": 24,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 40,
+		"PosY": 43
+	},
+	{
+		"GroupId": 2,
+		"Id": 25,
+		"MonsterId": 138,
+		"MonsterType": 1,
+		"PosX": 47,
+		"PosY": 19
+	},
+	{
+		"GroupId": 3,
+		"Id": 26,
+		"MonsterId": 2102,
+		"MonsterType": 2,
+		"PosX": 17,
+		"PosY": 17
+	},
+	{
+		"GroupId": 3,
+		"Id": 27,
+		"MonsterId": 2102,
+		"MonsterType": 2,
+		"PosX": 17,
+		"PosY": 39
+	},
+	{
+		"GroupId": 3,
+		"Id": 28,
+		"MonsterId": 2102,
+		"MonsterType": 2,
+		"PosX": 62,
+		"PosY": 39
+	},
+	{
+		"GroupId": 3,
+		"Id": 29,
+		"MonsterId": 2102,
+		"MonsterType": 2,
+		"PosX": 62,
+		"PosY": 17
+	},
+	{
+		"GroupId": 3,
+		"Id": 30,
+		"MonsterId": 2102,
+		"MonsterType": 2,
+		"PosX": 40,
+		"PosY": 28
+	}
+]

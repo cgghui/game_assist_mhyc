@@ -1,0 +1,262 @@
+[
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1001,
+		"Name": "前言介绍",
+		"NextID": 1002,
+		"Param": "[917515]",
+		"Ren": 2,
+		"ShowBg": 1,
+		"Time": 10,
+		"TipsContent": "好像遭遇了时空乱流！\\n看来要到达神域还要经过一番考验"
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1002,
+		"Name": "占领空地1-1",
+		"NextID": 1003,
+		"Param": "[851979]",
+		"Ren": 4,
+		"Time": 10,
+		"TipsContent": "请先占领一块\u003ccolor=#12A710\u003e空地\u003c/c\u003e"
+	},
+	{
+		"Force": 1,
+		"Function": "4",
+		"Id": 1003,
+		"Name": "占领空地1-2",
+		"NextID": 1004,
+		"Time": 10
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1004,
+		"Name": "占领空地2-1",
+		"NextID": 1005,
+		"Param": "[786443]",
+		"Ren": 4,
+		"Time": 10,
+		"TipsContent": "获得\u003ccolor=#12A710\u003e神坛附近归属\u003c/c\u003e，可对神坛发起进攻"
+	},
+	{
+		"Force": 1,
+		"Function": "4",
+		"Id": 1005,
+		"Name": "占领空地2-2",
+		"NextID": 1006,
+		"Time": 10
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1006,
+		"Name": "占领神坛1",
+		"NextID": 1007,
+		"Param": "[720907]",
+		"Ren": 4,
+		"Time": 10,
+		"TipsContent": "快对\u003ccolor=#12A710\u003e神坛\u003c/c\u003e发起进攻吧！"
+	},
+	{
+		"Force": 1,
+		"Function": "4",
+		"Id": 1007,
+		"Name": "占领神坛2",
+		"NextID": 1008,
+		"Time": 10
+	},
+	{
+		"Force": 1,
+		"Id": 1008,
+		"Name": "占领神坛3",
+		"NextID": 1009,
+		"Pos": "[361,148]",
+		"Time": 10
+	},
+	{
+		"Direct": 3,
+		"Force": 1,
+		"Id": 1009,
+		"Name": "神坛祈祷",
+		"NextID": 1010,
+		"Pos": "[70,444]",
+		"Ren": 2,
+		"Time": 10,
+		"TipsContent": "选择\u003ccolor=#12A710\u003e助战单位\u003c/c\u003e可以增加产出收益哦！"
+	},
+	{
+		"Force": 1,
+		"Id": 1010,
+		"Name": "确定祈祷",
+		"NextID": 1011,
+		"Pos": "[240,160]",
+		"Time": 10
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1011,
+		"Name": "神坛开采",
+		"NextID": 1012,
+		"Param": "[720907]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "\u003ccolor=#12A710\u003e点击圣物精华图标\u003c/c\u003e可收获奖励"
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1012,
+		"Name": "占领空地3-1",
+		"NextID": 1013,
+		"Param": "[655371]",
+		"Ren": 4,
+		"Time": 10,
+		"TipsContent": "穿过前面的\u003ccolor=#12A710\u003e传送阵\u003c/c\u003e我们就能到达神域啦！"
+	},
+	{
+		"Force": 1,
+		"Function": "4",
+		"Id": 1013,
+		"Name": "占领空地3-2",
+		"NextID": 1014,
+		"Time": 10
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 1014,
+		"Name": "前往传送点",
+		"Param": "[589835]",
+		"Ren": 4,
+		"Time": 10,
+		"TipsContent": "神域是一个全新玩法的大陆，除了神坛\\n还有\u003ccolor=#12A710\u003e归墟之境、云顶天宫\u003c/c\u003e等限时副本，\\n让我们开启冒险吧！"
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 2001,
+		"Name": "查看复活点",
+		"NextID": 2002,
+		"Param": "[2]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003e复活点\u003c/c\u003e，\\n兵力归零后会回到这里重新出发。",
+		"instance": 1
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 2002,
+		"Name": "查看教站点",
+		"NextID": 2003,
+		"Param": "[5]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003e交战点\u003c/c\u003e，\\n不同仙宗的玩家可以在这里展开激战。",
+		"instance": 1
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 2003,
+		"Name": "查看BOSS点",
+		"NextID": 2004,
+		"Param": "[14]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003eBOSS点\u003c/c\u003e，击败BOSS获得积分，\\n积分最高的仙宗和个人将获得丰厚奖励！\\n全军出击！",
+		"instance": 1
+	},
+	{
+		"Force": 1,
+		"Id": 2004,
+		"Name": "回到复活点",
+		"ShowBg": 1,
+		"Time": 10,
+		"instance": 1
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 3001,
+		"Name": "查看复活点",
+		"NextID": 3002,
+		"Param": "[102]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003e复活点\u003c/c\u003e，\\n兵力归零后会回到这里重新出发",
+		"instance": 2
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 3002,
+		"Name": "查看教站点",
+		"NextID": 3003,
+		"Param": "[105]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003e交战点\u003c/c\u003e，\\n不同阵营的玩家可以在这里展开激战",
+		"instance": 2
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 3003,
+		"Name": "查看BOSS点",
+		"NextID": 3004,
+		"Param": "[114]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003eBOSS点\u003c/c\u003e，击败BOSS获得积分，\\n积分最高的阵营和个人将获得丰厚奖励！\\n全军出击！",
+		"instance": 2
+	},
+	{
+		"Force": 1,
+		"Id": 3004,
+		"Name": "回到复活点",
+		"ShowBg": 1,
+		"Time": 10,
+		"instance": 2
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 4001,
+		"Name": "查看主城",
+		"NextID": 4002,
+		"Param": "[666666,720966,4521995,9568337,5308562]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "欢迎来到内域，\\n这是您的\u003ccolor=#12A710\u003e阵营主城\u003c/c\u003e",
+		"instance": -1
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 4002,
+		"Name": "查看神兽",
+		"NextID": 4003,
+		"Param": "[666666,4718669,4980809,5242957,4980817]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "\u003ccolor=#12A710\u003e解除神兽封印\u003c/c\u003e可获得\u003ccolor=#12A710\u003e进入云顶天宫的资格\u003c/c\u003e！",
+		"instance": -1
+	},
+	{
+		"Direct": 1,
+		"Force": 1,
+		"Id": 4003,
+		"Name": "查看天宫",
+		"NextID": 1001,
+		"Param": "[4980813]",
+		"Ren": 1,
+		"Time": 10,
+		"TipsContent": "这里是\u003ccolor=#12A710\u003e云顶天宫\u003c/c\u003e限时活动副本",
+		"instance": -1
+	}
+]

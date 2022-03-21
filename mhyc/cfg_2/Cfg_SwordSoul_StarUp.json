@@ -1,0 +1,240 @@
+[
+	{
+		"NeedItem": 1
+	},
+	{
+		"Id": 1,
+		"Level": 1,
+		"NeedItem": 1,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 10000,
+		"Id": 2,
+		"Level": 1,
+		"NeedItem": 1,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 20000,
+		"Id": 3,
+		"Level": 1,
+		"NeedItem": 1,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 30000,
+		"Id": 4,
+		"Level": 2,
+		"NeedItem": 2
+	},
+	{
+		"AttrPercent": 40000,
+		"Id": 5,
+		"Level": 2,
+		"NeedItem": 2,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 50000,
+		"Id": 6,
+		"Level": 2,
+		"NeedItem": 2,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 60000,
+		"Id": 7,
+		"Level": 2,
+		"NeedItem": 2,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 70000,
+		"Id": 8,
+		"Level": 3,
+		"NeedItem": 3
+	},
+	{
+		"AttrPercent": 80000,
+		"Id": 9,
+		"Level": 3,
+		"NeedItem": 3,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 90000,
+		"Id": 10,
+		"Level": 3,
+		"NeedItem": 3,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 100000,
+		"Id": 11,
+		"Level": 3,
+		"NeedItem": 3,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 110000,
+		"Id": 12,
+		"Level": 4,
+		"NeedItem": 4
+	},
+	{
+		"AttrPercent": 120000,
+		"Id": 13,
+		"Level": 4,
+		"NeedItem": 4,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 130000,
+		"Id": 14,
+		"Level": 4,
+		"NeedItem": 4,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 140000,
+		"Id": 15,
+		"Level": 4,
+		"NeedItem": 4,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 150000,
+		"Id": 16,
+		"Level": 5,
+		"NeedItem": 5
+	},
+	{
+		"AttrPercent": 160000,
+		"Id": 17,
+		"Level": 5,
+		"NeedItem": 5,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 170000,
+		"Id": 18,
+		"Level": 5,
+		"NeedItem": 5,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 180000,
+		"Id": 19,
+		"Level": 5,
+		"NeedItem": 5,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 190000,
+		"Id": 20,
+		"Level": 6,
+		"NeedItem": 6
+	},
+	{
+		"AttrPercent": 200000,
+		"Id": 21,
+		"Level": 6,
+		"NeedItem": 6,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 210000,
+		"Id": 22,
+		"Level": 6,
+		"NeedItem": 6,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 220000,
+		"Id": 23,
+		"Level": 6,
+		"NeedItem": 6,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 230000,
+		"Id": 24,
+		"Level": 7,
+		"NeedItem": 7
+	},
+	{
+		"AttrPercent": 240000,
+		"Id": 25,
+		"Level": 7,
+		"NeedItem": 7,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 250000,
+		"Id": 26,
+		"Level": 7,
+		"NeedItem": 7,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 260000,
+		"Id": 27,
+		"Level": 7,
+		"NeedItem": 7,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 270000,
+		"Id": 28,
+		"Level": 8,
+		"NeedItem": 8
+	},
+	{
+		"AttrPercent": 280000,
+		"Id": 29,
+		"Level": 8,
+		"NeedItem": 8,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 290000,
+		"Id": 30,
+		"Level": 8,
+		"NeedItem": 8,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 300000,
+		"Id": 31,
+		"Level": 8,
+		"NeedItem": 8,
+		"Star": 3
+	},
+	{
+		"AttrPercent": 310000,
+		"Id": 32,
+		"Level": 9,
+		"NeedItem": 9
+	},
+	{
+		"AttrPercent": 320000,
+		"Id": 33,
+		"Level": 9,
+		"NeedItem": 9,
+		"Star": 1
+	},
+	{
+		"AttrPercent": 330000,
+		"Id": 34,
+		"Level": 9,
+		"NeedItem": 9,
+		"Star": 2
+	},
+	{
+		"AttrPercent": 340000,
+		"Id": 35,
+		"Level": 9,
+		"Star": 3
+	}
+]

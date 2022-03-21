@@ -1,0 +1,391 @@
+[
+	{
+		"BeginY": 120,
+		"Font": "purple",
+		"ForObj": 1,
+		"ID": 1,
+		"Name": "技能"
+	},
+	{
+		"BeginY": 140,
+		"Font": "yellow",
+		"ForObj": 2,
+		"ID": 2,
+		"Name": "晕"
+	},
+	{
+		"BeginY": 100,
+		"Font": "red",
+		"ForObj": 2,
+		"ID": 3,
+		"Name": "弱点破防",
+		"Result": -1
+	},
+	{
+		"BeginY": 120,
+		"Font": "red",
+		"ForObj": 2,
+		"ID": 4,
+		"Name": "连击",
+		"Result": -1
+	},
+	{
+		"BeginY": 60,
+		"Font": "yellow",
+		"ForObj": 1,
+		"ID": 5,
+		"Name": "增加攻击"
+	},
+	{
+		"BeginY": 90,
+		"Font": "red",
+		"ForObj": 1,
+		"ID": 6,
+		"Name": "吸血",
+		"Result": 1
+	},
+	{
+		"ID": 7,
+		"Name": "直接加属性（加给角色）"
+	},
+	{
+		"BeginY": 120,
+		"Font": "red",
+		"ForObj": 1,
+		"ID": 8,
+		"Name": "反伤",
+		"Result": -1
+	},
+	{
+		"BeginY": 60,
+		"Font": "yellow",
+		"ID": 9,
+		"Name": "复活",
+		"Result": 1
+	},
+	{
+		"BeginY": 110,
+		"Font": "jinghua",
+		"ForObj": 1,
+		"ID": 10,
+		"Name": "回血",
+		"Result": 1
+	},
+	{
+		"BeginY": 140,
+		"Font": "yellow",
+		"ID": 11,
+		"Name": "复仇"
+	},
+	{
+		"BeginY": 120,
+		"Font": "jinghua",
+		"ForObj": 1,
+		"ID": 12,
+		"Name": "净化"
+	},
+	{
+		"BeginY": 100,
+		"Font": "zi",
+		"ForObj": 2,
+		"ID": 13,
+		"Name": "普通",
+		"Result": -1
+	},
+	{
+		"BeginY": 100,
+		"Font": "baoji",
+		"ForObj": 2,
+		"ID": 14,
+		"Name": "暴击",
+		"Result": -1
+	},
+	{
+		"BeginY": 100,
+		"Font": "xian",
+		"ForObj": 2,
+		"ID": 15,
+		"Name": "仙击",
+		"Result": -1
+	},
+	{
+		"BeginY": 100,
+		"Font": "hunji",
+		"ForObj": 2,
+		"ID": 16,
+		"Name": "魂击",
+		"Result": -1
+	},
+	{
+		"BeginY": 110,
+		"Font": "red",
+		"ForObj": 2,
+		"ID": 17,
+		"Name": "闪避"
+	},
+	{
+		"BeginY": 60,
+		"Font": "yellow",
+		"ForObj": 1,
+		"ID": 18,
+		"Name": "减伤"
+	},
+	{
+		"BeginY": 60,
+		"Font": "yellow",
+		"ForObj": 1,
+		"ID": 19,
+		"Name": "伤害"
+	},
+	{
+		"ID": 20,
+		"Name": "状态程序约定"
+	},
+	{
+		"BeginY": 100,
+		"ForObj": 2,
+		"ID": 21,
+		"Name": "秒杀"
+	},
+	{
+		"ID": 22,
+		"Name": "无敌"
+	},
+	{
+		"ID": 23,
+		"Name": "复活小怪"
+	},
+	{
+		"ID": 24,
+		"Name": "护盾（见录屏）"
+	},
+	{
+		"ID": 25,
+		"Name": "境界压制"
+	},
+	{
+		"BeginY": 60,
+		"ID": 26,
+		"Name": "免疫反伤"
+	},
+	{
+		"BeginY": 60,
+		"ID": 27,
+		"Name": "免疫吸血"
+	},
+	{
+		"ID": 28,
+		"Name": "总伤害展示"
+	},
+	{
+		"BeginY": 140,
+		"ID": 29,
+		"Name": "昏睡"
+	},
+	{
+		"ForObj": 2,
+		"ID": 30,
+		"Name": "护盾吸收"
+	},
+	{
+		"ID": 30,
+		"Name": "护盾抵抗"
+	},
+	{
+		"BeginY": 60,
+		"ForObj": 2,
+		"ID": 31,
+		"Name": "招架"
+	},
+	{
+		"ForObj": 2,
+		"ID": 34,
+		"Name": "魅惑"
+	},
+	{
+		"ForObj": 2,
+		"ID": 35,
+		"Name": "合击",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 36,
+		"Name": "单位直接掉血无动画",
+		"Result": -1
+	},
+	{
+		"ForObj": 1,
+		"ID": 37,
+		"Name": "踏风行"
+	},
+	{
+		"ForObj": 1,
+		"ID": 38,
+		"Name": "莺鸣"
+	},
+	{
+		"ForObj": 1,
+		"ID": 39,
+		"Name": "死亡横扫"
+	},
+	{
+		"ForObj": 1,
+		"ID": 40,
+		"Name": "慈悲为怀"
+	},
+	{
+		"ID": 41,
+		"Name": "抵抗秒杀"
+	},
+	{
+		"BeginY": 60,
+		"ForObj": 1,
+		"ID": 42,
+		"Name": "追击"
+	},
+	{
+		"ForObj": 2,
+		"ID": 48,
+		"Name": "吞噬",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 44,
+		"Name": "释放",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 47,
+		"Name": "普通",
+		"Result": -1
+	},
+	{
+		"ForObj": 1,
+		"ID": 49,
+		"Name": "星辰结界"
+	},
+	{
+		"ForObj": 1,
+		"ID": 50,
+		"Name": "能量冲击"
+	},
+	{
+		"ForObj": 1,
+		"ID": 51,
+		"Name": "蝶影重重"
+	},
+	{
+		"ForObj": 1,
+		"ID": 52,
+		"Name": "破晓之刃"
+	},
+	{
+		"BeginY": 100,
+		"ForObj": 2,
+		"ID": 53,
+		"Name": "斩杀",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 60,
+		"Name": "灼烧",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 61,
+		"Name": "冰盾免伤"
+	},
+	{
+		"ForObj": 2,
+		"ID": 62,
+		"Name": "减速"
+	},
+	{
+		"ID": 75
+	},
+	{
+		"BeginY": 80,
+		"ID": 77,
+		"Name": "易伤"
+	},
+	{
+		"ForObj": 2,
+		"ID": 87,
+		"Name": "扣血",
+		"Result": -1
+	},
+	{
+		"ForObj": 2,
+		"ID": 89,
+		"Name": "分摊伤害",
+		"Result": -1
+	},
+	{
+		"BeginY": 120,
+		"ForObj": 2,
+		"ID": 90,
+		"Name": "黑洞"
+	},
+	{
+		"BeginY": 70,
+		"ForObj": 1,
+		"ID": 91,
+		"Name": "减伤百分比"
+	},
+	{
+		"BeginY": 125,
+		"ForObj": 2,
+		"ID": 92,
+		"Name": "守护之甲"
+	},
+	{
+		"BeginY": 110,
+		"ForObj": 1,
+		"ID": 93,
+		"Name": " 双生灵童"
+	},
+	{
+		"BeginY": 70,
+		"ID": 94,
+		"Name": "复活",
+		"Result": 1
+	},
+	{
+		"ForObj": 2,
+		"ID": 95,
+		"Name": "复活"
+	},
+	{
+		"ForObj": 2,
+		"ID": 105,
+		"Name": "嘲讽"
+	},
+	{
+		"ForObj": 1,
+		"ID": 106,
+		"Name": "兴风作浪"
+	},
+	{
+		"ForObj": 2,
+		"ID": 107,
+		"Name": "神击",
+		"Result": -1
+	},
+	{
+		"BeginY": 120,
+		"ForObj": 2,
+		"ID": 108,
+		"Name": "镜花水月"
+	},
+	{
+		"BeginY": 80,
+		"ID": 109,
+		"Name": "反弹控制",
+		"Result": 1
+	}
+]

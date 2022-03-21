@@ -1,0 +1,618 @@
+[
+	{
+		"AddCount": 50,
+		"Class": 1,
+		"LevMax": 1,
+		"LevMin": 1,
+		"Type": 1
+	},
+	{
+		"AddCount": 80,
+		"Class": 1,
+		"LevMax": 2,
+		"LevMin": 2,
+		"Type": 1
+	},
+	{
+		"AddCount": 100,
+		"Class": 1,
+		"LevMax": 3,
+		"LevMin": 3,
+		"Type": 1
+	},
+	{
+		"AddCount": 200,
+		"Class": 1,
+		"LevMax": 4,
+		"LevMin": 4,
+		"Type": 1
+	},
+	{
+		"AddCount": 300,
+		"Class": 1,
+		"LevMax": 5,
+		"LevMin": 5,
+		"Type": 1
+	},
+	{
+		"AddCount": 500,
+		"Class": 1,
+		"LevMax": 6,
+		"LevMin": 6,
+		"Type": 1
+	},
+	{
+		"AddCount": 800,
+		"Class": 1,
+		"LevMax": 7,
+		"LevMin": 7,
+		"Type": 1
+	},
+	{
+		"AddCount": 1200,
+		"Class": 1,
+		"LevMax": 8,
+		"LevMin": 8,
+		"Type": 1
+	},
+	{
+		"AddCount": 1600,
+		"Class": 1,
+		"LevMax": 9,
+		"LevMin": 9,
+		"Type": 1
+	},
+	{
+		"AddCount": 2000,
+		"Class": 1,
+		"LevMax": 10,
+		"LevMin": 10,
+		"Type": 1
+	},
+	{
+		"AddCount": 2500,
+		"Class": 1,
+		"LevMax": 11,
+		"LevMin": 11,
+		"Type": 1
+	},
+	{
+		"AddCount": 3000,
+		"Class": 1,
+		"LevMax": 12,
+		"LevMin": 12,
+		"Type": 1
+	},
+	{
+		"AddCount": 3500,
+		"Class": 1,
+		"LevMax": 13,
+		"LevMin": 13,
+		"Type": 1
+	},
+	{
+		"AddCount": 4000,
+		"Class": 1,
+		"LevMax": 14,
+		"LevMin": 14,
+		"Type": 1
+	},
+	{
+		"AddCount": 4500,
+		"Class": 1,
+		"LevMax": 15,
+		"LevMin": 15,
+		"Type": 1
+	},
+	{
+		"AddCount": 5000,
+		"Class": 1,
+		"LevMax": 16,
+		"LevMin": 16,
+		"Type": 1
+	},
+	{
+		"AddCount": 5500,
+		"Class": 1,
+		"LevMax": 17,
+		"LevMin": 17,
+		"Type": 1
+	},
+	{
+		"AddCount": 6000,
+		"Class": 1,
+		"LevMax": 18,
+		"LevMin": 18,
+		"Type": 1
+	},
+	{
+		"AddCount": 6500,
+		"Class": 1,
+		"LevMax": 19,
+		"LevMin": 19,
+		"Type": 1
+	},
+	{
+		"AddCount": 7000,
+		"Class": 1,
+		"LevMax": 20,
+		"LevMin": 20,
+		"Type": 1
+	},
+	{
+		"AddCount": 7500,
+		"Class": 1,
+		"LevMax": 21,
+		"LevMin": 21,
+		"Type": 1
+	},
+	{
+		"AddCount": 8000,
+		"Class": 1,
+		"LevMax": 22,
+		"LevMin": 22,
+		"Type": 1
+	},
+	{
+		"AddCount": 50,
+		"Class": 1,
+		"LevMax": 1,
+		"LevMin": 1,
+		"Type": 2
+	},
+	{
+		"AddCount": 80,
+		"Class": 1,
+		"LevMax": 2,
+		"LevMin": 2,
+		"Type": 2
+	},
+	{
+		"AddCount": 100,
+		"Class": 1,
+		"LevMax": 3,
+		"LevMin": 3,
+		"Type": 2
+	},
+	{
+		"AddCount": 200,
+		"Class": 1,
+		"LevMax": 4,
+		"LevMin": 4,
+		"Type": 2
+	},
+	{
+		"AddCount": 300,
+		"Class": 1,
+		"LevMax": 5,
+		"LevMin": 5,
+		"Type": 2
+	},
+	{
+		"AddCount": 500,
+		"Class": 1,
+		"LevMax": 6,
+		"LevMin": 6,
+		"Type": 2
+	},
+	{
+		"AddCount": 800,
+		"Class": 1,
+		"LevMax": 7,
+		"LevMin": 7,
+		"Type": 2
+	},
+	{
+		"AddCount": 1200,
+		"Class": 1,
+		"LevMax": 8,
+		"LevMin": 8,
+		"Type": 2
+	},
+	{
+		"AddCount": 1600,
+		"Class": 1,
+		"LevMax": 9,
+		"LevMin": 9,
+		"Type": 2
+	},
+	{
+		"AddCount": 2000,
+		"Class": 1,
+		"LevMax": 10,
+		"LevMin": 10,
+		"Type": 2
+	},
+	{
+		"AddCount": 2500,
+		"Class": 1,
+		"LevMax": 11,
+		"LevMin": 11,
+		"Type": 2
+	},
+	{
+		"AddCount": 3000,
+		"Class": 1,
+		"LevMax": 12,
+		"LevMin": 12,
+		"Type": 2
+	},
+	{
+		"AddCount": 3500,
+		"Class": 1,
+		"LevMax": 13,
+		"LevMin": 13,
+		"Type": 2
+	},
+	{
+		"AddCount": 4000,
+		"Class": 1,
+		"LevMax": 14,
+		"LevMin": 14,
+		"Type": 2
+	},
+	{
+		"AddCount": 4500,
+		"Class": 1,
+		"LevMax": 15,
+		"LevMin": 15,
+		"Type": 2
+	},
+	{
+		"AddCount": 5000,
+		"Class": 1,
+		"LevMax": 16,
+		"LevMin": 16,
+		"Type": 2
+	},
+	{
+		"AddCount": 5500,
+		"Class": 1,
+		"LevMax": 17,
+		"LevMin": 17,
+		"Type": 2
+	},
+	{
+		"AddCount": 6000,
+		"Class": 1,
+		"LevMax": 18,
+		"LevMin": 18,
+		"Type": 2
+	},
+	{
+		"AddCount": 6500,
+		"Class": 1,
+		"LevMax": 19,
+		"LevMin": 19,
+		"Type": 2
+	},
+	{
+		"AddCount": 7000,
+		"Class": 1,
+		"LevMax": 20,
+		"LevMin": 20,
+		"Type": 2
+	},
+	{
+		"AddCount": 7500,
+		"Class": 1,
+		"LevMax": 21,
+		"LevMin": 21,
+		"Type": 2
+	},
+	{
+		"AddCount": 8000,
+		"Class": 1,
+		"LevMax": 22,
+		"LevMin": 22,
+		"Type": 2
+	},
+	{
+		"AddCount": 50,
+		"Class": 1,
+		"LevMax": 1,
+		"LevMin": 1,
+		"Type": 3
+	},
+	{
+		"AddCount": 80,
+		"Class": 1,
+		"LevMax": 2,
+		"LevMin": 2,
+		"Type": 3
+	},
+	{
+		"AddCount": 100,
+		"Class": 1,
+		"LevMax": 3,
+		"LevMin": 3,
+		"Type": 3
+	},
+	{
+		"AddCount": 200,
+		"Class": 1,
+		"LevMax": 4,
+		"LevMin": 4,
+		"Type": 3
+	},
+	{
+		"AddCount": 300,
+		"Class": 1,
+		"LevMax": 5,
+		"LevMin": 5,
+		"Type": 3
+	},
+	{
+		"AddCount": 500,
+		"Class": 1,
+		"LevMax": 6,
+		"LevMin": 6,
+		"Type": 3
+	},
+	{
+		"AddCount": 800,
+		"Class": 1,
+		"LevMax": 7,
+		"LevMin": 7,
+		"Type": 3
+	},
+	{
+		"AddCount": 1200,
+		"Class": 1,
+		"LevMax": 8,
+		"LevMin": 8,
+		"Type": 3
+	},
+	{
+		"AddCount": 1600,
+		"Class": 1,
+		"LevMax": 9,
+		"LevMin": 9,
+		"Type": 3
+	},
+	{
+		"AddCount": 2000,
+		"Class": 1,
+		"LevMax": 10,
+		"LevMin": 10,
+		"Type": 3
+	},
+	{
+		"AddCount": 2500,
+		"Class": 1,
+		"LevMax": 11,
+		"LevMin": 11,
+		"Type": 3
+	},
+	{
+		"AddCount": 3000,
+		"Class": 1,
+		"LevMax": 12,
+		"LevMin": 12,
+		"Type": 3
+	},
+	{
+		"AddCount": 3500,
+		"Class": 1,
+		"LevMax": 13,
+		"LevMin": 13,
+		"Type": 3
+	},
+	{
+		"AddCount": 4000,
+		"Class": 1,
+		"LevMax": 14,
+		"LevMin": 14,
+		"Type": 3
+	},
+	{
+		"AddCount": 4500,
+		"Class": 1,
+		"LevMax": 15,
+		"LevMin": 15,
+		"Type": 3
+	},
+	{
+		"AddCount": 5000,
+		"Class": 1,
+		"LevMax": 16,
+		"LevMin": 16,
+		"Type": 3
+	},
+	{
+		"AddCount": 5500,
+		"Class": 1,
+		"LevMax": 17,
+		"LevMin": 17,
+		"Type": 3
+	},
+	{
+		"AddCount": 6000,
+		"Class": 1,
+		"LevMax": 18,
+		"LevMin": 18,
+		"Type": 3
+	},
+	{
+		"AddCount": 6500,
+		"Class": 1,
+		"LevMax": 19,
+		"LevMin": 19,
+		"Type": 3
+	},
+	{
+		"AddCount": 7000,
+		"Class": 1,
+		"LevMax": 20,
+		"LevMin": 20,
+		"Type": 3
+	},
+	{
+		"AddCount": 7500,
+		"Class": 1,
+		"LevMax": 21,
+		"LevMin": 21,
+		"Type": 3
+	},
+	{
+		"AddCount": 8000,
+		"Class": 1,
+		"LevMax": 22,
+		"LevMin": 22,
+		"Type": 3
+	},
+	{
+		"AddCount": 50,
+		"Class": 1,
+		"LevMax": 1,
+		"LevMin": 1,
+		"Type": 4
+	},
+	{
+		"AddCount": 80,
+		"Class": 1,
+		"LevMax": 2,
+		"LevMin": 2,
+		"Type": 4
+	},
+	{
+		"AddCount": 100,
+		"Class": 1,
+		"LevMax": 3,
+		"LevMin": 3,
+		"Type": 4
+	},
+	{
+		"AddCount": 200,
+		"Class": 1,
+		"LevMax": 4,
+		"LevMin": 4,
+		"Type": 4
+	},
+	{
+		"AddCount": 300,
+		"Class": 1,
+		"LevMax": 5,
+		"LevMin": 5,
+		"Type": 4
+	},
+	{
+		"AddCount": 500,
+		"Class": 1,
+		"LevMax": 6,
+		"LevMin": 6,
+		"Type": 4
+	},
+	{
+		"AddCount": 800,
+		"Class": 1,
+		"LevMax": 7,
+		"LevMin": 7,
+		"Type": 4
+	},
+	{
+		"AddCount": 1200,
+		"Class": 1,
+		"LevMax": 8,
+		"LevMin": 8,
+		"Type": 4
+	},
+	{
+		"AddCount": 1600,
+		"Class": 1,
+		"LevMax": 9,
+		"LevMin": 9,
+		"Type": 4
+	},
+	{
+		"AddCount": 2000,
+		"Class": 1,
+		"LevMax": 10,
+		"LevMin": 10,
+		"Type": 4
+	},
+	{
+		"AddCount": 2500,
+		"Class": 1,
+		"LevMax": 11,
+		"LevMin": 11,
+		"Type": 4
+	},
+	{
+		"AddCount": 3000,
+		"Class": 1,
+		"LevMax": 12,
+		"LevMin": 12,
+		"Type": 4
+	},
+	{
+		"AddCount": 3500,
+		"Class": 1,
+		"LevMax": 13,
+		"LevMin": 13,
+		"Type": 4
+	},
+	{
+		"AddCount": 4000,
+		"Class": 1,
+		"LevMax": 14,
+		"LevMin": 14,
+		"Type": 4
+	},
+	{
+		"AddCount": 4500,
+		"Class": 1,
+		"LevMax": 15,
+		"LevMin": 15,
+		"Type": 4
+	},
+	{
+		"AddCount": 5000,
+		"Class": 1,
+		"LevMax": 16,
+		"LevMin": 16,
+		"Type": 4
+	},
+	{
+		"AddCount": 5500,
+		"Class": 1,
+		"LevMax": 17,
+		"LevMin": 17,
+		"Type": 4
+	},
+	{
+		"AddCount": 6000,
+		"Class": 1,
+		"LevMax": 18,
+		"LevMin": 18,
+		"Type": 4
+	},
+	{
+		"AddCount": 6500,
+		"Class": 1,
+		"LevMax": 19,
+		"LevMin": 19,
+		"Type": 4
+	},
+	{
+		"AddCount": 7000,
+		"Class": 1,
+		"LevMax": 20,
+		"LevMin": 20,
+		"Type": 4
+	},
+	{
+		"AddCount": 7500,
+		"Class": 1,
+		"LevMax": 21,
+		"LevMin": 21,
+		"Type": 4
+	},
+	{
+		"AddCount": 8000,
+		"Class": 1,
+		"LevMax": 22,
+		"LevMin": 22,
+		"Type": 4
+	}
+]

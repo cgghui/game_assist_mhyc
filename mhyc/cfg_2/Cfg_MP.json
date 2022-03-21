@@ -1,0 +1,51 @@
+[
+	{
+		"Id": 1,
+		"LimitUnionDay": 1,
+		"Name": "光明铭牌",
+		"OpenDay": 40,
+		"Quality": 5
+	},
+	{
+		"Id": 2,
+		"LimitUnionDay": 1,
+		"Name": "孔雀铭牌",
+		"OpenDay": 40,
+		"Quality": 6
+	},
+	{
+		"Id": 3,
+		"LimitUnionDay": 1,
+		"Name": "游鲲铭牌",
+		"OpenDay": 40,
+		"Quality": 6
+	},
+	{
+		"Id": 4,
+		"LimitUnionDay": 1,
+		"Name": "天吴铭牌",
+		"OpenDay": 40,
+		"Quality": 7
+	},
+	{
+		"Id": 5,
+		"LimitUnionDay": 1,
+		"Name": "白泽铭牌",
+		"OpenDay": 40,
+		"Quality": 7
+	},
+	{
+		"Id": 6,
+		"LimitUnionDay": 1,
+		"Name": "火猿铭牌",
+		"OpenDay": 69,
+		"Quality": 7
+	},
+	{
+		"Id": 7,
+		"LimitUnionDay": 1,
+		"Name": "炎兽铭牌",
+		"OpenDay": 69,
+		"Quality": 7
+	}
+]

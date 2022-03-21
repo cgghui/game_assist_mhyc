@@ -1,0 +1,38 @@
+[
+	{
+		"CfgKey": "TimeShopItem",
+		"CfgValue": "4030162:1"
+	},
+	{
+		"CfgKey": "TimeShopItemsNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "TimeShopRefreshTime",
+		"CfgValue": "06:00|18:00"
+	},
+	{
+		"CfgKey": "MoonShopItem",
+		"CfgValue": "2501101:1"
+	},
+	{
+		"CfgKey": "MoonShopItemsNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "MoonShopRefreshTime",
+		"CfgValue": "06:00|18:00"
+	},
+	{
+		"CfgKey": "YearTimeShopItem",
+		"CfgValue": "4030246:10"
+	},
+	{
+		"CfgKey": "YearTimeShopItemsNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "YearTimeShopRefreshTime",
+		"CfgValue": "03:00|09:00|15:00|18:00|23:00"
+	}
+]

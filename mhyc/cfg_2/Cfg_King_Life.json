@@ -1,0 +1,202 @@
+[
+	{
+		"BaseAttr": 3302001,
+		"Id": 1,
+		"Pos": 1
+	},
+	{
+		"BaseAttr": 3302002,
+		"Id": 1,
+		"Pos": 2
+	},
+	{
+		"BaseAttr": 3302003,
+		"Id": 1,
+		"Pos": 3
+	},
+	{
+		"BaseAttr": 3302004,
+		"Id": 1,
+		"Pos": 4
+	},
+	{
+		"BaseAttr": 3302005,
+		"Id": 1,
+		"Pos": 5
+	},
+	{
+		"BaseAttr": 3302006,
+		"Id": 1,
+		"Pos": 6
+	},
+	{
+		"BaseAttr": 3302007,
+		"Id": 1,
+		"Pos": 7
+	},
+	{
+		"BaseAttr": 3302008,
+		"Id": 1,
+		"Pos": 8
+	},
+	{
+		"BaseAttr": 3302101,
+		"Id": 2,
+		"Pos": 1
+	},
+	{
+		"BaseAttr": 3302102,
+		"Id": 2,
+		"Pos": 2
+	},
+	{
+		"BaseAttr": 3302103,
+		"Id": 2,
+		"Pos": 3
+	},
+	{
+		"BaseAttr": 3302104,
+		"Id": 2,
+		"Pos": 4
+	},
+	{
+		"BaseAttr": 3302105,
+		"Id": 2,
+		"Pos": 5
+	},
+	{
+		"BaseAttr": 3302106,
+		"Id": 2,
+		"Pos": 6
+	},
+	{
+		"BaseAttr": 3302107,
+		"Id": 2,
+		"Pos": 7
+	},
+	{
+		"BaseAttr": 3302108,
+		"Id": 2,
+		"Pos": 8
+	},
+	{
+		"BaseAttr": 3302201,
+		"Id": 3,
+		"Pos": 1
+	},
+	{
+		"BaseAttr": 3302202,
+		"Id": 3,
+		"Pos": 2
+	},
+	{
+		"BaseAttr": 3302203,
+		"Id": 3,
+		"Pos": 3
+	},
+	{
+		"BaseAttr": 3302204,
+		"Id": 3,
+		"Pos": 4
+	},
+	{
+		"BaseAttr": 3302205,
+		"Id": 3,
+		"Pos": 5
+	},
+	{
+		"BaseAttr": 3302206,
+		"Id": 3,
+		"Pos": 6
+	},
+	{
+		"BaseAttr": 3302207,
+		"Id": 3,
+		"Pos": 7
+	},
+	{
+		"BaseAttr": 3302208,
+		"Id": 3,
+		"Pos": 8
+	},
+	{
+		"BaseAttr": 3302301,
+		"Id": 4,
+		"Pos": 1
+	},
+	{
+		"BaseAttr": 3302302,
+		"Id": 4,
+		"Pos": 2
+	},
+	{
+		"BaseAttr": 3302303,
+		"Id": 4,
+		"Pos": 3
+	},
+	{
+		"BaseAttr": 3302304,
+		"Id": 4,
+		"Pos": 4
+	},
+	{
+		"BaseAttr": 3302305,
+		"Id": 4,
+		"Pos": 5
+	},
+	{
+		"BaseAttr": 3302306,
+		"Id": 4,
+		"Pos": 6
+	},
+	{
+		"BaseAttr": 3302307,
+		"Id": 4,
+		"Pos": 7
+	},
+	{
+		"BaseAttr": 3302308,
+		"Id": 4,
+		"Pos": 8
+	},
+	{
+		"BaseAttr": 3302401,
+		"Id": 5,
+		"Pos": 1
+	},
+	{
+		"BaseAttr": 3302402,
+		"Id": 5,
+		"Pos": 2
+	},
+	{
+		"BaseAttr": 3302403,
+		"Id": 5,
+		"Pos": 3
+	},
+	{
+		"BaseAttr": 3302404,
+		"Id": 5,
+		"Pos": 4
+	},
+	{
+		"BaseAttr": 3302405,
+		"Id": 5,
+		"Pos": 5
+	},
+	{
+		"BaseAttr": 3302406,
+		"Id": 5,
+		"Pos": 6
+	},
+	{
+		"BaseAttr": 3302407,
+		"Id": 5,
+		"Pos": 7
+	},
+	{
+		"BaseAttr": 3302408,
+		"Id": 5,
+		"Pos": 8
+	}
+]

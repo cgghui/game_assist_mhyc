@@ -1,0 +1,98 @@
+[
+	{
+		"CfgKey": "FamilyCreateLevel",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "FamilyCreateVIP",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "FamilyCreateCoin",
+		"CfgValue": "2:2000"
+	},
+	{
+		"CfgKey": "FamilyCreateNameL",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "FamilyAccuse",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "FamilyOfflineDel",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "FamilyAutoDel",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "FamilyAccuseTime",
+		"CfgValue": "18000"
+	},
+	{
+		"CfgKey": "FamilyGuardCount",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "FamilySymbolCost",
+		"CfgValue": "2:1000"
+	},
+	{
+		"CfgKey": "FamilyNameCost",
+		"CfgValue": "1:100"
+	},
+	{
+		"CfgKey": "FamilyNameRecover",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "FamilyApplyTime",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "FamilyApplyNum",
+		"CfgValue": "999"
+	},
+	{
+		"CfgKey": "FamilyHaloRefreshCost",
+		"CfgValue": "2:500"
+	},
+	{
+		"CfgKey": "FamilyWin",
+		"CfgValue": "9:5|2310001:10|63:20"
+	},
+	{
+		"CfgKey": "FamilyLose",
+		"CfgValue": "9:3|2310001:5|63:10"
+	},
+	{
+		"CfgKey": "FamilyFillReward",
+		"CfgValue": "1:2001|3:2002|6:2003|10:2004"
+	},
+	{
+		"CfgKey": "FamilyJJCTimes",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "FamilyJJCBuyLimitId",
+		"CfgValue": "30011"
+	},
+	{
+		"CfgKey": "FamilyJJCBuyNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "FamilyJJCOpenTime",
+		"CfgValue": "1|00|00"
+	},
+	{
+		"CfgKey": "FamilyJJCEndTime",
+		"CfgValue": "7|23|00"
+	},
+	{
+		"CfgKey": "FamilyWarPast",
+		"CfgValue": "40"
+	}
+]

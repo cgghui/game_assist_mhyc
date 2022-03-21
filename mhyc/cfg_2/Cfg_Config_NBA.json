@@ -1,0 +1,54 @@
+[
+	{
+		"CfgKey": "NBAEnterMax",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "NBAShowMax",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "NBAKillScore",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "NBARoundWaitTime",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "NBARoundStartTime",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "NBARoundInternalTime",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "NBAGuessTimes",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "NBAGuessTimesOnPlayer",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "NBAGuessRepeat",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "NBAPreMapId",
+		"CfgValue": "2410"
+	},
+	{
+		"CfgKey": "NBAPrePrize",
+		"CfgValue": "1:1000|2:2222"
+	},
+	{
+		"CfgKey": "NBARelivePoint",
+		"CfgValue": "23:16|8:28|25:43|41:45|58:42|72:30|55:16|41:14|40:28"
+	},
+	{
+		"CfgKey": "NBABuyAuto",
+		"CfgValue": "1:1000"
+	}
+]

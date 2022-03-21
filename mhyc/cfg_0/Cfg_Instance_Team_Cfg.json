@@ -1,0 +1,62 @@
+[
+	{
+		"BG": "img_zdfb1",
+		"BuyTimes": "0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3",
+		"FreeTimes": 2,
+		"InstanceType": 241,
+		"Jump": "2:5|3:3|4:1",
+		"MaxLevel": 100,
+		"NeedItem": "1:500|1:3000|1:5000|1:10000",
+		"NewBuyTimes": 33101,
+		"RankAttr": 459,
+		"ShowPrize": "7:1|790:1",
+		"SweepLevel": 100,
+		"SweepSVip": 8,
+		"TeamPrize": "381:1"
+	},
+	{
+		"BG": "img_zdfb2",
+		"BuyTimes": "0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3",
+		"FreeTimes": 2,
+		"InstanceType": 242,
+		"Jump": "2:5|3:3|4:1",
+		"MaxLevel": 100,
+		"NeedItem": "1:500|1:3000|1:5000|1:10000",
+		"NewBuyTimes": 33102,
+		"RankAttr": 460,
+		"ShowPrize": "2251001:1|951:1",
+		"SweepLevel": 100,
+		"SweepSVip": 8,
+		"TeamPrize": "382:1"
+	},
+	{
+		"BG": "img_zdfb3",
+		"BuyTimes": "0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3",
+		"FreeTimes": 2,
+		"InstanceType": 340,
+		"Jump": "1:1",
+		"MaxLevel": 10,
+		"NeedItem": "1:3000|1:5000|1:10000",
+		"NewBuyTimes": 33103,
+		"RankAttr": 464,
+		"ShowPrize": "2020080:1|2020089:1|2020041:1|2020090:1",
+		"SweepLevel": 10,
+		"SweepSVip": 8,
+		"TeamPrize": "384:1"
+	},
+	{
+		"BG": "img_zdfb4",
+		"BuyTimes": "0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3",
+		"FreeTimes": 2,
+		"InstanceType": 341,
+		"Jump": "1:2",
+		"MaxLevel": 10,
+		"NeedItem": "1:3000|1:5000|1:10000",
+		"NewBuyTimes": 33104,
+		"RankAttr": 465,
+		"ShowPrize": "2700501:1|2700301:1|2700201:1|2700101:1|2:1",
+		"SweepLevel": 10,
+		"SweepSVip": 8,
+		"TeamPrize": "385:1"
+	}
+]

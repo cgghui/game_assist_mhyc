@@ -1,0 +1,527 @@
+[
+	{
+		"GroupId": 1,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 2,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 3,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7004,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7005,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 4,
+		"Id": 7006,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 11,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7009,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 12,
+		"Id": 7008,
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 21,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7007,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 22,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 23,
+		"Id": 7004,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7009,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7009,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7009,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7009,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7010,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	},
+	{
+		"GroupId": 24,
+		"Id": 7009,
+		"StateIcon": "fightbuff_xiongdiqingshen",
+		"UnitType": 1
+	}
+]

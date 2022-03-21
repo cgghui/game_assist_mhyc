@@ -1,0 +1,19 @@
+[
+	{
+		"Id": 1,
+		"MaxDay": 77,
+		"MinDay": 1
+	},
+	{
+		"Id": 2,
+		"MaxDay": 137,
+		"MinDay": 78,
+		"Times": 1
+	},
+	{
+		"Id": 3,
+		"MaxDay": 99999,
+		"MinDay": 138,
+		"Times": 2
+	}
+]

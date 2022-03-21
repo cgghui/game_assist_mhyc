@@ -1,0 +1,6715 @@
+{
+	"CfgHero_SkillType": {
+		"SkillID": 0,
+		"TYPE": 0
+	},
+	"Cfg_1RMBPet": {
+		"ActId": 0,
+		"Amount": 0,
+		"Id": 0,
+		"Items": "",
+		"LimitAmount": 0,
+		"PetCycle": 0,
+		"PetId": 0,
+		"PetName": "",
+		"PublicityTime": 0
+	},
+	"Cfg_AGDebuff": {
+		"Id": 0,
+		"MaxPassNum": 0,
+		"MinPassNum": 0,
+		"WeakPre": 0
+	},
+	"Cfg_AchieveTask_Grade": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"TargetDesc": "",
+		"Type": 0
+	},
+	"Cfg_ActBanner": {
+		"BgPic": "",
+		"BgPic1": "",
+		"DesPic": "",
+		"DesPic1": "",
+		"FuncId": 0,
+		"IconPic": "",
+		"IconPic1": "",
+		"Id": 0,
+		"Sort": 0,
+		"Value": 0
+	},
+	"Cfg_ActCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_ActExtraDrop": {
+		"ActId": 0,
+		"AddDesc": "",
+		"DropId": "",
+		"DropItemId": "",
+		"DropProb": "",
+		"Id": 0,
+		"LimitId": "",
+		"TargetProp": "",
+		"Type": 0
+	},
+	"Cfg_ActFirstRecharge": {
+		"Day": 0,
+		"Id": 0,
+		"ItemStr": ""
+	},
+	"Cfg_ActFirstRecharge2": {
+		"Day": 0,
+		"Id": 0,
+		"ItemStr": "",
+		"Type": 0
+	},
+	"Cfg_ActFirstRechargeCfg": {
+		"CfgKey": "",
+		"CfgValue": "",
+		"STRING": ""
+	},
+	"Cfg_ActGiftNew": {
+		"ActId": 0,
+		"CostNum": 0,
+		"CostType": 0,
+		"DayLimitId": 0,
+		"GoodID": 0,
+		"GoodList": "",
+		"GoodName": "",
+		"GoodType": 0,
+		"GroupPrize": 0,
+		"IsShow": 0,
+		"ItemStr": "",
+		"Items": "",
+		"LifeLimitId": 0,
+		"LimConDes": "",
+		"LimConId": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Price": 0,
+		"ShopShowDays": 0,
+		"Sort": 0
+	},
+	"Cfg_ActGodSuit": {
+		"AId": 0,
+		"ActId": 0,
+		"BgSpr": "",
+		"ItemID": "",
+		"RolePosY": 0,
+		"ShowType": 0
+	},
+	"Cfg_ActInvest": {
+		"ActId": 0,
+		"AnimId": 0,
+		"Desc": "",
+		"Name": "",
+		"NeedItemId": 0,
+		"NeedItemNum": 0,
+		"NeedVipLevel": 0,
+		"RebateItems": "",
+		"Times": 0,
+		"UseYuan": 0
+	},
+	"Cfg_ActPassCheck": {
+		"ActId": 0,
+		"ActTaskId": 0,
+		"AddBuyInternal": 0,
+		"AddBuyMax": 0,
+		"AddBuyRate": 0,
+		"BuyMax": 0,
+		"ExpBox": 0,
+		"GoodsId": 0,
+		"Loop": 0,
+		"SessionInternal": 0
+	},
+	"Cfg_ActPassCheckLevel": {
+		"ActId": 0,
+		"BuyLevelCost": "",
+		"Exp": 0,
+		"Group": 0,
+		"Level": 0,
+		"Prize1": "",
+		"Prize2": "",
+		"ShowBigPrize": 0,
+		"ShowModel": 0
+	},
+	"Cfg_ActPassCheckTask": {
+		"ActTaskId": 0,
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Desc": "",
+		"Exp": 0,
+		"Group": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize2": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_ActRank": {
+		"FuncId": 0,
+		"GradeType": 0,
+		"Id": 0,
+		"Name": "",
+		"Param": 0,
+		"ParamClient": 0,
+		"PushRank": 0,
+		"RankAll": 0,
+		"RankCond": 0,
+		"RankType": 0,
+		"Tag": 0,
+		"TomActId": 0
+	},
+	"Cfg_ActRankClient": {
+		"BtnImg": "",
+		"HideRed": 0,
+		"Id": 0,
+		"IdxTag": 0,
+		"IsMain": 0,
+		"Name": "",
+		"ParamClient": 0,
+		"Prefab1": "",
+		"Prefab2": ""
+	},
+	"Cfg_ActRankPrize": {
+		"ActId": 0,
+		"AddPrize": "",
+		"AssistsLimit": 0,
+		"AssistsPrize": "",
+		"BasePrize": "",
+		"BasicsAbility": 0,
+		"Condition": 0,
+		"GroupPrize": 0,
+		"GroupPrize2": 0,
+		"Id": 0,
+		"PrizeContent": "",
+		"PrizeTitle": "",
+		"RankLimit": 0,
+		"RankMax": 0,
+		"RankMin": 0
+	},
+	"Cfg_ActReTurntab": {
+		"ActId": 0,
+		"MoneyCount": 0,
+		"MoneyPoint": 0
+	},
+	"Cfg_ActReTurntabItem": {
+		"ActId": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"OddClient": "",
+		"SortId": 0
+	},
+	"Cfg_ActReTurntabRewad": {
+		"ActId": 0,
+		"Id": 0,
+		"MoneyPoint": 0,
+		"Prize": ""
+	},
+	"Cfg_ActReachReward": {
+		"ActId": 0,
+		"GroupPrize": 0,
+		"Id": 0,
+		"Items": "",
+		"Param": 0,
+		"Score": 0,
+		"Type": 0
+	},
+	"Cfg_ActRewardGroup": {
+		"GroupId": 0,
+		"Id": 0,
+		"Items": "",
+		"MaxDay": 0,
+		"MaxLevel": 0,
+		"MinDay": 0,
+		"MinLevel": 0
+	},
+	"Cfg_ActRushRankGive": {
+		"ActId": 0,
+		"BannerIcon": "",
+		"BannerUrl": "",
+		"GiveRankID": 0,
+		"HelpDesc": "",
+		"HelpLogD": "",
+		"MHelpSlider": "",
+		"PriceBanner": "",
+		"PriceTti": "",
+		"ReceiveRankID": 0,
+		"RushSex": 0,
+		"Tag1": "",
+		"Tag2": "",
+		"Tag3": "",
+		"ThemeBg": "",
+		"ThemeIcon": "",
+		"ThemeItemBg1": "",
+		"ThemeItemBg2": "",
+		"ThemeItemID": 0
+	},
+	"Cfg_ActScore": {
+		"ActId": 0,
+		"AddScore": 0,
+		"CheckRedPoint": 0,
+		"FuncId": 0,
+		"ItemId": ""
+	},
+	"Cfg_ActShop": {
+		"ActId": 0,
+		"CostItemId": "",
+		"CostItemNum": 0,
+		"DisCount": 0,
+		"GoodID": 0,
+		"Group": 0,
+		"ItemStr": "",
+		"LimConDes": "",
+		"LimConID": 0,
+		"LimDayCon": 0,
+		"LimitTimeID": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Name": "",
+		"Params": "",
+		"Price": 0,
+		"ReturnDay": 0,
+		"Sort": 0,
+		"Spike": 0
+	},
+	"Cfg_ActTabPage": {
+		"ActId": 0,
+		"ActType": 0,
+		"BrPath": "",
+		"Cartoon": "",
+		"Desc1": "",
+		"Desc2": ""
+	},
+	"Cfg_ActTask": {
+		"AnimId": "",
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Group": 0,
+		"GroupPrize": 0,
+		"Id": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"RevelValue": 0,
+		"ServerCount": 0,
+		"ServerCountType": 0,
+		"ShowCond": 0,
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_ActTheme2": {
+		"ActId": 0,
+		"Id": 0,
+		"Integral": 0,
+		"Item": "",
+		"ItemCost": "",
+		"LuckTips": "",
+		"Lucky": 0,
+		"Name": "",
+		"Type": 0
+	},
+	"Cfg_ActTheme2Lucky": {
+		"ActId": 0,
+		"Id": 0,
+		"LuckyMax": 0,
+		"LuckyMin": 0,
+		"LuckyProb": 0,
+		"Type": 0
+	},
+	"Cfg_ActTheme2Reward": {
+		"ActId": 0,
+		"Id": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"OddClient": "",
+		"PrizeType": 0,
+		"Sort": 0,
+		"Type": 0
+	},
+	"Cfg_ActTheme3Bg": {
+		"ActId": 0,
+		"ActName": "",
+		"BgName1": "",
+		"BgName10": "",
+		"BgName11": "",
+		"BgName12": "",
+		"BgName2": "",
+		"BgName3": "",
+		"BgName4": "",
+		"BgName5": "",
+		"BgName6": "",
+		"BgName7": "",
+		"BgName8": "",
+		"BgName9": "",
+		"BtnLabelColor1": "",
+		"BtnLabelOutLine1": "",
+		"BtnName1": "",
+		"Color1": "",
+		"Color2": "",
+		"Color3": "",
+		"Color4": "",
+		"Color5": "",
+		"Color6": "",
+		"Color7": "",
+		"FilePath": "",
+		"RewardDesc": "",
+		"isDiscount": 0,
+		"moveX": 0,
+		"moveY": 0,
+		"showReturn": 0
+	},
+	"Cfg_ActTheme3Cfg": {
+		"ActId": 0,
+		"DiscounUnlockCost": 0,
+		"DiscountUnlockGoodsId": 0,
+		"PointName": "",
+		"RechargePoint": 0,
+		"RechargeRMB": 0,
+		"TaskName": "",
+		"TaskPoint": 0,
+		"UnlockCost": 0,
+		"UnlockGoodsId": 0
+	},
+	"Cfg_ActTurntabGear": {
+		"ActId": 0,
+		"Gear": 0,
+		"Id": 0,
+		"Integral": 0,
+		"Prize": ""
+	},
+	"Cfg_ActTurntabItem": {
+		"ActId": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Odd": 0,
+		"OddClient": "",
+		"SortId": 0,
+		"TurnGroup": 0
+	},
+	"Cfg_ActWishTree": {
+		"ActId": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Name": "",
+		"TagType": 0,
+		"Type": 0,
+		"Weight": 0
+	},
+	"Cfg_ActXBWishList": {
+		"FuncId": 0,
+		"Group": 0,
+		"Id": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Multiple": 0,
+		"Times": 0,
+		"WishItemShow": ""
+	},
+	"Cfg_ActXianYuDuoBao": {
+		"ActId": 0,
+		"AddNotice": 0,
+		"Alias": "",
+		"Category": 0,
+		"ExtParam": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"ItemType": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Odd": 0,
+		"Odd1": 0,
+		"Odd2": 0,
+		"OddClient": "",
+		"PrizeParam": 0,
+		"PrizeType": 0,
+		"Quality": 0,
+		"Sort": 0,
+		"SortId": 0
+	},
+	"Cfg_ActXunBao": {
+		"BuyTimes": 0,
+		"Desc": "",
+		"DoubleDay": "",
+		"ExChFunId": 0,
+		"ExChRedId": 0,
+		"ExchangeDesc": "",
+		"FiftyTimeDiscount": 0,
+		"FndBg": "",
+		"FndBtnName": "",
+		"FndFen": "",
+		"FndTemplate": 0,
+		"FndTile": "",
+		"GoldBuyItem": 0,
+		"GoldType": "",
+		"GoodsPrice": 0,
+		"Id": 0,
+		"Items": "",
+		"MaxAmount": 0,
+		"MaxKeepFree": 0,
+		"Name": "",
+		"OncePercent": 0,
+		"OneTimeItemId": "",
+		"RecoverTime": 0,
+		"RelatedCfg": "",
+		"SngItemIcon": "",
+		"SngTitle": "",
+		"TenTimeDiscount": 0,
+		"WhId": 0,
+		"WishGroup": 0,
+		"XBType": 0
+	},
+	"Cfg_ActXunBaoDragon": {
+		"ActId": 0,
+		"AddNotice": 0,
+		"Category": 0,
+		"ExtParam": 0,
+		"Id": 0,
+		"IsHot": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"ItemType": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Odd": 0,
+		"Odd1": 0,
+		"OddClient": "",
+		"OddClient1": "",
+		"PrizeParam": 0,
+		"PrizeType": 0,
+		"Quality": 0,
+		"Sort": 0,
+		"SortId": 0
+	},
+	"Cfg_ActXunBaoPet": {
+		"ActId": 0,
+		"AddNotice": 0,
+		"Category": 0,
+		"ExtParam": 0,
+		"Id": 0,
+		"IsHot": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"ItemType": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Odd": 0,
+		"Odd1": 0,
+		"Odd2": 0,
+		"OddClient": "",
+		"OddClient1": "",
+		"PrizeParam": 0,
+		"PrizeType": 0,
+		"Quality": 0,
+		"Sort": 0,
+		"SortId": 0
+	},
+	"Cfg_ActXunBaoWish": {
+		"ActId": 0,
+		"AddNotice": 0,
+		"Category": 0,
+		"ExtParam": 0,
+		"Id": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"ItemType": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Odd": 0,
+		"OddClient": "",
+		"PrizeParam": 0,
+		"PrizeType": 0,
+		"Quality": 0,
+		"Sort": 0,
+		"SortId": 0
+	},
+	"Cfg_ActXunExchange": {
+		"ActId": 0,
+		"ActName": "",
+		"Id": 0,
+		"ItemStr": "",
+		"LimTimeID": 0,
+		"NeedScore": 0,
+		"SortId": 0
+	},
+	"Cfg_Act_JXSC_ChangeSkin": {
+		"HeadType": 0,
+		"Id": 0,
+		"ResourceId": 0,
+		"ResourceType": 0
+	},
+	"Cfg_Act_JXSC_RankPrize": {
+		"FuirstRewards": 0,
+		"Id": 0,
+		"Rank": "",
+		"SecondRewards": 0
+	},
+	"Cfg_Act_WorldBoss": {
+		"CloseTime": 0,
+		"DiceTime": 0,
+		"LuckPrize": 0,
+		"MonsterId": 0,
+		"OnceShieldMath": 0,
+		"ShieldPrize": 0,
+		"ShieldTrigger": "",
+		"ShowPrize1": 0,
+		"ShowPrize2": 0,
+		"ShowPrize3": 0,
+		"TotalShieldMath": 0
+	},
+	"Cfg_Act_WorldBoss_RGPrize": {
+		"Desc": "",
+		"FightTimes": 0,
+		"Id": 0,
+		"Prize": 0
+	},
+	"Cfg_Active": {
+		"ActId": 0,
+		"ActName": "",
+		"ActTime": "",
+		"ActType": 0,
+		"AssetId1": 0,
+		"AssetId2": 0,
+		"ClientFuncId": 0,
+		"Cross": 0,
+		"EndDay": 0,
+		"EndTime": "",
+		"EntranceIcon": 0,
+		"NamePic": 0,
+		"OpenTimeDesc": "",
+		"Priority": 0,
+		"Prize": 0,
+		"ReadyMin": 0,
+		"ShowDesc": "",
+		"StartDay": 0,
+		"StartTime": "",
+		"Type": 0,
+		"Week": ""
+	},
+	"Cfg_ActiveWeekly": {
+		"ActDays": 0,
+		"ActId": 0,
+		"ActName": "",
+		"ActType": 0,
+		"AssetId1": "",
+		"AssetId2": 0,
+		"BGPic": "",
+		"ClientFuncId": 0,
+		"Cross": 0,
+		"EndTime": "",
+		"EntranceIcon": 0,
+		"Icon": 0,
+		"NamePic": "",
+		"OpenTimeDesc": "",
+		"Order": 0,
+		"Prize": "",
+		"ReadyMin": 0,
+		"Rueume": 0,
+		"ShowDesc": "",
+		"StartDay": 0,
+		"StartTime": "",
+		"Week": ""
+	},
+	"Cfg_Activity": {
+		"ActDsc": 0,
+		"ActType": 0,
+		"BannerPath": "",
+		"ContainerCircle": 0,
+		"ContainerId": 0,
+		"Cross": 0,
+		"Duration": "",
+		"FuncId1": "",
+		"Id": 0,
+		"Name": "",
+		"OnceCircle": 0,
+		"PosCircle": 0,
+		"SyncUnionDay": 0
+	},
+	"Cfg_ActivityPush": {
+		"ActId": 0,
+		"Desc1": "",
+		"Desc2": "",
+		"FunId": 0,
+		"FunType": 0,
+		"Id": 0,
+		"ResPath": "",
+		"ResType": 0
+	},
+	"Cfg_Alien": {
+		"ActiveAttr": 0,
+		"AnimId": "",
+		"Id": 0,
+		"MPId": 0,
+		"Name": "",
+		"PveAngerMax": 0,
+		"PvpAngerMax": 0,
+		"Quality": 0,
+		"ShowSkillBId": "",
+		"SkillAId": ""
+	},
+	"Cfg_AlienLevel": {
+		"AttrId": 0,
+		"ExpMax": 0,
+		"Level": 0
+	},
+	"Cfg_AlienLevelItem": {
+		"Exp": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_AlienStar": {
+		"Id": 0,
+		"SkillLev": 0,
+		"Star": 0
+	},
+	"Cfg_Anger": {
+		"Amount": 0,
+		"Exp": 0,
+		"Level": 0
+	},
+	"Cfg_Attr_Monster": {
+		"Attr_1": 0,
+		"Attr_10": 0,
+		"Attr_11": 0,
+		"Attr_12": 0,
+		"Attr_13": 0,
+		"Attr_14": 0,
+		"Attr_15": 0,
+		"Attr_16": 0,
+		"Attr_17": 0,
+		"Attr_18": 0,
+		"Attr_19": 0,
+		"Attr_2": 0,
+		"Attr_20": 0,
+		"Attr_21": 0,
+		"Attr_22": 0,
+		"Attr_23": 0,
+		"Attr_24": 0,
+		"Attr_25": 0,
+		"Attr_26": 0,
+		"Attr_27": 0,
+		"Attr_28": 0,
+		"Attr_29": 0,
+		"Attr_3": 0,
+		"Attr_30": 0,
+		"Attr_31": 0,
+		"Attr_32": 0,
+		"Attr_33": 0,
+		"Attr_34": 0,
+		"Attr_35": 0,
+		"Attr_36": 0,
+		"Attr_37": 0,
+		"Attr_4": 0,
+		"Attr_5": 0,
+		"Attr_6": 0,
+		"Attr_7": 0,
+		"Attr_8": 0,
+		"Attr_9": 0,
+		"FightValue": 0,
+		"Id": 0,
+		"Level": 0,
+		"Name": ""
+	},
+	"Cfg_Attr_Pet": {
+		"Attr_1": 0,
+		"Attr_10": 0,
+		"Attr_11": 0,
+		"Attr_12": 0,
+		"Attr_13": 0,
+		"Attr_14": 0,
+		"Attr_15": 0,
+		"Attr_16": 0,
+		"Attr_17": 0,
+		"Attr_18": 0,
+		"Attr_19": 0,
+		"Attr_2": 0,
+		"Attr_20": 0,
+		"Attr_21": 0,
+		"Attr_22": 0,
+		"Attr_23": 0,
+		"Attr_24": 0,
+		"Attr_25": 0,
+		"Attr_3": 0,
+		"Attr_4": 0,
+		"Attr_5": 0,
+		"Attr_6": 0,
+		"Attr_7": 0,
+		"Attr_8": 0,
+		"Attr_9": 0,
+		"FightValue": 0,
+		"Id": 0
+	},
+	"Cfg_Attr_PetA": {
+		"Attr_1": 0,
+		"Attr_10": 0,
+		"Attr_11": 0,
+		"Attr_12": 0,
+		"Attr_13": 0,
+		"Attr_14": 0,
+		"Attr_15": 0,
+		"Attr_16": 0,
+		"Attr_17": 0,
+		"Attr_18": 0,
+		"Attr_19": 0,
+		"Attr_2": 0,
+		"Attr_20": 0,
+		"Attr_21": 0,
+		"Attr_22": 0,
+		"Attr_23": 0,
+		"Attr_24": 0,
+		"Attr_25": 0,
+		"Attr_3": 0,
+		"Attr_4": 0,
+		"Attr_5": 0,
+		"Attr_6": 0,
+		"Attr_7": 0,
+		"Attr_8": 0,
+		"Attr_9": 0,
+		"FightValue": 0,
+		"Id": 0
+	},
+	"Cfg_Attr_Relation": {
+		"Attr": 0,
+		"FightValue": 0,
+		"Fun_Name1": "",
+		"Fun_Name2": "",
+		"ItemPrecentAttr": 0,
+		"PercentType": 0
+	},
+	"Cfg_Attribute": {
+		"Attr_1": 0,
+		"Attr_10": 0,
+		"Attr_11": 0,
+		"Attr_12": 0,
+		"Attr_13": 0,
+		"Attr_14": 0,
+		"Attr_15": 0,
+		"Attr_16": 0,
+		"Attr_17": 0,
+		"Attr_18": 0,
+		"Attr_19": 0,
+		"Attr_2": 0,
+		"Attr_20": 0,
+		"Attr_21": 0,
+		"Attr_22": 0,
+		"Attr_23": 0,
+		"Attr_24": 0,
+		"Attr_25": 0,
+		"Attr_26": 0,
+		"Attr_27": 0,
+		"Attr_28": 0,
+		"Attr_29": 0,
+		"Attr_3": 0,
+		"Attr_30": 0,
+		"Attr_31": 0,
+		"Attr_32": 0,
+		"Attr_321": 0,
+		"Attr_322": 0,
+		"Attr_323": 0,
+		"Attr_324": 0,
+		"Attr_325": 0,
+		"Attr_326": 0,
+		"Attr_327": 0,
+		"Attr_328": 0,
+		"Attr_329": 0,
+		"Attr_33": 0,
+		"Attr_330": 0,
+		"Attr_331": 0,
+		"Attr_332": 0,
+		"Attr_333": 0,
+		"Attr_334": 0,
+		"Attr_335": 0,
+		"Attr_336": 0,
+		"Attr_337": 0,
+		"Attr_338": 0,
+		"Attr_339": 0,
+		"Attr_34": 0,
+		"Attr_340": 0,
+		"Attr_341": 0,
+		"Attr_342": 0,
+		"Attr_343": 0,
+		"Attr_344": 0,
+		"Attr_35": 0,
+		"Attr_351": 0,
+		"Attr_352": 0,
+		"Attr_353": 0,
+		"Attr_354": 0,
+		"Attr_36": 0,
+		"Attr_37": 0,
+		"Attr_38": 0,
+		"Attr_39": 0,
+		"Attr_4": 0,
+		"Attr_40": 0,
+		"Attr_41": 0,
+		"Attr_42": 0,
+		"Attr_43": 0,
+		"Attr_44": 0,
+		"Attr_45": 0,
+		"Attr_46": 0,
+		"Attr_47": 0,
+		"Attr_48": 0,
+		"Attr_49": 0,
+		"Attr_5": 0,
+		"Attr_51": 0,
+		"Attr_52": 0,
+		"Attr_53": 0,
+		"Attr_54": 0,
+		"Attr_55": 0,
+		"Attr_56": 0,
+		"Attr_57": 0,
+		"Attr_58": 0,
+		"Attr_59": 0,
+		"Attr_6": 0,
+		"Attr_60": 0,
+		"Attr_61": 0,
+		"Attr_62": 0,
+		"Attr_63": 0,
+		"Attr_64": 0,
+		"Attr_65": 0,
+		"Attr_66": 0,
+		"Attr_67": 0,
+		"Attr_68": 0,
+		"Attr_69": 0,
+		"Attr_7": 0,
+		"Attr_70": 0,
+		"Attr_71": 0,
+		"Attr_72": 0,
+		"Attr_73": 0,
+		"Attr_74": 0,
+		"Attr_75": 0,
+		"Attr_76": 0,
+		"Attr_77": 0,
+		"Attr_78": 0,
+		"Attr_79": 0,
+		"Attr_8": 0,
+		"Attr_80": 0,
+		"Attr_81": 0,
+		"Attr_82": 0,
+		"Attr_83": 0,
+		"Attr_84": 0,
+		"Attr_85": 0,
+		"Attr_86": 0,
+		"Attr_87": 0,
+		"Attr_88": 0,
+		"Attr_89": 0,
+		"Attr_9": 0,
+		"Attr_90": 0,
+		"Attr_91": 0,
+		"Attr_92": 0,
+		"Attr_93": 0,
+		"Attr_94": 0,
+		"Attr_95": 0,
+		"Attr_96": 0,
+		"Attr_97": 0,
+		"Attr_98": 0,
+		"Attr_99": 0,
+		"ExtraAttr": "",
+		"FightValue": 0,
+		"GradeAdd": 0,
+		"GradeType": 0,
+		"Id": 0
+	},
+	"Cfg_Auction": {
+		"DataKeepTime": 0,
+		"Id": 0,
+		"MaxAucNum": 0,
+		"Name": "",
+		"NoticeParam1": 0,
+		"ReadyTime": 0,
+		"Time": 0,
+		"TotalNum": 0
+	},
+	"Cfg_Auction_Item": {
+		"AucId": 0,
+		"CostAddNum": 0,
+		"CostItemId": 0,
+		"CostMaxNum": 0,
+		"CostMinNum": 0,
+		"Id": 0,
+		"IsShow": 0,
+		"ItemID": 0,
+		"ItemNum": 0,
+		"Rank": 0
+	},
+	"Cfg_BagEquipBreak": {
+		"BreakItem": "",
+		"ObjId": 0,
+		"Seat": 0,
+		"Star": 0,
+		"Typ": 0
+	},
+	"Cfg_BagStick": {
+		"Desc": "",
+		"ItemId": "",
+		"NeedItem": "",
+		"OpenItemId": 0
+	},
+	"Cfg_BangDanJJ": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_BangDanJJ_Boss": {
+		"ActId": 0,
+		"Awards": "",
+		"DailyPrizeTimes": 0,
+		"DamageReduction": "",
+		"DropID": 0,
+		"Handbook": "",
+		"Id": 0,
+		"Intro": "",
+		"RefreshId": 0
+	},
+	"Cfg_BangDanJJ_RankPrize": {
+		"BossId": 0,
+		"DropId": 0,
+		"Id": 0,
+		"Max": 0,
+		"Min": 0
+	},
+	"Cfg_Baowu": {
+		"AttrId": 0,
+		"Id": 0,
+		"IncreaseId": 0,
+		"Name": "",
+		"NeedItemId": 0,
+		"NeedItemNum": 0,
+		"SkillId": 0
+	},
+	"Cfg_Beast": {
+		"Attr": 0,
+		"Condition": 0,
+		"EquipId": "",
+		"Icon": 0,
+		"Id": 0,
+		"Name": "",
+		"Quality": 0,
+		"ShowId": 0,
+		"SpineId": 0,
+		"StarItemId": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_BeastEquip": {
+		"AttrId": 0,
+		"Level": 0,
+		"NeedItem": ""
+	},
+	"Cfg_BeastEquipStar": {
+		"AttrInc": 0,
+		"NeedItem": "",
+		"Star": 0
+	},
+	"Cfg_BeastSkill": {
+		"AttrId": 0,
+		"BeastId": 0,
+		"CostAdd": 0,
+		"CostBase": 0,
+		"EquipAttrAdd": 0,
+		"EquipAttrAddBase": 0,
+		"EquipAttrAddBaseShow": 0,
+		"EquipAttrAddShow": 0,
+		"IconID": 0,
+		"Id": 0,
+		"MaxLevel": 0,
+		"NeedItem": 0,
+		"Part": 0,
+		"Quality": 0,
+		"SkillId": 0,
+		"SkillName": ""
+	},
+	"Cfg_BeastStar": {
+		"AttrInc": 0,
+		"Id": 0,
+		"ItemCount": 0,
+		"No": 0,
+		"Star": 0
+	},
+	"Cfg_BindPhone": {
+		"ActId": 0,
+		"App_id": 0,
+		"Channel_id": 0,
+		"Img_name": "",
+		"Img_reward": ""
+	},
+	"Cfg_BirdPath": {
+		"End_pos": "",
+		"Id": 0,
+		"Start_pos": ""
+	},
+	"Cfg_BondSkilLevelUp": {
+		"BondId": 0,
+		"ItemData": "",
+		"Level": 0,
+		"SkillId": 0
+	},
+	"Cfg_Boss_CfgCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Boss_GoodDrop": {
+		"Quality": 0,
+		"Star": 0,
+		"Up": 0
+	},
+	"Cfg_Boss_Home": {
+		"HomeId": 0,
+		"MapId": 0,
+		"RebornLevel": 0,
+		"ShowLabel": ""
+	},
+	"Cfg_Boss_Home_Boss": {
+		"BossId": 0,
+		"FightValue": 0,
+		"HomeId": 0,
+		"LuckDropPrize": "",
+		"MonsterId": 0,
+		"OwnerDropPrize": "",
+		"RefreshId": 0,
+		"ShowPrize1": "",
+		"ShowPrize2": "",
+		"ShowPrize3": ""
+	},
+	"Cfg_Boss_Home_Cfg": {
+		"BodyPower": 0,
+		"CostItemId": 0,
+		"CostNum": 0,
+		"KillDeductBP": 0,
+		"RestoreBP": 0,
+		"VipBPLimit": ""
+	},
+	"Cfg_Boss_Inspire": {
+		"AddSeconds": 0,
+		"Desc": "",
+		"Enable": 0,
+		"Id": 0,
+		"InspireType": 0,
+		"InstanceType": 0,
+		"NeedItemId": 0,
+		"NeedNum": 0
+	},
+	"Cfg_Boss_Inspire_Buff": {
+		"AddValue": 0,
+		"Id": 0,
+		"InspireState": 0,
+		"Second": 0,
+		"SecondsLimit": 0
+	},
+	"Cfg_Boss_Multi": {
+		"BossId": 0,
+		"Id": 0,
+		"MapId": 0,
+		"NeedLevel": 0,
+		"Order1PrizeShow": "",
+		"Order2PrizeShow": "",
+		"Order3PrizeShow": "",
+		"Order4PrizeShow": "",
+		"Order5PrizeShow": "",
+		"ShowLabel": "",
+		"ShowPrize1": "",
+		"ShowPrize2": ""
+	},
+	"Cfg_Boss_Personal": {
+		"BossId": 0,
+		"ExtCond": 0,
+		"Id": 0,
+		"IntervalTime": 0,
+		"NeedLevel": 0,
+		"ShowLabel": "",
+		"ShowPrize": ""
+	},
+	"Cfg_Boss_VIP": {
+		"BossId": 0,
+		"DropId": 0,
+		"Id": 0,
+		"IntervalTime": 0,
+		"NeedLevel": 0,
+		"NeedVipLevel": 0,
+		"ShowLabel": "",
+		"ShowPrize": ""
+	},
+	"Cfg_Boss_XuanShangCfg": {
+		"BossLimitTime": 0,
+		"ExchangeItemID": 0,
+		"FamilySkillDesc": "",
+		"FunID": 0,
+		"KillTimesLimitID": 0,
+		"MaxFreeFightTimes": 0,
+		"MaxFreeRefreshTimes": 0,
+		"QualityMaxCost": "",
+		"QualityUpCost": "",
+		"TeamSkillID": 0,
+		"TeamSkillLevel": 0
+	},
+	"Cfg_Boss_XuanShangDrop": {
+		"Reborn": 0,
+		"RewardDisplay": "",
+		"XuanShangID": 0
+	},
+	"Cfg_Boss_XuanShangList": {
+		"AllowHelp": 0,
+		"MapID": 0,
+		"MonsterID": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"Quality": 0,
+		"QualityColor": "",
+		"QualityName": "",
+		"RewardDisplay": "",
+		"RewardScore": 0,
+		"XuanShangID": 0
+	},
+	"Cfg_Boss_XuanShangScore": {
+		"ID": 0,
+		"NeedScore": 0,
+		"Reward": ""
+	},
+	"Cfg_Buff": {
+		"BuffEffect": 0,
+		"BuffId": 0,
+		"BuffLife": 0,
+		"BuffName": "",
+		"ClientEffect": 0,
+		"Param1": 0,
+		"Param10": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"Param4": 0,
+		"Param5": 0,
+		"Param6": 0,
+		"Param7": 0,
+		"Param8": 0,
+		"Param9": 0,
+		"ParamClient": "",
+		"Round": 0
+	},
+	"Cfg_BusinessCount": {
+		"CountMax": 0,
+		"CountMin": 0,
+		"Id": 0,
+		"Name": "",
+		"Note": "",
+		"Rate": 0
+	},
+	"Cfg_BusinessDistance": {
+		"Desc": "",
+		"Distance": 0,
+		"Point1": 0,
+		"Point2": 0
+	},
+	"Cfg_BusinessGoods": {
+		"BuyMin": 0,
+		"Desc": "",
+		"Id": 0,
+		"Picture": ""
+	},
+	"Cfg_BusinessMap": {
+		"Goods": "",
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_BusinessPrize": {
+		"Count": 0,
+		"Id": "",
+		"Note": ""
+	},
+	"Cfg_BusinessTicket": {
+		"Buy": "",
+		"Icon": "",
+		"Id": 0,
+		"InitGold": 0,
+		"Name": "",
+		"Prize": "",
+		"TargetGold": 0
+	},
+	"Cfg_CampItem": {
+		"AFail": "",
+		"AName": "",
+		"AWin": "",
+		"ActId": 0,
+		"BFail": "",
+		"BName": "",
+		"BWin": "",
+		"FunId": 0,
+		"Id": 0,
+		"ItemId": "",
+		"Model": "",
+		"MsgId": 0,
+		"Name": "",
+		"RewardDsc": "",
+		"Score": 0
+	},
+	"Cfg_CampPK": {
+		"ABoxId": 0,
+		"AModel": "",
+		"AName": "",
+		"ActId": 0,
+		"BBoxId": 0,
+		"BModel": "",
+		"BName": "",
+		"EndTime": "",
+		"Id": 0,
+		"MsgId": 0
+	},
+	"Cfg_CelebrateShopBglmg": {
+		"AdvImg": "",
+		"BgImg": "",
+		"GoodID": 0,
+		"PrizeShow": ""
+	},
+	"Cfg_CelebrateShopBuyTimes": {
+		"Id": 0,
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Times": 0
+	},
+	"Cfg_CelebrateThemeMail": {
+		"ActId": 0,
+		"Days": 0,
+		"Prize": ""
+	},
+	"Cfg_ChargeMall": {
+		"AddFightValue": 0,
+		"BuyTimes": 0,
+		"Diamond": 0,
+		"GoodsId": 0,
+		"GoodsTitle": "",
+		"GoodsType": 0,
+		"ItemString": "",
+		"LimitId": 0,
+		"MallType": 0,
+		"Money": 0,
+		"PicId": 0,
+		"Sort": 0
+	},
+	"Cfg_ChoosePrizeGroup": {
+		"Id": 0,
+		"Items": ""
+	},
+	"Cfg_CityWarGive": {
+		"Id": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Score": 0
+	},
+	"Cfg_CityWarKillPrize": {
+		"Prize": 0,
+		"RankMax": 0,
+		"RankMin": 0
+	},
+	"Cfg_CityWarLayer": {
+		"CountDown": 0,
+		"CrystalInternal": 0,
+		"CrystalScore": 0,
+		"Desc": "",
+		"EndTime": "",
+		"FailPrize": 0,
+		"FamilyCount": 0,
+		"LayerId": 0,
+		"Name": "",
+		"ScoreMax": 0,
+		"StartTime": "",
+		"WinPrize": 0
+	},
+	"Cfg_CityWarMap": {
+		"Id": 0,
+		"Layer": 0,
+		"MapId": 0,
+		"Name": ""
+	},
+	"Cfg_ClientMsg": {
+		"ActId": 0,
+		"Id": 0,
+		"Img": "",
+		"MSG": "",
+		"Module": ""
+	},
+	"Cfg_ClientSkill": {
+		"BeginY": 0,
+		"Font": "",
+		"ForObj": 0,
+		"ID": 0,
+		"Name": "",
+		"Result": 0
+	},
+	"Cfg_Client_Fn": {
+		"Animation": 0,
+		"Condition1": 0,
+		"Condition2": 0,
+		"Condition3": 0,
+		"Condition4": "",
+		"Condition5": "",
+		"Decs": "",
+		"ID": 0,
+		"Item": "",
+		"Link": 0,
+		"Notice": 0,
+		"PicDec": "",
+		"PicId": "",
+		"Pos": 0,
+		"Sort": 0
+	},
+	"Cfg_Client_Func": {
+		"Break": 0,
+		"FeiSheng": 0,
+		"FuncIconID": 0,
+		"FuncId": 0,
+		"FuncShowDes": "",
+		"GradeType": 0,
+		"LifeCard": 0,
+		"LimitDay": 0,
+		"LimitLv": 0,
+		"LimitMoney": 0,
+		"LimitStage": 0,
+		"LimitTask": 0,
+		"LimitUnionDay": 0,
+		"LimitVIP": 0,
+		"MergeDay": 0,
+		"MontyCard": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"Param4": "",
+		"Pos": 0,
+		"Pos1": 0,
+		"RandTalk": 0,
+		"Realm": 0,
+		"Reborn": 0,
+		"Res": "",
+		"ShowDes": "",
+		"ShowLv": 0,
+		"ShowStage": 0,
+		"ShowVIP": 0,
+		"Smelt": 0,
+		"Sort": 0,
+		"Tab": 0,
+		"UI": 0
+	},
+	"Cfg_Config": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_AFK": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Business": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Chat": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_CityWar": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_EquipSteel": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_FT": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Family": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Forge": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Guard": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_HDCard": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Helper": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Instance": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_JJC": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_JXSC": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_King": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Melt": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_NBA": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Pet2": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_PetAM": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Practice": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_QieCuo": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_RoleSkill": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_SL": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Sect": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_SectWar": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_ShengWu": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Skin": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Strength": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_SwordSoul": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_TimeShop": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_Wedding": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_XuanShang": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_YJFX": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_YJZD": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_Config_YanJia": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_DH": {
+		"CurrentId": 0,
+		"CurrentNum": 0,
+		"Id": 0,
+		"TargetId": 0,
+		"TargetNum": 0
+	},
+	"Cfg_DailySign": {
+		"CostId": 0,
+		"CostNum": 0,
+		"Group": 0,
+		"Id": 0,
+		"MakeUpPrize": "",
+		"Name": "",
+		"Prize": ""
+	},
+	"Cfg_DayPracticePrize": {
+		"ContainerId": 0,
+		"CounterType": 0,
+		"Desc": "",
+		"GetCondition": "",
+		"Id": 0,
+		"Independent": 0,
+		"Multiple": 0,
+		"Name": "",
+		"Note": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"TargetDesc": "",
+		"Type": 0
+	},
+	"Cfg_DayPracticeTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"FindCost": 0,
+		"FindTimes": 0,
+		"FindType": 0,
+		"GetCondition": "",
+		"HalfCostId": 0,
+		"Id": 0,
+		"Name": "",
+		"Note": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": 0,
+		"TargetCount": 0,
+		"TimesLimit": 0,
+		"Type": 0
+	},
+	"Cfg_DayShareActTask": {
+		"AnimId": "",
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Group": 0,
+		"GroupPrize": 0,
+		"Id": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"RefreshType": 0,
+		"RevelValue": 0,
+		"ServerCount": 0,
+		"ServerCountType": 0,
+		"ShowCond": 0,
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_DirectBuyGift": {
+		"AdvImg": "",
+		"AnimationShow": "",
+		"BgImg": "",
+		"BuyTimes": 0,
+		"CostNum": 0,
+		"GoodID": 0,
+		"GoodName": "",
+		"ItemStr": "",
+		"NextGId": 0,
+		"PrizeShow": ""
+	},
+	"Cfg_DirectBuyGift2": {
+		"CostNum": 0
+	},
+	"Cfg_DragonBuy": {
+		"Amount": 0,
+		"Discount": 0,
+		"GoldType": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Times_Max": 0,
+		"Times_Min": 0
+	},
+	"Cfg_Drop": {
+		"DropDataType": 0,
+		"DropItemId": 0,
+		"DropNum": 0,
+		"Id": 0
+	},
+	"Cfg_Drug": {
+		"ItemId": 0,
+		"Level": 0,
+		"Type": 0
+	},
+	"Cfg_DrugBase": {
+		"AttrId": 0,
+		"BgIconId": "",
+		"Class": 0,
+		"CostItemId": 0,
+		"LimitCount": 0,
+		"Name": "",
+		"NameStr": "",
+		"PicId": "",
+		"Type": 0
+	},
+	"Cfg_DrugBaseLimit": {
+		"AddCount": 0,
+		"Class": 0,
+		"LevMax": 0,
+		"LevMin": 0,
+		"Type": 0
+	},
+	"Cfg_DrugLimit": {
+		"Count": 0,
+		"Level": 0
+	},
+	"Cfg_DrugTwo": {
+		"Count": 0,
+		"Level": 0
+	},
+	"Cfg_Emoj": {
+		"AnimId": 0,
+		"Code": "",
+		"Group": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_EquipAttr_HL": {
+		"Attr": "",
+		"Count": 0,
+		"Id": 0,
+		"Show": "",
+		"Skills": "",
+		"Star": 0,
+		"YQCost": ""
+	},
+	"Cfg_EquipBreak": {
+		"CoinItem": "",
+		"Quality": 0,
+		"Star": 0,
+		"StoneItem": "",
+		"Typ": 0
+	},
+	"Cfg_EquipBuildNew": {
+		"CostMoney": "",
+		"EquipLevel": 0,
+		"EquipLevelStr": "",
+		"EquipPart": 0,
+		"EquipPartStr": "",
+		"EquipSys": 0,
+		"EquipSysStr": "",
+		"ExcAttrStone": "",
+		"NeedItem1": "",
+		"NeedItem2": "",
+		"PrefBuildStone": "",
+		"Rd": 0,
+		"ShowItemId": 0
+	},
+	"Cfg_EquipCompose": {
+		"CostItem": "",
+		"CostMoney": "",
+		"FuncId": 0,
+		"ItemId": 0,
+		"ObjId": 0
+	},
+	"Cfg_EquipConfig": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_EquipForge": {
+		"AttrId": 0,
+		"AttrName": "",
+		"AttrRelationId": 0,
+		"Level": 0,
+		"Quality": "",
+		"Rate": 0
+	},
+	"Cfg_EquipForgeLevel": {
+		"Level": 0,
+		"Quality": 0
+	},
+	"Cfg_EquipForgeLock": {
+		"Count": 0,
+		"NeedItem": ""
+	},
+	"Cfg_EquipForgeOpenA": {
+		"AttrCount": 0,
+		"VIP": 0
+	},
+	"Cfg_EquipForgeOpenP": {
+		"Pos": 0,
+		"Reborn": 0
+	},
+	"Cfg_EquipPosStone": {
+		"Pos": 0,
+		"Stone": 0
+	},
+	"Cfg_EquipQuality": {
+		"CostEquipId": 0,
+		"CostItem": "",
+		"FuncId": 0,
+		"ItemId": 0,
+		"ObjId": 0,
+		"StrengthSLev": 0
+	},
+	"Cfg_EquipRefine": {
+		"AttrId": 0,
+		"FuncId": 0,
+		"Lev": 0,
+		"MaxExp": 0,
+		"ObjId": 0,
+		"Pos": 0,
+		"StrengthSLev": 0
+	},
+	"Cfg_EquipStars": {
+		"AttrInc": 0,
+		"FuncId": 0,
+		"IsSamePos": 0,
+		"Item": "",
+		"ObjId": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_EquipSteelSuit": {
+		"Anim": 0,
+		"Attr": 0,
+		"EquipLevel": 0,
+		"Level": 0,
+		"WeaponAnim": 0
+	},
+	"Cfg_EquipStone": {
+		"ItemId": "",
+		"Level": 0,
+		"Type": 0
+	},
+	"Cfg_EquipStonePos": {
+		"Count": 0,
+		"Reborn": 0
+	},
+	"Cfg_EquipStrengthA": {
+		"AddAttrId": 0,
+		"BaseAttrId": 0,
+		"LevelMax": 0,
+		"LevelMin": 0,
+		"Pos": 0
+	},
+	"Cfg_EquipStrengthC": {
+		"CoinBase": 0,
+		"CoinUp": 0,
+		"Max": 0,
+		"Min": 0,
+		"Reborn": 0,
+		"StoneBase": 0,
+		"StoneUp": ""
+	},
+	"Cfg_EquipStrengthS": {
+		"AttrId": 0,
+		"Level": 0,
+		"LevelLimit": 0
+	},
+	"Cfg_EquipStrengthSS": {
+		"BaseAttr": 0,
+		"FuncId": 0,
+		"MaxLev": 0,
+		"MinLev": 0,
+		"NeedItem": "",
+		"ObjId": 0,
+		"PerAttr": 0,
+		"PerItem": 0,
+		"Pos": 0
+	},
+	"Cfg_EquipSuit": {
+		"Attr": 0,
+		"AttrMethod": 0,
+		"AttrPerct": 0,
+		"Count": 0,
+		"FuncId": 0,
+		"Lev": 0,
+		"ObjId": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_EquipUnLock": {
+		"ContionId": 0,
+		"FuncId": 0,
+		"Name": "",
+		"ObjId": 0,
+		"Pos": 0
+	},
+	"Cfg_EquipUpLev": {
+		"AttrPerct": 0,
+		"CostItem": "",
+		"FuncId": 0,
+		"Lev": 0,
+		"ObjId": 0,
+		"Star": 0,
+		"Typ": 0
+	},
+	"Cfg_Equip_DuJin_Attr": {
+		"AttrId": 0,
+		"DuJinLevel": 0,
+		"EquipPart": ""
+	},
+	"Cfg_Equip_DuJin_Cost": {
+		"CostItem": "",
+		"DuJinLevel": 0
+	},
+	"Cfg_Equip_Material": {
+		"ItemId": 0,
+		"Reborn": 0,
+		"Type": 0
+	},
+	"Cfg_Equip_RandAttr": {
+		"AttrId": 0,
+		"Level": 0,
+		"Max": 0,
+		"Min": 0,
+		"Q": 0,
+		"Reborn": 0,
+		"RepNum": 0
+	},
+	"Cfg_Equip_RandomNum": {
+		"AttrNum": "",
+		"LevelMax": 0,
+		"LevelMin": 0
+	},
+	"Cfg_Equip_ShenDuanGrade": {
+		"BaseAttrId": 0,
+		"CostItem": "",
+		"Grade": 0,
+		"MaxLev": 0,
+		"Part": 0,
+		"Skill": ""
+	},
+	"Cfg_Equip_ShenDuanLv": {
+		"AttrId": 0,
+		"BaseAttrId": 0,
+		"CostItem": "",
+		"LevelUpCondition": 0,
+		"MaxLev": 0,
+		"MinLev": 0,
+		"Part": 0
+	},
+	"Cfg_Equip_Star": {
+		"Item": "",
+		"Reborn": 0,
+		"Star": 0
+	},
+	"Cfg_Equip_Steel": {
+		"AttrAdd": 0,
+		"GoldCost": "",
+		"GoldRate": 0,
+		"Item": "",
+		"Level": 0,
+		"Rate": 0,
+		"Reborn": 0
+	},
+	"Cfg_Equip_Suit_Attr": {
+		"AttrId": 0,
+		"EquipNum": 0,
+		"Reborn": 0,
+		"StarNum": 0,
+		"SuitId": 0
+	},
+	"Cfg_Equip_Suit_ItemExp": {
+		"CostItemID": 0,
+		"ItemExp": 0
+	},
+	"Cfg_Equip_Suit_Upgrade": {
+		"AttrPercent": 0,
+		"JingLianLevel": 0,
+		"NeedExp": 0
+	},
+	"Cfg_Equip_ZhuHun_Level": {
+		"AttrId": 0,
+		"HunShiItemID": 0,
+		"Level": 0,
+		"MingHunID": 0,
+		"MingHunName": "",
+		"NeedHunShi": 0
+	},
+	"Cfg_Equip_ZhuHun_Suit": {
+		"AttrId": "",
+		"EquipNum": 0,
+		"MingHunID": 0,
+		"SkillID": 0,
+		"SuitId": 0,
+		"SuitName": ""
+	},
+	"Cfg_Err": {
+		"Id": 0,
+		"MSG": ""
+	},
+	"Cfg_ExtraDrop": {
+		"AnimId": "",
+		"FuncId": 0,
+		"Id": 0,
+		"IsUse": 0
+	},
+	"Cfg_FT": {
+		"Id": 0,
+		"Vows": ""
+	},
+	"Cfg_FT_Halo": {
+		"PeopleNum": 0,
+		"SkillId": 0,
+		"SkillName": ""
+	},
+	"Cfg_FaZheng": {
+		"AnimId": "",
+		"AttrId": 0,
+		"FieldId": 0,
+		"Icon": 0,
+		"Id": 0,
+		"IsShow": 0,
+		"Level": 0,
+		"Limit": 0,
+		"Name": "",
+		"NeedItem": "",
+		"OffsetY": "",
+		"Type": 0
+	},
+	"Cfg_FaZhengRZ": {
+		"AttrId": 0,
+		"Id": 0,
+		"Name": "",
+		"NeedItem": "",
+		"NeedLevel": 0,
+		"RZLevel": 0,
+		"SkillId": ""
+	},
+	"Cfg_FairySkinExt_ShengXian": {
+		"AttrId": 0,
+		"CondStar": 0,
+		"CostItem": "",
+		"Fattr": 0,
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"LimitStar": 0,
+		"PassiveSkillId": "",
+		"ShowSkilDesc": "",
+		"ShowSkillId": 0,
+		"SkillId": "",
+		"SkillId2": "",
+		"SkillLv": "",
+		"SkinId": 0
+	},
+	"Cfg_FairySkinExt_zdjn": {
+		"ShowSkillId": 0,
+		"SkillId": 0
+	},
+	"Cfg_FairyTreasure": {
+		"DigAniId": 0,
+		"DigTime": 0,
+		"Id": 0,
+		"MapId": 0,
+		"Name": "",
+		"NeedItemId": 0,
+		"NeedNum": 0,
+		"SceneDesc": "",
+		"ShowPrize": 0
+	},
+	"Cfg_Family_Buff": {
+		"IncreaseId": 0,
+		"UnlockLevel": ""
+	},
+	"Cfg_Family_Give": {
+		"GetItem": "",
+		"ItemDesc": "",
+		"ItemId": 0,
+		"ItemNum": 0,
+		"LimitTimesId": 0,
+		"Value": 0
+	},
+	"Cfg_Family_Halo": {
+		"SkillId": 0,
+		"SkillName": "",
+		"UnlockLevel": ""
+	},
+	"Cfg_Family_Level": {
+		"Exp": 0,
+		"Level": 0,
+		"MaxNum": 0,
+		"Prize": ""
+	},
+	"Cfg_Family_Right": {
+		"AttrId": 0,
+		"Desc": "",
+		"FamilyLevel": 0,
+		"Icon": 0,
+		"Id": 0,
+		"IncreaseId": ""
+	},
+	"Cfg_Family_Sport": {
+		"MaxNum": 0,
+		"MinNum": 0,
+		"Reward1": "",
+		"Reward2": "",
+		"WorldLevelMax": 0,
+		"WorldLevelMin": 0
+	},
+	"Cfg_Family_Symbol": {
+		"AniId": 0,
+		"Id": 0,
+		"PicPath": ""
+	},
+	"Cfg_Feature": {
+		"Desc": "",
+		"FeatureId": 0,
+		"ObjId": 0,
+		"ObjLevel": 0,
+		"ObjType": 0,
+		"Order": 0
+	},
+	"Cfg_FeiSheng": {
+		"AttrId": 0,
+		"BossId": 0,
+		"HurtIncr1": 0,
+		"HurtIncr3": 0,
+		"IconId": 0,
+		"Id": 0,
+		"Level": 0,
+		"LevelName": "",
+		"NeedItemId": 0,
+		"NeedItemNum": 0,
+		"Prize": "",
+		"RefreshId": 0,
+		"SkillDesc": "",
+		"SkillName": "",
+		"SkillType": 0,
+		"SpikeProb": 0,
+		"Stage": 0,
+		"StageName": "",
+		"TaskId": ""
+	},
+	"Cfg_FeiShengTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_FightPos": {
+		"Id": 0,
+		"PlayerIdx": 0,
+		"TeamPos": 0
+	},
+	"Cfg_FightPosition": {
+		"Desc": "",
+		"Pos_x": 0,
+		"Pos_y": 0,
+		"id": 0
+	},
+	"Cfg_FightScene": {
+		"AllJump": 0,
+		"AutoJump": 0,
+		"BossBig": 0,
+		"CheckFightCD": 0,
+		"FBType": "",
+		"FightReportFail": 0,
+		"FightReportSweep": 0,
+		"FightReportWin": 0,
+		"FightText": "",
+		"FightTextImg": "",
+		"FightUIType": 0,
+		"Id": 0,
+		"IsBoss": 0,
+		"JingyingBig": 0,
+		"Jump": 0,
+		"KillFight": 0,
+		"MonthCardSkip": 0,
+		"NeedShield": 0,
+		"NoDropHp": 0,
+		"NoWait": 0,
+		"Priority": 0,
+		"RankAttr": 0,
+		"ShowFightCD": 0,
+		"Sound": "",
+		"SpecialSkill": "",
+		"WinCheck": 0,
+		"XiaoguaiBig": 0
+	},
+	"Cfg_FightScenes": {
+		"Id": 0,
+		"Word": "",
+		"Word1": "",
+		"WxGame": "",
+		"WxGame1": ""
+	},
+	"Cfg_FirstRechargeInvest": {
+		"Id": 0,
+		"Max": 0,
+		"Min": 0,
+		"Ratio": 0
+	},
+	"Cfg_FuDai": {
+		"ActId": 0,
+		"BuyType": 0,
+		"CostItems": "",
+		"DayLimit": 0,
+		"Desc": "",
+		"GoodsId": 0,
+		"Id": 0,
+		"LifeLimit": 0,
+		"LittleName": "",
+		"RewardItems": "",
+		"ShowDropItems": "",
+		"Types": 0
+	},
+	"Cfg_Func": {
+		"FuncId": 0,
+		"Param1": 0
+	},
+	"Cfg_GAPassiveSkills": {
+		"Level": 0,
+		"SK_Level": 0,
+		"SkillId": 0,
+		"SkillQ": 0
+	},
+	"Cfg_GameAssistant": {
+		"AddSetState": 0,
+		"FunId": 0,
+		"GroupId": 0,
+		"Id": 0,
+		"Name": "",
+		"Order": 0,
+		"Priority": 0,
+		"isClose": 0
+	},
+	"Cfg_GodActionBuy": {
+		"Action": 0,
+		"BuyTimes": 0,
+		"CoinNum": 0,
+		"CoinType": 0,
+		"ShowAction": 0,
+		"Type": 0
+	},
+	"Cfg_GodActivity": {
+		"Adjoin": "",
+		"AreaType": 0,
+		"Belong": 0,
+		"Centre": "",
+		"Coordinate": "",
+		"Fight": 0,
+		"Guide": "",
+		"ID": 0,
+		"MaxPlayer": "",
+		"MonsterRenovate": "",
+		"MonsterRevive": 0,
+		"MonsterSeat": "",
+		"MyRadius": 0,
+		"Name": "",
+		"NewCoor": "",
+		"Radius": 0
+	},
+	"Cfg_GodAnimalLevel": {
+		"ActiveSkills": "",
+		"Id": 0,
+		"Level": 0
+	},
+	"Cfg_GodAttribute": {
+		"ID": 0,
+		"IntValue": 0,
+		"StringValue": ""
+	},
+	"Cfg_GodBuff": {
+		"BattleBuff": 0,
+		"BuffIcon": 0,
+		"BuffId": 0,
+		"BuffName": "",
+		"BuffType": 0,
+		"Character": 0,
+		"Index": 0,
+		"IsFuben": 0,
+		"IsGroup": 0,
+		"IsPVP": 0,
+		"Itmid": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"ParamClient": "",
+		"Priority": 0,
+		"Round": 0,
+		"System": "",
+		"Times": 0
+	},
+	"Cfg_GodFbAchiTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": "",
+		"Prize": 0,
+		"TargetCount": 0
+	},
+	"Cfg_GodMail": {
+		"Tpl_Content": "",
+		"Tpl_ID": 0,
+		"Tpl_Title": ""
+	},
+	"Cfg_GodRank": {
+		"Name": "",
+		"Param": 0,
+		"ParamClient": 0,
+		"RankAll": 0,
+		"RankType": 0
+	},
+	"Cfg_GodRankPrize": {
+		"BasePrize": 0,
+		"Desc": "",
+		"ID": 0,
+		"RankMax": 0,
+		"RankMin": 0,
+		"RankType": 0
+	},
+	"Cfg_GodScene": {
+		"ID": 0,
+		"Name": "",
+		"ResId": "",
+		"ResId2": "",
+		"SeasonId": 0
+	},
+	"Cfg_GodSeason": {
+		"GodName": 0,
+		"Prize": 0,
+		"TaskId": ""
+	},
+	"Cfg_GodTGRankPrize": {
+		"Event": 0,
+		"FuirstRewards": 0,
+		"Id": 0,
+		"Rank": ""
+	},
+	"Cfg_GoldChange_Cfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_GoldChange_Skin": {
+		"Aid": 0,
+		"Item": 0,
+		"Quality": 0,
+		"RedId": 0,
+		"SkinId": 0
+	},
+	"Cfg_GoldChange_Warrior": {
+		"AttrId": 0,
+		"CondStar": 0,
+		"CostItem": "",
+		"CostSkin": 0,
+		"Fattr": 0,
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"LimitStar": 0,
+		"PassiveSkillId": "",
+		"ShowSkilDesc": "",
+		"ShowSkillId": "",
+		"SkillId": "",
+		"SkillLv": "",
+		"SkinId": 0
+	},
+	"Cfg_GoldDrug": {
+		"Cost": "",
+		"Grade": 0,
+		"ItemId": 0,
+		"MaxExp": 0,
+		"SpeAttrId": 0,
+		"SpeAttrRate": 0,
+		"Type": 0
+	},
+	"Cfg_GradeForge": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0
+	},
+	"Cfg_GradeHuaJin": {
+		"AttrId": 0,
+		"CostItem": "",
+		"Level": 0,
+		"Part": 0,
+		"ShowItemId": 0,
+		"Type": 0
+	},
+	"Cfg_GradePill": {
+		"Decs": "",
+		"ForgePill": 0,
+		"ForgePillAdd": 0,
+		"MindPill": 0,
+		"SoulPill": 0,
+		"SoulPillAdd": 0,
+		"TongLingPill": 0,
+		"Type": 0
+	},
+	"Cfg_GradePrize": {
+		"FuncId": 0,
+		"Level": 0,
+		"Modelling": 0,
+		"MultiCost": "",
+		"Number": 0,
+		"Prize": ""
+	},
+	"Cfg_GradeSoul": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0
+	},
+	"Cfg_GradeTongLing": {
+		"Level": 0,
+		"NameIcon": 0,
+		"SkinId": 0,
+		"TongLingCount": 0
+	},
+	"Cfg_Grade_Baby": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Beast": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Dharma": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_FailyClass": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_GodClass": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Horse": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"TongLingCount": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Precious": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_ShengHen": {
+		"AttrId": 0,
+		"Id": 0,
+		"Level": 0,
+		"LevelLimit": 0,
+		"NeedItem": ""
+	},
+	"Cfg_Grade_Warrior": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_WarriorPet": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Weapon": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_Wing": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_Grade_YanJia": {
+		"AttrId": 0,
+		"Level": 0,
+		"Name": "",
+		"NamePic": "",
+		"NeedItem": "",
+		"PillCount": 0,
+		"SkillPart": 0,
+		"SkinId": 0,
+		"Star": 0,
+		"Total": 0,
+		"Type": 0
+	},
+	"Cfg_HBLevelUpItem": {
+		"BondId": 0,
+		"Exp": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_HLConfig": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_HL_LW_Level": {
+		"AttrId": 0,
+		"HLId": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"LWld": 0,
+		"Level": 0
+	},
+	"Cfg_HeadFrameSkin": {
+		"AnimId": "",
+		"AttrId": 0,
+		"AutoWear": 0,
+		"CanLevelUp": 0,
+		"Dynamic": "",
+		"Id": 0,
+		"IsHide": 0,
+		"Level": 0,
+		"Name": "",
+		"OffsetY": "",
+		"Type": 0,
+		"UnlockItem": 0
+	},
+	"Cfg_Hero": {
+		"ActiveSkillId": "",
+		"AnimId": 0,
+		"AttrId": 0,
+		"DefaultEquips": "",
+		"GodSkillAdd": "",
+		"GodWeaponSkill": 0,
+		"Id": 0,
+		"Name": "",
+		"PassiveSkills": "",
+		"Quality": 0,
+		"UnLockItem": 0
+	},
+	"Cfg_HeroBond": {
+		"AttrId": 0,
+		"BondId": 0,
+		"HeroIds": "",
+		"Name": ""
+	},
+	"Cfg_HeroBondAchieve": {
+		"AchDsc": "",
+		"AttrId": 0,
+		"BondId": 0,
+		"Condition": 0,
+		"Count": 0,
+		"HeroIds": "",
+		"Id": 0,
+		"Name": "",
+		"PrizeType": 0,
+		"Prizes": "",
+		"Type": 0
+	},
+	"Cfg_HeroBondLevelUp": {
+		"AttrId": 0,
+		"BondId": 0,
+		"ExpMax": 0,
+		"ItemData": "",
+		"Level": 0
+	},
+	"Cfg_HeroGradeUp": {
+		"AttrId": 0,
+		"Grade": 0,
+		"HeroId": 0,
+		"ItemData": "",
+		"NeedLevel": 0
+	},
+	"Cfg_HeroGroupSkill": {
+		"AttrId": 0,
+		"BondId": 0,
+		"IconID": 0,
+		"ItemData": "",
+		"Level": 0,
+		"PS1HeroIds": "",
+		"PS2HeroIds": "",
+		"PassiveSkillId1": 0,
+		"PassiveSkillId2": 0,
+		"SkillId": 0,
+		"SkillName": ""
+	},
+	"Cfg_HeroLevel": {
+		"AttrId": 0,
+		"ExpMax": 0,
+		"Level": 0
+	},
+	"Cfg_HeroLevelUpItem": {
+		"Exp": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_HeroSkill": {
+		"AttrId": 0,
+		"CostAdd": 0,
+		"CostBase": 0,
+		"HeroId": 0,
+		"IconID": 0,
+		"Id": 0,
+		"MaxLevel": 0,
+		"NeedHeroLevel": 0,
+		"NeedItem": 0,
+		"NewSkillid": "",
+		"Part": 0,
+		"Quality": 0,
+		"SkillId": 0,
+		"SkillName": ""
+	},
+	"Cfg_HeroStarUp": {
+		"AttrId": 0,
+		"HeroId": 0,
+		"ItemData": "",
+		"NeedHeroLevel": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_HeroWeaponAchieve": {
+		"Condition": 0,
+		"Count": 0,
+		"Desc": "",
+		"Name": "",
+		"Skill1": "",
+		"Skill2": "",
+		"Skill3": "",
+		"Type": ""
+	},
+	"Cfg_HeroWeaponList": {
+		"BoundId": 0,
+		"Desc1": "",
+		"Desc2": "",
+		"Name": "",
+		"ShowWeapon": "",
+		"SkillID": 0,
+		"WeaponId": 0
+	},
+	"Cfg_Hero_Peizhi": {
+		"Ani": 0,
+		"Item": 0,
+		"SkinId": 0
+	},
+	"Cfg_Hero_WuSheng": {
+		"AttrId": 0,
+		"CondStar": 0,
+		"CostItem": "",
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"LimitStar": 0,
+		"Name": "",
+		"ShenQiSkillAdd": "",
+		"ShenQiSkillShow": "",
+		"ShowSkilDesc": "",
+		"ShowSkillId": "",
+		"SkillId": "",
+		"SkillId2": "",
+		"SkillId3": "",
+		"SkinId": 0
+	},
+	"Cfg_HuanLing": {
+		"AttrId": 0,
+		"Devour": 0,
+		"Id": 0,
+		"Name": "",
+		"PrevHLId": 0,
+		"SkinId": 0,
+		"Tittle": "",
+		"Unlock": "",
+		"UnlockItem": 0,
+		"UnlockItemNum": 0,
+		"Weapon": 0
+	},
+	"Cfg_HuanLingBoss": {
+		"BossId": 0,
+		"DropId1": 0,
+		"DropId2": 0,
+		"Fx": 0,
+		"Id": 0,
+		"InsId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"RefreshId": 0,
+		"ReviveCD": 0,
+		"Reward1": 0,
+		"Reward2": 0
+	},
+	"Cfg_HuanLingIns": {
+		"HLId": 0,
+		"Id": 0,
+		"MapId": 0,
+		"Name": "",
+		"PVP": 0,
+		"Type": 0,
+		"Unlock": ""
+	},
+	"Cfg_HuanLingInsType": {
+		"Id": 0,
+		"Name": "",
+		"RedPointId": 0,
+		"TittleID": 0
+	},
+	"Cfg_HuanLing_LW": {
+		"AttrId": 0,
+		"HLId": 0,
+		"Id": 0,
+		"Name": "",
+		"Show": "",
+		"SkillId": 0,
+		"Type": 0,
+		"UnlockItem": 0,
+		"UnlockItemNum": 0
+	},
+	"Cfg_HuanLing_Level": {
+		"AttrId": 0,
+		"DevourMax": 0,
+		"Exp": 0,
+		"HLld": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Level": 0
+	},
+	"Cfg_HuanLing_Skill": {
+		"AttrBase": 0,
+		"AttrLevel": 0,
+		"Desc": "",
+		"Id": 0,
+		"IsSelf": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"ItemNumInc": 0,
+		"MaxLevel": 0,
+		"MinLevel": 0,
+		"Name": "",
+		"ObjId": 0,
+		"RoleSkillId": 0,
+		"SkillId": 0,
+		"Type": 0,
+		"Unlock": 0,
+		"UnlockItem": 0,
+		"UnlockItemNum": 0
+	},
+	"Cfg_IWant": {
+		"CounterType": 0,
+		"GetCondition": "",
+		"Id": 0,
+		"Note": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_IWantTask": {
+		"Anim": "",
+		"ClientFuncId": 0,
+		"Cmd": 0,
+		"CounterType": 0,
+		"Desc": "",
+		"IWantType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": 0,
+		"Star": 0,
+		"TargetCount": 0,
+		"Type": 0,
+		"Visable": 0
+	},
+	"Cfg_IllusionCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_IllusionChapter": {
+		"Chapter": 0,
+		"ChapterRD": 0,
+		"CoverName": "",
+		"FightCond": 0,
+		"FightCondDesc": "",
+		"FightType": 0,
+		"IsName": "",
+		"IsType": 0,
+		"SortId": 0,
+		"TeamMinFv": 0
+	},
+	"Cfg_IllusionCheckPoint": {
+		"AassistDropPrize": 0,
+		"BossId": 0,
+		"Chapter": 0,
+		"CheckPoint": 0,
+		"CoverName": "",
+		"FirstPassDropPrize": 0,
+		"FirstPassPrize": "",
+		"Id": 0,
+		"IsType": 0,
+		"Name": "",
+		"RecFv": 0,
+		"RefreshId": 0,
+		"SweepDropPrize": 0,
+		"SweepPrize": "",
+		"UnionFirstPassPrize": ""
+	},
+	"Cfg_IllusionTab": {
+		"Name": "",
+		"TabId": 0,
+		"TabRD": 0
+	},
+	"Cfg_IllusionTask": {
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"IsType": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_IllusionType": {
+		"AllRD": 0,
+		"FuncId": 0,
+		"InstanceType": 0,
+		"IsType": 0,
+		"Level": 0,
+		"Name": "",
+		"Open": 0,
+		"PreIsType": 0,
+		"PrizeRD": 0,
+		"SweepRD": 0,
+		"TabId": 0
+	},
+	"Cfg_Increase": {
+		"Circle": 0,
+		"Group": 0,
+		"Icon": 0,
+		"Id": 0,
+		"IsShowBuff": 0,
+		"IsShowLv": 0,
+		"Level": 0,
+		"Name": "",
+		"Quality": 0,
+		"Time": 0,
+		"Type": "",
+		"Value": ""
+	},
+	"Cfg_IncreaseDesc": {
+		"Desc": "",
+		"ID": 0
+	},
+	"Cfg_Instance_ActLuck": {
+		"ActId": 0,
+		"BossId": 0,
+		"MapId": 0,
+		"Name": "",
+		"NameIcon": "",
+		"PicID": "",
+		"RefreshId": 0,
+		"ShowPrize": "",
+		"TitleID": ""
+	},
+	"Cfg_Instance_ClimbingTower": {
+		"InsType": 0,
+		"ItemChangeType": 0,
+		"MapId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"NextLayerX1": 0,
+		"NextLayerX2": 0,
+		"NextLayerY1": 0,
+		"NextLayerY2": 0,
+		"TowerName": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_GemTower": {
+		"BossId": 0,
+		"Id": 0,
+		"LayerType": 0,
+		"NeedLv": 0,
+		"RefreshId": 0,
+		"SepPrize": "",
+		"ShowPrize": "",
+		"ShowPrize1": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_GodTower": {
+		"BossId": 0,
+		"Id": 0,
+		"LayerType": 0,
+		"NeedLv": 0,
+		"RefreshId": 0,
+		"SepPrize": "",
+		"ShowPrize": "",
+		"ShowPrize1": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_KidTower": {
+		"BossId": 0,
+		"Id": 0,
+		"LayerType": 0,
+		"NeedLv": 0,
+		"RefreshId": 0,
+		"SepPrize": "",
+		"ShowPrize": "",
+		"ShowPrize1": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_Material": {
+		"DropId": 0,
+		"DropInc": "",
+		"DropPrize": "",
+		"FuncId": 0,
+		"Id": 0,
+		"LimitTimesId": 0,
+		"MaxStar": 0,
+		"Name": "",
+		"OpenSort": 0,
+		"Pic_id": "",
+		"RefreshId": 0,
+		"StartUp": "",
+		"TextPic_id": "",
+		"Unlock": ""
+	},
+	"Cfg_Instance_PetaATower": {
+		"BossId": 0,
+		"Id": 0,
+		"LayerType": 0,
+		"NeedLv": 0,
+		"RefreshId": 0,
+		"SepPrize": "",
+		"ShowPrize": "",
+		"ShowPrize1": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_SL": {
+		"FuncId": 0,
+		"Id": 0,
+		"LimitTimesId": 0,
+		"MapId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"Name": "",
+		"Unlock": ""
+	},
+	"Cfg_Instance_SL_Level": {
+		"BossId": 0,
+		"DropExp": 0,
+		"DropGold": 0,
+		"DropId": 0,
+		"Fx": 0,
+		"Id": 0,
+		"InsType": 0,
+		"MaxLevel": 0,
+		"MinLevel": 0,
+		"RefreshId": 0
+	},
+	"Cfg_Instance_SwordTower": {
+		"BossId": 0,
+		"DayGetPrize": "",
+		"ExtraParam1": "",
+		"ExtraParam2": "",
+		"Id": 0,
+		"LayerType": 0,
+		"NeedLv": 0,
+		"RefreshId": 0,
+		"SepPrize": "",
+		"ShowPrize": "",
+		"TowerType": 0
+	},
+	"Cfg_Instance_Team_Cfg": {
+		"BG": "",
+		"BuyTimes": "",
+		"FreeTimes": 0,
+		"InstanceType": 0,
+		"Jump": "",
+		"MaxLevel": 0,
+		"NeedItem": "",
+		"NewBuyTimes": 0,
+		"RankAttr": 0,
+		"ShowPrize": "",
+		"SweepLevel": 0,
+		"SweepSVip": 0,
+		"TeamPrize": ""
+	},
+	"Cfg_Intimacy_LevelUp": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0,
+		"Prize": ""
+	},
+	"Cfg_Item": {
+		"AdditionAttrId": 0,
+		"AtlasId": 0,
+		"AttrId": 0,
+		"BestQuality": 0,
+		"Bind": 0,
+		"CanSend": 0,
+		"ClientFunc": "",
+		"CoinType": 0,
+		"Contain": "",
+		"Description": "",
+		"Detail": "",
+		"DetailId": 0,
+		"DetailType": 0,
+		"EquipPart": 0,
+		"EquipType": 0,
+		"FastLimit": "",
+		"Flash_Quality": 0,
+		"FromID": "",
+		"GetFunc": 0,
+		"Id": 0,
+		"IsFastParam": 0,
+		"IsFastShow": 0,
+		"IsHide": 0,
+		"IsPlie": 0,
+		"ItemSort": 0,
+		"Level": 0,
+		"LinkFunc": 0,
+		"Name": "",
+		"NeedNum": 0,
+		"ObjId": 0,
+		"ObjType": 0,
+		"OneKeyUse": 0,
+		"PicID": "",
+		"PlieNum": 0,
+		"Quality": 0,
+		"Reborn": 0,
+		"SellCon": "",
+		"SendGroupNum": 0,
+		"ShowItemShape": "",
+		"ShowItemShapeTBName": "",
+		"Star": 0,
+		"Type": 0,
+		"TypeDes": 0,
+		"UseFunc": 0
+	},
+	"Cfg_ItemSource": {
+		"Desc": "",
+		"Desc2": "",
+		"FuncId": 0,
+		"FuncParam": 0,
+		"Icon": "",
+		"Id": 0,
+		"PF": "",
+		"RMB": 0
+	},
+	"Cfg_Item_Map": {
+		"Desc": "",
+		"Id": 0
+	},
+	"Cfg_JJCPrize": {
+		"Prize": 0,
+		"RankMax": 0,
+		"RankMin": 0
+	},
+	"Cfg_JXSC_Monster": {
+		"GroupId": 0,
+		"Id": 0,
+		"MonsterId": 0,
+		"MonsterType": 0,
+		"PosX": 0,
+		"PosY": 0
+	},
+	"Cfg_Job": {
+		"AnimID": 0,
+		"HeadImg": "",
+		"IsDefault": 0,
+		"OffsetSY": 0,
+		"RaceID": 0,
+		"RaceImg": "",
+		"RaceName": "",
+		"RoleID": 0,
+		"RoleImg": "",
+		"Sex": 0,
+		"SexImg": "",
+		"Skills": "",
+		"Sort": 0,
+		"WeaponID": 0
+	},
+	"Cfg_JungleElves": {
+		"AppearCp": "",
+		"CostItemId": 0,
+		"CostItemNum1": 0,
+		"CostItemNum2": 0,
+		"Discount": 0,
+		"GoodsId": 0,
+		"GroupId": 0
+	},
+	"Cfg_JungleHuntCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_JungleHuntCp": {
+		"BoxDropId": 0,
+		"FirstPassBoxDropId": 0,
+		"Icon": "",
+		"Id": 0,
+		"Name": "",
+		"PosX": 0,
+		"PosY": 0
+	},
+	"Cfg_Jungle_ResetCost": {
+		"Coin_Num": 0,
+		"Coin_Type": 0,
+		"Times": 0,
+		"VipLimit": 0
+	},
+	"Cfg_KingEquipCompose": {
+		"CostItem": "",
+		"CostType": 0,
+		"ExtraCostItem": "",
+		"ItemId": 0
+	},
+	"Cfg_KingRank": {
+		"DayPrize": 0,
+		"Id": 0,
+		"LosePrize": 0,
+		"Medal": "",
+		"Name": "",
+		"Rank": 0,
+		"RankNum": 0,
+		"RobotFV1": 0,
+		"RobotFV2": 0,
+		"RobotRate1": 0,
+		"RobotRate2": 0,
+		"ShowStar": 0,
+		"Star": 0,
+		"WinPrize": 0
+	},
+	"Cfg_KingSuitConfig": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_KingWeekPrize": {
+		"Prize": 0,
+		"Rank": 0
+	},
+	"Cfg_King_Life": {
+		"BaseAttr": 0,
+		"Id": 0,
+		"Pos": 0
+	},
+	"Cfg_King_Life_Lev": {
+		"AttrPect": 0,
+		"CostItem": "",
+		"Id": 0,
+		"Lev": 0
+	},
+	"Cfg_King_Suit": {
+		"FeiShengId": 0,
+		"Id": 0,
+		"KingLifeLevDiff": 0,
+		"KingLifeSkillId": 0,
+		"Name": "",
+		"Quality": 0,
+		"SrcItem": "",
+		"SuitResId": 0,
+		"SuitSkillId": 0,
+		"WingResId": 0
+	},
+	"Cfg_King_Suit_Collect": {
+		"BaseAttr": 0,
+		"CollectId": 0,
+		"Count": 0,
+		"Id": 0,
+		"Lev": 0,
+		"SuitSkillLev": 0
+	},
+	"Cfg_King_Suit_Lev": {
+		"BaseAttr": 0,
+		"Id": 0,
+		"Lev": 0
+	},
+	"Cfg_King_Wing_Star": {
+		"BaseAttr": 0,
+		"CostItem": "",
+		"Id": 0,
+		"LifeLev": 0,
+		"Name": "",
+		"Star": 0
+	},
+	"Cfg_LampStoneLevel": {
+		"AttrPresent": 0,
+		"Desc1": "",
+		"Desc2": "",
+		"ErrMsg": 0,
+		"Id": 0,
+		"Level": 0,
+		"Name": "",
+		"NeedItemId": 0,
+		"NeedItemNum": 0,
+		"Picture": 0,
+		"Pos": 0,
+		"SkillDataID": 0,
+		"SkillDesc": ""
+	},
+	"Cfg_LampWish": {
+		"BuffPicture": 0,
+		"Decs": "",
+		"Effect": "",
+		"Id": 0,
+		"IncreaseID": 0,
+		"Level": 0,
+		"Name": "",
+		"Origin": "",
+		"Pos": 0,
+		"SkillDataId": 0
+	},
+	"Cfg_LeadTo": {
+		"Anim": "",
+		"BAnim": "",
+		"Bicon": "",
+		"BtnDesc": "",
+		"Condition": "",
+		"Desc": "",
+		"DescResName": "",
+		"FuncId": 0,
+		"GetType": 0,
+		"Icon": "",
+		"Id": 0,
+		"Item": 0,
+		"ItemResName": "",
+		"LinkId": "",
+		"Msg": "",
+		"Order": 0,
+		"TitResName": ""
+	},
+	"Cfg_Level": {
+		"Level": 0,
+		"NeedExp": ""
+	},
+	"Cfg_LianHua_Item": {
+		"ConditionType": 0,
+		"ConditionValue": "",
+		"ItemId": 0,
+		"ItemName": "",
+		"Type": 0,
+		"Value": 0
+	},
+	"Cfg_LianHua_Level": {
+		"AttrId": 0,
+		"Level": 0,
+		"NeedExp": 0
+	},
+	"Cfg_LianHua_Type": {
+		"Name": "",
+		"Type": 0
+	},
+	"Cfg_LianHua_Word": {
+		"Content": "",
+		"Right": 0,
+		"State": 0,
+		"Time": 0
+	},
+	"Cfg_LimitCondition": {
+		"ConditionFunc": 0,
+		"ConditionId": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Relation": 0,
+		"Sort": 0
+	},
+	"Cfg_LimitFightConfig": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_LimitFightMoster": {
+		"BattlePrize": "",
+		"BossId": 0,
+		"Id": 0,
+		"Layer": 0,
+		"Prize": "",
+		"RefreshId": 0
+	},
+	"Cfg_LimitIntegralRank": {
+		"Id": 0,
+		"ShowItemStr": "",
+		"Sort": 0
+	},
+	"Cfg_LimitRewardPara": {
+		"Id": 0,
+		"Para1": 0,
+		"Para2": 0,
+		"Para3": 0
+	},
+	"Cfg_LimitSectRank": {
+		"Id": 0,
+		"ItemStr": "",
+		"Sort": 0
+	},
+	"Cfg_LimitSpeedReward": {
+		"Id": 0,
+		"ItemStr": "",
+		"Layer": 0
+	},
+	"Cfg_LimitTimes": {
+		"BuyValue": 0,
+		"Coin": 0,
+		"CoinId": 0,
+		"Coin_Add": 0,
+		"Coin_Type": 0,
+		"LimitId": 0,
+		"MaxTimes": 0,
+		"VipBuyTimes": "",
+		"VipFreeTimes": ""
+	},
+	"Cfg_LimitTimesCoin": {
+		"Coin_Num": 0,
+		"Coin_Type": 0,
+		"Id": 0,
+		"Times": 0
+	},
+	"Cfg_LinkTask": {
+		"ClientFuncId": 0,
+		"ClientTipsId": 0,
+		"CounterType": 0,
+		"Finger": 0,
+		"GuideType": 0,
+		"Id": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"Realm": 0,
+		"Reborn": 0,
+		"TargetCount": 0,
+		"TipsContent": "",
+		"TipsType": 0
+	},
+	"Cfg_MP": {
+		"Id": 0,
+		"LimitUnionDay": 0,
+		"Name": "",
+		"OpenDay": 0,
+		"Quality": 0
+	},
+	"Cfg_MP_Pos": {
+		"ActiveItem": "",
+		"BaseAttrId": 0,
+		"Id": 0,
+		"Pos": 0
+	},
+	"Cfg_MP_Star": {
+		"AttrId": 0,
+		"CostItem": "",
+		"Id": 0,
+		"Pos": 0,
+		"Star": 0,
+		"UnLockDes": ""
+	},
+	"Cfg_MP_Strength": {
+		"BaseAttr": 0,
+		"MaxLev": 0,
+		"MinLev": 0,
+		"NeedItem": "",
+		"PerAttr": 0,
+		"PerItem": 0,
+		"Pos": 0
+	},
+	"Cfg_MP_StrengthMaster": {
+		"Attr": 0,
+		"CountLimit": 0,
+		"Lev": 0,
+		"LevelLimit": 0
+	},
+	"Cfg_MP_Suit": {
+		"AttrId": 0,
+		"Count": 0,
+		"Effect": "",
+		"Id": 0,
+		"Percent": 0,
+		"SkillId": 0
+	},
+	"Cfg_Mail": {
+		"Tpl_Content": "",
+		"Tpl_ID": 0,
+		"Tpl_Title": "",
+		"Tpl_Type": 0
+	},
+	"Cfg_Map": {
+		"AttackType": 0,
+		"BattleType": 0,
+		"BgMusic": "",
+		"BossMap": "",
+		"DeathReviveTime": 0,
+		"FX": 0,
+		"HideFollower": 0,
+		"InstanceType": 0,
+		"IsCross": 0,
+		"IsRespawnXY": 0,
+		"JumpNFrame": 0,
+		"LostHP": "",
+		"MapId": 0,
+		"MapTrace": "",
+		"MapType": 0,
+		"MaxNum": 0,
+		"MaxPlayerNum": 0,
+		"MonsterHP": "",
+		"MonsterNum": 0,
+		"Name": "",
+		"NeedLevel": 0,
+		"ReliveCoin3": 0,
+		"ReliveItem": "",
+		"Relive_X": 0,
+		"Relive_Y": 0,
+		"ResId": 0,
+		"TreatCoin3": 0,
+		"TreatItem": "",
+		"WalkType": 0
+	},
+	"Cfg_MapBgm": {
+		"Des": "",
+		"Id": 0,
+		"Name": "",
+		"Vol": ""
+	},
+	"Cfg_MapTask": {
+		"MapId": 0,
+		"Prize": ""
+	},
+	"Cfg_Medal": {
+		"Desc": "",
+		"Font": "",
+		"FromId": 0,
+		"ID": 0,
+		"Icon": "",
+		"Name": "",
+		"Type": 0
+	},
+	"Cfg_MedalTarget": {
+		"Attr": 0,
+		"ID": 0,
+		"Level": 0,
+		"Note": "",
+		"Param1": 0,
+		"Prize": "",
+		"Type": 0
+	},
+	"Cfg_MedalTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": 0,
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_Melt": {
+		"EquipToItem": 0,
+		"Quality": 0
+	},
+	"Cfg_MeltCom": {
+		"CoinNum": 0,
+		"Quality": 0,
+		"StoneNum": 0
+	},
+	"Cfg_MeltGrade": {
+		"BuildStone1": "",
+		"BuildStone2": "",
+		"Quality": 0,
+		"Tatter1": "",
+		"Tatter2": ""
+	},
+	"Cfg_MeltPartToType": {
+		"EquipMaterialType": 0,
+		"EquipPart": 0
+	},
+	"Cfg_MeltRed": {
+		"BuildStone1": "",
+		"BuildStone2": "",
+		"ExcAttrStone": "",
+		"PrefBuildStone": "",
+		"Star": 0,
+		"StarStone1": "",
+		"StarStone2": "",
+		"Tatter1": "",
+		"Tatter2": ""
+	},
+	"Cfg_MeltSysToType": {
+		"EquipMaterialType": 0,
+		"EquipSys": 0
+	},
+	"Cfg_MergeFirst": {
+		"Act_Name": "",
+		"Func_Type": 0,
+		"Id": 0,
+		"Prize_Name": "",
+		"Reward": "",
+		"Reward_Type": 0
+	},
+	"Cfg_MiJing_Boss": {
+		"BossId": 0,
+		"FightValue": 0,
+		"LayerId": 0,
+		"MonsterId": 0,
+		"RefreshId": 0,
+		"ShowPrize1": "",
+		"ShowPrize2": "",
+		"ShowPrize3": "",
+		"ShowPrize4": ""
+	},
+	"Cfg_MiJing_Boss_Box": {
+		"GeneralDropId": 0,
+		"GeneralOpenCostItem": "",
+		"Id": 0,
+		"MonsterId": 0,
+		"OpenTimesBase": 0,
+		"ShowDropId": 0,
+		"SupremeDropId": 0,
+		"SupremeOpenCostItem": ""
+	},
+	"Cfg_MiJing_Boss_Layer": {
+		"JoinPayItem": "",
+		"JoinVipLevel": 0,
+		"LayerId": 0,
+		"LimitLevel": 0,
+		"MapId": 0,
+		"RebornLevel": 0,
+		"RedId": 0,
+		"ShowLabel": ""
+	},
+	"Cfg_MiJing_Box_Vip": {
+		"ExtOpenTimes": 0,
+		"VipLevel": 0
+	},
+	"Cfg_Model_Scale": {
+		"AnimId": "",
+		"ID": 0,
+		"NoActLiist": "",
+		"ResType": "",
+		"Scale": 0
+	},
+	"Cfg_Model_Set": {
+		"AnimId": "",
+		"ID": 0,
+		"ResType": 0,
+		"Scale": 0,
+		"TableName": ""
+	},
+	"Cfg_Monster": {
+		"AnimId": 0,
+		"Collect": "",
+		"CollectTimes": 0,
+		"Hight": 0,
+		"MonsterId": 0,
+		"MonsterType": 0,
+		"MustRide": 0,
+		"Name": "",
+		"NpcFunc": 0,
+		"Quality": 0,
+		"ResType": "",
+		"Scale": 0,
+		"ShowName": 0,
+		"UnitType": 0
+	},
+	"Cfg_MoonGift": {
+		"CostNum": 0
+	},
+	"Cfg_MosaicItemUnLock": {
+		"Count": 0,
+		"FuncId": 0,
+		"ObjId": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_MosaicItemUpLev": {
+		"AttrPer": 0,
+		"FuncId": 0,
+		"Lev": 0,
+		"NeedItem": "",
+		"ObjId": 0
+	},
+	"Cfg_MpFocus": {
+		"ActId": 0,
+		"App_id": 0,
+		"Channel_id": 0,
+		"Desc": "",
+		"Img_name": "",
+		"Img_reward": "",
+		"Mp_name": "",
+		"Type": 0
+	},
+	"Cfg_NBAFinalPrize": {
+		"Id": 0,
+		"Name": "",
+		"Prize": 0
+	},
+	"Cfg_NBAGuessPrize": {
+		"Cost": "",
+		"FailPrize": 0,
+		"Id": 0,
+		"Name": "",
+		"WinPrize": 0
+	},
+	"Cfg_Night": {
+		"ActId": 0,
+		"CostItems": "",
+		"DropId": 0,
+		"FixedItems": "",
+		"Id": 0,
+		"LittleName": "",
+		"ShowDropItems": "",
+		"Showeffect": "",
+		"Showpics": ""
+	},
+	"Cfg_Notice": {
+		"Id": 0,
+		"Important": 0,
+		"IsDelay": 0,
+		"Level": 0,
+		"MSG": "",
+		"MSG1": "",
+		"POS": 0,
+		"Range": 0,
+		"Range_Client": ""
+	},
+	"Cfg_NpcTalk": {
+		"Id": 0,
+		"Word": ""
+	},
+	"Cfg_PB": {
+		"Id": 0,
+		"Max": 0,
+		"OS": "",
+		"PBLevel": "",
+		"PBType": "",
+		"PBTypeH1": "",
+		"PBTypeH2": "",
+		"PBTypeL1": "",
+		"PBTypeL2": "",
+		"RateH": "",
+		"RateL": "",
+		"Type": ""
+	},
+	"Cfg_Partner": {
+		"ActiveSkillId": "",
+		"Attr": 0,
+		"Id": 0,
+		"IsVisible": 0,
+		"Name": "",
+		"PassiveSkills": "",
+		"Quality": 0,
+		"RareB": 0,
+		"Rarity": 0,
+		"Sex": 0,
+		"SkinId": 0,
+		"StarUpItem": 0,
+		"Type": 0,
+		"UnlockCond": "",
+		"UnlockItem": 0,
+		"UnlockItemTatter": ""
+	},
+	"Cfg_PartnerConfig": {
+		"Id": 0,
+		"LinkId": 0
+	},
+	"Cfg_PartnerLevel": {
+		"AddExp": "",
+		"AttrId": 0,
+		"GradeType": 0,
+		"Id": 0,
+		"Level": 0,
+		"LimitDesc": "",
+		"NeedItem": "",
+		"NeedTotalExp": 0,
+		"PartnerId": 0,
+		"SkillId": "",
+		"StarLimit": 0
+	},
+	"Cfg_PartnerRelation": {
+		"GroupId": 0,
+		"Id": 0,
+		"StateIcon": "",
+		"UnitType": 0
+	},
+	"Cfg_PartnerSkill": {
+		"Desc": "",
+		"SkillIcon": "",
+		"SkillId": 0,
+		"SkillIncId": 0,
+		"SkillName": "",
+		"SkillQuality": "",
+		"SkillTagId": 0,
+		"SkillType": 0
+	},
+	"Cfg_PartnerStar": {
+		"Attr": 0,
+		"Id": 0,
+		"LevelLimit": 0,
+		"LimitDesc": "",
+		"NeedItemCount": 0,
+		"PartnerId": 0,
+		"SkillId": "",
+		"Star": 0
+	},
+	"Cfg_Partner_Peizhi": {
+		"Aid": 0,
+		"Item": 0,
+		"SkinId": 0
+	},
+	"Cfg_Partner_QN_Skill": {
+		"Level": 0,
+		"Skills": 0,
+		"SkinExtSKill": 0
+	},
+	"Cfg_Partner_QianNeng": {
+		"AttrId": 0,
+		"CondStar": 0,
+		"CostItem": "",
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"LimitStar": 0,
+		"PassiveSkillId": "",
+		"ShowPassiveSkillId": "",
+		"ShowSkillId": "",
+		"SkillId": "",
+		"SkinId": 0
+	},
+	"Cfg_Pet2": {
+		"AnimId": 0,
+		"Attr": 0,
+		"AttrTemp": "",
+		"BaseSkillId": "",
+		"BaseSkillId2": "",
+		"ChangeItem": "",
+		"CommonSkillsTemp": "",
+		"Compose": 0,
+		"FromID": "",
+		"Grow_Max": "",
+		"Grow_Min": "",
+		"IsMaterial": 0,
+		"IsVisible": 0,
+		"Name": "",
+		"PetId": 0,
+		"Quality": 0,
+		"RandCommonSkills": "",
+		"Rarity": 0,
+		"RebornAnimId": "",
+		"RebornAnimId2": "",
+		"RebornPetHeadIcon": "",
+		"RecomSkilId": 0,
+		"RefreshId": 0,
+		"TalentA_Max": "",
+		"TalentA_Min": "",
+		"TalentD_Max": "",
+		"TalentD_Min": "",
+		"TalentH_Max": "",
+		"TalentH_Min": "",
+		"TitleId": 0,
+		"Type": 0,
+		"UnitType": 0,
+		"UnlockItem": 0,
+		"YPara": 0
+	},
+	"Cfg_Pet2Count": {
+		"Count": 0,
+		"Level": 0,
+		"VIP": 0
+	},
+	"Cfg_Pet2Foster": {
+		"Category": 0,
+		"Exp": 0,
+		"Id": 0,
+		"Name": "",
+		"Negative_Rate": 0,
+		"Negative_Zone": "",
+		"Positive_Rate": 0,
+		"Positive_Zone": "",
+		"Quality": 0
+	},
+	"Cfg_Pet2Level": {
+		"A_Attr": 0,
+		"D_Attr": 0,
+		"ExpMax": 0,
+		"H_Attr": 0,
+		"Level": 0,
+		"NeedGold": 0
+	},
+	"Cfg_Pet2LvUpItem": {
+		"Id": 0,
+		"Pos": 0
+	},
+	"Cfg_Pet2PrUpItem": {
+		"Id": 0,
+		"Pos": 0
+	},
+	"Cfg_Pet2Quality": {
+		"Coefficient": 0,
+		"Compose_Inc": 0,
+		"Compose_Item": "",
+		"Compose_Protect": "",
+		"Devour_Num": 0,
+		"Devour_Tax": "",
+		"Positive_Grow": "",
+		"Positive_Talent": "",
+		"Positive_Talent1": "",
+		"Positive_Talent2": "",
+		"Quality": 0,
+		"QualityItem": ""
+	},
+	"Cfg_Pet2Reborn": {
+		"AttrUp": 0,
+		"GrowUp": 0,
+		"NeedItem": "",
+		"Rarity": 0,
+		"TalentAUp": 0,
+		"TalentDUp": 0,
+		"TalentHUp": 0,
+		"Times": 0
+	},
+	"Cfg_Pet2RebornCond": {
+		"Condition": "",
+		"Times": 0
+	},
+	"Cfg_Pet2RecommenSkill": {
+		"Combination": "",
+		"Name": "",
+		"RecomSkilId": 0
+	},
+	"Cfg_Pet2Reset": {
+		"NeedItem": "",
+		"Rarity": 0
+	},
+	"Cfg_Pet2Skill": {
+		"AttrInc": 0,
+		"DropProb": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Quality": 0,
+		"RetrieveItem": "",
+		"ShowLevel": "",
+		"Summary": "",
+		"Type": 0
+	},
+	"Cfg_Pet2SkillLock": {
+		"Cost": "",
+		"Count": 0
+	},
+	"Cfg_Pet2UnDevour": {
+		"From": 0,
+		"Id": 0,
+		"Num": 0,
+		"PetId": 0,
+		"To": 0
+	},
+	"Cfg_Pet2_Devour": {
+		"Compose_Num": 0,
+		"Item2Id": 0,
+		"Item2Num": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"MaxLevel": 0,
+		"MaxQuality": 0,
+		"MaxReborn": 0,
+		"Rarity": 0
+	},
+	"Cfg_Pet2_Mutation": {
+		"Increase": 0,
+		"Prob": 0,
+		"ProbInc": 0,
+		"SkillLockMax": 0,
+		"SkillMax": 0,
+		"Type": 0
+	},
+	"Cfg_PetA": {
+		"ActiveSkillId": "",
+		"AnimId": 0,
+		"Attr": 0,
+		"IsVisible": 0,
+		"Name": "",
+		"PassiveSkills": "",
+		"PetAId": 0,
+		"Quality": 0,
+		"RareB": 0,
+		"Rarity": 0,
+		"StarUpItem": 0,
+		"Type": 0,
+		"UnlockItem": 0,
+		"UnlockItemTatter": "",
+		"UpLev": 0
+	},
+	"Cfg_PetALevel": {
+		"AddExp": 0,
+		"AttrId": 0,
+		"GradeType": 0,
+		"Id": 0,
+		"Level": 0,
+		"Name": "",
+		"NeedItem": 0,
+		"NeedTotalExp": 0,
+		"SkinId": 0,
+		"UnlockSkill": 0
+	},
+	"Cfg_PetAMerge": {
+		"ActiveSkillId": "",
+		"AnimId": 0,
+		"Attr": 0,
+		"AwakePos": 0,
+		"Name": "",
+		"PassiveSkills": "",
+		"PetAId": 0,
+		"Quality": 0,
+		"SkillCount": 0
+	},
+	"Cfg_PetAMergeAwake": {
+		"AwakeAttrId": 0,
+		"AwakeSkillId": 0,
+		"Id": 0,
+		"Quality": 0
+	},
+	"Cfg_PetAMergeLev": {
+		"AttrPresent": 0,
+		"Id": 0,
+		"Lev": 0
+	},
+	"Cfg_PetAMergeStar": {
+		"Id": 0,
+		"SkillLev": 0,
+		"Star": 0
+	},
+	"Cfg_PetAMerge_JXLevel": {
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"Level": 0,
+		"Quality": 0
+	},
+	"Cfg_PetAMerge_ZBDLevel": {
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"Level1": 0,
+		"Level2": "",
+		"Level3": "",
+		"Level4": "",
+		"Level5": "",
+		"Star": 0
+	},
+	"Cfg_PetAStar": {
+		"Attr": 0,
+		"Id": 0,
+		"NeedItemCount": 0,
+		"PetAId": 0,
+		"SkillId": 0,
+		"Star": 0
+	},
+	"Cfg_PetAwaken": {
+		"AnimId": "",
+		"BackCost": "",
+		"BackReturn": 0,
+		"Cost": "",
+		"Star": 0
+	},
+	"Cfg_PetAwakenSkill": {
+		"Attr": 0,
+		"PetId": 0,
+		"Skills": "",
+		"Star": 0
+	},
+	"Cfg_PetAwaken_Item": {
+		"Item": "",
+		"Type": 0
+	},
+	"Cfg_PetEquip_Config": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_PetEquip_ExclusiveEffect": {
+		"Desc": "",
+		"EffectId": 0,
+		"Key": 0,
+		"Name": "",
+		"PetId": 0,
+		"Quality": 0,
+		"SkillId": ""
+	},
+	"Cfg_PetEquip_Forge": {
+		"CostList": "",
+		"Desc": "",
+		"Id": 0,
+		"Kind": 0,
+		"Part": 0,
+		"RandomItemList": ""
+	},
+	"Cfg_PetEquip_QualityUp": {
+		"AddRandomAttr": "",
+		"CostList": "",
+		"Id": 0,
+		"Part": 0,
+		"Quality": 0,
+		"TargetId": 0
+	},
+	"Cfg_PetEquip_Smelt": {
+		"Awards": "",
+		"Id": 0,
+		"Part": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_PetEquip_StartUp": {
+		"BaseAttrId": 0,
+		"CostList": "",
+		"Id": 0,
+		"Part": 0,
+		"Quality": 0,
+		"Star": 0
+	},
+	"Cfg_PetEquip_Stick": {
+		"Desc": "",
+		"ItemId": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Rate": 0,
+		"RateShow": 0,
+		"RedPoint": 0,
+		"Type": 0,
+		"Type2": 0
+	},
+	"Cfg_PetEquip_StickType": {
+		"GN": 0,
+		"P": 0,
+		"Title": "",
+		"Type": 0
+	},
+	"Cfg_PetEquip_Suit": {
+		"ATKRatio": 0,
+		"AttrId": 0,
+		"DEFRatio": 0,
+		"HPRatio": 0,
+		"Id": 0,
+		"Key": 0,
+		"Name": "",
+		"Num": 0,
+		"Quality": 0
+	},
+	"Cfg_PetEvolution": {
+		"AttrTypeId": 0,
+		"DetailType": 0,
+		"EntryIcon": 0,
+		"IsMulti": 0,
+		"Item": "",
+		"ItemEnter": "",
+		"Msg": 0,
+		"PetId": 0,
+		"PetName": "",
+		"TitleName": "",
+		"ToPetId": 0
+	},
+	"Cfg_PetMaster": {
+		"ActId": 0,
+		"GroupIcon": 0,
+		"GroupName": "",
+		"PrizeText": "",
+		"QulityColor": 0,
+		"ShowAnimaID": 0
+	},
+	"Cfg_PetWords": {
+		"PetId": 0,
+		"PetWords": ""
+	},
+	"Cfg_Pet_Totem": {
+		"AnimId": "",
+		"Attr": 0,
+		"DAnimId": 0,
+		"Gear": 0,
+		"ItemId": "",
+		"MaxGear": 0,
+		"MaxPetNum": 0,
+		"SPAnimId": "",
+		"TagUI": "",
+		"TotemId": 0,
+		"TotemName": "",
+		"TotemPicID": 0,
+		"TotemQuality": 0,
+		"UnlockDesc": "",
+		"UnlockId": 0
+	},
+	"Cfg_Pet_Totem_GearUp": {
+		"Attr": 0,
+		"Gear": 0,
+		"NeedNum": 0,
+		"Quality": 0
+	},
+	"Cfg_Pet_Totem_Power": {
+		"AttrId": 0,
+		"Desc": "",
+		"PetNum": 0,
+		"PetQuality": 0,
+		"PetRarity": 0,
+		"PowerId": 0,
+		"TotemId": 0
+	},
+	"Cfg_PhotoBook": {
+		"AnimId": 0,
+		"Attr": 0,
+		"Class": 0,
+		"ExtAttr": "",
+		"Id": 0,
+		"IncreaseId": "",
+		"Name": "",
+		"Quality": 0,
+		"SkillId": "",
+		"StrengthItem": "",
+		"Type": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_PhotoBookPrize": {
+		"Class": 0,
+		"Num": 0,
+		"Prize": ""
+	},
+	"Cfg_PhotoBookStrength": {
+		"Attr": 0,
+		"Class": 0,
+		"Level": 0,
+		"NeedNum": 0,
+		"NeedStarLev": 0,
+		"Quality": 0
+	},
+	"Cfg_PhotoBookSuit": {
+		"Attr": 0,
+		"Class": 0,
+		"Desc": "",
+		"Effect": "",
+		"Need": 0,
+		"Percent": 0,
+		"SkillId": 0,
+		"Type": 0
+	},
+	"Cfg_PhotoBookUp": {
+		"Attr": 0,
+		"Class": 0,
+		"Level": 0,
+		"NeedNum": 0,
+		"NeedStrengthLev": 0,
+		"Quality": 0
+	},
+	"Cfg_PlayDice": {
+		"ActId": 0,
+		"AniId": 0,
+		"FreeTimes": 0,
+		"GoldNum": 0,
+		"GoldType": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Type": 0
+	},
+	"Cfg_PlayDice_Item": {
+		"ActId": 0,
+		"Id": 0,
+		"IsImprint": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Quality": 0,
+		"Sort": 0
+	},
+	"Cfg_PlayDice_Reward": {
+		"ActId": 0,
+		"Floor": 0,
+		"Id": 0,
+		"Reward": ""
+	},
+	"Cfg_PlotContent": {
+		"Content": "",
+		"Id": 0
+	},
+	"Cfg_PlotDetail": {
+		"ActId": 0,
+		"ChatName": "",
+		"DropID": 0,
+		"Emoji": "",
+		"Id": 0,
+		"POS_LR": 0,
+		"PicID": "",
+		"Role": 0,
+		"TalkContent": ""
+	},
+	"Cfg_PosUnlock": {
+		"Condition": "",
+		"PosId": 0
+	},
+	"Cfg_PracticeLevel": {
+		"Desc": "",
+		"Exp": 0,
+		"GodBookId": 0,
+		"Level": 0,
+		"Multi": 0,
+		"PrecentAttrIdList": ""
+	},
+	"Cfg_PrefectWarBoss": {
+		"BossFeatur": 0,
+		"BossId": 0,
+		"CoverName": "",
+		"CpId": 0,
+		"FightPrize": 0,
+		"HelpPrize": 0,
+		"HirePrize": 0,
+		"MonsterId": 0,
+		"Name": "",
+		"ReHeroSkill": 0,
+		"RefreshId": 0,
+		"RemmendHero": 0,
+		"Star": 0,
+		"TabId": 0
+	},
+	"Cfg_PrefectWarBossFv": {
+		"Id": 0,
+		"MaxId": 0,
+		"MinId": 0,
+		"Para": 0
+	},
+	"Cfg_PrefectWarCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_PrefectWarTask": {
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_PuTianTongQing": {
+		"ActId": 0,
+		"BrPath": "",
+		"Day": 0,
+		"Items": "",
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Name": "",
+		"Types": 0
+	},
+	"Cfg_QMDJ_ZhenFa": {
+		"DrugAttrId": 0,
+		"DrugItemId": 0,
+		"DrugRedId": 0,
+		"Id": 0,
+		"LevelUpRedId": 0,
+		"ListId": 0,
+		"Name": "",
+		"NeedItem": "",
+		"UnlockAttrId": 0,
+		"ZhenFaDsc1": "",
+		"ZhenFaDsc2": "",
+		"ZhenFaDsc3": "",
+		"ZhenFaDsc4": "",
+		"ZhenFaRedId": 0,
+		"ZhenFaSkill": 0,
+		"ZhenFaSkills": ""
+	},
+	"Cfg_QMDJ_ZhenFaLeve": {
+		"AttrId": 0,
+		"AttrPresent": 0,
+		"EatDrugMax": 0,
+		"Id": 0,
+		"LevItemId": 0,
+		"LevItemNum": 0,
+		"Level": 0,
+		"Name": ""
+	},
+	"Cfg_QMDJ_ZhenFaStarUp": {
+		"AttrPresent": 0,
+		"SkillLevel": 0,
+		"Star": 0,
+		"StarUpItemNum": 0
+	},
+	"Cfg_QMDJ_ZhenWei": {
+		"Color": 0,
+		"Id": 0,
+		"Name": "",
+		"PId": 0,
+		"PType": 0,
+		"Param1": 0,
+		"Pos": 0
+	},
+	"Cfg_QQRedPkg": {
+		"GoodsId": 0,
+		"Id": 0,
+		"MinGetRMB": 0,
+		"Multiple": 0,
+		"NeedRMB": 0,
+		"RedPkgRMB": 0,
+		"YBCount": 0
+	},
+	"Cfg_RealmLevel": {
+		"AttrId": 0,
+		"DayPrize": "",
+		"Descr": "",
+		"Exp": "",
+		"ExpIncrId": 0,
+		"Level": 0,
+		"RealmLevel": 0,
+		"RealmName": "",
+		"RealmPeriod": ""
+	},
+	"Cfg_RealmOrder": {
+		"HurtIncr1": 0,
+		"HurtIncr3": 0,
+		"IconId": 0,
+		"LimitPrize": "",
+		"LimitTime": 0,
+		"Prize": "",
+		"RealmLevel": 0,
+		"RealmQuality": 0,
+		"ResFId": 0,
+		"ResMId": 0,
+		"SkillDesc": "",
+		"SkillName": "",
+		"SkillType": 0,
+		"SpikeProb": 0
+	},
+	"Cfg_RealmTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"PrizeExp": "",
+		"SortIdx": 0,
+		"TargetCount": 0,
+		"TaskTag": 0,
+		"Type": 0
+	},
+	"Cfg_RebateTurntab": {
+		"ActId": 0,
+		"Gear": 0,
+		"Id": 0,
+		"Multiple": 0,
+		"Name": "",
+		"Odd": 0,
+		"OddClient": "",
+		"ShowPos": 0
+	},
+	"Cfg_Reborn": {
+		"Attr": 0,
+		"Break": 0,
+		"Detail": "",
+		"NeedItemCount": 0,
+		"NeedItemId": "",
+		"Reborn": 0,
+		"SkillId": 0
+	},
+	"Cfg_RebornTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": 0,
+		"Prize": "",
+		"Reborn": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_RechargeGear": {
+		"ActId": 0,
+		"Amount": 0,
+		"Basic": 0,
+		"Gear": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Times": 0
+	},
+	"Cfg_Refresh": {
+		"AttrId_Boss": 0,
+		"AttrId_Common": 0,
+		"AttrId_Elites": 0,
+		"MonsterIds": "",
+		"MonsterLevel": 0,
+		"RefreshId": 0
+	},
+	"Cfg_ResourceFind": {
+		"CostItemId": 0,
+		"CostItemNum": 0,
+		"Des": "",
+		"FuncId": 0,
+		"HalfCostId": 0,
+		"Id": 0,
+		"Param": 0,
+		"Type": 0
+	},
+	"Cfg_RewardGroup": {
+		"DropId": 0,
+		"GroupId": 0,
+		"Id": 0,
+		"Items": "",
+		"MaxDay": 0,
+		"MaxLevel": 0,
+		"MinDay": 0,
+		"MinLevel": 0,
+		"RefType": 0,
+		"ServerType": 0,
+		"ShowItems": ""
+	},
+	"Cfg_Ride_Track": {
+		"AnimId": "",
+		"AttrId": 0,
+		"AutoWear": 0,
+		"Id": 0,
+		"IsShow": 0,
+		"Name": "",
+		"Type": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_RingSkillLevel": {
+		"Id": 0,
+		"Item_Id": "",
+		"Max_Level": 0,
+		"Min_Level": 0
+	},
+	"Cfg_RoleBody": {
+		"AttrType1": 0,
+		"AttrType2": 0,
+		"BaseAttr1": 0,
+		"BaseAttr2": 0,
+		"CoinBase": 0,
+		"CoinLevel": 0,
+		"IconName": "",
+		"Id": 0,
+		"ImgName": "",
+		"LevelAttr1": 0,
+		"LevelAttr2": 0,
+		"Max": 0,
+		"Name": "",
+		"Quality": 0
+	},
+	"Cfg_RoleBodyLevel": {
+		"Grade": 0,
+		"Id": 0,
+		"RoleLevel": 0,
+		"RoleRealm": 0,
+		"RoleReborn": ""
+	},
+	"Cfg_RoleGodSkill": {
+		"Desc": "",
+		"Id": 0,
+		"Part": 0,
+		"Realm": 0,
+		"Reborn": "",
+		"RoleGodSkillType": 0,
+		"SkillId": 0
+	},
+	"Cfg_RoleSkillAttr": {
+		"AttrBase": 0,
+		"AttrLevel": 0,
+		"AttrType": 0,
+		"Desc": "",
+		"HLId": 0,
+		"SkillId": 0
+	},
+	"Cfg_RoleTalent": {
+		"Attr": 0,
+		"AttrType": 0,
+		"Desc": "",
+		"Group": 0,
+		"Id": 0,
+		"Level": 0,
+		"NeedItem": "",
+		"OutId": 0,
+		"OutLevel": 0,
+		"Type": 0
+	},
+	"Cfg_RoleTalentSuit": {
+		"Attr": 0,
+		"Level": 0,
+		"Total": 0
+	},
+	"Cfg_Ruins_Floor": {
+		"ActId": 0,
+		"Double": 0,
+		"Funcs": "",
+		"Id": 0,
+		"Item": "",
+		"LimitMax": 0,
+		"LimitMin": 0,
+		"Max": 0,
+		"Min": 0,
+		"Name": "",
+		"Prob": 0,
+		"Rewards": "",
+		"Times": 0,
+		"Triple": 0
+	},
+	"Cfg_Ruins_Grid": {
+		"ActId": 0,
+		"Id": 0,
+		"Item": "",
+		"Name": ""
+	},
+	"Cfg_Ruins_Odd": {
+		"Id": 0,
+		"Name": "",
+		"OddClient": ""
+	},
+	"Cfg_SDEvent": {
+		"AniType": 0,
+		"CurrencyNum": 0,
+		"CurrencyType": 0,
+		"DurationTime": 0,
+		"EventId": 0,
+		"EventType": 0,
+		"GoodsId": 0,
+		"LimitDay": 0,
+		"Model": "",
+		"ModelPos": "",
+		"ModelScale": 0,
+		"ModelType": 0,
+		"Multiple": 0,
+		"Name": "",
+		"Prize": "",
+		"Random": 0,
+		"Record": "",
+		"ReturnTime": 0
+	},
+	"Cfg_SL": {
+		"AnimId": "",
+		"AttrId1": 0,
+		"AttrId2": 0,
+		"Grade": 0,
+		"GradePercent": 0,
+		"MaxLev": 0,
+		"Name": "",
+		"NextLevExp1": 0,
+		"NextLevExp2": 0,
+		"RankCostItem": "",
+		"Reborn": "",
+		"Skills": ""
+	},
+	"Cfg_SLIns_Inspire": {
+		"Coin3": 0,
+		"Coin4": 0,
+		"Times": 0
+	},
+	"Cfg_SL_LevItem": {
+		"Exp": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_SL_Soul": {
+		"Attr": "",
+		"Id": 0,
+		"LevelUpField": "",
+		"MaxCount": 0,
+		"MaxCount2": 0,
+		"MaxLevel": 0,
+		"MinCount": 0,
+		"Name": "",
+		"OutExp": 0,
+		"OutItemInfo": "",
+		"SkillId": 0,
+		"Sort": 0,
+		"SoulType": 0
+	},
+	"Cfg_SL_Soul_LevelUp": {
+		"AddAttrNum": 0,
+		"BaseAttrMulti": 0,
+		"Level": 0,
+		"Qty_Exp_1": 0,
+		"Qty_Exp_2": 0,
+		"Qty_Exp_3": 0,
+		"Qty_Exp_4": 0,
+		"Qty_Exp_5": 0,
+		"Qty_Exp_6": 0,
+		"Qty_Exp_7": 0,
+		"SkillLevel": 0
+	},
+	"Cfg_SL_Soulkong": {
+		"LimitType": 0,
+		"PosId": 0,
+		"PosOdd": 0,
+		"SkinOdd": "",
+		"SoulLev": 0,
+		"SoulQuality": 0
+	},
+	"Cfg_SL_Star": {
+		"AttrId": 0,
+		"BreakCostItem": "",
+		"ID": 0,
+		"Indexs": "",
+		"Node": 0,
+		"NodeIcon": "",
+		"Skills": "",
+		"SkillsBuff": "",
+		"Star": 0,
+		"StarCostItem": ""
+	},
+	"Cfg_SWEquipBreak": {
+		"Itemnum": "",
+		"Level": 0,
+		"Star": 0
+	},
+	"Cfg_SWEquipStrength": {
+		"AddAttrId": 0,
+		"BaseAttrId": 0,
+		"LevelLimit": 0,
+		"LevelMax": 0,
+		"LevelMin": 0,
+		"NeedItem": "",
+		"PerItem": 0,
+		"Pos": 0
+	},
+	"Cfg_SWRankPrize": {
+		"Prize1": 0,
+		"Prize2": 0,
+		"Prize3": 0,
+		"RankMax": 0,
+		"RankMin": 0
+	},
+	"Cfg_SWScorePrize": {
+		"Prize": 0,
+		"Score": 0
+	},
+	"Cfg_SW_EquipName": {
+		"EquipPart": 0,
+		"Id": 0,
+		"Name": "",
+		"PicID": ""
+	},
+	"Cfg_SW_Suit": {
+		"AttrId": 0,
+		"EquipNum": 0,
+		"Level": 0,
+		"StarNum": 0,
+		"SuitId": 0
+	},
+	"Cfg_SW_SuitSkill": {
+		"Attr1": 0,
+		"Description": "",
+		"Id": 0,
+		"SkillId": 0,
+		"SkillLv": 0,
+		"SuitId": 0
+	},
+	"Cfg_SYDT_Map": {
+		"Coordinate": "",
+		"Direction": 0,
+		"FindLocation": "",
+		"FirstTitle": "",
+		"ID": 0,
+		"RankTitle": "",
+		"SYBZTitle": "",
+		"Title": "",
+		"UITitle": ""
+	},
+	"Cfg_SYDT_Num": {
+		"ID": 0,
+		"ShowName": ""
+	},
+	"Cfg_SYLM_Attribute": {
+		"ID": 0,
+		"IntValue": 0,
+		"StringValue": ""
+	},
+	"Cfg_SYLM_FightTogether": {
+		"Desc": "",
+		"Id": 0,
+		"MonsterType": 0,
+		"PartnerId": "",
+		"PartnerNum": 0,
+		"PartnerType": "",
+		"Quality": 0,
+		"RewardId": 0
+	},
+	"Cfg_SYLM_Inspire": {
+		"CostNum": 0,
+		"CostType": 0,
+		"GetBuff": 0,
+		"ID": 0,
+		"Times": 0
+	},
+	"Cfg_SYLM_Monster": {
+		"BornRate": 0,
+		"ExtraMission": 0,
+		"ExtraRewardId": 0,
+		"FightRange": "",
+		"FightRewardId": 0,
+		"Id": 0,
+		"KillRewardId": 0,
+		"Location": "",
+		"MonsterId": 0,
+		"MonsterType": 0,
+		"ShowDesc": 0
+	},
+	"Cfg_SY_ActPassCheck": {
+		"AddBuyInternal": 0,
+		"AddBuyMax": 0,
+		"AddBuyRate": 0,
+		"BuyMaxExp": 0,
+		"GoodsId": 0,
+		"Loop": 0,
+		"Propor": 0
+	},
+	"Cfg_SY_ActRank": {
+		"Id": 0,
+		"Name": "",
+		"RankAll": 0,
+		"RankCond": 0
+	},
+	"Cfg_SY_ActRankPrize": {
+		"ActId": 0,
+		"GroupPrize": 0,
+		"Id": 0,
+		"RankLimit": 0,
+		"RankMax": 0,
+		"RankMin": 0
+	},
+	"Cfg_SY_ActTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"GroupPrize": 0,
+		"Id": 0,
+		"Name": "",
+		"Order": 0,
+		"ShowCond": 0,
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_SY_Activity": {
+		"ActType": 0,
+		"ContainerCircle": 0,
+		"Duration": "",
+		"Id": 0,
+		"Name": "",
+		"OnceCircle": 0,
+		"Order": 0,
+		"Pos": 0,
+		"PosIcon": 0,
+		"ShowTime": ""
+	},
+	"Cfg_SY_GuideLink": {
+		"ButtonID": 0,
+		"ClientFuncId": 0,
+		"Direct": 0,
+		"Force": 0,
+		"NextID": 0,
+		"Ren": 0,
+		"TaskId": 0,
+		"Time": 0,
+		"TipsContent": ""
+	},
+	"Cfg_SY_GuideTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Direct": 0,
+		"Force": 0,
+		"Function": "",
+		"GuideType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"NextID": 0,
+		"Param": "",
+		"Pos": "",
+		"Prize": "",
+		"Ren": 0,
+		"ShowBg": 0,
+		"TargetCount": 0,
+		"Time": 0,
+		"TipsContent": "",
+		"TipsType": 0,
+		"instance": 0
+	},
+	"Cfg_SY_LinkTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Hand": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Nextid": 0,
+		"Param": "",
+		"Prize": "",
+		"TargetCount": 0
+	},
+	"Cfg_SY_Model": {
+		"ID": 0,
+		"Scale": 0,
+		"Sex": 0
+	},
+	"Cfg_SY_PassCheckLevel": {
+		"Exp": 0,
+		"Level": 0,
+		"Prize1": "",
+		"Prize2": "",
+		"ShowBigPrize": 0,
+		"ShowModel": 0,
+		"ShowReward": 0
+	},
+	"Cfg_SY_PassCheckTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Desc": "",
+		"Exp": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": "",
+		"Prize2": "",
+		"TargetCount": 0,
+		"TaskLock": 0,
+		"Type": 0
+	},
+	"Cfg_SY_RewardGroup": {
+		"GroupId": 0,
+		"Id": 0,
+		"Items": "",
+		"MaxPlay": 0,
+		"MaxTimes": 0,
+		"MinPlay": 0,
+		"MinTimes": 0,
+		"ShowItems": ""
+	},
+	"Cfg_SeasonName": {
+		"Name": "",
+		"Times": 0
+	},
+	"Cfg_SeasonTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": "",
+		"Prize": 0,
+		"TargetCount": 0
+	},
+	"Cfg_SecretMall": {
+		"CostItem": 0,
+		"GoodsTitle": "",
+		"Id": 0,
+		"ItemString": "",
+		"OldPrize": 0,
+		"Prize": 0,
+		"Sale": 0,
+		"Sort": 0
+	},
+	"Cfg_SecretMallCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_SectBoss": {
+		"BossId": 0,
+		"Id": 0,
+		"IntervalTime": 0,
+		"NeedItem": 0,
+		"NeedLevel": 0,
+		"NeedNum": 0,
+		"NeedReborn": 0,
+		"ShowLabel": "",
+		"ShowPrize": ""
+	},
+	"Cfg_SectBuff": {
+		"BuffId": 0,
+		"Days": "",
+		"Id": 0,
+		"Level": 0,
+		"SkillId": 0
+	},
+	"Cfg_SectGodAnimal": {
+		"BossId": 0,
+		"Id": 0,
+		"MaxLevel": 0
+	},
+	"Cfg_SectGodAnimalRefresh": {
+		"BossId": 0,
+		"Id": 0,
+		"IntervalTime": 0,
+		"NeedItem": 0,
+		"NeedLevel": 0,
+		"NeedNum": 0,
+		"NeedReborn": 0,
+		"Num": 0,
+		"ShowFirstPrize": "",
+		"ShowLabel": "",
+		"ShowPrize": ""
+	},
+	"Cfg_SectJob": {
+		"Horse": 0,
+		"Id": 0,
+		"IncreaseID": 0,
+		"IncreaseLevel": 0,
+		"MaxNum": 0,
+		"Name": "",
+		"Suit": 0,
+		"Title": 0,
+		"Weapon": 0,
+		"Wing": 0
+	},
+	"Cfg_SectLevel": {
+		"Exp": 0,
+		"Level": 0,
+		"Name": 0,
+		"Reward": ""
+	},
+	"Cfg_SectMasterLevel": {
+		"Master_Level": 0,
+		"Sect_Max_level": 0,
+		"Sect_Min_level": 0,
+		"Skill_Inc_Id": 0
+	},
+	"Cfg_SectNotice": {
+		"ActId": 0,
+		"Id": 0,
+		"MSG": ""
+	},
+	"Cfg_SectReward": {
+		"Id": 0,
+		"Rank": "",
+		"Reward": "",
+		"Reward_Type": 0,
+		"Status": 0
+	},
+	"Cfg_SectSkill": {
+		"Desc": "",
+		"Id": 0,
+		"Max_Level": 0,
+		"Name": "",
+		"Sect_level": 0,
+		"SkillBeginId": 0,
+		"SkillIcon": "",
+		"SkillIncId": 0,
+		"Skill_Type": 0
+	},
+	"Cfg_SectSkillLevel": {
+		"Id": 0,
+		"Item_Id": "",
+		"Max_Level": 0,
+		"Min_Level": 0
+	},
+	"Cfg_SectWarBuff": {
+		"Icon": "",
+		"Id": "",
+		"Name": "",
+		"Quality": 0,
+		"Tips": "",
+		"Title": ""
+	},
+	"Cfg_SectWarLayer": {
+		"AnimalBuff": 0,
+		"AnimalScore": 0,
+		"AutoPrize": "",
+		"AutoScoreTime": 0,
+		"CountDown": 0,
+		"CrystalScore": 0,
+		"Desc": "",
+		"EndTime": "",
+		"FailPrize": 0,
+		"LayerId": 0,
+		"LeaderBuff": 0,
+		"LeaderScore": 0,
+		"Name": "",
+		"ScoreMax": 0,
+		"SectCount": 0,
+		"StartTime": "",
+		"WarriorInternal": 0,
+		"WarriorMax": 0,
+		"WarriorOwnBuff": 0,
+		"WarriorOwnScore": 0,
+		"WarriorScore": 0,
+		"WinPrize": 0
+	},
+	"Cfg_SectWarMap": {
+		"Id": 0,
+		"Layer": 0,
+		"MapId": 0,
+		"Name": ""
+	},
+	"Cfg_Sect_Animal_Rage": {
+		"Fx": 0,
+		"Id": 0,
+		"KillPrize": "",
+		"MapId": 0,
+		"MonsterId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"OnceShieldMath": 0,
+		"RefreshId": 0,
+		"ShieldTrigger": "",
+		"ShowPrize": "",
+		"TotalShieldMath": 0
+	},
+	"Cfg_Sect_Buff": {
+		"Circle": 0,
+		"Icon": 0,
+		"Id": 0,
+		"IsShowBuff": 0,
+		"Level": 0,
+		"Name": "",
+		"Quality": 0,
+		"Tips": ""
+	},
+	"Cfg_Sect_C_Boss": {
+		"BossId": 0,
+		"BoxItemId": 0,
+		"Fx": 0,
+		"Id": 0,
+		"MonsterId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"RefreshId": 0,
+		"RewardId": 0,
+		"Times": 0
+	},
+	"Cfg_Sect_C_Drop": {
+		"Count": 0,
+		"Id": 0,
+		"MaxNum": 0,
+		"MinNum": 0,
+		"Reward": 0,
+		"Type": 0
+	},
+	"Cfg_Sect_C_Item": {
+		"AnimaID": 0,
+		"ItemId": 0,
+		"MonsterId": 0,
+		"Wait": 0
+	},
+	"Cfg_Sect_C_Pets": {
+		"AddLog": 0,
+		"CatchRate": 0,
+		"Fail": "",
+		"FailDrop": 0,
+		"GetPetUIEffect": 0,
+		"Id": 0,
+		"IsNotice": 0,
+		"IsPreview": 0,
+		"IsShow": 0,
+		"ItemId": 0,
+		"PetId": 0,
+		"Quality": 0,
+		"Rarity": 0,
+		"Type": 0,
+		"Weight": 0
+	},
+	"Cfg_Sect_C_Seize": {
+		"GroupId": 0,
+		"Id": 0,
+		"IsNotice": 0,
+		"PetId": 0,
+		"Quality": 0,
+		"Rarity": 0,
+		"Reward": 0,
+		"Type": 0
+	},
+	"Cfg_Sect_C_ShowDrop": {
+		"Id": 0,
+		"ItemId": 0,
+		"Order": 0
+	},
+	"Cfg_Sect_Catch_Drop": {
+		"Id": 0
+	},
+	"Cfg_Sect_Drop": {
+		"DropId": 0,
+		"Event": 0,
+		"GroupId": 0,
+		"Id": 0,
+		"IsCross": 0,
+		"Quality": 0
+	},
+	"Cfg_Sect_Event": {
+		"CrossDay": 0,
+		"EventType": 0,
+		"Id": 0,
+		"IsAdd": 0,
+		"IsCatch": 0,
+		"IsDrop": 0,
+		"IsReset": 0,
+		"Name": "",
+		"Result": 0,
+		"Tips": "",
+		"Trigger": ""
+	},
+	"Cfg_Sect_ImmortalMountain": {
+		"Addition": 0,
+		"Id": 0,
+		"Interval": 0,
+		"Items": "",
+		"Name": "",
+		"Pos1": 0,
+		"Pos2": 0,
+		"Pos3": 0,
+		"Pos4": 0,
+		"Pos5": 0,
+		"Pos6": 0,
+		"Pos7": 0,
+		"Prestige": 0
+	},
+	"Cfg_Sect_Item": {
+		"Event": 0,
+		"Id": 0,
+		"Integral": 0,
+		"ItemId": 0,
+		"Quality": "",
+		"Type": "",
+		"UseNum": 0,
+		"Weight": 0
+	},
+	"Cfg_Sect_OccupyNum": {
+		"Addition": 0,
+		"Num": 0
+	},
+	"Cfg_Sect_PetQuality": {
+		"Event": 0,
+		"Id": 0,
+		"Quality": 0,
+		"Rarity": 0,
+		"Type": 0,
+		"Weight": 0
+	},
+	"Cfg_Sect_Pets": {
+		"CatchRate": 0,
+		"GroupId": 0,
+		"Id": 0,
+		"IsCross": 0,
+		"IsPreview": 0,
+		"IsShow": 0,
+		"PetId": 0,
+		"Quality": 0,
+		"Rarity": 0,
+		"Type": 0,
+		"Unlock": "",
+		"Weight": 0
+	},
+	"Cfg_Sect_Prestige": {
+		"AttrId": 0,
+		"Items": "",
+		"Level": 0,
+		"Prestige": 0,
+		"Title": 0
+	},
+	"Cfg_Sect_ShowDrop": {
+		"GroupId": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"Order": 0
+	},
+	"Cfg_Sect_Symbol": {
+		"AniId": 0,
+		"Id": 0,
+		"PicPath": ""
+	},
+	"Cfg_SectionMap": {
+		"AddFeats": 0,
+		"AfkOut": 0,
+		"AttackUse": 0,
+		"BeastBuff": "",
+		"BeastSeal": "",
+		"Building": 0,
+		"Coordinate": "",
+		"ExtractUse": 0,
+		"Function": "",
+		"GodId": 0,
+		"Horde": 0,
+		"HordeQty": 0,
+		"ID": 0,
+		"InnerTime": 0,
+		"Items": "",
+		"MainCity": 0,
+		"MonsterId": "",
+		"Name": "",
+		"Occupy": 0,
+		"Offset": "",
+		"OutAddNum": 0,
+		"OutPutNode": 0,
+		"OutPutRatio": 0,
+		"OutTime": 0,
+		"PerQty": 0,
+		"Quality": 0,
+		"ReturnTime": 0,
+		"SettleTime": 0,
+		"ShowPrize": "",
+		"Totem": "",
+		"Type": "",
+		"ValidTime": 0
+	},
+	"Cfg_SeekingDragonPos": {
+		"FX": 0,
+		"Id": 0,
+		"X": 0,
+		"Y": 0
+	},
+	"Cfg_SeekingDragonPrize": {
+		"Floor": 0,
+		"Id": 0,
+		"Prize": "",
+		"State": 0
+	},
+	"Cfg_ShareTask": {
+		"CounterType": 0,
+		"Desc": "",
+		"GetCondition": "",
+		"Id": 0,
+		"Independent": 0,
+		"Multiple": 0,
+		"Name": "",
+		"Note": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"ServiceType": 0,
+		"TargetCount": 0,
+		"TargetDesc": "",
+		"Type": 0
+	},
+	"Cfg_ShenWei": {
+		"AltarLimit": 0,
+		"GodName": "",
+		"Icon": "",
+		"Id": 0,
+		"MainIcon": "",
+		"Maxgod": 0,
+		"Power2": 0,
+		"Prize": 0,
+		"ResPower": "",
+		"Stage": 0,
+		"TaskId": ""
+	},
+	"Cfg_ShenWeiShenShou": {
+		"HPPercent": 0,
+		"Id": 0,
+		"Prize": 0
+	},
+	"Cfg_ShenWeiTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"Independent": 0,
+		"Name": "",
+		"Param": "",
+		"Prize": "",
+		"TargetCount": 0
+	},
+	"Cfg_ShengHen": {
+		"Id": 0,
+		"Name": "",
+		"PicPath": "",
+		"PrevSWId": 0,
+		"RedDot": 0,
+		"Unlock": 0
+	},
+	"Cfg_ShenyuCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_ShenyuHelp": {
+		"Id": 0,
+		"Item": "",
+		"Text": ""
+	},
+	"Cfg_ShenyuHelp_Picture": {
+		"Desc": "",
+		"Help": "",
+		"Id": 0,
+		"Number": 0,
+		"Picture": ""
+	},
+	"Cfg_ShenyuShopCfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_ShenyuShopGood": {
+		"BuffId": 0,
+		"CostItem": 0,
+		"GoodsTitle": "",
+		"GroupId": 0,
+		"Id": 0,
+		"ItemString": "",
+		"MustShow": "",
+		"OldPrize": 0,
+		"Prize": 0,
+		"Sale": 0
+	},
+	"Cfg_ShopCity": {
+		"BuyNum": 0,
+		"GoldType": "",
+		"GoodsID": 0,
+		"GoodsPrice": 0,
+		"ItemID": "",
+		"LimConDes": "",
+		"LimConID": 0,
+		"LimLevel": 0,
+		"MallType": 0,
+		"Sale": "",
+		"SalePrice": 0,
+		"ShowLimConID": 0
+	},
+	"Cfg_ShopCityType": {
+		"FuncId": 0,
+		"GoldType": "",
+		"LimLevel": 0,
+		"MallTypeID": 0,
+		"MallTypeName": "",
+		"RMB": 0,
+		"ShopId": 0,
+		"Show": 0,
+		"Sort": 0
+	},
+	"Cfg_Shouting": {
+		"Description": "",
+		"TalkId": 0,
+		"WxGame": 0
+	},
+	"Cfg_Skill": {
+		"AnimEnlarge": 0,
+		"AnimEnlarge1": 0,
+		"AnimId": 0,
+		"AnimPDir": 0,
+		"AnimPId": "",
+		"AnimPPlayTime": 0,
+		"AnimPPlayTime2": 0,
+		"AnimPPlayTimeDelay": 0,
+		"AnimPUseCenter": "",
+		"AnimSID": 0,
+		"AtkBuff": "",
+		"AtkBuffArr": "",
+		"AttackFenShen": 0,
+		"AttackTime": 0,
+		"AttackType": 0,
+		"ClientSkillName": 0,
+		"IsShake": 0,
+		"IsShowBuff": 0,
+		"OpenLevel": 0,
+		"SkillDesc": "",
+		"SkillIconID": 0,
+		"SkillId": 0,
+		"SkillName": "",
+		"SkillSound": "",
+		"SkillTime": 0,
+		"SkillType": 0,
+		"TargetMaxNum": 0,
+		"TargetNum": 0,
+		"Transform": 0
+	},
+	"Cfg_SkillAwakenEff": {
+		"SkillEff": "",
+		"SkillId": 0,
+		"Type": 0
+	},
+	"Cfg_SkillData": {
+		"Cparam": "",
+		"Effect_Type": 0,
+		"Flash_Quality": 0,
+		"Id": 0,
+		"Param1": "",
+		"Param2": "",
+		"Param3": "",
+		"Param4": "",
+		"Quality": 0,
+		"ShowLevel": 0,
+		"SkillId": 0,
+		"SkillLevel": 0
+	},
+	"Cfg_SkillGrade_Baby": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Beast": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Dharma": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_FailyClass": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_GodClass": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Horse": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Precious": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_ShengHen": {
+		"Id": 0,
+		"Level": 0,
+		"Part": 0,
+		"ShenYuSkillId": 0,
+		"SkillId": 0,
+		"SkillName": "",
+		"Unlock": 0
+	},
+	"Cfg_SkillGrade_WarriorPet": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Weapon": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_Wing": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_SkillGrade_YanJia": {
+		"AttrId": 0,
+		"Client_ID": "",
+		"IconID": 0,
+		"Increase": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Part": 0,
+		"Skill": "",
+		"SkillName": "",
+		"Type": 0
+	},
+	"Cfg_Skin": {
+		"AnimId": "",
+		"AttrId": 0,
+		"AutoWear": 0,
+		"BelongToId": 0,
+		"Cmd": 0,
+		"FieldId": 0,
+		"FuncType": 0,
+		"Id": 0,
+		"IncreaseId": "",
+		"IsShow": 0,
+		"IsSuit": 0,
+		"Name": "",
+		"NamePic": 0,
+		"OffsetSY": "",
+		"OffsetY": "",
+		"Prize": 0,
+		"SkillId": "",
+		"SpeFuncType": 0,
+		"SpecialSuit": "",
+		"Type": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_SkinGrade": {
+		"AnimId": "",
+		"AttrId": 0,
+		"AutoWear": 0,
+		"BelongToId": 0,
+		"CanLevelUp": 0,
+		"Cmd": 0,
+		"FieldId": 0,
+		"FuncType": 0,
+		"HeadPic": "",
+		"Id": 0,
+		"IsShow": 0,
+		"Name": "",
+		"NamePic": "",
+		"OffsetY": "",
+		"Prize": 0,
+		"Quality": 0,
+		"SpeFuncType": 0,
+		"SpecialFrom": "",
+		"Type": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_SkinGradeSkill": {
+		"ActiveSkillIds": "",
+		"AttrId": 0,
+		"GainBuffs": "",
+		"Icon": 0,
+		"Id": 0,
+		"Limit": 0,
+		"Name": "",
+		"Part": 0,
+		"PassiveSkills": "",
+		"SkillQuality": 0,
+		"Star": 0
+	},
+	"Cfg_SkinIncrease": {
+		"Desc": "",
+		"IncreaseId": "",
+		"IncreaseLevel": "",
+		"SkillId": "",
+		"SkillLevel": "",
+		"SkinId": 0,
+		"SkinLevel": 0
+	},
+	"Cfg_SkinItem": {
+		"Exp": 0,
+		"Id": 0,
+		"Name": ""
+	},
+	"Cfg_SkinReiki": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0
+	},
+	"Cfg_SkinSuit": {
+		"ActiveDesc": "",
+		"ActiveDesc1": "",
+		"AttrId2": 0,
+		"AttrId3": 0,
+		"AttrId4": 0,
+		"IconId": "",
+		"Id": 0,
+		"IncreaseId": "",
+		"IsShow": 0,
+		"Name": "",
+		"SkillId": "",
+		"SkinRequire": "",
+		"SortId": 0,
+		"TitleY": "",
+		"Type": 0
+	},
+	"Cfg_SkinSuitIncrease": {
+		"Desc": "",
+		"IncreaseId": "",
+		"IncreaseLevel": "",
+		"SkillId": "",
+		"SkillLevel": "",
+		"SuitId": 0,
+		"SuitLevel": 0
+	},
+	"Cfg_SkinSuitUp": {
+		"AttrId": 0,
+		"Item_Id": "",
+		"Level": 0,
+		"Part_Level": 0
+	},
+	"Cfg_SkinTitle": {
+		"ActiveDisplayLabel": "",
+		"AnimId": "",
+		"AttrId": 0,
+		"AutoWear": 0,
+		"CanLevelUp": 0,
+		"Cmd": 0,
+		"Dynamic": 0,
+		"Id": 0,
+		"IsHide": 0,
+		"Level": 0,
+		"Name": "",
+		"OffsetY": "",
+		"Quality": 0,
+		"SpecialFrom": "",
+		"Type": 0,
+		"UnlockItem": ""
+	},
+	"Cfg_SmallMap": {
+		"Belong": 0,
+		"Coordinate": "",
+		"ID": 0,
+		"SIZE": 0,
+		"ShowLv": ""
+	},
+	"Cfg_SpecialLoginTips": {
+		"Desc": "",
+		"Enable": 0,
+		"Icon": "",
+		"Id": 0,
+		"IsCross": 0,
+		"Name": "",
+		"Priority": 0,
+		"Rank": 0,
+		"Time": 0,
+		"TipCD": 0,
+		"TipsType": 0,
+		"Title": 0,
+		"Type": 0
+	},
+	"Cfg_Special_Skill": {
+		"ActiveInterval": 0,
+		"ActiveType": 0,
+		"DeadResult": 0,
+		"EffectRound": "",
+		"Id": 0,
+		"MsgC": "",
+		"SkillParam": ""
+	},
+	"Cfg_Stage": {
+		"AttrId_Boss": 0,
+		"AttrId_Common": 0,
+		"AttrId_Elites": 0,
+		"Boss2Id": "",
+		"BossCoin4": 0,
+		"BossDropExp": 0,
+		"BossDropGold": 0,
+		"BossGroup": "",
+		"BossRefreshId": "",
+		"DropExp": 0,
+		"DropGold": 0,
+		"DropId": 0,
+		"DropId10": "",
+		"DropLQ": 0,
+		"DropLevel": 0,
+		"DropPetPill": 0,
+		"LastCondition": "",
+		"Level_1": 0,
+		"Level_2": 0,
+		"Level_3": 0,
+		"Level_4": 0,
+		"Level_5": 0,
+		"Level_6": 0,
+		"Level_7": 0,
+		"Level_LQ": 0,
+		"MapId": 0,
+		"MapName": "",
+		"MinStageNum": 0,
+		"MonsterGroup": "",
+		"MonsterLevel": 0,
+		"ShowDropId": 0,
+		"StageNameId": "",
+		"StagePoemId": ""
+	},
+	"Cfg_StageDrawPrize": {
+		"Group": 0,
+		"Id": 0,
+		"Prize": ""
+	},
+	"Cfg_StarConfig": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_StarLock": {
+		"BackGround": "",
+		"Gear": 0,
+		"Id": 0,
+		"PreId": 0,
+		"Type": 0,
+		"Unlock": ""
+	},
+	"Cfg_StarPos": {
+		"ActiveItems": "",
+		"IsSpecial": 0,
+		"IsStart": 0,
+		"LevelItems": "",
+		"Name": "",
+		"Pos": 0,
+		"PowerId": 0,
+		"PrePos": "",
+		"ShowEffect": 0,
+		"StarMapId": 0,
+		"Title": ""
+	},
+	"Cfg_StarPower": {
+		"AttrId": 0,
+		"Id": 0,
+		"LevelAttrId": 0,
+		"MaxLevel": 0,
+		"MinLevel": 0,
+		"PowerType": 0,
+		"ShowAttr": "",
+		"SkillDes": "",
+		"SkillEffect": "",
+		"SkillId": 0,
+		"SkillType": 0,
+		"StarMapType": 0
+	},
+	"Cfg_StarReset": {
+		"Id": 0,
+		"Items": "",
+		"MaxTimes": 0,
+		"MinTimes": 0
+	},
+	"Cfg_Stick": {
+		"Desc": "",
+		"ItemId": "",
+		"Level": 0,
+		"NeedItem": "",
+		"Rate": 0,
+		"RateShow": 0,
+		"RedPoint": 0,
+		"Type": 0,
+		"Type2": 0
+	},
+	"Cfg_StickType": {
+		"GN": 0,
+		"P": 0,
+		"Title": "",
+		"Type": 0
+	},
+	"Cfg_StrengthMaster": {
+		"Attr": 0,
+		"CountLimit": 0,
+		"FuncId": 0,
+		"Lev": 0,
+		"LevelLimit": 0,
+		"ObjId": 0
+	},
+	"Cfg_SuperStarPos": {
+		"ActiveItems": "",
+		"IsSpecial": 0,
+		"IsStart": 0,
+		"LevelItems": "",
+		"Name": "",
+		"Pos": 0,
+		"PowerId": 0,
+		"PrePos": "",
+		"ShowEffect": 0,
+		"StarMapId": 0,
+		"Title": ""
+	},
+	"Cfg_SurperVIPChannel": {
+		"ChannelId": 0,
+		"Reward": "",
+		"TodayRecharge": 0,
+		"TotalRecharge": 0
+	},
+	"Cfg_SurperVIPInfo": {
+		"ChannelId": "",
+		"Id": 0,
+		"Index": 0,
+		"QQ": "",
+		"WeiXin": ""
+	},
+	"Cfg_SwordSoul": {
+		"AttrAdd": "",
+		"AttrType": "",
+		"CoreType": 0,
+		"FeatureId": 0,
+		"Id": 0,
+		"LevelUpField": "",
+		"Name": "",
+		"TuluAttrId": 0,
+		"TuluType": 0
+	},
+	"Cfg_SwordSoul_Cell": {
+		"Id": 0,
+		"LimitConditionId": 0,
+		"LimitCoreType": ""
+	},
+	"Cfg_SwordSoul_HeCheng": {
+		"Id": 0,
+		"NeedItem": "",
+		"Qualit": ""
+	},
+	"Cfg_SwordSoul_JingShi": {
+		"Id": 0,
+		"ResolveItem": ""
+	},
+	"Cfg_SwordSoul_LevelUp": {
+		"AttrPercent": 0,
+		"IncreaseLevel": 0,
+		"Level": 0,
+		"Quality_1": "",
+		"Quality_10": "",
+		"Quality_11": "",
+		"Quality_12": "",
+		"Quality_2": "",
+		"Quality_3": "",
+		"Quality_4": "",
+		"Quality_5": "",
+		"Quality_6": "",
+		"Quality_7": "",
+		"Quality_8": "",
+		"Quality_9": ""
+	},
+	"Cfg_SwordSoul_StarUp": {
+		"AttrPercent": 0,
+		"Id": 0,
+		"Level": 0,
+		"NeedItem": 0,
+		"Star": 0
+	},
+	"Cfg_SwordSoul_Strength": {
+		"AttrPercent": 0,
+		"Level": 0,
+		"LevelIdLimit": 0,
+		"NumLimit": 0
+	},
+	"Cfg_SwordSoul_TuJian": {
+		"Desc": "",
+		"Id": 0,
+		"LimitConditionId": 0,
+		"SwordSoulId": ""
+	},
+	"Cfg_SwordTower_Circle": {
+		"Group": 0,
+		"Id": 0,
+		"IsSuper": 0,
+		"Rate": "",
+		"RewardItem": ""
+	},
+	"Cfg_SwordZhen": {
+		"ActCond": 0,
+		"ActCondShow": "",
+		"ClientSkill": 0,
+		"Icon": 0,
+		"Id": 0,
+		"Name": "",
+		"NameIcon": "",
+		"Quality": 0,
+		"Source": 0
+	},
+	"Cfg_SwordZhenGrade": {
+		"Cost": "",
+		"Grade": 0,
+		"Id": 0
+	},
+	"Cfg_SwordZhenLevel": {
+		"AttrId": 0,
+		"AttrId2": 0,
+		"Cost": "",
+		"Exp": 0,
+		"Grade": 0,
+		"Level": 0,
+		"Name": "",
+		"Quality": 0,
+		"SkillLevel": 0
+	},
+	"Cfg_SysPet2": {
+		"Id": 0,
+		"Name": "",
+		"Quality": 0,
+		"Show_Id": 0,
+		"Skill_Num": 0,
+		"Weight": 0
+	},
+	"Cfg_TRGear": {
+		"ActId": 0,
+		"Amount": 0,
+		"Gear": 0,
+		"Name": "",
+		"Times": 0
+	},
+	"Cfg_TRRT": {
+		"ActId": 0,
+		"Gear": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Name": "",
+		"Odd": 0,
+		"OddClient": "",
+		"Quality": 0,
+		"ShowPos": 0
+	},
+	"Cfg_TTBos_Cfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_TTBos_RkRwd": {
+		"BossId": 0,
+		"RankMax": 0,
+		"RankMin": 0,
+		"RankPrize": 0,
+		"StageId": 0
+	},
+	"Cfg_TTBos_Stage": {
+		"Id": 0,
+		"Name": "",
+		"Time": 0
+	},
+	"Cfg_TTBoss": {
+		"BeDropId": 0,
+		"BossId": 0,
+		"Fx": 0,
+		"KillDropId": 0,
+		"MonsterId": 0,
+		"MonsterX": 0,
+		"MonsterY": 0,
+		"RefreshId": 0,
+		"StageId": 0
+	},
+	"Cfg_Team_Inspire": {
+		"Desc": "",
+		"FuncId": 0,
+		"Id": 0,
+		"InspAddNum": 0,
+		"InspireDesc": "",
+		"MaxTimes": 0,
+		"NeedItemId": 0,
+		"NeedNum": 0,
+		"TeamMaxTimes": 0
+	},
+	"Cfg_ThemeGift": {
+		"AniResType": 0,
+		"Btn_Desc": "",
+		"CostNum": 0,
+		"CostType": 0,
+		"Desc1": "",
+		"Desc2": "",
+		"GiveType": 0,
+		"GoodID": 0,
+		"GoodName": "",
+		"Icon": 0,
+		"ItemStr": "",
+		"Price": 0,
+		"ResPath": "",
+		"TemplateId": 0,
+		"TemplateRes": ""
+	},
+	"Cfg_TotalRecharge": {
+		"AniType": 0,
+		"Day": 0,
+		"Id": 0,
+		"ItemStr": "",
+		"Recharge": 0,
+		"ResId": "",
+		"ResType": 0,
+		"Stage": 0
+	},
+	"Cfg_TotalSignPrize": {
+		"Group": 0,
+		"Id": 0,
+		"Prize": "",
+		"SignTimes": 0
+	},
+	"Cfg_ToyMaster": {
+		"Attr": 0,
+		"Break": 0,
+		"Id": 0,
+		"IncreaseId": "",
+		"Level": 0,
+		"Reborn": 0,
+		"SkillId": "",
+		"SkillPos": "",
+		"Stage": 0,
+		"Star": 0
+	},
+	"Cfg_VIP": {
+		"BossTime": "",
+		"BossTime2": "",
+		"DayPrize": "",
+		"Exp": 0,
+		"JJCTime": "",
+		"MITime": "",
+		"MITime2": "",
+		"MITime3": "",
+		"MITime4": "",
+		"MITime5": "",
+		"MeltCoinAdd": 0,
+		"NamePic": "",
+		"PgCount": 0,
+		"Prize": "",
+		"PrizeName": "",
+		"PrizeResId": "",
+		"PrizeType": 0,
+		"UnlockFunc": "",
+		"VIPLevel": 0,
+		"VIPName": "",
+		"Welfare": 0,
+		"XLSLTime": "",
+		"XSTime": "",
+		"XSTime2": "",
+		"XSTime3": "",
+		"XYCMTime": "",
+		"isShowFv": 0
+	},
+	"Cfg_VIPStage": {
+		"Stage": 0,
+		"VIPExp": 0
+	},
+	"Cfg_VIP_Desc": {
+		"Desc": "",
+		"ID": 0
+	},
+	"Cfg_WareHouse": {
+		"ActId": "",
+		"FuncId": 0,
+		"ItemChangeType": 0,
+		"MaxNum": 0,
+		"RedId": 0,
+		"WhId": 0,
+		"WhName": ""
+	},
+	"Cfg_WeddingDayTask": {
+		"Cmd": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_WeddingInsJump": {
+		"Id": 0,
+		"Jump": 0,
+		"Round": 0
+	},
+	"Cfg_WeddingInstance": {
+		"Level": 0,
+		"Prize": 0,
+		"RefreshId": 0
+	},
+	"Cfg_WeddingItem": {
+		"Exp": 0,
+		"ItemId": 0,
+		"Use": 0
+	},
+	"Cfg_WeddingOneTask": {
+		"Cmd": 0,
+		"CounterType": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_WeddingRingGMLevel": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0,
+		"LevelAdd": 0
+	},
+	"Cfg_WeddingRingGear": {
+		"AnimId": 0,
+		"AttrId": 0,
+		"Exp": 0,
+		"ItemId": 0,
+		"Level": 0
+	},
+	"Cfg_WeddingRingLevel": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Level": 0,
+		"Num": 0
+	},
+	"Cfg_WeddingRingSkill": {
+		"Desc": "",
+		"Max_Level": 0,
+		"Name": "",
+		"SkillIcon": "",
+		"SkillId": 0,
+		"SkillIncId": 0,
+		"Skill_Type": 0,
+		"Unlock": ""
+	},
+	"Cfg_WeddingRoomGear": {
+		"AnimId": "",
+		"AttrId": 0,
+		"ItemID": "",
+		"Level": 0,
+		"Name": ""
+	},
+	"Cfg_WeddingRoomLevel": {
+		"AttrId": 0,
+		"Item": "",
+		"Level": 0,
+		"Num": 0
+	},
+	"Cfg_WeddingToken": {
+		"Icon": 0,
+		"Id": 0,
+		"Name": "",
+		"UnlockItem": 0
+	},
+	"Cfg_WeddingTokenGear": {
+		"AttrId": 0,
+		"BuffEffect": 0,
+		"BuffLevel": 0,
+		"BuffName": "",
+		"Desc": "",
+		"Gear": 0,
+		"Id": 0,
+		"ItemId": 0
+	},
+	"Cfg_WeddingTokenLevel": {
+		"AttrId": 0,
+		"Exp": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Level": 0
+	},
+	"Cfg_WeddingTokenSkill": {
+		"AttrId": 0,
+		"Desc": "",
+		"Gear": 0,
+		"Id": 0,
+		"ItemId": 0,
+		"ItemNum": 0,
+		"Level": 0,
+		"Name": "",
+		"SkillIcon": "",
+		"SkillId": 0,
+		"TokenId": 0
+	},
+	"Cfg_WeddingVows": {
+		"Id": 0,
+		"Vows": ""
+	},
+	"Cfg_WeekPracticePrize": {
+		"CounterType": 0,
+		"GetCondition": "",
+		"Id": 0,
+		"Note": "",
+		"Param": 0,
+		"Prize": "",
+		"TargetCount": 0,
+		"Type": 0
+	},
+	"Cfg_WeekPracticeTask": {
+		"ClientFuncId": 0,
+		"CounterType": 0,
+		"Desc": "",
+		"Id": 0,
+		"Name": "",
+		"Order": 0,
+		"Param": 0,
+		"Prize": 0,
+		"TargetCount": 0,
+		"TimesLimit": 0,
+		"Type": 0
+	},
+	"Cfg_WestBoss": {
+		"Id": 0,
+		"Img": "",
+		"Name": "",
+		"NameImg": "",
+		"Prize": "",
+		"Quality": 0
+	},
+	"Cfg_WestExp": {
+		"DoubleTime": "",
+		"GoldRefresh": "",
+		"Id": 0,
+		"Intercept": 0,
+		"NormalRefresh": "",
+		"ProTime": 0,
+		"QuickCost": "",
+		"StartTime": "",
+		"VIPUnlockFunc": 0
+	},
+	"Cfg_WestPray": {
+		"Cost": "",
+		"Icon": "",
+		"Id": 0,
+		"Img": "",
+		"Name": "",
+		"Prize": 0,
+		"Protect": 0
+	},
+	"Cfg_WestPrize": {
+		"Id": 0,
+		"LevelMax": 0,
+		"LevelMin": 0,
+		"Prize": ""
+	},
+	"Cfg_WinAct": {
+		"ActivityId": 0,
+		"Id": 0,
+		"Image": "",
+		"IsFuncCls": 0,
+		"Mark": "",
+		"Title": "",
+		"TitleImg": ""
+	},
+	"Cfg_WordsFeature": {
+		"FeatureCount": 0,
+		"FeaturePrefab": "",
+		"Quality": 0,
+		"Typ": 0
+	},
+	"Cfg_Worship": {
+		"ActId": 0,
+		"AniName": "",
+		"AniPath": "",
+		"AniPath1": "",
+		"AwardName": "",
+		"Id": 0,
+		"Name": "",
+		"ObjId": "",
+		"ObjType": 0,
+		"OffsetY": 0,
+		"Power": 0,
+		"ProName": "",
+		"SkillName": "",
+		"Speed": 0
+	},
+	"Cfg_Worship_Cost": {
+		"ActId": 0,
+		"FunId": 0,
+		"GoldType": "",
+		"GoodsPrice": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"Name": ""
+	},
+	"Cfg_Worship_Draw": {
+		"ActId": 0,
+		"Id": 0,
+		"ItemId": "",
+		"ItemNum": 0,
+		"OddClient": "",
+		"PrizeType": 0,
+		"Sort": 0,
+		"Type": 0
+	},
+	"Cfg_Worship_Step": {
+		"ActId": 0,
+		"GroupPrize1": 0,
+		"GroupPrize2": 0,
+		"GroupPrize3": 0,
+		"Id": 0,
+		"MaxScore": 0,
+		"MinScore": 0,
+		"Reward1": "",
+		"Reward2": "",
+		"Reward3": "",
+		"Step": 0,
+		"WorshipId": 0
+	},
+	"Cfg_XCXTask": {
+		"Id": 0,
+		"Prize": ""
+	},
+	"Cfg_XSD_Boss_XL": {
+		"BeastId": 0,
+		"BossId": 0,
+		"DropInc": 0,
+		"DropPrize": 0,
+		"EntrustId": 0,
+		"EntrustPrize": 0,
+		"Id": 0,
+		"IntervalTime": 0,
+		"LimitTimesId": 0,
+		"MaxStar": 0,
+		"Pic_id": "",
+		"RefreshId": 0,
+		"RefreshInc": 0,
+		"ShowPrize1": 0,
+		"StartUp": "",
+		"TextPic_id": "",
+		"Unlock": ""
+	},
+	"Cfg_XSD_Collect": {
+		"CollectCD": 0,
+		"MaxTimes": 0,
+		"MonsterId": 0,
+		"XsdId": 0
+	},
+	"Cfg_Xsd_All": {
+		"LimitTimesId": 0,
+		"MapId": 0,
+		"Name": "",
+		"XsdId": 0
+	},
+	"Cfg_Xsd_Boss": {
+		"BeastId": 0,
+		"BossId": 0,
+		"FightValue": 0,
+		"LuckDropPrize": 0,
+		"MapId": 0,
+		"MonsterId": 0,
+		"MonsterType": 0,
+		"OwnerDropPrize": 0,
+		"RefreshId": 0,
+		"ShowPrize1": 0,
+		"ShowPrize2": 0,
+		"ShowPrize3": 0,
+		"Unlock": "",
+		"XsdId": 0
+	},
+	"Cfg_XuanShangCondition": {
+		"Desc": "",
+		"Id": 0,
+		"PartnerId": 0,
+		"PartnerNum": 0,
+		"PartnerType": 0,
+		"Quality": 0,
+		"Rarity": 0,
+		"TaskStar": 0
+	},
+	"Cfg_XuanShangDuration": {
+		"Id": 0,
+		"TaskDuration": 0,
+		"TaskStar": 0
+	},
+	"Cfg_XuanShangFate": {
+		"Desc": "",
+		"Id": 0,
+		"PartnerIds": "",
+		"PartnerNum": 0,
+		"PartnerTypes": "",
+		"Prize": "",
+		"TaskStar": 0
+	},
+	"Cfg_XuanShangLevel": {
+		"Exp": 0,
+		"GenTaskMaxQuality": 0,
+		"GenTaskTotalNum": 0,
+		"Level": 0,
+		"RefreshItem": ""
+	},
+	"Cfg_XuanShangName": {
+		"Id": 0,
+		"Odd": 0,
+		"TaskName": "",
+		"TaskStar": 0,
+		"TaskText": ""
+	},
+	"Cfg_XuanShangPrize": {
+		"Id": 0,
+		"TaskExp": 0,
+		"TaskPrize": "",
+		"TaskStar": 0
+	},
+	"Cfg_XuanShangStar": {
+		"PartnerNum": 0,
+		"Star": 0
+	},
+	"Cfg_YJFB_Cfg": {
+		"CfgKey": "",
+		"CfgValue": ""
+	},
+	"Cfg_YJFX_Boss": {
+		"BossId": 0,
+		"ChallengeRewardId": 0,
+		"DownSpeed": 0,
+		"DownTimes": 0,
+		"Id": 0,
+		"KillReward": "",
+		"KillRewardId": 0,
+		"NoKillRewardId": 0,
+		"Pos": 0,
+		"RefreshId": 0,
+		"UpSpeed": 0,
+		"UpTimes": 0
+	},
+	"Cfg_YJFX_ItemUse": {
+		"Effect": 0,
+		"Explain": "",
+		"ItemId": 0,
+		"Name": "",
+		"Times": 0,
+		"TimesLimit": 0
+	},
+	"Cfg_YJFX_RankReward": {
+		"Max": 0,
+		"Min": 0,
+		"RewardId": 0
+	},
+	"Cfg_YJYM": {
+		"ID": 0,
+		"IntValue": 0,
+		"StringValue": ""
+	},
+	"Cfg_YJYM_Monster": {
+		"GroupId": 0,
+		"Id": 0,
+		"MonsterId": 0,
+		"MonsterType": 0,
+		"RewardType": 0,
+		"SuperShield": ""
+	},
+	"Cfg_YJYM_RewardGroup": {
+		"Id": 0
+	},
+	"Cfg_YJZDInfo": {
+		"AdscPrize": 0,
+		"EntrustPrize": 0,
+		"Id": 0,
+		"MapId": 0,
+		"MonsterId": 0,
+		"Name": "",
+		"OccupiedPrize": 0,
+		"RelivePoints1": "",
+		"RelivePoints2": "",
+		"ZdType": 0
+	},
+	"Cfg_YJZDOpenCfg": {
+		"UnionAreaNum": 0,
+		"YJIdArr": ""
+	},
+	"Cfg_YanJia": {
+		"ActiveSkills": "",
+		"AnimId": 0,
+		"BaseAttr": 0,
+		"BaseSkills": "",
+		"Id": 0,
+		"Name": "",
+		"Quality": 0,
+		"SkinId": 0
+	},
+	"Cfg_YanJiaCore": {
+		"AnimId": 0,
+		"BaseAttr": 0,
+		"Id": 0,
+		"Name": "",
+		"Quality": 0,
+		"SkillDesc": "",
+		"SkillName": "",
+		"UnLockItem": 0
+	},
+	"Cfg_YanJiaCore_Lev": {
+		"AttrPerct": 0,
+		"CostItem": "",
+		"Id": 0,
+		"Lev": 0
+	},
+	"Cfg_YanJiaCore_Star": {
+		"AttrPect": "",
+		"CostItem": "",
+		"Id": 0,
+		"Star": 0,
+		"SuitSkillLev": 0
+	},
+	"Cfg_YanJiaEventDetail": {
+		"ActHeadIcon": "",
+		"ActText": "",
+		"ActText1": "",
+		"EventType": 0,
+		"FBId": 0,
+		"GQId": 0,
+		"Id": 0,
+		"MonsterId": 0,
+		"PowerCost": 0,
+		"Prize": 0,
+		"RefreshId": 0,
+		"ResID": ""
+	},
+	"Cfg_YanJiaFuBen": {
+		"Icon": "",
+		"Id": 0,
+		"LimitFBId": 0,
+		"LimitStage": 0,
+		"Name": ""
+	},
+	"Cfg_YanJiaGuanQia": {
+		"BGMap": "",
+		"ExplorePrize": 0,
+		"FBId": 0,
+		"FirstPassPrize": "",
+		"GQId": 0,
+		"GQType": 0,
+		"MapX": 0,
+		"MapY": 0,
+		"PlayerGrid ": "",
+		"SweepPrize": 0
+	},
+	"Cfg_YanJiaSuit": {
+		"Name": "",
+		"PicID": "",
+		"Quality": 0,
+		"SuitAttr": 0,
+		"SuitItemId": "",
+		"Typ": 0
+	},
+	"Cfg_YanJia_Lev": {
+		"AttrPerct": 0,
+		"Lev": 0
+	},
+	"Cfg_YanJia_Peizhi": {
+		"Aid": 0,
+		"Item": 0,
+		"SkinId": 0
+	},
+	"Cfg_YanJia_SoldierSoul": {
+		"BaseAttr": 0,
+		"Id": 0,
+		"ItemCount": 0,
+		"ItemId": 0,
+		"Lev": 0,
+		"Name": ""
+	},
+	"Cfg_YanJia_jineng": {
+		"SkillId": 0,
+		"SkillType": 0
+	},
+	"Cfg_YanJia_zhujia": {
+		"AttrId": 0,
+		"CondStar": 0,
+		"CostItem": "",
+		"GCGrade": 0,
+		"GCLevel": 0,
+		"LimitStar": 0,
+		"PassiveSkillId": "",
+		"ShowSkilDesc": "",
+		"ShowSkillId": 0,
+		"SkillId": "",
+		"SkillLv": "",
+		"SkinId": 0
+	},
+	"Cfg_YearTimer": {
+		"ActId": 0,
+		"AdvImg": "",
+		"AniInfo": "",
+		"Contains": "",
+		"CostNum": 0,
+		"GoodID": 0,
+		"GoodName": "",
+		"Items": "",
+		"LimitTimeId": 0,
+		"Max": 0,
+		"Min": 0,
+		"Price": 0,
+		"PrizeShow": "",
+		"SkinId": 0
+	},
+	"Cfg_YiJianFanKui": {
+		"ActId": 0,
+		"App_id": 0,
+		"Channel_id": 0,
+		"Desc": "",
+		"Internal": 0,
+		"Max": 0,
+		"Number": 0
+	},
+	"Cfg_YiLuYouNi": {
+		"ActId": 0,
+		"Items": "",
+		"MaxDay": 0,
+		"MinDay": 0,
+		"Name": ""
+	},
+	"Cfg_ZSFinalRankPrize": {
+		"Name": "",
+		"Pos": "",
+		"Prize": 0,
+		"Round": 0,
+		"StateName": ""
+	},
+	"Cfg_ZSFinalState": {
+		"Round": 0,
+		"State": "",
+		"StateName": ""
+	},
+	"Cfg_ZSGodAttribute": {
+		"ID": 0,
+		"IntValue": 0,
+		"StringValue": ""
+	},
+	"Cfg_ZSRegion": {
+		"Id": 0,
+		"LevelMax": 0,
+		"LevelMin": 0,
+		"Name": ""
+	},
+	"Cfg_ZSScorePrize": {
+		"CounterType": 0,
+		"ID": 0,
+		"Param": 0,
+		"Prize": 0,
+		"PrizeName": ""
+	},
+	"Cfg_ZSScoreRankPrize": {
+		"ID": 0,
+		"Prize": 0,
+		"PrizeName": "",
+		"Rank_Max": 0,
+		"Rank_Min": 0
+	},
+	"Cfg_ZS_ClassicGroup": {
+		"MaxLevel": 0,
+		"MinLevel": 0,
+		"WarGroup": 0
+	},
+	"Cfg_ZS_RewardGroup": {
+		"ID": 0,
+		"LevelMax": 0,
+		"LevelMin": 0,
+		"Prize": "",
+		"PrizeGroup": 0,
+		"SeasonMax": 0,
+		"SeasonMin": 0,
+		"ShowPrize": ""
+	},
+	"Cfg_ZXDrawControl": {
+		"ActId": 0
+	},
+	"Cfg_ZXDrawControl2": {
+		"ActId": 0
+	},
+	"Cfg_ZhanLiHuFu": {
+		"AttrId": 0,
+		"Id": 0,
+		"Name": "",
+		"TargetB": 0,
+		"TargetReborn": 0
+	},
+	"Cfg_ZhaoCaiPiXiu": {
+		"Id": 0,
+		"Name": "",
+		"Prize": "",
+		"TargetB": 0,
+		"TargetReborn": 0
+	},
+	"Cfg_ZhuShenHelp": {
+		"Desc": "",
+		"Help": "",
+		"Number": 0
+	}
+}

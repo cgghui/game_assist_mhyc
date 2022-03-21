@@ -1,0 +1,18 @@
+[
+	{
+		"CfgKey": "MaxFightTimes",
+		"CfgValue": "8"
+	},
+	{
+		"CfgKey": "AddTimes",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "ReportShowLimit",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "ResetTimes",
+		"CfgValue": "2"
+	}
+]

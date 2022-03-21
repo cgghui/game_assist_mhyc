@@ -1,0 +1,1255 @@
+[
+	{
+		"Level": 1,
+		"Quality": 1
+	},
+	{
+		"Level": 2,
+		"Quality": 2
+	},
+	{
+		"Level": 3,
+		"Quality": 3
+	},
+	{
+		"Level": 4,
+		"Quality": 4
+	},
+	{
+		"Level": 5,
+		"Quality": 5
+	},
+	{
+		"Level": 6,
+		"Quality": 6
+	},
+	{
+		"Level": 7,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 1,
+		"Level": 7,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level": 8,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level": 9,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level": 10,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 2,
+		"Level": 11,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level": 12,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level": 13,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level": 14,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level": 15,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"Level": 16,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level": 17,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level": 18,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level": 19,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level": 20,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level": 21,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"Level": 22,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level": 23,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level": 24,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level": 25,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level": 26,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level": 27,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level": 28,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"Level": 29,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level": 30,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level": 31,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level": 32,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level": 33,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level": 34,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level": 35,
+		"Quality": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level": 36,
+		"Quality": 7
+	}
+]

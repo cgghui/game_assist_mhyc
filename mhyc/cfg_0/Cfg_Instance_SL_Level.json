@@ -1,0 +1,1062 @@
+[
+	{
+		"BossId": 1019,
+		"DropExp": 1944000,
+		"Fx": 6,
+		"Id": 1,
+		"InsType": 1,
+		"MaxLevel": 110,
+		"MinLevel": 1,
+		"RefreshId": 301
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 2034000,
+		"Fx": 6,
+		"Id": 2,
+		"InsType": 1,
+		"MaxLevel": 150,
+		"MinLevel": 111,
+		"RefreshId": 302
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 2445000,
+		"Fx": 6,
+		"Id": 3,
+		"InsType": 1,
+		"MaxLevel": 180,
+		"MinLevel": 151,
+		"RefreshId": 303
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 2884000,
+		"Fx": 6,
+		"Id": 4,
+		"InsType": 1,
+		"MaxLevel": 190,
+		"MinLevel": 181,
+		"RefreshId": 304
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 2884000,
+		"Fx": 6,
+		"Id": 5,
+		"InsType": 1,
+		"MaxLevel": 200,
+		"MinLevel": 191,
+		"RefreshId": 305
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 3136000,
+		"Fx": 6,
+		"Id": 6,
+		"InsType": 1,
+		"MaxLevel": 210,
+		"MinLevel": 201,
+		"RefreshId": 306
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 3696000,
+		"Fx": 6,
+		"Id": 7,
+		"InsType": 1,
+		"MaxLevel": 220,
+		"MinLevel": 211,
+		"RefreshId": 307
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 4357000,
+		"Fx": 6,
+		"Id": 8,
+		"InsType": 1,
+		"MaxLevel": 230,
+		"MinLevel": 221,
+		"RefreshId": 308
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 5141000,
+		"Fx": 6,
+		"Id": 9,
+		"InsType": 1,
+		"MaxLevel": 240,
+		"MinLevel": 231,
+		"RefreshId": 309
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 6065000,
+		"Fx": 6,
+		"Id": 10,
+		"InsType": 1,
+		"MaxLevel": 250,
+		"MinLevel": 241,
+		"RefreshId": 310
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 7151000,
+		"Fx": 6,
+		"Id": 11,
+		"InsType": 1,
+		"MaxLevel": 260,
+		"MinLevel": 251,
+		"RefreshId": 311
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 8434000,
+		"Fx": 6,
+		"Id": 12,
+		"InsType": 1,
+		"MaxLevel": 270,
+		"MinLevel": 261,
+		"RefreshId": 312
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 9072000,
+		"Fx": 6,
+		"Id": 13,
+		"InsType": 1,
+		"MaxLevel": 280,
+		"MinLevel": 271,
+		"RefreshId": 313
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 9744000,
+		"Fx": 6,
+		"Id": 14,
+		"InsType": 1,
+		"MaxLevel": 290,
+		"MinLevel": 281,
+		"RefreshId": 314
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 10472000,
+		"Fx": 6,
+		"Id": 15,
+		"InsType": 1,
+		"MaxLevel": 300,
+		"MinLevel": 291,
+		"RefreshId": 315
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 11256000,
+		"Fx": 6,
+		"Id": 16,
+		"InsType": 1,
+		"MaxLevel": 310,
+		"MinLevel": 301,
+		"RefreshId": 316
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 12152000,
+		"Fx": 6,
+		"Id": 17,
+		"InsType": 1,
+		"MaxLevel": 320,
+		"MinLevel": 311,
+		"RefreshId": 317
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 13104000,
+		"Fx": 6,
+		"Id": 18,
+		"InsType": 1,
+		"MaxLevel": 330,
+		"MinLevel": 321,
+		"RefreshId": 318
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 14112000,
+		"Fx": 6,
+		"Id": 19,
+		"InsType": 1,
+		"MaxLevel": 340,
+		"MinLevel": 331,
+		"RefreshId": 319
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 15232000,
+		"Fx": 6,
+		"Id": 20,
+		"InsType": 1,
+		"MaxLevel": 350,
+		"MinLevel": 341,
+		"RefreshId": 320
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 16408000,
+		"Fx": 6,
+		"Id": 21,
+		"InsType": 1,
+		"MaxLevel": 360,
+		"MinLevel": 351,
+		"RefreshId": 321
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 17696000,
+		"Fx": 6,
+		"Id": 22,
+		"InsType": 1,
+		"MaxLevel": 370,
+		"MinLevel": 361,
+		"RefreshId": 322
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 19096000,
+		"Fx": 6,
+		"Id": 23,
+		"InsType": 1,
+		"MaxLevel": 380,
+		"MinLevel": 371,
+		"RefreshId": 323
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 20608000,
+		"Fx": 6,
+		"Id": 24,
+		"InsType": 1,
+		"MaxLevel": 390,
+		"MinLevel": 381,
+		"RefreshId": 324
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 22232000,
+		"Fx": 6,
+		"Id": 25,
+		"InsType": 1,
+		"MaxLevel": 400,
+		"MinLevel": 391,
+		"RefreshId": 325
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 23968000,
+		"Fx": 6,
+		"Id": 26,
+		"InsType": 1,
+		"MaxLevel": 410,
+		"MinLevel": 401,
+		"RefreshId": 326
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 25872000,
+		"Fx": 6,
+		"Id": 27,
+		"InsType": 1,
+		"MaxLevel": 420,
+		"MinLevel": 411,
+		"RefreshId": 327
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 27888000,
+		"Fx": 6,
+		"Id": 28,
+		"InsType": 1,
+		"MaxLevel": 430,
+		"MinLevel": 421,
+		"RefreshId": 328
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 30072000,
+		"Fx": 6,
+		"Id": 29,
+		"InsType": 1,
+		"MaxLevel": 440,
+		"MinLevel": 431,
+		"RefreshId": 329
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 32424000,
+		"Fx": 6,
+		"Id": 30,
+		"InsType": 1,
+		"MaxLevel": 450,
+		"MinLevel": 441,
+		"RefreshId": 330
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 35000000,
+		"Fx": 6,
+		"Id": 31,
+		"InsType": 1,
+		"MaxLevel": 460,
+		"MinLevel": 451,
+		"RefreshId": 331
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 37800000,
+		"Fx": 6,
+		"Id": 32,
+		"InsType": 1,
+		"MaxLevel": 470,
+		"MinLevel": 461,
+		"RefreshId": 332
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 40824000,
+		"Fx": 6,
+		"Id": 33,
+		"InsType": 1,
+		"MaxLevel": 480,
+		"MinLevel": 471,
+		"RefreshId": 333
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 44072000,
+		"Fx": 6,
+		"Id": 34,
+		"InsType": 1,
+		"MaxLevel": 490,
+		"MinLevel": 481,
+		"RefreshId": 334
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 47544000,
+		"Fx": 6,
+		"Id": 35,
+		"InsType": 1,
+		"MaxLevel": 500,
+		"MinLevel": 491,
+		"RefreshId": 335
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 51296000,
+		"Fx": 6,
+		"Id": 36,
+		"InsType": 1,
+		"MaxLevel": 510,
+		"MinLevel": 501,
+		"RefreshId": 336
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 55384000,
+		"Fx": 6,
+		"Id": 37,
+		"InsType": 1,
+		"MaxLevel": 520,
+		"MinLevel": 511,
+		"RefreshId": 337
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 59808000,
+		"Fx": 6,
+		"Id": 38,
+		"InsType": 1,
+		"MaxLevel": 530,
+		"MinLevel": 521,
+		"RefreshId": 338
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 64568000,
+		"Fx": 6,
+		"Id": 39,
+		"InsType": 1,
+		"MaxLevel": 540,
+		"MinLevel": 531,
+		"RefreshId": 339
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 69720000,
+		"Fx": 6,
+		"Id": 40,
+		"InsType": 1,
+		"MaxLevel": 550,
+		"MinLevel": 541,
+		"RefreshId": 340
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 75264000,
+		"Fx": 6,
+		"Id": 41,
+		"InsType": 1,
+		"MaxLevel": 560,
+		"MinLevel": 551,
+		"RefreshId": 341
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 81256000,
+		"Fx": 6,
+		"Id": 42,
+		"InsType": 1,
+		"MaxLevel": 570,
+		"MinLevel": 561,
+		"RefreshId": 342
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 87752000,
+		"Fx": 6,
+		"Id": 43,
+		"InsType": 1,
+		"MaxLevel": 580,
+		"MinLevel": 571,
+		"RefreshId": 343
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 44,
+		"InsType": 1,
+		"MaxLevel": 590,
+		"MinLevel": 581,
+		"RefreshId": 344
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 45,
+		"InsType": 1,
+		"MaxLevel": 600,
+		"MinLevel": 591,
+		"RefreshId": 345
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 46,
+		"InsType": 1,
+		"MaxLevel": 610,
+		"MinLevel": 601,
+		"RefreshId": 346
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 47,
+		"InsType": 1,
+		"MaxLevel": 620,
+		"MinLevel": 611,
+		"RefreshId": 347
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 48,
+		"InsType": 1,
+		"MaxLevel": 630,
+		"MinLevel": 621,
+		"RefreshId": 348
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 49,
+		"InsType": 1,
+		"MaxLevel": 640,
+		"MinLevel": 631,
+		"RefreshId": 349
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 50,
+		"InsType": 1,
+		"MaxLevel": 650,
+		"MinLevel": 641,
+		"RefreshId": 350
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 51,
+		"InsType": 1,
+		"MaxLevel": 660,
+		"MinLevel": 651,
+		"RefreshId": 351
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 52,
+		"InsType": 1,
+		"MaxLevel": 670,
+		"MinLevel": 661,
+		"RefreshId": 350
+	},
+	{
+		"BossId": 1019,
+		"DropExp": 94752000,
+		"Fx": 6,
+		"Id": 53,
+		"InsType": 1,
+		"MaxLevel": 9999,
+		"MinLevel": 671,
+		"RefreshId": 351
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 101,
+		"InsType": 2,
+		"MaxLevel": 110,
+		"MinLevel": 1,
+		"RefreshId": 401
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 102,
+		"InsType": 2,
+		"MaxLevel": 150,
+		"MinLevel": 111,
+		"RefreshId": 402
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 103,
+		"InsType": 2,
+		"MaxLevel": 180,
+		"MinLevel": 151,
+		"RefreshId": 403
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 104,
+		"InsType": 2,
+		"MaxLevel": 190,
+		"MinLevel": 181,
+		"RefreshId": 404
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 105,
+		"InsType": 2,
+		"MaxLevel": 200,
+		"MinLevel": 191,
+		"RefreshId": 405
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2500000,
+		"Fx": 6,
+		"Id": 106,
+		"InsType": 2,
+		"MaxLevel": 210,
+		"MinLevel": 201,
+		"RefreshId": 406
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 2750000,
+		"Fx": 6,
+		"Id": 107,
+		"InsType": 2,
+		"MaxLevel": 220,
+		"MinLevel": 211,
+		"RefreshId": 407
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 3000000,
+		"Fx": 6,
+		"Id": 108,
+		"InsType": 2,
+		"MaxLevel": 230,
+		"MinLevel": 221,
+		"RefreshId": 408
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 3250000,
+		"Fx": 6,
+		"Id": 109,
+		"InsType": 2,
+		"MaxLevel": 240,
+		"MinLevel": 231,
+		"RefreshId": 409
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 3500000,
+		"Fx": 6,
+		"Id": 110,
+		"InsType": 2,
+		"MaxLevel": 250,
+		"MinLevel": 241,
+		"RefreshId": 410
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 3750000,
+		"Fx": 6,
+		"Id": 111,
+		"InsType": 2,
+		"MaxLevel": 260,
+		"MinLevel": 251,
+		"RefreshId": 411
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 4000000,
+		"Fx": 6,
+		"Id": 112,
+		"InsType": 2,
+		"MaxLevel": 270,
+		"MinLevel": 261,
+		"RefreshId": 412
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 4250000,
+		"Fx": 6,
+		"Id": 113,
+		"InsType": 2,
+		"MaxLevel": 280,
+		"MinLevel": 271,
+		"RefreshId": 413
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 4500000,
+		"Fx": 6,
+		"Id": 114,
+		"InsType": 2,
+		"MaxLevel": 290,
+		"MinLevel": 281,
+		"RefreshId": 414
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 4750000,
+		"Fx": 6,
+		"Id": 115,
+		"InsType": 2,
+		"MaxLevel": 300,
+		"MinLevel": 291,
+		"RefreshId": 415
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 5000000,
+		"Fx": 6,
+		"Id": 116,
+		"InsType": 2,
+		"MaxLevel": 310,
+		"MinLevel": 301,
+		"RefreshId": 416
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 5250000,
+		"Fx": 6,
+		"Id": 117,
+		"InsType": 2,
+		"MaxLevel": 320,
+		"MinLevel": 311,
+		"RefreshId": 417
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 5500000,
+		"Fx": 6,
+		"Id": 118,
+		"InsType": 2,
+		"MaxLevel": 330,
+		"MinLevel": 321,
+		"RefreshId": 418
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 5750000,
+		"Fx": 6,
+		"Id": 119,
+		"InsType": 2,
+		"MaxLevel": 340,
+		"MinLevel": 331,
+		"RefreshId": 419
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 6000000,
+		"Fx": 6,
+		"Id": 120,
+		"InsType": 2,
+		"MaxLevel": 350,
+		"MinLevel": 341,
+		"RefreshId": 420
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 6250000,
+		"Fx": 6,
+		"Id": 121,
+		"InsType": 2,
+		"MaxLevel": 360,
+		"MinLevel": 351,
+		"RefreshId": 421
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 6500000,
+		"Fx": 6,
+		"Id": 122,
+		"InsType": 2,
+		"MaxLevel": 370,
+		"MinLevel": 361,
+		"RefreshId": 422
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 6750000,
+		"Fx": 6,
+		"Id": 123,
+		"InsType": 2,
+		"MaxLevel": 380,
+		"MinLevel": 371,
+		"RefreshId": 423
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 7000000,
+		"Fx": 6,
+		"Id": 124,
+		"InsType": 2,
+		"MaxLevel": 390,
+		"MinLevel": 381,
+		"RefreshId": 424
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 7250000,
+		"Fx": 6,
+		"Id": 125,
+		"InsType": 2,
+		"MaxLevel": 400,
+		"MinLevel": 391,
+		"RefreshId": 425
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 7500000,
+		"Fx": 6,
+		"Id": 126,
+		"InsType": 2,
+		"MaxLevel": 410,
+		"MinLevel": 401,
+		"RefreshId": 426
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 7750000,
+		"Fx": 6,
+		"Id": 127,
+		"InsType": 2,
+		"MaxLevel": 420,
+		"MinLevel": 411,
+		"RefreshId": 427
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 8000000,
+		"Fx": 6,
+		"Id": 128,
+		"InsType": 2,
+		"MaxLevel": 430,
+		"MinLevel": 421,
+		"RefreshId": 428
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 8250000,
+		"Fx": 6,
+		"Id": 129,
+		"InsType": 2,
+		"MaxLevel": 440,
+		"MinLevel": 431,
+		"RefreshId": 429
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 8500000,
+		"Fx": 6,
+		"Id": 130,
+		"InsType": 2,
+		"MaxLevel": 450,
+		"MinLevel": 441,
+		"RefreshId": 430
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 8750000,
+		"Fx": 6,
+		"Id": 131,
+		"InsType": 2,
+		"MaxLevel": 460,
+		"MinLevel": 451,
+		"RefreshId": 431
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 9000000,
+		"Fx": 6,
+		"Id": 132,
+		"InsType": 2,
+		"MaxLevel": 470,
+		"MinLevel": 461,
+		"RefreshId": 432
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 9250000,
+		"Fx": 6,
+		"Id": 133,
+		"InsType": 2,
+		"MaxLevel": 480,
+		"MinLevel": 471,
+		"RefreshId": 433
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 9500000,
+		"Fx": 6,
+		"Id": 134,
+		"InsType": 2,
+		"MaxLevel": 490,
+		"MinLevel": 481,
+		"RefreshId": 434
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 9750000,
+		"Fx": 6,
+		"Id": 135,
+		"InsType": 2,
+		"MaxLevel": 500,
+		"MinLevel": 491,
+		"RefreshId": 435
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 136,
+		"InsType": 2,
+		"MaxLevel": 510,
+		"MinLevel": 501,
+		"RefreshId": 436
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 137,
+		"InsType": 2,
+		"MaxLevel": 520,
+		"MinLevel": 511,
+		"RefreshId": 437
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 138,
+		"InsType": 2,
+		"MaxLevel": 530,
+		"MinLevel": 521,
+		"RefreshId": 438
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 139,
+		"InsType": 2,
+		"MaxLevel": 540,
+		"MinLevel": 531,
+		"RefreshId": 439
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 140,
+		"InsType": 2,
+		"MaxLevel": 550,
+		"MinLevel": 541,
+		"RefreshId": 440
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 141,
+		"InsType": 2,
+		"MaxLevel": 560,
+		"MinLevel": 551,
+		"RefreshId": 441
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 142,
+		"InsType": 2,
+		"MaxLevel": 570,
+		"MinLevel": 561,
+		"RefreshId": 442
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 143,
+		"InsType": 2,
+		"MaxLevel": 580,
+		"MinLevel": 571,
+		"RefreshId": 443
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 144,
+		"InsType": 2,
+		"MaxLevel": 590,
+		"MinLevel": 581,
+		"RefreshId": 444
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 145,
+		"InsType": 2,
+		"MaxLevel": 600,
+		"MinLevel": 591,
+		"RefreshId": 445
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 146,
+		"InsType": 2,
+		"MaxLevel": 610,
+		"MinLevel": 601,
+		"RefreshId": 446
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 147,
+		"InsType": 2,
+		"MaxLevel": 620,
+		"MinLevel": 611,
+		"RefreshId": 447
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 148,
+		"InsType": 2,
+		"MaxLevel": 630,
+		"MinLevel": 621,
+		"RefreshId": 448
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 149,
+		"InsType": 2,
+		"MaxLevel": 640,
+		"MinLevel": 631,
+		"RefreshId": 449
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 150,
+		"InsType": 2,
+		"MaxLevel": 650,
+		"MinLevel": 641,
+		"RefreshId": 450
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 151,
+		"InsType": 2,
+		"MaxLevel": 660,
+		"MinLevel": 651,
+		"RefreshId": 451
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 152,
+		"InsType": 2,
+		"MaxLevel": 670,
+		"MinLevel": 661,
+		"RefreshId": 450
+	},
+	{
+		"BossId": 1013,
+		"DropGold": 10000000,
+		"Fx": 6,
+		"Id": 153,
+		"InsType": 2,
+		"MaxLevel": 9999,
+		"MinLevel": 671,
+		"RefreshId": 451
+	}
+]

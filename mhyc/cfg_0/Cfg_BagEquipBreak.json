@@ -1,0 +1,2107 @@
+[
+	{
+		"BreakItem": "2310001:5",
+		"Star": 1,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:10",
+		"Star": 2,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:15",
+		"Star": 3,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:20",
+		"Star": 4,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:25",
+		"Star": 5,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:30|2310005:1",
+		"Star": 6,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:35|2310005:2",
+		"Star": 7,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:40|2310005:3",
+		"Star": 8,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:45|2310005:4",
+		"Star": 9,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:50|2310005:5",
+		"Star": 10,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2310001:55|2310005:6",
+		"Star": 11,
+		"Typ": 1
+	},
+	{
+		"BreakItem": "2070171:5",
+		"ObjId": 1,
+		"Star": 1,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:10",
+		"ObjId": 1,
+		"Star": 2,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:15",
+		"ObjId": 1,
+		"Star": 3,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:20|2070191:1",
+		"ObjId": 1,
+		"Star": 4,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:25|2070191:2",
+		"ObjId": 1,
+		"Star": 5,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:30|2070191:3",
+		"ObjId": 1,
+		"Star": 6,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:35|2070191:4",
+		"ObjId": 1,
+		"Star": 7,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:40|2070191:5",
+		"ObjId": 1,
+		"Star": 8,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:45|2070191:6",
+		"ObjId": 1,
+		"Star": 9,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070171:50|2070191:7",
+		"ObjId": 1,
+		"Star": 10,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:5",
+		"ObjId": 2,
+		"Star": 1,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:10",
+		"ObjId": 2,
+		"Star": 2,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:15",
+		"ObjId": 2,
+		"Star": 3,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:20|2070192:1",
+		"ObjId": 2,
+		"Star": 4,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:25|2070192:2",
+		"ObjId": 2,
+		"Star": 5,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:30|2070192:3",
+		"ObjId": 2,
+		"Star": 6,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:35|2070192:4",
+		"ObjId": 2,
+		"Star": 7,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:40|2070192:5",
+		"ObjId": 2,
+		"Star": 8,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:45|2070192:6",
+		"ObjId": 2,
+		"Star": 9,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070172:50|2070192:7",
+		"ObjId": 2,
+		"Star": 10,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:5",
+		"ObjId": 3,
+		"Star": 1,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:10",
+		"ObjId": 3,
+		"Star": 2,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:15",
+		"ObjId": 3,
+		"Star": 3,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:20|2070193:1",
+		"ObjId": 3,
+		"Star": 4,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:25|2070193:2",
+		"ObjId": 3,
+		"Star": 5,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:30|2070193:3",
+		"ObjId": 3,
+		"Star": 6,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:35|2070193:4",
+		"ObjId": 3,
+		"Star": 7,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:40|2070193:5",
+		"ObjId": 3,
+		"Star": 8,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:45|2070193:6",
+		"ObjId": 3,
+		"Star": 9,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070173:50|2070193:7",
+		"ObjId": 3,
+		"Star": 10,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:5",
+		"ObjId": 4,
+		"Star": 1,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:10",
+		"ObjId": 4,
+		"Star": 2,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:15",
+		"ObjId": 4,
+		"Star": 3,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:20|2070194:1",
+		"ObjId": 4,
+		"Star": 4,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:25|2070194:2",
+		"ObjId": 4,
+		"Star": 5,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:30|2070194:3",
+		"ObjId": 4,
+		"Star": 6,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:35|2070194:4",
+		"ObjId": 4,
+		"Star": 7,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:40|2070194:5",
+		"ObjId": 4,
+		"Star": 8,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:45|2070194:6",
+		"ObjId": 4,
+		"Star": 9,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070174:50|2070194:7",
+		"ObjId": 4,
+		"Star": 10,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:5",
+		"ObjId": 5,
+		"Star": 1,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:10",
+		"ObjId": 5,
+		"Star": 2,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:15",
+		"ObjId": 5,
+		"Star": 3,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:20|2070195:1",
+		"ObjId": 5,
+		"Star": 4,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:25|2070195:2",
+		"ObjId": 5,
+		"Star": 5,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:30|2070195:3",
+		"ObjId": 5,
+		"Star": 6,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:35|2070195:4",
+		"ObjId": 5,
+		"Star": 7,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:40|2070195:5",
+		"ObjId": 5,
+		"Star": 8,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:45|2070195:6",
+		"ObjId": 5,
+		"Star": 9,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2070175:50|2070195:7",
+		"ObjId": 5,
+		"Star": 10,
+		"Typ": 2
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 1,
+		"Seat": 1,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 1,
+		"Seat": 2,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 1,
+		"Seat": 3,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 1,
+		"Seat": 4,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 1,
+		"Seat": 5,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 1,
+		"Seat": 6,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 1,
+		"Seat": 7,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 1,
+		"Seat": 8,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 1,
+		"Seat": 9,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 1,
+		"Seat": 10,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 1,
+		"Seat": 1,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 1,
+		"Seat": 2,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 1,
+		"Seat": 3,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 1,
+		"Seat": 4,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 1,
+		"Seat": 5,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 1,
+		"Seat": 6,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 1,
+		"Seat": 7,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 1,
+		"Seat": 8,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 1,
+		"Seat": 9,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 1,
+		"Seat": 10,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 1,
+		"Seat": 1,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 1,
+		"Seat": 2,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 1,
+		"Seat": 3,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 1,
+		"Seat": 4,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 1,
+		"Seat": 5,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 1,
+		"Seat": 6,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 1,
+		"Seat": 7,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 1,
+		"Seat": 8,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 1,
+		"Seat": 9,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 1,
+		"Seat": 10,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 1,
+		"Seat": 1,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 1,
+		"Seat": 2,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 1,
+		"Seat": 3,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 1,
+		"Seat": 4,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 1,
+		"Seat": 5,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 1,
+		"Seat": 6,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 1,
+		"Seat": 7,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 1,
+		"Seat": 8,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 1,
+		"Seat": 9,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 1,
+		"Seat": 10,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 1,
+		"Seat": 1,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 1,
+		"Seat": 2,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 1,
+		"Seat": 3,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 1,
+		"Seat": 4,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 1,
+		"Seat": 5,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 1,
+		"Seat": 6,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 1,
+		"Seat": 7,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 1,
+		"Seat": 8,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 1,
+		"Seat": 9,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 1,
+		"Seat": 10,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 2,
+		"Seat": 1,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 2,
+		"Seat": 2,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 2,
+		"Seat": 3,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 2,
+		"Seat": 4,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 2,
+		"Seat": 5,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 2,
+		"Seat": 6,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 2,
+		"Seat": 7,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 2,
+		"Seat": 8,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 2,
+		"Seat": 9,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 2,
+		"Seat": 10,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 2,
+		"Seat": 1,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 2,
+		"Seat": 2,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 2,
+		"Seat": 3,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 2,
+		"Seat": 4,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 2,
+		"Seat": 5,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 2,
+		"Seat": 6,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 2,
+		"Seat": 7,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 2,
+		"Seat": 8,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 2,
+		"Seat": 9,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 2,
+		"Seat": 10,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 2,
+		"Seat": 1,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 2,
+		"Seat": 2,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 2,
+		"Seat": 3,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 2,
+		"Seat": 4,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 2,
+		"Seat": 5,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 2,
+		"Seat": 6,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 2,
+		"Seat": 7,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 2,
+		"Seat": 8,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 2,
+		"Seat": 9,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 2,
+		"Seat": 10,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 2,
+		"Seat": 1,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 2,
+		"Seat": 2,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 2,
+		"Seat": 3,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 2,
+		"Seat": 4,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 2,
+		"Seat": 5,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 2,
+		"Seat": 6,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 2,
+		"Seat": 7,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 2,
+		"Seat": 8,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 2,
+		"Seat": 9,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 2,
+		"Seat": 10,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 2,
+		"Seat": 1,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 2,
+		"Seat": 2,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 2,
+		"Seat": 3,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 2,
+		"Seat": 4,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 2,
+		"Seat": 5,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 2,
+		"Seat": 6,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 2,
+		"Seat": 7,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 2,
+		"Seat": 8,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 2,
+		"Seat": 9,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 2,
+		"Seat": 10,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 3,
+		"Seat": 1,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 3,
+		"Seat": 2,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 3,
+		"Seat": 3,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 3,
+		"Seat": 4,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 3,
+		"Seat": 5,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 3,
+		"Seat": 6,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 3,
+		"Seat": 7,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 3,
+		"Seat": 8,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 3,
+		"Seat": 9,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 3,
+		"Seat": 10,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 3,
+		"Seat": 1,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 3,
+		"Seat": 2,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 3,
+		"Seat": 3,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 3,
+		"Seat": 4,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 3,
+		"Seat": 5,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 3,
+		"Seat": 6,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 3,
+		"Seat": 7,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 3,
+		"Seat": 8,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 3,
+		"Seat": 9,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 3,
+		"Seat": 10,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 3,
+		"Seat": 1,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 3,
+		"Seat": 2,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 3,
+		"Seat": 3,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 3,
+		"Seat": 4,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 3,
+		"Seat": 5,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 3,
+		"Seat": 6,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 3,
+		"Seat": 7,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 3,
+		"Seat": 8,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 3,
+		"Seat": 9,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 3,
+		"Seat": 10,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 3,
+		"Seat": 1,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 3,
+		"Seat": 2,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 3,
+		"Seat": 3,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 3,
+		"Seat": 4,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 3,
+		"Seat": 5,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 3,
+		"Seat": 6,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 3,
+		"Seat": 7,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 3,
+		"Seat": 8,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 3,
+		"Seat": 9,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 3,
+		"Seat": 10,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 3,
+		"Seat": 1,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 3,
+		"Seat": 2,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 3,
+		"Seat": 3,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 3,
+		"Seat": 4,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 3,
+		"Seat": 5,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 3,
+		"Seat": 6,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 3,
+		"Seat": 7,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 3,
+		"Seat": 8,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 3,
+		"Seat": 9,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 3,
+		"Seat": 10,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 4,
+		"Seat": 1,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 4,
+		"Seat": 2,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 4,
+		"Seat": 3,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 4,
+		"Seat": 4,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 4,
+		"Seat": 5,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 4,
+		"Seat": 6,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 4,
+		"Seat": 7,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 4,
+		"Seat": 8,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 4,
+		"Seat": 9,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 4,
+		"Seat": 10,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 4,
+		"Seat": 1,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 4,
+		"Seat": 2,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 4,
+		"Seat": 3,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 4,
+		"Seat": 4,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 4,
+		"Seat": 5,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 4,
+		"Seat": 6,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 4,
+		"Seat": 7,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 4,
+		"Seat": 8,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 4,
+		"Seat": 9,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 4,
+		"Seat": 10,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 4,
+		"Seat": 1,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 4,
+		"Seat": 2,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 4,
+		"Seat": 3,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 4,
+		"Seat": 4,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 4,
+		"Seat": 5,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 4,
+		"Seat": 6,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 4,
+		"Seat": 7,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 4,
+		"Seat": 8,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 4,
+		"Seat": 9,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 4,
+		"Seat": 10,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 4,
+		"Seat": 1,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 4,
+		"Seat": 2,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 4,
+		"Seat": 3,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 4,
+		"Seat": 4,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 4,
+		"Seat": 5,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 4,
+		"Seat": 6,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 4,
+		"Seat": 7,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 4,
+		"Seat": 8,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 4,
+		"Seat": 9,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 4,
+		"Seat": 10,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 4,
+		"Seat": 1,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 4,
+		"Seat": 2,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 4,
+		"Seat": 3,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 4,
+		"Seat": 4,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 4,
+		"Seat": 5,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 4,
+		"Seat": 6,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 4,
+		"Seat": 7,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 4,
+		"Seat": 8,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 4,
+		"Seat": 9,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 4,
+		"Seat": 10,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 5,
+		"Seat": 1,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 5,
+		"Seat": 2,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 5,
+		"Seat": 3,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 5,
+		"Seat": 4,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:50",
+		"ObjId": 5,
+		"Seat": 5,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 5,
+		"Seat": 6,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 5,
+		"Seat": 7,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 5,
+		"Seat": 8,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 5,
+		"Seat": 9,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:50",
+		"ObjId": 5,
+		"Seat": 10,
+		"Star": 1,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 5,
+		"Seat": 1,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 5,
+		"Seat": 2,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 5,
+		"Seat": 3,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 5,
+		"Seat": 4,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:260",
+		"ObjId": 5,
+		"Seat": 5,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 5,
+		"Seat": 6,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 5,
+		"Seat": 7,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 5,
+		"Seat": 8,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 5,
+		"Seat": 9,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:260",
+		"ObjId": 5,
+		"Seat": 10,
+		"Star": 2,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 5,
+		"Seat": 1,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 5,
+		"Seat": 2,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 5,
+		"Seat": 3,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 5,
+		"Seat": 4,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:620",
+		"ObjId": 5,
+		"Seat": 5,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 5,
+		"Seat": 6,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 5,
+		"Seat": 7,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 5,
+		"Seat": 8,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 5,
+		"Seat": 9,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:620",
+		"ObjId": 5,
+		"Seat": 10,
+		"Star": 3,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 5,
+		"Seat": 1,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 5,
+		"Seat": 2,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 5,
+		"Seat": 3,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 5,
+		"Seat": 4,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:1600",
+		"ObjId": 5,
+		"Seat": 5,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 5,
+		"Seat": 6,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 5,
+		"Seat": 7,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 5,
+		"Seat": 8,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 5,
+		"Seat": 9,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:1600",
+		"ObjId": 5,
+		"Seat": 10,
+		"Star": 4,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 5,
+		"Seat": 1,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 5,
+		"Seat": 2,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 5,
+		"Seat": 3,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 5,
+		"Seat": 4,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320321:4500",
+		"ObjId": 5,
+		"Seat": 5,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 5,
+		"Seat": 6,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 5,
+		"Seat": 7,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 5,
+		"Seat": 8,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 5,
+		"Seat": 9,
+		"Star": 5,
+		"Typ": 3
+	},
+	{
+		"BreakItem": "2320322:4500",
+		"ObjId": 5,
+		"Seat": 10,
+		"Star": 5,
+		"Typ": 3
+	}
+]

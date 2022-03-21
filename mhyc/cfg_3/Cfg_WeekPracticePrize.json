@@ -1,0 +1,38 @@
+[
+	{
+		"CounterType": 137,
+		"GetCondition": "7:0",
+		"Id": 1001,
+		"Note": "周活跃值100分",
+		"Prize": "501:3",
+		"TargetCount": 100,
+		"Type": 31
+	},
+	{
+		"CounterType": 137,
+		"GetCondition": "7:0",
+		"Id": 1002,
+		"Note": "周活跃值150分",
+		"Prize": "2251002:5",
+		"TargetCount": 150,
+		"Type": 31
+	},
+	{
+		"CounterType": 137,
+		"GetCondition": "7:0",
+		"Id": 1003,
+		"Note": "周活跃值200分",
+		"Prize": "2200255:1",
+		"TargetCount": 200,
+		"Type": 31
+	},
+	{
+		"CounterType": 137,
+		"GetCondition": "7:0",
+		"Id": 1004,
+		"Note": "周活跃值300分",
+		"Prize": "263:3",
+		"TargetCount": 300,
+		"Type": 31
+	}
+]

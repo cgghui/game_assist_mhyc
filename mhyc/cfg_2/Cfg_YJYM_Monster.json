@@ -1,0 +1,148 @@
+[
+	{
+		"GroupId": 1,
+		"Id": 111,
+		"MonsterId": 6911,
+		"MonsterType": 1,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 112,
+		"MonsterId": 6912,
+		"MonsterType": 1,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 113,
+		"MonsterId": 6913,
+		"MonsterType": 1,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 121,
+		"MonsterId": 6914,
+		"MonsterType": 2,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 122,
+		"MonsterId": 6915,
+		"MonsterType": 2,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 123,
+		"MonsterId": 6916,
+		"MonsterType": 2,
+		"RewardType": 1
+	},
+	{
+		"GroupId": 1,
+		"Id": 131,
+		"MonsterId": 6917,
+		"MonsterType": 3,
+		"RewardType": 2
+	},
+	{
+		"GroupId": 1,
+		"Id": 141,
+		"MonsterId": 6918,
+		"MonsterType": 4,
+		"RewardType": 2
+	},
+	{
+		"GroupId": 2,
+		"Id": 201,
+		"MonsterId": 6921,
+		"MonsterType": 5,
+		"RewardType": 3
+	},
+	{
+		"GroupId": 2,
+		"Id": 202,
+		"MonsterId": 6922,
+		"MonsterType": 5,
+		"RewardType": 3
+	},
+	{
+		"GroupId": 2,
+		"Id": 203,
+		"MonsterId": 6923,
+		"MonsterType": 5,
+		"RewardType": 3
+	},
+	{
+		"GroupId": 2,
+		"Id": 204,
+		"MonsterId": 6924,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[50,30]"
+	},
+	{
+		"GroupId": 2,
+		"Id": 205,
+		"MonsterId": 6925,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[50,30]"
+	},
+	{
+		"GroupId": 2,
+		"Id": 206,
+		"MonsterId": 6926,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[50,30]"
+	},
+	{
+		"GroupId": 2,
+		"Id": 207,
+		"MonsterId": 6927,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[30,30]"
+	},
+	{
+		"GroupId": 2,
+		"Id": 208,
+		"MonsterId": 6928,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[50,30]"
+	},
+	{
+		"GroupId": 2,
+		"Id": 209,
+		"MonsterId": 6929,
+		"MonsterType": 5,
+		"RewardType": 3,
+		"SuperShield": "[50,30]"
+	},
+	{
+		"GroupId": 3,
+		"Id": 301,
+		"MonsterId": 6931,
+		"MonsterType": 6,
+		"RewardType": 4
+	},
+	{
+		"GroupId": 3,
+		"Id": 302,
+		"MonsterId": 6932,
+		"MonsterType": 7,
+		"RewardType": 5
+	},
+	{
+		"GroupId": 3,
+		"Id": 303,
+		"MonsterId": 6933,
+		"MonsterType": 8,
+		"RewardType": 6
+	}
+]

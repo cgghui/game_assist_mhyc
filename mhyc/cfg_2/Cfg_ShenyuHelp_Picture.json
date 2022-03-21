@@ -1,0 +1,189 @@
+[
+	{
+		"Desc": "占空地1",
+		"Help": "占空地条件1：当有\u003ccolor=#12A710\u003e相邻地块\u003c/c\u003e时，可点击空地操作\u003ccolor=#12A710\u003e占领\u003c/c\u003e。占领空地可获得战功奖励，也是铺路前往神坛的必要操作。",
+		"Id": 1,
+		"Number": 1,
+		"Picture": "i/m/newAct/shenYu/img_help1"
+	},
+	{
+		"Desc": "占空地2",
+		"Help": "占空地条件2：除了满足\u003ccolor=#12A710\u003e条件1\u003c/c\u003e中有相邻的地块，还要求\u003ccolor=#12A710\u003e目标空地与己方的神坛或阵营主城相通\u003c/c\u003e，如图示目标地块与己方阵营相通可以占领。",
+		"Id": 1,
+		"Number": 2,
+		"Picture": "i/m/newAct/shenYu/img_help9"
+	},
+	{
+		"Desc": "占空地3",
+		"Help": "如图示目标地块与己方阵营之间被敌方阵营阻隔了，此时不能占领。",
+		"Id": 1,
+		"Number": 3,
+		"Picture": "i/m/newAct/shenYu/img_help8"
+	},
+	{
+		"Desc": "占神坛",
+		"Help": "当与神坛有相邻地块时，\u003ccolor=#12A710\u003e打败神坛驻守怪物\u003c/c\u003e后即可获得神坛的归属。一定时间内只能对同个神坛发起1次进攻，可以\u003ccolor=#12A710\u003e分享\u003c/c\u003e给同阵营成员来攻打哦~",
+		"Id": 1,
+		"Number": 4,
+		"Picture": "i/m/newAct/shenYu/img_help2"
+	},
+	{
+		"Desc": "祈祷",
+		"Help": "点击自己或阵营归属的神坛可以进行\u003ccolor=#12A710\u003e祈祷\u003c/c\u003e操作，祈祷后神坛会在周期内掉落圣物精华和圣物。如果设置\u003ccolor=#12A710\u003e驻守伙伴\u003c/c\u003e还能提高掉率。",
+		"Id": 1,
+		"Number": 5,
+		"Picture": "i/m/newAct/shenYu/img_help3"
+	},
+	{
+		"Desc": "采集",
+		"Help": "神坛祈祷后会产出\u003ccolor=#12A710\u003e圣物精华和圣物\u003c/c\u003e，当见到有\u003ccolor=#12A710\u003e圣物精华图标\u003c/c\u003e的时候，点击即可获得所有收益~",
+		"Id": 1,
+		"Number": 6,
+		"Picture": "i/m/newAct/shenYu/img_help4"
+	},
+	{
+		"Desc": "神位",
+		"Help": "神位代表了上仙在神域中的贡献等级，\u003ccolor=#12A710\u003e神位等级\u003c/c\u003e越高，可以祈祷的\u003ccolor=#12A710\u003e神坛等级\u003c/c\u003e越高，获得的收益也越高，优先完成\u003ccolor=#12A710\u003e神位任务\u003c/c\u003e，提高神位等级可以让上仙占得先机哦~",
+		"Id": 1,
+		"Number": 7,
+		"Picture": "i/m/newAct/shenYu/img_help5"
+	},
+	{
+		"Desc": "圣物",
+		"Help": "装备圣物后可以\u003ccolor=#12A710\u003e大幅提升战力\u003c/c\u003e，同时在神域中还能获得\u003ccolor=#12A710\u003e特殊增益效果\u003c/c\u003e。",
+		"Id": 1,
+		"Number": 8,
+		"Picture": "i/m/newAct/shenYu/img_help6"
+	},
+	{
+		"Desc": "商店",
+		"Help": "每日选购神域商店中的\u003ccolor=#12A710\u003eBUFF道具\u003c/c\u003e和商品不但可以\u003ccolor=#12A710\u003e节省行动值\u003c/c\u003e还能获取许多\u003ccolor=#12A710\u003e珍稀道具\u003c/c\u003e。",
+		"Id": 1,
+		"Number": 9,
+		"Picture": "i/m/newAct/shenYu/img_help7"
+	},
+	{
+		"Desc": "进入归墟",
+		"Help": "限时活动开启后，在外域最深处找到\u003ccolor=#12A710\u003e归墟之境\u003c/c\u003e，点击\u003ccolor=#12A710\u003e攻击\u003c/c\u003e即可进入，无需占据相邻地块。",
+		"Id": 2,
+		"Number": 1,
+		"Picture": "i/m/newAct/shenYu/img_help10"
+	},
+	{
+		"Desc": "台子间移动",
+		"Help": "\u003ccolor=#12A710\u003e归墟之境\u003c/c\u003e开启后，点击\u003ccolor=#12A710\u003e相邻的台子\u003c/c\u003e或指引箭头即可前往，避开人数较多的台子可以让你更快到达顶端哦~",
+		"Id": 2,
+		"Number": 2,
+		"Picture": "i/m/newAct/shenYu/img_help11"
+	},
+	{
+		"Desc": "BOSS",
+		"Help": "归墟之境按顺序刷新\u003ccolor=#12A710\u003e3个BOSS\u003c/c\u003e，分别比拼\u003ccolor=#12A710\u003e仙宗总伤害、单次造成伤害和仙宗总出手次数\u003c/c\u003e。攻击BOSS、获得排名即可获得大量的积分奖励！",
+		"Id": 2,
+		"Number": 3,
+		"Picture": "i/m/newAct/shenYu/img_help12"
+	},
+	{
+		"Desc": "兵力值",
+		"Help": "\u003ccolor=#12A710\u003e兵力值\u003c/c\u003e是上仙在归墟之境中的行动力，攻击其他仙宗玩家成功时会消耗\u003ccolor=#12A710\u003e1点\u003c/c\u003e兵力值，失败则会消耗\u003ccolor=#12A710\u003e4点\u003c/c\u003e，当兵力值为\u003ccolor=#12A710\u003e0\u003c/c\u003e时将会返回复活点~",
+		"Id": 2,
+		"Number": 4,
+		"Picture": "i/m/newAct/shenYu/img_help13"
+	},
+	{
+		"Desc": "pk",
+		"Help": "在归墟之境中，上仙可以攻击其他仙宗的玩家，减少他的兵力值，阻碍其他仙宗攻打boss，同时还会\u003ccolor=#12A710\u003e获得相应的积分\u003c/c\u003e。",
+		"Id": 2,
+		"Number": 5,
+		"Picture": "i/m/newAct/shenYu/img_help14"
+	},
+	{
+		"Desc": "成就奖励",
+		"Help": "在归墟之境中完成\u003ccolor=#12A710\u003e成就任务\u003c/c\u003e还可获得丰厚奖励。",
+		"Id": 2,
+		"Number": 6,
+		"Picture": "i/m/newAct/shenYu/img_help15"
+	},
+	{
+		"Desc": "积分奖励",
+		"Help": "在归墟之境中攻击boss、获得BOSS排名、攻击其他玩家都可获得积分，归墟之境结束时将按照积分排名发放奖励。",
+		"Id": 2,
+		"Number": 7,
+		"Picture": "i/m/newAct/shenYu/img_help16"
+	},
+	{
+		"Desc": "抢空地",
+		"Help": "在内域中，\u003ccolor=#12A710\u003e不同阵营\u003c/c\u003e的玩家可以互相\u003ccolor=#12A710\u003e抢夺空地归属\u003c/c\u003e。有策略性地抢占地块可以限制其他阵营的发展哦~",
+		"Id": 3,
+		"Number": 1,
+		"Picture": "i/m/newAct/shenYu/img_help21"
+	},
+	{
+		"Desc": "抢神坛",
+		"Help": "在内域中，\u003ccolor=#12A710\u003e不同阵营\u003c/c\u003e的玩家可以\u003ccolor=#12A710\u003e抢夺神坛的归属\u003c/c\u003e，但抢夺神坛必须打败神坛的归属者。",
+		"Id": 3,
+		"Number": 2,
+		"Picture": "i/m/newAct/shenYu/img_help22"
+	},
+	{
+		"Desc": "打神兽",
+		"Help": "每个阵营都有一只\u003ccolor=#12A710\u003e守护神兽\u003c/c\u003e，在天宫开启前一直处于封印状态，上仙\u003ccolor=#12A710\u003e每日\u003c/c\u003e都可对己方阵营神兽的封印发起进攻，\u003ccolor=#12A710\u003e达到目标\u003c/c\u003e可获得丰厚奖励。",
+		"Id": 3,
+		"Number": 3,
+		"Picture": "i/m/newAct/shenYu/img_help23"
+	},
+	{
+		"Desc": "小地图",
+		"Help": "来到内域后地图更加广阔了，灵活使用\u003ccolor=#12A710\u003e小地图\u003c/c\u003e可以更加便捷地找到\u003ccolor=#12A710\u003e目的地和神坛\u003c/c\u003e~",
+		"Id": 3,
+		"Number": 4,
+		"Picture": "i/m/newAct/shenYu/img_help24"
+	},
+	{
+		"Desc": "战功兑换",
+		"Help": "上仙获得的\u003ccolor=#12A710\u003e战功\u003c/c\u003e可以在\u003ccolor=#12A710\u003e神域宝库\u003c/c\u003e中兑换到许多珍稀道具~温馨提示：在本服的\u003ccolor=#12A710\u003e商城--兑换宝库\u003c/c\u003e中也可查看神域宝库。",
+		"Id": 3,
+		"Number": 5,
+		"Picture": "i/m/newAct/shenYu/img_help25"
+	},
+	{
+		"Desc": "神域殿堂",
+		"Help": "神域赛季结束后，将在各神域中产生一位\u003ccolor=#12A710\u003e战功最高\u003c/c\u003e的神王永久铭刻在神域殿堂中，获得\u003ccolor=#12A710\u003e独一无二的奖励\u003c/c\u003e和\u003ccolor=#12A710\u003e至高无上的荣誉\u003c/c\u003e！",
+		"Id": 3,
+		"Number": 6,
+		"Picture": "i/m/newAct/shenYu/img_help26"
+	},
+	{
+		"Desc": "进入天宫",
+		"Help": "云顶天宫位于\u003ccolor=#12A710\u003e神域的中心\u003c/c\u003e，活动时间到达后可进入。",
+		"Id": 4,
+		"Number": 1,
+		"Picture": "i/m/newAct/shenYu/img_help31"
+	},
+	{
+		"Desc": "台子间移动",
+		"Help": "云顶天宫与归墟之境的基本操作相同，点击相邻的台子即可完成移动操作。",
+		"Id": 4,
+		"Number": 2,
+		"Picture": "i/m/newAct/shenYu/img_help11"
+	},
+	{
+		"Desc": "BOSS",
+		"Help": "云顶天宫中共有\u003ccolor=#12A710\u003e4只\u003c/c\u003eBOSS依次刷新，分别比拼\u003ccolor=#12A710\u003e阵营总伤害、单次造成伤害、阵营总出手次数、阵营总伤害\u003c/c\u003e",
+		"Id": 4,
+		"Number": 3,
+		"Picture": "i/m/newAct/shenYu/img_help33"
+	},
+	{
+		"Help": "右边信息栏可查看\u003ccolor=#12A710\u003e自身战力、积分、兵力值、敌对目标\u003c/c\u003e等信息。",
+		"Id": 4,
+		"Number": 4,
+		"Picture": "i/m/newAct/shenYu/img_help34"
+	},
+	{
+		"Help": "在云顶天宫内可以对其他阵营玩家发起攻击，削减目标兵力值，规则与归墟之境相同。",
+		"Id": 4,
+		"Number": 5,
+		"Picture": "i/m/newAct/shenYu/img_help35"
+	}
+]

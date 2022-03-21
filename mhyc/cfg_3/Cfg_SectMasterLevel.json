@@ -1,0 +1,122 @@
+[
+	{
+		"Master_Level": 1,
+		"Sect_Max_level": 9,
+		"Sect_Min_level": 5,
+		"Skill_Inc_Id": 700
+	},
+	{
+		"Master_Level": 2,
+		"Sect_Max_level": 14,
+		"Sect_Min_level": 10,
+		"Skill_Inc_Id": 701
+	},
+	{
+		"Master_Level": 3,
+		"Sect_Max_level": 19,
+		"Sect_Min_level": 15,
+		"Skill_Inc_Id": 702
+	},
+	{
+		"Master_Level": 4,
+		"Sect_Max_level": 24,
+		"Sect_Min_level": 20,
+		"Skill_Inc_Id": 703
+	},
+	{
+		"Master_Level": 5,
+		"Sect_Max_level": 29,
+		"Sect_Min_level": 25,
+		"Skill_Inc_Id": 704
+	},
+	{
+		"Master_Level": 6,
+		"Sect_Max_level": 34,
+		"Sect_Min_level": 30,
+		"Skill_Inc_Id": 705
+	},
+	{
+		"Master_Level": 7,
+		"Sect_Max_level": 39,
+		"Sect_Min_level": 35,
+		"Skill_Inc_Id": 706
+	},
+	{
+		"Master_Level": 8,
+		"Sect_Max_level": 44,
+		"Sect_Min_level": 40,
+		"Skill_Inc_Id": 707
+	},
+	{
+		"Master_Level": 9,
+		"Sect_Max_level": 49,
+		"Sect_Min_level": 45,
+		"Skill_Inc_Id": 708
+	},
+	{
+		"Master_Level": 10,
+		"Sect_Max_level": 54,
+		"Sect_Min_level": 50,
+		"Skill_Inc_Id": 709
+	},
+	{
+		"Master_Level": 11,
+		"Sect_Max_level": 59,
+		"Sect_Min_level": 55,
+		"Skill_Inc_Id": 710
+	},
+	{
+		"Master_Level": 12,
+		"Sect_Max_level": 64,
+		"Sect_Min_level": 60,
+		"Skill_Inc_Id": 711
+	},
+	{
+		"Master_Level": 13,
+		"Sect_Max_level": 69,
+		"Sect_Min_level": 65,
+		"Skill_Inc_Id": 712
+	},
+	{
+		"Master_Level": 14,
+		"Sect_Max_level": 74,
+		"Sect_Min_level": 70,
+		"Skill_Inc_Id": 713
+	},
+	{
+		"Master_Level": 15,
+		"Sect_Max_level": 79,
+		"Sect_Min_level": 75,
+		"Skill_Inc_Id": 714
+	},
+	{
+		"Master_Level": 16,
+		"Sect_Max_level": 84,
+		"Sect_Min_level": 80,
+		"Skill_Inc_Id": 715
+	},
+	{
+		"Master_Level": 17,
+		"Sect_Max_level": 89,
+		"Sect_Min_level": 85,
+		"Skill_Inc_Id": 716
+	},
+	{
+		"Master_Level": 18,
+		"Sect_Max_level": 94,
+		"Sect_Min_level": 90,
+		"Skill_Inc_Id": 717
+	},
+	{
+		"Master_Level": 19,
+		"Sect_Max_level": 99,
+		"Sect_Min_level": 95,
+		"Skill_Inc_Id": 718
+	},
+	{
+		"Master_Level": 20,
+		"Sect_Max_level": 100,
+		"Sect_Min_level": 100,
+		"Skill_Inc_Id": 719
+	}
+]

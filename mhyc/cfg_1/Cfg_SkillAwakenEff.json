@@ -1,0 +1,1302 @@
+[
+	{
+		"SkillEff": "29%+4200伤害",
+		"SkillId": 373,
+		"Type": 1
+	},
+	{
+		"SkillEff": "32%+5200伤害",
+		"SkillId": 11001,
+		"Type": 1
+	},
+	{
+		"SkillEff": "35%+6200伤害",
+		"SkillId": 11011,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+7200伤害",
+		"SkillId": 11021,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+8200伤害",
+		"SkillId": 11031,
+		"Type": 1
+	},
+	{
+		"SkillEff": "44%+9200伤害",
+		"SkillId": 11041,
+		"Type": 1
+	},
+	{
+		"SkillEff": "48%+10000伤害",
+		"SkillId": 11051,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+12000伤害",
+		"SkillId": 11061,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加攻",
+		"SkillId": 6130,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加攻",
+		"SkillId": 11012,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加攻",
+		"SkillId": 11022,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加攻",
+		"SkillId": 11032,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加攻",
+		"SkillId": 11042,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加攻",
+		"SkillId": 11052,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加攻",
+		"SkillId": 11062,
+		"Type": 2
+	},
+	{
+		"SkillEff": "10%概率加盾",
+		"SkillId": 6131,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加盾",
+		"SkillId": 11023,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加盾",
+		"SkillId": 11033,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加盾",
+		"SkillId": 11043,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加盾",
+		"SkillId": 11053,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加盾",
+		"SkillId": 11063,
+		"Type": 2
+	},
+	{
+		"SkillEff": "8%概率魅惑",
+		"SkillId": 6133,
+		"Type": 2
+	},
+	{
+		"SkillEff": "9%概率魅惑",
+		"SkillId": 11034,
+		"Type": 2
+	},
+	{
+		"SkillEff": "10%概率魅惑",
+		"SkillId": 11044,
+		"Type": 2
+	},
+	{
+		"SkillEff": "11%概率魅惑",
+		"SkillId": 11054,
+		"Type": 2
+	},
+	{
+		"SkillEff": "12%概率魅惑",
+		"SkillId": 11064,
+		"Type": 2
+	},
+	{
+		"SkillEff": "46%+4800伤害",
+		"SkillId": 374,
+		"Type": 1
+	},
+	{
+		"SkillEff": "50%+5800伤害",
+		"SkillId": 11101,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+6800伤害",
+		"SkillId": 11111,
+		"Type": 1
+	},
+	{
+		"SkillEff": "58%+7800伤害",
+		"SkillId": 11121,
+		"Type": 1
+	},
+	{
+		"SkillEff": "62%+8800伤害",
+		"SkillId": 11131,
+		"Type": 1
+	},
+	{
+		"SkillEff": "66%+9800伤害",
+		"SkillId": 11141,
+		"Type": 1
+	},
+	{
+		"SkillEff": "72%+11000伤害",
+		"SkillId": 11151,
+		"Type": 1
+	},
+	{
+		"SkillEff": "80%+13000伤害",
+		"SkillId": 11161,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加暴伤",
+		"SkillId": 6140,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加暴伤",
+		"SkillId": 11112,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加暴伤",
+		"SkillId": 11122,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加暴伤",
+		"SkillId": 11132,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加暴伤",
+		"SkillId": 11142,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加暴伤",
+		"SkillId": 11152,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加暴伤",
+		"SkillId": 11162,
+		"Type": 2
+	},
+	{
+		"SkillEff": "杀怪增伤15%",
+		"SkillId": 6141,
+		"Type": 3
+	},
+	{
+		"SkillEff": "杀怪增伤17%",
+		"SkillId": 11123,
+		"Type": 3
+	},
+	{
+		"SkillEff": "杀怪增伤19%",
+		"SkillId": 11133,
+		"Type": 3
+	},
+	{
+		"SkillEff": "杀怪增伤21%",
+		"SkillId": 11143,
+		"Type": 3
+	},
+	{
+		"SkillEff": "杀怪增伤23%",
+		"SkillId": 11153,
+		"Type": 3
+	},
+	{
+		"SkillEff": "杀怪增伤25%",
+		"SkillId": 11163,
+		"Type": 3
+	},
+	{
+		"SkillEff": "50%概率追击",
+		"SkillId": 6143,
+		"Type": 2
+	},
+	{
+		"SkillEff": "51%概率追击",
+		"SkillId": 11134,
+		"Type": 2
+	},
+	{
+		"SkillEff": "52%概率追击",
+		"SkillId": 11144,
+		"Type": 2
+	},
+	{
+		"SkillEff": "54%概率追击",
+		"SkillId": 11154,
+		"Type": 2
+	},
+	{
+		"SkillEff": "56%概率追击",
+		"SkillId": 11164,
+		"Type": 2
+	},
+	{
+		"SkillEff": "29%+4200伤害",
+		"SkillId": 375,
+		"Type": 1
+	},
+	{
+		"SkillEff": "32%+5200伤害",
+		"SkillId": 11201,
+		"Type": 1
+	},
+	{
+		"SkillEff": "35%+6200伤害",
+		"SkillId": 11211,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+7200伤害",
+		"SkillId": 11221,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+8200伤害",
+		"SkillId": 11231,
+		"Type": 1
+	},
+	{
+		"SkillEff": "44%+9200伤害",
+		"SkillId": 11241,
+		"Type": 1
+	},
+	{
+		"SkillEff": "48%+10000伤害",
+		"SkillId": 11251,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+12000伤害",
+		"SkillId": 11261,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加伤加",
+		"SkillId": 6150,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加伤加",
+		"SkillId": 11212,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加伤加",
+		"SkillId": 11222,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加伤加",
+		"SkillId": 11232,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加伤加",
+		"SkillId": 11242,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加伤加",
+		"SkillId": 11252,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加伤加",
+		"SkillId": 11262,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE10%概率加伤",
+		"SkillId": 6151,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE15%概率加伤",
+		"SkillId": 11223,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE20%概率加伤",
+		"SkillId": 11233,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE25%概率加伤",
+		"SkillId": 11243,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE30%概率加伤",
+		"SkillId": 11253,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVE35%概率加伤",
+		"SkillId": 11263,
+		"Type": 2
+	},
+	{
+		"SkillEff": "闪避提升3%",
+		"SkillId": 6152,
+		"Type": 3
+	},
+	{
+		"SkillEff": "闪避提升4%",
+		"SkillId": 11234,
+		"Type": 3
+	},
+	{
+		"SkillEff": "闪避提升5%",
+		"SkillId": 11244,
+		"Type": 3
+	},
+	{
+		"SkillEff": "闪避提升6%",
+		"SkillId": 11254,
+		"Type": 3
+	},
+	{
+		"SkillEff": "闪避提升7%",
+		"SkillId": 11264,
+		"Type": 3
+	},
+	{
+		"SkillEff": "46%+4800伤害",
+		"SkillId": 376,
+		"Type": 1
+	},
+	{
+		"SkillEff": "50%+5800伤害",
+		"SkillId": 11301,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+6800伤害",
+		"SkillId": 11311,
+		"Type": 1
+	},
+	{
+		"SkillEff": "58%+7800伤害",
+		"SkillId": 11321,
+		"Type": 1
+	},
+	{
+		"SkillEff": "62%+8800伤害",
+		"SkillId": 11331,
+		"Type": 1
+	},
+	{
+		"SkillEff": "66%+9800伤害",
+		"SkillId": 11341,
+		"Type": 1
+	},
+	{
+		"SkillEff": "72%+11000伤害",
+		"SkillId": 11351,
+		"Type": 1
+	},
+	{
+		"SkillEff": "80%+13000伤害",
+		"SkillId": 11361,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加暴伤",
+		"SkillId": 6401,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加暴伤",
+		"SkillId": 11312,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加暴伤",
+		"SkillId": 11322,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加暴伤",
+		"SkillId": 11332,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加暴伤",
+		"SkillId": 11342,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加暴伤",
+		"SkillId": 11352,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加暴伤",
+		"SkillId": 11362,
+		"Type": 2
+	},
+	{
+		"SkillEff": "50%概率追击",
+		"SkillId": 6402,
+		"Type": 2
+	},
+	{
+		"SkillEff": "51%概率追击",
+		"SkillId": 11323,
+		"Type": 2
+	},
+	{
+		"SkillEff": "52%概率追击",
+		"SkillId": 11333,
+		"Type": 2
+	},
+	{
+		"SkillEff": "53%概率追击",
+		"SkillId": 11343,
+		"Type": 2
+	},
+	{
+		"SkillEff": "55%概率追击",
+		"SkillId": 11353,
+		"Type": 2
+	},
+	{
+		"SkillEff": "57%概率追击",
+		"SkillId": 11363,
+		"Type": 2
+	},
+	{
+		"SkillEff": "攻击增加15%/15%/30%",
+		"SkillId": 6403,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加16%/16%/31%",
+		"SkillId": 11334,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加17%/17%/32%",
+		"SkillId": 11344,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加18%/18%/33%",
+		"SkillId": 11354,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加19%/19%/34%",
+		"SkillId": 11364,
+		"Type": 3
+	},
+	{
+		"SkillEff": "29%+4200伤害",
+		"SkillId": 377,
+		"Type": 1
+	},
+	{
+		"SkillEff": "32%+5200伤害",
+		"SkillId": 11401,
+		"Type": 1
+	},
+	{
+		"SkillEff": "35%+6200伤害",
+		"SkillId": 11411,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+7200伤害",
+		"SkillId": 11421,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+8200伤害",
+		"SkillId": 11431,
+		"Type": 1
+	},
+	{
+		"SkillEff": "44%+9200伤害",
+		"SkillId": 11441,
+		"Type": 1
+	},
+	{
+		"SkillEff": "48%+10000伤害",
+		"SkillId": 11451,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+12000伤害",
+		"SkillId": 11461,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加伤加",
+		"SkillId": 6411,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加伤加",
+		"SkillId": 11412,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加伤加",
+		"SkillId": 11422,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加伤加",
+		"SkillId": 11432,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加伤加",
+		"SkillId": 11442,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加伤加",
+		"SkillId": 11452,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加伤加",
+		"SkillId": 11462,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加盾",
+		"SkillId": 6412,
+		"Type": 2
+	},
+	{
+		"SkillEff": "21%概率加盾",
+		"SkillId": 11423,
+		"Type": 2
+	},
+	{
+		"SkillEff": "22%概率加盾",
+		"SkillId": 11433,
+		"Type": 2
+	},
+	{
+		"SkillEff": "23%概率加盾",
+		"SkillId": 11443,
+		"Type": 2
+	},
+	{
+		"SkillEff": "24%概率加盾",
+		"SkillId": 11453,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加盾",
+		"SkillId": 11463,
+		"Type": 2
+	},
+	{
+		"SkillEff": "防御增加15%/15%/30%",
+		"SkillId": 6413,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御增加16%/16%/31%",
+		"SkillId": 11434,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御增加17%/17%/32%",
+		"SkillId": 11444,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御增加18%/18%/33%",
+		"SkillId": 11454,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御增加19%/19%/34%",
+		"SkillId": 11464,
+		"Type": 3
+	},
+	{
+		"SkillEff": "10%+2000伤害",
+		"SkillId": 378,
+		"Type": 1
+	},
+	{
+		"SkillEff": "11%+2300伤害",
+		"SkillId": 11501,
+		"Type": 1
+	},
+	{
+		"SkillEff": "12%+2600伤害",
+		"SkillId": 11511,
+		"Type": 1
+	},
+	{
+		"SkillEff": "13%+2900伤害",
+		"SkillId": 11521,
+		"Type": 1
+	},
+	{
+		"SkillEff": "14%+3200伤害",
+		"SkillId": 11531,
+		"Type": 1
+	},
+	{
+		"SkillEff": "15%+3500伤害",
+		"SkillId": 11541,
+		"Type": 1
+	},
+	{
+		"SkillEff": "17%+4000伤害",
+		"SkillId": 11551,
+		"Type": 1
+	},
+	{
+		"SkillEff": "19%+5000伤害",
+		"SkillId": 11561,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加攻",
+		"SkillId": 6421,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加攻",
+		"SkillId": 11512,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加攻",
+		"SkillId": 11522,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加攻",
+		"SkillId": 11532,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加攻",
+		"SkillId": 11542,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加攻",
+		"SkillId": 11552,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加攻",
+		"SkillId": 11562,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加1.5倍",
+		"SkillId": 6422,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加1.6倍",
+		"SkillId": 11523,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加1.7倍",
+		"SkillId": 11533,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加1.8倍",
+		"SkillId": 11543,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加1.9倍",
+		"SkillId": 11553,
+		"Type": 2
+	},
+	{
+		"SkillEff": "触发概率增加2倍",
+		"SkillId": 11563,
+		"Type": 2
+	},
+	{
+		"SkillEff": "暴伤增加15%/15%/30%",
+		"SkillId": 6423,
+		"Type": 3
+	},
+	{
+		"SkillEff": "暴伤增加16%/16%/31%",
+		"SkillId": 11534,
+		"Type": 3
+	},
+	{
+		"SkillEff": "暴伤增加17%/17%/32%",
+		"SkillId": 11544,
+		"Type": 3
+	},
+	{
+		"SkillEff": "暴伤增加18%/18%/33%",
+		"SkillId": 11554,
+		"Type": 3
+	},
+	{
+		"SkillEff": "暴伤增加19%/19%/34%",
+		"SkillId": 11564,
+		"Type": 3
+	},
+	{
+		"SkillEff": "30%+3100伤害",
+		"SkillId": 379,
+		"Type": 1
+	},
+	{
+		"SkillEff": "34%+4100伤害",
+		"SkillId": 11601,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+5100伤害",
+		"SkillId": 11611,
+		"Type": 1
+	},
+	{
+		"SkillEff": "42%+6100伤害",
+		"SkillId": 11621,
+		"Type": 1
+	},
+	{
+		"SkillEff": "46%+7100伤害",
+		"SkillId": 11631,
+		"Type": 1
+	},
+	{
+		"SkillEff": "50%+8100伤害",
+		"SkillId": 11641,
+		"Type": 1
+	},
+	{
+		"SkillEff": "56%+9100伤害",
+		"SkillId": 11651,
+		"Type": 1
+	},
+	{
+		"SkillEff": "64%+10100伤害",
+		"SkillId": 11661,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加暴伤",
+		"SkillId": 6431,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加暴伤",
+		"SkillId": 11612,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加暴伤",
+		"SkillId": 11622,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加暴伤",
+		"SkillId": 11632,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加暴伤",
+		"SkillId": 11642,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加暴伤",
+		"SkillId": 11652,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加暴伤",
+		"SkillId": 11662,
+		"Type": 2
+	},
+	{
+		"SkillEff": "50%概率变身",
+		"SkillId": 6432,
+		"Type": 2
+	},
+	{
+		"SkillEff": "60%概率变身",
+		"SkillId": 11623,
+		"Type": 2
+	},
+	{
+		"SkillEff": "70%概率变身",
+		"SkillId": 11633,
+		"Type": 2
+	},
+	{
+		"SkillEff": "80%概率变身",
+		"SkillId": 11643,
+		"Type": 2
+	},
+	{
+		"SkillEff": "85%概率变身",
+		"SkillId": 11653,
+		"Type": 2
+	},
+	{
+		"SkillEff": "89%概率变身",
+		"SkillId": 11663,
+		"Type": 2
+	},
+	{
+		"SkillEff": "攻击增加15%/15%",
+		"SkillId": 6433,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加16%/16%",
+		"SkillId": 11634,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加17%/17%",
+		"SkillId": 11644,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加18%/18%",
+		"SkillId": 11654,
+		"Type": 3
+	},
+	{
+		"SkillEff": "攻击增加19%/19%",
+		"SkillId": 11664,
+		"Type": 3
+	},
+	{
+		"SkillEff": "22%+3200伤害",
+		"SkillId": 380,
+		"Type": 1
+	},
+	{
+		"SkillEff": "25%+4200伤害",
+		"SkillId": 11701,
+		"Type": 1
+	},
+	{
+		"SkillEff": "28%+5200伤害",
+		"SkillId": 11711,
+		"Type": 1
+	},
+	{
+		"SkillEff": "31%+6200伤害",
+		"SkillId": 11721,
+		"Type": 1
+	},
+	{
+		"SkillEff": "34%+7200伤害",
+		"SkillId": 11731,
+		"Type": 1
+	},
+	{
+		"SkillEff": "37%+8200伤害",
+		"SkillId": 11741,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+9200伤害",
+		"SkillId": 11751,
+		"Type": 1
+	},
+	{
+		"SkillEff": "47%+10200伤害",
+		"SkillId": 11761,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加攻",
+		"SkillId": 6441,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加攻",
+		"SkillId": 11712,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加攻",
+		"SkillId": 11722,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加攻",
+		"SkillId": 11732,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加攻",
+		"SkillId": 11742,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加攻",
+		"SkillId": 11752,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加攻",
+		"SkillId": 11762,
+		"Type": 2
+	},
+	{
+		"SkillEff": "10%+2000伤害",
+		"SkillId": 6442,
+		"Type": 2
+	},
+	{
+		"SkillEff": "11%+3000伤害",
+		"SkillId": 11723,
+		"Type": 2
+	},
+	{
+		"SkillEff": "12%+4000伤害",
+		"SkillId": 11733,
+		"Type": 2
+	},
+	{
+		"SkillEff": "13%+5000伤害",
+		"SkillId": 11743,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%+6000伤害",
+		"SkillId": 11753,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%+7000伤害",
+		"SkillId": 11763,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVP伤害增加10%",
+		"SkillId": 6443,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害增加12%",
+		"SkillId": 11734,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害增加14%",
+		"SkillId": 11744,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害增加16%",
+		"SkillId": 11754,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害增加18%",
+		"SkillId": 11764,
+		"Type": 3
+	},
+	{
+		"SkillEff": "29%+4200伤害",
+		"SkillId": 382,
+		"Type": 1
+	},
+	{
+		"SkillEff": "32%+5200伤害",
+		"SkillId": 11801,
+		"Type": 1
+	},
+	{
+		"SkillEff": "35%+6200伤害",
+		"SkillId": 11811,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+7200伤害",
+		"SkillId": 11821,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+8200伤害",
+		"SkillId": 11831,
+		"Type": 1
+	},
+	{
+		"SkillEff": "44%+9200伤害",
+		"SkillId": 11841,
+		"Type": 1
+	},
+	{
+		"SkillEff": "48%+10000伤害",
+		"SkillId": 11851,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+12000伤害",
+		"SkillId": 11861,
+		"Type": 1
+	},
+	{
+		"SkillEff": "10%概率加伤加",
+		"SkillId": 6451,
+		"Type": 2
+	},
+	{
+		"SkillEff": "15%概率加伤加",
+		"SkillId": 11812,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%概率加伤加",
+		"SkillId": 11822,
+		"Type": 2
+	},
+	{
+		"SkillEff": "25%概率加伤加",
+		"SkillId": 11832,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%概率加伤加",
+		"SkillId": 11842,
+		"Type": 2
+	},
+	{
+		"SkillEff": "35%概率加伤加",
+		"SkillId": 11852,
+		"Type": 2
+	},
+	{
+		"SkillEff": "40%概率加伤加",
+		"SkillId": 11862,
+		"Type": 2
+	},
+	{
+		"SkillEff": "20%生命，70%复活",
+		"SkillId": 6452,
+		"Type": 2
+	},
+	{
+		"SkillEff": "22%生命，75%复活",
+		"SkillId": 11823,
+		"Type": 2
+	},
+	{
+		"SkillEff": "24%生命，80%复活",
+		"SkillId": 11833,
+		"Type": 2
+	},
+	{
+		"SkillEff": "26%生命，85%复活",
+		"SkillId": 11843,
+		"Type": 2
+	},
+	{
+		"SkillEff": "28%生命，90%复活",
+		"SkillId": 11853,
+		"Type": 2
+	},
+	{
+		"SkillEff": "30%生命，95%复活",
+		"SkillId": 11863,
+		"Type": 2
+	},
+	{
+		"SkillEff": "PVP伤害减少10%反弹50%",
+		"SkillId": 6453,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害减少12%反弹60%",
+		"SkillId": 11834,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害减少14%反弹70%",
+		"SkillId": 11844,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害减少16%反弹80%",
+		"SkillId": 11854,
+		"Type": 3
+	},
+	{
+		"SkillEff": "PVP伤害减少18%反弹90%",
+		"SkillId": 11864,
+		"Type": 3
+	},
+	{
+		"SkillEff": "29%+4200伤害",
+		"SkillId": 383,
+		"Type": 1
+	},
+	{
+		"SkillEff": "32%+5200伤害",
+		"SkillId": 11901,
+		"Type": 1
+	},
+	{
+		"SkillEff": "35%+6200伤害",
+		"SkillId": 11911,
+		"Type": 1
+	},
+	{
+		"SkillEff": "38%+7200伤害",
+		"SkillId": 11921,
+		"Type": 1
+	},
+	{
+		"SkillEff": "41%+8200伤害",
+		"SkillId": 11931,
+		"Type": 1
+	},
+	{
+		"SkillEff": "44%+9200伤害",
+		"SkillId": 11941,
+		"Type": 1
+	},
+	{
+		"SkillEff": "48%+10000伤害",
+		"SkillId": 11951,
+		"Type": 1
+	},
+	{
+		"SkillEff": "54%+12000伤害",
+		"SkillId": 11961,
+		"Type": 1
+	},
+	{
+		"SkillEff": "增防30%",
+		"SkillId": 6454,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防40%",
+		"SkillId": 11912,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防50%",
+		"SkillId": 11922,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防60%",
+		"SkillId": 11932,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防70%",
+		"SkillId": 11942,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防80%",
+		"SkillId": 11952,
+		"Type": 2
+	},
+	{
+		"SkillEff": "增防90%",
+		"SkillId": 11962,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排50%，后排10%",
+		"SkillId": 6455,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排58%，后排14%",
+		"SkillId": 11923,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排66%，后排18%",
+		"SkillId": 11933,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排74%，后排22%",
+		"SkillId": 11943,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排82%，后排26%",
+		"SkillId": 11953,
+		"Type": 2
+	},
+	{
+		"SkillEff": "前排90%，后排30%",
+		"SkillId": 11963,
+		"Type": 2
+	},
+	{
+		"SkillEff": "防御15%/15%反弹50%",
+		"SkillId": 6456,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御16%/16%反弹60%",
+		"SkillId": 11934,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御17%/17%反弹70%",
+		"SkillId": 11944,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御18%/18%反弹80%",
+		"SkillId": 11954,
+		"Type": 3
+	},
+	{
+		"SkillEff": "防御19%/19%反弹90%",
+		"SkillId": 11964,
+		"Type": 3
+	}
+]

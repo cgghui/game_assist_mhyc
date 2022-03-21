@@ -1,0 +1,404 @@
+[
+	{
+		"Id": 1,
+		"MaxId": 10,
+		"MinId": 1,
+		"Para": 1500
+	},
+	{
+		"Id": 2,
+		"MaxId": 30,
+		"MinId": 11,
+		"Para": 1000
+	},
+	{
+		"Id": 3,
+		"MaxId": 60,
+		"MinId": 31,
+		"Para": 700
+	},
+	{
+		"Id": 4,
+		"MaxId": 90,
+		"MinId": 61,
+		"Para": 500
+	},
+	{
+		"Id": 5,
+		"MaxId": 120,
+		"MinId": 91,
+		"Para": 500
+	},
+	{
+		"Id": 6,
+		"MaxId": 150,
+		"MinId": 121,
+		"Para": 500
+	},
+	{
+		"Id": 7,
+		"MaxId": 180,
+		"MinId": 151,
+		"Para": 500
+	},
+	{
+		"Id": 8,
+		"MaxId": 210,
+		"MinId": 181,
+		"Para": 500
+	},
+	{
+		"Id": 9,
+		"MaxId": 240,
+		"MinId": 211,
+		"Para": 500
+	},
+	{
+		"Id": 10,
+		"MaxId": 270,
+		"MinId": 241,
+		"Para": 500
+	},
+	{
+		"Id": 11,
+		"MaxId": 300,
+		"MinId": 271,
+		"Para": 500
+	},
+	{
+		"Id": 12,
+		"MaxId": 330,
+		"MinId": 301,
+		"Para": 500
+	},
+	{
+		"Id": 13,
+		"MaxId": 360,
+		"MinId": 331,
+		"Para": 500
+	},
+	{
+		"Id": 14,
+		"MaxId": 390,
+		"MinId": 361,
+		"Para": 500
+	},
+	{
+		"Id": 15,
+		"MaxId": 420,
+		"MinId": 391,
+		"Para": 500
+	},
+	{
+		"Id": 16,
+		"MaxId": 450,
+		"MinId": 421,
+		"Para": 500
+	},
+	{
+		"Id": 17,
+		"MaxId": 480,
+		"MinId": 451,
+		"Para": 500
+	},
+	{
+		"Id": 18,
+		"MaxId": 510,
+		"MinId": 481,
+		"Para": 500
+	},
+	{
+		"Id": 19,
+		"MaxId": 540,
+		"MinId": 511,
+		"Para": 500
+	},
+	{
+		"Id": 20,
+		"MaxId": 570,
+		"MinId": 541,
+		"Para": 500
+	},
+	{
+		"Id": 21,
+		"MaxId": 600,
+		"MinId": 571,
+		"Para": 500
+	},
+	{
+		"Id": 22,
+		"MaxId": 630,
+		"MinId": 601,
+		"Para": 500
+	},
+	{
+		"Id": 23,
+		"MaxId": 660,
+		"MinId": 631,
+		"Para": 500
+	},
+	{
+		"Id": 24,
+		"MaxId": 690,
+		"MinId": 661,
+		"Para": 500
+	},
+	{
+		"Id": 25,
+		"MaxId": 720,
+		"MinId": 691,
+		"Para": 500
+	},
+	{
+		"Id": 26,
+		"MaxId": 750,
+		"MinId": 721,
+		"Para": 500
+	},
+	{
+		"Id": 27,
+		"MaxId": 780,
+		"MinId": 751,
+		"Para": 500
+	},
+	{
+		"Id": 28,
+		"MaxId": 810,
+		"MinId": 781,
+		"Para": 500
+	},
+	{
+		"Id": 29,
+		"MaxId": 840,
+		"MinId": 811,
+		"Para": 500
+	},
+	{
+		"Id": 30,
+		"MaxId": 870,
+		"MinId": 841,
+		"Para": 500
+	},
+	{
+		"Id": 31,
+		"MaxId": 900,
+		"MinId": 871,
+		"Para": 500
+	},
+	{
+		"Id": 32,
+		"MaxId": 930,
+		"MinId": 901,
+		"Para": 500
+	},
+	{
+		"Id": 33,
+		"MaxId": 960,
+		"MinId": 931,
+		"Para": 500
+	},
+	{
+		"Id": 34,
+		"MaxId": 990,
+		"MinId": 961,
+		"Para": 500
+	},
+	{
+		"Id": 35,
+		"MaxId": 1020,
+		"MinId": 991,
+		"Para": 500
+	},
+	{
+		"Id": 36,
+		"MaxId": 1050,
+		"MinId": 1021,
+		"Para": 500
+	},
+	{
+		"Id": 37,
+		"MaxId": 1080,
+		"MinId": 1051,
+		"Para": 500
+	},
+	{
+		"Id": 38,
+		"MaxId": 1110,
+		"MinId": 1081,
+		"Para": 500
+	},
+	{
+		"Id": 39,
+		"MaxId": 1140,
+		"MinId": 1111,
+		"Para": 500
+	},
+	{
+		"Id": 40,
+		"MaxId": 1170,
+		"MinId": 1141,
+		"Para": 500
+	},
+	{
+		"Id": 41,
+		"MaxId": 1200,
+		"MinId": 1171,
+		"Para": 500
+	},
+	{
+		"Id": 42,
+		"MaxId": 1230,
+		"MinId": 1201,
+		"Para": 500
+	},
+	{
+		"Id": 43,
+		"MaxId": 1260,
+		"MinId": 1231,
+		"Para": 500
+	},
+	{
+		"Id": 44,
+		"MaxId": 1290,
+		"MinId": 1261,
+		"Para": 500
+	},
+	{
+		"Id": 45,
+		"MaxId": 1320,
+		"MinId": 1291,
+		"Para": 500
+	},
+	{
+		"Id": 46,
+		"MaxId": 1350,
+		"MinId": 1321,
+		"Para": 500
+	},
+	{
+		"Id": 47,
+		"MaxId": 1380,
+		"MinId": 1351,
+		"Para": 500
+	},
+	{
+		"Id": 48,
+		"MaxId": 1410,
+		"MinId": 1381,
+		"Para": 500
+	},
+	{
+		"Id": 49,
+		"MaxId": 1440,
+		"MinId": 1411,
+		"Para": 500
+	},
+	{
+		"Id": 50,
+		"MaxId": 1470,
+		"MinId": 1441,
+		"Para": 500
+	},
+	{
+		"Id": 51,
+		"MaxId": 1500,
+		"MinId": 1471,
+		"Para": 500
+	},
+	{
+		"Id": 52,
+		"MaxId": 1530,
+		"MinId": 1501,
+		"Para": 500
+	},
+	{
+		"Id": 53,
+		"MaxId": 1560,
+		"MinId": 1531,
+		"Para": 500
+	},
+	{
+		"Id": 54,
+		"MaxId": 1590,
+		"MinId": 1561,
+		"Para": 500
+	},
+	{
+		"Id": 55,
+		"MaxId": 1620,
+		"MinId": 1591,
+		"Para": 500
+	},
+	{
+		"Id": 56,
+		"MaxId": 1650,
+		"MinId": 1621,
+		"Para": 500
+	},
+	{
+		"Id": 57,
+		"MaxId": 1680,
+		"MinId": 1651,
+		"Para": 500
+	},
+	{
+		"Id": 58,
+		"MaxId": 1710,
+		"MinId": 1681,
+		"Para": 500
+	},
+	{
+		"Id": 59,
+		"MaxId": 1740,
+		"MinId": 1711,
+		"Para": 500
+	},
+	{
+		"Id": 60,
+		"MaxId": 1770,
+		"MinId": 1741,
+		"Para": 500
+	},
+	{
+		"Id": 61,
+		"MaxId": 1800,
+		"MinId": 1771,
+		"Para": 500
+	},
+	{
+		"Id": 62,
+		"MaxId": 1830,
+		"MinId": 1801,
+		"Para": 500
+	},
+	{
+		"Id": 63,
+		"MaxId": 1860,
+		"MinId": 1831,
+		"Para": 500
+	},
+	{
+		"Id": 64,
+		"MaxId": 1890,
+		"MinId": 1861,
+		"Para": 500
+	},
+	{
+		"Id": 65,
+		"MaxId": 1920,
+		"MinId": 1891,
+		"Para": 500
+	},
+	{
+		"Id": 66,
+		"MaxId": 1950,
+		"MinId": 1921,
+		"Para": 500
+	},
+	{
+		"Id": 67,
+		"MaxId": 1980,
+		"MinId": 1951,
+		"Para": 500
+	}
+]

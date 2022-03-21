@@ -1,0 +1,18 @@
+[
+	{
+		"CfgKey": "BusinessFastCost",
+		"CfgValue": "1:100"
+	},
+	{
+		"CfgKey": "BusinessDayTimes",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "BusinessPointStay",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "BusinessBuyTypeMax",
+		"CfgValue": "3"
+	}
+]

@@ -1,0 +1,982 @@
+[
+	{
+		"BaseAttr": 3300001,
+		"CollectId": 1,
+		"Count": 2,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300002,
+		"CollectId": 2,
+		"Count": 4,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300003,
+		"CollectId": 3,
+		"Count": 6,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300004,
+		"CollectId": 4,
+		"Count": 8,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300005,
+		"CollectId": 5,
+		"Count": 10,
+		"Id": 1,
+		"Lev": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300006,
+		"CollectId": 6,
+		"Count": 2,
+		"Id": 1,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300007,
+		"CollectId": 7,
+		"Count": 4,
+		"Id": 1,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300008,
+		"CollectId": 8,
+		"Count": 6,
+		"Id": 1,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300009,
+		"CollectId": 9,
+		"Count": 8,
+		"Id": 1,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300010,
+		"CollectId": 10,
+		"Count": 10,
+		"Id": 1,
+		"Lev": 2,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300011,
+		"CollectId": 11,
+		"Count": 2,
+		"Id": 1,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300012,
+		"CollectId": 12,
+		"Count": 4,
+		"Id": 1,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300013,
+		"CollectId": 13,
+		"Count": 6,
+		"Id": 1,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300014,
+		"CollectId": 14,
+		"Count": 8,
+		"Id": 1,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300015,
+		"CollectId": 15,
+		"Count": 10,
+		"Id": 1,
+		"Lev": 3,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300016,
+		"CollectId": 16,
+		"Count": 2,
+		"Id": 1,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300017,
+		"CollectId": 17,
+		"Count": 4,
+		"Id": 1,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300018,
+		"CollectId": 18,
+		"Count": 6,
+		"Id": 1,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300019,
+		"CollectId": 19,
+		"Count": 8,
+		"Id": 1,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300020,
+		"CollectId": 20,
+		"Count": 10,
+		"Id": 1,
+		"Lev": 4,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300021,
+		"CollectId": 21,
+		"Count": 2,
+		"Id": 1,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300022,
+		"CollectId": 22,
+		"Count": 4,
+		"Id": 1,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300023,
+		"CollectId": 23,
+		"Count": 6,
+		"Id": 1,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300024,
+		"CollectId": 24,
+		"Count": 8,
+		"Id": 1,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300025,
+		"CollectId": 25,
+		"Count": 10,
+		"Id": 1,
+		"Lev": 5,
+		"SuitSkillLev": 5
+	},
+	{
+		"BaseAttr": 3300026,
+		"CollectId": 1,
+		"Count": 2,
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300027,
+		"CollectId": 2,
+		"Count": 4,
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300028,
+		"CollectId": 3,
+		"Count": 6,
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300029,
+		"CollectId": 4,
+		"Count": 8,
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300030,
+		"CollectId": 5,
+		"Count": 10,
+		"Id": 2,
+		"Lev": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300031,
+		"CollectId": 6,
+		"Count": 2,
+		"Id": 2,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300032,
+		"CollectId": 7,
+		"Count": 4,
+		"Id": 2,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300033,
+		"CollectId": 8,
+		"Count": 6,
+		"Id": 2,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300034,
+		"CollectId": 9,
+		"Count": 8,
+		"Id": 2,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300035,
+		"CollectId": 10,
+		"Count": 10,
+		"Id": 2,
+		"Lev": 2,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300036,
+		"CollectId": 11,
+		"Count": 2,
+		"Id": 2,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300037,
+		"CollectId": 12,
+		"Count": 4,
+		"Id": 2,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300038,
+		"CollectId": 13,
+		"Count": 6,
+		"Id": 2,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300039,
+		"CollectId": 14,
+		"Count": 8,
+		"Id": 2,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300040,
+		"CollectId": 15,
+		"Count": 10,
+		"Id": 2,
+		"Lev": 3,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300041,
+		"CollectId": 16,
+		"Count": 2,
+		"Id": 2,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300042,
+		"CollectId": 17,
+		"Count": 4,
+		"Id": 2,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300043,
+		"CollectId": 18,
+		"Count": 6,
+		"Id": 2,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300044,
+		"CollectId": 19,
+		"Count": 8,
+		"Id": 2,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300045,
+		"CollectId": 20,
+		"Count": 10,
+		"Id": 2,
+		"Lev": 4,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300046,
+		"CollectId": 21,
+		"Count": 2,
+		"Id": 2,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300047,
+		"CollectId": 22,
+		"Count": 4,
+		"Id": 2,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300048,
+		"CollectId": 23,
+		"Count": 6,
+		"Id": 2,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300049,
+		"CollectId": 24,
+		"Count": 8,
+		"Id": 2,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300050,
+		"CollectId": 25,
+		"Count": 10,
+		"Id": 2,
+		"Lev": 5,
+		"SuitSkillLev": 5
+	},
+	{
+		"BaseAttr": 3300051,
+		"CollectId": 1,
+		"Count": 2,
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300052,
+		"CollectId": 2,
+		"Count": 4,
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300053,
+		"CollectId": 3,
+		"Count": 6,
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300054,
+		"CollectId": 4,
+		"Count": 8,
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300055,
+		"CollectId": 5,
+		"Count": 10,
+		"Id": 3,
+		"Lev": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300056,
+		"CollectId": 6,
+		"Count": 2,
+		"Id": 3,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300057,
+		"CollectId": 7,
+		"Count": 4,
+		"Id": 3,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300058,
+		"CollectId": 8,
+		"Count": 6,
+		"Id": 3,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300059,
+		"CollectId": 9,
+		"Count": 8,
+		"Id": 3,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300060,
+		"CollectId": 10,
+		"Count": 10,
+		"Id": 3,
+		"Lev": 2,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300061,
+		"CollectId": 11,
+		"Count": 2,
+		"Id": 3,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300062,
+		"CollectId": 12,
+		"Count": 4,
+		"Id": 3,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300063,
+		"CollectId": 13,
+		"Count": 6,
+		"Id": 3,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300064,
+		"CollectId": 14,
+		"Count": 8,
+		"Id": 3,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300065,
+		"CollectId": 15,
+		"Count": 10,
+		"Id": 3,
+		"Lev": 3,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300066,
+		"CollectId": 16,
+		"Count": 2,
+		"Id": 3,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300067,
+		"CollectId": 17,
+		"Count": 4,
+		"Id": 3,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300068,
+		"CollectId": 18,
+		"Count": 6,
+		"Id": 3,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300069,
+		"CollectId": 19,
+		"Count": 8,
+		"Id": 3,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300070,
+		"CollectId": 20,
+		"Count": 10,
+		"Id": 3,
+		"Lev": 4,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300071,
+		"CollectId": 21,
+		"Count": 2,
+		"Id": 3,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300072,
+		"CollectId": 22,
+		"Count": 4,
+		"Id": 3,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300073,
+		"CollectId": 23,
+		"Count": 6,
+		"Id": 3,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300074,
+		"CollectId": 24,
+		"Count": 8,
+		"Id": 3,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300075,
+		"CollectId": 25,
+		"Count": 10,
+		"Id": 3,
+		"Lev": 5,
+		"SuitSkillLev": 5
+	},
+	{
+		"BaseAttr": 3300076,
+		"CollectId": 1,
+		"Count": 2,
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300077,
+		"CollectId": 2,
+		"Count": 4,
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300078,
+		"CollectId": 3,
+		"Count": 6,
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300079,
+		"CollectId": 4,
+		"Count": 8,
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300080,
+		"CollectId": 5,
+		"Count": 10,
+		"Id": 4,
+		"Lev": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300081,
+		"CollectId": 6,
+		"Count": 2,
+		"Id": 4,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300082,
+		"CollectId": 7,
+		"Count": 4,
+		"Id": 4,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300083,
+		"CollectId": 8,
+		"Count": 6,
+		"Id": 4,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300084,
+		"CollectId": 9,
+		"Count": 8,
+		"Id": 4,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300085,
+		"CollectId": 10,
+		"Count": 10,
+		"Id": 4,
+		"Lev": 2,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300086,
+		"CollectId": 11,
+		"Count": 2,
+		"Id": 4,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300087,
+		"CollectId": 12,
+		"Count": 4,
+		"Id": 4,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300088,
+		"CollectId": 13,
+		"Count": 6,
+		"Id": 4,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300089,
+		"CollectId": 14,
+		"Count": 8,
+		"Id": 4,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300090,
+		"CollectId": 15,
+		"Count": 10,
+		"Id": 4,
+		"Lev": 3,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300091,
+		"CollectId": 16,
+		"Count": 2,
+		"Id": 4,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300092,
+		"CollectId": 17,
+		"Count": 4,
+		"Id": 4,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300093,
+		"CollectId": 18,
+		"Count": 6,
+		"Id": 4,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300094,
+		"CollectId": 19,
+		"Count": 8,
+		"Id": 4,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300095,
+		"CollectId": 20,
+		"Count": 10,
+		"Id": 4,
+		"Lev": 4,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300096,
+		"CollectId": 21,
+		"Count": 2,
+		"Id": 4,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300097,
+		"CollectId": 22,
+		"Count": 4,
+		"Id": 4,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300098,
+		"CollectId": 23,
+		"Count": 6,
+		"Id": 4,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300099,
+		"CollectId": 24,
+		"Count": 8,
+		"Id": 4,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300100,
+		"CollectId": 25,
+		"Count": 10,
+		"Id": 4,
+		"Lev": 5,
+		"SuitSkillLev": 5
+	},
+	{
+		"BaseAttr": 3300101,
+		"CollectId": 1,
+		"Count": 2,
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300102,
+		"CollectId": 2,
+		"Count": 4,
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300103,
+		"CollectId": 3,
+		"Count": 6,
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300104,
+		"CollectId": 4,
+		"Count": 8,
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300105,
+		"CollectId": 5,
+		"Count": 10,
+		"Id": 5,
+		"Lev": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300106,
+		"CollectId": 6,
+		"Count": 2,
+		"Id": 5,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300107,
+		"CollectId": 7,
+		"Count": 4,
+		"Id": 5,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300108,
+		"CollectId": 8,
+		"Count": 6,
+		"Id": 5,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300109,
+		"CollectId": 9,
+		"Count": 8,
+		"Id": 5,
+		"Lev": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"BaseAttr": 3300110,
+		"CollectId": 10,
+		"Count": 10,
+		"Id": 5,
+		"Lev": 2,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300111,
+		"CollectId": 11,
+		"Count": 2,
+		"Id": 5,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300112,
+		"CollectId": 12,
+		"Count": 4,
+		"Id": 5,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300113,
+		"CollectId": 13,
+		"Count": 6,
+		"Id": 5,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300114,
+		"CollectId": 14,
+		"Count": 8,
+		"Id": 5,
+		"Lev": 3,
+		"SuitSkillLev": 2
+	},
+	{
+		"BaseAttr": 3300115,
+		"CollectId": 15,
+		"Count": 10,
+		"Id": 5,
+		"Lev": 3,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300116,
+		"CollectId": 16,
+		"Count": 2,
+		"Id": 5,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300117,
+		"CollectId": 17,
+		"Count": 4,
+		"Id": 5,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300118,
+		"CollectId": 18,
+		"Count": 6,
+		"Id": 5,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300119,
+		"CollectId": 19,
+		"Count": 8,
+		"Id": 5,
+		"Lev": 4,
+		"SuitSkillLev": 3
+	},
+	{
+		"BaseAttr": 3300120,
+		"CollectId": 20,
+		"Count": 10,
+		"Id": 5,
+		"Lev": 4,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300121,
+		"CollectId": 21,
+		"Count": 2,
+		"Id": 5,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300122,
+		"CollectId": 22,
+		"Count": 4,
+		"Id": 5,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300123,
+		"CollectId": 23,
+		"Count": 6,
+		"Id": 5,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300124,
+		"CollectId": 24,
+		"Count": 8,
+		"Id": 5,
+		"Lev": 5,
+		"SuitSkillLev": 4
+	},
+	{
+		"BaseAttr": 3300125,
+		"CollectId": 25,
+		"Count": 10,
+		"Id": 5,
+		"Lev": 5,
+		"SuitSkillLev": 5
+	}
+]

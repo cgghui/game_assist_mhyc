@@ -1,0 +1,26 @@
+[
+	{
+		"Condition": "1:3",
+		"Times": 1
+	},
+	{
+		"Condition": "1:5",
+		"Times": 2
+	},
+	{
+		"Condition": "1:6",
+		"Times": 3
+	},
+	{
+		"Condition": "1:7",
+		"Times": 4
+	},
+	{
+		"Condition": "1:8",
+		"Times": 5
+	},
+	{
+		"Condition": "1:9",
+		"Times": 6
+	}
+]

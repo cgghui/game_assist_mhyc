@@ -1,0 +1,608 @@
+[
+	{
+		"AnimId": 1,
+		"Code": "#1",
+		"Id": 1,
+		"Name": "开心"
+	},
+	{
+		"AnimId": 2,
+		"Code": "#2",
+		"Id": 2,
+		"Name": "尬笑"
+	},
+	{
+		"AnimId": 3,
+		"Code": "#3",
+		"Id": 3,
+		"Name": "笑哭"
+	},
+	{
+		"AnimId": 4,
+		"Code": "#4",
+		"Id": 4,
+		"Name": "可爱"
+	},
+	{
+		"AnimId": 5,
+		"Code": "#5",
+		"Id": 5,
+		"Name": "喜欢"
+	},
+	{
+		"AnimId": 6,
+		"Code": "#6",
+		"Id": 6,
+		"Name": "冒星"
+	},
+	{
+		"AnimId": 7,
+		"Code": "#7",
+		"Id": 7,
+		"Name": "飞吻"
+	},
+	{
+		"AnimId": 8,
+		"Code": "#8",
+		"Id": 8,
+		"Name": "亲亲"
+	},
+	{
+		"AnimId": 9,
+		"Code": "#9",
+		"Id": 9,
+		"Name": "鬼脸"
+	},
+	{
+		"AnimId": 10,
+		"Code": "#10",
+		"Id": 10,
+		"Name": "调皮"
+	},
+	{
+		"AnimId": 11,
+		"Code": "#11",
+		"Id": 11,
+		"Name": "捂嘴笑"
+	},
+	{
+		"AnimId": 12,
+		"Code": "#12",
+		"Id": 12,
+		"Name": "闭嘴"
+	},
+	{
+		"AnimId": 13,
+		"Code": "#13",
+		"Id": 13,
+		"Name": "嫌弃"
+	},
+	{
+		"AnimId": 14,
+		"Code": "#14",
+		"Id": 14,
+		"Name": "白眼"
+	},
+	{
+		"AnimId": 15,
+		"Code": "#15",
+		"Id": 15,
+		"Name": "尴尬"
+	},
+	{
+		"AnimId": 16,
+		"Code": "#16",
+		"Id": 16,
+		"Name": "睡觉"
+	},
+	{
+		"AnimId": 17,
+		"Code": "#17",
+		"Id": 17,
+		"Name": "口罩"
+	},
+	{
+		"AnimId": 18,
+		"Code": "#18",
+		"Id": 18,
+		"Name": "呕吐"
+	},
+	{
+		"AnimId": 19,
+		"Code": "#19",
+		"Id": 19,
+		"Name": "酷"
+	},
+	{
+		"AnimId": 20,
+		"Code": "#20",
+		"Id": 20,
+		"Name": "惊讶"
+	},
+	{
+		"AnimId": 21,
+		"Code": "#21",
+		"Id": 21,
+		"Name": "呆萌"
+	},
+	{
+		"AnimId": 22,
+		"Code": "#22",
+		"Id": 22,
+		"Name": "大哭"
+	},
+	{
+		"AnimId": 23,
+		"Code": "#23",
+		"Id": 23,
+		"Name": "震惊"
+	},
+	{
+		"AnimId": 24,
+		"Code": "#24",
+		"Id": 24,
+		"Name": "打哈欠"
+	},
+	{
+		"AnimId": 25,
+		"Code": "#25",
+		"Id": 25,
+		"Name": "生气"
+	},
+	{
+		"AnimId": 26,
+		"Code": "#26",
+		"Id": 26,
+		"Name": "脏话"
+	},
+	{
+		"AnimId": 27,
+		"Code": "#27",
+		"Id": 27,
+		"Name": "骷髅"
+	},
+	{
+		"AnimId": 28,
+		"Code": "#28",
+		"Id": 28,
+		"Name": "外星人"
+	},
+	{
+		"AnimId": 29,
+		"Code": "#29",
+		"Id": 29,
+		"Name": "红唇"
+	},
+	{
+		"AnimId": 30,
+		"Code": "#30",
+		"Id": 30,
+		"Name": "心碎"
+	},
+	{
+		"AnimId": 31,
+		"Code": "#31",
+		"Id": 31,
+		"Name": "爱心"
+	},
+	{
+		"AnimId": 101,
+		"Code": "#101",
+		"Group": 1,
+		"Id": 101,
+		"Name": "啊~~女"
+	},
+	{
+		"AnimId": 102,
+		"Code": "#102",
+		"Group": 1,
+		"Id": 102,
+		"Name": "啊~~男"
+	},
+	{
+		"AnimId": 103,
+		"Code": "#103",
+		"Group": 1,
+		"Id": 103,
+		"Name": "看不见"
+	},
+	{
+		"AnimId": 104,
+		"Code": "#104",
+		"Group": 1,
+		"Id": 104,
+		"Name": "偷笑"
+	},
+	{
+		"AnimId": 105,
+		"Code": "#105",
+		"Group": 1,
+		"Id": 105,
+		"Name": "可爱"
+	},
+	{
+		"AnimId": 106,
+		"Code": "#106",
+		"Group": 1,
+		"Id": 106,
+		"Name": "邪恶"
+	},
+	{
+		"AnimId": 107,
+		"Code": "#107",
+		"Group": 1,
+		"Id": 107,
+		"Name": "酷"
+	},
+	{
+		"AnimId": 108,
+		"Code": "#108",
+		"Group": 1,
+		"Id": 108,
+		"Name": "震惊"
+	},
+	{
+		"AnimId": 109,
+		"Code": "#109",
+		"Group": 1,
+		"Id": 109,
+		"Name": "坏笑"
+	},
+	{
+		"AnimId": 110,
+		"Code": "#110",
+		"Group": 1,
+		"Id": 110,
+		"Name": "傻笑"
+	},
+	{
+		"AnimId": 111,
+		"Code": "#111",
+		"Group": 1,
+		"Id": 111,
+		"Name": "呆萌"
+	},
+	{
+		"AnimId": 112,
+		"Code": "#112",
+		"Group": 1,
+		"Id": 112,
+		"Name": "惊呆"
+	},
+	{
+		"AnimId": 113,
+		"Code": "#113",
+		"Group": 1,
+		"Id": 113,
+		"Name": "伤心"
+	},
+	{
+		"AnimId": 114,
+		"Code": "#114",
+		"Group": 1,
+		"Id": 114,
+		"Name": "囧"
+	},
+	{
+		"AnimId": 115,
+		"Code": "#115",
+		"Group": 1,
+		"Id": 115,
+		"Name": "内心毫无波澜"
+	},
+	{
+		"AnimId": 116,
+		"Code": "#116",
+		"Group": 1,
+		"Id": 116,
+		"Name": "极度嫌弃"
+	},
+	{
+		"AnimId": 201,
+		"Code": "#201",
+		"Group": 2,
+		"Id": 201,
+		"Name": "壕老大"
+	},
+	{
+		"AnimId": 202,
+		"Code": "#202",
+		"Group": 2,
+		"Id": 202,
+		"Name": "老司机"
+	},
+	{
+		"AnimId": 203,
+		"Code": "#203",
+		"Group": 2,
+		"Id": 203,
+		"Name": "心塞"
+	},
+	{
+		"AnimId": 204,
+		"Code": "#204",
+		"Group": 2,
+		"Id": 204,
+		"Name": "吃瓜"
+	},
+	{
+		"AnimId": 205,
+		"Code": "#205",
+		"Group": 2,
+		"Id": 205,
+		"Name": "约么"
+	},
+	{
+		"AnimId": 206,
+		"Code": "#206",
+		"Group": 2,
+		"Id": 206,
+		"Name": "怪我咯"
+	},
+	{
+		"AnimId": 207,
+		"Code": "#207",
+		"Group": 2,
+		"Id": 207,
+		"Name": "任性"
+	},
+	{
+		"AnimId": 208,
+		"Code": "#208",
+		"Group": 2,
+		"Id": 208,
+		"Name": "杠精"
+	},
+	{
+		"AnimId": 209,
+		"Code": "#209",
+		"Group": 2,
+		"Id": 209,
+		"Name": "盘他"
+	},
+	{
+		"AnimId": 210,
+		"Code": "#210",
+		"Group": 2,
+		"Id": 210,
+		"Name": "萌萌哒"
+	},
+	{
+		"AnimId": 211,
+		"Code": "#211",
+		"Group": 2,
+		"Id": 211,
+		"Name": "柠檬精"
+	},
+	{
+		"AnimId": 212,
+		"Code": "#212",
+		"Group": 2,
+		"Id": 212,
+		"Name": "太难了"
+	},
+	{
+		"AnimId": 213,
+		"Code": "#213",
+		"Group": 2,
+		"Id": 213,
+		"Name": "什么仇什么怨"
+	},
+	{
+		"AnimId": 214,
+		"Code": "#214",
+		"Group": 2,
+		"Id": 214,
+		"Name": "雨女无瓜"
+	},
+	{
+		"AnimId": 215,
+		"Code": "#215",
+		"Group": 2,
+		"Id": 215,
+		"Name": "耗子尾汁"
+	},
+	{
+		"AnimId": 216,
+		"Code": "#216",
+		"Group": 2,
+		"Id": 216,
+		"Name": "年轻人不讲武德"
+	},
+	{
+		"AnimId": 217,
+		"Code": "#217",
+		"Group": 2,
+		"Id": 217,
+		"Name": "早安打工人"
+	},
+	{
+		"AnimId": 218,
+		"Code": "#218",
+		"Group": 2,
+		"Id": 218,
+		"Name": "真香"
+	},
+	{
+		"AnimId": 219,
+		"Code": "#219",
+		"Group": 2,
+		"Id": 219,
+		"Name": "duck不必"
+	},
+	{
+		"AnimId": 220,
+		"Code": "#220",
+		"Group": 2,
+		"Id": 220,
+		"Name": "你不对劲"
+	},
+	{
+		"AnimId": 221,
+		"Code": "#221",
+		"Group": 2,
+		"Id": 221,
+		"Name": "疑车无据"
+	},
+	{
+		"AnimId": 301,
+		"Code": "#301",
+		"Group": 3,
+		"Id": 301,
+		"Name": "可爱"
+	},
+	{
+		"AnimId": 302,
+		"Code": "#302",
+		"Group": 3,
+		"Id": 302,
+		"Name": "强颜欢笑"
+	},
+	{
+		"AnimId": 303,
+		"Code": "#303",
+		"Group": 3,
+		"Id": 303,
+		"Name": "无语1"
+	},
+	{
+		"AnimId": 304,
+		"Code": "#304",
+		"Group": 3,
+		"Id": 304,
+		"Name": "开心"
+	},
+	{
+		"AnimId": 305,
+		"Code": "#305",
+		"Group": 3,
+		"Id": 305,
+		"Name": "找事情"
+	},
+	{
+		"AnimId": 306,
+		"Code": "#306",
+		"Group": 3,
+		"Id": 306,
+		"Name": "惊讶"
+	},
+	{
+		"AnimId": 307,
+		"Code": "#307",
+		"Group": 3,
+		"Id": 307,
+		"Name": "一般般"
+	},
+	{
+		"AnimId": 308,
+		"Code": "#308",
+		"Group": 3,
+		"Id": 308,
+		"Name": "无邪"
+	},
+	{
+		"AnimId": 309,
+		"Code": "#309",
+		"Group": 3,
+		"Id": 309,
+		"Name": "哼"
+	},
+	{
+		"AnimId": 310,
+		"Code": "#310",
+		"Group": 3,
+		"Id": 310,
+		"Name": "惊呆"
+	},
+	{
+		"AnimId": 311,
+		"Code": "#311",
+		"Group": 3,
+		"Id": 311,
+		"Name": "加油"
+	},
+	{
+		"AnimId": 312,
+		"Code": "#312",
+		"Group": 3,
+		"Id": 312,
+		"Name": "无语2"
+	},
+	{
+		"AnimId": 313,
+		"Code": "#313",
+		"Group": 3,
+		"Id": 313,
+		"Name": "爱心"
+	},
+	{
+		"AnimId": 314,
+		"Code": "#314",
+		"Group": 3,
+		"Id": 314,
+		"Name": "打哭"
+	},
+	{
+		"AnimId": 315,
+		"Code": "#315",
+		"Group": 3,
+		"Id": 315,
+		"Name": "心碎"
+	},
+	{
+		"AnimId": 316,
+		"Code": "#316",
+		"Group": 3,
+		"Id": 316,
+		"Name": "害羞"
+	},
+	{
+		"AnimId": 317,
+		"Code": "#317",
+		"Group": 3,
+		"Id": 317,
+		"Name": "额…"
+	},
+	{
+		"AnimId": 318,
+		"Code": "#318",
+		"Group": 3,
+		"Id": 318,
+		"Name": "疑问"
+	},
+	{
+		"AnimId": 319,
+		"Code": "#319",
+		"Group": 3,
+		"Id": 319,
+		"Name": "深思"
+	},
+	{
+		"AnimId": 320,
+		"Code": "#320",
+		"Group": 3,
+		"Id": 320,
+		"Name": "感动"
+	},
+	{
+		"AnimId": 321,
+		"Code": "#321",
+		"Group": 3,
+		"Id": 321,
+		"Name": "啊啊啊"
+	},
+	{
+		"AnimId": 322,
+		"Code": "#322",
+		"Group": 3,
+		"Id": 322,
+		"Name": "嗯？"
+	},
+	{
+		"AnimId": 323,
+		"Code": "#323",
+		"Group": 3,
+		"Id": 323,
+		"Name": "无所谓"
+	}
+]

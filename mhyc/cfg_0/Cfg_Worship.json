@@ -1,0 +1,164 @@
+[
+	{
+		"ActId": 25811,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 15,
+		"Name": "重阳登高",
+		"Power": 1000,
+		"ProName": "登高",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf",
+		"Speed": 200
+	},
+	{
+		"ActId": 26511,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 26511,
+		"Name": "周年蛋糕",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 27611,
+		"AniName": "盛宴",
+		"AniPath1": "huojidacan",
+		"AwardName": "i/m/newAct/bjys/img_meishidaren",
+		"Id": 16,
+		"Name": "火鸡大餐",
+		"Power": 1000,
+		"ProName": "盛宴",
+		"SkillName": "i/m/newAct/bjys/img_zhenqingzf",
+		"Speed": 200
+	},
+	{
+		"ActId": 28171,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 28171,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 28172,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 28172,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 29171,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 29171,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 29172,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 29172,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 29511,
+		"AniName": "祈福",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 17,
+		"Name": "观音",
+		"ObjId": 2043002,
+		"ObjType": 3,
+		"OffsetY": 84,
+		"Power": 1000,
+		"ProName": "祈福",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf",
+		"Speed": 200
+	},
+	{
+		"ActId": 30611,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 30611,
+		"Name": "周年蛋糕",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 31071,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 31071,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 31072,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 31072,
+		"Name": "阵营大比拼",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 31411,
+		"AniName": "花灯",
+		"AniPath1": "yxhd",
+		"AwardName": "i/m/newAct/bjys/font_hddr",
+		"Id": 18,
+		"Name": "花灯",
+		"Power": 1000,
+		"ProName": "制作",
+		"SkillName": "i/m/newAct/bjys/font_hdyy",
+		"Speed": 200
+	},
+	{
+		"ActId": 32011,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 32011,
+		"Name": "周年蛋糕",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 33911,
+		"AniName": "山岱",
+		"AniPath1": "chongyangxianshan",
+		"AwardName": "i/m/newAct/bjys/font_qcr",
+		"Id": 33911,
+		"Name": "周年蛋糕",
+		"ProName": "蛋糕",
+		"SkillName": "i/m/newAct/bjys/font_zhenqingzf"
+	},
+	{
+		"ActId": 34211,
+		"AniName": "风筝",
+		"AniPath1": "fengzheng",
+		"AwardName": "i/m/newAct/bjys/font_fzdr",
+		"Id": 19,
+		"Name": "风筝",
+		"Power": 1000,
+		"ProName": "制作",
+		"SkillName": "i/m/newAct/bjys/font_ffzw",
+		"Speed": 200
+	}
+]

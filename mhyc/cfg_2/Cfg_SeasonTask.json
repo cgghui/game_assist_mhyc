@@ -1,0 +1,38 @@
+[
+	{
+		"CounterType": 1001,
+		"Id": 1,
+		"Independent": 1,
+		"Name": "占领1个2级或更高级神坛",
+		"Param": "[5402,5403,5404,5405,5406,5407,5408,5409]",
+		"Prize": 201,
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 14305,
+		"CounterType": 1501,
+		"Id": 2,
+		"Independent": 1,
+		"Name": "参与1次归墟之境",
+		"Prize": 201,
+		"TargetCount": 1
+	},
+	{
+		"CounterType": 1001,
+		"Id": 3,
+		"Independent": 1,
+		"Name": "占领1个4级或更高级神坛",
+		"Param": "[5404,5405,5406,5407,5408,5409]",
+		"Prize": 202,
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 14306,
+		"CounterType": 1502,
+		"Id": 4,
+		"Independent": 1,
+		"Name": "参与1次云顶天宫",
+		"Prize": 202,
+		"TargetCount": 1
+	}
+]

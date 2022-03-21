@@ -1,0 +1,74 @@
+[
+	{
+		"Id": 1,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 1,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	},
+	{
+		"Id": 6,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 6,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	},
+	{
+		"Id": 11,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 11,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	},
+	{
+		"Id": 16,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 16,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	},
+	{
+		"Id": 21,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 21,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	},
+	{
+		"Id": 1001,
+		"Items": "2:1000",
+		"MaxTimes": 1,
+		"MinTimes": 1
+	},
+	{
+		"Id": 1001,
+		"Items": "1:100",
+		"MaxTimes": 9999,
+		"MinTimes": 2
+	}
+]

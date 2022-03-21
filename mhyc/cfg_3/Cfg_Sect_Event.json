@@ -1,0 +1,58 @@
+[
+	{
+		"EventType": 1,
+		"Id": 1,
+		"IsDrop": 1,
+		"Name": "银宝箱",
+		"Tips": "无用"
+	},
+	{
+		"EventType": 1,
+		"Id": 2,
+		"IsDrop": 1,
+		"Name": "金宝箱",
+		"Tips": "无用"
+	},
+	{
+		"EventType": 1,
+		"Id": 3,
+		"Name": "宠物抓捕",
+		"Result": 1,
+		"Tips": "无用"
+	},
+	{
+		"EventType": 1,
+		"Id": 4,
+		"IsCatch": 1,
+		"IsDrop": 1,
+		"Name": "神兽降临",
+		"Tips": "无用"
+	},
+	{
+		"EventType": 1,
+		"Id": 5,
+		"IsCatch": 2,
+		"Name": "善有善报",
+		"Tips": "无用"
+	},
+	{
+		"CrossDay": 1,
+		"EventType": 2,
+		"Id": 6,
+		"IsCatch": 1,
+		"IsDrop": 1,
+		"IsReset": 1,
+		"Name": "神兽之怒",
+		"Tips": "无用",
+		"Trigger": "11:50|13:50|17:50"
+	},
+	{
+		"CrossDay": 1,
+		"EventType": 2,
+		"Id": 7,
+		"IsAdd": 1,
+		"IsCatch": 2,
+		"Name": "挖塌宠物巢穴",
+		"Tips": "无用"
+	}
+]

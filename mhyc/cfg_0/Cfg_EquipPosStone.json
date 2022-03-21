@@ -1,0 +1,42 @@
+[
+	{
+		"Pos": 1,
+		"Stone": 2
+	},
+	{
+		"Pos": 6,
+		"Stone": 2
+	},
+	{
+		"Pos": 4,
+		"Stone": 2
+	},
+	{
+		"Pos": 7,
+		"Stone": 1
+	},
+	{
+		"Pos": 2,
+		"Stone": 3
+	},
+	{
+		"Pos": 8,
+		"Stone": 2
+	},
+	{
+		"Pos": 3,
+		"Stone": 2
+	},
+	{
+		"Pos": 5,
+		"Stone": 2
+	},
+	{
+		"Pos": 9,
+		"Stone": 1
+	},
+	{
+		"Pos": 10,
+		"Stone": 3
+	}
+]

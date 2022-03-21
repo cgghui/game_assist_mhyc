@@ -1,0 +1,72 @@
+[
+	{
+		"CostNum": 100,
+		"CostType": 2,
+		"GetBuff": 1411,
+		"ID": 1001,
+		"Times": 1
+	},
+	{
+		"CostNum": 200,
+		"CostType": 2,
+		"GetBuff": 1412,
+		"ID": 1002,
+		"Times": 2
+	},
+	{
+		"CostNum": 300,
+		"CostType": 2,
+		"GetBuff": 1413,
+		"ID": 1003,
+		"Times": 3
+	},
+	{
+		"CostNum": 400,
+		"CostType": 2,
+		"GetBuff": 1414,
+		"ID": 1004,
+		"Times": 4
+	},
+	{
+		"CostNum": 10,
+		"CostType": 1,
+		"GetBuff": 1415,
+		"ID": 1005,
+		"Times": 5
+	},
+	{
+		"CostNum": 20,
+		"CostType": 1,
+		"GetBuff": 1416,
+		"ID": 1006,
+		"Times": 6
+	},
+	{
+		"CostNum": 30,
+		"CostType": 1,
+		"GetBuff": 1417,
+		"ID": 1007,
+		"Times": 7
+	},
+	{
+		"CostNum": 40,
+		"CostType": 1,
+		"GetBuff": 1418,
+		"ID": 1008,
+		"Times": 8
+	},
+	{
+		"CostNum": 50,
+		"CostType": 1,
+		"GetBuff": 1419,
+		"ID": 1009,
+		"Times": 9
+	},
+	{
+		"CostNum": 60,
+		"CostType": 1,
+		"GetBuff": 1420,
+		"ID": 1010,
+		"Times": 10
+	}
+]

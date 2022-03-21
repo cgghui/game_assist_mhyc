@@ -1,0 +1,13 @@
+[
+	{
+		"Desc": "通天Boss组队鼓舞",
+		"FuncId": 11059,
+		"Id": 1,
+		"InspAddNum": 5,
+		"InspireDesc": "每次鼓舞可增加自己和队友5%攻击力",
+		"MaxTimes": 10,
+		"NeedItemId": 1,
+		"NeedNum": 10,
+		"TeamMaxTimes": 20
+	}
+]

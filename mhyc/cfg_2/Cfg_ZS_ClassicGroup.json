@@ -1,0 +1,32 @@
+[
+	{
+		"MaxLevel": 449,
+		"MinLevel": 350,
+		"WarGroup": 1
+	},
+	{
+		"MaxLevel": 549,
+		"MinLevel": 450,
+		"WarGroup": 2
+	},
+	{
+		"MaxLevel": 999,
+		"MinLevel": 550,
+		"WarGroup": 3
+	},
+	{
+		"MaxLevel": 1449,
+		"MinLevel": 1000,
+		"WarGroup": 4
+	},
+	{
+		"MaxLevel": 1899,
+		"MinLevel": 1450,
+		"WarGroup": 5
+	},
+	{
+		"MaxLevel": 2349,
+		"MinLevel": 1900,
+		"WarGroup": 6
+	}
+]

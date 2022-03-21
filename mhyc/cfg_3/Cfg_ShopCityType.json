@@ -1,0 +1,171 @@
+[
+	{
+		"FuncId": 12001,
+		"GoldType": "2",
+		"MallTypeID": 1,
+		"MallTypeName": "日常道具",
+		"ShopId": 1,
+		"Show": 1,
+		"Sort": 2
+	},
+	{
+		"FuncId": 12002,
+		"GoldType": "1",
+		"MallTypeID": 2,
+		"MallTypeName": "SVIP",
+		"ShopId": 1,
+		"Show": 1,
+		"Sort": 5
+	},
+	{
+		"FuncId": 12003,
+		"GoldType": "2",
+		"MallTypeID": 3,
+		"MallTypeName": "伙伴商城",
+		"ShopId": 1,
+		"Show": 1,
+		"Sort": 3
+	},
+	{
+		"FuncId": 12004,
+		"GoldType": "71",
+		"MallTypeID": 5,
+		"MallTypeName": "仙宗商店",
+		"ShopId": 2,
+		"Show": 1,
+		"Sort": 5
+	},
+	{
+		"FuncId": 12005,
+		"GoldType": "52",
+		"MallTypeID": 6,
+		"MallTypeName": "竞技商店",
+		"ShopId": 2,
+		"Show": 1,
+		"Sort": 6
+	},
+	{
+		"FuncId": 12006,
+		"GoldType": "71",
+		"MallTypeID": 7,
+		"MallTypeName": "声望商店",
+		"ShopId": 2,
+		"Sort": 7
+	},
+	{
+		"FuncId": 12007,
+		"GoldType": "55",
+		"MallTypeID": 8,
+		"MallTypeName": "灵兽商店",
+		"ShopId": 2,
+		"Show": 1,
+		"Sort": 8
+	},
+	{
+		"MallTypeID": 9,
+		"MallTypeName": "快捷购买商店"
+	},
+	{
+		"FuncId": 12008,
+		"GoldType": "56",
+		"MallTypeID": 10,
+		"MallTypeName": "技能书商店",
+		"ShopId": 2,
+		"Show": 1,
+		"Sort": 9
+	},
+	{
+		"FuncId": 12009,
+		"GoldType": "1",
+		"MallTypeID": 11,
+		"MallTypeName": "限购特惠",
+		"ShopId": 1,
+		"Show": 1,
+		"Sort": 1
+	},
+	{
+		"FuncId": 11002,
+		"GoldType": "9",
+		"MallTypeID": 12,
+		"MallTypeName": "家族商店",
+		"ShopId": 2,
+		"Show": 1,
+		"Sort": 10
+	},
+	{
+		"GoldType": "76",
+		"MallTypeID": 13,
+		"MallTypeName": "神玉宝库",
+		"ShopId": 3,
+		"Sort": 1
+	},
+	{
+		"GoldType": "77",
+		"MallTypeID": 14,
+		"MallTypeName": "珍珠宝库",
+		"ShopId": 3,
+		"Sort": 2
+	},
+	{
+		"FuncId": 11058,
+		"GoldType": "2200851",
+		"MallTypeID": 15,
+		"MallTypeName": "BOSS商店",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 3
+	},
+	{
+		"FuncId": 14301,
+		"GoldType": "78",
+		"MallTypeID": 16,
+		"MallTypeName": "战功宝库",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 4
+	},
+	{
+		"FuncId": 14521,
+		"GoldType": "10",
+		"MallTypeID": 17,
+		"MallTypeName": "异兽商店",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 5
+	},
+	{
+		"FuncId": 14301,
+		"GoldType": "2",
+		"MallTypeID": 18,
+		"MallTypeName": "BUFF商店",
+		"ShopId": 4,
+		"Show": 1,
+		"Sort": 1
+	},
+	{
+		"FuncId": 16008,
+		"GoldType": "2600008",
+		"MallTypeID": 19,
+		"MallTypeName": "神龙宝库",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 6
+	},
+	{
+		"FuncId": 96,
+		"MallTypeID": 20,
+		"MallTypeName": "天工造物",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 7
+	},
+	{
+		"FuncId": 14401,
+		"GoldType": "88",
+		"MallTypeID": 21,
+		"MallTypeName": "诸神宝库",
+		"ShopId": 3,
+		"Show": 1,
+		"Sort": 8
+	}
+]

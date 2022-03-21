@@ -1,0 +1,352 @@
+[
+	{
+		"Reborn": 1,
+		"RewardDisplay": "2200401:2:2|2200601:1:1|4:0:100000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 1,
+		"RewardDisplay": "2200401:2:4|2200601:1:1|4:0:120000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 1,
+		"RewardDisplay": "2200401:2:6|2200601:1:1|4:0:140000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 1,
+		"RewardDisplay": "2200401:2:8|2200601:1:1|4:0:160000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 1,
+		"RewardDisplay": "2200401:2:10|2200601:1:1|4:0:200000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 2,
+		"RewardDisplay": "2200401:2:2|2200602:1:1|4:0:200000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 2,
+		"RewardDisplay": "2200401:2:4|2200602:1:1|4:0:220000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 2,
+		"RewardDisplay": "2200401:2:6|2200602:1:1|4:0:240000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 2,
+		"RewardDisplay": "2200401:2:8|2200602:1:1|4:0:260000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 2,
+		"RewardDisplay": "2200401:2:10|2200602:1:1|4:0:300000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 3,
+		"RewardDisplay": "2200401:2:2|2200603:1:1|4:0:300000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 3,
+		"RewardDisplay": "2200401:2:4|2200603:1:1|4:0:320000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 3,
+		"RewardDisplay": "2200401:2:6|2200603:1:1|4:0:340000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 3,
+		"RewardDisplay": "2200401:2:8|2200603:1:1|4:0:360000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 3,
+		"RewardDisplay": "2200401:2:10|2200603:1:1|4:0:400000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 4,
+		"RewardDisplay": "2200401:2:2|2200604:1:1|4:0:400000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 4,
+		"RewardDisplay": "2200401:2:4|2200604:1:1|4:0:420000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 4,
+		"RewardDisplay": "2200401:2:6|2200604:1:1|4:0:440000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 4,
+		"RewardDisplay": "2200401:2:8|2200604:1:1|4:0:460000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 4,
+		"RewardDisplay": "2200401:2:10|2200604:1:1|4:0:500000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 5,
+		"RewardDisplay": "2200401:2:2|2200605:1:1|4:0:500000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 5,
+		"RewardDisplay": "2200401:2:4|2200605:1:1|4:0:520000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 5,
+		"RewardDisplay": "2200401:2:6|2200605:1:1|4:0:540000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 5,
+		"RewardDisplay": "2200401:2:8|2200605:1:1|4:0:560000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 5,
+		"RewardDisplay": "2200401:2:10|2200605:1:1|4:0:600000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 6,
+		"RewardDisplay": "2200401:2:2|2200606:1:1|4:0:600000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 6,
+		"RewardDisplay": "2200401:2:4|2200606:1:1|4:0:620000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 6,
+		"RewardDisplay": "2200401:2:6|2200606:1:1|4:0:640000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 6,
+		"RewardDisplay": "2200401:2:8|2200606:1:1|4:0:660000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 6,
+		"RewardDisplay": "2200401:2:10|2200606:1:1|4:0:700000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 7,
+		"RewardDisplay": "2200401:2:2|2200607:1:1|4:0:700000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 7,
+		"RewardDisplay": "2200401:2:4|2200607:1:1|4:0:720000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 7,
+		"RewardDisplay": "2200401:2:6|2200607:1:1|4:0:740000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 7,
+		"RewardDisplay": "2200401:2:8|2200607:1:1|4:0:760000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 7,
+		"RewardDisplay": "2200401:2:10|2200607:1:1|4:0:800000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 8,
+		"RewardDisplay": "2200401:2:2|2200608:1:1|4:0:800000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 8,
+		"RewardDisplay": "2200401:2:4|2200608:1:1|4:0:820000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 8,
+		"RewardDisplay": "2200401:2:6|2200608:1:1|4:0:840000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 8,
+		"RewardDisplay": "2200401:2:8|2200608:1:1|4:0:860000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 8,
+		"RewardDisplay": "2200401:2:10|2200608:1:1|4:0:900000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 9,
+		"RewardDisplay": "2200401:2:2|2200609:1:1|4:0:900000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 9,
+		"RewardDisplay": "2200401:2:4|2200609:1:1|4:0:920000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 9,
+		"RewardDisplay": "2200401:2:6|2200609:1:1|4:0:940000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 9,
+		"RewardDisplay": "2200401:2:8|2200609:1:1|4:0:960000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 9,
+		"RewardDisplay": "2200401:2:10|2200609:1:1|4:0:1000000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 10,
+		"RewardDisplay": "2200401:2:2|2200610:1:1|4:0:1000000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 10,
+		"RewardDisplay": "2200401:2:4|2200610:1:1|4:0:1200000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 10,
+		"RewardDisplay": "2200401:2:6|2200610:1:1|4:0:1600000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 10,
+		"RewardDisplay": "2200401:2:8|2200610:1:1|4:0:1800000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 10,
+		"RewardDisplay": "2200401:2:10|2200610:1:1|4:0:2000000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 11,
+		"RewardDisplay": "2200401:2:2|2200611:1:1|4:0:2000000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 11,
+		"RewardDisplay": "2200401:2:4|2200611:1:1|4:0:2200000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 11,
+		"RewardDisplay": "2200401:2:6|2200611:1:1|4:0:2600000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 11,
+		"RewardDisplay": "2200401:2:8|2200611:1:1|4:0:2800000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 11,
+		"RewardDisplay": "2200401:2:10|2200611:1:1|4:0:3000000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 12,
+		"RewardDisplay": "2200401:2:2|2200612:1:1|4:0:3000000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 12,
+		"RewardDisplay": "2200401:2:4|2200612:1:1|4:0:3200000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 12,
+		"RewardDisplay": "2200401:2:6|2200612:1:1|4:0:3600000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 12,
+		"RewardDisplay": "2200401:2:8|2200612:1:1|4:0:3800000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 12,
+		"RewardDisplay": "2200401:2:10|2200612:1:1|4:0:4000000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 13,
+		"RewardDisplay": "2200401:2:2|2200613:1:1|4:0:100000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 13,
+		"RewardDisplay": "2200401:2:4|2200613:1:1|4:0:120000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 13,
+		"RewardDisplay": "2200401:2:6|2200613:1:1|4:0:140000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 13,
+		"RewardDisplay": "2200401:2:8|2200613:1:1|4:0:160000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 13,
+		"RewardDisplay": "2200401:2:10|2200613:1:1|4:0:200000",
+		"XuanShangID": 5
+	},
+	{
+		"Reborn": 14,
+		"RewardDisplay": "2200401:2:2|2200614:1:1|4:0:200000",
+		"XuanShangID": 1
+	},
+	{
+		"Reborn": 14,
+		"RewardDisplay": "2200401:2:4|2200614:1:1|4:0:220000",
+		"XuanShangID": 2
+	},
+	{
+		"Reborn": 14,
+		"RewardDisplay": "2200401:2:6|2200614:1:1|4:0:240000",
+		"XuanShangID": 3
+	},
+	{
+		"Reborn": 14,
+		"RewardDisplay": "2200401:2:8|2200614:1:1|4:0:260000",
+		"XuanShangID": 4
+	},
+	{
+		"Reborn": 14,
+		"RewardDisplay": "2200401:2:10|2200614:1:1|4:0:300000",
+		"XuanShangID": 5
+	}
+]

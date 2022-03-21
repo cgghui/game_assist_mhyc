@@ -1,0 +1,160 @@
+[
+	{
+		"AttrUp": 1000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:10",
+		"Rarity": 1,
+		"Times": 1
+	},
+	{
+		"AttrUp": 2000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:20",
+		"Rarity": 1,
+		"Times": 2
+	},
+	{
+		"AttrUp": 1000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:10",
+		"Rarity": 2,
+		"Times": 1
+	},
+	{
+		"AttrUp": 2000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:20",
+		"Rarity": 2,
+		"Times": 2
+	},
+	{
+		"AttrUp": 3000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:50",
+		"Rarity": 2,
+		"Times": 3
+	},
+	{
+		"AttrUp": 1000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:10",
+		"Rarity": 3,
+		"Times": 1
+	},
+	{
+		"AttrUp": 2000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:20",
+		"Rarity": 3,
+		"Times": 2
+	},
+	{
+		"AttrUp": 3000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:50",
+		"Rarity": 3,
+		"Times": 3
+	},
+	{
+		"AttrUp": 4000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:100",
+		"Rarity": 3,
+		"Times": 4
+	},
+	{
+		"AttrUp": 1000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:10",
+		"Rarity": 4,
+		"Times": 1
+	},
+	{
+		"AttrUp": 2000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:20",
+		"Rarity": 4,
+		"Times": 2
+	},
+	{
+		"AttrUp": 3000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:50",
+		"Rarity": 4,
+		"Times": 3
+	},
+	{
+		"AttrUp": 4000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:100",
+		"Rarity": 4,
+		"Times": 4
+	},
+	{
+		"AttrUp": 5000,
+		"GrowUp": 200,
+		"NeedItem": "2010006:250",
+		"Rarity": 4,
+		"Times": 5
+	},
+	{
+		"AttrUp": 1000,
+		"GrowUp": 600,
+		"NeedItem": "2010006:20",
+		"Rarity": 5,
+		"TalentAUp": 144,
+		"TalentDUp": 72,
+		"TalentHUp": 300,
+		"Times": 1
+	},
+	{
+		"AttrUp": 2000,
+		"GrowUp": 600,
+		"NeedItem": "2010006:50",
+		"Rarity": 5,
+		"TalentAUp": 144,
+		"TalentDUp": 72,
+		"TalentHUp": 300,
+		"Times": 2
+	},
+	{
+		"AttrUp": 3000,
+		"GrowUp": 600,
+		"NeedItem": "2010006:100",
+		"Rarity": 5,
+		"TalentAUp": 144,
+		"TalentDUp": 72,
+		"TalentHUp": 300,
+		"Times": 3
+	},
+	{
+		"AttrUp": 4000,
+		"GrowUp": 600,
+		"NeedItem": "2010006:250",
+		"Rarity": 5,
+		"TalentAUp": 144,
+		"TalentDUp": 72,
+		"TalentHUp": 300,
+		"Times": 4
+	},
+	{
+		"AttrUp": 5000,
+		"GrowUp": 600,
+		"NeedItem": "2010006:500",
+		"Rarity": 5,
+		"TalentAUp": 144,
+		"TalentDUp": 72,
+		"TalentHUp": 300,
+		"Times": 5
+	},
+	{
+		"AttrUp": 6000,
+		"GrowUp": 5000,
+		"NeedItem": "2010006:1000",
+		"Rarity": 5,
+		"TalentAUp": 1320,
+		"TalentDUp": 720,
+		"TalentHUp": 2700,
+		"Times": 6
+	}
+]

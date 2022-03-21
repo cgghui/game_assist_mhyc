@@ -1,0 +1,181 @@
+[
+	{
+		"ActId": 1921,
+		"Id": 1,
+		"ItemId": 2250301,
+		"ItemNum": 20,
+		"Quality": 3,
+		"Sort": 1
+	},
+	{
+		"ActId": 1921,
+		"Id": 2,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"Quality": 2,
+		"Sort": 2
+	},
+	{
+		"ActId": 1921,
+		"Id": 3,
+		"ItemId": 2251003,
+		"ItemNum": 2,
+		"Quality": 4,
+		"Sort": 3
+	},
+	{
+		"ActId": 1921,
+		"Id": 4,
+		"ItemId": 2200201,
+		"ItemNum": 5,
+		"Quality": 3,
+		"Sort": 4
+	},
+	{
+		"ActId": 1921,
+		"Id": 5,
+		"ItemId": 2050103,
+		"ItemNum": 1,
+		"Quality": 4,
+		"Sort": 5
+	},
+	{
+		"ActId": 1921,
+		"Id": 6,
+		"ItemId": 2200212,
+		"ItemNum": 10,
+		"Quality": 5,
+		"Sort": 6
+	},
+	{
+		"ActId": 1921,
+		"Id": 7,
+		"IsImprint": 1,
+		"ItemId": 4030129,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 7
+	},
+	{
+		"ActId": 1921,
+		"Id": 8,
+		"ItemId": 2251002,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 8
+	},
+	{
+		"ActId": 1921,
+		"Id": 9,
+		"ItemId": 2403312,
+		"ItemNum": 1,
+		"Quality": 4,
+		"Sort": 9
+	},
+	{
+		"ActId": 1921,
+		"Id": 10,
+		"ItemId": 5014100,
+		"ItemNum": 10,
+		"Quality": 3,
+		"Sort": 10
+	},
+	{
+		"ActId": 1921,
+		"Id": 11,
+		"ItemId": 2200401,
+		"ItemNum": 2,
+		"Quality": 4,
+		"Sort": 11
+	},
+	{
+		"ActId": 1921,
+		"Id": 12,
+		"ItemId": 5014111,
+		"ItemNum": 2,
+		"Quality": 4,
+		"Sort": 12
+	},
+	{
+		"ActId": 1921,
+		"Id": 13,
+		"IsImprint": 1,
+		"ItemId": 4030130,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 13
+	},
+	{
+		"ActId": 1921,
+		"Id": 14,
+		"ItemId": 2310002,
+		"ItemNum": 1,
+		"Quality": 4,
+		"Sort": 14
+	},
+	{
+		"ActId": 1921,
+		"Id": 15,
+		"ItemId": 2310001,
+		"ItemNum": 10,
+		"Quality": 3,
+		"Sort": 15
+	},
+	{
+		"ActId": 1921,
+		"Id": 16,
+		"ItemId": 2310003,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 16
+	},
+	{
+		"ActId": 1921,
+		"Id": 17,
+		"ItemId": 2401112,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 17
+	},
+	{
+		"ActId": 1921,
+		"Id": 18,
+		"ItemId": 2023001,
+		"ItemNum": 1,
+		"Quality": 4,
+		"Sort": 18
+	},
+	{
+		"ActId": 1921,
+		"Id": 19,
+		"ItemId": 2200101,
+		"ItemNum": 10,
+		"Quality": 2,
+		"Sort": 19
+	},
+	{
+		"ActId": 1921,
+		"Id": 20,
+		"IsImprint": 1,
+		"ItemId": 4030131,
+		"ItemNum": 1,
+		"Quality": 5,
+		"Sort": 20
+	},
+	{
+		"ActId": 1921,
+		"Id": 21,
+		"ItemId": 2,
+		"ItemNum": 1000,
+		"Quality": 4,
+		"Sort": 21
+	},
+	{
+		"ActId": 1921,
+		"Id": 22,
+		"ItemId": 2022,
+		"ItemNum": 1,
+		"Quality": 4,
+		"Sort": 22
+	}
+]

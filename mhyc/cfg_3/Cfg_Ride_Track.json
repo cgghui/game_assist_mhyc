@@ -1,0 +1,42 @@
+[
+	{
+		"AnimId": "8156",
+		"AutoWear": 1,
+		"Id": 20001,
+		"IsShow": 1,
+		"Name": "烈焰雄心",
+		"Type": 159
+	},
+	{
+		"AnimId": "8302",
+		"AutoWear": 1,
+		"Id": 20002,
+		"IsShow": 1,
+		"Name": "似水流年",
+		"Type": 159
+	},
+	{
+		"AnimId": "8303",
+		"AutoWear": 1,
+		"Id": 20003,
+		"IsShow": 1,
+		"Name": "冰魂雪魄",
+		"Type": 159
+	},
+	{
+		"AnimId": "8304",
+		"AutoWear": 1,
+		"Id": 20004,
+		"IsShow": 1,
+		"Name": "徐如清风",
+		"Type": 159
+	},
+	{
+		"AnimId": "8305",
+		"AutoWear": 1,
+		"Id": 20005,
+		"IsShow": 1,
+		"Name": "雷霆万钧",
+		"Type": 159
+	}
+]

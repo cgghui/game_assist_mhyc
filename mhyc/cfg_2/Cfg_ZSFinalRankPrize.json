@@ -1,0 +1,100 @@
+[
+	{
+		"Name": "开天辟地赛奖励",
+		"Pos": "T1",
+		"Round": 1,
+		"StateName": "开天辟地赛"
+	},
+	{
+		"Name": "地榜第一轮奖励",
+		"Pos": "D1",
+		"Prize": 139,
+		"Round": 2,
+		"StateName": "地榜第一轮"
+	},
+	{
+		"Name": "天榜第一轮奖励",
+		"Pos": "T2",
+		"Round": 3,
+		"StateName": "天榜第一轮"
+	},
+	{
+		"Name": "地榜第二轮奖励",
+		"Pos": "D2",
+		"Prize": 138,
+		"Round": 4,
+		"StateName": "地榜第二轮"
+	},
+	{
+		"Name": "天榜第二轮奖励",
+		"Pos": "T3",
+		"Round": 5,
+		"StateName": "天榜第二轮"
+	},
+	{
+		"Name": "地榜第三轮奖励",
+		"Pos": "D3",
+		"Prize": 137,
+		"Round": 6,
+		"StateName": "地榜第三轮"
+	},
+	{
+		"Name": "天榜第三轮奖励",
+		"Pos": "T4",
+		"Round": 7,
+		"StateName": "天榜第三轮"
+	},
+	{
+		"Name": "地榜第四轮奖励",
+		"Pos": "D4",
+		"Prize": 136,
+		"Round": 8,
+		"StateName": "地榜第四轮"
+	},
+	{
+		"Name": "天榜第二名奖励",
+		"Pos": "T5",
+		"Round": 9,
+		"StateName": "天榜第二名"
+	},
+	{
+		"Name": "地榜第五轮奖励",
+		"Pos": "D5",
+		"Prize": 135,
+		"Round": 10,
+		"StateName": "地榜第五轮"
+	},
+	{
+		"Name": "地榜第六轮奖励",
+		"Pos": "D6",
+		"Prize": 134,
+		"Round": 11,
+		"StateName": "地榜第六轮"
+	},
+	{
+		"Name": "地榜第二名奖励",
+		"Pos": "D7",
+		"Prize": 133,
+		"Round": 12,
+		"StateName": "地榜第二名"
+	},
+	{
+		"Name": "战区第二名奖励",
+		"Pos": "D8",
+		"Prize": 132,
+		"Round": 13,
+		"StateName": "战区第二名"
+	},
+	{
+		"Name": "战区第一名奖励",
+		"Pos": "D8",
+		"Prize": 131,
+		"Round": 14,
+		"StateName": "战区第一名"
+	},
+	{
+		"Name": "竞猜之王奖励",
+		"Prize": 108,
+		"Round": 15
+	}
+]

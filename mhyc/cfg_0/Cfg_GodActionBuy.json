@@ -1,0 +1,50 @@
+[
+	{
+		"Action": 2501013,
+		"BuyTimes": 1,
+		"CoinNum": 300,
+		"CoinType": 1,
+		"ShowAction": 100,
+		"Type": 1
+	},
+	{
+		"Action": 2501013,
+		"BuyTimes": 2,
+		"CoinNum": 400,
+		"CoinType": 1,
+		"ShowAction": 100,
+		"Type": 1
+	},
+	{
+		"Action": 2501013,
+		"BuyTimes": 3,
+		"CoinNum": 600,
+		"CoinType": 1,
+		"ShowAction": 100,
+		"Type": 1
+	},
+	{
+		"Action": 2501013,
+		"BuyTimes": 4,
+		"CoinNum": 900,
+		"CoinType": 1,
+		"ShowAction": 100,
+		"Type": 1
+	},
+	{
+		"Action": 2501013,
+		"BuyTimes": 5,
+		"CoinNum": 1300,
+		"CoinType": 1,
+		"ShowAction": 100,
+		"Type": 1
+	},
+	{
+		"Action": 2501013,
+		"BuyTimes": 1,
+		"CoinNum": 4000,
+		"CoinType": 2,
+		"ShowAction": 100,
+		"Type": 2
+	}
+]

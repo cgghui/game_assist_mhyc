@@ -1,0 +1,206 @@
+[
+	{
+		"GroupId": 1,
+		"Id": 101,
+		"Name": "BOSS系统",
+		"Order": 1
+	},
+	{
+		"FunId": 11050,
+		"GroupId": 1,
+		"Id": 102,
+		"Name": "个人BOSS",
+		"Order": 1,
+		"Priority": 5
+	},
+	{
+		"FunId": 11051,
+		"GroupId": 1,
+		"Id": 103,
+		"Name": "至尊BOSS",
+		"Order": 2,
+		"Priority": 6
+	},
+	{
+		"FunId": 11052,
+		"GroupId": 1,
+		"Id": 104,
+		"Name": "多人BOSS",
+		"Order": 3,
+		"Priority": 7
+	},
+	{
+		"FunId": 11053,
+		"GroupId": 1,
+		"Id": 105,
+		"Name": "世界BOSS",
+		"Order": 4,
+		"Priority": 1
+	},
+	{
+		"AddSetState": 3,
+		"FunId": 11054,
+		"GroupId": 1,
+		"Id": 106,
+		"Name": "BOSS之家",
+		"Order": 5,
+		"Priority": 8
+	},
+	{
+		"AddSetState": 2,
+		"FunId": 11056,
+		"GroupId": 1,
+		"Id": 107,
+		"Name": "悬赏BOSS",
+		"Order": 6,
+		"Priority": 9
+	},
+	{
+		"FunId": 12801,
+		"GroupId": 1,
+		"Id": 108,
+		"Name": "降妖除魔",
+		"Order": 7,
+		"Priority": 10
+	},
+	{
+		"FunId": 14103,
+		"GroupId": 1,
+		"Id": 109,
+		"Name": "凶兽岛",
+		"Order": 8,
+		"Priority": 20
+	},
+	{
+		"AddSetState": 4,
+		"FunId": 14105,
+		"GroupId": 1,
+		"Id": 110,
+		"Name": "幻灵天界",
+		"Order": 9,
+		"Priority": 21
+	},
+	{
+		"GroupId": 2,
+		"Id": 201,
+		"Name": "竞技系统",
+		"Order": 2
+	},
+	{
+		"FunId": 72,
+		"GroupId": 2,
+		"Id": 202,
+		"Name": "竞技场",
+		"Order": 1,
+		"Priority": 11
+	},
+	{
+		"FunId": 74,
+		"GroupId": 2,
+		"Id": 203,
+		"Name": "王者争霸",
+		"Order": 2,
+		"Priority": 12
+	},
+	{
+		"GroupId": 3,
+		"Id": 301,
+		"Name": "副本系统",
+		"Order": 3
+	},
+	{
+		"FunId": 11151,
+		"GroupId": 3,
+		"Id": 302,
+		"Name": "材料副本",
+		"Order": 1,
+		"Priority": 13
+	},
+	{
+		"FunId": 11152,
+		"GroupId": 3,
+		"Id": 303,
+		"Name": "试炼副本",
+		"Order": 2,
+		"Priority": 14
+	},
+	{
+		"FunId": 11153,
+		"GroupId": 3,
+		"Id": 304,
+		"Name": "爬塔副本",
+		"Order": 3,
+		"Priority": 15
+	},
+	{
+		"FunId": 11157,
+		"GroupId": 3,
+		"Id": 305,
+		"Name": "组队副本",
+		"Order": 4,
+		"Priority": 16
+	},
+	{
+		"AddSetState": 5,
+		"FunId": 15051,
+		"GroupId": 3,
+		"Id": 306,
+		"Name": "秘境探险",
+		"Order": 5,
+		"Priority": 18
+	},
+	{
+		"AddSetState": 6,
+		"FunId": 14520,
+		"GroupId": 3,
+		"Id": 307,
+		"Name": "仙林狩猎",
+		"Order": 6,
+		"Priority": 19
+	},
+	{
+		"GroupId": 4,
+		"Id": 401,
+		"Name": "跨服系统",
+		"Order": 4
+	},
+	{
+		"FunId": 819,
+		"GroupId": 4,
+		"Id": 402,
+		"Name": "幻境",
+		"Order": 2,
+		"Priority": 17
+	},
+	{
+		"GroupId": 5,
+		"Id": 501,
+		"Name": "其他活动",
+		"Order": 5
+	},
+	{
+		"AddSetState": 1,
+		"FunId": 814,
+		"GroupId": 5,
+		"Id": 502,
+		"Name": "双倍护送",
+		"Order": 1,
+		"Priority": 2
+	},
+	{
+		"FunId": 11007,
+		"GroupId": 5,
+		"Id": 503,
+		"Name": "仙山争夺",
+		"Order": 2,
+		"Priority": 3
+	},
+	{
+		"FunId": 11009,
+		"GroupId": 5,
+		"Id": 504,
+		"Name": "神兽之怒",
+		"Order": 3,
+		"Priority": 4
+	}
+]

@@ -1,0 +1,271 @@
+[
+	{
+		"AddExp": 10,
+		"AttrId": 2672001,
+		"GradeType": 2,
+		"Id": 1,
+		"Level": 1,
+		"NeedItem": 2040001
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672002,
+		"GradeType": 2,
+		"Id": 2,
+		"Level": 2,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 100
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672003,
+		"GradeType": 2,
+		"Id": 3,
+		"Level": 3,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 200
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672004,
+		"GradeType": 2,
+		"Id": 4,
+		"Level": 4,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 600
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672005,
+		"GradeType": 2,
+		"Id": 5,
+		"Level": 5,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672006,
+		"GradeType": 2,
+		"Id": 6,
+		"Level": 6,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 1500
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672007,
+		"GradeType": 2,
+		"Id": 7,
+		"Level": 7,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 1800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672008,
+		"GradeType": 2,
+		"Id": 8,
+		"Level": 8,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 2800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672009,
+		"GradeType": 2,
+		"Id": 9,
+		"Level": 9,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 3200
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672010,
+		"GradeType": 2,
+		"Id": 10,
+		"Level": 10,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 4500
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672011,
+		"GradeType": 2,
+		"Id": 11,
+		"Level": 11,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 5000
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672012,
+		"GradeType": 2,
+		"Id": 12,
+		"Level": 12,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 6600
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672013,
+		"GradeType": 2,
+		"Id": 13,
+		"Level": 13,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 7200
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672014,
+		"GradeType": 2,
+		"Id": 14,
+		"Level": 14,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 9100
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672015,
+		"GradeType": 2,
+		"Id": 15,
+		"Level": 15,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 9800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672016,
+		"GradeType": 2,
+		"Id": 16,
+		"Level": 16,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 12000
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672017,
+		"GradeType": 2,
+		"Id": 17,
+		"Level": 17,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 12800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672018,
+		"GradeType": 2,
+		"Id": 18,
+		"Level": 18,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 15300
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672019,
+		"GradeType": 2,
+		"Id": 19,
+		"Level": 19,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 16200
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672020,
+		"GradeType": 2,
+		"Id": 20,
+		"Level": 20,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 19000
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672021,
+		"GradeType": 2,
+		"Id": 21,
+		"Level": 21,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 21800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672022,
+		"GradeType": 2,
+		"Id": 22,
+		"Level": 22,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 23600
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672023,
+		"GradeType": 2,
+		"Id": 23,
+		"Level": 23,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 25600
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672024,
+		"GradeType": 2,
+		"Id": 24,
+		"Level": 24,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 31000
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672025,
+		"GradeType": 2,
+		"Id": 25,
+		"Level": 25,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 35400
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672026,
+		"GradeType": 2,
+		"Id": 26,
+		"Level": 26,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 40800
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672027,
+		"GradeType": 2,
+		"Id": 27,
+		"Level": 27,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 44200
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672028,
+		"GradeType": 2,
+		"Id": 28,
+		"Level": 28,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 48600
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672029,
+		"GradeType": 2,
+		"Id": 29,
+		"Level": 29,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 53000
+	},
+	{
+		"AddExp": 10,
+		"AttrId": 2672030,
+		"GradeType": 2,
+		"Id": 30,
+		"Level": 30,
+		"NeedItem": 2040001,
+		"NeedTotalExp": 57400
+	}
+]

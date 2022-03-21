@@ -1,0 +1,304 @@
+[
+	{
+		"AnimId": "horse/action_4046",
+		"ID": 2,
+		"ResType": 3,
+		"Scale": 100,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4234",
+		"ID": 3,
+		"ResType": 4,
+		"Scale": 100,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4236",
+		"ID": 4,
+		"ResType": 4,
+		"Scale": 65,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4237",
+		"ID": 5,
+		"ResType": 4,
+		"Scale": 70,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4238",
+		"ID": 6,
+		"ResType": 4,
+		"Scale": 60,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4239",
+		"ID": 7,
+		"ResType": 4,
+		"Scale": 70,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4240",
+		"ID": 8,
+		"ResType": 4,
+		"Scale": 65,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4242",
+		"ID": 9,
+		"ResType": 4,
+		"Scale": 70,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4243",
+		"ID": 10,
+		"ResType": 4,
+		"Scale": 90,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4246",
+		"ID": 11,
+		"ResType": 4,
+		"Scale": 85,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4247",
+		"ID": 12,
+		"ResType": 4,
+		"Scale": 85,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "wing/action_4253",
+		"ID": 13,
+		"ResType": 4,
+		"Scale": 80,
+		"TableName": "Cfg_SkinGrade"
+	},
+	{
+		"AnimId": "pet/action_1057",
+		"ID": 14,
+		"Scale": 95,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1059",
+		"ID": 15,
+		"Scale": 80,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1063",
+		"ID": 16,
+		"Scale": 90,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1066",
+		"ID": 17,
+		"Scale": 90,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1067",
+		"ID": 18,
+		"Scale": 90,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1071",
+		"ID": 19,
+		"Scale": 85,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1317",
+		"ID": 20,
+		"Scale": 75,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1502",
+		"ID": 21,
+		"Scale": 100,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1504",
+		"ID": 22,
+		"Scale": 100,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1801",
+		"ID": 23,
+		"Scale": 75,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1802",
+		"ID": 24,
+		"Scale": 100,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_1803",
+		"ID": 25,
+		"Scale": 100,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_2034",
+		"ID": 26,
+		"Scale": 85,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_2209",
+		"ID": 27,
+		"Scale": 85,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "pet/action_4046",
+		"ID": 28,
+		"Scale": 100,
+		"TableName": "Cfg_Pet2"
+	},
+	{
+		"AnimId": "sect/ui_6415",
+		"ID": 29,
+		"Scale": 65
+	},
+	{
+		"AnimId": "sect/ui_6416",
+		"ID": 30,
+		"Scale": 50
+	},
+	{
+		"AnimId": "Marry/ui_6426",
+		"ID": 31,
+		"Scale": 90
+	},
+	{
+		"AnimId": "Marry/ui_6427",
+		"ID": 32,
+		"Scale": 65
+	},
+	{
+		"AnimId": "Marry/ui_6428",
+		"ID": 33,
+		"Scale": 70
+	},
+	{
+		"AnimId": "realm/ui_6434",
+		"ID": 34,
+		"Scale": 80
+	},
+	{
+		"AnimId": "realm/ui_6435",
+		"ID": 35,
+		"Scale": 80
+	},
+	{
+		"AnimId": "realm/ui_6436",
+		"ID": 36,
+		"Scale": 80
+	},
+	{
+		"AnimId": "realm/ui_6444",
+		"ID": 37,
+		"Scale": 80
+	},
+	{
+		"AnimId": "realm/ui_6445",
+		"ID": 38,
+		"Scale": 80
+	},
+	{
+		"AnimId": "realm/ui_6446",
+		"ID": 39,
+		"Scale": 88
+	},
+	{
+		"AnimId": "zoo/ui_6577",
+		"ID": 40,
+		"Scale": 70
+	},
+	{
+		"AnimId": "zoo/ui_6579",
+		"ID": 41,
+		"Scale": 70
+	},
+	{
+		"AnimId": "zoo/ui_6580",
+		"ID": 42,
+		"Scale": 70
+	},
+	{
+		"AnimId": "practi/ui_6854",
+		"ID": 43,
+		"Scale": 80
+	},
+	{
+		"AnimId": "newStoy/ui_8071",
+		"ID": 44,
+		"Scale": 70
+	},
+	{
+		"AnimId": "skill_effect/action_1802",
+		"ID": 45,
+		"Scale": 50,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_1803",
+		"ID": 46,
+		"Scale": 50,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_5017s",
+		"ID": 47,
+		"Scale": 80,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_5018",
+		"ID": 48,
+		"Scale": 80,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_15002s",
+		"ID": 49,
+		"Scale": 80,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_15003",
+		"ID": 50,
+		"Scale": 80,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_15005",
+		"ID": 51,
+		"Scale": 80,
+		"TableName": "Cfg_Skill"
+	},
+	{
+		"AnimId": "skill_effect/action_15006",
+		"ID": 52,
+		"Scale": 60,
+		"TableName": "Cfg_Skill"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 1,
+		"MapId": 2451,
+		"MonsterId": 1501,
+		"Name": "冰霜遗迹",
+		"OccupiedPrize": 205,
+		"RelivePoints1": "19:53|27:53|23:56|19:59|28:59",
+		"RelivePoints2": "9:19|34:19|9:35|34:35",
+		"ZdType": 1
+	},
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 2,
+		"MapId": 2452,
+		"MonsterId": 1502,
+		"Name": "熔岩遗迹",
+		"OccupiedPrize": 205,
+		"RelivePoints1": "17:60|27:60|21:63|16:65|28:65",
+		"RelivePoints2": "13:28|34:28|13:41|34:41",
+		"ZdType": 1
+	},
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 3,
+		"MapId": 2453,
+		"MonsterId": 1503,
+		"Name": "沼泽遗迹",
+		"OccupiedPrize": 205,
+		"RelivePoints1": "21:63|17:67|26:66|22:69",
+		"RelivePoints2": "11:25|31:25|11:39|31:39",
+		"ZdType": 1
+	},
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 4,
+		"MapId": 2450,
+		"MonsterId": 1504,
+		"Name": "诸神遗迹",
+		"OccupiedPrize": 206,
+		"RelivePoints1": "12:56|30:56|21:59|15:63|26:63",
+		"RelivePoints2": "9:26|34:24|9:38|34:38",
+		"ZdType": 2
+	},
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 5,
+		"MapId": 2454,
+		"MonsterId": 1505,
+		"Name": "火山遗迹",
+		"OccupiedPrize": 205,
+		"RelivePoints1": "19:53|27:53|23:56|19:59|28:59",
+		"RelivePoints2": "9:20|29:20|9:31|29:31",
+		"ZdType": 1
+	},
+	{
+		"AdscPrize": 202,
+		"EntrustPrize": 204,
+		"Id": 6,
+		"MapId": 2455,
+		"MonsterId": 1506,
+		"Name": "漩涡遗迹",
+		"OccupiedPrize": 205,
+		"RelivePoints1": "27:21|34:49|33:54|30:60|38:58",
+		"RelivePoints2": "12:24|30:24|12:34|30:34",
+		"ZdType": 1
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Desc": "凶猛爪击",
+		"Id": 1,
+		"Part": 1,
+		"Reborn": "1|1",
+		"RoleGodSkillType": 1,
+		"SkillId": 2401
+	},
+	{
+		"Desc": "慑敌千军",
+		"Id": 2,
+		"Part": 4,
+		"Reborn": "2|1",
+		"RoleGodSkillType": 1,
+		"SkillId": 2404
+	},
+	{
+		"Desc": "仙人指路",
+		"Id": 3,
+		"Part": 3,
+		"Reborn": "3|1",
+		"RoleGodSkillType": 1,
+		"SkillId": 2403
+	},
+	{
+		"Desc": "战神本能",
+		"Id": 4,
+		"Part": 2,
+		"Reborn": "4|1",
+		"RoleGodSkillType": 1,
+		"SkillId": 2402
+	},
+	{
+		"Desc": "复仇呐喊",
+		"Id": 5,
+		"Part": 5,
+		"Reborn": "5|2",
+		"RoleGodSkillType": 1,
+		"SkillId": 2405
+	},
+	{
+		"Desc": "绝地反击",
+		"Id": 6,
+		"Part": 6,
+		"Reborn": "6|3",
+		"RoleGodSkillType": 1,
+		"SkillId": 2406
+	},
+	{
+		"Desc": "无情压制",
+		"Id": 7,
+		"Part": 7,
+		"Reborn": "7|4",
+		"RoleGodSkillType": 1,
+		"SkillId": 2407
+	},
+	{
+		"Desc": "复苏之风",
+		"Id": 8,
+		"Part": 8,
+		"Reborn": "9|5",
+		"RoleGodSkillType": 1,
+		"SkillId": 2408
+	},
+	{
+		"Desc": "弹无虚发",
+		"Id": 9,
+		"Part": 9,
+		"Reborn": "11|5",
+		"RoleGodSkillType": 1,
+		"SkillId": 2409
+	},
+	{
+		"Desc": "异刃狂岚",
+		"Id": 10,
+		"Part": 10,
+		"Reborn": "12|5",
+		"RoleGodSkillType": 1,
+		"SkillId": 2410
+	}
+]

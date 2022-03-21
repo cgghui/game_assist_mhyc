@@ -1,0 +1,58 @@
+[
+	{
+		"Name": "阵营个人排行",
+		"Param": 1000,
+		"ParamClient": 1000,
+		"RankAll": 50,
+		"RankType": 1
+	},
+	{
+		"Name": "阵营仙宗排行",
+		"Param": 1001,
+		"ParamClient": 1001,
+		"RankAll": 10,
+		"RankType": 2
+	},
+	{
+		"Name": "神域个人排行",
+		"Param": 1002,
+		"ParamClient": 1002,
+		"RankAll": 100,
+		"RankType": 3
+	},
+	{
+		"Name": "神域阵营排行",
+		"Param": 1003,
+		"ParamClient": 1003,
+		"RankAll": 4,
+		"RankType": 4
+	},
+	{
+		"Name": "阵营个人排行",
+		"Param": 1004,
+		"ParamClient": 1004,
+		"RankAll": 50,
+		"RankType": 5
+	},
+	{
+		"Name": "阵营仙宗排行",
+		"Param": 1005,
+		"ParamClient": 1005,
+		"RankAll": 10,
+		"RankType": 6
+	},
+	{
+		"Name": "神域个人排行",
+		"Param": 1006,
+		"ParamClient": 1006,
+		"RankAll": 100,
+		"RankType": 7
+	},
+	{
+		"Name": "神域阵营排行",
+		"Param": 1007,
+		"ParamClient": 1007,
+		"RankAll": 4,
+		"RankType": 8
+	}
+]

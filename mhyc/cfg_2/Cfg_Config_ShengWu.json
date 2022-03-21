@@ -1,0 +1,14 @@
+[
+	{
+		"CfgKey": "ShengWuMaxNum",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "ShengWuMaxLevel",
+		"CfgValue": "8"
+	},
+	{
+		"CfgKey": "ShengWuMaxStar",
+		"CfgValue": "5"
+	}
+]

@@ -1,0 +1,195 @@
+[
+	{
+		"ClientFuncId": 10001,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 1,
+		"Name": "完成神位任务",
+		"Nextid": 2,
+		"Prize": "2:200|2501002:1",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10011,
+		"CounterType": 2201,
+		"Id": 2,
+		"Name": "使用行动丹",
+		"Nextid": 3,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10101,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 3,
+		"Name": "完成神位任务",
+		"Nextid": 9,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 2
+	},
+	{
+		"ClientFuncId": 10701,
+		"CounterType": 2001,
+		"Id": 9,
+		"Independent": 1,
+		"Name": "查看神坛",
+		"Nextid": 4,
+		"Param": "[2]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10201,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 4,
+		"Name": "完成神位任务",
+		"Nextid": 8,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 3
+	},
+	{
+		"ClientFuncId": 10601,
+		"CounterType": 2001,
+		"Id": 8,
+		"Independent": 1,
+		"Name": "查看小地图",
+		"Nextid": 5,
+		"Param": "[1]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10301,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 5,
+		"Name": "完成神位任务",
+		"Nextid": 6,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 4
+	},
+	{
+		"ClientFuncId": 10401,
+		"CounterType": 1901,
+		"Id": 6,
+		"Name": "商店购买道具",
+		"Nextid": 7,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10501,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 7,
+		"Name": "完成神位任务",
+		"Nextid": 11,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 5
+	},
+	{
+		"ClientFuncId": 10901,
+		"CounterType": 2001,
+		"Id": 11,
+		"Independent": 1,
+		"Name": "查看赛季信息",
+		"Nextid": 10,
+		"Param": "[3]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 10801,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 10,
+		"Name": "完成神位任务",
+		"Nextid": 12,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 6
+	},
+	{
+		"ClientFuncId": 11001,
+		"CounterType": 2001,
+		"Id": 12,
+		"Independent": 1,
+		"Name": "查看排行榜",
+		"Nextid": 13,
+		"Param": "[6]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 11101,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 13,
+		"Name": "完成神位任务",
+		"Nextid": 14,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 7
+	},
+	{
+		"ClientFuncId": 11201,
+		"CounterType": 2001,
+		"Id": 14,
+		"Independent": 1,
+		"Name": "查看限时活动",
+		"Nextid": 15,
+		"Param": "[4]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 11301,
+		"CounterType": 2101,
+		"Id": 15,
+		"Independent": 1,
+		"Name": "参观神域殿堂",
+		"Nextid": 16,
+		"Param": "[3003]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	},
+	{
+		"ClientFuncId": 11401,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 16,
+		"Name": "完成神位任务",
+		"Nextid": 17,
+		"Prize": "2:200|2501012:1",
+		"TargetCount": 8
+	},
+	{
+		"ClientFuncId": 11501,
+		"CounterType": 2201,
+		"Id": 17,
+		"Name": "使用行动丹",
+		"Nextid": 18,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 2
+	},
+	{
+		"ClientFuncId": 11601,
+		"CounterType": 1801,
+		"Hand": 1,
+		"Id": 18,
+		"Name": "完成神位任务",
+		"Nextid": 19,
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 9
+	},
+	{
+		"ClientFuncId": 11701,
+		"CounterType": 2001,
+		"Id": 19,
+		"Independent": 1,
+		"Name": "查看神域指南",
+		"Param": "[5]",
+		"Prize": "2:200|2501001:1000",
+		"TargetCount": 1
+	}
+]

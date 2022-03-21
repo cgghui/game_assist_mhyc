@@ -1,0 +1,82 @@
+[
+	{
+		"Desc": "SVIP等级排名第一，即可激活上线提醒公告",
+		"Enable": 1,
+		"Icon": "btn_gui",
+		"Id": 1,
+		"Name": "闪耀贵族",
+		"Priority": 5,
+		"Rank": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"TipsType": 125,
+		"Title": 101,
+		"Type": 1
+	},
+	{
+		"Desc": "战力榜排名第一，即可激活上线提醒公告",
+		"Enable": 1,
+		"Icon": "btn_zhan",
+		"Id": 2,
+		"Name": "仙界战神",
+		"Priority": 1,
+		"Rank": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"TipsType": 9999,
+		"Title": 102,
+		"Type": 1
+	},
+	{
+		"Desc": "竞技场排名第一，即可激活上线提醒公告",
+		"Enable": 1,
+		"Icon": "btn_jing",
+		"Id": 3,
+		"Name": "竞技之神",
+		"Priority": 4,
+		"Rank": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"TipsType": 60,
+		"Title": 103,
+		"Type": 1
+	},
+	{
+		"Desc": "上届王者争霸上届排名第一，即可激活上线提醒公告",
+		"Enable": 1,
+		"Icon": "btn_wang",
+		"Id": 4,
+		"Name": "最强王者",
+		"Priority": 3,
+		"Rank": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"TipsType": 90,
+		"Title": 104,
+		"Type": 1
+	},
+	{
+		"Desc": "巅峰竞技排名第一，即可激活上线提醒公告",
+		"Enable": 1,
+		"Icon": "btn_dian",
+		"Id": 5,
+		"Name": "巅峰之主",
+		"Priority": 2,
+		"Rank": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"TipsType": 100,
+		"Title": 105,
+		"Type": 1
+	},
+	{
+		"Enable": 1,
+		"Id": 11,
+		"Name": "仙界领袖",
+		"Priority": 1,
+		"Time": 5,
+		"TipCD": 300,
+		"Title": 1101,
+		"Type": 2
+	}
+]

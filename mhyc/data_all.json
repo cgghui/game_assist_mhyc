@@ -18632,7 +18632,7 @@
                     }
                 },
                 "S2CTotalSignPrize": {
-                    "fields": {
+                    "fields": { 
                         "Tag": {
                             "type": "int32",
                             "id": 1

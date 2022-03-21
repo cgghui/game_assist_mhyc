@@ -1,0 +1,14 @@
+[
+	{
+		"Condition": "1:1",
+		"PosId": 1
+	},
+	{
+		"Condition": "1:151|3:15",
+		"PosId": 2
+	},
+	{
+		"Condition": "1:240",
+		"PosId": 3
+	}
+]

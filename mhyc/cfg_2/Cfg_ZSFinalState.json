@@ -1,0 +1,67 @@
+[
+	{
+		"Round": 1,
+		"State": "T1",
+		"StateName": "开天辟地赛"
+	},
+	{
+		"Round": 2,
+		"State": "D1",
+		"StateName": "地榜第一轮"
+	},
+	{
+		"Round": 3,
+		"State": "T2",
+		"StateName": "天榜第一轮"
+	},
+	{
+		"Round": 4,
+		"State": "D2",
+		"StateName": "地榜第二轮"
+	},
+	{
+		"Round": 5,
+		"State": "T3",
+		"StateName": "天榜第二轮"
+	},
+	{
+		"Round": 6,
+		"State": "D3",
+		"StateName": "地榜第三轮"
+	},
+	{
+		"Round": 7,
+		"State": "T4",
+		"StateName": "天榜第三轮"
+	},
+	{
+		"Round": 8,
+		"State": "D4",
+		"StateName": "地榜第四轮"
+	},
+	{
+		"Round": 9,
+		"State": "T5",
+		"StateName": "天榜冠军赛"
+	},
+	{
+		"Round": 10,
+		"State": "D5",
+		"StateName": "地榜第五轮"
+	},
+	{
+		"Round": 11,
+		"State": "D6",
+		"StateName": "地榜第六轮"
+	},
+	{
+		"Round": 12,
+		"State": "D7",
+		"StateName": "地榜冠军赛"
+	},
+	{
+		"Round": 13,
+		"State": "D8",
+		"StateName": "天地对决赛"
+	}
+]

@@ -1,0 +1,1177 @@
+[
+	{
+		"BaseAttr": 3301101,
+		"CostItem": "2320141:10",
+		"Id": 1,
+		"Name": "青铜之王",
+		"Star": 1
+	},
+	{
+		"BaseAttr": 3301102,
+		"CostItem": "2320141:10",
+		"Id": 1,
+		"Name": "青铜之王",
+		"Star": 2
+	},
+	{
+		"BaseAttr": 3301103,
+		"CostItem": "2320141:10",
+		"Id": 1,
+		"Name": "青铜之王",
+		"Star": 3
+	},
+	{
+		"BaseAttr": 3301104,
+		"CostItem": "2320141:10",
+		"Id": 1,
+		"Name": "青铜之王",
+		"Star": 4
+	},
+	{
+		"BaseAttr": 3301105,
+		"CostItem": "2320141:10",
+		"Id": 1,
+		"Name": "青铜之王",
+		"Star": 5
+	},
+	{
+		"BaseAttr": 3301106,
+		"CostItem": "2320141:20",
+		"Id": 1,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 6
+	},
+	{
+		"BaseAttr": 3301107,
+		"CostItem": "2320141:20",
+		"Id": 1,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 7
+	},
+	{
+		"BaseAttr": 3301108,
+		"CostItem": "2320141:20",
+		"Id": 1,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 8
+	},
+	{
+		"BaseAttr": 3301109,
+		"CostItem": "2320141:20",
+		"Id": 1,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 9
+	},
+	{
+		"BaseAttr": 3301110,
+		"CostItem": "2320141:20",
+		"Id": 1,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 10
+	},
+	{
+		"BaseAttr": 3301111,
+		"CostItem": "2320141:40",
+		"Id": 1,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 11
+	},
+	{
+		"BaseAttr": 3301112,
+		"CostItem": "2320141:40",
+		"Id": 1,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 12
+	},
+	{
+		"BaseAttr": 3301113,
+		"CostItem": "2320141:40",
+		"Id": 1,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 13
+	},
+	{
+		"BaseAttr": 3301114,
+		"CostItem": "2320141:40",
+		"Id": 1,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 14
+	},
+	{
+		"BaseAttr": 3301115,
+		"CostItem": "2320141:40",
+		"Id": 1,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 15
+	},
+	{
+		"BaseAttr": 3301116,
+		"CostItem": "2320141:80",
+		"Id": 1,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 16
+	},
+	{
+		"BaseAttr": 3301117,
+		"CostItem": "2320141:80",
+		"Id": 1,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 17
+	},
+	{
+		"BaseAttr": 3301118,
+		"CostItem": "2320141:80",
+		"Id": 1,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 18
+	},
+	{
+		"BaseAttr": 3301119,
+		"CostItem": "2320141:80",
+		"Id": 1,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 19
+	},
+	{
+		"BaseAttr": 3301120,
+		"CostItem": "2320141:80",
+		"Id": 1,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 20
+	},
+	{
+		"BaseAttr": 3301121,
+		"CostItem": "2320141:160",
+		"Id": 1,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 21
+	},
+	{
+		"BaseAttr": 3301122,
+		"CostItem": "2320141:160",
+		"Id": 1,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 22
+	},
+	{
+		"BaseAttr": 3301123,
+		"CostItem": "2320141:160",
+		"Id": 1,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 23
+	},
+	{
+		"BaseAttr": 3301124,
+		"CostItem": "2320141:160",
+		"Id": 1,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 24
+	},
+	{
+		"BaseAttr": 3301125,
+		"CostItem": "2320141:160",
+		"Id": 1,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 25
+	},
+	{
+		"BaseAttr": 3301126,
+		"CostItem": "2320141:320",
+		"Id": 1,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 26
+	},
+	{
+		"BaseAttr": 3301127,
+		"CostItem": "2320141:320",
+		"Id": 1,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 27
+	},
+	{
+		"BaseAttr": 3301128,
+		"CostItem": "2320141:320",
+		"Id": 1,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 28
+	},
+	{
+		"BaseAttr": 3301129,
+		"CostItem": "2320141:320",
+		"Id": 1,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 29
+	},
+	{
+		"BaseAttr": 3301130,
+		"CostItem": "2320141:320",
+		"Id": 1,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 30
+	},
+	{
+		"BaseAttr": 3301201,
+		"CostItem": "2320142:10",
+		"Id": 2,
+		"Name": "青铜之王",
+		"Star": 1
+	},
+	{
+		"BaseAttr": 3301202,
+		"CostItem": "2320142:10",
+		"Id": 2,
+		"Name": "青铜之王",
+		"Star": 2
+	},
+	{
+		"BaseAttr": 3301203,
+		"CostItem": "2320142:10",
+		"Id": 2,
+		"Name": "青铜之王",
+		"Star": 3
+	},
+	{
+		"BaseAttr": 3301204,
+		"CostItem": "2320142:10",
+		"Id": 2,
+		"Name": "青铜之王",
+		"Star": 4
+	},
+	{
+		"BaseAttr": 3301205,
+		"CostItem": "2320142:10",
+		"Id": 2,
+		"Name": "青铜之王",
+		"Star": 5
+	},
+	{
+		"BaseAttr": 3301206,
+		"CostItem": "2320142:20",
+		"Id": 2,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 6
+	},
+	{
+		"BaseAttr": 3301207,
+		"CostItem": "2320142:20",
+		"Id": 2,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 7
+	},
+	{
+		"BaseAttr": 3301208,
+		"CostItem": "2320142:20",
+		"Id": 2,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 8
+	},
+	{
+		"BaseAttr": 3301209,
+		"CostItem": "2320142:20",
+		"Id": 2,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 9
+	},
+	{
+		"BaseAttr": 3301210,
+		"CostItem": "2320142:20",
+		"Id": 2,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 10
+	},
+	{
+		"BaseAttr": 3301211,
+		"CostItem": "2320142:40",
+		"Id": 2,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 11
+	},
+	{
+		"BaseAttr": 3301212,
+		"CostItem": "2320142:40",
+		"Id": 2,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 12
+	},
+	{
+		"BaseAttr": 3301213,
+		"CostItem": "2320142:40",
+		"Id": 2,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 13
+	},
+	{
+		"BaseAttr": 3301214,
+		"CostItem": "2320142:40",
+		"Id": 2,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 14
+	},
+	{
+		"BaseAttr": 3301215,
+		"CostItem": "2320142:40",
+		"Id": 2,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 15
+	},
+	{
+		"BaseAttr": 3301216,
+		"CostItem": "2320142:80",
+		"Id": 2,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 16
+	},
+	{
+		"BaseAttr": 3301217,
+		"CostItem": "2320142:80",
+		"Id": 2,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 17
+	},
+	{
+		"BaseAttr": 3301218,
+		"CostItem": "2320142:80",
+		"Id": 2,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 18
+	},
+	{
+		"BaseAttr": 3301219,
+		"CostItem": "2320142:80",
+		"Id": 2,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 19
+	},
+	{
+		"BaseAttr": 3301220,
+		"CostItem": "2320142:80",
+		"Id": 2,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 20
+	},
+	{
+		"BaseAttr": 3301221,
+		"CostItem": "2320142:160",
+		"Id": 2,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 21
+	},
+	{
+		"BaseAttr": 3301222,
+		"CostItem": "2320142:160",
+		"Id": 2,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 22
+	},
+	{
+		"BaseAttr": 3301223,
+		"CostItem": "2320142:160",
+		"Id": 2,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 23
+	},
+	{
+		"BaseAttr": 3301224,
+		"CostItem": "2320142:160",
+		"Id": 2,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 24
+	},
+	{
+		"BaseAttr": 3301225,
+		"CostItem": "2320142:160",
+		"Id": 2,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 25
+	},
+	{
+		"BaseAttr": 3301226,
+		"CostItem": "2320142:320",
+		"Id": 2,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 26
+	},
+	{
+		"BaseAttr": 3301227,
+		"CostItem": "2320142:320",
+		"Id": 2,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 27
+	},
+	{
+		"BaseAttr": 3301228,
+		"CostItem": "2320142:320",
+		"Id": 2,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 28
+	},
+	{
+		"BaseAttr": 3301229,
+		"CostItem": "2320142:320",
+		"Id": 2,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 29
+	},
+	{
+		"BaseAttr": 3301230,
+		"CostItem": "2320142:320",
+		"Id": 2,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 30
+	},
+	{
+		"BaseAttr": 3301301,
+		"CostItem": "2320143:10",
+		"Id": 3,
+		"Name": "青铜之王",
+		"Star": 1
+	},
+	{
+		"BaseAttr": 3301302,
+		"CostItem": "2320143:10",
+		"Id": 3,
+		"Name": "青铜之王",
+		"Star": 2
+	},
+	{
+		"BaseAttr": 3301303,
+		"CostItem": "2320143:10",
+		"Id": 3,
+		"Name": "青铜之王",
+		"Star": 3
+	},
+	{
+		"BaseAttr": 3301304,
+		"CostItem": "2320143:10",
+		"Id": 3,
+		"Name": "青铜之王",
+		"Star": 4
+	},
+	{
+		"BaseAttr": 3301305,
+		"CostItem": "2320143:10",
+		"Id": 3,
+		"Name": "青铜之王",
+		"Star": 5
+	},
+	{
+		"BaseAttr": 3301306,
+		"CostItem": "2320143:20",
+		"Id": 3,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 6
+	},
+	{
+		"BaseAttr": 3301307,
+		"CostItem": "2320143:20",
+		"Id": 3,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 7
+	},
+	{
+		"BaseAttr": 3301308,
+		"CostItem": "2320143:20",
+		"Id": 3,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 8
+	},
+	{
+		"BaseAttr": 3301309,
+		"CostItem": "2320143:20",
+		"Id": 3,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 9
+	},
+	{
+		"BaseAttr": 3301310,
+		"CostItem": "2320143:20",
+		"Id": 3,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 10
+	},
+	{
+		"BaseAttr": 3301311,
+		"CostItem": "2320143:40",
+		"Id": 3,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 11
+	},
+	{
+		"BaseAttr": 3301312,
+		"CostItem": "2320143:40",
+		"Id": 3,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 12
+	},
+	{
+		"BaseAttr": 3301313,
+		"CostItem": "2320143:40",
+		"Id": 3,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 13
+	},
+	{
+		"BaseAttr": 3301314,
+		"CostItem": "2320143:40",
+		"Id": 3,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 14
+	},
+	{
+		"BaseAttr": 3301315,
+		"CostItem": "2320143:40",
+		"Id": 3,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 15
+	},
+	{
+		"BaseAttr": 3301316,
+		"CostItem": "2320143:80",
+		"Id": 3,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 16
+	},
+	{
+		"BaseAttr": 3301317,
+		"CostItem": "2320143:80",
+		"Id": 3,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 17
+	},
+	{
+		"BaseAttr": 3301318,
+		"CostItem": "2320143:80",
+		"Id": 3,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 18
+	},
+	{
+		"BaseAttr": 3301319,
+		"CostItem": "2320143:80",
+		"Id": 3,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 19
+	},
+	{
+		"BaseAttr": 3301320,
+		"CostItem": "2320143:80",
+		"Id": 3,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 20
+	},
+	{
+		"BaseAttr": 3301321,
+		"CostItem": "2320143:160",
+		"Id": 3,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 21
+	},
+	{
+		"BaseAttr": 3301322,
+		"CostItem": "2320143:160",
+		"Id": 3,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 22
+	},
+	{
+		"BaseAttr": 3301323,
+		"CostItem": "2320143:160",
+		"Id": 3,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 23
+	},
+	{
+		"BaseAttr": 3301324,
+		"CostItem": "2320143:160",
+		"Id": 3,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 24
+	},
+	{
+		"BaseAttr": 3301325,
+		"CostItem": "2320143:160",
+		"Id": 3,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 25
+	},
+	{
+		"BaseAttr": 3301326,
+		"CostItem": "2320143:320",
+		"Id": 3,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 26
+	},
+	{
+		"BaseAttr": 3301327,
+		"CostItem": "2320143:320",
+		"Id": 3,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 27
+	},
+	{
+		"BaseAttr": 3301328,
+		"CostItem": "2320143:320",
+		"Id": 3,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 28
+	},
+	{
+		"BaseAttr": 3301329,
+		"CostItem": "2320143:320",
+		"Id": 3,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 29
+	},
+	{
+		"BaseAttr": 3301330,
+		"CostItem": "2320143:320",
+		"Id": 3,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 30
+	},
+	{
+		"BaseAttr": 3301401,
+		"CostItem": "2320144:10",
+		"Id": 4,
+		"Name": "青铜之王",
+		"Star": 1
+	},
+	{
+		"BaseAttr": 3301402,
+		"CostItem": "2320144:10",
+		"Id": 4,
+		"Name": "青铜之王",
+		"Star": 2
+	},
+	{
+		"BaseAttr": 3301403,
+		"CostItem": "2320144:10",
+		"Id": 4,
+		"Name": "青铜之王",
+		"Star": 3
+	},
+	{
+		"BaseAttr": 3301404,
+		"CostItem": "2320144:10",
+		"Id": 4,
+		"Name": "青铜之王",
+		"Star": 4
+	},
+	{
+		"BaseAttr": 3301405,
+		"CostItem": "2320144:10",
+		"Id": 4,
+		"Name": "青铜之王",
+		"Star": 5
+	},
+	{
+		"BaseAttr": 3301406,
+		"CostItem": "2320144:20",
+		"Id": 4,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 6
+	},
+	{
+		"BaseAttr": 3301407,
+		"CostItem": "2320144:20",
+		"Id": 4,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 7
+	},
+	{
+		"BaseAttr": 3301408,
+		"CostItem": "2320144:20",
+		"Id": 4,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 8
+	},
+	{
+		"BaseAttr": 3301409,
+		"CostItem": "2320144:20",
+		"Id": 4,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 9
+	},
+	{
+		"BaseAttr": 3301410,
+		"CostItem": "2320144:20",
+		"Id": 4,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 10
+	},
+	{
+		"BaseAttr": 3301411,
+		"CostItem": "2320144:40",
+		"Id": 4,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 11
+	},
+	{
+		"BaseAttr": 3301412,
+		"CostItem": "2320144:40",
+		"Id": 4,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 12
+	},
+	{
+		"BaseAttr": 3301413,
+		"CostItem": "2320144:40",
+		"Id": 4,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 13
+	},
+	{
+		"BaseAttr": 3301414,
+		"CostItem": "2320144:40",
+		"Id": 4,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 14
+	},
+	{
+		"BaseAttr": 3301415,
+		"CostItem": "2320144:40",
+		"Id": 4,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 15
+	},
+	{
+		"BaseAttr": 3301416,
+		"CostItem": "2320144:80",
+		"Id": 4,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 16
+	},
+	{
+		"BaseAttr": 3301417,
+		"CostItem": "2320144:80",
+		"Id": 4,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 17
+	},
+	{
+		"BaseAttr": 3301418,
+		"CostItem": "2320144:80",
+		"Id": 4,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 18
+	},
+	{
+		"BaseAttr": 3301419,
+		"CostItem": "2320144:80",
+		"Id": 4,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 19
+	},
+	{
+		"BaseAttr": 3301420,
+		"CostItem": "2320144:80",
+		"Id": 4,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 20
+	},
+	{
+		"BaseAttr": 3301421,
+		"CostItem": "2320144:160",
+		"Id": 4,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 21
+	},
+	{
+		"BaseAttr": 3301422,
+		"CostItem": "2320144:160",
+		"Id": 4,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 22
+	},
+	{
+		"BaseAttr": 3301423,
+		"CostItem": "2320144:160",
+		"Id": 4,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 23
+	},
+	{
+		"BaseAttr": 3301424,
+		"CostItem": "2320144:160",
+		"Id": 4,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 24
+	},
+	{
+		"BaseAttr": 3301425,
+		"CostItem": "2320144:160",
+		"Id": 4,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 25
+	},
+	{
+		"BaseAttr": 3301426,
+		"CostItem": "2320144:320",
+		"Id": 4,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 26
+	},
+	{
+		"BaseAttr": 3301427,
+		"CostItem": "2320144:320",
+		"Id": 4,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 27
+	},
+	{
+		"BaseAttr": 3301428,
+		"CostItem": "2320144:320",
+		"Id": 4,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 28
+	},
+	{
+		"BaseAttr": 3301429,
+		"CostItem": "2320144:320",
+		"Id": 4,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 29
+	},
+	{
+		"BaseAttr": 3301430,
+		"CostItem": "2320144:320",
+		"Id": 4,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 30
+	},
+	{
+		"BaseAttr": 3301501,
+		"CostItem": "2320145:10",
+		"Id": 5,
+		"Name": "青铜之王",
+		"Star": 1
+	},
+	{
+		"BaseAttr": 3301502,
+		"CostItem": "2320145:10",
+		"Id": 5,
+		"Name": "青铜之王",
+		"Star": 2
+	},
+	{
+		"BaseAttr": 3301503,
+		"CostItem": "2320145:10",
+		"Id": 5,
+		"Name": "青铜之王",
+		"Star": 3
+	},
+	{
+		"BaseAttr": 3301504,
+		"CostItem": "2320145:10",
+		"Id": 5,
+		"Name": "青铜之王",
+		"Star": 4
+	},
+	{
+		"BaseAttr": 3301505,
+		"CostItem": "2320145:10",
+		"Id": 5,
+		"Name": "青铜之王",
+		"Star": 5
+	},
+	{
+		"BaseAttr": 3301506,
+		"CostItem": "2320145:20",
+		"Id": 5,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 6
+	},
+	{
+		"BaseAttr": 3301507,
+		"CostItem": "2320145:20",
+		"Id": 5,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 7
+	},
+	{
+		"BaseAttr": 3301508,
+		"CostItem": "2320145:20",
+		"Id": 5,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 8
+	},
+	{
+		"BaseAttr": 3301509,
+		"CostItem": "2320145:20",
+		"Id": 5,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 9
+	},
+	{
+		"BaseAttr": 3301510,
+		"CostItem": "2320145:20",
+		"Id": 5,
+		"LifeLev": 1,
+		"Name": "白银之王",
+		"Star": 10
+	},
+	{
+		"BaseAttr": 3301511,
+		"CostItem": "2320145:40",
+		"Id": 5,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 11
+	},
+	{
+		"BaseAttr": 3301512,
+		"CostItem": "2320145:40",
+		"Id": 5,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 12
+	},
+	{
+		"BaseAttr": 3301513,
+		"CostItem": "2320145:40",
+		"Id": 5,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 13
+	},
+	{
+		"BaseAttr": 3301514,
+		"CostItem": "2320145:40",
+		"Id": 5,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 14
+	},
+	{
+		"BaseAttr": 3301515,
+		"CostItem": "2320145:40",
+		"Id": 5,
+		"LifeLev": 3,
+		"Name": "黄金之王",
+		"Star": 15
+	},
+	{
+		"BaseAttr": 3301516,
+		"CostItem": "2320145:80",
+		"Id": 5,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 16
+	},
+	{
+		"BaseAttr": 3301517,
+		"CostItem": "2320145:80",
+		"Id": 5,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 17
+	},
+	{
+		"BaseAttr": 3301518,
+		"CostItem": "2320145:80",
+		"Id": 5,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 18
+	},
+	{
+		"BaseAttr": 3301519,
+		"CostItem": "2320145:80",
+		"Id": 5,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 19
+	},
+	{
+		"BaseAttr": 3301520,
+		"CostItem": "2320145:80",
+		"Id": 5,
+		"LifeLev": 5,
+		"Name": "铂金之王",
+		"Star": 20
+	},
+	{
+		"BaseAttr": 3301521,
+		"CostItem": "2320145:160",
+		"Id": 5,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 21
+	},
+	{
+		"BaseAttr": 3301522,
+		"CostItem": "2320145:160",
+		"Id": 5,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 22
+	},
+	{
+		"BaseAttr": 3301523,
+		"CostItem": "2320145:160",
+		"Id": 5,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 23
+	},
+	{
+		"BaseAttr": 3301524,
+		"CostItem": "2320145:160",
+		"Id": 5,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 24
+	},
+	{
+		"BaseAttr": 3301525,
+		"CostItem": "2320145:160",
+		"Id": 5,
+		"LifeLev": 7,
+		"Name": "钻石之王",
+		"Star": 25
+	},
+	{
+		"BaseAttr": 3301526,
+		"CostItem": "2320145:320",
+		"Id": 5,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 26
+	},
+	{
+		"BaseAttr": 3301527,
+		"CostItem": "2320145:320",
+		"Id": 5,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 27
+	},
+	{
+		"BaseAttr": 3301528,
+		"CostItem": "2320145:320",
+		"Id": 5,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 28
+	},
+	{
+		"BaseAttr": 3301529,
+		"CostItem": "2320145:320",
+		"Id": 5,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 29
+	},
+	{
+		"BaseAttr": 3301530,
+		"CostItem": "2320145:320",
+		"Id": 5,
+		"LifeLev": 9,
+		"Name": "最强王者",
+		"Star": 30
+	}
+]

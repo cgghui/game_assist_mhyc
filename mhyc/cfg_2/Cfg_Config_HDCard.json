@@ -1,0 +1,62 @@
+[
+	{
+		"CfgKey": "WeekCardPrize",
+		"CfgValue": "8000001:1|2010004:2|2250303:5|2250301:10"
+	},
+	{
+		"CfgKey": "WeekCardDayCoinPrize",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "MonthCardCoinPrize",
+		"CfgValue": "380"
+	},
+	{
+		"CfgKey": "MonthCardCoinPrize2",
+		"CfgValue": "280"
+	},
+	{
+		"CfgKey": "MonthCardSkillId",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "MonthCardBag",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "MonthCardDayCoinPrize",
+		"CfgValue": "150"
+	},
+	{
+		"CfgKey": "MonthCardBuffInstance",
+		"CfgValue": "8|10|11|60|33|201|202|203|204"
+	},
+	{
+		"CfgKey": "MonthCardBossTimesAdd",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "LifeCardCoinPrize",
+		"CfgValue": "1680"
+	},
+	{
+		"CfgKey": "LifeCardSKinId",
+		"CfgValue": "2001"
+	},
+	{
+		"CfgKey": "LifeCardDayCoinPrize",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "LifeCardAFKBuffId",
+		"CfgValue": "601"
+	},
+	{
+		"CfgKey": "LifeCardDoubleCharge",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "LifeCardBossTimesAdd",
+		"CfgValue": "2"
+	}
+]

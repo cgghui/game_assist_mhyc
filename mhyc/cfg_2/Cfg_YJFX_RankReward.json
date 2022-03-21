@@ -1,0 +1,27 @@
+[
+	{
+		"Max": 1,
+		"Min": 1,
+		"RewardId": 2021
+	},
+	{
+		"Max": 2,
+		"Min": 2,
+		"RewardId": 2022
+	},
+	{
+		"Max": 3,
+		"Min": 3,
+		"RewardId": 2023
+	},
+	{
+		"Max": 10,
+		"Min": 4,
+		"RewardId": 2024
+	},
+	{
+		"Max": 100,
+		"Min": 11,
+		"RewardId": 2025
+	}
+]

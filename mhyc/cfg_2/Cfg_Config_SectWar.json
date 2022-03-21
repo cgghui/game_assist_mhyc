@@ -1,0 +1,102 @@
+[
+	{
+		"CfgKey": "SWFightCD",
+		"CfgValue": "45"
+	},
+	{
+		"CfgKey": "SWFightCleanCDCost",
+		"CfgValue": "1:50"
+	},
+	{
+		"CfgKey": "SWDeclareTime",
+		"CfgValue": "每周四12点自动匹配"
+	},
+	{
+		"CfgKey": "SWActiveTime",
+		"CfgValue": "21:00~21:30 （周四）"
+	},
+	{
+		"CfgKey": "SWPreNoticeInternal",
+		"CfgValue": "3600"
+	},
+	{
+		"CfgKey": "SWWarriorXY",
+		"CfgValue": "81:76|142:106|192:81|131:51"
+	},
+	{
+		"CfgKey": "SWFightNearDis",
+		"CfgValue": "500"
+	},
+	{
+		"CfgKey": "SWWinnerSkinId",
+		"CfgValue": "100002|111002|112002|114002"
+	},
+	{
+		"CfgKey": "SWWinnerSkinSuitId",
+		"CfgValue": "9"
+	},
+	{
+		"CfgKey": "SWPraisePrize",
+		"CfgValue": "71:100"
+	},
+	{
+		"CfgKey": "SWWarriorDsc",
+		"CfgValue": "伤害较高的宗门占领雕像\n占领雕像可获得增益状态\n雕像争夺后方可刷出神兽"
+	},
+	{
+		"CfgKey": "SWWarriorDscSS",
+		"CfgValue": "仙宗神兽击破后刷宗主雕像"
+	},
+	{
+		"CfgKey": "SWWarriorDscDX",
+		"CfgValue": "宗主雕像击破后刷宗主水晶"
+	},
+	{
+		"CfgKey": "SWWarriorDscJJ",
+		"CfgValue": "攻破敌方水晶直接获得胜利"
+	},
+	{
+		"CfgKey": "SWRelivePoint_Init",
+		"CfgValue": "91:102|178:58"
+	},
+	{
+		"CfgKey": "SWRelivePoint_Animal",
+		"CfgValue": "91:102|178:58"
+	},
+	{
+		"CfgKey": "SWRelivePoint_Leader",
+		"CfgValue": "60:117|214:41"
+	},
+	{
+		"CfgKey": "SWRelivePoint_Crystal",
+		"CfgValue": "24:134|246:26"
+	},
+	{
+		"CfgKey": "SWBuildingDamageRate",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "SWBuildingDamageRate2",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "SWBuildingDamageMax",
+		"CfgValue": "560"
+	},
+	{
+		"CfgKey": "SWBuildingHpAdd",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "SWBuildingDamageAdd",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "SWWarriorSubDsc",
+		"CfgValue": "率先攻破所有建筑胜出！"
+	},
+	{
+		"CfgKey": "SWCaiJiCD",
+		"CfgValue": "5"
+	}
+]

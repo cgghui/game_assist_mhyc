@@ -1,0 +1,125 @@
+[
+	{
+		"BornRate": 1000,
+		"FightRange": "[10000,50000]",
+		"Id": 1,
+		"KillRewardId": 461,
+		"Location": "[103,150]",
+		"MonsterId": 7301,
+		"MonsterType": 1
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[50000,100000]",
+		"Id": 2,
+		"KillRewardId": 461,
+		"Location": "[113,160]",
+		"MonsterId": 7302,
+		"MonsterType": 1
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[150000,200000]",
+		"Id": 3,
+		"KillRewardId": 462,
+		"Location": "[-154,452]",
+		"MonsterId": 7303,
+		"MonsterType": 2
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[200000,250000]",
+		"Id": 4,
+		"KillRewardId": 462,
+		"Location": "[-144,442]",
+		"MonsterId": 7304,
+		"MonsterType": 2
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[350000,400000]",
+		"Id": 5,
+		"KillRewardId": 463,
+		"Location": "[134,640]",
+		"MonsterId": 7305,
+		"MonsterType": 3
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[400000,450000]",
+		"Id": 6,
+		"KillRewardId": 463,
+		"Location": "[144,650]",
+		"MonsterId": 7306,
+		"MonsterType": 3
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[550000,600000]",
+		"Id": 7,
+		"KillRewardId": 464,
+		"Location": "[-156,835]",
+		"MonsterId": 7307,
+		"MonsterType": 4
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[600000,650000]",
+		"Id": 8,
+		"KillRewardId": 464,
+		"Location": "[-166,845]",
+		"MonsterId": 7308,
+		"MonsterType": 4
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[750000,800000]",
+		"Id": 9,
+		"KillRewardId": 465,
+		"Location": "[-185,1265]",
+		"MonsterId": 7309,
+		"MonsterType": 5
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[800000,850000]",
+		"Id": 10,
+		"KillRewardId": 465,
+		"Location": "[-175,1275]",
+		"MonsterId": 7310,
+		"MonsterType": 5
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[50000,100000]",
+		"FightRewardId": 471,
+		"Id": 11,
+		"KillRewardId": 476,
+		"Location": "[96,1555]",
+		"MonsterId": 7101,
+		"MonsterType": 6,
+		"ShowDesc": 20247
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[80000,130000]",
+		"FightRewardId": 471,
+		"Id": 12,
+		"KillRewardId": 476,
+		"Location": "[-140,1770]",
+		"MonsterId": 7102,
+		"MonsterType": 6,
+		"ShowDesc": 20248
+	},
+	{
+		"BornRate": 1000,
+		"FightRange": "[110000,160000]",
+		"FightRewardId": 471,
+		"Id": 13,
+		"KillRewardId": 476,
+		"Location": "[116,1928]",
+		"MonsterId": 7103,
+		"MonsterType": 6,
+		"ShowDesc": 20249
+	}
+]

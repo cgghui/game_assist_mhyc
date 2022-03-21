@@ -1,0 +1,41 @@
+[
+	{
+		"AId": 30007,
+		"ActId": 252,
+		"BgSpr": "bg_xzsj_qcpx",
+		"ItemID": "4010201|4010202|4010203|4010204|4010205|4010206",
+		"RolePosY": -123,
+		"ShowType": 1
+	},
+	{
+		"AId": 30007,
+		"ActId": 253,
+		"BgSpr": "bg_xzsj_qcpx",
+		"ItemID": "4010207|4010208|4010209|4010210|4010211|4010212",
+		"RolePosY": -123,
+		"ShowType": 1
+	},
+	{
+		"AId": 30007,
+		"ActId": 254,
+		"BgSpr": "bg_xzsj_qcpx",
+		"ItemID": "4010219|4010220|4010221|4010222|4010223|4010224",
+		"RolePosY": -123,
+		"ShowType": 1
+	},
+	{
+		"AId": 30007,
+		"ActId": 255,
+		"BgSpr": "bg_xzsj_qcpx",
+		"ItemID": "4010213|4010214|4010215|4010216|4010217|4010218",
+		"RolePosY": -123,
+		"ShowType": 1
+	},
+	{
+		"AId": 30008,
+		"ActId": 261,
+		"BgSpr": "bg_xzsj_xgrq",
+		"ItemID": "3012013|3012014|3012015|3012016",
+		"ShowType": 2
+	}
+]

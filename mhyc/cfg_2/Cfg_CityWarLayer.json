@@ -1,0 +1,44 @@
+[
+	{
+		"CountDown": 15,
+		"CrystalInternal": 10,
+		"CrystalScore": 20,
+		"Desc": "1.最早宣战的两个家族可参与争夺\n2.胜出者可参与内城争夺",
+		"EndTime": "21:08",
+		"FailPrize": 314,
+		"FamilyCount": 2,
+		"LayerId": 1,
+		"Name": "边城",
+		"ScoreMax": 10000,
+		"StartTime": "21:00",
+		"WinPrize": 311
+	},
+	{
+		"CountDown": 15,
+		"CrystalInternal": 10,
+		"CrystalScore": 20,
+		"Desc": "1.最早宣战的两个家族可参与争夺\n2.胜出者可参与主城争夺",
+		"EndTime": "21:18",
+		"FailPrize": 315,
+		"FamilyCount": 2,
+		"LayerId": 2,
+		"Name": "内城",
+		"ScoreMax": 5000,
+		"StartTime": "21:10",
+		"WinPrize": 312
+	},
+	{
+		"CountDown": 15,
+		"CrystalInternal": 10,
+		"CrystalScore": 20,
+		"Desc": "1.内城占有者直接对主城宣战\n2.胜出者可占领主城",
+		"EndTime": "21:30",
+		"FailPrize": 316,
+		"FamilyCount": 4,
+		"LayerId": 3,
+		"Name": "白帝圣城",
+		"ScoreMax": 5000,
+		"StartTime": "21:20",
+		"WinPrize": 313
+	}
+]

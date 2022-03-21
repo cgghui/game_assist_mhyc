@@ -1,0 +1,962 @@
+[
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 1
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 2
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 3
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 4
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 5
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 6
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 7
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 8
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 9
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006001,
+		"CostItem": "2200510:1",
+		"MaxLev": 1,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006002,
+		"CostItem": "2200510:1|2200211:2",
+		"MaxLev": 10,
+		"MinLev": 2,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006003,
+		"CostItem": "2200510:2|2200211:4",
+		"LevelUpCondition": 1,
+		"MaxLev": 20,
+		"MinLev": 11,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006004,
+		"CostItem": "2200510:3|2200211:6",
+		"LevelUpCondition": 2,
+		"MaxLev": 30,
+		"MinLev": 21,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006005,
+		"CostItem": "2200510:4|2200211:8",
+		"LevelUpCondition": 3,
+		"MaxLev": 40,
+		"MinLev": 31,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006006,
+		"CostItem": "2200510:5|2200211:10",
+		"LevelUpCondition": 4,
+		"MaxLev": 50,
+		"MinLev": 41,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006007,
+		"CostItem": "2200510:6|2200211:12",
+		"LevelUpCondition": 5,
+		"MaxLev": 60,
+		"MinLev": 51,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006008,
+		"CostItem": "2200510:7|2200211:14",
+		"LevelUpCondition": 6,
+		"MaxLev": 70,
+		"MinLev": 61,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006009,
+		"CostItem": "2200510:8|2200211:16",
+		"LevelUpCondition": 7,
+		"MaxLev": 80,
+		"MinLev": 71,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006010,
+		"CostItem": "2200510:9|2200211:18",
+		"LevelUpCondition": 8,
+		"MaxLev": 90,
+		"MinLev": 81,
+		"Part": 10
+	},
+	{
+		"AttrId": 662006101,
+		"BaseAttrId": 662006011,
+		"CostItem": "2200510:10|2200211:20",
+		"LevelUpCondition": 9,
+		"MaxLev": 100,
+		"MinLev": 91,
+		"Part": 10
+	}
+]

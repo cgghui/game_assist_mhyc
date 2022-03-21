@@ -1,0 +1,42 @@
+[
+	{
+		"Id": 1,
+		"Name": "仙玉副宠",
+		"Quality": 1,
+		"Show_Id": 10012,
+		"Skill_Num": 4,
+		"Weight": 5000
+	},
+	{
+		"Id": 2,
+		"Name": "仙玉副宠",
+		"Quality": 2,
+		"Show_Id": 10013,
+		"Skill_Num": 4,
+		"Weight": 4000
+	},
+	{
+		"Id": 3,
+		"Name": "仙玉副宠",
+		"Quality": 3,
+		"Show_Id": 10014,
+		"Skill_Num": 4,
+		"Weight": 3000
+	},
+	{
+		"Id": 4,
+		"Name": "仙玉副宠",
+		"Quality": 4,
+		"Show_Id": 10015,
+		"Skill_Num": 4,
+		"Weight": 2000
+	},
+	{
+		"Id": 5,
+		"Name": "仙玉副宠",
+		"Quality": 5,
+		"Show_Id": 10016,
+		"Skill_Num": 4,
+		"Weight": 1000
+	}
+]

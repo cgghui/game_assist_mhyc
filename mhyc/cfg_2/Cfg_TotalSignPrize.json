@@ -1,0 +1,74 @@
+[
+	{
+		"Group": 1,
+		"Id": 1,
+		"Prize": "1514:1",
+		"SignTimes": 2
+	},
+	{
+		"Group": 1,
+		"Id": 2,
+		"Prize": "1521:1",
+		"SignTimes": 5
+	},
+	{
+		"Group": 1,
+		"Id": 3,
+		"Prize": "2:3000",
+		"SignTimes": 10
+	},
+	{
+		"Group": 1,
+		"Id": 4,
+		"Prize": "2021654:1",
+		"SignTimes": 20
+	},
+	{
+		"Group": 2,
+		"Id": 1,
+		"Prize": "2200212:10",
+		"SignTimes": 2
+	},
+	{
+		"Group": 2,
+		"Id": 2,
+		"Prize": "2200223:2",
+		"SignTimes": 5
+	},
+	{
+		"Group": 2,
+		"Id": 3,
+		"Prize": "2200402:3",
+		"SignTimes": 10
+	},
+	{
+		"Group": 2,
+		"Id": 4,
+		"Prize": "2200211:1",
+		"SignTimes": 20
+	},
+	{
+		"Group": 3,
+		"Id": 1,
+		"Prize": "2200212:10",
+		"SignTimes": 2
+	},
+	{
+		"Group": 3,
+		"Id": 2,
+		"Prize": "2200223:2",
+		"SignTimes": 5
+	},
+	{
+		"Group": 3,
+		"Id": 3,
+		"Prize": "2200402:3",
+		"SignTimes": 10
+	},
+	{
+		"Group": 3,
+		"Id": 4,
+		"Prize": "2200211:1",
+		"SignTimes": 20
+	}
+]

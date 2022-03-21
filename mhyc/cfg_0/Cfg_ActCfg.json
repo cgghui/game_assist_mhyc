@@ -1,0 +1,186 @@
+[
+	{
+		"CfgKey": "Reabte_8Days",
+		"CfgValue": "8"
+	},
+	{
+		"CfgKey": "Reabte_38Days",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "Reabte_118Days",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "Reabte_8PreviewIds",
+		"CfgValue": "2202|2204|2209"
+	},
+	{
+		"CfgKey": "Reabte_38PreviewIds",
+		"CfgValue": "2402|2404|2409"
+	},
+	{
+		"CfgKey": "Reabte_118PreviewIds",
+		"CfgValue": "2602|2604|2609"
+	},
+	{
+		"CfgKey": "Reabte_BigGift",
+		"CfgValue": "2803|2806|2807|2808|2815|2820|2825|2830"
+	},
+	{
+		"CfgKey": "SevDay_BigGift",
+		"CfgValue": "3207"
+	},
+	{
+		"CfgKey": "OpnAct_Title",
+		"CfgValue": "3100301"
+	},
+	{
+		"CfgKey": "ActTurnTabGearAdd",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "UnitPriceOfTurntable",
+		"CfgValue": "2:100"
+	},
+	{
+		"CfgKey": "UnitPriceOfTurntables",
+		"CfgValue": "2:100"
+	},
+	{
+		"CfgKey": "DayDayReturn",
+		"CfgValue": "2:110000|3111023:1|2021601:1|820:1|2040251:1|825:1|2021659:1|1530:1|2200211:1|2021701:1"
+	},
+	{
+		"CfgKey": "DayDayReturn2",
+		"CfgValue": "2:158200|1113:1|3011006:1|2200260:3|2040272:1|2021703:1|1717:1|1115:1|2200262:3|2021705:1"
+	},
+	{
+		"CfgKey": "UnionServerRankBuyMax",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "XZAct_201",
+		"CfgValue": "7"
+	},
+	{
+		"CfgKey": "XZAct_211",
+		"CfgValue": "8"
+	},
+	{
+		"CfgKey": "ActBubbleId",
+		"CfgValue": "450"
+	},
+	{
+		"CfgKey": "ActBubbleDelay",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "ActBubbleTipsLab",
+		"CfgValue": "赛季进行中"
+	},
+	{
+		"CfgKey": "ActBubDuration",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ActWorshipLucky1",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "ActWorshipLucky2",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "ActTheme3DiscountTimes",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "WishActShowEndTipTime",
+		"CfgValue": "24"
+	},
+	{
+		"CfgKey": "FVRankFinishDay",
+		"CfgValue": "9"
+	},
+	{
+		"CfgKey": "ActTheme3NewVersionSwitch",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "DragonHotStart",
+		"CfgValue": "2022-03-11 00:00:00"
+	},
+	{
+		"CfgKey": "DragonHotEnd",
+		"CfgValue": "2022-03-18 23:59:59"
+	},
+	{
+		"CfgKey": "DragonHotItems",
+		"CfgValue": "2610412:1"
+	},
+	{
+		"CfgKey": "DragonBuyTimesCoin1",
+		"CfgValue": "100301"
+	},
+	{
+		"CfgKey": "DragonBuyTimesCoin2",
+		"CfgValue": "100302"
+	},
+	{
+		"CfgKey": "XYDBBasePrize",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "CrossXYDBBasePrize",
+		"CfgValue": "100000"
+	},
+	{
+		"CfgKey": "AddTimesRecharge",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "CelebrateThemeMailPrize",
+		"CfgValue": "4010108:10|1:300"
+	},
+	{
+		"CfgKey": "CelebrateInvestMailPrize",
+		"CfgValue": "2404906:1|2080262:2|2080452:50|2080453:500|3:50000000"
+	},
+	{
+		"CfgKey": "CelebrateSendMailTimes",
+		"CfgValue": "8"
+	},
+	{
+		"CfgKey": "HelpXunBaoBigPrizeItemId",
+		"CfgValue": "2022703"
+	},
+	{
+		"CfgKey": "HelpXunBaoBigPrizeTotalNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "HelpXunBaoNeedHelpNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "HelpXunBaoDayMaxDrawNum",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HelpXunBaoBigPrizeAddNum",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "WishTreeOpen",
+		"CfgValue": "2022-01-27 00:00:00"
+	},
+	{
+		"CfgKey": "WishTreeOpenCfg",
+		"CfgValue": "0|1|50|198"
+	},
+	{
+		"CfgKey": "YqylTodayShareLimitNum",
+		"CfgValue": "10"
+	}
+]

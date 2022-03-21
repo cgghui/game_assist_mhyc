@@ -1,0 +1,32 @@
+[
+	{
+		"Id": 1,
+		"Name": "庚金界",
+		"RedPointId": 15001,
+		"TittleID": 10
+	},
+	{
+		"Id": 2,
+		"Name": "乙木界",
+		"RedPointId": 15002,
+		"TittleID": 11
+	},
+	{
+		"Id": 3,
+		"Name": "癸水界",
+		"RedPointId": 15003,
+		"TittleID": 12
+	},
+	{
+		"Id": 4,
+		"Name": "炎火界",
+		"RedPointId": 15004,
+		"TittleID": 13
+	},
+	{
+		"Id": 5,
+		"Name": "戊土界",
+		"RedPointId": 15005,
+		"TittleID": 14
+	}
+]

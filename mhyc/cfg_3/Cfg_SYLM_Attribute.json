@@ -1,0 +1,74 @@
+[
+	{
+		"ID": 1,
+		"StringValue": "08:00:00"
+	},
+	{
+		"ID": 2,
+		"StringValue": "20:00:00"
+	},
+	{
+		"ID": 3,
+		"IntValue": 1200
+	},
+	{
+		"ID": 4,
+		"StringValue": "1000:1"
+	},
+	{
+		"ID": 5,
+		"StringValue": "108:1"
+	},
+	{
+		"ID": 7,
+		"IntValue": 10
+	},
+	{
+		"ID": 8,
+		"IntValue": 9
+	},
+	{
+		"ID": 9,
+		"IntValue": 3
+	},
+	{
+		"ID": 10,
+		"IntValue": 3
+	},
+	{
+		"ID": 11,
+		"StringValue": "2:100|2:200|2:300|2:400|2:500"
+	},
+	{
+		"ID": 12,
+		"IntValue": 10
+	},
+	{
+		"ID": 13,
+		"IntValue": 399
+	},
+	{
+		"ID": 14,
+		"IntValue": 400
+	},
+	{
+		"ID": 15,
+		"StringValue": "20247|20248|20249"
+	},
+	{
+		"ID": 16,
+		"IntValue": 20250
+	},
+	{
+		"ID": 17,
+		"IntValue": 180
+	},
+	{
+		"ID": 18,
+		"IntValue": 170
+	},
+	{
+		"ID": 19,
+		"IntValue": 401
+	}
+]

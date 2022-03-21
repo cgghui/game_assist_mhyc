@@ -1,0 +1,22 @@
+[
+	{
+		"CfgKey": "FastAFKPrizeTime",
+		"CfgValue": "13800"
+	},
+	{
+		"CfgKey": "AFKPrizeMaxTime",
+		"CfgValue": "43200"
+	},
+	{
+		"CfgKey": "FastAFKLimitId",
+		"CfgValue": "90001"
+	},
+	{
+		"CfgKey": "AFKPrizeTimeInternal",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "AFKMaxTimes",
+		"CfgValue": "10"
+	}
+]

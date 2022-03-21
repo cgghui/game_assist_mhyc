@@ -1,0 +1,272 @@
+[
+	{
+		"Desc": "朱雀",
+		"EffectId": 1001,
+		"Key": 1,
+		"Name": "凤炎焚天",
+		"PetId": 7003,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "朱雀",
+		"EffectId": 1001,
+		"Key": 2,
+		"Name": "凤炎焚天",
+		"PetId": 7003,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "朱雀",
+		"EffectId": 1001,
+		"Key": 3,
+		"Name": "凤炎焚天",
+		"PetId": 7003,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "三藏",
+		"EffectId": 1002,
+		"Key": 4,
+		"Name": "大梵般若",
+		"PetId": 7002,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "三藏",
+		"EffectId": 1002,
+		"Key": 5,
+		"Name": "大梵般若",
+		"PetId": 7002,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "三藏",
+		"EffectId": 1002,
+		"Key": 6,
+		"Name": "大梵般若",
+		"PetId": 7002,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "九尾仙狐",
+		"EffectId": 1003,
+		"Key": 7,
+		"Name": "浮光烟雨",
+		"PetId": 7001,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "九尾仙狐",
+		"EffectId": 1003,
+		"Key": 8,
+		"Name": "浮光烟雨",
+		"PetId": 7001,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "九尾仙狐",
+		"EffectId": 1003,
+		"Key": 9,
+		"Name": "浮光烟雨",
+		"PetId": 7001,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "齐天大圣",
+		"EffectId": 1004,
+		"Key": 10,
+		"Name": "大闹天宫",
+		"PetId": 7004,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "齐天大圣",
+		"EffectId": 1004,
+		"Key": 11,
+		"Name": "大闹天宫",
+		"PetId": 7004,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "齐天大圣",
+		"EffectId": 1004,
+		"Key": 12,
+		"Name": "大闹天宫",
+		"PetId": 7004,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "哪吒",
+		"EffectId": 1005,
+		"Key": 13,
+		"Name": "焚世红莲",
+		"PetId": 7005,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "哪吒",
+		"EffectId": 1005,
+		"Key": 14,
+		"Name": "焚世红莲",
+		"PetId": 7005,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "哪吒",
+		"EffectId": 1005,
+		"Key": 15,
+		"Name": "焚世红莲",
+		"PetId": 7005,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "敖丙",
+		"EffectId": 1006,
+		"Key": 16,
+		"Name": "寂灭雷云",
+		"PetId": 7006,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "敖丙",
+		"EffectId": 1006,
+		"Key": 17,
+		"Name": "寂灭雷云",
+		"PetId": 7006,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "敖丙",
+		"EffectId": 1006,
+		"Key": 18,
+		"Name": "寂灭雷云",
+		"PetId": 7006,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "天蓬元帅",
+		"EffectId": 1007,
+		"Key": 19,
+		"Name": "降龙伏虎",
+		"PetId": 7007,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "天蓬元帅",
+		"EffectId": 1007,
+		"Key": 20,
+		"Name": "降龙伏虎",
+		"PetId": 7007,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "天蓬元帅",
+		"EffectId": 1007,
+		"Key": 21,
+		"Name": "降龙伏虎",
+		"PetId": 7007,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "二郎真君",
+		"EffectId": 1008,
+		"Key": 22,
+		"Name": "炎阳射线",
+		"PetId": 7008,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "二郎真君",
+		"EffectId": 1008,
+		"Key": 23,
+		"Name": "炎阳射线",
+		"PetId": 7008,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "二郎真君",
+		"EffectId": 1008,
+		"Key": 24,
+		"Name": "炎阳射线",
+		"PetId": 7008,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "太乙天尊",
+		"EffectId": 1009,
+		"Key": 25,
+		"Name": "天尊法身",
+		"PetId": 7009,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "太乙天尊",
+		"EffectId": 1009,
+		"Key": 26,
+		"Name": "天尊法身",
+		"PetId": 7009,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "太乙天尊",
+		"EffectId": 1009,
+		"Key": 27,
+		"Name": "天尊法身",
+		"PetId": 7009,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	},
+	{
+		"Desc": "卷帘大将",
+		"EffectId": 1010,
+		"Key": 28,
+		"Name": "大将风范",
+		"PetId": 7010,
+		"Quality": 5,
+		"SkillId": "16001:1"
+	},
+	{
+		"Desc": "卷帘大将",
+		"EffectId": 1010,
+		"Key": 29,
+		"Name": "大将风范",
+		"PetId": 7010,
+		"Quality": 6,
+		"SkillId": "16002:1"
+	},
+	{
+		"Desc": "卷帘大将",
+		"EffectId": 1010,
+		"Key": 30,
+		"Name": "大将风范",
+		"PetId": 7010,
+		"Quality": 7,
+		"SkillId": "16003:1"
+	}
+]

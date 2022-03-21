@@ -1,0 +1,2500 @@
+[
+	{
+		"AttrId": 3621001,
+		"Level": 1
+	},
+	{
+		"AttrId": 3621002,
+		"ExpMax": 500,
+		"Level": 2
+	},
+	{
+		"AttrId": 3621003,
+		"ExpMax": 500,
+		"Level": 3
+	},
+	{
+		"AttrId": 3621004,
+		"ExpMax": 500,
+		"Level": 4
+	},
+	{
+		"AttrId": 3621005,
+		"ExpMax": 500,
+		"Level": 5
+	},
+	{
+		"AttrId": 3621006,
+		"ExpMax": 500,
+		"Level": 6
+	},
+	{
+		"AttrId": 3621007,
+		"ExpMax": 500,
+		"Level": 7
+	},
+	{
+		"AttrId": 3621008,
+		"ExpMax": 500,
+		"Level": 8
+	},
+	{
+		"AttrId": 3621009,
+		"ExpMax": 500,
+		"Level": 9
+	},
+	{
+		"AttrId": 3621010,
+		"ExpMax": 500,
+		"Level": 10
+	},
+	{
+		"AttrId": 3621011,
+		"ExpMax": 600,
+		"Level": 11
+	},
+	{
+		"AttrId": 3621012,
+		"ExpMax": 600,
+		"Level": 12
+	},
+	{
+		"AttrId": 3621013,
+		"ExpMax": 600,
+		"Level": 13
+	},
+	{
+		"AttrId": 3621014,
+		"ExpMax": 600,
+		"Level": 14
+	},
+	{
+		"AttrId": 3621015,
+		"ExpMax": 600,
+		"Level": 15
+	},
+	{
+		"AttrId": 3621016,
+		"ExpMax": 600,
+		"Level": 16
+	},
+	{
+		"AttrId": 3621017,
+		"ExpMax": 600,
+		"Level": 17
+	},
+	{
+		"AttrId": 3621018,
+		"ExpMax": 600,
+		"Level": 18
+	},
+	{
+		"AttrId": 3621019,
+		"ExpMax": 600,
+		"Level": 19
+	},
+	{
+		"AttrId": 3621020,
+		"ExpMax": 600,
+		"Level": 20
+	},
+	{
+		"AttrId": 3621021,
+		"ExpMax": 700,
+		"Level": 21
+	},
+	{
+		"AttrId": 3621022,
+		"ExpMax": 700,
+		"Level": 22
+	},
+	{
+		"AttrId": 3621023,
+		"ExpMax": 700,
+		"Level": 23
+	},
+	{
+		"AttrId": 3621024,
+		"ExpMax": 700,
+		"Level": 24
+	},
+	{
+		"AttrId": 3621025,
+		"ExpMax": 700,
+		"Level": 25
+	},
+	{
+		"AttrId": 3621026,
+		"ExpMax": 700,
+		"Level": 26
+	},
+	{
+		"AttrId": 3621027,
+		"ExpMax": 700,
+		"Level": 27
+	},
+	{
+		"AttrId": 3621028,
+		"ExpMax": 700,
+		"Level": 28
+	},
+	{
+		"AttrId": 3621029,
+		"ExpMax": 700,
+		"Level": 29
+	},
+	{
+		"AttrId": 3621030,
+		"ExpMax": 700,
+		"Level": 30
+	},
+	{
+		"AttrId": 3621031,
+		"ExpMax": 900,
+		"Level": 31
+	},
+	{
+		"AttrId": 3621032,
+		"ExpMax": 900,
+		"Level": 32
+	},
+	{
+		"AttrId": 3621033,
+		"ExpMax": 900,
+		"Level": 33
+	},
+	{
+		"AttrId": 3621034,
+		"ExpMax": 900,
+		"Level": 34
+	},
+	{
+		"AttrId": 3621035,
+		"ExpMax": 900,
+		"Level": 35
+	},
+	{
+		"AttrId": 3621036,
+		"ExpMax": 900,
+		"Level": 36
+	},
+	{
+		"AttrId": 3621037,
+		"ExpMax": 900,
+		"Level": 37
+	},
+	{
+		"AttrId": 3621038,
+		"ExpMax": 900,
+		"Level": 38
+	},
+	{
+		"AttrId": 3621039,
+		"ExpMax": 900,
+		"Level": 39
+	},
+	{
+		"AttrId": 3621040,
+		"ExpMax": 900,
+		"Level": 40
+	},
+	{
+		"AttrId": 3621041,
+		"ExpMax": 1200,
+		"Level": 41
+	},
+	{
+		"AttrId": 3621042,
+		"ExpMax": 1200,
+		"Level": 42
+	},
+	{
+		"AttrId": 3621043,
+		"ExpMax": 1200,
+		"Level": 43
+	},
+	{
+		"AttrId": 3621044,
+		"ExpMax": 1200,
+		"Level": 44
+	},
+	{
+		"AttrId": 3621045,
+		"ExpMax": 1200,
+		"Level": 45
+	},
+	{
+		"AttrId": 3621046,
+		"ExpMax": 1200,
+		"Level": 46
+	},
+	{
+		"AttrId": 3621047,
+		"ExpMax": 1200,
+		"Level": 47
+	},
+	{
+		"AttrId": 3621048,
+		"ExpMax": 1200,
+		"Level": 48
+	},
+	{
+		"AttrId": 3621049,
+		"ExpMax": 1200,
+		"Level": 49
+	},
+	{
+		"AttrId": 3621050,
+		"ExpMax": 1200,
+		"Level": 50
+	},
+	{
+		"AttrId": 3621051,
+		"ExpMax": 1600,
+		"Level": 51
+	},
+	{
+		"AttrId": 3621052,
+		"ExpMax": 1600,
+		"Level": 52
+	},
+	{
+		"AttrId": 3621053,
+		"ExpMax": 1600,
+		"Level": 53
+	},
+	{
+		"AttrId": 3621054,
+		"ExpMax": 1600,
+		"Level": 54
+	},
+	{
+		"AttrId": 3621055,
+		"ExpMax": 1600,
+		"Level": 55
+	},
+	{
+		"AttrId": 3621056,
+		"ExpMax": 1600,
+		"Level": 56
+	},
+	{
+		"AttrId": 3621057,
+		"ExpMax": 1600,
+		"Level": 57
+	},
+	{
+		"AttrId": 3621058,
+		"ExpMax": 1600,
+		"Level": 58
+	},
+	{
+		"AttrId": 3621059,
+		"ExpMax": 1600,
+		"Level": 59
+	},
+	{
+		"AttrId": 3621060,
+		"ExpMax": 1600,
+		"Level": 60
+	},
+	{
+		"AttrId": 3621061,
+		"ExpMax": 2100,
+		"Level": 61
+	},
+	{
+		"AttrId": 3621062,
+		"ExpMax": 2100,
+		"Level": 62
+	},
+	{
+		"AttrId": 3621063,
+		"ExpMax": 2100,
+		"Level": 63
+	},
+	{
+		"AttrId": 3621064,
+		"ExpMax": 2100,
+		"Level": 64
+	},
+	{
+		"AttrId": 3621065,
+		"ExpMax": 2100,
+		"Level": 65
+	},
+	{
+		"AttrId": 3621066,
+		"ExpMax": 2100,
+		"Level": 66
+	},
+	{
+		"AttrId": 3621067,
+		"ExpMax": 2100,
+		"Level": 67
+	},
+	{
+		"AttrId": 3621068,
+		"ExpMax": 2100,
+		"Level": 68
+	},
+	{
+		"AttrId": 3621069,
+		"ExpMax": 2100,
+		"Level": 69
+	},
+	{
+		"AttrId": 3621070,
+		"ExpMax": 2100,
+		"Level": 70
+	},
+	{
+		"AttrId": 3621071,
+		"ExpMax": 2700,
+		"Level": 71
+	},
+	{
+		"AttrId": 3621072,
+		"ExpMax": 2700,
+		"Level": 72
+	},
+	{
+		"AttrId": 3621073,
+		"ExpMax": 2700,
+		"Level": 73
+	},
+	{
+		"AttrId": 3621074,
+		"ExpMax": 2700,
+		"Level": 74
+	},
+	{
+		"AttrId": 3621075,
+		"ExpMax": 2700,
+		"Level": 75
+	},
+	{
+		"AttrId": 3621076,
+		"ExpMax": 2700,
+		"Level": 76
+	},
+	{
+		"AttrId": 3621077,
+		"ExpMax": 2700,
+		"Level": 77
+	},
+	{
+		"AttrId": 3621078,
+		"ExpMax": 2700,
+		"Level": 78
+	},
+	{
+		"AttrId": 3621079,
+		"ExpMax": 2700,
+		"Level": 79
+	},
+	{
+		"AttrId": 3621080,
+		"ExpMax": 2700,
+		"Level": 80
+	},
+	{
+		"AttrId": 3621081,
+		"ExpMax": 3400,
+		"Level": 81
+	},
+	{
+		"AttrId": 3621082,
+		"ExpMax": 3400,
+		"Level": 82
+	},
+	{
+		"AttrId": 3621083,
+		"ExpMax": 3400,
+		"Level": 83
+	},
+	{
+		"AttrId": 3621084,
+		"ExpMax": 3400,
+		"Level": 84
+	},
+	{
+		"AttrId": 3621085,
+		"ExpMax": 3400,
+		"Level": 85
+	},
+	{
+		"AttrId": 3621086,
+		"ExpMax": 3400,
+		"Level": 86
+	},
+	{
+		"AttrId": 3621087,
+		"ExpMax": 3400,
+		"Level": 87
+	},
+	{
+		"AttrId": 3621088,
+		"ExpMax": 3400,
+		"Level": 88
+	},
+	{
+		"AttrId": 3621089,
+		"ExpMax": 3400,
+		"Level": 89
+	},
+	{
+		"AttrId": 3621090,
+		"ExpMax": 3400,
+		"Level": 90
+	},
+	{
+		"AttrId": 3621091,
+		"ExpMax": 4200,
+		"Level": 91
+	},
+	{
+		"AttrId": 3621092,
+		"ExpMax": 4200,
+		"Level": 92
+	},
+	{
+		"AttrId": 3621093,
+		"ExpMax": 4200,
+		"Level": 93
+	},
+	{
+		"AttrId": 3621094,
+		"ExpMax": 4200,
+		"Level": 94
+	},
+	{
+		"AttrId": 3621095,
+		"ExpMax": 4200,
+		"Level": 95
+	},
+	{
+		"AttrId": 3621096,
+		"ExpMax": 4200,
+		"Level": 96
+	},
+	{
+		"AttrId": 3621097,
+		"ExpMax": 4200,
+		"Level": 97
+	},
+	{
+		"AttrId": 3621098,
+		"ExpMax": 4200,
+		"Level": 98
+	},
+	{
+		"AttrId": 3621099,
+		"ExpMax": 4200,
+		"Level": 99
+	},
+	{
+		"AttrId": 3621100,
+		"ExpMax": 4200,
+		"Level": 100
+	},
+	{
+		"AttrId": 3621101,
+		"ExpMax": 5100,
+		"Level": 101
+	},
+	{
+		"AttrId": 3621102,
+		"ExpMax": 5100,
+		"Level": 102
+	},
+	{
+		"AttrId": 3621103,
+		"ExpMax": 5100,
+		"Level": 103
+	},
+	{
+		"AttrId": 3621104,
+		"ExpMax": 5100,
+		"Level": 104
+	},
+	{
+		"AttrId": 3621105,
+		"ExpMax": 5100,
+		"Level": 105
+	},
+	{
+		"AttrId": 3621106,
+		"ExpMax": 5100,
+		"Level": 106
+	},
+	{
+		"AttrId": 3621107,
+		"ExpMax": 5100,
+		"Level": 107
+	},
+	{
+		"AttrId": 3621108,
+		"ExpMax": 5100,
+		"Level": 108
+	},
+	{
+		"AttrId": 3621109,
+		"ExpMax": 5100,
+		"Level": 109
+	},
+	{
+		"AttrId": 3621110,
+		"ExpMax": 5100,
+		"Level": 110
+	},
+	{
+		"AttrId": 3621111,
+		"ExpMax": 6100,
+		"Level": 111
+	},
+	{
+		"AttrId": 3621112,
+		"ExpMax": 6100,
+		"Level": 112
+	},
+	{
+		"AttrId": 3621113,
+		"ExpMax": 6100,
+		"Level": 113
+	},
+	{
+		"AttrId": 3621114,
+		"ExpMax": 6100,
+		"Level": 114
+	},
+	{
+		"AttrId": 3621115,
+		"ExpMax": 6100,
+		"Level": 115
+	},
+	{
+		"AttrId": 3621116,
+		"ExpMax": 6100,
+		"Level": 116
+	},
+	{
+		"AttrId": 3621117,
+		"ExpMax": 6100,
+		"Level": 117
+	},
+	{
+		"AttrId": 3621118,
+		"ExpMax": 6100,
+		"Level": 118
+	},
+	{
+		"AttrId": 3621119,
+		"ExpMax": 6100,
+		"Level": 119
+	},
+	{
+		"AttrId": 3621120,
+		"ExpMax": 6100,
+		"Level": 120
+	},
+	{
+		"AttrId": 3621121,
+		"ExpMax": 7200,
+		"Level": 121
+	},
+	{
+		"AttrId": 3621122,
+		"ExpMax": 7200,
+		"Level": 122
+	},
+	{
+		"AttrId": 3621123,
+		"ExpMax": 7200,
+		"Level": 123
+	},
+	{
+		"AttrId": 3621124,
+		"ExpMax": 7200,
+		"Level": 124
+	},
+	{
+		"AttrId": 3621125,
+		"ExpMax": 7200,
+		"Level": 125
+	},
+	{
+		"AttrId": 3621126,
+		"ExpMax": 7200,
+		"Level": 126
+	},
+	{
+		"AttrId": 3621127,
+		"ExpMax": 7200,
+		"Level": 127
+	},
+	{
+		"AttrId": 3621128,
+		"ExpMax": 7200,
+		"Level": 128
+	},
+	{
+		"AttrId": 3621129,
+		"ExpMax": 7200,
+		"Level": 129
+	},
+	{
+		"AttrId": 3621130,
+		"ExpMax": 7200,
+		"Level": 130
+	},
+	{
+		"AttrId": 3621131,
+		"ExpMax": 8400,
+		"Level": 131
+	},
+	{
+		"AttrId": 3621132,
+		"ExpMax": 8400,
+		"Level": 132
+	},
+	{
+		"AttrId": 3621133,
+		"ExpMax": 8400,
+		"Level": 133
+	},
+	{
+		"AttrId": 3621134,
+		"ExpMax": 8400,
+		"Level": 134
+	},
+	{
+		"AttrId": 3621135,
+		"ExpMax": 8400,
+		"Level": 135
+	},
+	{
+		"AttrId": 3621136,
+		"ExpMax": 8400,
+		"Level": 136
+	},
+	{
+		"AttrId": 3621137,
+		"ExpMax": 8400,
+		"Level": 137
+	},
+	{
+		"AttrId": 3621138,
+		"ExpMax": 8400,
+		"Level": 138
+	},
+	{
+		"AttrId": 3621139,
+		"ExpMax": 8400,
+		"Level": 139
+	},
+	{
+		"AttrId": 3621140,
+		"ExpMax": 8400,
+		"Level": 140
+	},
+	{
+		"AttrId": 3621141,
+		"ExpMax": 9700,
+		"Level": 141
+	},
+	{
+		"AttrId": 3621142,
+		"ExpMax": 9700,
+		"Level": 142
+	},
+	{
+		"AttrId": 3621143,
+		"ExpMax": 9700,
+		"Level": 143
+	},
+	{
+		"AttrId": 3621144,
+		"ExpMax": 9700,
+		"Level": 144
+	},
+	{
+		"AttrId": 3621145,
+		"ExpMax": 9700,
+		"Level": 145
+	},
+	{
+		"AttrId": 3621146,
+		"ExpMax": 9700,
+		"Level": 146
+	},
+	{
+		"AttrId": 3621147,
+		"ExpMax": 9700,
+		"Level": 147
+	},
+	{
+		"AttrId": 3621148,
+		"ExpMax": 9700,
+		"Level": 148
+	},
+	{
+		"AttrId": 3621149,
+		"ExpMax": 9700,
+		"Level": 149
+	},
+	{
+		"AttrId": 3621150,
+		"ExpMax": 9700,
+		"Level": 150
+	},
+	{
+		"AttrId": 3621151,
+		"ExpMax": 11100,
+		"Level": 151
+	},
+	{
+		"AttrId": 3621152,
+		"ExpMax": 11100,
+		"Level": 152
+	},
+	{
+		"AttrId": 3621153,
+		"ExpMax": 11100,
+		"Level": 153
+	},
+	{
+		"AttrId": 3621154,
+		"ExpMax": 11100,
+		"Level": 154
+	},
+	{
+		"AttrId": 3621155,
+		"ExpMax": 11100,
+		"Level": 155
+	},
+	{
+		"AttrId": 3621156,
+		"ExpMax": 11100,
+		"Level": 156
+	},
+	{
+		"AttrId": 3621157,
+		"ExpMax": 11100,
+		"Level": 157
+	},
+	{
+		"AttrId": 3621158,
+		"ExpMax": 11100,
+		"Level": 158
+	},
+	{
+		"AttrId": 3621159,
+		"ExpMax": 11100,
+		"Level": 159
+	},
+	{
+		"AttrId": 3621160,
+		"ExpMax": 11100,
+		"Level": 160
+	},
+	{
+		"AttrId": 3621161,
+		"ExpMax": 12600,
+		"Level": 161
+	},
+	{
+		"AttrId": 3621162,
+		"ExpMax": 12600,
+		"Level": 162
+	},
+	{
+		"AttrId": 3621163,
+		"ExpMax": 12600,
+		"Level": 163
+	},
+	{
+		"AttrId": 3621164,
+		"ExpMax": 12600,
+		"Level": 164
+	},
+	{
+		"AttrId": 3621165,
+		"ExpMax": 12600,
+		"Level": 165
+	},
+	{
+		"AttrId": 3621166,
+		"ExpMax": 12600,
+		"Level": 166
+	},
+	{
+		"AttrId": 3621167,
+		"ExpMax": 12600,
+		"Level": 167
+	},
+	{
+		"AttrId": 3621168,
+		"ExpMax": 12600,
+		"Level": 168
+	},
+	{
+		"AttrId": 3621169,
+		"ExpMax": 12600,
+		"Level": 169
+	},
+	{
+		"AttrId": 3621170,
+		"ExpMax": 12600,
+		"Level": 170
+	},
+	{
+		"AttrId": 3621171,
+		"ExpMax": 14200,
+		"Level": 171
+	},
+	{
+		"AttrId": 3621172,
+		"ExpMax": 14200,
+		"Level": 172
+	},
+	{
+		"AttrId": 3621173,
+		"ExpMax": 14200,
+		"Level": 173
+	},
+	{
+		"AttrId": 3621174,
+		"ExpMax": 14200,
+		"Level": 174
+	},
+	{
+		"AttrId": 3621175,
+		"ExpMax": 14200,
+		"Level": 175
+	},
+	{
+		"AttrId": 3621176,
+		"ExpMax": 14200,
+		"Level": 176
+	},
+	{
+		"AttrId": 3621177,
+		"ExpMax": 14200,
+		"Level": 177
+	},
+	{
+		"AttrId": 3621178,
+		"ExpMax": 14200,
+		"Level": 178
+	},
+	{
+		"AttrId": 3621179,
+		"ExpMax": 14200,
+		"Level": 179
+	},
+	{
+		"AttrId": 3621180,
+		"ExpMax": 14200,
+		"Level": 180
+	},
+	{
+		"AttrId": 3621181,
+		"ExpMax": 15900,
+		"Level": 181
+	},
+	{
+		"AttrId": 3621182,
+		"ExpMax": 15900,
+		"Level": 182
+	},
+	{
+		"AttrId": 3621183,
+		"ExpMax": 15900,
+		"Level": 183
+	},
+	{
+		"AttrId": 3621184,
+		"ExpMax": 15900,
+		"Level": 184
+	},
+	{
+		"AttrId": 3621185,
+		"ExpMax": 15900,
+		"Level": 185
+	},
+	{
+		"AttrId": 3621186,
+		"ExpMax": 15900,
+		"Level": 186
+	},
+	{
+		"AttrId": 3621187,
+		"ExpMax": 15900,
+		"Level": 187
+	},
+	{
+		"AttrId": 3621188,
+		"ExpMax": 15900,
+		"Level": 188
+	},
+	{
+		"AttrId": 3621189,
+		"ExpMax": 15900,
+		"Level": 189
+	},
+	{
+		"AttrId": 3621190,
+		"ExpMax": 15900,
+		"Level": 190
+	},
+	{
+		"AttrId": 3621191,
+		"ExpMax": 17700,
+		"Level": 191
+	},
+	{
+		"AttrId": 3621192,
+		"ExpMax": 17700,
+		"Level": 192
+	},
+	{
+		"AttrId": 3621193,
+		"ExpMax": 17700,
+		"Level": 193
+	},
+	{
+		"AttrId": 3621194,
+		"ExpMax": 17700,
+		"Level": 194
+	},
+	{
+		"AttrId": 3621195,
+		"ExpMax": 17700,
+		"Level": 195
+	},
+	{
+		"AttrId": 3621196,
+		"ExpMax": 17700,
+		"Level": 196
+	},
+	{
+		"AttrId": 3621197,
+		"ExpMax": 17700,
+		"Level": 197
+	},
+	{
+		"AttrId": 3621198,
+		"ExpMax": 17700,
+		"Level": 198
+	},
+	{
+		"AttrId": 3621199,
+		"ExpMax": 17700,
+		"Level": 199
+	},
+	{
+		"AttrId": 3621200,
+		"ExpMax": 17700,
+		"Level": 200
+	},
+	{
+		"AttrId": 3621201,
+		"ExpMax": 19600,
+		"Level": 201
+	},
+	{
+		"AttrId": 3621202,
+		"ExpMax": 19600,
+		"Level": 202
+	},
+	{
+		"AttrId": 3621203,
+		"ExpMax": 19600,
+		"Level": 203
+	},
+	{
+		"AttrId": 3621204,
+		"ExpMax": 19600,
+		"Level": 204
+	},
+	{
+		"AttrId": 3621205,
+		"ExpMax": 19600,
+		"Level": 205
+	},
+	{
+		"AttrId": 3621206,
+		"ExpMax": 19600,
+		"Level": 206
+	},
+	{
+		"AttrId": 3621207,
+		"ExpMax": 19600,
+		"Level": 207
+	},
+	{
+		"AttrId": 3621208,
+		"ExpMax": 19600,
+		"Level": 208
+	},
+	{
+		"AttrId": 3621209,
+		"ExpMax": 19600,
+		"Level": 209
+	},
+	{
+		"AttrId": 3621210,
+		"ExpMax": 19600,
+		"Level": 210
+	},
+	{
+		"AttrId": 3621211,
+		"ExpMax": 21600,
+		"Level": 211
+	},
+	{
+		"AttrId": 3621212,
+		"ExpMax": 21600,
+		"Level": 212
+	},
+	{
+		"AttrId": 3621213,
+		"ExpMax": 21600,
+		"Level": 213
+	},
+	{
+		"AttrId": 3621214,
+		"ExpMax": 21600,
+		"Level": 214
+	},
+	{
+		"AttrId": 3621215,
+		"ExpMax": 21600,
+		"Level": 215
+	},
+	{
+		"AttrId": 3621216,
+		"ExpMax": 21600,
+		"Level": 216
+	},
+	{
+		"AttrId": 3621217,
+		"ExpMax": 21600,
+		"Level": 217
+	},
+	{
+		"AttrId": 3621218,
+		"ExpMax": 21600,
+		"Level": 218
+	},
+	{
+		"AttrId": 3621219,
+		"ExpMax": 21600,
+		"Level": 219
+	},
+	{
+		"AttrId": 3621220,
+		"ExpMax": 21600,
+		"Level": 220
+	},
+	{
+		"AttrId": 3621221,
+		"ExpMax": 23700,
+		"Level": 221
+	},
+	{
+		"AttrId": 3621222,
+		"ExpMax": 23700,
+		"Level": 222
+	},
+	{
+		"AttrId": 3621223,
+		"ExpMax": 23700,
+		"Level": 223
+	},
+	{
+		"AttrId": 3621224,
+		"ExpMax": 23700,
+		"Level": 224
+	},
+	{
+		"AttrId": 3621225,
+		"ExpMax": 23700,
+		"Level": 225
+	},
+	{
+		"AttrId": 3621226,
+		"ExpMax": 23700,
+		"Level": 226
+	},
+	{
+		"AttrId": 3621227,
+		"ExpMax": 23700,
+		"Level": 227
+	},
+	{
+		"AttrId": 3621228,
+		"ExpMax": 23700,
+		"Level": 228
+	},
+	{
+		"AttrId": 3621229,
+		"ExpMax": 23700,
+		"Level": 229
+	},
+	{
+		"AttrId": 3621230,
+		"ExpMax": 23700,
+		"Level": 230
+	},
+	{
+		"AttrId": 3621231,
+		"ExpMax": 25900,
+		"Level": 231
+	},
+	{
+		"AttrId": 3621232,
+		"ExpMax": 25900,
+		"Level": 232
+	},
+	{
+		"AttrId": 3621233,
+		"ExpMax": 25900,
+		"Level": 233
+	},
+	{
+		"AttrId": 3621234,
+		"ExpMax": 25900,
+		"Level": 234
+	},
+	{
+		"AttrId": 3621235,
+		"ExpMax": 25900,
+		"Level": 235
+	},
+	{
+		"AttrId": 3621236,
+		"ExpMax": 25900,
+		"Level": 236
+	},
+	{
+		"AttrId": 3621237,
+		"ExpMax": 25900,
+		"Level": 237
+	},
+	{
+		"AttrId": 3621238,
+		"ExpMax": 25900,
+		"Level": 238
+	},
+	{
+		"AttrId": 3621239,
+		"ExpMax": 25900,
+		"Level": 239
+	},
+	{
+		"AttrId": 3621240,
+		"ExpMax": 25900,
+		"Level": 240
+	},
+	{
+		"AttrId": 3621241,
+		"ExpMax": 28200,
+		"Level": 241
+	},
+	{
+		"AttrId": 3621242,
+		"ExpMax": 28200,
+		"Level": 242
+	},
+	{
+		"AttrId": 3621243,
+		"ExpMax": 28200,
+		"Level": 243
+	},
+	{
+		"AttrId": 3621244,
+		"ExpMax": 28200,
+		"Level": 244
+	},
+	{
+		"AttrId": 3621245,
+		"ExpMax": 28200,
+		"Level": 245
+	},
+	{
+		"AttrId": 3621246,
+		"ExpMax": 28200,
+		"Level": 246
+	},
+	{
+		"AttrId": 3621247,
+		"ExpMax": 28200,
+		"Level": 247
+	},
+	{
+		"AttrId": 3621248,
+		"ExpMax": 28200,
+		"Level": 248
+	},
+	{
+		"AttrId": 3621249,
+		"ExpMax": 28200,
+		"Level": 249
+	},
+	{
+		"AttrId": 3621250,
+		"ExpMax": 28200,
+		"Level": 250
+	},
+	{
+		"AttrId": 3621251,
+		"ExpMax": 30600,
+		"Level": 251
+	},
+	{
+		"AttrId": 3621252,
+		"ExpMax": 30600,
+		"Level": 252
+	},
+	{
+		"AttrId": 3621253,
+		"ExpMax": 30600,
+		"Level": 253
+	},
+	{
+		"AttrId": 3621254,
+		"ExpMax": 30600,
+		"Level": 254
+	},
+	{
+		"AttrId": 3621255,
+		"ExpMax": 30600,
+		"Level": 255
+	},
+	{
+		"AttrId": 3621256,
+		"ExpMax": 30600,
+		"Level": 256
+	},
+	{
+		"AttrId": 3621257,
+		"ExpMax": 30600,
+		"Level": 257
+	},
+	{
+		"AttrId": 3621258,
+		"ExpMax": 30600,
+		"Level": 258
+	},
+	{
+		"AttrId": 3621259,
+		"ExpMax": 30600,
+		"Level": 259
+	},
+	{
+		"AttrId": 3621260,
+		"ExpMax": 30600,
+		"Level": 260
+	},
+	{
+		"AttrId": 3621261,
+		"ExpMax": 33100,
+		"Level": 261
+	},
+	{
+		"AttrId": 3621262,
+		"ExpMax": 33100,
+		"Level": 262
+	},
+	{
+		"AttrId": 3621263,
+		"ExpMax": 33100,
+		"Level": 263
+	},
+	{
+		"AttrId": 3621264,
+		"ExpMax": 33100,
+		"Level": 264
+	},
+	{
+		"AttrId": 3621265,
+		"ExpMax": 33100,
+		"Level": 265
+	},
+	{
+		"AttrId": 3621266,
+		"ExpMax": 33100,
+		"Level": 266
+	},
+	{
+		"AttrId": 3621267,
+		"ExpMax": 33100,
+		"Level": 267
+	},
+	{
+		"AttrId": 3621268,
+		"ExpMax": 33100,
+		"Level": 268
+	},
+	{
+		"AttrId": 3621269,
+		"ExpMax": 33100,
+		"Level": 269
+	},
+	{
+		"AttrId": 3621270,
+		"ExpMax": 33100,
+		"Level": 270
+	},
+	{
+		"AttrId": 3621271,
+		"ExpMax": 35700,
+		"Level": 271
+	},
+	{
+		"AttrId": 3621272,
+		"ExpMax": 35700,
+		"Level": 272
+	},
+	{
+		"AttrId": 3621273,
+		"ExpMax": 35700,
+		"Level": 273
+	},
+	{
+		"AttrId": 3621274,
+		"ExpMax": 35700,
+		"Level": 274
+	},
+	{
+		"AttrId": 3621275,
+		"ExpMax": 35700,
+		"Level": 275
+	},
+	{
+		"AttrId": 3621276,
+		"ExpMax": 35700,
+		"Level": 276
+	},
+	{
+		"AttrId": 3621277,
+		"ExpMax": 35700,
+		"Level": 277
+	},
+	{
+		"AttrId": 3621278,
+		"ExpMax": 35700,
+		"Level": 278
+	},
+	{
+		"AttrId": 3621279,
+		"ExpMax": 35700,
+		"Level": 279
+	},
+	{
+		"AttrId": 3621280,
+		"ExpMax": 35700,
+		"Level": 280
+	},
+	{
+		"AttrId": 3621281,
+		"ExpMax": 38400,
+		"Level": 281
+	},
+	{
+		"AttrId": 3621282,
+		"ExpMax": 38400,
+		"Level": 282
+	},
+	{
+		"AttrId": 3621283,
+		"ExpMax": 38400,
+		"Level": 283
+	},
+	{
+		"AttrId": 3621284,
+		"ExpMax": 38400,
+		"Level": 284
+	},
+	{
+		"AttrId": 3621285,
+		"ExpMax": 38400,
+		"Level": 285
+	},
+	{
+		"AttrId": 3621286,
+		"ExpMax": 38400,
+		"Level": 286
+	},
+	{
+		"AttrId": 3621287,
+		"ExpMax": 38400,
+		"Level": 287
+	},
+	{
+		"AttrId": 3621288,
+		"ExpMax": 38400,
+		"Level": 288
+	},
+	{
+		"AttrId": 3621289,
+		"ExpMax": 38400,
+		"Level": 289
+	},
+	{
+		"AttrId": 3621290,
+		"ExpMax": 38400,
+		"Level": 290
+	},
+	{
+		"AttrId": 3621291,
+		"ExpMax": 41200,
+		"Level": 291
+	},
+	{
+		"AttrId": 3621292,
+		"ExpMax": 41200,
+		"Level": 292
+	},
+	{
+		"AttrId": 3621293,
+		"ExpMax": 41200,
+		"Level": 293
+	},
+	{
+		"AttrId": 3621294,
+		"ExpMax": 41200,
+		"Level": 294
+	},
+	{
+		"AttrId": 3621295,
+		"ExpMax": 41200,
+		"Level": 295
+	},
+	{
+		"AttrId": 3621296,
+		"ExpMax": 41200,
+		"Level": 296
+	},
+	{
+		"AttrId": 3621297,
+		"ExpMax": 41200,
+		"Level": 297
+	},
+	{
+		"AttrId": 3621298,
+		"ExpMax": 41200,
+		"Level": 298
+	},
+	{
+		"AttrId": 3621299,
+		"ExpMax": 41200,
+		"Level": 299
+	},
+	{
+		"AttrId": 3621300,
+		"ExpMax": 41200,
+		"Level": 300
+	},
+	{
+		"AttrId": 3621301,
+		"ExpMax": 44100,
+		"Level": 301
+	},
+	{
+		"AttrId": 3621302,
+		"ExpMax": 44100,
+		"Level": 302
+	},
+	{
+		"AttrId": 3621303,
+		"ExpMax": 44100,
+		"Level": 303
+	},
+	{
+		"AttrId": 3621304,
+		"ExpMax": 44100,
+		"Level": 304
+	},
+	{
+		"AttrId": 3621305,
+		"ExpMax": 44100,
+		"Level": 305
+	},
+	{
+		"AttrId": 3621306,
+		"ExpMax": 44100,
+		"Level": 306
+	},
+	{
+		"AttrId": 3621307,
+		"ExpMax": 44100,
+		"Level": 307
+	},
+	{
+		"AttrId": 3621308,
+		"ExpMax": 44100,
+		"Level": 308
+	},
+	{
+		"AttrId": 3621309,
+		"ExpMax": 44100,
+		"Level": 309
+	},
+	{
+		"AttrId": 3621310,
+		"ExpMax": 44100,
+		"Level": 310
+	},
+	{
+		"AttrId": 3621311,
+		"ExpMax": 47100,
+		"Level": 311
+	},
+	{
+		"AttrId": 3621312,
+		"ExpMax": 47100,
+		"Level": 312
+	},
+	{
+		"AttrId": 3621313,
+		"ExpMax": 47100,
+		"Level": 313
+	},
+	{
+		"AttrId": 3621314,
+		"ExpMax": 47100,
+		"Level": 314
+	},
+	{
+		"AttrId": 3621315,
+		"ExpMax": 47100,
+		"Level": 315
+	},
+	{
+		"AttrId": 3621316,
+		"ExpMax": 47100,
+		"Level": 316
+	},
+	{
+		"AttrId": 3621317,
+		"ExpMax": 47100,
+		"Level": 317
+	},
+	{
+		"AttrId": 3621318,
+		"ExpMax": 47100,
+		"Level": 318
+	},
+	{
+		"AttrId": 3621319,
+		"ExpMax": 47100,
+		"Level": 319
+	},
+	{
+		"AttrId": 3621320,
+		"ExpMax": 47100,
+		"Level": 320
+	},
+	{
+		"AttrId": 3621321,
+		"ExpMax": 50200,
+		"Level": 321
+	},
+	{
+		"AttrId": 3621322,
+		"ExpMax": 50200,
+		"Level": 322
+	},
+	{
+		"AttrId": 3621323,
+		"ExpMax": 50200,
+		"Level": 323
+	},
+	{
+		"AttrId": 3621324,
+		"ExpMax": 50200,
+		"Level": 324
+	},
+	{
+		"AttrId": 3621325,
+		"ExpMax": 50200,
+		"Level": 325
+	},
+	{
+		"AttrId": 3621326,
+		"ExpMax": 50200,
+		"Level": 326
+	},
+	{
+		"AttrId": 3621327,
+		"ExpMax": 50200,
+		"Level": 327
+	},
+	{
+		"AttrId": 3621328,
+		"ExpMax": 50200,
+		"Level": 328
+	},
+	{
+		"AttrId": 3621329,
+		"ExpMax": 50200,
+		"Level": 329
+	},
+	{
+		"AttrId": 3621330,
+		"ExpMax": 50200,
+		"Level": 330
+	},
+	{
+		"AttrId": 3621331,
+		"ExpMax": 53400,
+		"Level": 331
+	},
+	{
+		"AttrId": 3621332,
+		"ExpMax": 53400,
+		"Level": 332
+	},
+	{
+		"AttrId": 3621333,
+		"ExpMax": 53400,
+		"Level": 333
+	},
+	{
+		"AttrId": 3621334,
+		"ExpMax": 53400,
+		"Level": 334
+	},
+	{
+		"AttrId": 3621335,
+		"ExpMax": 53400,
+		"Level": 335
+	},
+	{
+		"AttrId": 3621336,
+		"ExpMax": 53400,
+		"Level": 336
+	},
+	{
+		"AttrId": 3621337,
+		"ExpMax": 53400,
+		"Level": 337
+	},
+	{
+		"AttrId": 3621338,
+		"ExpMax": 53400,
+		"Level": 338
+	},
+	{
+		"AttrId": 3621339,
+		"ExpMax": 53400,
+		"Level": 339
+	},
+	{
+		"AttrId": 3621340,
+		"ExpMax": 53400,
+		"Level": 340
+	},
+	{
+		"AttrId": 3621341,
+		"ExpMax": 56700,
+		"Level": 341
+	},
+	{
+		"AttrId": 3621342,
+		"ExpMax": 56700,
+		"Level": 342
+	},
+	{
+		"AttrId": 3621343,
+		"ExpMax": 56700,
+		"Level": 343
+	},
+	{
+		"AttrId": 3621344,
+		"ExpMax": 56700,
+		"Level": 344
+	},
+	{
+		"AttrId": 3621345,
+		"ExpMax": 56700,
+		"Level": 345
+	},
+	{
+		"AttrId": 3621346,
+		"ExpMax": 56700,
+		"Level": 346
+	},
+	{
+		"AttrId": 3621347,
+		"ExpMax": 56700,
+		"Level": 347
+	},
+	{
+		"AttrId": 3621348,
+		"ExpMax": 56700,
+		"Level": 348
+	},
+	{
+		"AttrId": 3621349,
+		"ExpMax": 56700,
+		"Level": 349
+	},
+	{
+		"AttrId": 3621350,
+		"ExpMax": 56700,
+		"Level": 350
+	},
+	{
+		"AttrId": 3621351,
+		"ExpMax": 60100,
+		"Level": 351
+	},
+	{
+		"AttrId": 3621352,
+		"ExpMax": 60100,
+		"Level": 352
+	},
+	{
+		"AttrId": 3621353,
+		"ExpMax": 60100,
+		"Level": 353
+	},
+	{
+		"AttrId": 3621354,
+		"ExpMax": 60100,
+		"Level": 354
+	},
+	{
+		"AttrId": 3621355,
+		"ExpMax": 60100,
+		"Level": 355
+	},
+	{
+		"AttrId": 3621356,
+		"ExpMax": 60100,
+		"Level": 356
+	},
+	{
+		"AttrId": 3621357,
+		"ExpMax": 60100,
+		"Level": 357
+	},
+	{
+		"AttrId": 3621358,
+		"ExpMax": 60100,
+		"Level": 358
+	},
+	{
+		"AttrId": 3621359,
+		"ExpMax": 60100,
+		"Level": 359
+	},
+	{
+		"AttrId": 3621360,
+		"ExpMax": 60100,
+		"Level": 360
+	},
+	{
+		"AttrId": 3621361,
+		"ExpMax": 63600,
+		"Level": 361
+	},
+	{
+		"AttrId": 3621362,
+		"ExpMax": 63600,
+		"Level": 362
+	},
+	{
+		"AttrId": 3621363,
+		"ExpMax": 63600,
+		"Level": 363
+	},
+	{
+		"AttrId": 3621364,
+		"ExpMax": 63600,
+		"Level": 364
+	},
+	{
+		"AttrId": 3621365,
+		"ExpMax": 63600,
+		"Level": 365
+	},
+	{
+		"AttrId": 3621366,
+		"ExpMax": 63600,
+		"Level": 366
+	},
+	{
+		"AttrId": 3621367,
+		"ExpMax": 63600,
+		"Level": 367
+	},
+	{
+		"AttrId": 3621368,
+		"ExpMax": 63600,
+		"Level": 368
+	},
+	{
+		"AttrId": 3621369,
+		"ExpMax": 63600,
+		"Level": 369
+	},
+	{
+		"AttrId": 3621370,
+		"ExpMax": 63600,
+		"Level": 370
+	},
+	{
+		"AttrId": 3621371,
+		"ExpMax": 67200,
+		"Level": 371
+	},
+	{
+		"AttrId": 3621372,
+		"ExpMax": 67200,
+		"Level": 372
+	},
+	{
+		"AttrId": 3621373,
+		"ExpMax": 67200,
+		"Level": 373
+	},
+	{
+		"AttrId": 3621374,
+		"ExpMax": 67200,
+		"Level": 374
+	},
+	{
+		"AttrId": 3621375,
+		"ExpMax": 67200,
+		"Level": 375
+	},
+	{
+		"AttrId": 3621376,
+		"ExpMax": 67200,
+		"Level": 376
+	},
+	{
+		"AttrId": 3621377,
+		"ExpMax": 67200,
+		"Level": 377
+	},
+	{
+		"AttrId": 3621378,
+		"ExpMax": 67200,
+		"Level": 378
+	},
+	{
+		"AttrId": 3621379,
+		"ExpMax": 67200,
+		"Level": 379
+	},
+	{
+		"AttrId": 3621380,
+		"ExpMax": 67200,
+		"Level": 380
+	},
+	{
+		"AttrId": 3621381,
+		"ExpMax": 70900,
+		"Level": 381
+	},
+	{
+		"AttrId": 3621382,
+		"ExpMax": 70900,
+		"Level": 382
+	},
+	{
+		"AttrId": 3621383,
+		"ExpMax": 70900,
+		"Level": 383
+	},
+	{
+		"AttrId": 3621384,
+		"ExpMax": 70900,
+		"Level": 384
+	},
+	{
+		"AttrId": 3621385,
+		"ExpMax": 70900,
+		"Level": 385
+	},
+	{
+		"AttrId": 3621386,
+		"ExpMax": 70900,
+		"Level": 386
+	},
+	{
+		"AttrId": 3621387,
+		"ExpMax": 70900,
+		"Level": 387
+	},
+	{
+		"AttrId": 3621388,
+		"ExpMax": 70900,
+		"Level": 388
+	},
+	{
+		"AttrId": 3621389,
+		"ExpMax": 70900,
+		"Level": 389
+	},
+	{
+		"AttrId": 3621390,
+		"ExpMax": 70900,
+		"Level": 390
+	},
+	{
+		"AttrId": 3621391,
+		"ExpMax": 74700,
+		"Level": 391
+	},
+	{
+		"AttrId": 3621392,
+		"ExpMax": 74700,
+		"Level": 392
+	},
+	{
+		"AttrId": 3621393,
+		"ExpMax": 74700,
+		"Level": 393
+	},
+	{
+		"AttrId": 3621394,
+		"ExpMax": 74700,
+		"Level": 394
+	},
+	{
+		"AttrId": 3621395,
+		"ExpMax": 74700,
+		"Level": 395
+	},
+	{
+		"AttrId": 3621396,
+		"ExpMax": 74700,
+		"Level": 396
+	},
+	{
+		"AttrId": 3621397,
+		"ExpMax": 74700,
+		"Level": 397
+	},
+	{
+		"AttrId": 3621398,
+		"ExpMax": 74700,
+		"Level": 398
+	},
+	{
+		"AttrId": 3621399,
+		"ExpMax": 74700,
+		"Level": 399
+	},
+	{
+		"AttrId": 3621400,
+		"ExpMax": 74700,
+		"Level": 400
+	},
+	{
+		"AttrId": 3621401,
+		"ExpMax": 78600,
+		"Level": 401
+	},
+	{
+		"AttrId": 3621402,
+		"ExpMax": 78600,
+		"Level": 402
+	},
+	{
+		"AttrId": 3621403,
+		"ExpMax": 78600,
+		"Level": 403
+	},
+	{
+		"AttrId": 3621404,
+		"ExpMax": 78600,
+		"Level": 404
+	},
+	{
+		"AttrId": 3621405,
+		"ExpMax": 78600,
+		"Level": 405
+	},
+	{
+		"AttrId": 3621406,
+		"ExpMax": 78600,
+		"Level": 406
+	},
+	{
+		"AttrId": 3621407,
+		"ExpMax": 78600,
+		"Level": 407
+	},
+	{
+		"AttrId": 3621408,
+		"ExpMax": 78600,
+		"Level": 408
+	},
+	{
+		"AttrId": 3621409,
+		"ExpMax": 78600,
+		"Level": 409
+	},
+	{
+		"AttrId": 3621410,
+		"ExpMax": 78600,
+		"Level": 410
+	},
+	{
+		"AttrId": 3621411,
+		"ExpMax": 82600,
+		"Level": 411
+	},
+	{
+		"AttrId": 3621412,
+		"ExpMax": 82600,
+		"Level": 412
+	},
+	{
+		"AttrId": 3621413,
+		"ExpMax": 82600,
+		"Level": 413
+	},
+	{
+		"AttrId": 3621414,
+		"ExpMax": 82600,
+		"Level": 414
+	},
+	{
+		"AttrId": 3621415,
+		"ExpMax": 82600,
+		"Level": 415
+	},
+	{
+		"AttrId": 3621416,
+		"ExpMax": 82600,
+		"Level": 416
+	},
+	{
+		"AttrId": 3621417,
+		"ExpMax": 82600,
+		"Level": 417
+	},
+	{
+		"AttrId": 3621418,
+		"ExpMax": 82600,
+		"Level": 418
+	},
+	{
+		"AttrId": 3621419,
+		"ExpMax": 82600,
+		"Level": 419
+	},
+	{
+		"AttrId": 3621420,
+		"ExpMax": 82600,
+		"Level": 420
+	},
+	{
+		"AttrId": 3621421,
+		"ExpMax": 86700,
+		"Level": 421
+	},
+	{
+		"AttrId": 3621422,
+		"ExpMax": 86700,
+		"Level": 422
+	},
+	{
+		"AttrId": 3621423,
+		"ExpMax": 86700,
+		"Level": 423
+	},
+	{
+		"AttrId": 3621424,
+		"ExpMax": 86700,
+		"Level": 424
+	},
+	{
+		"AttrId": 3621425,
+		"ExpMax": 86700,
+		"Level": 425
+	},
+	{
+		"AttrId": 3621426,
+		"ExpMax": 86700,
+		"Level": 426
+	},
+	{
+		"AttrId": 3621427,
+		"ExpMax": 86700,
+		"Level": 427
+	},
+	{
+		"AttrId": 3621428,
+		"ExpMax": 86700,
+		"Level": 428
+	},
+	{
+		"AttrId": 3621429,
+		"ExpMax": 86700,
+		"Level": 429
+	},
+	{
+		"AttrId": 3621430,
+		"ExpMax": 86700,
+		"Level": 430
+	},
+	{
+		"AttrId": 3621431,
+		"ExpMax": 90900,
+		"Level": 431
+	},
+	{
+		"AttrId": 3621432,
+		"ExpMax": 90900,
+		"Level": 432
+	},
+	{
+		"AttrId": 3621433,
+		"ExpMax": 90900,
+		"Level": 433
+	},
+	{
+		"AttrId": 3621434,
+		"ExpMax": 90900,
+		"Level": 434
+	},
+	{
+		"AttrId": 3621435,
+		"ExpMax": 90900,
+		"Level": 435
+	},
+	{
+		"AttrId": 3621436,
+		"ExpMax": 90900,
+		"Level": 436
+	},
+	{
+		"AttrId": 3621437,
+		"ExpMax": 90900,
+		"Level": 437
+	},
+	{
+		"AttrId": 3621438,
+		"ExpMax": 90900,
+		"Level": 438
+	},
+	{
+		"AttrId": 3621439,
+		"ExpMax": 90900,
+		"Level": 439
+	},
+	{
+		"AttrId": 3621440,
+		"ExpMax": 90900,
+		"Level": 440
+	},
+	{
+		"AttrId": 3621441,
+		"ExpMax": 95200,
+		"Level": 441
+	},
+	{
+		"AttrId": 3621442,
+		"ExpMax": 95200,
+		"Level": 442
+	},
+	{
+		"AttrId": 3621443,
+		"ExpMax": 95200,
+		"Level": 443
+	},
+	{
+		"AttrId": 3621444,
+		"ExpMax": 95200,
+		"Level": 444
+	},
+	{
+		"AttrId": 3621445,
+		"ExpMax": 95200,
+		"Level": 445
+	},
+	{
+		"AttrId": 3621446,
+		"ExpMax": 95200,
+		"Level": 446
+	},
+	{
+		"AttrId": 3621447,
+		"ExpMax": 95200,
+		"Level": 447
+	},
+	{
+		"AttrId": 3621448,
+		"ExpMax": 95200,
+		"Level": 448
+	},
+	{
+		"AttrId": 3621449,
+		"ExpMax": 95200,
+		"Level": 449
+	},
+	{
+		"AttrId": 3621450,
+		"ExpMax": 95200,
+		"Level": 450
+	},
+	{
+		"AttrId": 3621451,
+		"ExpMax": 99600,
+		"Level": 451
+	},
+	{
+		"AttrId": 3621452,
+		"ExpMax": 99600,
+		"Level": 452
+	},
+	{
+		"AttrId": 3621453,
+		"ExpMax": 99600,
+		"Level": 453
+	},
+	{
+		"AttrId": 3621454,
+		"ExpMax": 99600,
+		"Level": 454
+	},
+	{
+		"AttrId": 3621455,
+		"ExpMax": 99600,
+		"Level": 455
+	},
+	{
+		"AttrId": 3621456,
+		"ExpMax": 99600,
+		"Level": 456
+	},
+	{
+		"AttrId": 3621457,
+		"ExpMax": 99600,
+		"Level": 457
+	},
+	{
+		"AttrId": 3621458,
+		"ExpMax": 99600,
+		"Level": 458
+	},
+	{
+		"AttrId": 3621459,
+		"ExpMax": 99600,
+		"Level": 459
+	},
+	{
+		"AttrId": 3621460,
+		"ExpMax": 99600,
+		"Level": 460
+	},
+	{
+		"AttrId": 3621461,
+		"ExpMax": 104100,
+		"Level": 461
+	},
+	{
+		"AttrId": 3621462,
+		"ExpMax": 104100,
+		"Level": 462
+	},
+	{
+		"AttrId": 3621463,
+		"ExpMax": 104100,
+		"Level": 463
+	},
+	{
+		"AttrId": 3621464,
+		"ExpMax": 104100,
+		"Level": 464
+	},
+	{
+		"AttrId": 3621465,
+		"ExpMax": 104100,
+		"Level": 465
+	},
+	{
+		"AttrId": 3621466,
+		"ExpMax": 104100,
+		"Level": 466
+	},
+	{
+		"AttrId": 3621467,
+		"ExpMax": 104100,
+		"Level": 467
+	},
+	{
+		"AttrId": 3621468,
+		"ExpMax": 104100,
+		"Level": 468
+	},
+	{
+		"AttrId": 3621469,
+		"ExpMax": 104100,
+		"Level": 469
+	},
+	{
+		"AttrId": 3621470,
+		"ExpMax": 104100,
+		"Level": 470
+	},
+	{
+		"AttrId": 3621471,
+		"ExpMax": 108700,
+		"Level": 471
+	},
+	{
+		"AttrId": 3621472,
+		"ExpMax": 108700,
+		"Level": 472
+	},
+	{
+		"AttrId": 3621473,
+		"ExpMax": 108700,
+		"Level": 473
+	},
+	{
+		"AttrId": 3621474,
+		"ExpMax": 108700,
+		"Level": 474
+	},
+	{
+		"AttrId": 3621475,
+		"ExpMax": 108700,
+		"Level": 475
+	},
+	{
+		"AttrId": 3621476,
+		"ExpMax": 108700,
+		"Level": 476
+	},
+	{
+		"AttrId": 3621477,
+		"ExpMax": 108700,
+		"Level": 477
+	},
+	{
+		"AttrId": 3621478,
+		"ExpMax": 108700,
+		"Level": 478
+	},
+	{
+		"AttrId": 3621479,
+		"ExpMax": 108700,
+		"Level": 479
+	},
+	{
+		"AttrId": 3621480,
+		"ExpMax": 108700,
+		"Level": 480
+	},
+	{
+		"AttrId": 3621481,
+		"ExpMax": 113400,
+		"Level": 481
+	},
+	{
+		"AttrId": 3621482,
+		"ExpMax": 113400,
+		"Level": 482
+	},
+	{
+		"AttrId": 3621483,
+		"ExpMax": 113400,
+		"Level": 483
+	},
+	{
+		"AttrId": 3621484,
+		"ExpMax": 113400,
+		"Level": 484
+	},
+	{
+		"AttrId": 3621485,
+		"ExpMax": 113400,
+		"Level": 485
+	},
+	{
+		"AttrId": 3621486,
+		"ExpMax": 113400,
+		"Level": 486
+	},
+	{
+		"AttrId": 3621487,
+		"ExpMax": 113400,
+		"Level": 487
+	},
+	{
+		"AttrId": 3621488,
+		"ExpMax": 113400,
+		"Level": 488
+	},
+	{
+		"AttrId": 3621489,
+		"ExpMax": 113400,
+		"Level": 489
+	},
+	{
+		"AttrId": 3621490,
+		"ExpMax": 113400,
+		"Level": 490
+	},
+	{
+		"AttrId": 3621491,
+		"ExpMax": 118200,
+		"Level": 491
+	},
+	{
+		"AttrId": 3621492,
+		"ExpMax": 118200,
+		"Level": 492
+	},
+	{
+		"AttrId": 3621493,
+		"ExpMax": 118200,
+		"Level": 493
+	},
+	{
+		"AttrId": 3621494,
+		"ExpMax": 118200,
+		"Level": 494
+	},
+	{
+		"AttrId": 3621495,
+		"ExpMax": 118200,
+		"Level": 495
+	},
+	{
+		"AttrId": 3621496,
+		"ExpMax": 118200,
+		"Level": 496
+	},
+	{
+		"AttrId": 3621497,
+		"ExpMax": 118200,
+		"Level": 497
+	},
+	{
+		"AttrId": 3621498,
+		"ExpMax": 118200,
+		"Level": 498
+	},
+	{
+		"AttrId": 3621499,
+		"ExpMax": 118200,
+		"Level": 499
+	},
+	{
+		"AttrId": 3621500,
+		"Level": 500
+	}
+]

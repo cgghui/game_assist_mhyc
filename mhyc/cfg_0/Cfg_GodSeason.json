@@ -1,0 +1,12 @@
+[
+	{
+		"GodName": 1,
+		"Prize": 191,
+		"TaskId": "[1,2]"
+	},
+	{
+		"GodName": 2,
+		"Prize": 192,
+		"TaskId": "[3,4]"
+	}
+]

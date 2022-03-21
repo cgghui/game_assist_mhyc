@@ -1,0 +1,2804 @@
+[
+	{
+		"AttrId": 3501001,
+		"HeroId": 1,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 1,
+		"ItemData": "2080201:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 1,
+		"ItemData": "2080201:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 1,
+		"ItemData": "2080201:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 1,
+		"ItemData": "2080201:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 1,
+		"ItemData": "2080201:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 1,
+		"ItemData": "2080201:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 1,
+		"ItemData": "2080201:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 1,
+		"ItemData": "2080201:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 1,
+		"ItemData": "2080201:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 1,
+		"ItemData": "2080201:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 2,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 2,
+		"ItemData": "2080202:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 2,
+		"ItemData": "2080202:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 2,
+		"ItemData": "2080202:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 2,
+		"ItemData": "2080202:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 2,
+		"ItemData": "2080202:20",
+		"NeedHeroLevel": 20,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 2,
+		"ItemData": "2080202:50",
+		"NeedHeroLevel": 40,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 2,
+		"ItemData": "2080202:100",
+		"NeedHeroLevel": 60,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 2,
+		"ItemData": "2080202:200",
+		"NeedHeroLevel": 75,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 2,
+		"ItemData": "2080202:300",
+		"NeedHeroLevel": 90,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 2,
+		"ItemData": "2080202:500",
+		"NeedHeroLevel": 100,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 3,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 3,
+		"ItemData": "2080203:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 3,
+		"ItemData": "2080203:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 3,
+		"ItemData": "2080203:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 3,
+		"ItemData": "2080203:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 3,
+		"ItemData": "2080203:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 3,
+		"ItemData": "2080203:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 3,
+		"ItemData": "2080203:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 3,
+		"ItemData": "2080203:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 3,
+		"ItemData": "2080203:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 3,
+		"ItemData": "2080203:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 4,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 4,
+		"ItemData": "2080204:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 4,
+		"ItemData": "2080204:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 4,
+		"ItemData": "2080204:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 4,
+		"ItemData": "2080204:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 4,
+		"ItemData": "2080204:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 4,
+		"ItemData": "2080204:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 4,
+		"ItemData": "2080204:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 4,
+		"ItemData": "2080204:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 4,
+		"ItemData": "2080204:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 4,
+		"ItemData": "2080204:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 5,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 5,
+		"ItemData": "2080205:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 5,
+		"ItemData": "2080205:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 5,
+		"ItemData": "2080205:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 5,
+		"ItemData": "2080205:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 5,
+		"ItemData": "2080205:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 5,
+		"ItemData": "2080205:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 5,
+		"ItemData": "2080205:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 5,
+		"ItemData": "2080205:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 5,
+		"ItemData": "2080205:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 5,
+		"ItemData": "2080205:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 6,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 6,
+		"ItemData": "2080206:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 6,
+		"ItemData": "2080206:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 6,
+		"ItemData": "2080206:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 6,
+		"ItemData": "2080206:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 6,
+		"ItemData": "2080206:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 6,
+		"ItemData": "2080206:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 6,
+		"ItemData": "2080206:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 6,
+		"ItemData": "2080206:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 6,
+		"ItemData": "2080206:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 6,
+		"ItemData": "2080206:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 7,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 7,
+		"ItemData": "2080207:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 7,
+		"ItemData": "2080207:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 7,
+		"ItemData": "2080207:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 7,
+		"ItemData": "2080207:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 7,
+		"ItemData": "2080207:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 7,
+		"ItemData": "2080207:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 7,
+		"ItemData": "2080207:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 7,
+		"ItemData": "2080207:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 7,
+		"ItemData": "2080207:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 7,
+		"ItemData": "2080207:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 8,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 8,
+		"ItemData": "2080208:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 8,
+		"ItemData": "2080208:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 8,
+		"ItemData": "2080208:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 8,
+		"ItemData": "2080208:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 8,
+		"ItemData": "2080208:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 8,
+		"ItemData": "2080208:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 8,
+		"ItemData": "2080208:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 8,
+		"ItemData": "2080208:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 8,
+		"ItemData": "2080208:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 8,
+		"ItemData": "2080208:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501001,
+		"HeroId": 9,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501002,
+		"HeroId": 9,
+		"ItemData": "2080209:10",
+		"Quality": 4,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501003,
+		"HeroId": 9,
+		"ItemData": "2080209:10",
+		"Quality": 4,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501004,
+		"HeroId": 9,
+		"ItemData": "2080209:10",
+		"Quality": 4,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501005,
+		"HeroId": 9,
+		"ItemData": "2080209:10",
+		"Quality": 4,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501006,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5
+	},
+	{
+		"AttrId": 3501007,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501008,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501009,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501010,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501011,
+		"HeroId": 9,
+		"ItemData": "2080209:20",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501012,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6
+	},
+	{
+		"AttrId": 3501013,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501014,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501015,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501016,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501017,
+		"HeroId": 9,
+		"ItemData": "2080209:50",
+		"NeedHeroLevel": 20,
+		"Quality": 6,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501018,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7
+	},
+	{
+		"AttrId": 3501019,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501020,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501021,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501022,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501023,
+		"HeroId": 9,
+		"ItemData": "2080209:100",
+		"NeedHeroLevel": 40,
+		"Quality": 7,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501024,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8
+	},
+	{
+		"AttrId": 3501025,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501026,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501027,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501028,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501029,
+		"HeroId": 9,
+		"ItemData": "2080209:200",
+		"NeedHeroLevel": 60,
+		"Quality": 8,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501030,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9
+	},
+	{
+		"AttrId": 3501031,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501032,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501033,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501034,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501035,
+		"HeroId": 9,
+		"ItemData": "2080209:300",
+		"NeedHeroLevel": 75,
+		"Quality": 9,
+		"Star": 5
+	},
+	{
+		"AttrId": 3501036,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10
+	},
+	{
+		"AttrId": 3501037,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 1
+	},
+	{
+		"AttrId": 3501038,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 2
+	},
+	{
+		"AttrId": 3501039,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 3
+	},
+	{
+		"AttrId": 3501040,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 4
+	},
+	{
+		"AttrId": 3501041,
+		"HeroId": 9,
+		"ItemData": "2080209:500",
+		"NeedHeroLevel": 90,
+		"Quality": 10,
+		"Star": 5
+	}
+]

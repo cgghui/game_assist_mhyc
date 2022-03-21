@@ -1,0 +1,30 @@
+[
+	{
+		"CfgKey": "PrefectWarResetTime",
+		"CfgValue": "18000"
+	},
+	{
+		"CfgKey": "PrefectWarConsume",
+		"CfgValue": "2080456:1"
+	},
+	{
+		"CfgKey": "PrefectWarHelpTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "PrefectWar_Buff1",
+		"CfgValue": "8111"
+	},
+	{
+		"CfgKey": "PrefectWar_Buff2",
+		"CfgValue": "8112"
+	},
+	{
+		"CfgKey": "PrefectWar_UnlockTips1",
+		"CfgValue": "\u003coutline color=#871E0C\u003e\u003ccolor=#fffcb2\u003e三星通关\u003c/c\u003e\u003ccolor=#46ff69\u003e【豪杰】\u003c/c\u003e\u003ccolor=#fffcb2\u003e模式\n激活任意\u003c/c\u003e\u003ccolor=#46ff69\u003e【一骑当千】\u003c/c\u003e\u003ccolor=#fffcb2\u003e英雄即可解锁\u003c/c\u003e\u003ccolor=#fa72f8\u003e【神威】\u003c/c\u003e\u003ccolor=#fffcb2\u003e模式\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"CfgKey": "PrefectWar_UnlockTips2",
+		"CfgValue": "\u003coutline color=#871E0C\u003e\u003ccolor=#fffcb2\u003e三星通关\u003c/c\u003e\u003ccolor=#fa72f8\u003e【神威】\u003c/c\u003e\u003ccolor=#fffcb2\u003e模式\n激活任意\u003c/c\u003e\u003ccolor=#fa72f8\u003e【军师联盟】\u003c/c\u003e\u003ccolor=#fffcb2\u003e英雄即可解锁\u003c/c\u003e\u003ccolor=#ff4242\u003e【无双】\u003c/c\u003e\u003ccolor=#fffcb2\u003e模式\u003c/c\u003e\u003c/outline\u003e"
+	}
+]

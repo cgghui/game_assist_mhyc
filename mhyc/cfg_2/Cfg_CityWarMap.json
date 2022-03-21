@@ -1,0 +1,80 @@
+[
+	{
+		"Id": 1,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "公孙家"
+	},
+	{
+		"Id": 2,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "东郭家"
+	},
+	{
+		"Id": 3,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "令狐家"
+	},
+	{
+		"Id": 4,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "慕容家"
+	},
+	{
+		"Id": 5,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "澹台家"
+	},
+	{
+		"Id": 6,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "欧阳家"
+	},
+	{
+		"Id": 7,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "司马家"
+	},
+	{
+		"Id": 8,
+		"Layer": 1,
+		"MapId": 2551,
+		"Name": "轩辕家"
+	},
+	{
+		"Id": 9,
+		"Layer": 2,
+		"MapId": 2552,
+		"Name": "青龙城"
+	},
+	{
+		"Id": 10,
+		"Layer": 2,
+		"MapId": 2552,
+		"Name": "白虎城"
+	},
+	{
+		"Id": 11,
+		"Layer": 2,
+		"MapId": 2552,
+		"Name": "朱雀城"
+	},
+	{
+		"Id": 12,
+		"Layer": 2,
+		"MapId": 2552,
+		"Name": "玄武城"
+	},
+	{
+		"Id": 13,
+		"Layer": 3,
+		"MapId": 2553,
+		"Name": "白帝圣城"
+	}
+]

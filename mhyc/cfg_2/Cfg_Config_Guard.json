@@ -1,0 +1,30 @@
+[
+	{
+		"CfgKey": "GuardInitTime",
+		"CfgValue": "7200"
+	},
+	{
+		"CfgKey": "GuardIncreaseId",
+		"CfgValue": "701"
+	},
+	{
+		"CfgKey": "GuardBuy",
+		"CfgValue": "1:200"
+	},
+	{
+		"CfgKey": "GuardBuyTime",
+		"CfgValue": "7"
+	},
+	{
+		"CfgKey": "GuardAttr",
+		"CfgValue": "2211501"
+	},
+	{
+		"CfgKey": "GuardAnim",
+		"CfgValue": "2527"
+	},
+	{
+		"CfgKey": "Des",
+		"CfgValue": "解锁\u003ccolor=#43f241\u003e游戏助手\u003c/c\u003e功能"
+	}
+]

@@ -1,0 +1,439 @@
+[
+	{
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"FuncId": 28,
+		"Item": "2041003:10",
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"FuncId": 28,
+		"Item": "2041003:30",
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 20000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrInc": 160000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070191:50",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 320000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070191:100",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 6
+	},
+	{
+		"AttrInc": 640000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070191:200",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 7
+	},
+	{
+		"AttrInc": 1280000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070191:300",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 8
+	},
+	{
+		"AttrInc": 2560000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070211:100",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 9
+	},
+	{
+		"AttrInc": 5120000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070211:200",
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrInc": 160000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070192:50",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 320000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070192:100",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 6
+	},
+	{
+		"AttrInc": 640000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070192:200",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 7
+	},
+	{
+		"AttrInc": 1280000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070192:300",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 8
+	},
+	{
+		"AttrInc": 2560000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070212:100",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 9
+	},
+	{
+		"AttrInc": 5120000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070212:200",
+		"ObjId": 2,
+		"Quality": 5,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrInc": 160000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070193:50",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 320000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070193:100",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 6
+	},
+	{
+		"AttrInc": 640000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070193:200",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 7
+	},
+	{
+		"AttrInc": 1280000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070193:300",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 8
+	},
+	{
+		"AttrInc": 2560000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070213:100",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 9
+	},
+	{
+		"AttrInc": 5120000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070213:200",
+		"ObjId": 3,
+		"Quality": 5,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrInc": 160000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070194:50",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 320000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070194:100",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 6
+	},
+	{
+		"AttrInc": 640000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070194:200",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 7
+	},
+	{
+		"AttrInc": 1280000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070194:300",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 8
+	},
+	{
+		"AttrInc": 2560000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070214:100",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 9
+	},
+	{
+		"AttrInc": 5120000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070214:200",
+		"ObjId": 4,
+		"Quality": 5,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"AttrInc": 160000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070195:50",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 320000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070195:100",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 6
+	},
+	{
+		"AttrInc": 640000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070195:200",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 7
+	},
+	{
+		"AttrInc": 1280000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070195:300",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 8
+	},
+	{
+		"AttrInc": 2560000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070215:100",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 9
+	},
+	{
+		"AttrInc": 5120000,
+		"FuncId": 14104,
+		"IsSamePos": 1,
+		"Item": "2070215:200",
+		"ObjId": 5,
+		"Quality": 5,
+		"Star": 10
+	},
+	{
+		"FuncId": 14302,
+		"IsSamePos": 1,
+		"Star": 1
+	},
+	{
+		"FuncId": 14302,
+		"IsSamePos": 1,
+		"Star": 2
+	},
+	{
+		"FuncId": 14302,
+		"IsSamePos": 1,
+		"Star": 3
+	},
+	{
+		"FuncId": 14302,
+		"IsSamePos": 1,
+		"Star": 4
+	},
+	{
+		"FuncId": 14302,
+		"IsSamePos": 1,
+		"Star": 5
+	}
+]

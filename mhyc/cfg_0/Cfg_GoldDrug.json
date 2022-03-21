@@ -1,0 +1,378 @@
+[
+	{
+		"Cost": "2051005:1",
+		"ItemId": 2051001,
+		"MaxExp": 5,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:1",
+		"ItemId": 2051002,
+		"MaxExp": 5,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:1",
+		"ItemId": 2051003,
+		"MaxExp": 5,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:1",
+		"ItemId": 2051004,
+		"MaxExp": 5,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:5",
+		"Grade": 1,
+		"ItemId": 2051001,
+		"MaxExp": 10,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 1000,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:5",
+		"Grade": 1,
+		"ItemId": 2051002,
+		"MaxExp": 10,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 1000,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:5",
+		"Grade": 1,
+		"ItemId": 2051003,
+		"MaxExp": 10,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 1000,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:5",
+		"Grade": 1,
+		"ItemId": 2051004,
+		"MaxExp": 10,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 1000,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:10",
+		"Grade": 2,
+		"ItemId": 2051001,
+		"MaxExp": 15,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 1900,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:10",
+		"Grade": 2,
+		"ItemId": 2051002,
+		"MaxExp": 15,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 1900,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:10",
+		"Grade": 2,
+		"ItemId": 2051003,
+		"MaxExp": 15,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 1900,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:10",
+		"Grade": 2,
+		"ItemId": 2051004,
+		"MaxExp": 15,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 1900,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:20",
+		"Grade": 3,
+		"ItemId": 2051001,
+		"MaxExp": 20,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 2700,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:20",
+		"Grade": 3,
+		"ItemId": 2051002,
+		"MaxExp": 20,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 2700,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:20",
+		"Grade": 3,
+		"ItemId": 2051003,
+		"MaxExp": 20,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 2700,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:20",
+		"Grade": 3,
+		"ItemId": 2051004,
+		"MaxExp": 20,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 2700,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:30",
+		"Grade": 4,
+		"ItemId": 2051001,
+		"MaxExp": 25,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 3400,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:30",
+		"Grade": 4,
+		"ItemId": 2051002,
+		"MaxExp": 25,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 3400,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:30",
+		"Grade": 4,
+		"ItemId": 2051003,
+		"MaxExp": 25,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 3400,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:30",
+		"Grade": 4,
+		"ItemId": 2051004,
+		"MaxExp": 25,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 3400,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:40",
+		"Grade": 5,
+		"ItemId": 2051001,
+		"MaxExp": 30,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 4000,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:40",
+		"Grade": 5,
+		"ItemId": 2051002,
+		"MaxExp": 30,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 4000,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:40",
+		"Grade": 5,
+		"ItemId": 2051003,
+		"MaxExp": 30,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 4000,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:40",
+		"Grade": 5,
+		"ItemId": 2051004,
+		"MaxExp": 30,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 4000,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:50",
+		"Grade": 6,
+		"ItemId": 2051001,
+		"MaxExp": 35,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 4500,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:50",
+		"Grade": 6,
+		"ItemId": 2051002,
+		"MaxExp": 35,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 4500,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:50",
+		"Grade": 6,
+		"ItemId": 2051003,
+		"MaxExp": 35,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 4500,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:50",
+		"Grade": 6,
+		"ItemId": 2051004,
+		"MaxExp": 35,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 4500,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:60",
+		"Grade": 7,
+		"ItemId": 2051001,
+		"MaxExp": 40,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 4900,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:60",
+		"Grade": 7,
+		"ItemId": 2051002,
+		"MaxExp": 40,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 4900,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:60",
+		"Grade": 7,
+		"ItemId": 2051003,
+		"MaxExp": 40,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 4900,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:60",
+		"Grade": 7,
+		"ItemId": 2051004,
+		"MaxExp": 40,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 4900,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:70",
+		"Grade": 8,
+		"ItemId": 2051001,
+		"MaxExp": 45,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 5200,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:70",
+		"Grade": 8,
+		"ItemId": 2051002,
+		"MaxExp": 45,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 5200,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:70",
+		"Grade": 8,
+		"ItemId": 2051003,
+		"MaxExp": 45,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 5200,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:70",
+		"Grade": 8,
+		"ItemId": 2051004,
+		"MaxExp": 45,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 5200,
+		"Type": 4
+	},
+	{
+		"Cost": "2051005:80",
+		"Grade": 9,
+		"ItemId": 2051001,
+		"MaxExp": 50,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 5400,
+		"Type": 1
+	},
+	{
+		"Cost": "2051005:80",
+		"Grade": 9,
+		"ItemId": 2051002,
+		"MaxExp": 50,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 5400,
+		"Type": 2
+	},
+	{
+		"Cost": "2051005:80",
+		"Grade": 9,
+		"ItemId": 2051003,
+		"MaxExp": 50,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 5400,
+		"Type": 3
+	},
+	{
+		"Cost": "2051005:80",
+		"Grade": 9,
+		"ItemId": 2051004,
+		"MaxExp": 50,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 5400,
+		"Type": 4
+	},
+	{
+		"Grade": 10,
+		"ItemId": 2051001,
+		"SpeAttrId": 242011,
+		"SpeAttrRate": 5500,
+		"Type": 1
+	},
+	{
+		"Grade": 10,
+		"ItemId": 2051002,
+		"SpeAttrId": 242012,
+		"SpeAttrRate": 5500,
+		"Type": 2
+	},
+	{
+		"Grade": 10,
+		"ItemId": 2051003,
+		"SpeAttrId": 242013,
+		"SpeAttrRate": 5500,
+		"Type": 3
+	},
+	{
+		"Grade": 10,
+		"ItemId": 2051004,
+		"SpeAttrId": 242014,
+		"SpeAttrRate": 5500,
+		"Type": 4
+	}
+]

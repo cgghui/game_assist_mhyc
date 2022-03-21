@@ -1,0 +1,882 @@
+[
+	{
+		"ActId": 10021,
+		"GroupPrize": 401,
+		"Id": 1002101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10021,
+		"GroupPrize": 402,
+		"Id": 1002102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10021,
+		"GroupPrize": 403,
+		"Id": 1002103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10021,
+		"GroupPrize": 404,
+		"Id": 1002104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10021,
+		"GroupPrize": 405,
+		"Id": 1002105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10021,
+		"GroupPrize": 406,
+		"Id": 1002106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10041,
+		"GroupPrize": 411,
+		"Id": 1004101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10041,
+		"GroupPrize": 412,
+		"Id": 1004102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10041,
+		"GroupPrize": 413,
+		"Id": 1004103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10041,
+		"GroupPrize": 414,
+		"Id": 1004104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 401,
+		"Id": 1012101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 402,
+		"Id": 1012102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 403,
+		"Id": 1012103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 404,
+		"Id": 1012104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 405,
+		"Id": 1012105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10121,
+		"GroupPrize": 406,
+		"Id": 1012106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10141,
+		"GroupPrize": 411,
+		"Id": 1014101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10141,
+		"GroupPrize": 412,
+		"Id": 1014102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10141,
+		"GroupPrize": 413,
+		"Id": 1014103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10141,
+		"GroupPrize": 414,
+		"Id": 1014104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 401,
+		"Id": 1022101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 402,
+		"Id": 1022102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 403,
+		"Id": 1022103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 404,
+		"Id": 1022104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 405,
+		"Id": 1022105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10221,
+		"GroupPrize": 406,
+		"Id": 1022106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10241,
+		"GroupPrize": 411,
+		"Id": 1024101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10241,
+		"GroupPrize": 412,
+		"Id": 1024102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10241,
+		"GroupPrize": 413,
+		"Id": 1024103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10241,
+		"GroupPrize": 414,
+		"Id": 1024104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 401,
+		"Id": 1032101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 402,
+		"Id": 1032102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 403,
+		"Id": 1032103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 404,
+		"Id": 1032104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 405,
+		"Id": 1032105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10321,
+		"GroupPrize": 406,
+		"Id": 1032106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10341,
+		"GroupPrize": 411,
+		"Id": 1034101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10341,
+		"GroupPrize": 412,
+		"Id": 1034102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10341,
+		"GroupPrize": 413,
+		"Id": 1034103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10341,
+		"GroupPrize": 414,
+		"Id": 1034104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 501,
+		"Id": 1042101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 502,
+		"Id": 1042102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 503,
+		"Id": 1042103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 504,
+		"Id": 1042104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 505,
+		"Id": 1042105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10421,
+		"GroupPrize": 506,
+		"Id": 1042106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10441,
+		"GroupPrize": 411,
+		"Id": 1044101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10441,
+		"GroupPrize": 412,
+		"Id": 1044102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10441,
+		"GroupPrize": 413,
+		"Id": 1044103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10441,
+		"GroupPrize": 414,
+		"Id": 1044104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 501,
+		"Id": 1052101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 502,
+		"Id": 1052102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 503,
+		"Id": 1052103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 504,
+		"Id": 1052104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 505,
+		"Id": 1052105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10521,
+		"GroupPrize": 506,
+		"Id": 1052106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10541,
+		"GroupPrize": 411,
+		"Id": 1054101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10541,
+		"GroupPrize": 412,
+		"Id": 1054102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10541,
+		"GroupPrize": 413,
+		"Id": 1054103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10541,
+		"GroupPrize": 414,
+		"Id": 1054104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 501,
+		"Id": 1062101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 502,
+		"Id": 1062102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 503,
+		"Id": 1062103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 504,
+		"Id": 1062104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 505,
+		"Id": 1062105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10621,
+		"GroupPrize": 506,
+		"Id": 1062106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10641,
+		"GroupPrize": 411,
+		"Id": 1064101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10641,
+		"GroupPrize": 412,
+		"Id": 1064102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10641,
+		"GroupPrize": 413,
+		"Id": 1064103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10641,
+		"GroupPrize": 414,
+		"Id": 1064104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 501,
+		"Id": 1072101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 502,
+		"Id": 1072102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 503,
+		"Id": 1072103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 504,
+		"Id": 1072104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 505,
+		"Id": 1072105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10721,
+		"GroupPrize": 506,
+		"Id": 1072106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10741,
+		"GroupPrize": 411,
+		"Id": 1074101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10741,
+		"GroupPrize": 412,
+		"Id": 1074102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10741,
+		"GroupPrize": 413,
+		"Id": 1074103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10741,
+		"GroupPrize": 414,
+		"Id": 1074104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 501,
+		"Id": 1082101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 502,
+		"Id": 1082102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 503,
+		"Id": 1082103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 504,
+		"Id": 1082104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 505,
+		"Id": 1082105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10821,
+		"GroupPrize": 506,
+		"Id": 1082106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10841,
+		"GroupPrize": 411,
+		"Id": 1084101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10841,
+		"GroupPrize": 412,
+		"Id": 1084102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10841,
+		"GroupPrize": 413,
+		"Id": 1084103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10841,
+		"GroupPrize": 414,
+		"Id": 1084104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 501,
+		"Id": 1092101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 502,
+		"Id": 1092102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 503,
+		"Id": 1092103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 504,
+		"Id": 1092104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 505,
+		"Id": 1092105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 10921,
+		"GroupPrize": 506,
+		"Id": 1092106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 10941,
+		"GroupPrize": 411,
+		"Id": 1094101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 10941,
+		"GroupPrize": 412,
+		"Id": 1094102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 10941,
+		"GroupPrize": 413,
+		"Id": 1094103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 10941,
+		"GroupPrize": 414,
+		"Id": 1094104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 501,
+		"Id": 1102101,
+		"RankLimit": 1500,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 502,
+		"Id": 1102102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 503,
+		"Id": 1102103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 504,
+		"Id": 1102104,
+		"RankLimit": 500,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 505,
+		"Id": 1102105,
+		"RankLimit": 300,
+		"RankMax": 50,
+		"RankMin": 11
+	},
+	{
+		"ActId": 11021,
+		"GroupPrize": 506,
+		"Id": 1102106,
+		"RankLimit": 150,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"ActId": 11041,
+		"GroupPrize": 411,
+		"Id": 1104101,
+		"RankLimit": 1000,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"ActId": 11041,
+		"GroupPrize": 412,
+		"Id": 1104102,
+		"RankLimit": 1000,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"ActId": 11041,
+		"GroupPrize": 413,
+		"Id": 1104103,
+		"RankLimit": 1000,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"ActId": 11041,
+		"GroupPrize": 414,
+		"Id": 1104104,
+		"RankLimit": 1000,
+		"RankMax": 4,
+		"RankMin": 4
+	}
+]

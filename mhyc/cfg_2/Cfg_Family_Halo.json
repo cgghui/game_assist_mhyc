@@ -1,0 +1,27 @@
+[
+	{
+		"SkillId": 9101,
+		"SkillName": "强击光环",
+		"UnlockLevel": "3|4|6|9|13"
+	},
+	{
+		"SkillId": 9102,
+		"SkillName": "防御光环",
+		"UnlockLevel": "2|3|5|8|12"
+	},
+	{
+		"SkillId": 9103,
+		"SkillName": "生命光环",
+		"UnlockLevel": "1|2|4|7|11"
+	},
+	{
+		"SkillId": 9104,
+		"SkillName": "暴击光环",
+		"UnlockLevel": "4|5|7|11|14"
+	},
+	{
+		"SkillId": 9105,
+		"SkillName": "速度光环",
+		"UnlockLevel": "5|6|8|12|15"
+	}
+]

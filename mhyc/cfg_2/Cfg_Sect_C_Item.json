@@ -1,0 +1,20 @@
+[
+	{
+		"AnimaID": 8177,
+		"ItemId": 504,
+		"MonsterId": 6553,
+		"Wait": 60
+	},
+	{
+		"AnimaID": 8178,
+		"ItemId": 505,
+		"MonsterId": 6554,
+		"Wait": 90
+	},
+	{
+		"AnimaID": 8179,
+		"ItemId": 506,
+		"MonsterId": 6555,
+		"Wait": 120
+	}
+]

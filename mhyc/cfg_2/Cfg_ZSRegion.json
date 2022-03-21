@@ -1,0 +1,38 @@
+[
+	{
+		"Id": 1,
+		"LevelMax": 449,
+		"LevelMin": 350,
+		"Name": "破军战区"
+	},
+	{
+		"Id": 2,
+		"LevelMax": 549,
+		"LevelMin": 450,
+		"Name": "摇光战区"
+	},
+	{
+		"Id": 3,
+		"LevelMax": 999,
+		"LevelMin": 550,
+		"Name": "贪狼战区"
+	},
+	{
+		"Id": 4,
+		"LevelMax": 1449,
+		"LevelMin": 1000,
+		"Name": "开阳战区"
+	},
+	{
+		"Id": 5,
+		"LevelMax": 1899,
+		"LevelMin": 1450,
+		"Name": "武曲战区"
+	},
+	{
+		"Id": 6,
+		"LevelMax": 2349,
+		"LevelMin": 1900,
+		"Name": "文曲战区"
+	}
+]

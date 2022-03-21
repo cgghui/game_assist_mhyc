@@ -1,0 +1,4300 @@
+[
+	{
+		"BossId": 129,
+		"Id": 1,
+		"NeedLv": 250,
+		"RefreshId": 34001,
+		"ShowPrize": "5014111:5",
+		"ShowPrize1": "5014111:5",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 2,
+		"RefreshId": 34002,
+		"ShowPrize": "5014111:5",
+		"ShowPrize1": "5014111:5",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 3,
+		"RefreshId": 34003,
+		"ShowPrize": "5014111:5",
+		"ShowPrize1": "5014111:5",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 4,
+		"RefreshId": 34004,
+		"ShowPrize": "5014111:5",
+		"ShowPrize1": "5014111:5",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 5,
+		"LayerType": 1,
+		"RefreshId": 34005,
+		"SepPrize": "5014301:5",
+		"ShowPrize": "5014111:5",
+		"ShowPrize1": "5014111:5",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 6,
+		"RefreshId": 34006,
+		"ShowPrize": "5014111:6",
+		"ShowPrize1": "5014111:6",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 7,
+		"RefreshId": 34007,
+		"ShowPrize": "5014111:6",
+		"ShowPrize1": "5014111:6",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 8,
+		"RefreshId": 34008,
+		"ShowPrize": "5014111:6",
+		"ShowPrize1": "5014111:6",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 9,
+		"RefreshId": 34009,
+		"ShowPrize": "5014111:6",
+		"ShowPrize1": "5014111:6",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 10,
+		"LayerType": 1,
+		"RefreshId": 34010,
+		"SepPrize": "5014301:5",
+		"ShowPrize": "5014111:6",
+		"ShowPrize1": "5014111:6",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 11,
+		"RefreshId": 34011,
+		"ShowPrize": "5014111:7",
+		"ShowPrize1": "5014111:7",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 12,
+		"RefreshId": 34012,
+		"ShowPrize": "5014111:7",
+		"ShowPrize1": "5014111:7",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 13,
+		"RefreshId": 34013,
+		"ShowPrize": "5014111:7",
+		"ShowPrize1": "5014111:7",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 14,
+		"RefreshId": 34014,
+		"ShowPrize": "5014111:7",
+		"ShowPrize1": "5014111:7",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 15,
+		"LayerType": 1,
+		"RefreshId": 34015,
+		"SepPrize": "5016101:1",
+		"ShowPrize": "5014111:7",
+		"ShowPrize1": "5014111:7",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 16,
+		"NeedLv": 250,
+		"RefreshId": 34016,
+		"ShowPrize": "5014111:8",
+		"ShowPrize1": "5014111:8",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 17,
+		"RefreshId": 34017,
+		"ShowPrize": "5014111:8",
+		"ShowPrize1": "5014111:8",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 18,
+		"RefreshId": 34018,
+		"ShowPrize": "5014111:8",
+		"ShowPrize1": "5014111:8",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 19,
+		"RefreshId": 34019,
+		"ShowPrize": "5014111:8",
+		"ShowPrize1": "5014111:8",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 20,
+		"LayerType": 1,
+		"RefreshId": 34020,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:8",
+		"ShowPrize1": "5014111:8",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 21,
+		"NeedLv": 260,
+		"RefreshId": 34021,
+		"ShowPrize": "5014111:9|2403312:3",
+		"ShowPrize1": "5014111:9|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 22,
+		"RefreshId": 34022,
+		"ShowPrize": "5014111:9|2403311:3",
+		"ShowPrize1": "5014111:9|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 23,
+		"RefreshId": 34023,
+		"ShowPrize": "5014111:9|2403312:3",
+		"ShowPrize1": "5014111:9|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 24,
+		"RefreshId": 34024,
+		"ShowPrize": "5014111:9|2403311:3",
+		"ShowPrize1": "5014111:9|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 25,
+		"LayerType": 1,
+		"RefreshId": 34025,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:9|2403313:3",
+		"ShowPrize1": "5014111:9|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 26,
+		"NeedLv": 260,
+		"RefreshId": 34026,
+		"ShowPrize": "5014111:10|2403312:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 27,
+		"RefreshId": 34027,
+		"ShowPrize": "5014111:10|2403311:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 28,
+		"RefreshId": 34028,
+		"ShowPrize": "5014111:10|2403312:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 29,
+		"RefreshId": 34029,
+		"ShowPrize": "5014111:10|2403311:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 30,
+		"LayerType": 1,
+		"RefreshId": 34030,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:10|2403313:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 31,
+		"NeedLv": 270,
+		"RefreshId": 34031,
+		"ShowPrize": "5014111:10|2403312:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 32,
+		"RefreshId": 34032,
+		"ShowPrize": "5014111:10|2403311:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 33,
+		"RefreshId": 34033,
+		"ShowPrize": "5014111:10|2403312:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 34,
+		"RefreshId": 34034,
+		"ShowPrize": "5014111:10|2403311:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 35,
+		"LayerType": 1,
+		"RefreshId": 34035,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:10|2403313:3",
+		"ShowPrize1": "5014111:10|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 36,
+		"NeedLv": 270,
+		"RefreshId": 34036,
+		"ShowPrize": "5014111:11|2403312:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 37,
+		"RefreshId": 34037,
+		"ShowPrize": "5014111:11|2403311:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 38,
+		"RefreshId": 34038,
+		"ShowPrize": "5014111:11|2403312:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 39,
+		"RefreshId": 34039,
+		"ShowPrize": "5014111:11|2403311:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 40,
+		"LayerType": 1,
+		"RefreshId": 34040,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:11|2403313:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 41,
+		"NeedLv": 280,
+		"RefreshId": 34041,
+		"ShowPrize": "5014111:11|2403312:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 42,
+		"RefreshId": 34042,
+		"ShowPrize": "5014111:11|2403311:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 43,
+		"RefreshId": 34043,
+		"ShowPrize": "5014111:11|2403312:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 44,
+		"RefreshId": 34044,
+		"ShowPrize": "5014111:11|2403311:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 45,
+		"LayerType": 1,
+		"RefreshId": 34045,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:11|2403313:3",
+		"ShowPrize1": "5014111:11|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 46,
+		"NeedLv": 280,
+		"RefreshId": 34046,
+		"ShowPrize": "5014111:12|2403312:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 47,
+		"RefreshId": 34047,
+		"ShowPrize": "5014111:12|2403311:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 48,
+		"RefreshId": 34048,
+		"ShowPrize": "5014111:12|2403312:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 49,
+		"RefreshId": 34049,
+		"ShowPrize": "5014111:12|2403311:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 50,
+		"LayerType": 1,
+		"RefreshId": 34050,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:12|2403313:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 51,
+		"NeedLv": 290,
+		"RefreshId": 34051,
+		"ShowPrize": "5014111:12|2403312:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 52,
+		"RefreshId": 34052,
+		"ShowPrize": "5014111:12|2403311:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 53,
+		"RefreshId": 34053,
+		"ShowPrize": "5014111:12|2403312:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 54,
+		"RefreshId": 34054,
+		"ShowPrize": "5014111:12|2403311:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 55,
+		"LayerType": 1,
+		"RefreshId": 34055,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:12|2403313:3",
+		"ShowPrize1": "5014111:12|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 56,
+		"NeedLv": 290,
+		"RefreshId": 34056,
+		"ShowPrize": "5014111:13|2403312:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 57,
+		"RefreshId": 34057,
+		"ShowPrize": "5014111:13|2403311:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 58,
+		"RefreshId": 34058,
+		"ShowPrize": "5014111:13|2403312:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 59,
+		"RefreshId": 34059,
+		"ShowPrize": "5014111:13|2403311:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 60,
+		"LayerType": 1,
+		"RefreshId": 34060,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:13|2403313:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 61,
+		"NeedLv": 300,
+		"RefreshId": 34061,
+		"ShowPrize": "5014111:13|2403312:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 62,
+		"RefreshId": 34062,
+		"ShowPrize": "5014111:13|2403311:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 63,
+		"RefreshId": 34063,
+		"ShowPrize": "5014111:13|2403312:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 64,
+		"RefreshId": 34064,
+		"ShowPrize": "5014111:13|2403311:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 65,
+		"LayerType": 1,
+		"RefreshId": 34065,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:13|2403313:3",
+		"ShowPrize1": "5014111:13|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 66,
+		"NeedLv": 300,
+		"RefreshId": 34066,
+		"ShowPrize": "5014111:14|2403312:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 67,
+		"RefreshId": 34067,
+		"ShowPrize": "5014111:14|2403311:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 68,
+		"RefreshId": 34068,
+		"ShowPrize": "5014111:14|2403312:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 69,
+		"RefreshId": 34069,
+		"ShowPrize": "5014111:14|2403311:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 70,
+		"LayerType": 1,
+		"RefreshId": 34070,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:14|2403313:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 71,
+		"NeedLv": 310,
+		"RefreshId": 34071,
+		"ShowPrize": "5014111:14|2403312:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 72,
+		"RefreshId": 34072,
+		"ShowPrize": "5014111:14|2403311:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 73,
+		"RefreshId": 34073,
+		"ShowPrize": "5014111:14|2403312:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 74,
+		"RefreshId": 34074,
+		"ShowPrize": "5014111:14|2403311:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 75,
+		"LayerType": 1,
+		"RefreshId": 34075,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:14|2403313:3",
+		"ShowPrize1": "5014111:14|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 76,
+		"NeedLv": 310,
+		"RefreshId": 34076,
+		"ShowPrize": "5014111:15|2403312:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 77,
+		"RefreshId": 34077,
+		"ShowPrize": "5014111:15|2403311:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 78,
+		"RefreshId": 34078,
+		"ShowPrize": "5014111:15|2403312:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 79,
+		"RefreshId": 34079,
+		"ShowPrize": "5014111:15|2403311:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 80,
+		"LayerType": 1,
+		"RefreshId": 34080,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:15|2403313:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 81,
+		"NeedLv": 320,
+		"RefreshId": 34081,
+		"ShowPrize": "5014111:15|2403312:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 82,
+		"RefreshId": 34082,
+		"ShowPrize": "5014111:15|2403311:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 83,
+		"RefreshId": 34083,
+		"ShowPrize": "5014111:15|2403312:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 84,
+		"RefreshId": 34084,
+		"ShowPrize": "5014111:15|2403311:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 85,
+		"LayerType": 1,
+		"RefreshId": 34085,
+		"SepPrize": "5016201:3",
+		"ShowPrize": "5014111:15|2403313:3",
+		"ShowPrize1": "5014111:15|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 86,
+		"NeedLv": 320,
+		"RefreshId": 34086,
+		"ShowPrize": "5014111:16|2403312:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 87,
+		"RefreshId": 34087,
+		"ShowPrize": "5014111:16|2403311:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 88,
+		"RefreshId": 34088,
+		"ShowPrize": "5014111:16|2403312:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 89,
+		"RefreshId": 34089,
+		"ShowPrize": "5014111:16|2403311:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 90,
+		"LayerType": 1,
+		"RefreshId": 34090,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:16|2403313:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 91,
+		"NeedLv": 320,
+		"RefreshId": 34091,
+		"ShowPrize": "5014111:16|2403312:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 92,
+		"RefreshId": 34092,
+		"ShowPrize": "5014111:16|2403311:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 93,
+		"RefreshId": 34093,
+		"ShowPrize": "5014111:16|2403312:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 94,
+		"RefreshId": 34094,
+		"ShowPrize": "5014111:16|2403311:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 95,
+		"LayerType": 1,
+		"RefreshId": 34095,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:16|2403313:3",
+		"ShowPrize1": "5014111:16|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 96,
+		"NeedLv": 330,
+		"RefreshId": 34096,
+		"ShowPrize": "5014111:17|2403312:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 97,
+		"RefreshId": 34097,
+		"ShowPrize": "5014111:17|2403311:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 98,
+		"RefreshId": 34098,
+		"ShowPrize": "5014111:17|2403312:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 99,
+		"RefreshId": 34099,
+		"ShowPrize": "5014111:17|2403311:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 100,
+		"LayerType": 1,
+		"RefreshId": 34100,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:17|2403313:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 101,
+		"NeedLv": 330,
+		"RefreshId": 34101,
+		"ShowPrize": "5014111:17|2403312:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 102,
+		"RefreshId": 34102,
+		"ShowPrize": "5014111:17|2403311:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 103,
+		"RefreshId": 34103,
+		"ShowPrize": "5014111:17|2403312:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 104,
+		"RefreshId": 34104,
+		"ShowPrize": "5014111:17|2403311:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 105,
+		"LayerType": 1,
+		"RefreshId": 34105,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:17|2403313:3",
+		"ShowPrize1": "5014111:17|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 106,
+		"NeedLv": 330,
+		"RefreshId": 34106,
+		"ShowPrize": "5014111:18|2403312:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 107,
+		"RefreshId": 34107,
+		"ShowPrize": "5014111:18|2403311:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 108,
+		"RefreshId": 34108,
+		"ShowPrize": "5014111:18|2403312:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 109,
+		"RefreshId": 34109,
+		"ShowPrize": "5014111:18|2403311:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 110,
+		"LayerType": 1,
+		"RefreshId": 34110,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:18|2403313:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 111,
+		"NeedLv": 340,
+		"RefreshId": 34111,
+		"ShowPrize": "5014111:18|2403312:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 112,
+		"RefreshId": 34112,
+		"ShowPrize": "5014111:18|2403311:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 113,
+		"RefreshId": 34113,
+		"ShowPrize": "5014111:18|2403312:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 114,
+		"RefreshId": 34114,
+		"ShowPrize": "5014111:18|2403311:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 115,
+		"LayerType": 1,
+		"RefreshId": 34115,
+		"SepPrize": "5014302:5",
+		"ShowPrize": "5014111:18|2403313:3",
+		"ShowPrize1": "5014111:18|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 116,
+		"NeedLv": 340,
+		"RefreshId": 34116,
+		"ShowPrize": "5014111:19|2403312:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 117,
+		"RefreshId": 34117,
+		"ShowPrize": "5014111:19|2403311:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 118,
+		"RefreshId": 34118,
+		"ShowPrize": "5014111:19|2403312:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 119,
+		"RefreshId": 34119,
+		"ShowPrize": "5014111:19|2403311:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 120,
+		"LayerType": 1,
+		"RefreshId": 34120,
+		"SepPrize": "5016109:1",
+		"ShowPrize": "5014111:19|2403313:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 121,
+		"NeedLv": 350,
+		"RefreshId": 34121,
+		"ShowPrize": "5014111:19|2403312:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 122,
+		"RefreshId": 34122,
+		"ShowPrize": "5014111:19|2403311:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 123,
+		"RefreshId": 34123,
+		"ShowPrize": "5014111:19|2403312:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 124,
+		"RefreshId": 34124,
+		"ShowPrize": "5014111:19|2403311:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 125,
+		"LayerType": 1,
+		"RefreshId": 34125,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:19|2403313:3",
+		"ShowPrize1": "5014111:19|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 126,
+		"NeedLv": 350,
+		"RefreshId": 34126,
+		"ShowPrize": "5014111:20|2403312:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 127,
+		"RefreshId": 34127,
+		"ShowPrize": "5014111:20|2403311:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 128,
+		"RefreshId": 34128,
+		"ShowPrize": "5014111:20|2403312:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 129,
+		"RefreshId": 34129,
+		"ShowPrize": "5014111:20|2403311:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 130,
+		"LayerType": 1,
+		"RefreshId": 34130,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:20|2403313:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 131,
+		"NeedLv": 360,
+		"RefreshId": 34131,
+		"ShowPrize": "5014111:20|2403312:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 132,
+		"RefreshId": 34132,
+		"ShowPrize": "5014111:20|2403311:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 133,
+		"RefreshId": 34133,
+		"ShowPrize": "5014111:20|2403312:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 134,
+		"RefreshId": 34134,
+		"ShowPrize": "5014111:20|2403311:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 135,
+		"LayerType": 1,
+		"RefreshId": 34135,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:20|2403313:3",
+		"ShowPrize1": "5014111:20|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 136,
+		"NeedLv": 360,
+		"RefreshId": 34136,
+		"ShowPrize": "5014111:21|2403312:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 137,
+		"RefreshId": 34137,
+		"ShowPrize": "5014111:21|2403311:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 138,
+		"RefreshId": 34138,
+		"ShowPrize": "5014111:21|2403312:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 139,
+		"RefreshId": 34139,
+		"ShowPrize": "5014111:21|2403311:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 140,
+		"LayerType": 1,
+		"RefreshId": 34140,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:21|2403313:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 141,
+		"NeedLv": 370,
+		"RefreshId": 34141,
+		"ShowPrize": "5014111:21|2403312:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 142,
+		"RefreshId": 34142,
+		"ShowPrize": "5014111:21|2403311:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 143,
+		"RefreshId": 34143,
+		"ShowPrize": "5014111:21|2403312:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 144,
+		"RefreshId": 34144,
+		"ShowPrize": "5014111:21|2403311:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 145,
+		"LayerType": 1,
+		"RefreshId": 34145,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:21|2403313:3",
+		"ShowPrize1": "5014111:21|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 146,
+		"NeedLv": 370,
+		"RefreshId": 34146,
+		"ShowPrize": "5014111:22|2403312:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 147,
+		"RefreshId": 34147,
+		"ShowPrize": "5014111:22|2403311:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 148,
+		"RefreshId": 34148,
+		"ShowPrize": "5014111:22|2403312:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 149,
+		"RefreshId": 34149,
+		"ShowPrize": "5014111:22|2403311:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 150,
+		"LayerType": 1,
+		"RefreshId": 34150,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:22|2403313:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 151,
+		"NeedLv": 380,
+		"RefreshId": 34151,
+		"ShowPrize": "5014111:22|2403312:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 152,
+		"RefreshId": 34152,
+		"ShowPrize": "5014111:22|2403311:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 153,
+		"RefreshId": 34153,
+		"ShowPrize": "5014111:22|2403312:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 154,
+		"RefreshId": 34154,
+		"ShowPrize": "5014111:22|2403311:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 155,
+		"LayerType": 1,
+		"RefreshId": 34155,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:22|2403313:3",
+		"ShowPrize1": "5014111:22|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 156,
+		"NeedLv": 380,
+		"RefreshId": 34156,
+		"ShowPrize": "5014111:23|2403312:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 157,
+		"RefreshId": 34157,
+		"ShowPrize": "5014111:23|2403311:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 158,
+		"RefreshId": 34158,
+		"ShowPrize": "5014111:23|2403312:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 159,
+		"RefreshId": 34159,
+		"ShowPrize": "5014111:23|2403311:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 160,
+		"LayerType": 1,
+		"RefreshId": 34160,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:23|2403313:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 161,
+		"NeedLv": 390,
+		"RefreshId": 34161,
+		"ShowPrize": "5014111:23|2403312:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 162,
+		"RefreshId": 34162,
+		"ShowPrize": "5014111:23|2403311:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 163,
+		"RefreshId": 34163,
+		"ShowPrize": "5014111:23|2403312:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 164,
+		"RefreshId": 34164,
+		"ShowPrize": "5014111:23|2403311:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 165,
+		"LayerType": 1,
+		"RefreshId": 34165,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:23|2403313:3",
+		"ShowPrize1": "5014111:23|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 166,
+		"NeedLv": 390,
+		"RefreshId": 34166,
+		"ShowPrize": "5014111:24|2403312:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 167,
+		"RefreshId": 34167,
+		"ShowPrize": "5014111:24|2403311:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 168,
+		"RefreshId": 34168,
+		"ShowPrize": "5014111:24|2403312:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 169,
+		"RefreshId": 34169,
+		"ShowPrize": "5014111:24|2403311:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 170,
+		"LayerType": 1,
+		"RefreshId": 34170,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:24|2403313:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 171,
+		"NeedLv": 400,
+		"RefreshId": 34171,
+		"ShowPrize": "5014111:24|2403312:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 172,
+		"RefreshId": 34172,
+		"ShowPrize": "5014111:24|2403311:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 173,
+		"RefreshId": 34173,
+		"ShowPrize": "5014111:24|2403312:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 174,
+		"RefreshId": 34174,
+		"ShowPrize": "5014111:24|2403311:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 175,
+		"LayerType": 1,
+		"RefreshId": 34175,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:24|2403313:3",
+		"ShowPrize1": "5014111:24|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 176,
+		"NeedLv": 400,
+		"RefreshId": 34176,
+		"ShowPrize": "5014111:25|2403312:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 177,
+		"RefreshId": 34177,
+		"ShowPrize": "5014111:25|2403311:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 178,
+		"RefreshId": 34178,
+		"ShowPrize": "5014111:25|2403312:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 179,
+		"RefreshId": 34179,
+		"ShowPrize": "5014111:25|2403311:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 180,
+		"LayerType": 1,
+		"RefreshId": 34180,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:25|2403313:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 181,
+		"NeedLv": 410,
+		"RefreshId": 34181,
+		"ShowPrize": "5014111:25|2403312:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 182,
+		"RefreshId": 34182,
+		"ShowPrize": "5014111:25|2403311:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 183,
+		"RefreshId": 34183,
+		"ShowPrize": "5014111:25|2403312:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 184,
+		"RefreshId": 34184,
+		"ShowPrize": "5014111:25|2403311:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 185,
+		"LayerType": 1,
+		"RefreshId": 34185,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:25|2403313:3",
+		"ShowPrize1": "5014111:25|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 186,
+		"NeedLv": 410,
+		"RefreshId": 34186,
+		"ShowPrize": "5014111:26|2403312:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 187,
+		"RefreshId": 34187,
+		"ShowPrize": "5014111:26|2403311:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 188,
+		"RefreshId": 34188,
+		"ShowPrize": "5014111:26|2403312:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 189,
+		"RefreshId": 34189,
+		"ShowPrize": "5014111:26|2403311:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 190,
+		"LayerType": 1,
+		"RefreshId": 34190,
+		"SepPrize": "5016209:3",
+		"ShowPrize": "5014111:26|2403313:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 191,
+		"NeedLv": 420,
+		"RefreshId": 34191,
+		"ShowPrize": "5014111:26|2403312:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 192,
+		"RefreshId": 34192,
+		"ShowPrize": "5014111:26|2403311:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 193,
+		"RefreshId": 34193,
+		"ShowPrize": "5014111:26|2403312:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 194,
+		"RefreshId": 34194,
+		"ShowPrize": "5014111:26|2403311:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 195,
+		"LayerType": 1,
+		"RefreshId": 34195,
+		"SepPrize": "5016102:1",
+		"ShowPrize": "5014111:26|2403313:3",
+		"ShowPrize1": "5014111:26|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 196,
+		"NeedLv": 420,
+		"RefreshId": 34196,
+		"ShowPrize": "5014111:27|2403312:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 197,
+		"RefreshId": 34197,
+		"ShowPrize": "5014111:27|2403311:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 198,
+		"RefreshId": 34198,
+		"ShowPrize": "5014111:27|2403312:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 199,
+		"RefreshId": 34199,
+		"ShowPrize": "5014111:27|2403311:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 200,
+		"LayerType": 1,
+		"RefreshId": 34200,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:27|2403313:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 201,
+		"NeedLv": 430,
+		"RefreshId": 34201,
+		"ShowPrize": "5014111:27|2403312:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 202,
+		"RefreshId": 34202,
+		"ShowPrize": "5014111:27|2403311:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 203,
+		"RefreshId": 34203,
+		"ShowPrize": "5014111:27|2403312:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 204,
+		"RefreshId": 34204,
+		"ShowPrize": "5014111:27|2403311:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 205,
+		"LayerType": 1,
+		"RefreshId": 34205,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:27|2403313:3",
+		"ShowPrize1": "5014111:27|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 206,
+		"NeedLv": 430,
+		"RefreshId": 34206,
+		"ShowPrize": "5014111:28|2403312:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 207,
+		"RefreshId": 34207,
+		"ShowPrize": "5014111:28|2403311:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 208,
+		"RefreshId": 34208,
+		"ShowPrize": "5014111:28|2403312:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 209,
+		"RefreshId": 34209,
+		"ShowPrize": "5014111:28|2403311:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 210,
+		"LayerType": 1,
+		"RefreshId": 34210,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:28|2403313:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 211,
+		"NeedLv": 435,
+		"RefreshId": 34211,
+		"ShowPrize": "5014111:28|2403312:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 212,
+		"RefreshId": 34212,
+		"ShowPrize": "5014111:28|2403311:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 213,
+		"RefreshId": 34213,
+		"ShowPrize": "5014111:28|2403312:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 214,
+		"RefreshId": 34214,
+		"ShowPrize": "5014111:28|2403311:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 215,
+		"LayerType": 1,
+		"RefreshId": 34215,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:28|2403313:3",
+		"ShowPrize1": "5014111:28|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 216,
+		"NeedLv": 435,
+		"RefreshId": 34216,
+		"ShowPrize": "5014111:29|2403312:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 217,
+		"RefreshId": 34217,
+		"ShowPrize": "5014111:29|2403311:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 218,
+		"RefreshId": 34218,
+		"ShowPrize": "5014111:29|2403312:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 219,
+		"RefreshId": 34219,
+		"ShowPrize": "5014111:29|2403311:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 220,
+		"LayerType": 1,
+		"RefreshId": 34220,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:29|2403313:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 221,
+		"NeedLv": 440,
+		"RefreshId": 34221,
+		"ShowPrize": "5014111:29|2403312:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 222,
+		"RefreshId": 34222,
+		"ShowPrize": "5014111:29|2403311:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 223,
+		"RefreshId": 34223,
+		"ShowPrize": "5014111:29|2403312:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 224,
+		"RefreshId": 34224,
+		"ShowPrize": "5014111:29|2403311:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 225,
+		"LayerType": 1,
+		"RefreshId": 34225,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:29|2403313:3",
+		"ShowPrize1": "5014111:29|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 226,
+		"NeedLv": 440,
+		"RefreshId": 34226,
+		"ShowPrize": "5014111:30|2403312:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 227,
+		"RefreshId": 34227,
+		"ShowPrize": "5014111:30|2403311:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 228,
+		"RefreshId": 34228,
+		"ShowPrize": "5014111:30|2403312:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 229,
+		"RefreshId": 34229,
+		"ShowPrize": "5014111:30|2403311:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 230,
+		"LayerType": 1,
+		"RefreshId": 34230,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:30|2403313:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 231,
+		"NeedLv": 445,
+		"RefreshId": 34231,
+		"ShowPrize": "5014111:30|2403312:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 232,
+		"RefreshId": 34232,
+		"ShowPrize": "5014111:30|2403311:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 233,
+		"RefreshId": 34233,
+		"ShowPrize": "5014111:30|2403312:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 234,
+		"RefreshId": 34234,
+		"ShowPrize": "5014111:30|2403311:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 235,
+		"LayerType": 1,
+		"RefreshId": 34235,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:30|2403313:3",
+		"ShowPrize1": "5014111:30|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 236,
+		"NeedLv": 445,
+		"RefreshId": 34236,
+		"ShowPrize": "5014111:31|2403312:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 237,
+		"RefreshId": 34237,
+		"ShowPrize": "5014111:31|2403311:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 238,
+		"RefreshId": 34238,
+		"ShowPrize": "5014111:31|2403312:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 239,
+		"RefreshId": 34239,
+		"ShowPrize": "5014111:31|2403311:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 240,
+		"LayerType": 1,
+		"RefreshId": 34240,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:31|2403313:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 241,
+		"NeedLv": 450,
+		"RefreshId": 34241,
+		"ShowPrize": "5014111:31|2403312:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 242,
+		"RefreshId": 34242,
+		"ShowPrize": "5014111:31|2403311:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 243,
+		"RefreshId": 34243,
+		"ShowPrize": "5014111:31|2403312:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 244,
+		"RefreshId": 34244,
+		"ShowPrize": "5014111:31|2403311:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 245,
+		"LayerType": 1,
+		"RefreshId": 34245,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:31|2403313:3",
+		"ShowPrize1": "5014111:31|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 246,
+		"NeedLv": 450,
+		"RefreshId": 34246,
+		"ShowPrize": "5014111:32|2403312:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 247,
+		"RefreshId": 34247,
+		"ShowPrize": "5014111:32|2403311:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 248,
+		"RefreshId": 34248,
+		"ShowPrize": "5014111:32|2403312:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 249,
+		"RefreshId": 34249,
+		"ShowPrize": "5014111:32|2403311:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 250,
+		"LayerType": 1,
+		"RefreshId": 34250,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:32|2403313:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 251,
+		"NeedLv": 455,
+		"RefreshId": 34251,
+		"ShowPrize": "5014111:32|2403312:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 252,
+		"RefreshId": 34252,
+		"ShowPrize": "5014111:32|2403311:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 253,
+		"RefreshId": 34253,
+		"ShowPrize": "5014111:32|2403312:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 254,
+		"RefreshId": 34254,
+		"ShowPrize": "5014111:32|2403311:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 255,
+		"LayerType": 1,
+		"RefreshId": 34255,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:32|2403313:3",
+		"ShowPrize1": "5014111:32|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 256,
+		"NeedLv": 455,
+		"RefreshId": 34256,
+		"ShowPrize": "5014111:33|2403312:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 257,
+		"RefreshId": 34257,
+		"ShowPrize": "5014111:33|2403311:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 258,
+		"RefreshId": 34258,
+		"ShowPrize": "5014111:33|2403312:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 259,
+		"RefreshId": 34259,
+		"ShowPrize": "5014111:33|2403311:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 260,
+		"LayerType": 1,
+		"RefreshId": 34260,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:33|2403313:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 261,
+		"NeedLv": 460,
+		"RefreshId": 34261,
+		"ShowPrize": "5014111:33|2403312:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 262,
+		"RefreshId": 34262,
+		"ShowPrize": "5014111:33|2403311:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 263,
+		"RefreshId": 34263,
+		"ShowPrize": "5014111:33|2403312:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 264,
+		"RefreshId": 34264,
+		"ShowPrize": "5014111:33|2403311:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 265,
+		"LayerType": 1,
+		"RefreshId": 34265,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:33|2403313:3",
+		"ShowPrize1": "5014111:33|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 266,
+		"NeedLv": 460,
+		"RefreshId": 34266,
+		"ShowPrize": "5014111:34|2403312:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 267,
+		"RefreshId": 34267,
+		"ShowPrize": "5014111:34|2403311:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 268,
+		"RefreshId": 34268,
+		"ShowPrize": "5014111:34|2403312:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 269,
+		"RefreshId": 34269,
+		"ShowPrize": "5014111:34|2403311:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 270,
+		"LayerType": 1,
+		"RefreshId": 34270,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:34|2403313:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 271,
+		"NeedLv": 465,
+		"RefreshId": 34271,
+		"ShowPrize": "5014111:34|2403312:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 272,
+		"RefreshId": 34272,
+		"ShowPrize": "5014111:34|2403311:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 273,
+		"RefreshId": 34273,
+		"ShowPrize": "5014111:34|2403312:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 274,
+		"RefreshId": 34274,
+		"ShowPrize": "5014111:34|2403311:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 275,
+		"LayerType": 1,
+		"RefreshId": 34275,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:34|2403313:3",
+		"ShowPrize1": "5014111:34|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 276,
+		"NeedLv": 465,
+		"RefreshId": 34276,
+		"ShowPrize": "5014111:35|2403312:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 277,
+		"RefreshId": 34277,
+		"ShowPrize": "5014111:35|2403311:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 278,
+		"RefreshId": 34278,
+		"ShowPrize": "5014111:35|2403312:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 279,
+		"RefreshId": 34279,
+		"ShowPrize": "5014111:35|2403311:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 280,
+		"LayerType": 1,
+		"RefreshId": 34280,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:35|2403313:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 281,
+		"NeedLv": 470,
+		"RefreshId": 34281,
+		"ShowPrize": "5014111:35|2403312:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 282,
+		"RefreshId": 34282,
+		"ShowPrize": "5014111:35|2403311:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 283,
+		"RefreshId": 34283,
+		"ShowPrize": "5014111:35|2403312:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 284,
+		"RefreshId": 34284,
+		"ShowPrize": "5014111:35|2403311:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 285,
+		"LayerType": 1,
+		"RefreshId": 34285,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:35|2403313:3",
+		"ShowPrize1": "5014111:35|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 286,
+		"NeedLv": 470,
+		"RefreshId": 34286,
+		"ShowPrize": "5014111:36|2403312:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 287,
+		"RefreshId": 34287,
+		"ShowPrize": "5014111:36|2403311:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 288,
+		"RefreshId": 34288,
+		"ShowPrize": "5014111:36|2403312:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 289,
+		"RefreshId": 34289,
+		"ShowPrize": "5014111:36|2403311:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 290,
+		"LayerType": 1,
+		"RefreshId": 34290,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:36|2403313:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 291,
+		"NeedLv": 475,
+		"RefreshId": 34291,
+		"ShowPrize": "5014111:36|2403312:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 292,
+		"RefreshId": 34292,
+		"ShowPrize": "5014111:36|2403311:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 293,
+		"RefreshId": 34293,
+		"ShowPrize": "5014111:36|2403312:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 294,
+		"RefreshId": 34294,
+		"ShowPrize": "5014111:36|2403311:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 295,
+		"LayerType": 1,
+		"RefreshId": 34295,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:36|2403313:3",
+		"ShowPrize1": "5014111:36|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 296,
+		"NeedLv": 475,
+		"RefreshId": 34296,
+		"ShowPrize": "5014111:37|2403312:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 297,
+		"RefreshId": 34297,
+		"ShowPrize": "5014111:37|2403311:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 298,
+		"RefreshId": 34298,
+		"ShowPrize": "5014111:37|2403312:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 299,
+		"RefreshId": 34299,
+		"ShowPrize": "5014111:37|2403311:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 300,
+		"LayerType": 1,
+		"RefreshId": 34300,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:37|2403313:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 301,
+		"NeedLv": 480,
+		"RefreshId": 34301,
+		"ShowPrize": "5014111:37|2403312:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 302,
+		"RefreshId": 34302,
+		"ShowPrize": "5014111:37|2403311:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 303,
+		"RefreshId": 34303,
+		"ShowPrize": "5014111:37|2403312:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 304,
+		"RefreshId": 34304,
+		"ShowPrize": "5014111:37|2403311:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 305,
+		"LayerType": 1,
+		"RefreshId": 34305,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:37|2403313:3",
+		"ShowPrize1": "5014111:37|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 306,
+		"NeedLv": 480,
+		"RefreshId": 34306,
+		"ShowPrize": "5014111:38|2403312:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 307,
+		"RefreshId": 34307,
+		"ShowPrize": "5014111:38|2403311:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 308,
+		"RefreshId": 34308,
+		"ShowPrize": "5014111:38|2403312:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 309,
+		"RefreshId": 34309,
+		"ShowPrize": "5014111:38|2403311:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 310,
+		"LayerType": 1,
+		"RefreshId": 34310,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:38|2403313:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 311,
+		"NeedLv": 485,
+		"RefreshId": 34311,
+		"ShowPrize": "5014111:38|2403312:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 312,
+		"RefreshId": 34312,
+		"ShowPrize": "5014111:38|2403311:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 313,
+		"RefreshId": 34313,
+		"ShowPrize": "5014111:38|2403312:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 314,
+		"RefreshId": 34314,
+		"ShowPrize": "5014111:38|2403311:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 315,
+		"LayerType": 1,
+		"RefreshId": 34315,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:38|2403313:3",
+		"ShowPrize1": "5014111:38|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 316,
+		"NeedLv": 485,
+		"RefreshId": 34316,
+		"ShowPrize": "5014111:39|2403312:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 317,
+		"RefreshId": 34317,
+		"ShowPrize": "5014111:39|2403311:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 318,
+		"RefreshId": 34318,
+		"ShowPrize": "5014111:39|2403312:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 319,
+		"RefreshId": 34319,
+		"ShowPrize": "5014111:39|2403311:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 320,
+		"LayerType": 1,
+		"RefreshId": 34320,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:39|2403313:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 321,
+		"NeedLv": 490,
+		"RefreshId": 34321,
+		"ShowPrize": "5014111:39|2403312:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 322,
+		"RefreshId": 34322,
+		"ShowPrize": "5014111:39|2403311:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 323,
+		"RefreshId": 34323,
+		"ShowPrize": "5014111:39|2403312:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 324,
+		"RefreshId": 34324,
+		"ShowPrize": "5014111:39|2403311:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 325,
+		"LayerType": 1,
+		"RefreshId": 34325,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:39|2403313:3",
+		"ShowPrize1": "5014111:39|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 326,
+		"NeedLv": 490,
+		"RefreshId": 34326,
+		"ShowPrize": "5014111:40|2403312:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 327,
+		"RefreshId": 34327,
+		"ShowPrize": "5014111:40|2403311:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 328,
+		"RefreshId": 34328,
+		"ShowPrize": "5014111:40|2403312:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 329,
+		"RefreshId": 34329,
+		"ShowPrize": "5014111:40|2403311:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 330,
+		"LayerType": 1,
+		"RefreshId": 34330,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:40|2403313:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 331,
+		"NeedLv": 495,
+		"RefreshId": 34331,
+		"ShowPrize": "5014111:40|2403312:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 332,
+		"RefreshId": 34332,
+		"ShowPrize": "5014111:40|2403311:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 333,
+		"RefreshId": 34333,
+		"ShowPrize": "5014111:40|2403312:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 334,
+		"RefreshId": 34334,
+		"ShowPrize": "5014111:40|2403311:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 335,
+		"LayerType": 1,
+		"RefreshId": 34335,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:40|2403313:3",
+		"ShowPrize1": "5014111:40|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 336,
+		"NeedLv": 495,
+		"RefreshId": 34336,
+		"ShowPrize": "5014111:41|2403312:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 337,
+		"RefreshId": 34337,
+		"ShowPrize": "5014111:41|2403311:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 338,
+		"RefreshId": 34338,
+		"ShowPrize": "5014111:41|2403312:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 339,
+		"RefreshId": 34339,
+		"ShowPrize": "5014111:41|2403311:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 340,
+		"LayerType": 1,
+		"RefreshId": 34340,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:41|2403313:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 341,
+		"NeedLv": 500,
+		"RefreshId": 34341,
+		"ShowPrize": "5014111:41|2403312:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 342,
+		"RefreshId": 34342,
+		"ShowPrize": "5014111:41|2403311:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 343,
+		"RefreshId": 34343,
+		"ShowPrize": "5014111:41|2403312:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 344,
+		"RefreshId": 34344,
+		"ShowPrize": "5014111:41|2403311:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 345,
+		"LayerType": 1,
+		"RefreshId": 34345,
+		"SepPrize": "5016202:2",
+		"ShowPrize": "5014111:41|2403313:3",
+		"ShowPrize1": "5014111:41|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 346,
+		"NeedLv": 500,
+		"RefreshId": 34346,
+		"ShowPrize": "5014111:42|2403312:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 347,
+		"RefreshId": 34347,
+		"ShowPrize": "5014111:42|2403311:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 348,
+		"RefreshId": 34348,
+		"ShowPrize": "5014111:42|2403312:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 349,
+		"RefreshId": 34349,
+		"ShowPrize": "5014111:42|2403311:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 350,
+		"LayerType": 1,
+		"RefreshId": 34350,
+		"SepPrize": "5016110:1",
+		"ShowPrize": "5014111:42|2403313:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 351,
+		"NeedLv": 505,
+		"RefreshId": 34351,
+		"ShowPrize": "5014111:42|2403312:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 352,
+		"RefreshId": 34352,
+		"ShowPrize": "5014111:42|2403311:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 353,
+		"RefreshId": 34353,
+		"ShowPrize": "5014111:42|2403312:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 354,
+		"RefreshId": 34354,
+		"ShowPrize": "5014111:42|2403311:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 355,
+		"LayerType": 1,
+		"RefreshId": 34355,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:42|2403313:3",
+		"ShowPrize1": "5014111:42|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 356,
+		"NeedLv": 505,
+		"RefreshId": 34356,
+		"ShowPrize": "5014111:43|2403312:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 357,
+		"RefreshId": 34357,
+		"ShowPrize": "5014111:43|2403311:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 358,
+		"RefreshId": 34358,
+		"ShowPrize": "5014111:43|2403312:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 359,
+		"RefreshId": 34359,
+		"ShowPrize": "5014111:43|2403311:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 360,
+		"LayerType": 1,
+		"RefreshId": 34360,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:43|2403313:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 361,
+		"NeedLv": 510,
+		"RefreshId": 34361,
+		"ShowPrize": "5014111:43|2403312:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 362,
+		"RefreshId": 34362,
+		"ShowPrize": "5014111:43|2403311:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 363,
+		"RefreshId": 34363,
+		"ShowPrize": "5014111:43|2403312:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 364,
+		"RefreshId": 34364,
+		"ShowPrize": "5014111:43|2403311:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 365,
+		"LayerType": 1,
+		"RefreshId": 34365,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:43|2403313:3",
+		"ShowPrize1": "5014111:43|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 366,
+		"NeedLv": 510,
+		"RefreshId": 34366,
+		"ShowPrize": "5014111:44|2403312:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 367,
+		"RefreshId": 34367,
+		"ShowPrize": "5014111:44|2403311:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 368,
+		"RefreshId": 34368,
+		"ShowPrize": "5014111:44|2403312:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 369,
+		"RefreshId": 34369,
+		"ShowPrize": "5014111:44|2403311:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 370,
+		"LayerType": 1,
+		"RefreshId": 34370,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:44|2403313:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 371,
+		"NeedLv": 515,
+		"RefreshId": 34371,
+		"ShowPrize": "5014111:44|2403312:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 372,
+		"RefreshId": 34372,
+		"ShowPrize": "5014111:44|2403311:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 373,
+		"RefreshId": 34373,
+		"ShowPrize": "5014111:44|2403312:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 374,
+		"RefreshId": 34374,
+		"ShowPrize": "5014111:44|2403311:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 375,
+		"LayerType": 1,
+		"RefreshId": 34375,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:44|2403313:3",
+		"ShowPrize1": "5014111:44|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 376,
+		"NeedLv": 515,
+		"RefreshId": 34376,
+		"ShowPrize": "5014111:45|2403312:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 377,
+		"RefreshId": 34377,
+		"ShowPrize": "5014111:45|2403311:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 378,
+		"RefreshId": 34378,
+		"ShowPrize": "5014111:45|2403312:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 379,
+		"RefreshId": 34379,
+		"ShowPrize": "5014111:45|2403311:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 380,
+		"LayerType": 1,
+		"RefreshId": 34380,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:45|2403313:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 381,
+		"NeedLv": 520,
+		"RefreshId": 34381,
+		"ShowPrize": "5014111:45|2403312:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 382,
+		"RefreshId": 34382,
+		"ShowPrize": "5014111:45|2403311:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 383,
+		"RefreshId": 34383,
+		"ShowPrize": "5014111:45|2403312:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 384,
+		"RefreshId": 34384,
+		"ShowPrize": "5014111:45|2403311:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 385,
+		"LayerType": 1,
+		"RefreshId": 34385,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:45|2403313:3",
+		"ShowPrize1": "5014111:45|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 386,
+		"NeedLv": 520,
+		"RefreshId": 34386,
+		"ShowPrize": "5014111:46|2403312:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 387,
+		"RefreshId": 34387,
+		"ShowPrize": "5014111:46|2403311:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 388,
+		"RefreshId": 34388,
+		"ShowPrize": "5014111:46|2403312:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 389,
+		"RefreshId": 34389,
+		"ShowPrize": "5014111:46|2403311:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 390,
+		"LayerType": 1,
+		"RefreshId": 34390,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:46|2403313:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 391,
+		"NeedLv": 525,
+		"RefreshId": 34391,
+		"ShowPrize": "5014111:46|2403312:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 392,
+		"RefreshId": 34392,
+		"ShowPrize": "5014111:46|2403311:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 393,
+		"RefreshId": 34393,
+		"ShowPrize": "5014111:46|2403312:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 394,
+		"RefreshId": 34394,
+		"ShowPrize": "5014111:46|2403311:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 395,
+		"LayerType": 1,
+		"RefreshId": 34395,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:46|2403313:3",
+		"ShowPrize1": "5014111:46|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 396,
+		"NeedLv": 525,
+		"RefreshId": 34396,
+		"ShowPrize": "5014111:47|2403312:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 397,
+		"RefreshId": 34397,
+		"ShowPrize": "5014111:47|2403311:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 398,
+		"RefreshId": 34398,
+		"ShowPrize": "5014111:47|2403312:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 399,
+		"RefreshId": 34399,
+		"ShowPrize": "5014111:47|2403311:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 400,
+		"LayerType": 1,
+		"RefreshId": 34400,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:47|2403313:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 401,
+		"NeedLv": 530,
+		"RefreshId": 34401,
+		"ShowPrize": "5014111:47|2403312:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 402,
+		"RefreshId": 34402,
+		"ShowPrize": "5014111:47|2403311:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 403,
+		"RefreshId": 34403,
+		"ShowPrize": "5014111:47|2403312:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 404,
+		"RefreshId": 34404,
+		"ShowPrize": "5014111:47|2403311:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 405,
+		"LayerType": 1,
+		"RefreshId": 34405,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:47|2403313:3",
+		"ShowPrize1": "5014111:47|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 406,
+		"NeedLv": 530,
+		"RefreshId": 34406,
+		"ShowPrize": "5014111:48|2403312:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 407,
+		"RefreshId": 34407,
+		"ShowPrize": "5014111:48|2403311:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 408,
+		"RefreshId": 34408,
+		"ShowPrize": "5014111:48|2403312:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 409,
+		"RefreshId": 34409,
+		"ShowPrize": "5014111:48|2403311:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 410,
+		"LayerType": 1,
+		"RefreshId": 34410,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:48|2403313:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 411,
+		"NeedLv": 535,
+		"RefreshId": 34411,
+		"ShowPrize": "5014111:48|2403312:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 412,
+		"RefreshId": 34412,
+		"ShowPrize": "5014111:48|2403311:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 413,
+		"RefreshId": 34413,
+		"ShowPrize": "5014111:48|2403312:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 414,
+		"RefreshId": 34414,
+		"ShowPrize": "5014111:48|2403311:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 415,
+		"LayerType": 1,
+		"RefreshId": 34415,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:48|2403313:3",
+		"ShowPrize1": "5014111:48|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 416,
+		"NeedLv": 535,
+		"RefreshId": 34416,
+		"ShowPrize": "5014111:49|2403312:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 417,
+		"RefreshId": 34417,
+		"ShowPrize": "5014111:49|2403311:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 418,
+		"RefreshId": 34418,
+		"ShowPrize": "5014111:49|2403312:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 419,
+		"RefreshId": 34419,
+		"ShowPrize": "5014111:49|2403311:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 420,
+		"LayerType": 1,
+		"RefreshId": 34420,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:49|2403313:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 421,
+		"NeedLv": 540,
+		"RefreshId": 34421,
+		"ShowPrize": "5014111:49|2403312:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 422,
+		"RefreshId": 34422,
+		"ShowPrize": "5014111:49|2403311:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 423,
+		"RefreshId": 34423,
+		"ShowPrize": "5014111:49|2403312:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 424,
+		"RefreshId": 34424,
+		"ShowPrize": "5014111:49|2403311:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 425,
+		"LayerType": 1,
+		"RefreshId": 34425,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:49|2403313:3",
+		"ShowPrize1": "5014111:49|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 426,
+		"NeedLv": 540,
+		"RefreshId": 34426,
+		"ShowPrize": "5014111:50|2403312:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 427,
+		"RefreshId": 34427,
+		"ShowPrize": "5014111:50|2403311:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 428,
+		"RefreshId": 34428,
+		"ShowPrize": "5014111:50|2403312:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 429,
+		"RefreshId": 34429,
+		"ShowPrize": "5014111:50|2403311:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 430,
+		"LayerType": 1,
+		"RefreshId": 34430,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:50|2403313:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 431,
+		"NeedLv": 545,
+		"RefreshId": 34431,
+		"ShowPrize": "5014111:50|2403312:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 432,
+		"RefreshId": 34432,
+		"ShowPrize": "5014111:50|2403311:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 433,
+		"RefreshId": 34433,
+		"ShowPrize": "5014111:50|2403312:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 434,
+		"RefreshId": 34434,
+		"ShowPrize": "5014111:50|2403311:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 435,
+		"LayerType": 1,
+		"RefreshId": 34435,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:50|2403313:3",
+		"ShowPrize1": "5014111:50|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 436,
+		"NeedLv": 545,
+		"RefreshId": 34436,
+		"ShowPrize": "5014111:51|2403312:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 437,
+		"RefreshId": 34437,
+		"ShowPrize": "5014111:51|2403311:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 177,
+		"Id": 438,
+		"RefreshId": 34438,
+		"ShowPrize": "5014111:51|2403312:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 180,
+		"Id": 439,
+		"RefreshId": 34439,
+		"ShowPrize": "5014111:51|2403311:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 189,
+		"Id": 440,
+		"LayerType": 1,
+		"RefreshId": 34440,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:51|2403313:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 201,
+		"Id": 441,
+		"NeedLv": 550,
+		"RefreshId": 34441,
+		"ShowPrize": "5014111:51|2403312:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 442,
+		"RefreshId": 34442,
+		"ShowPrize": "5014111:51|2403311:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 443,
+		"RefreshId": 34443,
+		"ShowPrize": "5014111:51|2403312:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 444,
+		"RefreshId": 34444,
+		"ShowPrize": "5014111:51|2403311:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 12,
+		"Id": 445,
+		"LayerType": 1,
+		"RefreshId": 34445,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:51|2403313:3",
+		"ShowPrize1": "5014111:51|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 446,
+		"NeedLv": 550,
+		"RefreshId": 34446,
+		"ShowPrize": "5014111:52|2403312:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 18,
+		"Id": 447,
+		"RefreshId": 34447,
+		"ShowPrize": "5014111:52|2403311:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 24,
+		"Id": 448,
+		"RefreshId": 34448,
+		"ShowPrize": "5014111:52|2403312:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 27,
+		"Id": 449,
+		"RefreshId": 34449,
+		"ShowPrize": "5014111:52|2403311:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 30,
+		"Id": 450,
+		"LayerType": 1,
+		"RefreshId": 34450,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:52|2403313:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 33,
+		"Id": 451,
+		"NeedLv": 555,
+		"RefreshId": 34451,
+		"ShowPrize": "5014111:52|2403312:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 36,
+		"Id": 452,
+		"RefreshId": 34452,
+		"ShowPrize": "5014111:52|2403311:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 39,
+		"Id": 453,
+		"RefreshId": 34453,
+		"ShowPrize": "5014111:52|2403312:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 42,
+		"Id": 454,
+		"RefreshId": 34454,
+		"ShowPrize": "5014111:52|2403311:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 48,
+		"Id": 455,
+		"LayerType": 1,
+		"RefreshId": 34455,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:52|2403313:3",
+		"ShowPrize1": "5014111:52|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 114,
+		"Id": 456,
+		"NeedLv": 555,
+		"RefreshId": 34456,
+		"ShowPrize": "5014111:53|2403312:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 51,
+		"Id": 457,
+		"RefreshId": 34457,
+		"ShowPrize": "5014111:53|2403311:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 57,
+		"Id": 458,
+		"RefreshId": 34458,
+		"ShowPrize": "5014111:53|2403312:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 60,
+		"Id": 459,
+		"RefreshId": 34459,
+		"ShowPrize": "5014111:53|2403311:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 63,
+		"Id": 460,
+		"LayerType": 1,
+		"RefreshId": 34460,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:53|2403313:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 69,
+		"Id": 461,
+		"NeedLv": 560,
+		"RefreshId": 34461,
+		"ShowPrize": "5014111:53|2403312:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 72,
+		"Id": 462,
+		"RefreshId": 34462,
+		"ShowPrize": "5014111:53|2403311:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 84,
+		"Id": 463,
+		"RefreshId": 34463,
+		"ShowPrize": "5014111:53|2403312:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 93,
+		"Id": 464,
+		"RefreshId": 34464,
+		"ShowPrize": "5014111:53|2403311:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 99,
+		"Id": 465,
+		"LayerType": 1,
+		"RefreshId": 34465,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:53|2403313:3",
+		"ShowPrize1": "5014111:53|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 102,
+		"Id": 466,
+		"NeedLv": 560,
+		"RefreshId": 34466,
+		"ShowPrize": "5014111:54|2403312:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 111,
+		"Id": 467,
+		"RefreshId": 34467,
+		"ShowPrize": "5014111:54|2403311:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 126,
+		"Id": 468,
+		"RefreshId": 34468,
+		"ShowPrize": "5014111:54|2403312:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 129,
+		"Id": 469,
+		"RefreshId": 34469,
+		"ShowPrize": "5014111:54|2403311:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 132,
+		"Id": 470,
+		"LayerType": 1,
+		"RefreshId": 34470,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:54|2403313:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 144,
+		"Id": 471,
+		"NeedLv": 565,
+		"RefreshId": 34471,
+		"ShowPrize": "5014111:54|2403312:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 153,
+		"Id": 472,
+		"RefreshId": 34472,
+		"ShowPrize": "5014111:54|2403311:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 165,
+		"Id": 473,
+		"RefreshId": 34473,
+		"ShowPrize": "5014111:54|2403312:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 186,
+		"Id": 474,
+		"RefreshId": 34474,
+		"ShowPrize": "5014111:54|2403311:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 192,
+		"Id": 475,
+		"LayerType": 1,
+		"RefreshId": 34475,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:54|2403313:3",
+		"ShowPrize1": "5014111:54|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 195,
+		"Id": 476,
+		"NeedLv": 565,
+		"RefreshId": 34476,
+		"ShowPrize": "5014111:55|2403312:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 21,
+		"Id": 477,
+		"RefreshId": 34477,
+		"ShowPrize": "5014111:55|2403311:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 45,
+		"Id": 478,
+		"RefreshId": 34478,
+		"ShowPrize": "5014111:55|2403312:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 66,
+		"Id": 479,
+		"RefreshId": 34479,
+		"ShowPrize": "5014111:55|2403311:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 87,
+		"Id": 480,
+		"LayerType": 1,
+		"RefreshId": 34480,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:55|2403313:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 90,
+		"Id": 481,
+		"NeedLv": 570,
+		"RefreshId": 34481,
+		"ShowPrize": "5014111:55|2403312:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 96,
+		"Id": 482,
+		"RefreshId": 34482,
+		"ShowPrize": "5014111:55|2403311:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 105,
+		"Id": 483,
+		"RefreshId": 34483,
+		"ShowPrize": "5014111:55|2403312:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 117,
+		"Id": 484,
+		"RefreshId": 34484,
+		"ShowPrize": "5014111:55|2403311:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 123,
+		"Id": 485,
+		"LayerType": 1,
+		"RefreshId": 34485,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:55|2403313:3",
+		"ShowPrize1": "5014111:55|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 135,
+		"Id": 486,
+		"NeedLv": 570,
+		"RefreshId": 34486,
+		"ShowPrize": "5014111:56|2403312:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 138,
+		"Id": 487,
+		"RefreshId": 34487,
+		"ShowPrize": "5014111:56|2403311:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 141,
+		"Id": 488,
+		"RefreshId": 34488,
+		"ShowPrize": "5014111:56|2403312:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 183,
+		"Id": 489,
+		"RefreshId": 34489,
+		"ShowPrize": "5014111:56|2403311:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 198,
+		"Id": 490,
+		"LayerType": 1,
+		"RefreshId": 34490,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:56|2403313:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 54,
+		"Id": 491,
+		"NeedLv": 575,
+		"RefreshId": 34491,
+		"ShowPrize": "5014111:56|2403312:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 81,
+		"Id": 492,
+		"RefreshId": 34492,
+		"ShowPrize": "5014111:56|2403311:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 120,
+		"Id": 493,
+		"RefreshId": 34493,
+		"ShowPrize": "5014111:56|2403312:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 150,
+		"Id": 494,
+		"RefreshId": 34494,
+		"ShowPrize": "5014111:56|2403311:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 156,
+		"Id": 495,
+		"LayerType": 1,
+		"RefreshId": 34495,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:56|2403313:3",
+		"ShowPrize1": "5014111:56|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 159,
+		"Id": 496,
+		"NeedLv": 575,
+		"RefreshId": 34496,
+		"ShowPrize": "5014111:57|2403312:3",
+		"ShowPrize1": "5014111:57|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 162,
+		"Id": 497,
+		"RefreshId": 34497,
+		"ShowPrize": "5014111:57|2403311:3",
+		"ShowPrize1": "5014111:57|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 168,
+		"Id": 498,
+		"RefreshId": 34498,
+		"ShowPrize": "5014111:57|2403312:3",
+		"ShowPrize1": "5014111:57|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 171,
+		"Id": 499,
+		"RefreshId": 34499,
+		"ShowPrize": "5014111:57|2403311:3",
+		"ShowPrize1": "5014111:57|2403321:3",
+		"TowerType": 4
+	},
+	{
+		"BossId": 174,
+		"Id": 500,
+		"LayerType": 1,
+		"RefreshId": 34500,
+		"SepPrize": "5016210:2",
+		"ShowPrize": "5014111:57|2403313:3",
+		"ShowPrize1": "5014111:57|2403321:3",
+		"TowerType": 4
+	}
+]

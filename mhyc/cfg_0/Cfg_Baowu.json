@@ -1,0 +1,25 @@
+[
+	{
+		"AttrId": 2211001,
+		"Id": 1,
+		"Name": "阿拉丁神灯",
+		"NeedItemId": 2150007,
+		"NeedItemNum": 1,
+		"SkillId": 2303
+	},
+	{
+		"Id": 2,
+		"IncreaseId": 690,
+		"Name": "招财猫",
+		"NeedItemId": 2150008,
+		"NeedItemNum": 1
+	},
+	{
+		"AttrId": 2210001,
+		"Id": 3,
+		"Name": "战力护符",
+		"NeedItemId": 2150009,
+		"NeedItemNum": 1,
+		"SkillId": 2310
+	}
+]

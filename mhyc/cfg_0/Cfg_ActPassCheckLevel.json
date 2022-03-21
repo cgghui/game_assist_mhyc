@@ -1,0 +1,6758 @@
+[
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 1,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 2,
+		"Prize2": "2010003:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 3,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 4,
+		"Prize2": "2010003:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 5,
+		"Prize1": "2200201:10",
+		"Prize2": "1718:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 6,
+		"Prize1": "2:500",
+		"Prize2": "4010104:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 7,
+		"Prize2": "2010003:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 8,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 9,
+		"Prize2": "2010003:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 10,
+		"Prize1": "1315:1",
+		"Prize2": "1601:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 11,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 12,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 13,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 14,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 15,
+		"Prize1": "2200501:3",
+		"Prize2": "1316:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 16,
+		"Prize1": "2:500",
+		"Prize2": "4010106:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 17,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 18,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 19,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 20,
+		"Prize1": "1314:1",
+		"Prize2": "2200502:20",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 21,
+		"Prize1": "2:1000",
+		"Prize2": "4010107:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 22,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 23,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 24,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 25,
+		"Prize1": "1316:1",
+		"Prize2": "1719:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 26,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 27,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 28,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 29,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 30,
+		"Prize1": "2050102:3",
+		"Prize2": "2040232:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 31,
+		"Prize1": "2:500",
+		"Prize2": "4010104:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 32,
+		"Prize2": "2010003:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 33,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 34,
+		"Prize2": "2010003:35"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 35,
+		"Prize1": "1715:1",
+		"Prize2": "2030103:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 36,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 37,
+		"Prize2": "2010003:40"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 38,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 39,
+		"Prize2": "2010003:45"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 40,
+		"Prize1": "2030402:3",
+		"Prize2": "2030303:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 41,
+		"Prize1": "2:1000",
+		"Prize2": "4010106:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 42,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 43,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 44,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 45,
+		"Prize1": "5011008:1",
+		"Prize2": "5011009:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 46,
+		"Prize1": "2:1500",
+		"Prize2": "4010107:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 47,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 48,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 49,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 50,
+		"Prize1": "1529:1",
+		"Prize2": "1603:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 51,
+		"Prize1": "2:1500",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 52,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 53,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 54,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 55,
+		"Prize1": "2:1500",
+		"Prize2": "3011007:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 56,
+		"Prize1": "2:500",
+		"Prize2": "4010104:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 57,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 58,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 59,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 60,
+		"Prize1": "2250103:5",
+		"Prize2": "1517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 61,
+		"Prize1": "2:2000",
+		"Prize2": "4010105:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 62,
+		"Prize2": "2010003:50"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 63,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 64,
+		"Prize2": "2010003:55"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 65,
+		"Prize1": "2250203:5",
+		"Prize2": "1510:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 66,
+		"Prize1": "2:2000",
+		"Prize2": "4010106:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 67,
+		"Prize2": "2010003:60"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 68,
+		"Prize1": "2200334:1",
+		"Prize2": "2200336:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 69,
+		"Prize2": "2010003:65"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 70,
+		"Prize1": "5012003:1",
+		"Prize2": "5012012:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 71,
+		"Prize1": "2:2000",
+		"Prize2": "4010107:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 72,
+		"Prize2": "2010003:70"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 73,
+		"Prize1": "2200364:1",
+		"Prize2": "2200366:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 74,
+		"Prize2": "2010003:75"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 75,
+		"Prize1": "5013009:1",
+		"Prize2": "5013016:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 76,
+		"Prize1": "2:3000",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 77,
+		"Prize2": "2010003:85"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 78,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 79,
+		"Prize2": "2010003:100"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 1,
+		"Level": 80,
+		"Prize1": "1719:1",
+		"Prize2": "1602:1",
+		"ShowBigPrize": 1,
+		"ShowModel": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 81,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 82,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 83,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 84,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 85,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 86,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 87,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 88,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 89,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 90,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 91,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 92,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 93,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 94,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 95,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 96,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 97,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 98,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 99,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 100,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 101,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 102,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 103,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 104,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 105,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 106,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 107,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 108,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 109,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 110,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 111,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 112,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 113,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 114,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 115,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 116,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 117,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 118,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 119,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 120,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 121,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 122,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 123,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 124,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 125,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 126,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 127,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 128,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 129,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 130,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 131,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 132,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 133,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 134,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 135,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 136,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 137,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 138,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 139,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 140,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 141,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 142,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 143,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 144,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 145,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 146,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 147,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 148,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 149,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 150,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 151,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 152,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 153,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 154,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 155,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 156,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 157,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 158,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 159,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 160,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 161,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 162,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 163,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 164,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 165,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 166,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 167,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 168,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 169,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 170,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 171,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 172,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 173,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 174,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 175,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 176,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 177,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 178,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 179,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 180,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 181,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 182,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 183,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 184,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 185,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 186,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 187,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 188,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 189,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 190,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 191,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 192,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 193,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 194,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 195,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 196,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 197,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 198,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 199,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 1,
+		"Level": 200,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 1,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 2,
+		"Prize2": "2010003:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 3,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 4,
+		"Prize2": "2010003:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 5,
+		"Prize1": "2200201:10",
+		"Prize2": "1718:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 6,
+		"Prize1": "2:500",
+		"Prize2": "4010104:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 7,
+		"Prize2": "2010003:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 8,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 9,
+		"Prize2": "2010003:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 10,
+		"Prize1": "1315:1",
+		"Prize2": "1601:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 11,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 12,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 13,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 14,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 15,
+		"Prize1": "2200501:3",
+		"Prize2": "1316:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 16,
+		"Prize1": "2:500",
+		"Prize2": "4010106:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 17,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 18,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 19,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 20,
+		"Prize1": "1314:1",
+		"Prize2": "2200502:20",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 21,
+		"Prize1": "2:1000",
+		"Prize2": "4010107:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 22,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 23,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 24,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 25,
+		"Prize1": "1316:1",
+		"Prize2": "1719:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 26,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 27,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 28,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 29,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 30,
+		"Prize1": "2050102:3",
+		"Prize2": "2040232:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 31,
+		"Prize1": "2:500",
+		"Prize2": "4010104:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 32,
+		"Prize2": "2010003:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 33,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 34,
+		"Prize2": "2010003:35"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 35,
+		"Prize1": "1715:1",
+		"Prize2": "2030103:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 36,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 37,
+		"Prize2": "2010003:40"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 38,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 39,
+		"Prize2": "2010003:45"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 40,
+		"Prize1": "2030402:3",
+		"Prize2": "2030303:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 41,
+		"Prize1": "2:1000",
+		"Prize2": "4010106:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 42,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 43,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 44,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 45,
+		"Prize1": "5011008:1",
+		"Prize2": "5011009:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 46,
+		"Prize1": "2:1500",
+		"Prize2": "4010107:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 47,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 48,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 49,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 50,
+		"Prize1": "1529:1",
+		"Prize2": "1603:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 51,
+		"Prize1": "2:1500",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 52,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 53,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 54,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 55,
+		"Prize1": "2:1500",
+		"Prize2": "3011007:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 56,
+		"Prize1": "2:500",
+		"Prize2": "4010104:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 57,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 58,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 59,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 60,
+		"Prize1": "2250103:5",
+		"Prize2": "1517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 61,
+		"Prize1": "2:2000",
+		"Prize2": "4010105:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 62,
+		"Prize2": "2010003:50"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 63,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 64,
+		"Prize2": "2010003:55"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 65,
+		"Prize1": "2250203:5",
+		"Prize2": "1510:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 66,
+		"Prize1": "2:2000",
+		"Prize2": "4010106:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 67,
+		"Prize2": "2010003:60"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 68,
+		"Prize1": "2200334:1",
+		"Prize2": "2200336:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 69,
+		"Prize2": "2010003:65"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 70,
+		"Prize1": "5012003:1",
+		"Prize2": "5012012:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 71,
+		"Prize1": "2:2000",
+		"Prize2": "4010107:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 72,
+		"Prize2": "2010003:70"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 73,
+		"Prize1": "2200364:1",
+		"Prize2": "2200366:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 74,
+		"Prize2": "2010003:75"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 75,
+		"Prize1": "5013009:1",
+		"Prize2": "5013016:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 76,
+		"Prize1": "2:3000",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 77,
+		"Prize2": "2010003:85"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 78,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 79,
+		"Prize2": "2010003:100"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 2,
+		"Level": 80,
+		"Prize1": "3111039:1",
+		"Prize2": "1717:1",
+		"ShowBigPrize": 1,
+		"ShowModel": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 81,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 82,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 83,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 84,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 85,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 86,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 87,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 88,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 89,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 90,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 91,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 92,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 93,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 94,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 95,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 96,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 97,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 98,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 99,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 100,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 101,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 102,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 103,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 104,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 105,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 106,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 107,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 108,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 109,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 110,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 111,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 112,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 113,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 114,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 115,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 116,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 117,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 118,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 119,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 120,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 121,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 122,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 123,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 124,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 125,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 126,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 127,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 128,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 129,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 130,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 131,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 132,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 133,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 134,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 135,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 136,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 137,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 138,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 139,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 140,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 141,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 142,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 143,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 144,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 145,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 146,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 147,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 148,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 149,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 150,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 151,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 152,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 153,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 154,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 155,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 156,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 157,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 158,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 159,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 160,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 161,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 162,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 163,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 164,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 165,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 166,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 167,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 168,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 169,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 170,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 171,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 172,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 173,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 174,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 175,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 176,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 177,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 178,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 179,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 180,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 181,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 182,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 183,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 184,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 185,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 186,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 187,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 188,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 189,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 190,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 191,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 192,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 193,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 194,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 195,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 196,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 197,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 198,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 199,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 2,
+		"Level": 200,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 1,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 2,
+		"Prize2": "2010003:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 3,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 4,
+		"Prize2": "2010003:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 5,
+		"Prize1": "2200201:10",
+		"Prize2": "1718:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 6,
+		"Prize1": "2:500",
+		"Prize2": "4010104:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 7,
+		"Prize2": "2010003:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 8,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 9,
+		"Prize2": "2010003:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 10,
+		"Prize1": "2040001:50",
+		"Prize2": "2040243:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 11,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 12,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 13,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 14,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 15,
+		"Prize1": "2200501:3",
+		"Prize2": "1316:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 16,
+		"Prize1": "2:500",
+		"Prize2": "4010106:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 17,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 18,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 19,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 20,
+		"Prize1": "1314:1",
+		"Prize2": "2200502:20",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 21,
+		"Prize1": "2:1000",
+		"Prize2": "4010107:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 22,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 23,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 24,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 25,
+		"Prize1": "2010012:20",
+		"Prize2": "2010507:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 26,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 27,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 28,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 29,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 30,
+		"Prize1": "2050102:3",
+		"Prize2": "2040232:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 31,
+		"Prize1": "2:500",
+		"Prize2": "4010104:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 32,
+		"Prize2": "2010003:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 33,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 34,
+		"Prize2": "2010003:35"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 35,
+		"Prize1": "1715:1",
+		"Prize2": "2030103:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 36,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 37,
+		"Prize2": "2010003:40"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 38,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 39,
+		"Prize2": "2010003:45"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 40,
+		"Prize1": "2030402:3",
+		"Prize2": "2030303:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 41,
+		"Prize1": "2:1000",
+		"Prize2": "4010106:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 42,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 43,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 44,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 45,
+		"Prize1": "5011008:1",
+		"Prize2": "5011009:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 46,
+		"Prize1": "2:1500",
+		"Prize2": "4010107:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 47,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 48,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 49,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 50,
+		"Prize1": "2010016:1",
+		"Prize2": "2010517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 51,
+		"Prize1": "2:1500",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 52,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 53,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 54,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 55,
+		"Prize1": "2:1500",
+		"Prize2": "3011007:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 56,
+		"Prize1": "2:500",
+		"Prize2": "4010104:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 57,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 58,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 59,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 60,
+		"Prize1": "2250103:5",
+		"Prize2": "1517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 61,
+		"Prize1": "2:2000",
+		"Prize2": "4010105:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 62,
+		"Prize2": "2010003:50"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 63,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 64,
+		"Prize2": "2010003:55"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 65,
+		"Prize1": "2250203:5",
+		"Prize2": "1510:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 66,
+		"Prize1": "2:2000",
+		"Prize2": "4010106:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 67,
+		"Prize2": "2010003:60"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 68,
+		"Prize1": "2200334:1",
+		"Prize2": "2200336:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 69,
+		"Prize2": "2010003:65"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 70,
+		"Prize1": "5012003:1",
+		"Prize2": "5012012:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 71,
+		"Prize1": "2:2000",
+		"Prize2": "4010107:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 72,
+		"Prize2": "2010003:70"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 73,
+		"Prize1": "2200364:1",
+		"Prize2": "2200366:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 74,
+		"Prize2": "2010003:75"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 75,
+		"Prize1": "5013009:1",
+		"Prize2": "5013016:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 76,
+		"Prize1": "2:3000",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 77,
+		"Prize2": "2010003:85"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 78,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 79,
+		"Prize2": "2010003:100"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 3,
+		"Level": 80,
+		"Prize1": "2043004:1",
+		"Prize2": "1410:1",
+		"ShowBigPrize": 1,
+		"ShowModel": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 81,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 82,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 83,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 84,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 85,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 86,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 87,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 88,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 89,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 90,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 91,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 92,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 93,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 94,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 95,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 96,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 97,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 98,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 99,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 100,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 101,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 102,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 103,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 104,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 105,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 106,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 107,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 108,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 109,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 110,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 111,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 112,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 113,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 114,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 115,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 116,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 117,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 118,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 119,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 120,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 121,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 122,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 123,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 124,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 125,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 126,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 127,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 128,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 129,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 130,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 131,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 132,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 133,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 134,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 135,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 136,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 137,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 138,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 139,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 140,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 141,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 142,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 143,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 144,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 145,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 146,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 147,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 148,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 149,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 150,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 151,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 152,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 153,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 154,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 155,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 156,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 157,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 158,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 159,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 160,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 161,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 162,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 163,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 164,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 165,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 166,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 167,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 168,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 169,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 170,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 171,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 172,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 173,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 174,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 175,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 176,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 177,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 178,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 179,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 180,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 181,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 182,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 183,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 184,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 185,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 186,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 187,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 188,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 189,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 190,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 191,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 192,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 193,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 194,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 195,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 196,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 197,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 198,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 199,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 3,
+		"Level": 200,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 1,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 2,
+		"Prize2": "2010003:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 3,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 4,
+		"Prize2": "2010003:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:50",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 5,
+		"Prize1": "2200201:10",
+		"Prize2": "1718:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 6,
+		"Prize1": "2:500",
+		"Prize2": "4010104:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 7,
+		"Prize2": "2010003:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 8,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 9,
+		"Prize2": "2010003:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:60",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 10,
+		"Prize1": "2040001:50",
+		"Prize2": "2040243:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 11,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 12,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 13,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 14,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:70",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 15,
+		"Prize1": "2200501:3",
+		"Prize2": "1316:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 16,
+		"Prize1": "2:500",
+		"Prize2": "4010106:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 17,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 18,
+		"Prize1": "2200303:1",
+		"Prize2": "2200305:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 19,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:80",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 20,
+		"Prize1": "1314:1",
+		"Prize2": "2200502:20",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 21,
+		"Prize1": "2:1000",
+		"Prize2": "4010107:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 22,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 23,
+		"Prize1": "2200333:1",
+		"Prize2": "2200335:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 24,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:90",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 25,
+		"Prize1": "2010012:20",
+		"Prize2": "2010507:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 26,
+		"Prize1": "2:500",
+		"Prize2": "4010103:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 27,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 28,
+		"Prize1": "2200363:1",
+		"Prize2": "2200365:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 29,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:100",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 30,
+		"Prize1": "2050102:3",
+		"Prize2": "2040232:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 31,
+		"Prize1": "2:500",
+		"Prize2": "4010104:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 32,
+		"Prize2": "2010003:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 33,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 34,
+		"Prize2": "2010003:35"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:110",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 35,
+		"Prize1": "1715:1",
+		"Prize2": "2030103:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 36,
+		"Prize1": "2:1000",
+		"Prize2": "4010105:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 37,
+		"Prize2": "2010003:40"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 38,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 39,
+		"Prize2": "2010003:45"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:120",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 40,
+		"Prize1": "2030402:3",
+		"Prize2": "2030303:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 41,
+		"Prize1": "2:1000",
+		"Prize2": "4010106:20"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 42,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 43,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 44,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:130",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 45,
+		"Prize1": "5011008:1",
+		"Prize2": "5011009:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 46,
+		"Prize1": "2:1500",
+		"Prize2": "4010107:15"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 47,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 48,
+		"Prize1": "2200303:2",
+		"Prize2": "2200305:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 49,
+		"Prize2": "2401111:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:140",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 50,
+		"Prize1": "2010016:1",
+		"Prize2": "2010517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 51,
+		"Prize1": "2:1500",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 52,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 53,
+		"Prize1": "2200333:2",
+		"Prize2": "2200335:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 54,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:150",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 55,
+		"Prize1": "2:1500",
+		"Prize2": "3011007:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 56,
+		"Prize1": "2:500",
+		"Prize2": "4010104:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 57,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 58,
+		"Prize1": "2200363:2",
+		"Prize2": "2200365:2"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 59,
+		"Prize2": "2400502:10"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:160",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 60,
+		"Prize1": "2250103:5",
+		"Prize2": "1517:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 61,
+		"Prize1": "2:2000",
+		"Prize2": "4010105:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 62,
+		"Prize2": "2010003:50"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 63,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 64,
+		"Prize2": "2010003:55"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:170",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 65,
+		"Prize1": "2250203:5",
+		"Prize2": "1510:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 66,
+		"Prize1": "2:2000",
+		"Prize2": "4010106:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 67,
+		"Prize2": "2010003:60"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 68,
+		"Prize1": "2200334:1",
+		"Prize2": "2200336:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 69,
+		"Prize2": "2010003:65"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:180",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 70,
+		"Prize1": "5012003:1",
+		"Prize2": "5012012:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 71,
+		"Prize1": "2:2000",
+		"Prize2": "4010107:25"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 72,
+		"Prize2": "2010003:70"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 73,
+		"Prize1": "2200364:1",
+		"Prize2": "2200366:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 74,
+		"Prize2": "2010003:75"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:190",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 75,
+		"Prize1": "5013009:1",
+		"Prize2": "5013016:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 76,
+		"Prize1": "2:3000",
+		"Prize2": "4010103:30"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 77,
+		"Prize2": "2010003:85"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 78,
+		"Prize1": "2200304:1",
+		"Prize2": "2200306:1"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 79,
+		"Prize2": "2010003:100"
+	},
+	{
+		"ActId": 1101,
+		"BuyLevelCost": "1:200",
+		"Exp": 500,
+		"Group": 4,
+		"Level": 80,
+		"Prize1": "5016104:1",
+		"Prize2": "1310:1",
+		"ShowBigPrize": 1,
+		"ShowModel": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 81,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 82,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 83,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 84,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 85,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 86,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 87,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 88,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 89,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 90,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 91,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 92,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 93,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 94,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 95,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 96,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 97,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 98,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 99,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 100,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 101,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 102,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 103,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 104,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 105,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 106,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 107,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 108,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 109,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 110,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 111,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 112,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 113,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 114,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 115,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 116,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 117,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 118,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 119,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 120,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 121,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 122,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 123,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 124,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 125,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 126,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 127,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 128,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 129,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 130,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 131,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 132,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 133,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 134,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 135,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 136,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 137,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 138,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 139,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 140,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 141,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 142,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 143,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 144,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 145,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 146,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 147,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 148,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 149,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 150,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 151,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 152,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 153,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 154,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 155,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 156,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 157,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 158,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 159,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 160,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 161,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 162,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 163,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 164,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 165,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 166,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 167,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 168,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 169,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 170,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 171,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 172,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 173,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 174,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 175,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 176,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 177,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 178,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 179,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 180,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 181,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 182,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 183,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 184,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 185,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 186,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 187,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 188,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 189,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 190,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 191,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 192,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 193,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 194,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 195,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 196,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 197,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 198,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 199,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1"
+	},
+	{
+		"ActId": 1101,
+		"Exp": 500,
+		"Group": 4,
+		"Level": 200,
+		"Prize1": "2401005:1",
+		"Prize2": "2401006:1",
+		"ShowBigPrize": 1
+	}
+]

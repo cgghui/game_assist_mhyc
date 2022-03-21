@@ -1,0 +1,38 @@
+[
+	{
+		"CfgKey": "YJZDDayAdscMaxTimes",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "YJZDTotalAdscMaxTimes",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "YJZDDayEntrustMaxTimes",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "YJZDDayBeEntrustedMaxTimes",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "YJZDHelpCDTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "YJZDSceneCloseDuration",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "YJZDBossReliveDuration",
+		"CfgValue": "2700"
+	},
+	{
+		"CfgKey": "YJZDAreaOccupyMinScore",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "YJZDEntrustShowRwd",
+		"CfgValue": "204"
+	}
+]

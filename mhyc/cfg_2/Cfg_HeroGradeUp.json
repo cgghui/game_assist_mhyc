@@ -1,0 +1,632 @@
+[
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 1,
+		"ItemData": "2080401:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 1,
+		"ItemData": "2080401:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 1,
+		"ItemData": "2080401:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 1,
+		"ItemData": "2080401:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 1,
+		"ItemData": "2080401:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 1,
+		"ItemData": "2080401:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 1,
+		"ItemData": "2080401:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 1,
+		"ItemData": "2080401:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 1,
+		"ItemData": "2080401:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 1,
+		"ItemData": "2080401:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 2,
+		"ItemData": "2080403:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 2,
+		"ItemData": "2080403:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 2,
+		"ItemData": "2080403:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 2,
+		"ItemData": "2080403:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 2,
+		"ItemData": "2080403:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 2,
+		"ItemData": "2080403:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 2,
+		"ItemData": "2080403:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 2,
+		"ItemData": "2080403:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 2,
+		"ItemData": "2080403:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 2,
+		"ItemData": "2080403:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 3,
+		"ItemData": "2080402:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 3,
+		"ItemData": "2080402:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 3,
+		"ItemData": "2080402:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 3,
+		"ItemData": "2080402:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 3,
+		"ItemData": "2080402:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 3,
+		"ItemData": "2080402:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 3,
+		"ItemData": "2080402:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 3,
+		"ItemData": "2080402:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 3,
+		"ItemData": "2080402:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 3,
+		"ItemData": "2080402:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 4,
+		"ItemData": "2080404:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 4,
+		"ItemData": "2080404:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 4,
+		"ItemData": "2080404:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 4,
+		"ItemData": "2080404:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 4,
+		"ItemData": "2080404:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 4,
+		"ItemData": "2080404:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 4,
+		"ItemData": "2080404:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 4,
+		"ItemData": "2080404:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 4,
+		"ItemData": "2080404:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 4,
+		"ItemData": "2080404:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 5,
+		"ItemData": "2080406:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 5,
+		"ItemData": "2080406:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 5,
+		"ItemData": "2080406:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 5,
+		"ItemData": "2080406:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 5,
+		"ItemData": "2080406:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 5,
+		"ItemData": "2080406:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 5,
+		"ItemData": "2080406:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 5,
+		"ItemData": "2080406:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 5,
+		"ItemData": "2080406:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 5,
+		"ItemData": "2080406:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 6,
+		"ItemData": "2080405:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 6,
+		"ItemData": "2080405:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 6,
+		"ItemData": "2080405:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 6,
+		"ItemData": "2080405:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 6,
+		"ItemData": "2080405:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 6,
+		"ItemData": "2080405:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 6,
+		"ItemData": "2080405:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 6,
+		"ItemData": "2080405:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 6,
+		"ItemData": "2080405:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 6,
+		"ItemData": "2080405:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 7,
+		"ItemData": "2080407:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 7,
+		"ItemData": "2080407:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 7,
+		"ItemData": "2080407:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 7,
+		"ItemData": "2080407:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 7,
+		"ItemData": "2080407:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 7,
+		"ItemData": "2080407:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 7,
+		"ItemData": "2080407:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 7,
+		"ItemData": "2080407:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 7,
+		"ItemData": "2080407:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 7,
+		"ItemData": "2080407:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 8,
+		"ItemData": "2080409:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 8,
+		"ItemData": "2080409:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 8,
+		"ItemData": "2080409:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 8,
+		"ItemData": "2080409:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 8,
+		"ItemData": "2080409:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 8,
+		"ItemData": "2080409:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 8,
+		"ItemData": "2080409:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 8,
+		"ItemData": "2080409:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 8,
+		"ItemData": "2080409:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 8,
+		"ItemData": "2080409:910",
+		"NeedLevel": 100
+	},
+	{
+		"AttrId": 3501501,
+		"Grade": 1,
+		"HeroId": 9,
+		"ItemData": "2080408:10",
+		"NeedLevel": 10
+	},
+	{
+		"AttrId": 3501502,
+		"Grade": 2,
+		"HeroId": 9,
+		"ItemData": "2080408:30",
+		"NeedLevel": 20
+	},
+	{
+		"AttrId": 3501503,
+		"Grade": 3,
+		"HeroId": 9,
+		"ItemData": "2080408:70",
+		"NeedLevel": 30
+	},
+	{
+		"AttrId": 3501504,
+		"Grade": 4,
+		"HeroId": 9,
+		"ItemData": "2080408:130",
+		"NeedLevel": 40
+	},
+	{
+		"AttrId": 3501505,
+		"Grade": 5,
+		"HeroId": 9,
+		"ItemData": "2080408:210",
+		"NeedLevel": 50
+	},
+	{
+		"AttrId": 3501506,
+		"Grade": 6,
+		"HeroId": 9,
+		"ItemData": "2080408:310",
+		"NeedLevel": 60
+	},
+	{
+		"AttrId": 3501507,
+		"Grade": 7,
+		"HeroId": 9,
+		"ItemData": "2080408:430",
+		"NeedLevel": 70
+	},
+	{
+		"AttrId": 3501508,
+		"Grade": 8,
+		"HeroId": 9,
+		"ItemData": "2080408:570",
+		"NeedLevel": 80
+	},
+	{
+		"AttrId": 3501509,
+		"Grade": 9,
+		"HeroId": 9,
+		"ItemData": "2080408:730",
+		"NeedLevel": 90
+	},
+	{
+		"AttrId": 3501510,
+		"Grade": 10,
+		"HeroId": 9,
+		"ItemData": "2080408:910",
+		"NeedLevel": 100
+	}
+]

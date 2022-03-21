@@ -1,0 +1,9558 @@
+[
+	{
+		"Grade": 1,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 2,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 3,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 4,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 5,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 6,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 7,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 8,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 9,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 10,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 11,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 12,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 13,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 14,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 15,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 16,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 17,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 18,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 19,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 20,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 21,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 22,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 23,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 24,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 25,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 26,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 27,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 28,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 29,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 30,
+		"Id": 1,
+		"RoleLevel": 50
+	},
+	{
+		"Grade": 31,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 32,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 33,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 34,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 35,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 36,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 37,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 38,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 39,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 40,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 41,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 42,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 43,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 44,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 45,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 46,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 47,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 48,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 49,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 50,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 51,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 52,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 53,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 54,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 55,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 56,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 57,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 58,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 59,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 60,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 61,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 62,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 63,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 64,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 65,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 66,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 67,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 68,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 69,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 70,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 71,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 72,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 73,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 74,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 75,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 76,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 77,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 78,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 79,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 80,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 81,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 82,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 83,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 84,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 85,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 86,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 87,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 88,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 89,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 90,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 91,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 92,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 93,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 94,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 95,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 96,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 97,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 98,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 99,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 100,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "0"
+	},
+	{
+		"Grade": 101,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 102,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 103,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 104,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 105,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 106,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 107,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 108,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 109,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 110,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 111,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 112,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 113,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 114,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 115,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 116,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 117,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 118,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 119,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 120,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 121,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 122,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 123,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 124,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 125,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 126,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 127,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 128,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 129,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 130,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 131,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 132,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 133,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 134,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 135,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 136,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 137,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 138,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 139,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 140,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 141,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 142,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 143,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 144,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 145,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 146,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 147,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 148,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 149,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 150,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 151,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 152,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 153,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 154,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 155,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 156,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 157,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 158,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 159,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 160,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 161,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 162,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 163,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 164,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 165,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 166,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 167,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 168,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 169,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 170,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 171,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 172,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 173,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 174,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 175,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 176,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 177,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 178,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 179,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 180,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 181,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 182,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 183,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 184,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 185,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 186,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 187,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 188,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 189,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 190,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 191,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 192,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 193,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 194,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 195,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 196,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 197,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 198,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 199,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 200,
+		"Id": 1,
+		"RoleLevel": 50,
+		"RoleReborn": "8|1"
+	},
+	{
+		"Grade": 1,
+		"Id": 2,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "1|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 2,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 102,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 103,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 104,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 105,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 106,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 107,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 108,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 109,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 110,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 111,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 112,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 113,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 114,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 115,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 116,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 117,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 118,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 119,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 120,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 121,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 122,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 123,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 124,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 125,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 126,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 127,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 128,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 129,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 130,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 131,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 132,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 133,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 134,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 135,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 136,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 137,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 138,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 139,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 140,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 141,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 142,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 143,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 144,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 145,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 146,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 147,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 148,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 149,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 150,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 151,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 152,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 153,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 154,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 155,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 156,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 157,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 158,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 159,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 160,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 161,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 162,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 163,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 164,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 165,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 166,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 167,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 168,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 169,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 170,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 171,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 172,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 173,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 174,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 175,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 176,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 177,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 178,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 179,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 180,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 181,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 182,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 183,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 184,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 185,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 186,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 187,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 188,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 189,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 190,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 191,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 192,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 193,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 194,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 195,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 196,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 197,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 198,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 199,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 200,
+		"Id": 2,
+		"RoleLevel": 1,
+		"RoleReborn": "8|3"
+	},
+	{
+		"Grade": 1,
+		"Id": 3,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "2|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 3,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 102,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 103,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 104,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 105,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 106,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 107,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 108,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 109,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 110,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 111,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 112,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 113,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 114,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 115,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 116,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 117,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 118,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 119,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 120,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 121,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 122,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 123,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 124,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 125,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 126,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 127,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 128,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 129,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 130,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 131,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 132,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 133,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 134,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 135,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 136,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 137,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 138,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 139,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 140,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 141,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 142,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 143,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 144,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 145,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 146,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 147,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 148,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 149,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 150,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 151,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 152,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 153,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 154,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 155,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 156,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 157,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 158,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 159,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 160,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 161,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 162,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 163,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 164,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 165,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 166,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 167,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 168,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 169,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 170,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 171,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 172,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 173,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 174,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 175,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 176,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 177,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 178,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 179,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 180,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 181,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 182,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 183,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 184,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 185,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 186,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 187,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 188,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 189,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 190,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 191,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 192,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 193,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 194,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 195,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 196,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 197,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 198,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 199,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 200,
+		"Id": 3,
+		"RoleLevel": 1,
+		"RoleReborn": "8|5"
+	},
+	{
+		"Grade": 1,
+		"Id": 4,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "3|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 4,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 102,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 103,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 104,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 105,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 106,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 107,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 108,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 109,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 110,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 111,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 112,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 113,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 114,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 115,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 116,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 117,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 118,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 119,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 120,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 121,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 122,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 123,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 124,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 125,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 126,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 127,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 128,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 129,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 130,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 131,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 132,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 133,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 134,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 135,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 136,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 137,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 138,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 139,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 140,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 141,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 142,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 143,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 144,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 145,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 146,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 147,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 148,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 149,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 150,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 151,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 152,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 153,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 154,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 155,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 156,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 157,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 158,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 159,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 160,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 161,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 162,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 163,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 164,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 165,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 166,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 167,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 168,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 169,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 170,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 171,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 172,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 173,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 174,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 175,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 176,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 177,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 178,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 179,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 180,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 181,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 182,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 183,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 184,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 185,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 186,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 187,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 188,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 189,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 190,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 191,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 192,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 193,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 194,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 195,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 196,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 197,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 198,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 199,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 200,
+		"Id": 4,
+		"RoleLevel": 1,
+		"RoleReborn": "9|2"
+	},
+	{
+		"Grade": 1,
+		"Id": 5,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "4|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 5,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 102,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 103,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 104,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 105,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 106,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 107,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 108,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 109,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 110,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 111,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 112,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 113,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 114,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 115,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 116,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 117,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 118,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 119,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 120,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 121,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 122,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 123,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 124,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 125,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 126,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 127,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 128,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 129,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 130,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 131,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 132,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 133,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 134,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 135,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 136,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 137,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 138,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 139,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 140,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 141,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 142,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 143,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 144,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 145,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 146,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 147,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 148,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 149,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 150,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 151,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 152,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 153,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 154,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 155,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 156,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 157,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 158,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 159,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 160,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 161,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 162,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 163,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 164,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 165,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 166,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 167,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 168,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 169,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 170,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 171,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 172,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 173,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 174,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 175,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 176,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 177,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 178,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 179,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 180,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 181,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 182,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 183,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 184,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 185,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 186,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 187,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 188,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 189,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 190,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 191,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 192,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 193,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 194,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 195,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 196,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 197,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 198,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 199,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 200,
+		"Id": 5,
+		"RoleLevel": 1,
+		"RoleReborn": "9|4"
+	},
+	{
+		"Grade": 1,
+		"Id": 6,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "5|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 6,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 102,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 103,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 104,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 105,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 106,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 107,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 108,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 109,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 110,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 111,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 112,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 113,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 114,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 115,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 116,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 117,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 118,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 119,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 120,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 121,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 122,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 123,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 124,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 125,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 126,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 127,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 128,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 129,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 130,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 131,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 132,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 133,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 134,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 135,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 136,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 137,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 138,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 139,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 140,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 141,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 142,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 143,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 144,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 145,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 146,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 147,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 148,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 149,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 150,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 151,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 152,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 153,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 154,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 155,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 156,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 157,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 158,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 159,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 160,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 161,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 162,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 163,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 164,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 165,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 166,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 167,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 168,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 169,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 170,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 171,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 172,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 173,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 174,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 175,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 176,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 177,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 178,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 179,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 180,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 181,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 182,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 183,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 184,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 185,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 186,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 187,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 188,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 189,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 190,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 191,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 192,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 193,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 194,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 195,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 196,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 197,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 198,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 199,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 200,
+		"Id": 6,
+		"RoleLevel": 1,
+		"RoleReborn": "10|1"
+	},
+	{
+		"Grade": 1,
+		"Id": 7,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "6|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 7,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 102,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 103,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 104,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 105,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 106,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 107,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 108,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 109,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 110,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 111,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 112,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 113,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 114,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 115,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 116,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 117,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 118,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 119,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 120,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 121,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 122,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 123,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 124,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 125,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 126,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 127,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 128,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 129,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 130,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 131,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 132,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 133,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 134,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 135,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 136,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 137,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 138,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 139,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 140,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 141,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 142,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 143,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 144,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 145,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 146,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 147,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 148,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 149,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 150,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 151,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 152,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 153,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 154,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 155,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 156,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 157,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 158,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 159,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 160,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 161,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 162,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 163,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 164,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 165,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 166,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 167,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 168,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 169,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 170,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 171,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 172,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 173,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 174,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 175,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 176,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 177,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 178,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 179,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 180,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 181,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 182,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 183,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 184,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 185,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 186,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 187,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 188,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 189,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 190,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 191,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 192,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 193,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 194,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 195,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 196,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 197,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 198,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 199,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 200,
+		"Id": 7,
+		"RoleLevel": 1,
+		"RoleReborn": "10|3"
+	},
+	{
+		"Grade": 1,
+		"Id": 8,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 2,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 3,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 4,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 5,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 6,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 7,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 8,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 9,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 10,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 11,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 12,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 13,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 14,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 15,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 16,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 17,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 18,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 19,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 20,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 21,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 22,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 23,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 24,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 25,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 26,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 27,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 28,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 29,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 30,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 31,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 32,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 33,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 34,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 35,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 36,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 37,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 38,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 39,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 40,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 41,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 42,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 43,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 44,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 45,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 46,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 47,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 48,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 49,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 50,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 51,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 52,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 53,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 54,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 55,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 56,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 57,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 58,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 59,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 60,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 61,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 62,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 63,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 64,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 65,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 66,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 67,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 68,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 69,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 70,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 71,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 72,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 73,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 74,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 75,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 76,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 77,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 78,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 79,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 80,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 81,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 82,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 83,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 84,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 85,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 86,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 87,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 88,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 89,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 90,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 91,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 92,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 93,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 94,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 95,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 96,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 97,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 98,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 99,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 100,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "7|1"
+	},
+	{
+		"Grade": 101,
+		"Id": 8,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 102,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 103,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 104,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 105,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 106,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 107,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 108,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 109,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 110,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 111,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 112,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 113,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 114,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 115,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 116,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 117,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 118,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 119,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 120,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 121,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 122,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 123,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 124,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 125,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 126,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 127,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 128,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 129,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 130,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 131,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 132,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 133,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 134,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 135,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 136,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 137,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 138,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 139,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 140,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 141,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 142,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 143,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 144,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 145,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 146,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 147,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 148,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 149,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 150,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 151,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 152,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 153,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 154,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 155,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 156,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 157,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 158,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 159,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 160,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 161,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 162,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 163,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 164,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 165,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 166,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 167,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 168,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 169,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 170,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 171,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 172,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 173,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 174,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 175,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 176,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 177,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 178,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 179,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 180,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 181,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 182,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 183,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 184,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 185,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 186,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 187,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 188,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 189,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 190,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 191,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 192,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 193,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 194,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 195,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 196,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 197,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 198,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 199,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	},
+	{
+		"Grade": 200,
+		"Id": 8,
+		"RoleLevel": 1,
+		"RoleReborn": "10|5"
+	}
+]

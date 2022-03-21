@@ -1,0 +1,17 @@
+[
+	{
+		"Tpl_Content": "报告大仙！我方神坛已被【{0}】抢占！对方实力不俗，请谨慎对待",
+		"Tpl_ID": 1,
+		"Tpl_Title": "报~~阵营\u003ccolor=#04C5FD\u003e{0}\u003c/c\u003e被敌方抢走了\u003ccolor=#02ae00\u003e【\u003cu\u003e查看详情\u003c/u\u003e】\u003c/c\u003e"
+	},
+	{
+		"Tpl_Content": "报告大仙！此次神坛收益如下：",
+		"Tpl_ID": 2,
+		"Tpl_Title": "神坛结算收益\u003ccolor=#02ae00\u003e【\u003cu\u003e查看详情\u003c/u\u003e】\u003c/c\u003e"
+	},
+	{
+		"Tpl_Content": "【龙脉】中的【魔化阵营精英】已被击败，奖励已通过邮件发放，请上仙注意查收！",
+		"Tpl_ID": 3,
+		"Tpl_Title": "魔化阵营精英被击败\u003ccolor=#02ae00\u003e【\u003cu\u003e查看详情\u003c/u\u003e】\u003c/c\u003e"
+	}
+]

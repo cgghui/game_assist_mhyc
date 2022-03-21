@@ -1,0 +1,750 @@
+[
+	{
+		"Attr": 1,
+		"FightValue": 2,
+		"Fun_Name1": "生命",
+		"Fun_Name2": "生命百分比",
+		"ItemPrecentAttr": 51
+	},
+	{
+		"Attr": 2,
+		"FightValue": 20,
+		"Fun_Name1": "攻击",
+		"Fun_Name2": "攻击百分比",
+		"ItemPrecentAttr": 52
+	},
+	{
+		"Attr": 3,
+		"FightValue": 20,
+		"Fun_Name1": "防御",
+		"Fun_Name2": "防御百分比",
+		"ItemPrecentAttr": 53
+	},
+	{
+		"Attr": 4,
+		"FightValue": 40,
+		"Fun_Name1": "命中(万分比)",
+		"Fun_Name2": "命中(万分比)百分比",
+		"ItemPrecentAttr": 54
+	},
+	{
+		"Attr": 5,
+		"FightValue": 40,
+		"Fun_Name1": "闪避(万分比)",
+		"Fun_Name2": "闪避(万分比)百分比",
+		"ItemPrecentAttr": 55
+	},
+	{
+		"Attr": 6,
+		"FightValue": 40,
+		"Fun_Name1": "暴击(万分比)",
+		"Fun_Name2": "暴击(万分比)百分比",
+		"ItemPrecentAttr": 56
+	},
+	{
+		"Attr": 7,
+		"FightValue": 40,
+		"Fun_Name1": "防暴击(万分比)",
+		"Fun_Name2": "防暴击(万分比)百分比",
+		"ItemPrecentAttr": 57
+	},
+	{
+		"Attr": 8,
+		"FightValue": 40,
+		"Fun_Name1": "速度",
+		"Fun_Name2": "速度百分比",
+		"ItemPrecentAttr": 58
+	},
+	{
+		"Attr": 9,
+		"FightValue": 40,
+		"Fun_Name1": "无视防御",
+		"Fun_Name2": "无视防御百分比",
+		"ItemPrecentAttr": 59
+	},
+	{
+		"Attr": 10,
+		"FightValue": 40,
+		"Fun_Name1": "减免无视",
+		"Fun_Name2": "减免无视百分比",
+		"ItemPrecentAttr": 60
+	},
+	{
+		"Attr": 11,
+		"FightValue": 40,
+		"Fun_Name1": "伤害加深",
+		"Fun_Name2": "伤害加深百分比",
+		"ItemPrecentAttr": 61
+	},
+	{
+		"Attr": 12,
+		"FightValue": 40,
+		"Fun_Name1": "伤害减少",
+		"Fun_Name2": "伤害减少百分比",
+		"ItemPrecentAttr": 62
+	},
+	{
+		"Attr": 13,
+		"FightValue": 40,
+		"Fun_Name1": "伤害增加%",
+		"Fun_Name2": "伤害增加%百分比",
+		"ItemPrecentAttr": 63
+	},
+	{
+		"Attr": 14,
+		"FightValue": 40,
+		"Fun_Name1": "伤害减少%",
+		"Fun_Name2": "伤害减少%百分比",
+		"ItemPrecentAttr": 64
+	},
+	{
+		"Attr": 15,
+		"FightValue": 40,
+		"Fun_Name1": "暴击伤害增加",
+		"Fun_Name2": "暴击伤害增加百分比",
+		"ItemPrecentAttr": 65
+	},
+	{
+		"Attr": 16,
+		"FightValue": 40,
+		"Fun_Name1": "暴击伤害减少",
+		"Fun_Name2": "暴击伤害减少百分比",
+		"ItemPrecentAttr": 66
+	},
+	{
+		"Attr": 17,
+		"FightValue": 40,
+		"Fun_Name1": "致命一击概率增加",
+		"Fun_Name2": "致命一击概率增加百分比",
+		"ItemPrecentAttr": 67,
+		"PercentType": 1
+	},
+	{
+		"Attr": 18,
+		"FightValue": 40,
+		"Fun_Name1": "致命一击概率减少",
+		"Fun_Name2": "致命一击概率减少百分比",
+		"ItemPrecentAttr": 68,
+		"PercentType": 1
+	},
+	{
+		"Attr": 19,
+		"FightValue": 40,
+		"Fun_Name1": "PVP伤害增加(万分比)",
+		"Fun_Name2": "PVP伤害增加(万分比)百分比",
+		"ItemPrecentAttr": 69,
+		"PercentType": 1
+	},
+	{
+		"Attr": 20,
+		"FightValue": 40,
+		"Fun_Name1": "PVP伤害减少(万分比)",
+		"Fun_Name2": "PVP伤害减少(万分比)百分比",
+		"ItemPrecentAttr": 70,
+		"PercentType": 1
+	},
+	{
+		"Attr": 21,
+		"FightValue": 40,
+		"Fun_Name1": "PVE伤害增加(万分比)",
+		"Fun_Name2": "PVE伤害增加(万分比)百分比",
+		"ItemPrecentAttr": 71,
+		"PercentType": 1
+	},
+	{
+		"Attr": 22,
+		"FightValue": 40,
+		"Fun_Name1": "PVE伤害减少(万分比)",
+		"Fun_Name2": "PVE伤害减少(万分比)百分比",
+		"ItemPrecentAttr": 72,
+		"PercentType": 1
+	},
+	{
+		"Attr": 23,
+		"FightValue": 40,
+		"Fun_Name1": "额外伤害",
+		"Fun_Name2": "额外伤害百分比",
+		"ItemPrecentAttr": 73
+	},
+	{
+		"Attr": 24,
+		"FightValue": 40,
+		"Fun_Name1": "仙概率增加",
+		"Fun_Name2": "仙概率增加百分比",
+		"ItemPrecentAttr": 74,
+		"PercentType": 1
+	},
+	{
+		"Attr": 25,
+		"FightValue": 40,
+		"Fun_Name1": "仙概率减少",
+		"Fun_Name2": "仙概率减少百分比",
+		"ItemPrecentAttr": 75,
+		"PercentType": 1
+	},
+	{
+		"Attr": 26,
+		"FightValue": 2000,
+		"Fun_Name1": "金攻击",
+		"Fun_Name2": "金攻击百分比",
+		"ItemPrecentAttr": 76
+	},
+	{
+		"Attr": 27,
+		"FightValue": 2000,
+		"Fun_Name1": "金防御",
+		"Fun_Name2": "金防御百分比",
+		"ItemPrecentAttr": 77
+	},
+	{
+		"Attr": 28,
+		"FightValue": 2000,
+		"Fun_Name1": "木攻击",
+		"Fun_Name2": "木攻击百分比",
+		"ItemPrecentAttr": 78
+	},
+	{
+		"Attr": 29,
+		"FightValue": 2000,
+		"Fun_Name1": "木防御",
+		"Fun_Name2": "木防御百分比",
+		"ItemPrecentAttr": 79
+	},
+	{
+		"Attr": 30,
+		"FightValue": 2000,
+		"Fun_Name1": "水攻击",
+		"Fun_Name2": "水攻击百分比",
+		"ItemPrecentAttr": 80
+	},
+	{
+		"Attr": 31,
+		"FightValue": 2000,
+		"Fun_Name1": "水防御",
+		"Fun_Name2": "水防御百分比",
+		"ItemPrecentAttr": 81
+	},
+	{
+		"Attr": 32,
+		"FightValue": 2000,
+		"Fun_Name1": "火攻击",
+		"Fun_Name2": "火攻击百分比",
+		"ItemPrecentAttr": 82
+	},
+	{
+		"Attr": 33,
+		"FightValue": 2000,
+		"Fun_Name1": "火防御",
+		"Fun_Name2": "火防御百分比",
+		"ItemPrecentAttr": 83
+	},
+	{
+		"Attr": 34,
+		"FightValue": 2000,
+		"Fun_Name1": "土攻击",
+		"Fun_Name2": "土攻击百分比",
+		"ItemPrecentAttr": 84
+	},
+	{
+		"Attr": 35,
+		"FightValue": 2000,
+		"Fun_Name1": "土防御",
+		"Fun_Name2": "土防御百分比",
+		"ItemPrecentAttr": 85
+	},
+	{
+		"Attr": 36,
+		"FightValue": 4000,
+		"Fun_Name1": "金伤害加深",
+		"Fun_Name2": "金伤害加深百分比",
+		"ItemPrecentAttr": 86
+	},
+	{
+		"Attr": 37,
+		"FightValue": 4000,
+		"Fun_Name1": "金伤害减免",
+		"Fun_Name2": "金伤害减免百分比",
+		"ItemPrecentAttr": 87
+	},
+	{
+		"Attr": 38,
+		"FightValue": 4000,
+		"Fun_Name1": "木伤害加深",
+		"Fun_Name2": "木伤害加深百分比",
+		"ItemPrecentAttr": 88
+	},
+	{
+		"Attr": 39,
+		"FightValue": 4000,
+		"Fun_Name1": "木伤害减免",
+		"Fun_Name2": "木伤害减免百分比",
+		"ItemPrecentAttr": 89
+	},
+	{
+		"Attr": 40,
+		"FightValue": 4000,
+		"Fun_Name1": "水伤害加深",
+		"Fun_Name2": "水伤害加深百分比",
+		"ItemPrecentAttr": 90
+	},
+	{
+		"Attr": 41,
+		"FightValue": 4000,
+		"Fun_Name1": "水伤害减免",
+		"Fun_Name2": "水伤害减免百分比",
+		"ItemPrecentAttr": 91
+	},
+	{
+		"Attr": 42,
+		"FightValue": 4000,
+		"Fun_Name1": "火伤害加深",
+		"Fun_Name2": "火伤害加深百分比",
+		"ItemPrecentAttr": 92
+	},
+	{
+		"Attr": 43,
+		"FightValue": 4000,
+		"Fun_Name1": "火伤害减免",
+		"Fun_Name2": "火伤害减免百分比",
+		"ItemPrecentAttr": 93
+	},
+	{
+		"Attr": 44,
+		"FightValue": 4000,
+		"Fun_Name1": "土伤害加深",
+		"Fun_Name2": "土伤害加深百分比",
+		"ItemPrecentAttr": 94
+	},
+	{
+		"Attr": 45,
+		"FightValue": 4000,
+		"Fun_Name1": "土伤害减免",
+		"Fun_Name2": "土伤害减免百分比",
+		"ItemPrecentAttr": 95
+	},
+	{
+		"Attr": 46,
+		"FightValue": 10000,
+		"Fun_Name1": "全系攻击",
+		"Fun_Name2": "全系攻击百分比",
+		"ItemPrecentAttr": 96
+	},
+	{
+		"Attr": 47,
+		"FightValue": 10000,
+		"Fun_Name1": "全系防御",
+		"Fun_Name2": "全系防御百分比",
+		"ItemPrecentAttr": 97
+	},
+	{
+		"Attr": 48,
+		"FightValue": 20000,
+		"Fun_Name1": "全系伤害加深",
+		"Fun_Name2": "全系伤害加深百分比",
+		"ItemPrecentAttr": 98
+	},
+	{
+		"Attr": 49,
+		"FightValue": 20000,
+		"Fun_Name1": "全系伤害减免",
+		"Fun_Name2": "全系伤害减免百分比",
+		"ItemPrecentAttr": 99
+	},
+	{
+		"Attr": 51,
+		"Fun_Name1": "生命百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 52,
+		"Fun_Name1": "攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 53,
+		"Fun_Name1": "防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 54,
+		"Fun_Name1": "命中(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 55,
+		"Fun_Name1": "闪避(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 56,
+		"Fun_Name1": "暴击(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 57,
+		"Fun_Name1": "防暴击(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 58,
+		"Fun_Name1": "速度百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 59,
+		"Fun_Name1": "无视防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 60,
+		"Fun_Name1": "减免无视百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 61,
+		"Fun_Name1": "伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 62,
+		"Fun_Name1": "伤害减少百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 63,
+		"Fun_Name1": "伤害增加%百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 64,
+		"Fun_Name1": "伤害减少%百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 65,
+		"Fun_Name1": "暴击伤害增加百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 66,
+		"Fun_Name1": "暴击伤害减少百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 67,
+		"Fun_Name1": "魂概率增加百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 68,
+		"Fun_Name1": "魂概率减少百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 69,
+		"Fun_Name1": "PVP伤害增加(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 70,
+		"Fun_Name1": "PVP伤害减少(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 71,
+		"Fun_Name1": "PVE伤害增加(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 72,
+		"Fun_Name1": "PVE伤害减少(万分比)百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 73,
+		"Fun_Name1": "额外伤害百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 74,
+		"Fun_Name1": "仙概率增加百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 75,
+		"Fun_Name1": "仙概率减少百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 76,
+		"Fun_Name1": "金攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 77,
+		"Fun_Name1": "金防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 78,
+		"Fun_Name1": "木攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 79,
+		"Fun_Name1": "木防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 80,
+		"Fun_Name1": "水攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 81,
+		"Fun_Name1": "水防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 82,
+		"Fun_Name1": "火攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 83,
+		"Fun_Name1": "火防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 84,
+		"Fun_Name1": "土攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 85,
+		"Fun_Name1": "土防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 86,
+		"Fun_Name1": "金伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 87,
+		"Fun_Name1": "金伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 88,
+		"Fun_Name1": "木伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 89,
+		"Fun_Name1": "木伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 90,
+		"Fun_Name1": "水伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 91,
+		"Fun_Name1": "水伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 92,
+		"Fun_Name1": "火伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 93,
+		"Fun_Name1": "火伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 94,
+		"Fun_Name1": "土伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 95,
+		"Fun_Name1": "土伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 96,
+		"Fun_Name1": "全系攻击百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 97,
+		"Fun_Name1": "全系防御百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 98,
+		"Fun_Name1": "全系伤害加深百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 99,
+		"Fun_Name1": "全系伤害减免百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 321,
+		"FightValue": 40,
+		"Fun_Name1": "真实命中",
+		"PercentType": 1
+	},
+	{
+		"Attr": 322,
+		"FightValue": 40,
+		"Fun_Name1": "真实暴击",
+		"PercentType": 1
+	},
+	{
+		"Attr": 323,
+		"FightValue": 20000,
+		"Fun_Name1": "星之力",
+		"Fun_Name2": "星之力百分比",
+		"ItemPrecentAttr": 324
+	},
+	{
+		"Attr": 324,
+		"Fun_Name1": "星之力百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 325,
+		"FightValue": 2000,
+		"Fun_Name1": "星之盾",
+		"Fun_Name2": "星之盾百分比",
+		"ItemPrecentAttr": 326
+	},
+	{
+		"Attr": 326,
+		"Fun_Name1": "星之盾百分比",
+		"PercentType": 1
+	},
+	{
+		"Attr": 327,
+		"FightValue": 20000,
+		"Fun_Name1": "主角星之力"
+	},
+	{
+		"Attr": 328,
+		"FightValue": 2000,
+		"Fun_Name1": "主角星之盾"
+	},
+	{
+		"Attr": 329,
+		"FightValue": 20000,
+		"Fun_Name1": "宠物星之力"
+	},
+	{
+		"Attr": 330,
+		"FightValue": 2000,
+		"Fun_Name1": "宠物星之盾"
+	},
+	{
+		"Attr": 331,
+		"FightValue": 20000,
+		"Fun_Name1": "战神星之力"
+	},
+	{
+		"Attr": 332,
+		"FightValue": 2000,
+		"Fun_Name1": "战神星之盾"
+	},
+	{
+		"Attr": 333,
+		"FightValue": 20000,
+		"Fun_Name1": "英雄星之力"
+	},
+	{
+		"Attr": 334,
+		"FightValue": 2000,
+		"Fun_Name1": "英雄星之盾"
+	},
+	{
+		"Attr": 335,
+		"FightValue": 20000,
+		"Fun_Name1": "异兽星之力"
+	},
+	{
+		"Attr": 336,
+		"FightValue": 2000,
+		"Fun_Name1": "异兽星之盾"
+	},
+	{
+		"Attr": 337,
+		"FightValue": 20000,
+		"Fun_Name1": "神龙星之力"
+	},
+	{
+		"Attr": 338,
+		"FightValue": 2000,
+		"Fun_Name1": "神龙星之盾"
+	},
+	{
+		"Attr": 339,
+		"FightValue": 20000,
+		"Fun_Name1": "偃甲星之力"
+	},
+	{
+		"Attr": 340,
+		"FightValue": 2000,
+		"Fun_Name1": "偃甲星之盾"
+	},
+	{
+		"Attr": 341,
+		"FightValue": 20000,
+		"Fun_Name1": "仙童星之力"
+	},
+	{
+		"Attr": 342,
+		"FightValue": 2000,
+		"Fun_Name1": "仙童星之盾"
+	},
+	{
+		"Attr": 343,
+		"FightValue": 20000,
+		"Fun_Name1": "天仙星之力"
+	},
+	{
+		"Attr": 344,
+		"FightValue": 2000,
+		"Fun_Name1": "天仙星之盾"
+	},
+	{
+		"Attr": 351,
+		"FightValue": 80,
+		"Fun_Name1": "神击概率增加",
+		"Fun_Name2": "神击概率增加百分比（神击百分比）",
+		"ItemPrecentAttr": 353,
+		"PercentType": 1
+	},
+	{
+		"Attr": 352,
+		"FightValue": 80,
+		"Fun_Name1": "神击概率减少（神抗)",
+		"Fun_Name2": "神击概率减少百分比（神抗百分比）",
+		"ItemPrecentAttr": 354,
+		"PercentType": 1
+	},
+	{
+		"Attr": 353,
+		"Fun_Name1": "神击概率增加百分比（神击百分比）",
+		"PercentType": 1
+	},
+	{
+		"Attr": 354,
+		"Fun_Name1": "神击概率减少百分比（神抗百分比）",
+		"PercentType": 1
+	}
+]

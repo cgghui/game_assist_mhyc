@@ -1,0 +1,326 @@
+[
+	{
+		"AttrId": 331311,
+		"Id": 8001,
+		"Name": "集气",
+		"NeedItem": "2252102:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9701:1"
+	},
+	{
+		"AttrId": 331312,
+		"Id": 8001,
+		"Name": "聚神",
+		"NeedItem": "2252102:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9701:2"
+	},
+	{
+		"AttrId": 331313,
+		"Id": 8001,
+		"Name": "养心",
+		"NeedItem": "2252102:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9701:3"
+	},
+	{
+		"AttrId": 331314,
+		"Id": 8001,
+		"Name": "炼魂",
+		"NeedItem": "2252102:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9701:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8002,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9702:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8002,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9702:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8002,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9702:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8002,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9702:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8003,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9703:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8003,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9703:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8003,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9703:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8003,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9703:4"
+	},
+	{
+		"AttrId": 331311,
+		"Id": 8101,
+		"Name": "集气",
+		"NeedItem": "2252102:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9704:1"
+	},
+	{
+		"AttrId": 331312,
+		"Id": 8101,
+		"Name": "聚神",
+		"NeedItem": "2252102:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9704:2"
+	},
+	{
+		"AttrId": 331313,
+		"Id": 8101,
+		"Name": "养心",
+		"NeedItem": "2252102:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9704:3"
+	},
+	{
+		"AttrId": 331314,
+		"Id": 8101,
+		"Name": "炼魂",
+		"NeedItem": "2252102:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9704:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8102,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9705:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8102,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9705:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8102,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9705:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8102,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9705:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8103,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9706:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8103,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9706:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8103,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9706:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8103,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9706:4"
+	},
+	{
+		"AttrId": 331311,
+		"Id": 8201,
+		"Name": "集气",
+		"NeedItem": "2252102:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9707:1"
+	},
+	{
+		"AttrId": 331312,
+		"Id": 8201,
+		"Name": "聚神",
+		"NeedItem": "2252102:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9707:2"
+	},
+	{
+		"AttrId": 331313,
+		"Id": 8201,
+		"Name": "养心",
+		"NeedItem": "2252102:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9707:3"
+	},
+	{
+		"AttrId": 331314,
+		"Id": 8201,
+		"Name": "炼魂",
+		"NeedItem": "2252102:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9707:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8202,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9708:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8202,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9708:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8202,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9708:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8202,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9708:4"
+	},
+	{
+		"AttrId": 331301,
+		"Id": 8203,
+		"Name": "集气",
+		"NeedItem": "2252101:1",
+		"NeedLevel": 10,
+		"RZLevel": 1,
+		"SkillId": "9709:1"
+	},
+	{
+		"AttrId": 331302,
+		"Id": 8203,
+		"Name": "聚神",
+		"NeedItem": "2252101:2",
+		"NeedLevel": 20,
+		"RZLevel": 2,
+		"SkillId": "9709:2"
+	},
+	{
+		"AttrId": 331303,
+		"Id": 8203,
+		"Name": "养心",
+		"NeedItem": "2252101:3",
+		"NeedLevel": 30,
+		"RZLevel": 3,
+		"SkillId": "9709:3"
+	},
+	{
+		"AttrId": 331304,
+		"Id": 8203,
+		"Name": "炼魂",
+		"NeedItem": "2252101:4",
+		"NeedLevel": 40,
+		"RZLevel": 4,
+		"SkillId": "9709:4"
+	}
+]

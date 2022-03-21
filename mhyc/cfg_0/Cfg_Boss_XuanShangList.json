@@ -1,0 +1,60 @@
+[
+	{
+		"MapID": 2351,
+		"MonsterID": 138,
+		"MonsterX": 26,
+		"MonsterY": 21,
+		"Quality": 1,
+		"QualityColor": "#32ff21",
+		"QualityName": "普通",
+		"RewardScore": 10,
+		"XuanShangID": 1
+	},
+	{
+		"MapID": 2352,
+		"MonsterID": 90,
+		"MonsterX": 26,
+		"MonsterY": 21,
+		"Quality": 2,
+		"QualityColor": "#6ce1fc",
+		"QualityName": "精英",
+		"RewardScore": 15,
+		"XuanShangID": 2
+	},
+	{
+		"AllowHelp": 1,
+		"MapID": 2353,
+		"MonsterID": 168,
+		"MonsterX": 26,
+		"MonsterY": 21,
+		"Quality": 3,
+		"QualityColor": "#fa72f8",
+		"QualityName": "稀有",
+		"RewardScore": 20,
+		"XuanShangID": 3
+	},
+	{
+		"AllowHelp": 1,
+		"MapID": 2354,
+		"MonsterID": 189,
+		"MonsterX": 26,
+		"MonsterY": 21,
+		"Quality": 4,
+		"QualityColor": "#ff933d",
+		"QualityName": "史诗",
+		"RewardScore": 25,
+		"XuanShangID": 4
+	},
+	{
+		"AllowHelp": 1,
+		"MapID": 2355,
+		"MonsterID": 150,
+		"MonsterX": 26,
+		"MonsterY": 21,
+		"Quality": 5,
+		"QualityColor": "#ff4242",
+		"QualityName": "传说",
+		"RewardScore": 30,
+		"XuanShangID": 5
+	}
+]

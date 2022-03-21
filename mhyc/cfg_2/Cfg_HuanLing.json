@@ -1,0 +1,55 @@
+[
+	{
+		"AttrId": 3000001,
+		"Devour": 2070151,
+		"Id": 1,
+		"Name": "庚金镇守",
+		"SkinId": 1601101,
+		"Tittle": "hltx_1.png",
+		"Weapon": 1
+	},
+	{
+		"AttrId": 3000002,
+		"Devour": 2070152,
+		"Id": 2,
+		"Name": "乙木镇守",
+		"PrevHLId": 1,
+		"SkinId": 1601301,
+		"Tittle": "hltx_2.png",
+		"Unlock": "2:15",
+		"Weapon": 2
+	},
+	{
+		"AttrId": 3000003,
+		"Devour": 2070153,
+		"Id": 3,
+		"Name": "癸水镇守",
+		"PrevHLId": 2,
+		"SkinId": 1601501,
+		"Tittle": "hltx_3.png",
+		"Unlock": "2:30",
+		"Weapon": 3
+	},
+	{
+		"AttrId": 3000004,
+		"Devour": 2070154,
+		"Id": 4,
+		"Name": "炎火镇守",
+		"PrevHLId": 3,
+		"SkinId": 1601701,
+		"Tittle": "hltx_4.png",
+		"Unlock": "2:45",
+		"Weapon": 4
+	},
+	{
+		"AttrId": 3000005,
+		"Devour": 2070155,
+		"Id": 5,
+		"Name": "戊土镇守",
+		"PrevHLId": 4,
+		"SkinId": 1601901,
+		"Tittle": "hltx_5.png",
+		"Unlock": "2:60",
+		"Weapon": 5
+	}
+]

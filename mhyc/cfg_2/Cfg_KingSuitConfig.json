@@ -1,0 +1,14 @@
+[
+	{
+		"CfgKey": "KingWingStarCount",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "KingWingSwitchTime",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "KingWingLastTime",
+		"CfgValue": "5"
+	}
+]

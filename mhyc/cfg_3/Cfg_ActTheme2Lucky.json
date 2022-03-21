@@ -1,0 +1,682 @@
+[
+	{
+		"ActId": 26221,
+		"Id": 2622101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 26221,
+		"Id": 2622111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 27121,
+		"Id": 2712111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 27921,
+		"Id": 2792111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 28921,
+		"Id": 2892111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 29921,
+		"Id": 2992111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 30821,
+		"Id": 3082111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 31721,
+		"Id": 3172111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362101,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 1
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362102,
+		"LuckyMax": 10,
+		"LuckyMin": 6,
+		"LuckyProb": 200,
+		"Type": 1
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362103,
+		"LuckyMax": 15,
+		"LuckyMin": 11,
+		"LuckyProb": 300,
+		"Type": 1
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362104,
+		"LuckyMax": 19,
+		"LuckyMin": 16,
+		"LuckyProb": 500,
+		"Type": 1
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362105,
+		"LuckyMax": 999,
+		"LuckyMin": 20,
+		"LuckyProb": 10000,
+		"Type": 1
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362106,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 2
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362107,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 2
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362108,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 2
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362109,
+		"LuckyMax": 5,
+		"LuckyProb": 100,
+		"Type": 3
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362110,
+		"LuckyMax": 9,
+		"LuckyMin": 6,
+		"LuckyProb": 500,
+		"Type": 3
+	},
+	{
+		"ActId": 33621,
+		"Id": 3362111,
+		"LuckyMax": 999,
+		"LuckyMin": 10,
+		"LuckyProb": 10000,
+		"Type": 3
+	}
+]

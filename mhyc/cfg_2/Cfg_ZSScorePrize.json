@@ -1,0 +1,37 @@
+[
+	{
+		"CounterType": 1,
+		"ID": 1,
+		"Param": 1,
+		"Prize": 102,
+		"PrizeName": "赛季首胜奖励"
+	},
+	{
+		"CounterType": 1,
+		"ID": 11,
+		"Param": 3,
+		"Prize": 103,
+		"PrizeName": "赛季3胜奖励"
+	},
+	{
+		"CounterType": 1,
+		"ID": 12,
+		"Param": 10,
+		"Prize": 104,
+		"PrizeName": "赛季10胜奖励"
+	},
+	{
+		"CounterType": 2,
+		"ID": 21,
+		"Param": 5,
+		"Prize": 105,
+		"PrizeName": "赛季参赛5场奖励"
+	},
+	{
+		"CounterType": 2,
+		"ID": 22,
+		"Param": 15,
+		"Prize": 106,
+		"PrizeName": "赛季参赛15场奖励"
+	}
+]

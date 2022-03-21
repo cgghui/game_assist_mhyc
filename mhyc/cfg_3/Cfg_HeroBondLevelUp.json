@@ -1,0 +1,206 @@
+[
+	{
+		"AttrId": 3500101,
+		"BondId": 1,
+		"Level": 1
+	},
+	{
+		"AttrId": 3500102,
+		"BondId": 1,
+		"ExpMax": 100,
+		"ItemData": "2080302:1",
+		"Level": 2
+	},
+	{
+		"AttrId": 3500103,
+		"BondId": 1,
+		"ExpMax": 300,
+		"ItemData": "2080302:2",
+		"Level": 3
+	},
+	{
+		"AttrId": 3500104,
+		"BondId": 1,
+		"ExpMax": 500,
+		"ItemData": "2080302:3",
+		"Level": 4
+	},
+	{
+		"AttrId": 3500105,
+		"BondId": 1,
+		"ExpMax": 700,
+		"ItemData": "2080302:4",
+		"Level": 5
+	},
+	{
+		"AttrId": 3500106,
+		"BondId": 1,
+		"ExpMax": 900,
+		"ItemData": "2080302:5",
+		"Level": 6
+	},
+	{
+		"AttrId": 3500107,
+		"BondId": 1,
+		"ExpMax": 1100,
+		"ItemData": "2080302:6",
+		"Level": 7
+	},
+	{
+		"AttrId": 3500108,
+		"BondId": 1,
+		"ExpMax": 1300,
+		"ItemData": "2080302:7",
+		"Level": 8
+	},
+	{
+		"AttrId": 3500109,
+		"BondId": 1,
+		"ExpMax": 1500,
+		"ItemData": "2080302:8",
+		"Level": 9
+	},
+	{
+		"AttrId": 3500110,
+		"BondId": 1,
+		"ExpMax": 1700,
+		"ItemData": "2080302:9",
+		"Level": 10
+	},
+	{
+		"AttrId": 3500101,
+		"BondId": 2,
+		"Level": 1
+	},
+	{
+		"AttrId": 3500102,
+		"BondId": 2,
+		"ExpMax": 100,
+		"ItemData": "2080301:1",
+		"Level": 2
+	},
+	{
+		"AttrId": 3500103,
+		"BondId": 2,
+		"ExpMax": 300,
+		"ItemData": "2080301:2",
+		"Level": 3
+	},
+	{
+		"AttrId": 3500104,
+		"BondId": 2,
+		"ExpMax": 500,
+		"ItemData": "2080301:3",
+		"Level": 4
+	},
+	{
+		"AttrId": 3500105,
+		"BondId": 2,
+		"ExpMax": 700,
+		"ItemData": "2080301:4",
+		"Level": 5
+	},
+	{
+		"AttrId": 3500106,
+		"BondId": 2,
+		"ExpMax": 900,
+		"ItemData": "2080301:5",
+		"Level": 6
+	},
+	{
+		"AttrId": 3500107,
+		"BondId": 2,
+		"ExpMax": 1100,
+		"ItemData": "2080301:6",
+		"Level": 7
+	},
+	{
+		"AttrId": 3500108,
+		"BondId": 2,
+		"ExpMax": 1300,
+		"ItemData": "2080301:7",
+		"Level": 8
+	},
+	{
+		"AttrId": 3500109,
+		"BondId": 2,
+		"ExpMax": 1500,
+		"ItemData": "2080301:8",
+		"Level": 9
+	},
+	{
+		"AttrId": 3500110,
+		"BondId": 2,
+		"ExpMax": 1700,
+		"ItemData": "2080301:9",
+		"Level": 10
+	},
+	{
+		"AttrId": 3500101,
+		"BondId": 3,
+		"Level": 1
+	},
+	{
+		"AttrId": 3500102,
+		"BondId": 3,
+		"ExpMax": 100,
+		"ItemData": "2080303:1",
+		"Level": 2
+	},
+	{
+		"AttrId": 3500103,
+		"BondId": 3,
+		"ExpMax": 300,
+		"ItemData": "2080303:2",
+		"Level": 3
+	},
+	{
+		"AttrId": 3500104,
+		"BondId": 3,
+		"ExpMax": 500,
+		"ItemData": "2080303:3",
+		"Level": 4
+	},
+	{
+		"AttrId": 3500105,
+		"BondId": 3,
+		"ExpMax": 700,
+		"ItemData": "2080303:4",
+		"Level": 5
+	},
+	{
+		"AttrId": 3500106,
+		"BondId": 3,
+		"ExpMax": 900,
+		"ItemData": "2080303:5",
+		"Level": 6
+	},
+	{
+		"AttrId": 3500107,
+		"BondId": 3,
+		"ExpMax": 1100,
+		"ItemData": "2080303:6",
+		"Level": 7
+	},
+	{
+		"AttrId": 3500108,
+		"BondId": 3,
+		"ExpMax": 1300,
+		"ItemData": "2080303:7",
+		"Level": 8
+	},
+	{
+		"AttrId": 3500109,
+		"BondId": 3,
+		"ExpMax": 1500,
+		"ItemData": "2080303:8",
+		"Level": 9
+	},
+	{
+		"AttrId": 3500110,
+		"BondId": 3,
+		"ExpMax": 1700,
+		"ItemData": "2080303:9",
+		"Level": 10
+	}
+]

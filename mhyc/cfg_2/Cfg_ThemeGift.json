@@ -1,0 +1,69 @@
+[
+	{
+		"AniResType": 1,
+		"Btn_Desc": "30元抢购",
+		"CostNum": 30,
+		"CostType": 2,
+		"GiveType": 1,
+		"GoodID": 3001,
+		"GoodName": "千万战力",
+		"Icon": 20003,
+		"ItemStr": "2150009:1|820:1|2200253:1|2250303:5|3:100000",
+		"Price": 100,
+		"TemplateId": 5
+	},
+	{
+		"AniResType": 1,
+		"Btn_Desc": "50元抢购",
+		"CostNum": 50,
+		"CostType": 2,
+		"GiveType": 1,
+		"GoodID": 3002,
+		"GoodName": "百万元宝",
+		"Icon": 20004,
+		"ItemStr": "2150008:1|801:1|2200254:1|2250303:10|2:1888",
+		"Price": 200,
+		"TemplateId": 3
+	},
+	{
+		"Btn_Desc": "98抢购",
+		"CostNum": 98,
+		"CostType": 2,
+		"GiveType": 1,
+		"GoodID": 3003,
+		"GoodName": "无尽愿望",
+		"Icon": 20005,
+		"ItemStr": "2150007:1|2200255:1|2050104:1|2010004:10|2:2888|501:2",
+		"Price": 500,
+		"TemplateId": 4,
+		"TemplateRes": "0:0:6752"
+	},
+	{
+		"AniResType": 1,
+		"Btn_Desc": "198元抢购",
+		"CostNum": 198,
+		"CostType": 2,
+		"Desc1": "赠送价值66666仙玉的道具",
+		"Desc2": "充值可计入累计充值与Svip",
+		"GiveType": 1,
+		"GoodID": 3004,
+		"GoodName": "排行礼包",
+		"Icon": 20001,
+		"ItemStr": "2200256:1|2200401:5|2200841:1|2200101:100|2:2888",
+		"Price": 500,
+		"TemplateId": 1
+	},
+	{
+		"AniResType": 1,
+		"Btn_Desc": "超值购买",
+		"CostNum": 198,
+		"CostType": 2,
+		"GiveType": 2,
+		"GoodID": 3005,
+		"GoodName": "限时礼包",
+		"Icon": 20001,
+		"ItemStr": "502:5|2010004:10|2010003:1",
+		"Price": 500,
+		"TemplateId": 2
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_zhanlihufu",
+		"DesPic1": "img_gg_zhanlihufu",
+		"FuncId": 11185,
+		"IconPic": "img_banner_zlhf",
+		"IconPic1": "img_banner_zlhf",
+		"Id": 1,
+		"Sort": 3,
+		"Value": 5000
+	},
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_zhaocaipixiu",
+		"DesPic1": "img_gg_zhaocaipixiu",
+		"FuncId": 11184,
+		"IconPic": "img_banner_zcpx",
+		"IconPic1": "img_banner_zcpx",
+		"Id": 2,
+		"Sort": 4,
+		"Value": 4000
+	},
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_alading",
+		"DesPic1": "img_gg_alading",
+		"FuncId": 11186,
+		"IconPic": "img_banner_aldsd",
+		"IconPic1": "img_banner_aldsd",
+		"Id": 3,
+		"Sort": 5,
+		"Value": 3000
+	},
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_tequanka",
+		"DesPic1": "img_gg_tequanka",
+		"FuncId": 509,
+		"IconPic": "img_banner_tqk",
+		"IconPic1": "img_banner_tqk",
+		"Id": 4,
+		"Sort": 1,
+		"Value": 3000
+	},
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_tequanka",
+		"DesPic1": "img_gg_tequanka",
+		"FuncId": 510,
+		"IconPic": "img_banner_tqk",
+		"IconPic1": "img_banner_tqk",
+		"Id": 5,
+		"Sort": 1,
+		"Value": 6000
+	},
+	{
+		"BgPic": "bg_banner01",
+		"BgPic1": "bg_banner_chongbangleichong",
+		"DesPic": "img_gg_shouchong",
+		"DesPic1": "img_gg_shouchong",
+		"FuncId": 116,
+		"IconPic": "img_banner_swk",
+		"IconPic1": "img_banner_swk",
+		"Id": 6,
+		"Sort": 2,
+		"Value": 8000
+	}
+]

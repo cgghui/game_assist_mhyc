@@ -1,0 +1,31 @@
+[
+	{
+		"NameIcon": 83001,
+		"SkinId": 20001,
+		"TongLingCount": 99
+	},
+	{
+		"Level": 1,
+		"NameIcon": 83002,
+		"SkinId": 20002,
+		"TongLingCount": 198
+	},
+	{
+		"Level": 2,
+		"NameIcon": 83005,
+		"SkinId": 20005,
+		"TongLingCount": 297
+	},
+	{
+		"Level": 3,
+		"NameIcon": 83004,
+		"SkinId": 20004,
+		"TongLingCount": 396
+	},
+	{
+		"Level": 4,
+		"NameIcon": 83003,
+		"SkinId": 20003,
+		"TongLingCount": 495
+	}
+]

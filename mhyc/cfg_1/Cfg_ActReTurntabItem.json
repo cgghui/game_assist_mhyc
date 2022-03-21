@@ -1,0 +1,98 @@
+[
+	{
+		"ActId": 701,
+		"Id": 1,
+		"ItemId": 2,
+		"ItemNum": 88800,
+		"OddClient": "0.10%",
+		"SortId": 1
+	},
+	{
+		"ActId": 701,
+		"Id": 2,
+		"ItemId": 2,
+		"ItemNum": 100,
+		"OddClient": "25.00%",
+		"SortId": 2
+	},
+	{
+		"ActId": 701,
+		"Id": 3,
+		"ItemId": 2,
+		"ItemNum": 3000,
+		"OddClient": "1.80%",
+		"SortId": 3
+	},
+	{
+		"ActId": 701,
+		"Id": 4,
+		"ItemId": 2,
+		"ItemNum": 5000,
+		"OddClient": "1.20%",
+		"SortId": 4
+	},
+	{
+		"ActId": 701,
+		"Id": 5,
+		"ItemId": 2,
+		"ItemNum": 500,
+		"OddClient": "10.00%",
+		"SortId": 5
+	},
+	{
+		"ActId": 701,
+		"Id": 6,
+		"ItemId": 2,
+		"ItemNum": 1500,
+		"OddClient": "4.00%",
+		"SortId": 6
+	},
+	{
+		"ActId": 701,
+		"Id": 7,
+		"ItemId": 2,
+		"ItemNum": 28000,
+		"OddClient": "0.30%",
+		"SortId": 7
+	},
+	{
+		"ActId": 701,
+		"Id": 8,
+		"ItemId": 2,
+		"ItemNum": 200,
+		"OddClient": "25.00%",
+		"SortId": 8
+	},
+	{
+		"ActId": 701,
+		"Id": 9,
+		"ItemId": 2,
+		"ItemNum": 2000,
+		"OddClient": "2.00%",
+		"SortId": 9
+	},
+	{
+		"ActId": 701,
+		"Id": 10,
+		"ItemId": 2,
+		"ItemNum": 8000,
+		"OddClient": "0.60%",
+		"SortId": 10
+	},
+	{
+		"ActId": 701,
+		"Id": 11,
+		"ItemId": 2,
+		"ItemNum": 300,
+		"OddClient": "24.00%",
+		"SortId": 11
+	},
+	{
+		"ActId": 701,
+		"Id": 12,
+		"ItemId": 2,
+		"ItemNum": 1000,
+		"OddClient": "6.00%",
+		"SortId": 12
+	}
+]

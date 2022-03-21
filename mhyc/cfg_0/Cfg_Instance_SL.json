@@ -1,0 +1,22 @@
+[
+	{
+		"FuncId": 11152,
+		"Id": 1,
+		"LimitTimesId": 33002,
+		"MapId": 2321,
+		"MonsterX": 28,
+		"MonsterY": 28,
+		"Name": "经验副本",
+		"Unlock": "2:5"
+	},
+	{
+		"FuncId": 11152,
+		"Id": 2,
+		"LimitTimesId": 33003,
+		"MapId": 2322,
+		"MonsterX": 28,
+		"MonsterY": 24,
+		"Name": "金币副本",
+		"Unlock": "2:10"
+	}
+]

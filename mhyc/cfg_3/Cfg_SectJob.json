@@ -1,0 +1,50 @@
+[
+	{
+		"Horse": 111001,
+		"Id": 1,
+		"IncreaseID": 101,
+		"IncreaseLevel": 7,
+		"MaxNum": 1,
+		"Name": "宗主",
+		"Suit": 100001,
+		"Title": 125001,
+		"Weapon": 114001,
+		"Wing": 112001
+	},
+	{
+		"Id": 2,
+		"IncreaseID": 102,
+		"IncreaseLevel": 6,
+		"MaxNum": 1,
+		"Name": "惜败宗主",
+		"Title": 125002
+	},
+	{
+		"Id": 3,
+		"IncreaseID": 103,
+		"IncreaseLevel": 6,
+		"MaxNum": 1,
+		"Name": "尊者",
+		"Title": 125003
+	},
+	{
+		"Id": 4,
+		"IncreaseID": 104,
+		"IncreaseLevel": 5,
+		"MaxNum": 2,
+		"Name": "长老",
+		"Title": 125004
+	},
+	{
+		"Id": 5,
+		"IncreaseID": 105,
+		"IncreaseLevel": 4,
+		"MaxNum": 3,
+		"Name": "护法",
+		"Title": 125005
+	},
+	{
+		"Id": 6,
+		"Name": "成员"
+	}
+]

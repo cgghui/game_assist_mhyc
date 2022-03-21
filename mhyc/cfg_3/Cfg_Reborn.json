@@ -1,0 +1,575 @@
+[
+	{
+		"NeedItemCount": 1,
+		"NeedItemId": 400
+	},
+	{
+		"Attr": 20001,
+		"Break": 1,
+		"Detail": "开启-仙术、多人BOSS",
+		"NeedItemCount": 1,
+		"NeedItemId": 400,
+		"Reborn": 1,
+		"SkillId": 2401
+	},
+	{
+		"Attr": 20002,
+		"Break": 2,
+		"Detail": "开启-日常、BOSS之家",
+		"NeedItemCount": 1,
+		"NeedItemId": 400,
+		"Reborn": 1
+	},
+	{
+		"Attr": 20003,
+		"Break": 3,
+		"Detail": "排行榜",
+		"NeedItemCount": 1,
+		"NeedItemId": 400,
+		"Reborn": 1
+	},
+	{
+		"Attr": 20004,
+		"Break": 4,
+		"Detail": "开启-试炼副本",
+		"NeedItemCount": 1,
+		"NeedItemId": 400,
+		"Reborn": 1
+	},
+	{
+		"Attr": 20005,
+		"Break": 5,
+		"Detail": "开启-护送神女、仙缘",
+		"NeedItemCount": 1,
+		"NeedItemId": 400,
+		"Reborn": 1
+	},
+	{
+		"Attr": 20006,
+		"Break": 1,
+		"Detail": "宝石",
+		"NeedItemCount": 1,
+		"NeedItemId": 401,
+		"Reborn": 2,
+		"SkillId": 2402
+	},
+	{
+		"Attr": 20007,
+		"Break": 2,
+		"Detail": "开启-仙宗声望",
+		"NeedItemCount": 1,
+		"NeedItemId": 401,
+		"Reborn": 2
+	},
+	{
+		"Attr": 20008,
+		"Break": 3,
+		"Detail": "开启-天仙、寻仙阁",
+		"NeedItemCount": 1,
+		"NeedItemId": 401,
+		"Reborn": 2
+	},
+	{
+		"Attr": 20009,
+		"Break": 4,
+		"Detail": "开启-挖宝、技能天赋",
+		"NeedItemCount": 1,
+		"NeedItemId": 401,
+		"Reborn": 2
+	},
+	{
+		"Attr": 20010,
+		"Break": 5,
+		"Detail": "开启-寻龙点穴",
+		"NeedItemCount": 1,
+		"NeedItemId": 401,
+		"Reborn": 2
+	},
+	{
+		"Attr": 20011,
+		"Break": 1,
+		"Detail": "开启-天仙塔、凶兽",
+		"NeedItemCount": 1,
+		"NeedItemId": 402,
+		"Reborn": 3,
+		"SkillId": 2403
+	},
+	{
+		"Attr": 20012,
+		"Break": 2,
+		"Detail": "开启-羽翼、炼体",
+		"NeedItemCount": 1,
+		"NeedItemId": 402,
+		"Reborn": 3
+	},
+	{
+		"Attr": 20013,
+		"Break": 3,
+		"Detail": "开启-天仙仙阶",
+		"NeedItemCount": 1,
+		"NeedItemId": 402,
+		"Reborn": 3
+	},
+	{
+		"Attr": 20014,
+		"Break": 4,
+		"Detail": "开启-炼器、悬赏BOSS",
+		"NeedItemCount": 1,
+		"NeedItemId": 402,
+		"Reborn": 3
+	},
+	{
+		"Attr": 20015,
+		"Break": 5,
+		"Detail": "开启-战神、镀金",
+		"NeedItemCount": 1,
+		"NeedItemId": 402,
+		"Reborn": 3
+	},
+	{
+		"Attr": 20016,
+		"Break": 1,
+		"Detail": "开启-战神塔",
+		"NeedItemCount": 1,
+		"NeedItemId": 403,
+		"Reborn": 4,
+		"SkillId": 2404
+	},
+	{
+		"Attr": 20017,
+		"Break": 2,
+		"Detail": "开启-战神战骑、多宝阁",
+		"NeedItemCount": 1,
+		"NeedItemId": 403,
+		"Reborn": 4
+	},
+	{
+		"Attr": 20018,
+		"Break": 3,
+		"Detail": "开启-法宝、精炼",
+		"NeedItemCount": 1,
+		"NeedItemId": 403,
+		"Reborn": 4
+	},
+	{
+		"Attr": 20019,
+		"Break": 4,
+		"Detail": "开启-神阶、宠物图腾",
+		"NeedItemCount": 1,
+		"NeedItemId": 403,
+		"Reborn": 4
+	},
+	{
+		"Attr": 20020,
+		"Break": 5,
+		"Detail": "开启-宠物第三出战位",
+		"NeedItemCount": 1,
+		"NeedItemId": 403,
+		"Reborn": 4
+	},
+	{
+		"Attr": 20021,
+		"Break": 1,
+		"Detail": "开启-仙童",
+		"NeedItemCount": 1,
+		"NeedItemId": 404,
+		"Reborn": 5
+	},
+	{
+		"Attr": 20022,
+		"Break": 2,
+		"Detail": "开启-仙童丹药",
+		"NeedItemCount": 1,
+		"NeedItemId": 404,
+		"Reborn": 5,
+		"SkillId": 2405
+	},
+	{
+		"Attr": 20023,
+		"Break": 3,
+		"Detail": "开启-仙童玩具",
+		"NeedItemCount": 1,
+		"NeedItemId": 404,
+		"Reborn": 5
+	},
+	{
+		"Attr": 20024,
+		"Break": 4,
+		"Detail": "开启-天仙合体",
+		"NeedItemCount": 1,
+		"NeedItemId": 404,
+		"Reborn": 5
+	},
+	{
+		"Attr": 20025,
+		"Break": 5,
+		"Detail": "开启-信物",
+		"NeedItemCount": 1,
+		"NeedItemId": 404,
+		"Reborn": 5
+	},
+	{
+		"Attr": 20026,
+		"Break": 1,
+		"Detail": "开启-天仙装备镶嵌",
+		"NeedItemCount": 1,
+		"NeedItemId": 405,
+		"Reborn": 6
+	},
+	{
+		"Attr": 20027,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 405,
+		"Reborn": 6
+	},
+	{
+		"Attr": 20028,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 405,
+		"Reborn": 6,
+		"SkillId": 2406
+	},
+	{
+		"Attr": 20029,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 405,
+		"Reborn": 6
+	},
+	{
+		"Attr": 20030,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 405,
+		"Reborn": 6
+	},
+	{
+		"Attr": 20031,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 406,
+		"Reborn": 7
+	},
+	{
+		"Attr": 20032,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 406,
+		"Reborn": 7
+	},
+	{
+		"Attr": 20033,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 406,
+		"Reborn": 7
+	},
+	{
+		"Attr": 20034,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 406,
+		"Reborn": 7,
+		"SkillId": 2407
+	},
+	{
+		"Attr": 20035,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 406,
+		"Reborn": 7
+	},
+	{
+		"Attr": 20036,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 407,
+		"Reborn": 8
+	},
+	{
+		"Attr": 20037,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 407,
+		"Reborn": 8
+	},
+	{
+		"Attr": 20038,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 407,
+		"Reborn": 8
+	},
+	{
+		"Attr": 20039,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 407,
+		"Reborn": 8
+	},
+	{
+		"Attr": 20040,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 407,
+		"Reborn": 8
+	},
+	{
+		"Attr": 20041,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 408,
+		"Reborn": 9
+	},
+	{
+		"Attr": 20042,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 408,
+		"Reborn": 9
+	},
+	{
+		"Attr": 20043,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 408,
+		"Reborn": 9
+	},
+	{
+		"Attr": 20044,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 408,
+		"Reborn": 9
+	},
+	{
+		"Attr": 20045,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 408,
+		"Reborn": 9,
+		"SkillId": 2408
+	},
+	{
+		"Attr": 20046,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 409,
+		"Reborn": 10
+	},
+	{
+		"Attr": 20047,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 409,
+		"Reborn": 10
+	},
+	{
+		"Attr": 20048,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 409,
+		"Reborn": 10
+	},
+	{
+		"Attr": 20049,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 409,
+		"Reborn": 10
+	},
+	{
+		"Attr": 20050,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 409,
+		"Reborn": 10
+	},
+	{
+		"Attr": 20051,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 410,
+		"Reborn": 11
+	},
+	{
+		"Attr": 20052,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 410,
+		"Reborn": 11
+	},
+	{
+		"Attr": 20053,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 410,
+		"Reborn": 11
+	},
+	{
+		"Attr": 20054,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 410,
+		"Reborn": 11
+	},
+	{
+		"Attr": 20055,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 410,
+		"Reborn": 11,
+		"SkillId": 2409
+	},
+	{
+		"Attr": 20056,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 411,
+		"Reborn": 12
+	},
+	{
+		"Attr": 20057,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 411,
+		"Reborn": 12
+	},
+	{
+		"Attr": 20058,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 411,
+		"Reborn": 12
+	},
+	{
+		"Attr": 20059,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 411,
+		"Reborn": 12
+	},
+	{
+		"Attr": 20060,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 411,
+		"Reborn": 12
+	},
+	{
+		"Attr": 20061,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 412,
+		"Reborn": 13
+	},
+	{
+		"Attr": 20062,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 412,
+		"Reborn": 13
+	},
+	{
+		"Attr": 20063,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 412,
+		"Reborn": 13
+	},
+	{
+		"Attr": 20064,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 412,
+		"Reborn": 13
+	},
+	{
+		"Attr": 20065,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 412,
+		"Reborn": 13
+	},
+	{
+		"Attr": 20066,
+		"Break": 1,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 413,
+		"Reborn": 14
+	},
+	{
+		"Attr": 20067,
+		"Break": 2,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 413,
+		"Reborn": 14
+	},
+	{
+		"Attr": 20068,
+		"Break": 3,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 413,
+		"Reborn": 14
+	},
+	{
+		"Attr": 20069,
+		"Break": 4,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 413,
+		"Reborn": 14
+	},
+	{
+		"Attr": 20070,
+		"Break": 5,
+		"Detail": "敬请期待",
+		"NeedItemCount": 1,
+		"NeedItemId": 413,
+		"Reborn": 14
+	}
+]

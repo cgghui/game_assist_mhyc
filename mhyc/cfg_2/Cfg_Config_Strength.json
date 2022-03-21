@@ -1,0 +1,22 @@
+[
+	{
+		"CfgKey": "EquipStrengthCoinBase",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "EquipStrengthCoinUp",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "EquipStrengthStoneBase",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "EquipStrengthStoneUp",
+		"CfgValue": "0.3"
+	},
+	{
+		"CfgKey": "EquipStrengthMax",
+		"CfgValue": "0:30|1:100|2:200|3:250|4:300|5:350|6:400|7:450|8:500|9:550|10:600|11:650|12:700|13:750|14:800"
+	}
+]

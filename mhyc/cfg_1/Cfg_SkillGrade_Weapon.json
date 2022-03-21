@@ -1,0 +1,1202 @@
+[
+	{
+		"AttrId": 251101,
+		"Client_ID": "157_1_1",
+		"IconID": 616001,
+		"Level": 1,
+		"NeedItem": "2250204:0",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251102,
+		"Client_ID": "157_1_2",
+		"IconID": 616001,
+		"Level": 2,
+		"NeedItem": "2250204:1",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251103,
+		"Client_ID": "157_1_3",
+		"IconID": 616001,
+		"Level": 3,
+		"NeedItem": "2250204:1",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251104,
+		"Client_ID": "157_1_4",
+		"IconID": 616001,
+		"Level": 4,
+		"NeedItem": "2250204:1",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251105,
+		"Client_ID": "157_1_5",
+		"IconID": 616001,
+		"Level": 5,
+		"NeedItem": "2250204:2",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251106,
+		"Client_ID": "157_1_6",
+		"IconID": 616001,
+		"Level": 6,
+		"NeedItem": "2250204:2",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251107,
+		"Client_ID": "157_1_7",
+		"IconID": 616001,
+		"Level": 7,
+		"NeedItem": "2250204:2",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251108,
+		"Client_ID": "157_1_8",
+		"IconID": 616001,
+		"Level": 8,
+		"NeedItem": "2250204:3",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251109,
+		"Client_ID": "157_1_9",
+		"IconID": 616001,
+		"Level": 9,
+		"NeedItem": "2250204:3",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251110,
+		"Client_ID": "157_1_10",
+		"IconID": 616001,
+		"Level": 10,
+		"NeedItem": "2250204:3",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251111,
+		"Client_ID": "157_1_11",
+		"IconID": 616001,
+		"Level": 11,
+		"NeedItem": "2250204:5",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251112,
+		"Client_ID": "157_1_12",
+		"IconID": 616001,
+		"Level": 12,
+		"NeedItem": "2250204:5",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251113,
+		"Client_ID": "157_1_13",
+		"IconID": 616001,
+		"Level": 13,
+		"NeedItem": "2250204:5",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251114,
+		"Client_ID": "157_1_14",
+		"IconID": 616001,
+		"Level": 14,
+		"NeedItem": "2250204:5",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251115,
+		"Client_ID": "157_1_15",
+		"IconID": 616001,
+		"Level": 15,
+		"NeedItem": "2250204:5",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251116,
+		"Client_ID": "157_1_16",
+		"IconID": 616001,
+		"Level": 16,
+		"NeedItem": "2250204:6",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251117,
+		"Client_ID": "157_1_17",
+		"IconID": 616001,
+		"Level": 17,
+		"NeedItem": "2250204:6",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251118,
+		"Client_ID": "157_1_18",
+		"IconID": 616001,
+		"Level": 18,
+		"NeedItem": "2250204:6",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251119,
+		"Client_ID": "157_1_19",
+		"IconID": 616001,
+		"Level": 19,
+		"NeedItem": "2250204:6",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251120,
+		"Client_ID": "157_1_20",
+		"IconID": 616001,
+		"Level": 20,
+		"NeedItem": "2250204:6",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251121,
+		"Client_ID": "157_1_21",
+		"IconID": 616001,
+		"Level": 21,
+		"NeedItem": "2250204:8",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251122,
+		"Client_ID": "157_1_22",
+		"IconID": 616001,
+		"Level": 22,
+		"NeedItem": "2250204:8",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251123,
+		"Client_ID": "157_1_23",
+		"IconID": 616001,
+		"Level": 23,
+		"NeedItem": "2250204:8",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251124,
+		"Client_ID": "157_1_24",
+		"IconID": 616001,
+		"Level": 24,
+		"NeedItem": "2250204:8",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251125,
+		"Client_ID": "157_1_25",
+		"IconID": 616001,
+		"Level": 25,
+		"NeedItem": "2250204:8",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251126,
+		"Client_ID": "157_1_26",
+		"IconID": 616001,
+		"Level": 26,
+		"NeedItem": "2250204:10",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251127,
+		"Client_ID": "157_1_27",
+		"IconID": 616001,
+		"Level": 27,
+		"NeedItem": "2250204:10",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251128,
+		"Client_ID": "157_1_28",
+		"IconID": 616001,
+		"Level": 28,
+		"NeedItem": "2250204:10",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251129,
+		"Client_ID": "157_1_29",
+		"IconID": 616001,
+		"Level": 29,
+		"NeedItem": "2250204:10",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251130,
+		"Client_ID": "157_1_30",
+		"IconID": 616001,
+		"Level": 30,
+		"NeedItem": "2250204:10",
+		"Part": 1,
+		"SkillName": "宝剑诛仙",
+		"Type": 157
+	},
+	{
+		"AttrId": 251201,
+		"Client_ID": "157_2_1",
+		"IconID": 616002,
+		"Level": 1,
+		"NeedItem": "2250204:0",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251202,
+		"Client_ID": "157_2_2",
+		"IconID": 616002,
+		"Level": 2,
+		"NeedItem": "2250204:1",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251203,
+		"Client_ID": "157_2_3",
+		"IconID": 616002,
+		"Level": 3,
+		"NeedItem": "2250204:1",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251204,
+		"Client_ID": "157_2_4",
+		"IconID": 616002,
+		"Level": 4,
+		"NeedItem": "2250204:1",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251205,
+		"Client_ID": "157_2_5",
+		"IconID": 616002,
+		"Level": 5,
+		"NeedItem": "2250204:2",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251206,
+		"Client_ID": "157_2_6",
+		"IconID": 616002,
+		"Level": 6,
+		"NeedItem": "2250204:2",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251207,
+		"Client_ID": "157_2_7",
+		"IconID": 616002,
+		"Level": 7,
+		"NeedItem": "2250204:2",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251208,
+		"Client_ID": "157_2_8",
+		"IconID": 616002,
+		"Level": 8,
+		"NeedItem": "2250204:3",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251209,
+		"Client_ID": "157_2_9",
+		"IconID": 616002,
+		"Level": 9,
+		"NeedItem": "2250204:3",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251210,
+		"Client_ID": "157_2_10",
+		"IconID": 616002,
+		"Level": 10,
+		"NeedItem": "2250204:3",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251211,
+		"Client_ID": "157_2_11",
+		"IconID": 616002,
+		"Level": 11,
+		"NeedItem": "2250204:5",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251212,
+		"Client_ID": "157_2_12",
+		"IconID": 616002,
+		"Level": 12,
+		"NeedItem": "2250204:5",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251213,
+		"Client_ID": "157_2_13",
+		"IconID": 616002,
+		"Level": 13,
+		"NeedItem": "2250204:5",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251214,
+		"Client_ID": "157_2_14",
+		"IconID": 616002,
+		"Level": 14,
+		"NeedItem": "2250204:5",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251215,
+		"Client_ID": "157_2_15",
+		"IconID": 616002,
+		"Level": 15,
+		"NeedItem": "2250204:5",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251216,
+		"Client_ID": "157_2_16",
+		"IconID": 616002,
+		"Level": 16,
+		"NeedItem": "2250204:6",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251217,
+		"Client_ID": "157_2_17",
+		"IconID": 616002,
+		"Level": 17,
+		"NeedItem": "2250204:6",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251218,
+		"Client_ID": "157_2_18",
+		"IconID": 616002,
+		"Level": 18,
+		"NeedItem": "2250204:6",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251219,
+		"Client_ID": "157_2_19",
+		"IconID": 616002,
+		"Level": 19,
+		"NeedItem": "2250204:6",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251220,
+		"Client_ID": "157_2_20",
+		"IconID": 616002,
+		"Level": 20,
+		"NeedItem": "2250204:6",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251221,
+		"Client_ID": "157_2_21",
+		"IconID": 616002,
+		"Level": 21,
+		"NeedItem": "2250204:8",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251222,
+		"Client_ID": "157_2_22",
+		"IconID": 616002,
+		"Level": 22,
+		"NeedItem": "2250204:8",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251223,
+		"Client_ID": "157_2_23",
+		"IconID": 616002,
+		"Level": 23,
+		"NeedItem": "2250204:8",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251224,
+		"Client_ID": "157_2_24",
+		"IconID": 616002,
+		"Level": 24,
+		"NeedItem": "2250204:8",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251225,
+		"Client_ID": "157_2_25",
+		"IconID": 616002,
+		"Level": 25,
+		"NeedItem": "2250204:8",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251226,
+		"Client_ID": "157_2_26",
+		"IconID": 616002,
+		"Level": 26,
+		"NeedItem": "2250204:10",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251227,
+		"Client_ID": "157_2_27",
+		"IconID": 616002,
+		"Level": 27,
+		"NeedItem": "2250204:10",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251228,
+		"Client_ID": "157_2_28",
+		"IconID": 616002,
+		"Level": 28,
+		"NeedItem": "2250204:10",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251229,
+		"Client_ID": "157_2_29",
+		"IconID": 616002,
+		"Level": 29,
+		"NeedItem": "2250204:10",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251230,
+		"Client_ID": "157_2_30",
+		"IconID": 616002,
+		"Level": 30,
+		"NeedItem": "2250204:10",
+		"Part": 2,
+		"SkillName": "圣光之剑",
+		"Type": 157
+	},
+	{
+		"AttrId": 251301,
+		"Client_ID": "157_3_1",
+		"IconID": 616004,
+		"Level": 1,
+		"NeedItem": "2250204:0",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251302,
+		"Client_ID": "157_3_2",
+		"IconID": 616004,
+		"Level": 2,
+		"NeedItem": "2250204:1",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251303,
+		"Client_ID": "157_3_3",
+		"IconID": 616004,
+		"Level": 3,
+		"NeedItem": "2250204:1",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251304,
+		"Client_ID": "157_3_4",
+		"IconID": 616004,
+		"Level": 4,
+		"NeedItem": "2250204:1",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251305,
+		"Client_ID": "157_3_5",
+		"IconID": 616004,
+		"Level": 5,
+		"NeedItem": "2250204:2",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251306,
+		"Client_ID": "157_3_6",
+		"IconID": 616004,
+		"Level": 6,
+		"NeedItem": "2250204:2",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251307,
+		"Client_ID": "157_3_7",
+		"IconID": 616004,
+		"Level": 7,
+		"NeedItem": "2250204:2",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251308,
+		"Client_ID": "157_3_8",
+		"IconID": 616004,
+		"Level": 8,
+		"NeedItem": "2250204:3",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251309,
+		"Client_ID": "157_3_9",
+		"IconID": 616004,
+		"Level": 9,
+		"NeedItem": "2250204:3",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251310,
+		"Client_ID": "157_3_10",
+		"IconID": 616004,
+		"Level": 10,
+		"NeedItem": "2250204:3",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251311,
+		"Client_ID": "157_3_11",
+		"IconID": 616004,
+		"Level": 11,
+		"NeedItem": "2250204:5",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251312,
+		"Client_ID": "157_3_12",
+		"IconID": 616004,
+		"Level": 12,
+		"NeedItem": "2250204:5",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251313,
+		"Client_ID": "157_3_13",
+		"IconID": 616004,
+		"Level": 13,
+		"NeedItem": "2250204:5",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251314,
+		"Client_ID": "157_3_14",
+		"IconID": 616004,
+		"Level": 14,
+		"NeedItem": "2250204:5",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251315,
+		"Client_ID": "157_3_15",
+		"IconID": 616004,
+		"Level": 15,
+		"NeedItem": "2250204:5",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251316,
+		"Client_ID": "157_3_16",
+		"IconID": 616004,
+		"Level": 16,
+		"NeedItem": "2250204:6",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251317,
+		"Client_ID": "157_3_17",
+		"IconID": 616004,
+		"Level": 17,
+		"NeedItem": "2250204:6",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251318,
+		"Client_ID": "157_3_18",
+		"IconID": 616004,
+		"Level": 18,
+		"NeedItem": "2250204:6",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251319,
+		"Client_ID": "157_3_19",
+		"IconID": 616004,
+		"Level": 19,
+		"NeedItem": "2250204:6",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251320,
+		"Client_ID": "157_3_20",
+		"IconID": 616004,
+		"Level": 20,
+		"NeedItem": "2250204:6",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251321,
+		"Client_ID": "157_3_21",
+		"IconID": 616004,
+		"Level": 21,
+		"NeedItem": "2250204:8",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251322,
+		"Client_ID": "157_3_22",
+		"IconID": 616004,
+		"Level": 22,
+		"NeedItem": "2250204:8",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251323,
+		"Client_ID": "157_3_23",
+		"IconID": 616004,
+		"Level": 23,
+		"NeedItem": "2250204:8",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251324,
+		"Client_ID": "157_3_24",
+		"IconID": 616004,
+		"Level": 24,
+		"NeedItem": "2250204:8",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251325,
+		"Client_ID": "157_3_25",
+		"IconID": 616004,
+		"Level": 25,
+		"NeedItem": "2250204:8",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251326,
+		"Client_ID": "157_3_26",
+		"IconID": 616004,
+		"Level": 26,
+		"NeedItem": "2250204:10",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251327,
+		"Client_ID": "157_3_27",
+		"IconID": 616004,
+		"Level": 27,
+		"NeedItem": "2250204:10",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251328,
+		"Client_ID": "157_3_28",
+		"IconID": 616004,
+		"Level": 28,
+		"NeedItem": "2250204:10",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251329,
+		"Client_ID": "157_3_29",
+		"IconID": 616004,
+		"Level": 29,
+		"NeedItem": "2250204:10",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251330,
+		"Client_ID": "157_3_30",
+		"IconID": 616004,
+		"Level": 30,
+		"NeedItem": "2250204:10",
+		"Part": 3,
+		"SkillName": "星云光波",
+		"Type": 157
+	},
+	{
+		"AttrId": 251401,
+		"Client_ID": "157_4_1",
+		"IconID": 616003,
+		"Level": 1,
+		"NeedItem": "2250204:0",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251402,
+		"Client_ID": "157_4_2",
+		"IconID": 616003,
+		"Level": 2,
+		"NeedItem": "2250204:1",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251403,
+		"Client_ID": "157_4_3",
+		"IconID": 616003,
+		"Level": 3,
+		"NeedItem": "2250204:1",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251404,
+		"Client_ID": "157_4_4",
+		"IconID": 616003,
+		"Level": 4,
+		"NeedItem": "2250204:1",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251405,
+		"Client_ID": "157_4_5",
+		"IconID": 616003,
+		"Level": 5,
+		"NeedItem": "2250204:2",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251406,
+		"Client_ID": "157_4_6",
+		"IconID": 616003,
+		"Level": 6,
+		"NeedItem": "2250204:2",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251407,
+		"Client_ID": "157_4_7",
+		"IconID": 616003,
+		"Level": 7,
+		"NeedItem": "2250204:2",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251408,
+		"Client_ID": "157_4_8",
+		"IconID": 616003,
+		"Level": 8,
+		"NeedItem": "2250204:3",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251409,
+		"Client_ID": "157_4_9",
+		"IconID": 616003,
+		"Level": 9,
+		"NeedItem": "2250204:3",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251410,
+		"Client_ID": "157_4_10",
+		"IconID": 616003,
+		"Level": 10,
+		"NeedItem": "2250204:3",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251411,
+		"Client_ID": "157_4_11",
+		"IconID": 616003,
+		"Level": 11,
+		"NeedItem": "2250204:5",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251412,
+		"Client_ID": "157_4_12",
+		"IconID": 616003,
+		"Level": 12,
+		"NeedItem": "2250204:5",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251413,
+		"Client_ID": "157_4_13",
+		"IconID": 616003,
+		"Level": 13,
+		"NeedItem": "2250204:5",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251414,
+		"Client_ID": "157_4_14",
+		"IconID": 616003,
+		"Level": 14,
+		"NeedItem": "2250204:5",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251415,
+		"Client_ID": "157_4_15",
+		"IconID": 616003,
+		"Level": 15,
+		"NeedItem": "2250204:5",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251416,
+		"Client_ID": "157_4_16",
+		"IconID": 616003,
+		"Level": 16,
+		"NeedItem": "2250204:6",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251417,
+		"Client_ID": "157_4_17",
+		"IconID": 616003,
+		"Level": 17,
+		"NeedItem": "2250204:6",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251418,
+		"Client_ID": "157_4_18",
+		"IconID": 616003,
+		"Level": 18,
+		"NeedItem": "2250204:6",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251419,
+		"Client_ID": "157_4_19",
+		"IconID": 616003,
+		"Level": 19,
+		"NeedItem": "2250204:6",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251420,
+		"Client_ID": "157_4_20",
+		"IconID": 616003,
+		"Level": 20,
+		"NeedItem": "2250204:6",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251421,
+		"Client_ID": "157_4_21",
+		"IconID": 616003,
+		"Level": 21,
+		"NeedItem": "2250204:8",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251422,
+		"Client_ID": "157_4_22",
+		"IconID": 616003,
+		"Level": 22,
+		"NeedItem": "2250204:8",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251423,
+		"Client_ID": "157_4_23",
+		"IconID": 616003,
+		"Level": 23,
+		"NeedItem": "2250204:8",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251424,
+		"Client_ID": "157_4_24",
+		"IconID": 616003,
+		"Level": 24,
+		"NeedItem": "2250204:8",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251425,
+		"Client_ID": "157_4_25",
+		"IconID": 616003,
+		"Level": 25,
+		"NeedItem": "2250204:8",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251426,
+		"Client_ID": "157_4_26",
+		"IconID": 616003,
+		"Level": 26,
+		"NeedItem": "2250204:10",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251427,
+		"Client_ID": "157_4_27",
+		"IconID": 616003,
+		"Level": 27,
+		"NeedItem": "2250204:10",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251428,
+		"Client_ID": "157_4_28",
+		"IconID": 616003,
+		"Level": 28,
+		"NeedItem": "2250204:10",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251429,
+		"Client_ID": "157_4_29",
+		"IconID": 616003,
+		"Level": 29,
+		"NeedItem": "2250204:10",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	},
+	{
+		"AttrId": 251430,
+		"Client_ID": "157_4_30",
+		"IconID": 616003,
+		"Level": 30,
+		"NeedItem": "2250204:10",
+		"Part": 4,
+		"SkillName": "火龙冲云",
+		"Type": 157
+	}
+]

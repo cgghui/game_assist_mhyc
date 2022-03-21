@@ -1,0 +1,62 @@
+[
+	{
+		"ActId": 701,
+		"Id": 1,
+		"MoneyPoint": 60,
+		"Prize": "2:300"
+	},
+	{
+		"ActId": 701,
+		"Id": 2,
+		"MoneyPoint": 150,
+		"Prize": "2:750"
+	},
+	{
+		"ActId": 701,
+		"Id": 3,
+		"MoneyPoint": 240,
+		"Prize": "2:1200"
+	},
+	{
+		"ActId": 701,
+		"Id": 4,
+		"MoneyPoint": 450,
+		"Prize": "2:2250"
+	},
+	{
+		"ActId": 701,
+		"Id": 5,
+		"MoneyPoint": 900,
+		"Prize": "2:4500"
+	},
+	{
+		"ActId": 701,
+		"Id": 6,
+		"MoneyPoint": 1500,
+		"Prize": "2:7500"
+	},
+	{
+		"ActId": 701,
+		"Id": 7,
+		"MoneyPoint": 2400,
+		"Prize": "2:12000"
+	},
+	{
+		"ActId": 701,
+		"Id": 8,
+		"MoneyPoint": 3900,
+		"Prize": "2:19500"
+	},
+	{
+		"ActId": 701,
+		"Id": 9,
+		"MoneyPoint": 6000,
+		"Prize": "2:30000"
+	},
+	{
+		"ActId": 701,
+		"Id": 10,
+		"MoneyPoint": 9000,
+		"Prize": "2:45000"
+	}
+]

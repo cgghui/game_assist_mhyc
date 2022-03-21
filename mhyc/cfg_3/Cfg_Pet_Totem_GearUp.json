@@ -1,0 +1,422 @@
+[
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 10000,
+		"Gear": 1,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 20000,
+		"Gear": 2,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 30000,
+		"Gear": 3,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 40000,
+		"Gear": 4,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 50000,
+		"Gear": 5,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 60000,
+		"Gear": 6,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 70000,
+		"Gear": 7,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 80000,
+		"Gear": 8,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 90000,
+		"Gear": 9,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 100000,
+		"Gear": 10,
+		"NeedNum": 2,
+		"Quality": 7
+	}
+]

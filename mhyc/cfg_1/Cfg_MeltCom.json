@@ -1,0 +1,22 @@
+[
+	{
+		"CoinNum": 100,
+		"Quality": 1,
+		"StoneNum": 1
+	},
+	{
+		"CoinNum": 200,
+		"Quality": 2,
+		"StoneNum": 2
+	},
+	{
+		"CoinNum": 300,
+		"Quality": 3,
+		"StoneNum": 3
+	},
+	{
+		"CoinNum": 400,
+		"Quality": 4,
+		"StoneNum": 4
+	}
+]

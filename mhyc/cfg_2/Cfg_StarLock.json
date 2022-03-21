@@ -1,0 +1,37 @@
+[
+	{
+		"BackGround": "xt_zhujue1",
+		"Gear": 1,
+		"Id": 1,
+		"Type": 1
+	},
+	{
+		"BackGround": "xt_chongwu1",
+		"Gear": 1,
+		"Id": 6,
+		"Type": 2
+	},
+	{
+		"BackGround": "xt_tianxian1",
+		"Gear": 1,
+		"Id": 11,
+		"Type": 9
+	},
+	{
+		"BackGround": "xt_zhanshen1",
+		"Gear": 1,
+		"Id": 16,
+		"Type": 3
+	},
+	{
+		"BackGround": "xt_xiantong1",
+		"Gear": 1,
+		"Id": 21,
+		"Type": 8
+	},
+	{
+		"Gear": 1,
+		"Id": 1001,
+		"Type": 101
+	}
+]

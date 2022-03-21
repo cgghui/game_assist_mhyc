@@ -1,0 +1,134 @@
+[
+	{
+		"Attr": 200801,
+		"EquipLevel": 1,
+		"Level": 1
+	},
+	{
+		"Attr": 200802,
+		"EquipLevel": 2,
+		"Level": 2
+	},
+	{
+		"Attr": 200803,
+		"EquipLevel": 3,
+		"Level": 3
+	},
+	{
+		"Attr": 200804,
+		"EquipLevel": 4,
+		"Level": 4
+	},
+	{
+		"Anim": 4601,
+		"Attr": 200805,
+		"EquipLevel": 5,
+		"Level": 5,
+		"WeaponAnim": 4605
+	},
+	{
+		"Anim": 4601,
+		"Attr": 200806,
+		"EquipLevel": 6,
+		"Level": 6,
+		"WeaponAnim": 4605
+	},
+	{
+		"Anim": 4601,
+		"Attr": 200807,
+		"EquipLevel": 7,
+		"Level": 7,
+		"WeaponAnim": 4605
+	},
+	{
+		"Anim": 4601,
+		"Attr": 200808,
+		"EquipLevel": 8,
+		"Level": 8,
+		"WeaponAnim": 4605
+	},
+	{
+		"Anim": 4601,
+		"Attr": 200809,
+		"EquipLevel": 9,
+		"Level": 9,
+		"WeaponAnim": 4605
+	},
+	{
+		"Anim": 4602,
+		"Attr": 200810,
+		"EquipLevel": 10,
+		"Level": 10,
+		"WeaponAnim": 4606
+	},
+	{
+		"Anim": 4602,
+		"Attr": 200811,
+		"EquipLevel": 11,
+		"Level": 11,
+		"WeaponAnim": 4606
+	},
+	{
+		"Anim": 4602,
+		"Attr": 200812,
+		"EquipLevel": 12,
+		"Level": 12,
+		"WeaponAnim": 4606
+	},
+	{
+		"Anim": 4602,
+		"Attr": 200813,
+		"EquipLevel": 13,
+		"Level": 13,
+		"WeaponAnim": 4606
+	},
+	{
+		"Anim": 4602,
+		"Attr": 200814,
+		"EquipLevel": 14,
+		"Level": 14,
+		"WeaponAnim": 4606
+	},
+	{
+		"Anim": 4603,
+		"Attr": 200815,
+		"EquipLevel": 15,
+		"Level": 15,
+		"WeaponAnim": 4607
+	},
+	{
+		"Anim": 4603,
+		"Attr": 200816,
+		"EquipLevel": 16,
+		"Level": 16,
+		"WeaponAnim": 4607
+	},
+	{
+		"Anim": 4603,
+		"Attr": 200817,
+		"EquipLevel": 17,
+		"Level": 17,
+		"WeaponAnim": 4607
+	},
+	{
+		"Anim": 4603,
+		"Attr": 200818,
+		"EquipLevel": 18,
+		"Level": 18,
+		"WeaponAnim": 4607
+	},
+	{
+		"Anim": 4603,
+		"Attr": 200819,
+		"EquipLevel": 19,
+		"Level": 19,
+		"WeaponAnim": 4607
+	},
+	{
+		"Anim": 4604,
+		"Attr": 200820,
+		"EquipLevel": 20,
+		"Level": 20,
+		"WeaponAnim": 4608
+	}
+]

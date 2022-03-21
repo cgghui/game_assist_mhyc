@@ -1,0 +1,64 @@
+[
+	{
+		"Quality": 1,
+		"StoneItem": "2041001:5",
+		"Typ": 1
+	},
+	{
+		"Quality": 2,
+		"StoneItem": "2041001:10",
+		"Typ": 1
+	},
+	{
+		"Quality": 3,
+		"StoneItem": "2041001:25",
+		"Typ": 1
+	},
+	{
+		"Quality": 4,
+		"StoneItem": "2041001:50",
+		"Typ": 1
+	},
+	{
+		"CoinItem": "3:10000",
+		"Quality": 1,
+		"StoneItem": "2041002:10",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:20000",
+		"Quality": 2,
+		"StoneItem": "2041002:20",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:40000",
+		"Quality": 3,
+		"StoneItem": "2041002:40",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:80000",
+		"Quality": 4,
+		"StoneItem": "2041002:80",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:160000",
+		"Quality": 5,
+		"StoneItem": "2041002:160",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:320000",
+		"Quality": 6,
+		"StoneItem": "2041002:320",
+		"Typ": 2
+	},
+	{
+		"CoinItem": "3:640000",
+		"Quality": 7,
+		"StoneItem": "2041002:640",
+		"Typ": 2
+	}
+]

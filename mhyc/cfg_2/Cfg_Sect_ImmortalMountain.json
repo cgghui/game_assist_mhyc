@@ -1,0 +1,56 @@
+[
+	{
+		"Addition": 5000,
+		"Id": 1,
+		"Interval": 30,
+		"Items": "7:300",
+		"Name": "不周山",
+		"Pos1": 3000,
+		"Pos2": 1500,
+		"Pos3": 1000,
+		"Prestige": 10
+	},
+	{
+		"Addition": 3000,
+		"Id": 2,
+		"Interval": 30,
+		"Items": "7:300",
+		"Name": "昆仑山",
+		"Pos1": 3000,
+		"Pos2": 1500,
+		"Pos3": 1000,
+		"Prestige": 10
+	},
+	{
+		"Addition": 2000,
+		"Id": 3,
+		"Interval": 30,
+		"Items": "7:300",
+		"Name": "蓬莱山",
+		"Pos1": 3000,
+		"Pos2": 1500,
+		"Pos3": 1000,
+		"Prestige": 10
+	},
+	{
+		"Addition": 1000,
+		"Id": 4,
+		"Interval": 30,
+		"Items": "7:300",
+		"Name": "瀛洲山",
+		"Pos1": 3000,
+		"Pos2": 1500,
+		"Pos3": 1000,
+		"Prestige": 10
+	},
+	{
+		"Id": 5,
+		"Interval": 30,
+		"Items": "7:300",
+		"Name": "方丈山",
+		"Pos1": 3000,
+		"Pos2": 1500,
+		"Pos3": 1000,
+		"Prestige": 10
+	}
+]

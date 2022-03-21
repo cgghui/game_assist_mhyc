@@ -1,0 +1,82 @@
+[
+	{
+		"Desc": "角色防御增加{0}",
+		"Max_Level": 100,
+		"Name": "初定终生",
+		"SkillIcon": "633001",
+		"SkillId": 1001,
+		"SkillIncId": 651,
+		"Skill_Type": 1,
+		"Unlock": "1:10"
+	},
+	{
+		"Desc": "角色无视防御增加{0}",
+		"Max_Level": 100,
+		"Name": "心心相印",
+		"SkillIcon": "633002",
+		"SkillId": 1002,
+		"SkillIncId": 652,
+		"Skill_Type": 1,
+		"Unlock": "1:20"
+	},
+	{
+		"Desc": "角色减免无视增加{0}",
+		"Max_Level": 100,
+		"Name": "永结同心",
+		"SkillIcon": "633003",
+		"SkillId": 1003,
+		"SkillIncId": 653,
+		"Skill_Type": 1,
+		"Unlock": "1:30"
+	},
+	{
+		"Desc": "角色攻击增加{0}",
+		"Max_Level": 100,
+		"Name": "百年好合",
+		"SkillIcon": "633004",
+		"SkillId": 1004,
+		"SkillIncId": 654,
+		"Skill_Type": 1,
+		"Unlock": "1:40"
+	},
+	{
+		"Desc": "角色伤害加深增加{0}",
+		"Max_Level": 100,
+		"Name": "缘定三生",
+		"SkillIcon": "633011",
+		"SkillId": 1005,
+		"SkillIncId": 655,
+		"Skill_Type": 2,
+		"Unlock": "2:1"
+	},
+	{
+		"Desc": "角色伤害减免增加{0}",
+		"Max_Level": 100,
+		"Name": "佳偶天成",
+		"SkillIcon": "633012",
+		"SkillId": 1006,
+		"SkillIncId": 656,
+		"Skill_Type": 2,
+		"Unlock": "2:2"
+	},
+	{
+		"Desc": "角色生命增加{0}",
+		"Max_Level": 100,
+		"Name": "天作之合",
+		"SkillIcon": "633013",
+		"SkillId": 1007,
+		"SkillIncId": 657,
+		"Skill_Type": 2,
+		"Unlock": "2:3"
+	},
+	{
+		"Desc": "角色攻击增加{0}",
+		"Max_Level": 100,
+		"Name": "旷世情缘",
+		"SkillIcon": "633014",
+		"SkillId": 1008,
+		"SkillIncId": 658,
+		"Skill_Type": 2,
+		"Unlock": "2:4"
+	}
+]

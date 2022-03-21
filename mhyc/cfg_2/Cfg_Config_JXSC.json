@@ -1,0 +1,34 @@
+[
+	{
+		"CfgKey": "JXSCDayJoinTimes",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "JXSCPlayerMaxNum",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "JXSCSilverkeyMaxNum",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "JXSCGoldenkeyMaxNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "JXSCBoxDropId",
+		"CfgValue": "11"
+	},
+	{
+		"CfgKey": "Prizes",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "JXSCInterval",
+		"CfgValue": "180"
+	},
+	{
+		"CfgKey": "JXSCBaoxiangId",
+		"CfgValue": "3500"
+	}
+]

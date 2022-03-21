@@ -1,0 +1,11 @@
+[
+	{
+		"AddBuyInternal": 100,
+		"AddBuyMax": 200,
+		"AddBuyRate": 500,
+		"BuyMaxExp": 31500,
+		"GoodsId": 905,
+		"Loop": 31,
+		"Propor": 10
+	}
+]

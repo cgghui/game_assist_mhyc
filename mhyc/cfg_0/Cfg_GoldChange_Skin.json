@@ -1,0 +1,65 @@
+[
+	{
+		"Aid": 724,
+		"Item": 2030110,
+		"Quality": 5,
+		"RedId": 41032,
+		"SkinId": 1116111
+	},
+	{
+		"Aid": 724,
+		"Item": 2030105,
+		"Quality": 6,
+		"RedId": 41027,
+		"SkinId": 1116106
+	},
+	{
+		"Aid": 724,
+		"Item": 2030101,
+		"Quality": 6,
+		"RedId": 41028,
+		"SkinId": 1116102
+	},
+	{
+		"Aid": 724,
+		"Item": 2030107,
+		"Quality": 6,
+		"RedId": 41029,
+		"SkinId": 1116108
+	},
+	{
+		"Aid": 724,
+		"Item": 2030108,
+		"Quality": 7,
+		"RedId": 41030,
+		"SkinId": 1116109
+	},
+	{
+		"Aid": 724,
+		"Item": 2030109,
+		"Quality": 7,
+		"RedId": 41031,
+		"SkinId": 1116110
+	},
+	{
+		"Aid": 724,
+		"Item": 2030111,
+		"Quality": 7,
+		"RedId": 41033,
+		"SkinId": 1116112
+	},
+	{
+		"Aid": 724,
+		"Item": 2030112,
+		"Quality": 7,
+		"RedId": 41034,
+		"SkinId": 1116113
+	},
+	{
+		"Aid": 724,
+		"Item": 2030113,
+		"Quality": 8,
+		"RedId": 41035,
+		"SkinId": 1116114
+	}
+]

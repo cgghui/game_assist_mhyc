@@ -1,0 +1,112 @@
+[
+	{
+		"VipLevel": 1
+	},
+	{
+		"VipLevel": 2
+	},
+	{
+		"VipLevel": 3
+	},
+	{
+		"VipLevel": 4
+	},
+	{
+		"VipLevel": 5
+	},
+	{
+		"VipLevel": 6
+	},
+	{
+		"VipLevel": 7
+	},
+	{
+		"VipLevel": 8
+	},
+	{
+		"VipLevel": 9
+	},
+	{
+		"VipLevel": 10
+	},
+	{
+		"ExtOpenTimes": 5,
+		"VipLevel": 11
+	},
+	{
+		"ExtOpenTimes": 10,
+		"VipLevel": 12
+	},
+	{
+		"ExtOpenTimes": 15,
+		"VipLevel": 13
+	},
+	{
+		"ExtOpenTimes": 20,
+		"VipLevel": 14
+	},
+	{
+		"ExtOpenTimes": 25,
+		"VipLevel": 15
+	},
+	{
+		"ExtOpenTimes": 30,
+		"VipLevel": 16
+	},
+	{
+		"ExtOpenTimes": 35,
+		"VipLevel": 17
+	},
+	{
+		"ExtOpenTimes": 40,
+		"VipLevel": 18
+	},
+	{
+		"ExtOpenTimes": 45,
+		"VipLevel": 19
+	},
+	{
+		"ExtOpenTimes": 50,
+		"VipLevel": 20
+	},
+	{
+		"ExtOpenTimes": 55,
+		"VipLevel": 21
+	},
+	{
+		"ExtOpenTimes": 60,
+		"VipLevel": 22
+	},
+	{
+		"ExtOpenTimes": 65,
+		"VipLevel": 23
+	},
+	{
+		"ExtOpenTimes": 70,
+		"VipLevel": 24
+	},
+	{
+		"ExtOpenTimes": 75,
+		"VipLevel": 25
+	},
+	{
+		"ExtOpenTimes": 80,
+		"VipLevel": 26
+	},
+	{
+		"ExtOpenTimes": 80,
+		"VipLevel": 27
+	},
+	{
+		"ExtOpenTimes": 80,
+		"VipLevel": 28
+	},
+	{
+		"ExtOpenTimes": 80,
+		"VipLevel": 29
+	},
+	{
+		"ExtOpenTimes": 80,
+		"VipLevel": 30
+	}
+]

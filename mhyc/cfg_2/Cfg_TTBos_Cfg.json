@@ -1,0 +1,30 @@
+[
+	{
+		"CfgKey": "ACTSHOW",
+		"CfgValue": "1484"
+	},
+	{
+		"CfgKey": "TtBossIspId",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "TtBossMapId",
+		"CfgValue": "2611"
+	},
+	{
+		"CfgKey": "TtBossAuctionId",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "TtBossCloseDuration",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "TtBoss_Buff1",
+		"CfgValue": "8111"
+	},
+	{
+		"CfgKey": "TtBoss_Buff2",
+		"CfgValue": "8112"
+	}
+]

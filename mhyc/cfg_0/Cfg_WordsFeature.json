@@ -1,0 +1,104 @@
+[
+	{
+		"Quality": 1
+	},
+	{
+		"Quality": 2
+	},
+	{
+		"Quality": 3
+	},
+	{
+		"Quality": 4
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "101",
+		"Quality": 5,
+		"Typ": 1
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "106",
+		"Quality": 5,
+		"Typ": 2
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "106",
+		"Quality": 5,
+		"Typ": 3
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "121",
+		"Quality": 5,
+		"Typ": 4
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "121",
+		"Quality": 5,
+		"Typ": 5
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "101",
+		"Quality": 6,
+		"Typ": 1
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "106",
+		"Quality": 6,
+		"Typ": 2
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "106",
+		"Quality": 6,
+		"Typ": 3
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "121",
+		"Quality": 6,
+		"Typ": 4
+	},
+	{
+		"FeatureCount": 1,
+		"FeaturePrefab": "121",
+		"Quality": 6,
+		"Typ": 5
+	},
+	{
+		"FeatureCount": 2,
+		"FeaturePrefab": "101|102",
+		"Quality": 7,
+		"Typ": 1
+	},
+	{
+		"FeatureCount": 2,
+		"FeaturePrefab": "106|107",
+		"Quality": 7,
+		"Typ": 2
+	},
+	{
+		"FeatureCount": 2,
+		"FeaturePrefab": "106|107",
+		"Quality": 7,
+		"Typ": 3
+	},
+	{
+		"FeatureCount": 2,
+		"FeaturePrefab": "121|122",
+		"Quality": 7,
+		"Typ": 4
+	},
+	{
+		"FeatureCount": 2,
+		"FeaturePrefab": "121|122",
+		"Quality": 7,
+		"Typ": 5
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"Prize1": 1011,
+		"Prize2": 1021,
+		"Prize3": 1031,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"Prize1": 1012,
+		"Prize2": 1022,
+		"Prize3": 1032,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"Prize1": 1013,
+		"Prize2": 1023,
+		"Prize3": 1033,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"Prize1": 1014,
+		"Prize2": 1024,
+		"Prize3": 1034,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"Prize1": 1015,
+		"Prize2": 1025,
+		"Prize3": 1035,
+		"RankMax": 20,
+		"RankMin": 11
+	},
+	{
+		"Prize1": 1016,
+		"Prize2": 1026,
+		"Prize3": 1036,
+		"RankMax": 50,
+		"RankMin": 21
+	},
+	{
+		"Prize1": 1017,
+		"Prize2": 1027,
+		"Prize3": 1037,
+		"RankMax": 999,
+		"RankMin": 51
+	}
+]

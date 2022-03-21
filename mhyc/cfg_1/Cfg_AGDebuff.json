@@ -1,0 +1,71 @@
+[
+	{
+		"Id": 1
+	},
+	{
+		"Id": 2,
+		"MaxPassNum": 10,
+		"MinPassNum": 1,
+		"WeakPre": 500
+	},
+	{
+		"Id": 3,
+		"MaxPassNum": 20,
+		"MinPassNum": 11,
+		"WeakPre": 1000
+	},
+	{
+		"Id": 4,
+		"MaxPassNum": 30,
+		"MinPassNum": 21,
+		"WeakPre": 1500
+	},
+	{
+		"Id": 5,
+		"MaxPassNum": 40,
+		"MinPassNum": 31,
+		"WeakPre": 2000
+	},
+	{
+		"Id": 6,
+		"MaxPassNum": 50,
+		"MinPassNum": 41,
+		"WeakPre": 2500
+	},
+	{
+		"Id": 7,
+		"MaxPassNum": 60,
+		"MinPassNum": 51,
+		"WeakPre": 3000
+	},
+	{
+		"Id": 8,
+		"MaxPassNum": 70,
+		"MinPassNum": 61,
+		"WeakPre": 3500
+	},
+	{
+		"Id": 9,
+		"MaxPassNum": 80,
+		"MinPassNum": 71,
+		"WeakPre": 4000
+	},
+	{
+		"Id": 10,
+		"MaxPassNum": 90,
+		"MinPassNum": 81,
+		"WeakPre": 4500
+	},
+	{
+		"Id": 11,
+		"MaxPassNum": 100,
+		"MinPassNum": 91,
+		"WeakPre": 5000
+	},
+	{
+		"Id": 12,
+		"MaxPassNum": 99999999,
+		"MinPassNum": 100,
+		"WeakPre": 6500
+	}
+]

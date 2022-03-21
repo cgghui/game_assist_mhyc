@@ -1,0 +1,30 @@
+[
+	{
+		"Cost": "2:3000",
+		"FailPrize": 5000,
+		"Id": 1,
+		"Name": "冠军",
+		"WinPrize": 511
+	},
+	{
+		"Cost": "2:2000",
+		"FailPrize": 5000,
+		"Id": 2,
+		"Name": "决赛",
+		"WinPrize": 512
+	},
+	{
+		"Cost": "2:1000",
+		"FailPrize": 5000,
+		"Id": 3,
+		"Name": "4强",
+		"WinPrize": 513
+	},
+	{
+		"Cost": "2:500",
+		"FailPrize": 5000,
+		"Id": 4,
+		"Name": "8强",
+		"WinPrize": 514
+	}
+]

@@ -1,0 +1,112 @@
+[
+	{
+		"AttrId": 801,
+		"Desc": "挂机经验收益增加1%，总收益加成1%",
+		"FamilyLevel": 1,
+		"Icon": 1,
+		"Id": 1,
+		"IncreaseId": "1:1"
+	},
+	{
+		"AttrId": 802,
+		"Desc": "挂机金钱收益增加2%，总收益加成2%",
+		"FamilyLevel": 2,
+		"Icon": 2,
+		"Id": 2,
+		"IncreaseId": "1:1|2:1"
+	},
+	{
+		"AttrId": 803,
+		"Desc": "挂机经验收益增加2%，总收益加成3%",
+		"FamilyLevel": 3,
+		"Icon": 1,
+		"Id": 3,
+		"IncreaseId": "1:2|2:1"
+	},
+	{
+		"AttrId": 804,
+		"Desc": "挂机金钱收益增加2%，总收益加成4%",
+		"FamilyLevel": 4,
+		"Icon": 2,
+		"Id": 4,
+		"IncreaseId": "1:2|2:2"
+	},
+	{
+		"AttrId": 805,
+		"Desc": "挂机经验收益增加2%，总收益加成5%",
+		"FamilyLevel": 5,
+		"Icon": 1,
+		"Id": 5,
+		"IncreaseId": "1:3|2:2"
+	},
+	{
+		"AttrId": 806,
+		"Desc": "挂机金钱收益增加2%，总收益加成6%",
+		"FamilyLevel": 6,
+		"Icon": 2,
+		"Id": 6,
+		"IncreaseId": "1:3|2:3"
+	},
+	{
+		"AttrId": 807,
+		"Desc": "挂机经验收益增加2%，总收益加成7%",
+		"FamilyLevel": 7,
+		"Icon": 1,
+		"Id": 7,
+		"IncreaseId": "1:4|2:3"
+	},
+	{
+		"AttrId": 808,
+		"Desc": "挂机金钱收益增加2%，总收益加成8%",
+		"FamilyLevel": 8,
+		"Icon": 2,
+		"Id": 8,
+		"IncreaseId": "1:4|2:4"
+	},
+	{
+		"AttrId": 809,
+		"Desc": "挂机经验收益增加2%，总收益加成9%",
+		"FamilyLevel": 9,
+		"Icon": 1,
+		"Id": 9,
+		"IncreaseId": "1:5|2:4"
+	},
+	{
+		"AttrId": 810,
+		"Desc": "挂机金钱收益增加2%，总收益加成10%",
+		"FamilyLevel": 10,
+		"Icon": 2,
+		"Id": 10,
+		"IncreaseId": "1:5|2:5"
+	},
+	{
+		"AttrId": 811,
+		"FamilyLevel": 11,
+		"Id": 11,
+		"IncreaseId": "1:5|2:5"
+	},
+	{
+		"AttrId": 812,
+		"FamilyLevel": 12,
+		"Id": 12,
+		"IncreaseId": "1:5|2:5"
+	},
+	{
+		"AttrId": 813,
+		"FamilyLevel": 13,
+		"Id": 13,
+		"IncreaseId": "1:5|2:5"
+	},
+	{
+		"AttrId": 814,
+		"FamilyLevel": 14,
+		"Id": 14,
+		"IncreaseId": "1:5|2:5"
+	},
+	{
+		"AttrId": 815,
+		"FamilyLevel": 15,
+		"Id": 15,
+		"IncreaseId": "1:5|2:5"
+	}
+]

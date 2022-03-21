@@ -1,0 +1,16 @@
+[
+	{
+		"Fx": 4,
+		"Id": 1,
+		"KillPrize": "2010006:2:1|2010003:2:1|2020191:2:1",
+		"MapId": 2341,
+		"MonsterId": 4006,
+		"MonsterX": 44,
+		"MonsterY": 39,
+		"OnceShieldMath": 100,
+		"RefreshId": 10002,
+		"ShieldTrigger": "80|20",
+		"ShowPrize": "2020656:1|2020651:1|2020653:1|2020291:1|2010003:1|2010006:1|2010002:1",
+		"TotalShieldMath": 10000
+	}
+]

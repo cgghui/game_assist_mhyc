@@ -1,0 +1,46 @@
+[
+	{
+		"CounterType": 714,
+		"Id": 6300201,
+		"Name": "每日分享",
+		"Order": 1,
+		"Param": 1,
+		"Prize": "2:100|2251001:5|7:10000",
+		"RefreshType": 1,
+		"TargetCount": 1,
+		"Type": 63002
+	},
+	{
+		"CounterType": 714,
+		"Id": 6300202,
+		"Name": "周累计分享3次",
+		"Order": 2,
+		"Param": 2,
+		"Prize": "2200255:1|2251003:3|7:30000",
+		"RefreshType": 2,
+		"TargetCount": 3,
+		"Type": 63002
+	},
+	{
+		"CounterType": 714,
+		"Id": 6300203,
+		"Name": "周累计分享5次",
+		"Order": 3,
+		"Param": 2,
+		"Prize": "2200841:2|2251002:3|7:50000",
+		"RefreshType": 2,
+		"TargetCount": 5,
+		"Type": 63002
+	},
+	{
+		"CounterType": 714,
+		"Id": 6300204,
+		"Name": "周累计分享7次",
+		"Order": 4,
+		"Param": 2,
+		"Prize": "263:3|793:1|7:100000",
+		"RefreshType": 2,
+		"TargetCount": 7,
+		"Type": 63002
+	}
+]

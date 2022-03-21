@@ -1,0 +1,35 @@
+[
+	{
+		"DigAniId": 6103,
+		"DigTime": 3,
+		"Id": 1,
+		"MapId": 2301,
+		"Name": "上仙别院",
+		"NeedItemId": 261,
+		"NeedNum": 1,
+		"SceneDesc": "\u003ccolor=#83cc70\u003e奖励：\u003c/c\u003e\u003ccolor=#f9a352\u003e随机宝物\u003c/color\u003e",
+		"ShowPrize": 1901
+	},
+	{
+		"DigAniId": 6104,
+		"DigTime": 3,
+		"Id": 2,
+		"MapId": 2302,
+		"Name": "聚灵幽谷",
+		"NeedItemId": 262,
+		"NeedNum": 1,
+		"SceneDesc": "\u003ccolor=#83cc70\u003e奖励：\u003c/c\u003e\u003ccolor=#f9a352\u003e随机宝物\u003c/color\u003e",
+		"ShowPrize": 1911
+	},
+	{
+		"DigAniId": 6105,
+		"DigTime": 3,
+		"Id": 3,
+		"MapId": 2303,
+		"Name": "圣宝仙山",
+		"NeedItemId": 263,
+		"NeedNum": 1,
+		"SceneDesc": "\u003ccolor=#83cc70\u003e奖励：\u003c/c\u003e\u003ccolor=#f9a352\u003e随机宝物\u003c/color\u003e",
+		"ShowPrize": 1921
+	}
+]

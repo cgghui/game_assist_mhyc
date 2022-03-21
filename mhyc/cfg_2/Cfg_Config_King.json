@@ -1,0 +1,54 @@
+[
+	{
+		"CfgKey": "KingRespectPrize",
+		"CfgValue": "1402"
+	},
+	{
+		"CfgKey": "KingPrize",
+		"CfgValue": "1401"
+	},
+	{
+		"CfgKey": "KingJoinRank",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "KingOpenTime",
+		"CfgValue": "1|36000"
+	},
+	{
+		"CfgKey": "KingCloseTime",
+		"CfgValue": "7|79200"
+	},
+	{
+		"CfgKey": "KingCountTime",
+		"CfgValue": "7|81000"
+	},
+	{
+		"CfgKey": "KingTimeMax",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "KingBuyLimitId",
+		"CfgValue": "70213"
+	},
+	{
+		"CfgKey": "KingInterval",
+		"CfgValue": "1800"
+	},
+	{
+		"CfgKey": "KingTimeBuyCoin1",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "KingTimeBuyCoin2",
+		"CfgValue": "200"
+	},
+	{
+		"CfgKey": "KingBuyTimeHalf",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "KingBuyTimeAll",
+		"CfgValue": "30"
+	}
+]

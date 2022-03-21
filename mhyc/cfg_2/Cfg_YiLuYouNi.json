@@ -1,0 +1,170 @@
+[
+	{
+		"ActId": 26411,
+		"Items": "4030246:500",
+		"MaxDay": 28,
+		"MinDay": 1,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 26411,
+		"Items": "4030246:1000",
+		"MaxDay": 59,
+		"MinDay": 29,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 26411,
+		"Items": "4030246:1500",
+		"MaxDay": 90,
+		"MinDay": 60,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 26411,
+		"Items": "4030246:2000",
+		"MaxDay": 121,
+		"MinDay": 91,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 26411,
+		"Items": "4030246:3000",
+		"MaxDay": 152,
+		"MinDay": 122,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 26411,
+		"Items": "4030246:4000",
+		"MaxDay": 9999,
+		"MinDay": 153,
+		"Name": "一路有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 28,
+		"MinDay": 1,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 59,
+		"MinDay": 29,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 90,
+		"MinDay": 60,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 121,
+		"MinDay": 91,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 152,
+		"MinDay": 122,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 30511,
+		"Items": "4030246:1000",
+		"MaxDay": 9999,
+		"MinDay": 153,
+		"Name": "年货有你"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 28,
+		"MinDay": 1,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 59,
+		"MinDay": 29,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 90,
+		"MinDay": 60,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 121,
+		"MinDay": 91,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 152,
+		"MinDay": 122,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 31911,
+		"Items": "4030246:1000",
+		"MaxDay": 9999,
+		"MinDay": 153,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 28,
+		"MinDay": 1,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 59,
+		"MinDay": 29,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 90,
+		"MinDay": 60,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 121,
+		"MinDay": 91,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 152,
+		"MinDay": 122,
+		"Name": "嘉年相伴"
+	},
+	{
+		"ActId": 33811,
+		"Items": "4030246:1000",
+		"MaxDay": 9999,
+		"MinDay": 153,
+		"Name": "嘉年相伴"
+	}
+]

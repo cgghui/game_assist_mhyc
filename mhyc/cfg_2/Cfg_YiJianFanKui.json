@@ -1,0 +1,56 @@
+[
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6011,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	},
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6008,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	},
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6007,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	},
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6006,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	},
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6004,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	},
+	{
+		"ActId": 990,
+		"App_id": 8,
+		"Channel_id": 6003,
+		"Desc": "每天 8:00-20:00",
+		"Internal": 60,
+		"Max": 10,
+		"Number": 100
+	}
+]

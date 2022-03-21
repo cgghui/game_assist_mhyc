@@ -1,0 +1,452 @@
+[
+	{
+		"AttrPect": "1:13300",
+		"CostItem": "2060201:1",
+		"Id": 1,
+		"Star": 1
+	},
+	{
+		"AttrPect": "1:16600",
+		"CostItem": "2060201:2",
+		"Id": 1,
+		"Star": 2
+	},
+	{
+		"AttrPect": "1:19900",
+		"CostItem": "2060201:3",
+		"Id": 1,
+		"Star": 3
+	},
+	{
+		"AttrPect": "1:23200",
+		"CostItem": "2060201:4",
+		"Id": 1,
+		"Star": 4
+	},
+	{
+		"AttrPect": "1:26500",
+		"CostItem": "2060201:5",
+		"Id": 1,
+		"Star": 5
+	},
+	{
+		"AttrPect": "1:29800",
+		"CostItem": "2060201:6",
+		"Id": 1,
+		"Star": 6
+	},
+	{
+		"AttrPect": "1:33100",
+		"CostItem": "2060201:7",
+		"Id": 1,
+		"Star": 7
+	},
+	{
+		"AttrPect": "1:36400",
+		"CostItem": "2060201:8",
+		"Id": 1,
+		"Star": 8
+	},
+	{
+		"AttrPect": "1:39700",
+		"CostItem": "2060201:9",
+		"Id": 1,
+		"Star": 9
+	},
+	{
+		"AttrPect": "1:43000",
+		"CostItem": "2060201:10",
+		"Id": 1,
+		"Star": 10
+	},
+	{
+		"AttrPect": "1:13300|2:16600",
+		"CostItem": "2060202:1",
+		"Id": 2,
+		"Star": 1
+	},
+	{
+		"AttrPect": "1:16600|2:23200",
+		"CostItem": "2060202:2",
+		"Id": 2,
+		"Star": 2
+	},
+	{
+		"AttrPect": "1:19900|2:29800",
+		"CostItem": "2060202:3",
+		"Id": 2,
+		"Star": 3
+	},
+	{
+		"AttrPect": "1:23200|2:36400",
+		"CostItem": "2060202:4",
+		"Id": 2,
+		"Star": 4
+	},
+	{
+		"AttrPect": "1:26500|2:43000",
+		"CostItem": "2060202:5",
+		"Id": 2,
+		"Star": 5
+	},
+	{
+		"AttrPect": "1:29800|2:49600",
+		"CostItem": "2060202:6",
+		"Id": 2,
+		"Star": 6
+	},
+	{
+		"AttrPect": "1:33100|2:56200",
+		"CostItem": "2060202:7",
+		"Id": 2,
+		"Star": 7
+	},
+	{
+		"AttrPect": "1:36400|2:62800",
+		"CostItem": "2060202:8",
+		"Id": 2,
+		"Star": 8
+	},
+	{
+		"AttrPect": "1:39700|2:69400",
+		"CostItem": "2060202:9",
+		"Id": 2,
+		"Star": 9
+	},
+	{
+		"AttrPect": "1:43000|2:76000",
+		"CostItem": "2060202:10",
+		"Id": 2,
+		"Star": 10
+	},
+	{
+		"AttrPect": "1:13300|2:16600|3:11100",
+		"CostItem": "2060203:1",
+		"Id": 3,
+		"Star": 1
+	},
+	{
+		"AttrPect": "1:16600|2:23200|3:12200",
+		"CostItem": "2060203:2",
+		"Id": 3,
+		"Star": 2
+	},
+	{
+		"AttrPect": "1:19900|2:29800|3:13300",
+		"CostItem": "2060203:3",
+		"Id": 3,
+		"Star": 3
+	},
+	{
+		"AttrPect": "1:23200|2:36400|3:14400",
+		"CostItem": "2060203:4",
+		"Id": 3,
+		"Star": 4
+	},
+	{
+		"AttrPect": "1:26500|2:43000|3:15500",
+		"CostItem": "2060203:5",
+		"Id": 3,
+		"Star": 5
+	},
+	{
+		"AttrPect": "1:29800|2:49600|3:16600",
+		"CostItem": "2060203:6",
+		"Id": 3,
+		"Star": 6
+	},
+	{
+		"AttrPect": "1:33100|2:56200|3:17700",
+		"CostItem": "2060203:7",
+		"Id": 3,
+		"Star": 7
+	},
+	{
+		"AttrPect": "1:36400|2:62800|3:18800",
+		"CostItem": "2060203:8",
+		"Id": 3,
+		"Star": 8
+	},
+	{
+		"AttrPect": "1:39700|2:69400|3:19900",
+		"CostItem": "2060203:9",
+		"Id": 3,
+		"Star": 9
+	},
+	{
+		"AttrPect": "1:43000|2:76000|3:21000",
+		"CostItem": "2060203:10",
+		"Id": 3,
+		"Star": 10
+	},
+	{
+		"AttrPect": "1:14400|2:16600|3:11100",
+		"CostItem": "2060204:1",
+		"Id": 4,
+		"Star": 1
+	},
+	{
+		"AttrPect": "1:17700|2:23200|3:12200",
+		"CostItem": "2060204:2",
+		"Id": 4,
+		"Star": 2
+	},
+	{
+		"AttrPect": "1:21000|2:29800|3:13300",
+		"CostItem": "2060204:3",
+		"Id": 4,
+		"Star": 3
+	},
+	{
+		"AttrPect": "1:24300|2:36400|3:14400",
+		"CostItem": "2060204:4",
+		"Id": 4,
+		"Star": 4
+	},
+	{
+		"AttrPect": "1:27600|2:43000|3:15500",
+		"CostItem": "2060204:5",
+		"Id": 4,
+		"Star": 5
+	},
+	{
+		"AttrPect": "1:30900|2:49600|3:16600",
+		"CostItem": "2060204:6",
+		"Id": 4,
+		"Star": 6
+	},
+	{
+		"AttrPect": "1:34200|2:56200|3:17700",
+		"CostItem": "2060204:7",
+		"Id": 4,
+		"Star": 7
+	},
+	{
+		"AttrPect": "1:37500|2:62800|3:18800",
+		"CostItem": "2060204:8",
+		"Id": 4,
+		"Star": 8
+	},
+	{
+		"AttrPect": "1:40800|2:69400|3:19900",
+		"CostItem": "2060204:9",
+		"Id": 4,
+		"Star": 9
+	},
+	{
+		"AttrPect": "1:44100|2:76000|3:21000",
+		"CostItem": "2060204:10",
+		"Id": 4,
+		"Star": 10
+	},
+	{
+		"AttrPect": "1:19900|2:36600|3:11100",
+		"CostItem": "2060205:1",
+		"Id": 5,
+		"Star": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:23200|2:63200|3:12200",
+		"CostItem": "2060205:2",
+		"Id": 5,
+		"Star": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:26500|2:89800|3:13300",
+		"CostItem": "2060205:3",
+		"Id": 5,
+		"Star": 3,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:29800|2:116400|3:14400",
+		"CostItem": "2060205:4",
+		"Id": 5,
+		"Star": 4,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:33100|2:143000|3:15500",
+		"CostItem": "2060205:5",
+		"Id": 5,
+		"Star": 5,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:36400|2:169600|3:16600",
+		"CostItem": "2060205:6",
+		"Id": 5,
+		"Star": 6,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:39700|2:196200|3:17700",
+		"CostItem": "2060205:7",
+		"Id": 5,
+		"Star": 7,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:43000|2:222800|3:18800",
+		"CostItem": "2060205:8",
+		"Id": 5,
+		"Star": 8,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:46300|2:249400|3:19900",
+		"CostItem": "2060205:9",
+		"Id": 5,
+		"Star": 9,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:49600|2:276000|3:21000",
+		"CostItem": "2060205:10",
+		"Id": 5,
+		"Star": 10,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:21000|2:36600|3:12200",
+		"CostItem": "2060206:1",
+		"Id": 6,
+		"Star": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:24300|2:63200|3:14400",
+		"CostItem": "2060206:2",
+		"Id": 6,
+		"Star": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:27600|2:89800|3:16600",
+		"CostItem": "2060206:3",
+		"Id": 6,
+		"Star": 3,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:30900|2:116400|3:18800",
+		"CostItem": "2060206:4",
+		"Id": 6,
+		"Star": 4,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:34200|2:143000|3:21000",
+		"CostItem": "2060206:5",
+		"Id": 6,
+		"Star": 5,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:37500|2:169600|3:23200",
+		"CostItem": "2060206:6",
+		"Id": 6,
+		"Star": 6,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:40800|2:196200|3:25400",
+		"CostItem": "2060206:7",
+		"Id": 6,
+		"Star": 7,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:44100|2:222800|3:27600",
+		"CostItem": "2060206:8",
+		"Id": 6,
+		"Star": 8,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:47400|2:249400|3:29800",
+		"CostItem": "2060206:9",
+		"Id": 6,
+		"Star": 9,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:50700|2:276000|3:32000",
+		"CostItem": "2060206:10",
+		"Id": 6,
+		"Star": 10,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:22000|2:36600|3:12200",
+		"CostItem": "2060207:1",
+		"Id": 7,
+		"Star": 1,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:25300|2:63200|3:14400",
+		"CostItem": "2060207:2",
+		"Id": 7,
+		"Star": 2,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:28600|2:89800|3:16600",
+		"CostItem": "2060207:3",
+		"Id": 7,
+		"Star": 3,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:31900|2:116400|3:18800",
+		"CostItem": "2060207:4",
+		"Id": 7,
+		"Star": 4,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:35200|2:143000|3:21000",
+		"CostItem": "2060207:5",
+		"Id": 7,
+		"Star": 5,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:38500|2:169600|3:23200",
+		"CostItem": "2060207:6",
+		"Id": 7,
+		"Star": 6,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:41800|2:196200|3:25400",
+		"CostItem": "2060207:7",
+		"Id": 7,
+		"Star": 7,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:45100|2:222800|3:27600",
+		"CostItem": "2060207:8",
+		"Id": 7,
+		"Star": 8,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:48400|2:249400|3:29800",
+		"CostItem": "2060207:9",
+		"Id": 7,
+		"Star": 9,
+		"SuitSkillLev": 1
+	},
+	{
+		"AttrPect": "1:51700|2:276000|3:32000",
+		"CostItem": "2060207:10",
+		"Id": 7,
+		"Star": 10,
+		"SuitSkillLev": 1
+	}
+]

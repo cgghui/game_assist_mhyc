@@ -1,0 +1,592 @@
+[
+	{
+		"Attr": 2676001,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 2676002,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 2676003,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 3,
+		"Quality": 3
+	},
+	{
+		"Attr": 2676004,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 4,
+		"Quality": 4
+	},
+	{
+		"Attr": 2676005,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 5,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 2676006,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 6,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Attr": 2676007,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 7,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Attr": 2676008,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 8,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Attr": 2676009,
+		"Count": 2,
+		"FuncId": 28,
+		"Lev": 9,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"Attr": 2676010,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 10,
+		"Quality": 1
+	},
+	{
+		"Attr": 2676011,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 11,
+		"Quality": 2
+	},
+	{
+		"Attr": 2676012,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 12,
+		"Quality": 3
+	},
+	{
+		"Attr": 2676013,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 13,
+		"Quality": 4
+	},
+	{
+		"Attr": 2676014,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 14,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 2676015,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 15,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Attr": 2676016,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 16,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Attr": 2676017,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 17,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Attr": 2676018,
+		"Count": 3,
+		"FuncId": 28,
+		"Lev": 18,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"Attr": 2676019,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 19,
+		"Quality": 1
+	},
+	{
+		"Attr": 2676020,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 20,
+		"Quality": 2
+	},
+	{
+		"Attr": 2676021,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 21,
+		"Quality": 3
+	},
+	{
+		"Attr": 2676022,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 22,
+		"Quality": 4
+	},
+	{
+		"Attr": 2676023,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 23,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 2676024,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 24,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Attr": 2676025,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 25,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Attr": 2676026,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 26,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Attr": 2676027,
+		"Count": 4,
+		"FuncId": 28,
+		"Lev": 27,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"Attr": 2676028,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 28,
+		"Quality": 1
+	},
+	{
+		"Attr": 2676029,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 29,
+		"Quality": 2
+	},
+	{
+		"Attr": 2676030,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 30,
+		"Quality": 3
+	},
+	{
+		"Attr": 2676031,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 31,
+		"Quality": 4
+	},
+	{
+		"Attr": 2676032,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 32,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 2676033,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 33,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Attr": 2676034,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 34,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Attr": 2676035,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 35,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Attr": 2676036,
+		"Count": 5,
+		"FuncId": 28,
+		"Lev": 36,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"Attr": 2676037,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 37,
+		"Quality": 1
+	},
+	{
+		"Attr": 2676038,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 38,
+		"Quality": 2
+	},
+	{
+		"Attr": 2676039,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 39,
+		"Quality": 3
+	},
+	{
+		"Attr": 2676040,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 40,
+		"Quality": 4
+	},
+	{
+		"Attr": 2676041,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 41,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 2676042,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 42,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Attr": 2676043,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 43,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Attr": 2676044,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 44,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Attr": 2676045,
+		"Count": 6,
+		"FuncId": 28,
+		"Lev": 45,
+		"Quality": 5,
+		"Star": 5
+	},
+	{
+		"Attr": 3000102,
+		"AttrMethod": 1,
+		"Count": 2,
+		"FuncId": 14104,
+		"Lev": 1,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 3000104,
+		"AttrMethod": 1,
+		"Count": 4,
+		"FuncId": 14104,
+		"Lev": 2,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 3000106,
+		"AttrMethod": 1,
+		"Count": 6,
+		"FuncId": 14104,
+		"Lev": 3,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 3000108,
+		"AttrMethod": 1,
+		"Count": 8,
+		"FuncId": 14104,
+		"Lev": 4,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 3000110,
+		"AttrMethod": 1,
+		"Count": 10,
+		"FuncId": 14104,
+		"Lev": 5,
+		"ObjId": 1,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Attr": 3000112,
+		"AttrMethod": 1,
+		"Count": 2,
+		"FuncId": 14104,
+		"Lev": 1,
+		"ObjId": 2,
+		"Quality": 2,
+		"Star": 1
+	},
+	{
+		"Attr": 3000114,
+		"AttrMethod": 1,
+		"Count": 4,
+		"FuncId": 14104,
+		"Lev": 2,
+		"ObjId": 2,
+		"Quality": 2,
+		"Star": 1
+	},
+	{
+		"Attr": 3000116,
+		"AttrMethod": 1,
+		"Count": 6,
+		"FuncId": 14104,
+		"Lev": 3,
+		"ObjId": 2,
+		"Quality": 2,
+		"Star": 1
+	},
+	{
+		"Attr": 3000118,
+		"AttrMethod": 1,
+		"Count": 8,
+		"FuncId": 14104,
+		"Lev": 4,
+		"ObjId": 2,
+		"Quality": 2,
+		"Star": 1
+	},
+	{
+		"Attr": 3000120,
+		"AttrMethod": 1,
+		"Count": 10,
+		"FuncId": 14104,
+		"Lev": 5,
+		"ObjId": 2,
+		"Quality": 2,
+		"Star": 1
+	},
+	{
+		"Attr": 3000122,
+		"AttrMethod": 1,
+		"Count": 2,
+		"FuncId": 14104,
+		"Lev": 1,
+		"ObjId": 3,
+		"Quality": 1,
+		"Star": 1
+	},
+	{
+		"Attr": 3000124,
+		"AttrMethod": 1,
+		"Count": 4,
+		"FuncId": 14104,
+		"Lev": 2,
+		"ObjId": 3,
+		"Quality": 1,
+		"Star": 1
+	},
+	{
+		"Attr": 3000126,
+		"AttrMethod": 1,
+		"Count": 6,
+		"FuncId": 14104,
+		"Lev": 3,
+		"ObjId": 3,
+		"Quality": 1,
+		"Star": 1
+	},
+	{
+		"Attr": 3000128,
+		"AttrMethod": 1,
+		"Count": 8,
+		"FuncId": 14104,
+		"Lev": 4,
+		"ObjId": 3,
+		"Quality": 1,
+		"Star": 1
+	},
+	{
+		"Attr": 3000130,
+		"AttrMethod": 1,
+		"Count": 10,
+		"FuncId": 14104,
+		"Lev": 5,
+		"ObjId": 3,
+		"Quality": 1,
+		"Star": 1
+	},
+	{
+		"Attr": 3000132,
+		"AttrMethod": 1,
+		"Count": 2,
+		"FuncId": 14104,
+		"Lev": 1,
+		"ObjId": 4,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"Attr": 3000134,
+		"AttrMethod": 1,
+		"Count": 4,
+		"FuncId": 14104,
+		"Lev": 2,
+		"ObjId": 4,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"Attr": 3000136,
+		"AttrMethod": 1,
+		"Count": 6,
+		"FuncId": 14104,
+		"Lev": 3,
+		"ObjId": 4,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"Attr": 3000138,
+		"AttrMethod": 1,
+		"Count": 8,
+		"FuncId": 14104,
+		"Lev": 4,
+		"ObjId": 4,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"Attr": 3000140,
+		"AttrMethod": 1,
+		"Count": 10,
+		"FuncId": 14104,
+		"Lev": 5,
+		"ObjId": 4,
+		"Quality": 6,
+		"Star": 1
+	},
+	{
+		"Attr": 3000142,
+		"AttrMethod": 1,
+		"Count": 2,
+		"FuncId": 14104,
+		"Lev": 1,
+		"ObjId": 5,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"Attr": 3000144,
+		"AttrMethod": 1,
+		"Count": 4,
+		"FuncId": 14104,
+		"Lev": 2,
+		"ObjId": 5,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"Attr": 3000146,
+		"AttrMethod": 1,
+		"Count": 6,
+		"FuncId": 14104,
+		"Lev": 3,
+		"ObjId": 5,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"Attr": 3000148,
+		"AttrMethod": 1,
+		"Count": 8,
+		"FuncId": 14104,
+		"Lev": 4,
+		"ObjId": 5,
+		"Quality": 4,
+		"Star": 1
+	},
+	{
+		"Attr": 3000150,
+		"AttrMethod": 1,
+		"Count": 10,
+		"FuncId": 14104,
+		"Lev": 5,
+		"ObjId": 5,
+		"Quality": 4,
+		"Star": 1
+	}
+]

@@ -1,0 +1,1298 @@
+[
+	{
+		"ActId": 704,
+		"Amount": 30,
+		"Basic": 3000,
+		"Gear": 1,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 60,
+		"Basic": 6000,
+		"Gear": 2,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 120,
+		"Basic": 12000,
+		"Gear": 3,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 200,
+		"Basic": 20000,
+		"Gear": 4,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 500,
+		"Basic": 50000,
+		"Gear": 5,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 1000,
+		"Basic": 100000,
+		"Gear": 6,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 2000,
+		"Basic": 200000,
+		"Gear": 7,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 704,
+		"Amount": 5000,
+		"Basic": 500000,
+		"Gear": 8,
+		"ItemId": 2,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 25951,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26351,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 26951,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27251,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 27751,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28051,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 28751,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29051,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 29651,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30051,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30451,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 30951,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31551,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 31851,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33451,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 33751,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 30,
+		"Basic": 300,
+		"Gear": 1,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 60,
+		"Basic": 600,
+		"Gear": 2,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 120,
+		"Basic": 1200,
+		"Gear": 3,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 200,
+		"Basic": 2000,
+		"Gear": 4,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 500,
+		"Basic": 5000,
+		"Gear": 5,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 1000,
+		"Basic": 10000,
+		"Gear": 6,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 2000,
+		"Basic": 20000,
+		"Gear": 7,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	},
+	{
+		"ActId": 34351,
+		"Amount": 5000,
+		"Basic": 50000,
+		"Gear": 8,
+		"ItemId": 1,
+		"Name": "财神送礼",
+		"Times": 1
+	}
+]

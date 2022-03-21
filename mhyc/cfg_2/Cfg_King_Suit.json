@@ -1,0 +1,62 @@
+[
+	{
+		"FeiShengId": 1,
+		"Id": 1,
+		"KingLifeLevDiff": 2,
+		"KingLifeSkillId": 9911,
+		"Name": "神兵之王",
+		"Quality": 7,
+		"SrcItem": "907017101|907017102|907017103|907017104|907017105|907017106|907017107|907017108|907017109|907017110",
+		"SuitResId": 7508,
+		"SuitSkillId": 9903,
+		"WingResId": 4272
+	},
+	{
+		"FeiShengId": 1,
+		"Id": 2,
+		"KingLifeLevDiff": 2,
+		"KingLifeSkillId": 9912,
+		"Name": "战争之王",
+		"Quality": 7,
+		"SrcItem": "907017201|907017202|907017203|907017204|907017205|907017206|907017207|907017208|907017209|907017210",
+		"SuitResId": 7520,
+		"SuitSkillId": 9902,
+		"WingResId": 4273
+	},
+	{
+		"FeiShengId": 1,
+		"Id": 3,
+		"KingLifeLevDiff": 2,
+		"KingLifeSkillId": 9913,
+		"Name": "幽冥之王",
+		"Quality": 7,
+		"SrcItem": "907017301|907017302|907017303|907017304|907017305|907017306|907017307|907017308|907017309|907017310",
+		"SuitResId": 7514,
+		"SuitSkillId": 9901,
+		"WingResId": 4274
+	},
+	{
+		"FeiShengId": 13,
+		"Id": 4,
+		"KingLifeLevDiff": 2,
+		"KingLifeSkillId": 9914,
+		"Name": "邪灵之王",
+		"Quality": 7,
+		"SrcItem": "907017401|907017402|907017403|907017404|907017405|907017406|907017407|907017408|907017409|907017410",
+		"SuitResId": 7515,
+		"SuitSkillId": 9904,
+		"WingResId": 4275
+	},
+	{
+		"FeiShengId": 25,
+		"Id": 5,
+		"KingLifeLevDiff": 2,
+		"KingLifeSkillId": 9915,
+		"Name": "光明之王",
+		"Quality": 7,
+		"SrcItem": "907017501|907017502|907017503|907017504|907017505|907017506|907017507|907017508|907017509|907017510",
+		"SuitResId": 7510,
+		"SuitSkillId": 9905,
+		"WingResId": 4276
+	}
+]

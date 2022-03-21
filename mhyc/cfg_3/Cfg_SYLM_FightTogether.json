@@ -1,0 +1,839 @@
+[
+	{
+		"Desc": "协战使用橙色品质宠物*1",
+		"Id": 1,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质天仙*1",
+		"Id": 2,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质战神*1",
+		"Id": 3,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质仙童*1",
+		"Id": 4,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质宠物*1",
+		"Id": 5,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质天仙*1",
+		"Id": 6,
+		"MonsterType": 1,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【山精野怪】\n同时协战：\n草精(宠)*1\n玉兔精(仙)*1",
+		"Id": 7,
+		"MonsterType": 1,
+		"PartnerId": "[2005,3001]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【艳福不浅】\n同时协战：\n八戒(宠)*1\n蝴蝶仙子(仙)*1",
+		"Id": 8,
+		"MonsterType": 1,
+		"PartnerId": "[3007,3003]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【一丘之狐】\n同时协战：\n阿狸(宠)*1\n青丘狐仙(仙)*1",
+		"Id": 9,
+		"MonsterType": 1,
+		"PartnerId": "[3003,1001]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【佛法无边】\n同时协战：\n弥勒佛(宠)*1\n自在天(战)*1",
+		"Id": 10,
+		"MonsterType": 1,
+		"PartnerId": "[6004,1116107]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【无尽之焰】\n同时协战：\n赤炎魔(宠)*1\n火神祝融(战)*1",
+		"Id": 11,
+		"MonsterType": 1,
+		"PartnerId": "[5008,1116105]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【翻江倒海】\n同时协战：\n龙王(宠)*1\n水神共工(战)*1",
+		"Id": 12,
+		"MonsterType": 1,
+		"PartnerId": "[6001,1116104]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【红楼之梦】\n同时协战：\n贾宝宝(童)*1\n林妹妹(童)*1",
+		"Id": 13,
+		"MonsterType": 1,
+		"PartnerId": "[1117201,1118201]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【倩女幽魂】\n同时协战：\n采臣(童)*1\n小倩(童)*1",
+		"Id": 14,
+		"MonsterType": 1,
+		"PartnerId": "[1117202,1118202]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【两小无猜】\n同时协战：\n小石头(童)*1\n小花仙(童)*1",
+		"Id": 15,
+		"MonsterType": 1,
+		"PartnerId": "[1117204,1118204]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质宠物*1",
+		"Id": 16,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质天仙*1",
+		"Id": 17,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质战神*1",
+		"Id": 18,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质仙童*1",
+		"Id": 19,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质宠物*1",
+		"Id": 20,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质天仙*1",
+		"Id": 21,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质宠物*1",
+		"Id": 22,
+		"MonsterType": 2,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【山精野怪】\n同时协战：\n草精(宠)*1\n玉兔精(仙)*1",
+		"Id": 23,
+		"MonsterType": 2,
+		"PartnerId": "[2005,3001]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【魂牵梦萦】\n同时协战：\n八戒(宠)*1\n嫦娥(仙)*1",
+		"Id": 24,
+		"MonsterType": 2,
+		"PartnerId": "[3007,6002]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【得道飞仙】\n同时协战：\n玄狐(宠)*1\n青丘狐仙(仙)*1",
+		"Id": 25,
+		"MonsterType": 2,
+		"PartnerId": "[4008,1001]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【佛法无边】\n同时协战：\n弥勒佛(宠)*1\n自在天(战)*1",
+		"Id": 26,
+		"MonsterType": 2,
+		"PartnerId": "[6004,1116107]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【熊熊烈火】\n同时协战：\n火麒麟(宠)*1\n火神祝融(战)*1",
+		"Id": 27,
+		"MonsterType": 2,
+		"PartnerId": "[5004,1116105]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【呼雷唤雨】\n同时协战：\n雷神(宠)*1\n水神共工(战)*1",
+		"Id": 28,
+		"MonsterType": 2,
+		"PartnerId": "[6013,1116104]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【红楼之梦】\n同时协战：\n贾宝宝(童)*1\n林妹妹(童)*1",
+		"Id": 29,
+		"MonsterType": 2,
+		"PartnerId": "[1117201,1118201]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【倩女幽魂】\n同时协战：\n采臣(童)*1\n小倩(童)*1",
+		"Id": 30,
+		"MonsterType": 2,
+		"PartnerId": "[1117202,1118202]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【两小无猜】\n同时协战：\n小石头(童)*1\n小花仙(童)*1",
+		"Id": 31,
+		"MonsterType": 2,
+		"PartnerId": "[1117204,1118204]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质宠物*1",
+		"Id": 32,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质天仙*1",
+		"Id": 33,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质战神*1",
+		"Id": 34,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质仙童*1",
+		"Id": 35,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质宠物*1",
+		"Id": 36,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质天仙*1",
+		"Id": 37,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质宠物*1",
+		"Id": 38,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质天仙*1",
+		"Id": 39,
+		"MonsterType": 3,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【最强刺客】\n同时协战：\n刺客(宠)*1\n紫霞仙子(仙)*1",
+		"Id": 40,
+		"MonsterType": 3,
+		"PartnerId": "[3001,3002]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【仙友拍档】\n同时协战：\n太乙真人(宠)*1\n花神(仙)*1",
+		"Id": 41,
+		"MonsterType": 3,
+		"PartnerId": "[5006,4001]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【梦幻老友】\n同时协战：\n羽灵神(宠)*1\n芙蓉仙子(仙)*1",
+		"Id": 42,
+		"MonsterType": 3,
+		"PartnerId": "[6005,5003]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【坚持不懈】\n同时协战：\n精卫(宠)*1\n夸父(战)*1",
+		"Id": 43,
+		"MonsterType": 3,
+		"PartnerId": "[4003,1116103]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【天地阴阳】\n同时协战：\n判官(宠)*1\n大司命(战)*1",
+		"Id": 44,
+		"MonsterType": 3,
+		"PartnerId": "[4002,1116111]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【比翼双飞】\n同时协战：\n朱雀(宠)*1\n大鹏明王(战)*1",
+		"Id": 45,
+		"MonsterType": 3,
+		"PartnerId": "[7003,1116108]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【两小无猜】\n同时协战：\n小石头(童)*1\n小花仙(童)*1",
+		"Id": 46,
+		"MonsterType": 3,
+		"PartnerId": "[1117204,1118204]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【青梅竹马】\n同时协战：\n小福禄(童)*1\n糖糖(童)*1",
+		"Id": 47,
+		"MonsterType": 3,
+		"PartnerId": "[1117203,1118203]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【亦师亦友】\n同时协战：\n采臣(童)*1\n燕赤侠(童)*1",
+		"Id": 48,
+		"MonsterType": 3,
+		"PartnerId": "[1117202,1117206]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质战神*1",
+		"Id": 49,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质仙童*1",
+		"Id": 50,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质宠物*1",
+		"Id": 51,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质天仙*1",
+		"Id": 52,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质战神*1",
+		"Id": 53,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质仙童*1",
+		"Id": 54,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质天仙*1",
+		"Id": 55,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质战神*1",
+		"Id": 56,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质仙童*1",
+		"Id": 57,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用七彩品质宠物*1",
+		"Id": 58,
+		"MonsterType": 4,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 7,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【另一个我】\n同时协战：\n三藏(宠)*1\n圣僧(宠)*1",
+		"Id": 59,
+		"MonsterType": 4,
+		"PartnerId": "[7002,6007]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【带带我吧】\n同时协战：\n九尾仙狐(宠)*1\n狐宝(宠)*1",
+		"Id": 60,
+		"MonsterType": 4,
+		"PartnerId": "[7001,4006]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【飞行冠军】\n同时协战：\n朱雀(宠)*1\n玄鸟(宠)*1",
+		"Id": 61,
+		"MonsterType": 4,
+		"PartnerId": "[7003,5003]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【夫妻同心】\n同时协战：\n嫘祖(仙)*1\n黄帝轩辕(战)*1",
+		"Id": 62,
+		"MonsterType": 4,
+		"PartnerId": "[5002,1116106]",
+		"PartnerNum": 2,
+		"PartnerType": "[2,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【水神搭档】\n同时协战：\n洛神(仙)*1\n水神共工(战)*1",
+		"Id": 63,
+		"MonsterType": 4,
+		"PartnerId": "[5004,1116104]",
+		"PartnerNum": 2,
+		"PartnerType": "[2,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【夸父逐日】\n同时协战：\n日神羲和(仙)*1\n夸父(战)*1",
+		"Id": 64,
+		"MonsterType": 4,
+		"PartnerId": "[6003,1116103]",
+		"PartnerNum": 2,
+		"PartnerType": "[2,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【神笔马良】\n同时协战：\n太乙真人(宠)*1\n马良(童)*1",
+		"Id": 65,
+		"MonsterType": 4,
+		"PartnerId": "[5006,1117205]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【私生子?】\n同时协战：\n龙王(宠)*1\n小龙人(童)*1",
+		"Id": 66,
+		"MonsterType": 4,
+		"PartnerId": "[6001,1118206]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【救救妈妈】\n同时协战：\n二郎神(宠)*1\n沉香(童)*1",
+		"Id": 67,
+		"MonsterType": 4,
+		"PartnerId": "[6010,1117207]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,4]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质战神*1",
+		"Id": 68,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用橙色品质仙童*1",
+		"Id": 69,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 4,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质宠物*1",
+		"Id": 70,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质天仙*1",
+		"Id": 71,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质战神*1",
+		"Id": 72,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用红色品质仙童*1",
+		"Id": 73,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 5,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质宠物*1",
+		"Id": 74,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用金色品质天仙*1",
+		"Id": 75,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 6,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用七彩品质宠物*1",
+		"Id": 76,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[1]",
+		"Quality": 7,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用七彩品质天仙*1",
+		"Id": 77,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[2]",
+		"Quality": 7,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用七彩品质战神*1",
+		"Id": 78,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[3]",
+		"Quality": 7,
+		"RewardId": 481
+	},
+	{
+		"Desc": "协战使用七彩品质仙童*1",
+		"Id": 79,
+		"MonsterType": 5,
+		"PartnerNum": 1,
+		"PartnerType": "[4]",
+		"Quality": 7,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【魔童灵童】\n同时协战：\n敖丙(宠)*1\n哪吒三太子(宠)*1",
+		"Id": 80,
+		"MonsterType": 5,
+		"PartnerId": "[7006,4009]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【写给父亲】\n同时协战：\n哪吒(宠)*1\n托塔天王(宠)*1",
+		"Id": 81,
+		"MonsterType": 5,
+		"PartnerId": "[7005,6003]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【大圣娶亲】\n同时协战：\n齐天大圣(宠)*1\n紫霞仙子(仙)*1",
+		"Id": 82,
+		"MonsterType": 5,
+		"PartnerId": "[7004,3002]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【相约月宫】\n同时协战：\n天蓬元帅(宠)*1\n嫦娥(仙)*1",
+		"Id": 83,
+		"MonsterType": 5,
+		"PartnerId": "[7007,6002]",
+		"PartnerNum": 2,
+		"PartnerType": "[1,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【创世大神】\n同时协战：\n女娲(仙)*1\n人皇伏羲(战)*1",
+		"Id": 84,
+		"MonsterType": 5,
+		"PartnerId": "[7002,1116109]",
+		"PartnerNum": 2,
+		"PartnerType": "[2,3]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【母女同心】\n同时协战：\n西王母(仙)*1\n瑶姬(仙)*1",
+		"Id": 85,
+		"MonsterType": 5,
+		"PartnerId": "[7001,6001]",
+		"PartnerNum": 2,
+		"PartnerType": "[2,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【绝世剑豪】\n同时协战：\n九霄剑仙(战)*1\n大剑师(宠)*1",
+		"Id": 86,
+		"MonsterType": 5,
+		"PartnerId": "[1116112,6002]",
+		"PartnerNum": 2,
+		"PartnerType": "[3,1]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【代表月亮】\n同时协战：\n月姑娘(童)*1\n月神常曦(仙)*1",
+		"Id": 87,
+		"MonsterType": 5,
+		"PartnerId": "[1118207,6004]",
+		"PartnerNum": 2,
+		"PartnerType": "[4,2]",
+		"Quality": 1,
+		"RewardId": 481
+	},
+	{
+		"Desc": "【西方神明】\n同时协战：\n阿波罗(战)*1\n智慧女神(仙)*1",
+		"Id": 88,
+		"MonsterType": 5,
+		"PartnerId": "[1116110,7004]",
+		"PartnerNum": 2,
+		"PartnerType": "[3,2]",
+		"Quality": 1,
+		"RewardId": 481
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"BossId": 4006,
+		"ChallengeRewardId": 2011,
+		"DownSpeed": 50,
+		"DownTimes": 120,
+		"Id": 1,
+		"KillReward": "01:10",
+		"KillRewardId": 2012,
+		"NoKillRewardId": 2013,
+		"Pos": 3000,
+		"RefreshId": 39001,
+		"UpSpeed": 100,
+		"UpTimes": 10
+	},
+	{
+		"BossId": 4006,
+		"ChallengeRewardId": 2011,
+		"DownSpeed": 50,
+		"DownTimes": 120,
+		"Id": 2,
+		"KillReward": "01:10",
+		"KillRewardId": 2012,
+		"NoKillRewardId": 2013,
+		"Pos": 6000,
+		"RefreshId": 39002,
+		"UpSpeed": 100,
+		"UpTimes": 10
+	},
+	{
+		"BossId": 4006,
+		"ChallengeRewardId": 2011,
+		"DownSpeed": 50,
+		"DownTimes": 120,
+		"Id": 3,
+		"KillReward": "01:10",
+		"KillRewardId": 2012,
+		"NoKillRewardId": 2013,
+		"Pos": 8000,
+		"RefreshId": 39003,
+		"UpSpeed": 100,
+		"UpTimes": 10
+	}
+]

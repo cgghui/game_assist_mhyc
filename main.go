@@ -4,69 +4,198 @@ import (
 	"bytes"
 	"encoding/binary"
 	"github.com/cgghui/game_assist_mhyc/mhyc"
-	"github.com/gorilla/websocket"
 	"log"
 	"os"
 	"os/signal"
+	"sync"
 	"time"
 )
+
+func init() {
+}
 
 func main() {
 
 	var err error
-
-	mhyc.NewClient()
-
-	cli := &mhyc.Client{}
-
-	cli.Conn, _, err = websocket.DefaultDialer.Dial("wss://allws.huanlingxiuxian.com/300914:30042", nil)
+	var session *mhyc.Client
+	session, err = mhyc.NewClient("66c9351a98e6809c52a1e36a13af3917", "19c3e57e2544f42b30b21104d24b2a94")
 	if err != nil {
-		log.Fatal("dial:", err)
+		log.Fatal("session:", err)
 	}
-	defer func() {
-		_ = cli.Conn.Close()
-	}()
+	var cli *mhyc.Connect
+	if cli, err = session.Connect(); err != nil {
+		log.Fatal("connect:", err)
+	}
 
-	err = cli.Login(&mhyc.C2SLogin{
-		AreaId:       303265,
-		AccountId:    52097426,
-		Token:        "0332b6df-e353-4ee4-92bc-d0bd1017dbe7",
-		UserId:       53927069,
-		Fcm:          2,
-		LoginPf:      "h5",
-		CheckWordUrl: "",
-		CodeVersion:  30283,
-		ExcelVersion: 29812,
-	})
-	if err != nil {
-		log.Fatal("login:", err)
-	}
+	mhyc.CLI = cli
 
 	go func() {
-		s := 3 * time.Second
-		t := time.NewTimer(s)
+
+		<-mhyc.RoleLoadWait
+		go func() {
+			for {
+				<-mhyc.RoleLoadWait
+			}
+		}()
+
+		wg := &sync.WaitGroup{}
+		wg.Add(2)
+
+		action := []func(){
+
+			func() {
+				//_ = cli.HuanLingList()
+				//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 14})
+				//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 15})
+				//_ = cli.GetPetAMergeInfo()
+				//_ = cli.GetAllEquipData()
+				//_ = cli.PlayerPractice()
+				//_ = cli.GetEquipData(&mhyc.C2SGetEquipData{FuncId: 15001, ObjId: 0})
+				//_ = cli.Beasts()
+				//_ = cli.GetHeroList()
+				//_ = cli.GetAlienData()
+				//_ = cli.YJInfo()
+				//_ = cli.SLGetData()
+				//_ = cli.NewStory()
+				_ = cli.EnterAnimalPark()
+				//_ = cli.UserBag()
+				//_ = cli.StagePrize()
+				//_ = cli.RoleInfo()
+				//_ = cli.LoginEnd()
+				//_ = cli.GetActTask(mhyc.DefineGetActTask11002)
+				//_ = cli.AFKGetBuyInfo()
+				//_ = cli.WeddingInsInvite()
+				//_ = cli.ClimbingTowerEnter(mhyc.DefineClimbingTowerEnter5)
+				//_ = cli.GetActXunBaoInfo(mhyc.DefineXunBaoInfo501)
+				//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
+				//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
+				//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
+				//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
+				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
+				//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
+				//_ = cli.EverydaySign()                                     // 每日签到
+				//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
+			},
+
+			//func() {
+			//	go func() {
+			//		t := time.NewTimer(time.Second)
+			//		for range t.C {
+			//			_ = cli.MailList(mhyc.DefineMailListOrdinary) // 普通邮件
+			//			_ = cli.MailList(mhyc.DefineMailListActivity) // 活动邮件
+			//			t.Reset(time.Second)
+			//		}
+			//	}()
+			//},
+			//
+			//func() {
+			//	go func() {
+			//		t := time.NewTimer(time.Second)
+			//		for range t.C {
+			//			_ = cli.RealmTask() // 修仙 - 境界 任务
+			//			t.Reset(time.Second)
+			//		}
+			//	}()
+			//},
+			////
+			//// 挂机奖励
+			//func() {
+			//	go func() {
+			//		t := time.NewTimer(time.Second)
+			//		for range t.C {
+			//			_ = cli.GetAFKPrize()
+			//			t.Reset(time.Hour)
+			//		}
+			//	}()
+			//},
+			//
+			//func() {
+			//	t := time.NewTimer(time.Second)
+			//	run := func() {
+			//		for range t.C {
+			//			_ = cli.StageFight()
+			//			recv := <-mhyc.ChanBox.StageFight
+			//			log.Printf("[闯关] tag=%v win=%v", recv.Tag, recv.Win)
+			//			if recv.Tag == 31 || recv.Tag == 9012 {
+			//				wg.Done()
+			//				wg.Done()
+			//				break
+			//			}
+			//			t.Reset(time.Second)
+			//		}
+			//	}
+			//	go run()
+			//},
+			//
+			//func() {
+			//	t := time.NewTimer(100 * time.Millisecond)
+			//	run := func() {
+			//		for range t.C {
+			//			_ = cli.GetHistoryTaskPrize()
+			//			recv := <-mhyc.ChanBox.GetHistoryTaskPrize
+			//			log.Printf("[主线奖励] tag=%v %v", recv.Tag, recv)
+			//			if recv.Tag == 5043 {
+			//				break
+			//			}
+			//			t.Reset(100 * time.Millisecond)
+			//		}
+			//	}
+			//	go func() {
+			//		for {
+			//			wg.Wait()
+			//			run()
+			//		}
+			//	}()
+			//},
+			//
+			//func() {
+			//	t := time.NewTimer(100 * time.Millisecond)
+			//	run := func() {
+			//		for range t.C {
+			//			_ = cli.GetStageDraw()
+			//			recv := <-mhyc.ChanBox.StageDraw
+			//			log.Printf("[幸运转盘] tag=%v %v", recv.Tag, recv)
+			//			if recv.Tag != 0 {
+			//				break
+			//			}
+			//			t.Reset(100 * time.Millisecond)
+			//		}
+			//	}
+			//	go func() {
+			//		for {
+			//			wg.Wait()
+			//			run()
+			//		}
+			//	}()
+			//},
+
+			//func() {
+			//	go func() {
+			//		for {
+			//			_ = cli.GetHistoryTaskPrize()
+			//		}
+			//	}()
+			//},
+		}
+
+		i := 0
+		t := time.NewTimer(time.Second)
 		for range t.C {
-			_ = cli.Ping()
-			t.Reset(s)
+			action[i]()
+			i++
+			if i >= len(action) {
+				t.Stop()
+				return
+			}
+			t.Reset(time.Second)
 		}
 	}()
-
-	go func() {
-		time.Sleep(time.Second)
-		_ = cli.GetMailAttach(mhyc.DefineGetMailAttachAll)
-		time.Sleep(time.Second)
-		_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay)
-		time.Sleep(time.Second)
-		_ = cli.Respect(mhyc.DefineRespect)
-	}()
-
-	//go func() {
-	//	t := time.NewTimer(time.Second)
-	//	for range t.C {
-	//		_ = cli.MailList()
-	//		t.Reset(time.Second)
-	//	}
-	//}()
 
 	go func() {
 		for {
@@ -75,7 +204,7 @@ func main() {
 				log.Println("read:", err)
 				return
 			}
-			var id int16
+			var id uint16
 			err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
 			if err != nil {
 				log.Printf("recv: %v", err)
@@ -85,9 +214,7 @@ func main() {
 				log.Printf("recv: id[%d] manage func non-existent", id)
 				continue
 			}
-			go func(id int16, message []byte) {
-				mhyc.PCK[id].Message(message)
-			}(id, message[4:])
+			go mhyc.PCK[id].Message(message[4:])
 		}
 	}()
 
@@ -101,3 +228,9 @@ func main() {
 
 // 接收
 // o = u.decode(n)
+
+//S2CUserBag
+
+//t.prototype.loginRoleInfo
+//t.prototype.Proc_S2CRoleInfo
+//return e.AttrType = {

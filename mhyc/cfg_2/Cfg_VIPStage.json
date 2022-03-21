@@ -1,0 +1,41 @@
+[
+	{
+		"VIPExp": 2
+	},
+	{
+		"Stage": 5,
+		"VIPExp": 3
+	},
+	{
+		"Stage": 7,
+		"VIPExp": 5
+	},
+	{
+		"Stage": 10,
+		"VIPExp": 7
+	},
+	{
+		"Stage": 15,
+		"VIPExp": 10
+	},
+	{
+		"Stage": 20,
+		"VIPExp": 12
+	},
+	{
+		"Stage": 25,
+		"VIPExp": 15
+	},
+	{
+		"Stage": 30,
+		"VIPExp": 18
+	},
+	{
+		"Stage": 40,
+		"VIPExp": 20
+	},
+	{
+		"Stage": 50,
+		"VIPExp": 1
+	}
+]

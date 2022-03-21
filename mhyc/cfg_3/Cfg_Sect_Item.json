@@ -1,0 +1,78 @@
+[
+	{
+		"Event": 1,
+		"Id": 1,
+		"Integral": 3,
+		"ItemId": 500,
+		"Quality": "1|2|3",
+		"Type": "1",
+		"UseNum": 1
+	},
+	{
+		"Event": 2,
+		"Id": 2,
+		"Integral": 3,
+		"ItemId": 500,
+		"Quality": "1|2|3",
+		"Type": "1",
+		"UseNum": 1
+	},
+	{
+		"Event": 3,
+		"Id": 3,
+		"Integral": 3,
+		"ItemId": 500,
+		"Quality": "1|2|3",
+		"Type": "1",
+		"UseNum": 1,
+		"Weight": 9200
+	},
+	{
+		"Event": 4,
+		"Id": 4,
+		"Integral": 3,
+		"ItemId": 500,
+		"Quality": "4",
+		"Type": "4",
+		"UseNum": 1,
+		"Weight": 300
+	},
+	{
+		"Event": 5,
+		"Id": 5,
+		"Integral": 3,
+		"ItemId": 500,
+		"Quality": "3",
+		"Type": "1",
+		"UseNum": 1,
+		"Weight": 500
+	},
+	{
+		"Event": 3,
+		"Id": 6,
+		"Integral": 10,
+		"ItemId": 501,
+		"Quality": "2|3",
+		"Type": "1",
+		"UseNum": 1,
+		"Weight": 1
+	},
+	{
+		"Event": 4,
+		"Id": 7,
+		"Integral": 50,
+		"ItemId": 502,
+		"Quality": "4",
+		"Type": "4|5|6",
+		"UseNum": 1,
+		"Weight": 1
+	},
+	{
+		"Event": 7,
+		"Id": 8,
+		"Integral": 20,
+		"ItemId": 503,
+		"UseNum": 1,
+		"Weight": 1
+	}
+]

@@ -1,0 +1,2662 @@
+[
+	{
+		"AttrId": 662000001,
+		"EquipNum": 2,
+		"Reborn": 1,
+		"StarNum": 1,
+		"SuitId": 10102
+	},
+	{
+		"AttrId": 662000002,
+		"EquipNum": 4,
+		"Reborn": 1,
+		"StarNum": 1,
+		"SuitId": 10104
+	},
+	{
+		"AttrId": 662000003,
+		"EquipNum": 7,
+		"Reborn": 1,
+		"StarNum": 1,
+		"SuitId": 10107
+	},
+	{
+		"AttrId": 662000004,
+		"EquipNum": 10,
+		"Reborn": 1,
+		"StarNum": 1,
+		"SuitId": 10110
+	},
+	{
+		"AttrId": 662000011,
+		"EquipNum": 2,
+		"Reborn": 1,
+		"StarNum": 2,
+		"SuitId": 10202
+	},
+	{
+		"AttrId": 662000012,
+		"EquipNum": 4,
+		"Reborn": 1,
+		"StarNum": 2,
+		"SuitId": 10204
+	},
+	{
+		"AttrId": 662000013,
+		"EquipNum": 7,
+		"Reborn": 1,
+		"StarNum": 2,
+		"SuitId": 10207
+	},
+	{
+		"AttrId": 662000014,
+		"EquipNum": 10,
+		"Reborn": 1,
+		"StarNum": 2,
+		"SuitId": 10210
+	},
+	{
+		"AttrId": 662000021,
+		"EquipNum": 2,
+		"Reborn": 1,
+		"StarNum": 3,
+		"SuitId": 10302
+	},
+	{
+		"AttrId": 662000022,
+		"EquipNum": 4,
+		"Reborn": 1,
+		"StarNum": 3,
+		"SuitId": 10304
+	},
+	{
+		"AttrId": 662000023,
+		"EquipNum": 7,
+		"Reborn": 1,
+		"StarNum": 3,
+		"SuitId": 10307
+	},
+	{
+		"AttrId": 662000024,
+		"EquipNum": 10,
+		"Reborn": 1,
+		"StarNum": 3,
+		"SuitId": 10310
+	},
+	{
+		"AttrId": 662000031,
+		"EquipNum": 2,
+		"Reborn": 1,
+		"StarNum": 4,
+		"SuitId": 10402
+	},
+	{
+		"AttrId": 662000032,
+		"EquipNum": 4,
+		"Reborn": 1,
+		"StarNum": 4,
+		"SuitId": 10404
+	},
+	{
+		"AttrId": 662000033,
+		"EquipNum": 7,
+		"Reborn": 1,
+		"StarNum": 4,
+		"SuitId": 10407
+	},
+	{
+		"AttrId": 662000034,
+		"EquipNum": 10,
+		"Reborn": 1,
+		"StarNum": 4,
+		"SuitId": 10410
+	},
+	{
+		"AttrId": 662000041,
+		"EquipNum": 2,
+		"Reborn": 1,
+		"StarNum": 5,
+		"SuitId": 10502
+	},
+	{
+		"AttrId": 662000042,
+		"EquipNum": 4,
+		"Reborn": 1,
+		"StarNum": 5,
+		"SuitId": 10504
+	},
+	{
+		"AttrId": 662000043,
+		"EquipNum": 7,
+		"Reborn": 1,
+		"StarNum": 5,
+		"SuitId": 10507
+	},
+	{
+		"AttrId": 662000044,
+		"EquipNum": 10,
+		"Reborn": 1,
+		"StarNum": 5,
+		"SuitId": 10510
+	},
+	{
+		"AttrId": 662000051,
+		"EquipNum": 2,
+		"Reborn": 2,
+		"StarNum": 1,
+		"SuitId": 20102
+	},
+	{
+		"AttrId": 662000052,
+		"EquipNum": 4,
+		"Reborn": 2,
+		"StarNum": 1,
+		"SuitId": 20104
+	},
+	{
+		"AttrId": 662000053,
+		"EquipNum": 7,
+		"Reborn": 2,
+		"StarNum": 1,
+		"SuitId": 20107
+	},
+	{
+		"AttrId": 662000054,
+		"EquipNum": 10,
+		"Reborn": 2,
+		"StarNum": 1,
+		"SuitId": 20110
+	},
+	{
+		"AttrId": 662000061,
+		"EquipNum": 2,
+		"Reborn": 2,
+		"StarNum": 2,
+		"SuitId": 20202
+	},
+	{
+		"AttrId": 662000062,
+		"EquipNum": 4,
+		"Reborn": 2,
+		"StarNum": 2,
+		"SuitId": 20204
+	},
+	{
+		"AttrId": 662000063,
+		"EquipNum": 7,
+		"Reborn": 2,
+		"StarNum": 2,
+		"SuitId": 20207
+	},
+	{
+		"AttrId": 662000064,
+		"EquipNum": 10,
+		"Reborn": 2,
+		"StarNum": 2,
+		"SuitId": 20210
+	},
+	{
+		"AttrId": 662000071,
+		"EquipNum": 2,
+		"Reborn": 2,
+		"StarNum": 3,
+		"SuitId": 20302
+	},
+	{
+		"AttrId": 662000072,
+		"EquipNum": 4,
+		"Reborn": 2,
+		"StarNum": 3,
+		"SuitId": 20304
+	},
+	{
+		"AttrId": 662000073,
+		"EquipNum": 7,
+		"Reborn": 2,
+		"StarNum": 3,
+		"SuitId": 20307
+	},
+	{
+		"AttrId": 662000074,
+		"EquipNum": 10,
+		"Reborn": 2,
+		"StarNum": 3,
+		"SuitId": 20310
+	},
+	{
+		"AttrId": 662000081,
+		"EquipNum": 2,
+		"Reborn": 2,
+		"StarNum": 4,
+		"SuitId": 20402
+	},
+	{
+		"AttrId": 662000082,
+		"EquipNum": 4,
+		"Reborn": 2,
+		"StarNum": 4,
+		"SuitId": 20404
+	},
+	{
+		"AttrId": 662000083,
+		"EquipNum": 7,
+		"Reborn": 2,
+		"StarNum": 4,
+		"SuitId": 20407
+	},
+	{
+		"AttrId": 662000084,
+		"EquipNum": 10,
+		"Reborn": 2,
+		"StarNum": 4,
+		"SuitId": 20410
+	},
+	{
+		"AttrId": 662000091,
+		"EquipNum": 2,
+		"Reborn": 2,
+		"StarNum": 5,
+		"SuitId": 20502
+	},
+	{
+		"AttrId": 662000092,
+		"EquipNum": 4,
+		"Reborn": 2,
+		"StarNum": 5,
+		"SuitId": 20504
+	},
+	{
+		"AttrId": 662000093,
+		"EquipNum": 7,
+		"Reborn": 2,
+		"StarNum": 5,
+		"SuitId": 20507
+	},
+	{
+		"AttrId": 662000094,
+		"EquipNum": 10,
+		"Reborn": 2,
+		"StarNum": 5,
+		"SuitId": 20510
+	},
+	{
+		"AttrId": 662000101,
+		"EquipNum": 2,
+		"Reborn": 3,
+		"StarNum": 1,
+		"SuitId": 30102
+	},
+	{
+		"AttrId": 662000102,
+		"EquipNum": 4,
+		"Reborn": 3,
+		"StarNum": 1,
+		"SuitId": 30104
+	},
+	{
+		"AttrId": 662000103,
+		"EquipNum": 7,
+		"Reborn": 3,
+		"StarNum": 1,
+		"SuitId": 30107
+	},
+	{
+		"AttrId": 662000104,
+		"EquipNum": 10,
+		"Reborn": 3,
+		"StarNum": 1,
+		"SuitId": 30110
+	},
+	{
+		"AttrId": 662000111,
+		"EquipNum": 2,
+		"Reborn": 3,
+		"StarNum": 2,
+		"SuitId": 30202
+	},
+	{
+		"AttrId": 662000112,
+		"EquipNum": 4,
+		"Reborn": 3,
+		"StarNum": 2,
+		"SuitId": 30204
+	},
+	{
+		"AttrId": 662000113,
+		"EquipNum": 7,
+		"Reborn": 3,
+		"StarNum": 2,
+		"SuitId": 30207
+	},
+	{
+		"AttrId": 662000114,
+		"EquipNum": 10,
+		"Reborn": 3,
+		"StarNum": 2,
+		"SuitId": 30210
+	},
+	{
+		"AttrId": 662000121,
+		"EquipNum": 2,
+		"Reborn": 3,
+		"StarNum": 3,
+		"SuitId": 30302
+	},
+	{
+		"AttrId": 662000122,
+		"EquipNum": 4,
+		"Reborn": 3,
+		"StarNum": 3,
+		"SuitId": 30304
+	},
+	{
+		"AttrId": 662000123,
+		"EquipNum": 7,
+		"Reborn": 3,
+		"StarNum": 3,
+		"SuitId": 30307
+	},
+	{
+		"AttrId": 662000124,
+		"EquipNum": 10,
+		"Reborn": 3,
+		"StarNum": 3,
+		"SuitId": 30310
+	},
+	{
+		"AttrId": 662000131,
+		"EquipNum": 2,
+		"Reborn": 3,
+		"StarNum": 4,
+		"SuitId": 30402
+	},
+	{
+		"AttrId": 662000132,
+		"EquipNum": 4,
+		"Reborn": 3,
+		"StarNum": 4,
+		"SuitId": 30404
+	},
+	{
+		"AttrId": 662000133,
+		"EquipNum": 7,
+		"Reborn": 3,
+		"StarNum": 4,
+		"SuitId": 30407
+	},
+	{
+		"AttrId": 662000134,
+		"EquipNum": 10,
+		"Reborn": 3,
+		"StarNum": 4,
+		"SuitId": 30410
+	},
+	{
+		"AttrId": 662000141,
+		"EquipNum": 2,
+		"Reborn": 3,
+		"StarNum": 5,
+		"SuitId": 30502
+	},
+	{
+		"AttrId": 662000142,
+		"EquipNum": 4,
+		"Reborn": 3,
+		"StarNum": 5,
+		"SuitId": 30504
+	},
+	{
+		"AttrId": 662000143,
+		"EquipNum": 7,
+		"Reborn": 3,
+		"StarNum": 5,
+		"SuitId": 30507
+	},
+	{
+		"AttrId": 662000144,
+		"EquipNum": 10,
+		"Reborn": 3,
+		"StarNum": 5,
+		"SuitId": 30510
+	},
+	{
+		"AttrId": 662000151,
+		"EquipNum": 2,
+		"Reborn": 4,
+		"StarNum": 1,
+		"SuitId": 40102
+	},
+	{
+		"AttrId": 662000152,
+		"EquipNum": 4,
+		"Reborn": 4,
+		"StarNum": 1,
+		"SuitId": 40104
+	},
+	{
+		"AttrId": 662000153,
+		"EquipNum": 7,
+		"Reborn": 4,
+		"StarNum": 1,
+		"SuitId": 40107
+	},
+	{
+		"AttrId": 662000154,
+		"EquipNum": 10,
+		"Reborn": 4,
+		"StarNum": 1,
+		"SuitId": 40110
+	},
+	{
+		"AttrId": 662000161,
+		"EquipNum": 2,
+		"Reborn": 4,
+		"StarNum": 2,
+		"SuitId": 40202
+	},
+	{
+		"AttrId": 662000162,
+		"EquipNum": 4,
+		"Reborn": 4,
+		"StarNum": 2,
+		"SuitId": 40204
+	},
+	{
+		"AttrId": 662000163,
+		"EquipNum": 7,
+		"Reborn": 4,
+		"StarNum": 2,
+		"SuitId": 40207
+	},
+	{
+		"AttrId": 662000164,
+		"EquipNum": 10,
+		"Reborn": 4,
+		"StarNum": 2,
+		"SuitId": 40210
+	},
+	{
+		"AttrId": 662000171,
+		"EquipNum": 2,
+		"Reborn": 4,
+		"StarNum": 3,
+		"SuitId": 40302
+	},
+	{
+		"AttrId": 662000172,
+		"EquipNum": 4,
+		"Reborn": 4,
+		"StarNum": 3,
+		"SuitId": 40304
+	},
+	{
+		"AttrId": 662000173,
+		"EquipNum": 7,
+		"Reborn": 4,
+		"StarNum": 3,
+		"SuitId": 40307
+	},
+	{
+		"AttrId": 662000174,
+		"EquipNum": 10,
+		"Reborn": 4,
+		"StarNum": 3,
+		"SuitId": 40310
+	},
+	{
+		"AttrId": 662000181,
+		"EquipNum": 2,
+		"Reborn": 4,
+		"StarNum": 4,
+		"SuitId": 40402
+	},
+	{
+		"AttrId": 662000182,
+		"EquipNum": 4,
+		"Reborn": 4,
+		"StarNum": 4,
+		"SuitId": 40404
+	},
+	{
+		"AttrId": 662000183,
+		"EquipNum": 7,
+		"Reborn": 4,
+		"StarNum": 4,
+		"SuitId": 40407
+	},
+	{
+		"AttrId": 662000184,
+		"EquipNum": 10,
+		"Reborn": 4,
+		"StarNum": 4,
+		"SuitId": 40410
+	},
+	{
+		"AttrId": 662000191,
+		"EquipNum": 2,
+		"Reborn": 4,
+		"StarNum": 5,
+		"SuitId": 40502
+	},
+	{
+		"AttrId": 662000192,
+		"EquipNum": 4,
+		"Reborn": 4,
+		"StarNum": 5,
+		"SuitId": 40504
+	},
+	{
+		"AttrId": 662000193,
+		"EquipNum": 7,
+		"Reborn": 4,
+		"StarNum": 5,
+		"SuitId": 40507
+	},
+	{
+		"AttrId": 662000194,
+		"EquipNum": 10,
+		"Reborn": 4,
+		"StarNum": 5,
+		"SuitId": 40510
+	},
+	{
+		"AttrId": 662000201,
+		"EquipNum": 2,
+		"Reborn": 5,
+		"StarNum": 1,
+		"SuitId": 50102
+	},
+	{
+		"AttrId": 662000202,
+		"EquipNum": 4,
+		"Reborn": 5,
+		"StarNum": 1,
+		"SuitId": 50104
+	},
+	{
+		"AttrId": 662000203,
+		"EquipNum": 7,
+		"Reborn": 5,
+		"StarNum": 1,
+		"SuitId": 50107
+	},
+	{
+		"AttrId": 662000204,
+		"EquipNum": 10,
+		"Reborn": 5,
+		"StarNum": 1,
+		"SuitId": 50110
+	},
+	{
+		"AttrId": 662000211,
+		"EquipNum": 2,
+		"Reborn": 5,
+		"StarNum": 2,
+		"SuitId": 50202
+	},
+	{
+		"AttrId": 662000212,
+		"EquipNum": 4,
+		"Reborn": 5,
+		"StarNum": 2,
+		"SuitId": 50204
+	},
+	{
+		"AttrId": 662000213,
+		"EquipNum": 7,
+		"Reborn": 5,
+		"StarNum": 2,
+		"SuitId": 50207
+	},
+	{
+		"AttrId": 662000214,
+		"EquipNum": 10,
+		"Reborn": 5,
+		"StarNum": 2,
+		"SuitId": 50210
+	},
+	{
+		"AttrId": 662000221,
+		"EquipNum": 2,
+		"Reborn": 5,
+		"StarNum": 3,
+		"SuitId": 50302
+	},
+	{
+		"AttrId": 662000222,
+		"EquipNum": 4,
+		"Reborn": 5,
+		"StarNum": 3,
+		"SuitId": 50304
+	},
+	{
+		"AttrId": 662000223,
+		"EquipNum": 7,
+		"Reborn": 5,
+		"StarNum": 3,
+		"SuitId": 50307
+	},
+	{
+		"AttrId": 662000224,
+		"EquipNum": 10,
+		"Reborn": 5,
+		"StarNum": 3,
+		"SuitId": 50310
+	},
+	{
+		"AttrId": 662000231,
+		"EquipNum": 2,
+		"Reborn": 5,
+		"StarNum": 4,
+		"SuitId": 50402
+	},
+	{
+		"AttrId": 662000232,
+		"EquipNum": 4,
+		"Reborn": 5,
+		"StarNum": 4,
+		"SuitId": 50404
+	},
+	{
+		"AttrId": 662000233,
+		"EquipNum": 7,
+		"Reborn": 5,
+		"StarNum": 4,
+		"SuitId": 50407
+	},
+	{
+		"AttrId": 662000234,
+		"EquipNum": 10,
+		"Reborn": 5,
+		"StarNum": 4,
+		"SuitId": 50410
+	},
+	{
+		"AttrId": 662000241,
+		"EquipNum": 2,
+		"Reborn": 5,
+		"StarNum": 5,
+		"SuitId": 50502
+	},
+	{
+		"AttrId": 662000242,
+		"EquipNum": 4,
+		"Reborn": 5,
+		"StarNum": 5,
+		"SuitId": 50504
+	},
+	{
+		"AttrId": 662000243,
+		"EquipNum": 7,
+		"Reborn": 5,
+		"StarNum": 5,
+		"SuitId": 50507
+	},
+	{
+		"AttrId": 662000244,
+		"EquipNum": 10,
+		"Reborn": 5,
+		"StarNum": 5,
+		"SuitId": 50510
+	},
+	{
+		"AttrId": 662000251,
+		"EquipNum": 2,
+		"Reborn": 6,
+		"StarNum": 1,
+		"SuitId": 60102
+	},
+	{
+		"AttrId": 662000252,
+		"EquipNum": 4,
+		"Reborn": 6,
+		"StarNum": 1,
+		"SuitId": 60104
+	},
+	{
+		"AttrId": 662000253,
+		"EquipNum": 7,
+		"Reborn": 6,
+		"StarNum": 1,
+		"SuitId": 60107
+	},
+	{
+		"AttrId": 662000254,
+		"EquipNum": 10,
+		"Reborn": 6,
+		"StarNum": 1,
+		"SuitId": 60110
+	},
+	{
+		"AttrId": 662000261,
+		"EquipNum": 2,
+		"Reborn": 6,
+		"StarNum": 2,
+		"SuitId": 60202
+	},
+	{
+		"AttrId": 662000262,
+		"EquipNum": 4,
+		"Reborn": 6,
+		"StarNum": 2,
+		"SuitId": 60204
+	},
+	{
+		"AttrId": 662000263,
+		"EquipNum": 7,
+		"Reborn": 6,
+		"StarNum": 2,
+		"SuitId": 60207
+	},
+	{
+		"AttrId": 662000264,
+		"EquipNum": 10,
+		"Reborn": 6,
+		"StarNum": 2,
+		"SuitId": 60210
+	},
+	{
+		"AttrId": 662000271,
+		"EquipNum": 2,
+		"Reborn": 6,
+		"StarNum": 3,
+		"SuitId": 60302
+	},
+	{
+		"AttrId": 662000272,
+		"EquipNum": 4,
+		"Reborn": 6,
+		"StarNum": 3,
+		"SuitId": 60304
+	},
+	{
+		"AttrId": 662000273,
+		"EquipNum": 7,
+		"Reborn": 6,
+		"StarNum": 3,
+		"SuitId": 60307
+	},
+	{
+		"AttrId": 662000274,
+		"EquipNum": 10,
+		"Reborn": 6,
+		"StarNum": 3,
+		"SuitId": 60310
+	},
+	{
+		"AttrId": 662000281,
+		"EquipNum": 2,
+		"Reborn": 6,
+		"StarNum": 4,
+		"SuitId": 60402
+	},
+	{
+		"AttrId": 662000282,
+		"EquipNum": 4,
+		"Reborn": 6,
+		"StarNum": 4,
+		"SuitId": 60404
+	},
+	{
+		"AttrId": 662000283,
+		"EquipNum": 7,
+		"Reborn": 6,
+		"StarNum": 4,
+		"SuitId": 60407
+	},
+	{
+		"AttrId": 662000284,
+		"EquipNum": 10,
+		"Reborn": 6,
+		"StarNum": 4,
+		"SuitId": 60410
+	},
+	{
+		"AttrId": 662000291,
+		"EquipNum": 2,
+		"Reborn": 6,
+		"StarNum": 5,
+		"SuitId": 60502
+	},
+	{
+		"AttrId": 662000292,
+		"EquipNum": 4,
+		"Reborn": 6,
+		"StarNum": 5,
+		"SuitId": 60504
+	},
+	{
+		"AttrId": 662000293,
+		"EquipNum": 7,
+		"Reborn": 6,
+		"StarNum": 5,
+		"SuitId": 60507
+	},
+	{
+		"AttrId": 662000294,
+		"EquipNum": 10,
+		"Reborn": 6,
+		"StarNum": 5,
+		"SuitId": 60510
+	},
+	{
+		"AttrId": 662000301,
+		"EquipNum": 2,
+		"Reborn": 7,
+		"StarNum": 1,
+		"SuitId": 70102
+	},
+	{
+		"AttrId": 662000302,
+		"EquipNum": 4,
+		"Reborn": 7,
+		"StarNum": 1,
+		"SuitId": 70104
+	},
+	{
+		"AttrId": 662000303,
+		"EquipNum": 7,
+		"Reborn": 7,
+		"StarNum": 1,
+		"SuitId": 70107
+	},
+	{
+		"AttrId": 662000304,
+		"EquipNum": 10,
+		"Reborn": 7,
+		"StarNum": 1,
+		"SuitId": 70110
+	},
+	{
+		"AttrId": 662000311,
+		"EquipNum": 2,
+		"Reborn": 7,
+		"StarNum": 2,
+		"SuitId": 70202
+	},
+	{
+		"AttrId": 662000312,
+		"EquipNum": 4,
+		"Reborn": 7,
+		"StarNum": 2,
+		"SuitId": 70204
+	},
+	{
+		"AttrId": 662000313,
+		"EquipNum": 7,
+		"Reborn": 7,
+		"StarNum": 2,
+		"SuitId": 70207
+	},
+	{
+		"AttrId": 662000314,
+		"EquipNum": 10,
+		"Reborn": 7,
+		"StarNum": 2,
+		"SuitId": 70210
+	},
+	{
+		"AttrId": 662000321,
+		"EquipNum": 2,
+		"Reborn": 7,
+		"StarNum": 3,
+		"SuitId": 70302
+	},
+	{
+		"AttrId": 662000322,
+		"EquipNum": 4,
+		"Reborn": 7,
+		"StarNum": 3,
+		"SuitId": 70304
+	},
+	{
+		"AttrId": 662000323,
+		"EquipNum": 7,
+		"Reborn": 7,
+		"StarNum": 3,
+		"SuitId": 70307
+	},
+	{
+		"AttrId": 662000324,
+		"EquipNum": 10,
+		"Reborn": 7,
+		"StarNum": 3,
+		"SuitId": 70310
+	},
+	{
+		"AttrId": 662000331,
+		"EquipNum": 2,
+		"Reborn": 7,
+		"StarNum": 4,
+		"SuitId": 70402
+	},
+	{
+		"AttrId": 662000332,
+		"EquipNum": 4,
+		"Reborn": 7,
+		"StarNum": 4,
+		"SuitId": 70404
+	},
+	{
+		"AttrId": 662000333,
+		"EquipNum": 7,
+		"Reborn": 7,
+		"StarNum": 4,
+		"SuitId": 70407
+	},
+	{
+		"AttrId": 662000334,
+		"EquipNum": 10,
+		"Reborn": 7,
+		"StarNum": 4,
+		"SuitId": 70410
+	},
+	{
+		"AttrId": 662000341,
+		"EquipNum": 2,
+		"Reborn": 7,
+		"StarNum": 5,
+		"SuitId": 70502
+	},
+	{
+		"AttrId": 662000342,
+		"EquipNum": 4,
+		"Reborn": 7,
+		"StarNum": 5,
+		"SuitId": 70504
+	},
+	{
+		"AttrId": 662000343,
+		"EquipNum": 7,
+		"Reborn": 7,
+		"StarNum": 5,
+		"SuitId": 70507
+	},
+	{
+		"AttrId": 662000344,
+		"EquipNum": 10,
+		"Reborn": 7,
+		"StarNum": 5,
+		"SuitId": 70510
+	},
+	{
+		"AttrId": 662000351,
+		"EquipNum": 2,
+		"Reborn": 8,
+		"StarNum": 1,
+		"SuitId": 80102
+	},
+	{
+		"AttrId": 662000352,
+		"EquipNum": 4,
+		"Reborn": 8,
+		"StarNum": 1,
+		"SuitId": 80104
+	},
+	{
+		"AttrId": 662000353,
+		"EquipNum": 7,
+		"Reborn": 8,
+		"StarNum": 1,
+		"SuitId": 80107
+	},
+	{
+		"AttrId": 662000354,
+		"EquipNum": 10,
+		"Reborn": 8,
+		"StarNum": 1,
+		"SuitId": 80110
+	},
+	{
+		"AttrId": 662000361,
+		"EquipNum": 2,
+		"Reborn": 8,
+		"StarNum": 2,
+		"SuitId": 80202
+	},
+	{
+		"AttrId": 662000362,
+		"EquipNum": 4,
+		"Reborn": 8,
+		"StarNum": 2,
+		"SuitId": 80204
+	},
+	{
+		"AttrId": 662000363,
+		"EquipNum": 7,
+		"Reborn": 8,
+		"StarNum": 2,
+		"SuitId": 80207
+	},
+	{
+		"AttrId": 662000364,
+		"EquipNum": 10,
+		"Reborn": 8,
+		"StarNum": 2,
+		"SuitId": 80210
+	},
+	{
+		"AttrId": 662000371,
+		"EquipNum": 2,
+		"Reborn": 8,
+		"StarNum": 3,
+		"SuitId": 80302
+	},
+	{
+		"AttrId": 662000372,
+		"EquipNum": 4,
+		"Reborn": 8,
+		"StarNum": 3,
+		"SuitId": 80304
+	},
+	{
+		"AttrId": 662000373,
+		"EquipNum": 7,
+		"Reborn": 8,
+		"StarNum": 3,
+		"SuitId": 80307
+	},
+	{
+		"AttrId": 662000374,
+		"EquipNum": 10,
+		"Reborn": 8,
+		"StarNum": 3,
+		"SuitId": 80310
+	},
+	{
+		"AttrId": 662000381,
+		"EquipNum": 2,
+		"Reborn": 8,
+		"StarNum": 4,
+		"SuitId": 80402
+	},
+	{
+		"AttrId": 662000382,
+		"EquipNum": 4,
+		"Reborn": 8,
+		"StarNum": 4,
+		"SuitId": 80404
+	},
+	{
+		"AttrId": 662000383,
+		"EquipNum": 7,
+		"Reborn": 8,
+		"StarNum": 4,
+		"SuitId": 80407
+	},
+	{
+		"AttrId": 662000384,
+		"EquipNum": 10,
+		"Reborn": 8,
+		"StarNum": 4,
+		"SuitId": 80410
+	},
+	{
+		"AttrId": 662000391,
+		"EquipNum": 2,
+		"Reborn": 8,
+		"StarNum": 5,
+		"SuitId": 80502
+	},
+	{
+		"AttrId": 662000392,
+		"EquipNum": 4,
+		"Reborn": 8,
+		"StarNum": 5,
+		"SuitId": 80504
+	},
+	{
+		"AttrId": 662000393,
+		"EquipNum": 7,
+		"Reborn": 8,
+		"StarNum": 5,
+		"SuitId": 80507
+	},
+	{
+		"AttrId": 662000394,
+		"EquipNum": 10,
+		"Reborn": 8,
+		"StarNum": 5,
+		"SuitId": 80510
+	},
+	{
+		"AttrId": 662000401,
+		"EquipNum": 2,
+		"Reborn": 9,
+		"StarNum": 1,
+		"SuitId": 90102
+	},
+	{
+		"AttrId": 662000402,
+		"EquipNum": 4,
+		"Reborn": 9,
+		"StarNum": 1,
+		"SuitId": 90104
+	},
+	{
+		"AttrId": 662000403,
+		"EquipNum": 7,
+		"Reborn": 9,
+		"StarNum": 1,
+		"SuitId": 90107
+	},
+	{
+		"AttrId": 662000404,
+		"EquipNum": 10,
+		"Reborn": 9,
+		"StarNum": 1,
+		"SuitId": 90110
+	},
+	{
+		"AttrId": 662000411,
+		"EquipNum": 2,
+		"Reborn": 9,
+		"StarNum": 2,
+		"SuitId": 90202
+	},
+	{
+		"AttrId": 662000412,
+		"EquipNum": 4,
+		"Reborn": 9,
+		"StarNum": 2,
+		"SuitId": 90204
+	},
+	{
+		"AttrId": 662000413,
+		"EquipNum": 7,
+		"Reborn": 9,
+		"StarNum": 2,
+		"SuitId": 90207
+	},
+	{
+		"AttrId": 662000414,
+		"EquipNum": 10,
+		"Reborn": 9,
+		"StarNum": 2,
+		"SuitId": 90210
+	},
+	{
+		"AttrId": 662000421,
+		"EquipNum": 2,
+		"Reborn": 9,
+		"StarNum": 3,
+		"SuitId": 90302
+	},
+	{
+		"AttrId": 662000422,
+		"EquipNum": 4,
+		"Reborn": 9,
+		"StarNum": 3,
+		"SuitId": 90304
+	},
+	{
+		"AttrId": 662000423,
+		"EquipNum": 7,
+		"Reborn": 9,
+		"StarNum": 3,
+		"SuitId": 90307
+	},
+	{
+		"AttrId": 662000424,
+		"EquipNum": 10,
+		"Reborn": 9,
+		"StarNum": 3,
+		"SuitId": 90310
+	},
+	{
+		"AttrId": 662000431,
+		"EquipNum": 2,
+		"Reborn": 9,
+		"StarNum": 4,
+		"SuitId": 90402
+	},
+	{
+		"AttrId": 662000432,
+		"EquipNum": 4,
+		"Reborn": 9,
+		"StarNum": 4,
+		"SuitId": 90404
+	},
+	{
+		"AttrId": 662000433,
+		"EquipNum": 7,
+		"Reborn": 9,
+		"StarNum": 4,
+		"SuitId": 90407
+	},
+	{
+		"AttrId": 662000434,
+		"EquipNum": 10,
+		"Reborn": 9,
+		"StarNum": 4,
+		"SuitId": 90410
+	},
+	{
+		"AttrId": 662000441,
+		"EquipNum": 2,
+		"Reborn": 9,
+		"StarNum": 5,
+		"SuitId": 90502
+	},
+	{
+		"AttrId": 662000442,
+		"EquipNum": 4,
+		"Reborn": 9,
+		"StarNum": 5,
+		"SuitId": 90504
+	},
+	{
+		"AttrId": 662000443,
+		"EquipNum": 7,
+		"Reborn": 9,
+		"StarNum": 5,
+		"SuitId": 90507
+	},
+	{
+		"AttrId": 662000444,
+		"EquipNum": 10,
+		"Reborn": 9,
+		"StarNum": 5,
+		"SuitId": 90510
+	},
+	{
+		"AttrId": 662000451,
+		"EquipNum": 2,
+		"Reborn": 10,
+		"StarNum": 1,
+		"SuitId": 100102
+	},
+	{
+		"AttrId": 662000452,
+		"EquipNum": 4,
+		"Reborn": 10,
+		"StarNum": 1,
+		"SuitId": 100104
+	},
+	{
+		"AttrId": 662000453,
+		"EquipNum": 7,
+		"Reborn": 10,
+		"StarNum": 1,
+		"SuitId": 100107
+	},
+	{
+		"AttrId": 662000454,
+		"EquipNum": 10,
+		"Reborn": 10,
+		"StarNum": 1,
+		"SuitId": 100110
+	},
+	{
+		"AttrId": 662000461,
+		"EquipNum": 2,
+		"Reborn": 10,
+		"StarNum": 2,
+		"SuitId": 100202
+	},
+	{
+		"AttrId": 662000462,
+		"EquipNum": 4,
+		"Reborn": 10,
+		"StarNum": 2,
+		"SuitId": 100204
+	},
+	{
+		"AttrId": 662000463,
+		"EquipNum": 7,
+		"Reborn": 10,
+		"StarNum": 2,
+		"SuitId": 100207
+	},
+	{
+		"AttrId": 662000464,
+		"EquipNum": 10,
+		"Reborn": 10,
+		"StarNum": 2,
+		"SuitId": 100210
+	},
+	{
+		"AttrId": 662000471,
+		"EquipNum": 2,
+		"Reborn": 10,
+		"StarNum": 3,
+		"SuitId": 100302
+	},
+	{
+		"AttrId": 662000472,
+		"EquipNum": 4,
+		"Reborn": 10,
+		"StarNum": 3,
+		"SuitId": 100304
+	},
+	{
+		"AttrId": 662000473,
+		"EquipNum": 7,
+		"Reborn": 10,
+		"StarNum": 3,
+		"SuitId": 100307
+	},
+	{
+		"AttrId": 662000474,
+		"EquipNum": 10,
+		"Reborn": 10,
+		"StarNum": 3,
+		"SuitId": 100310
+	},
+	{
+		"AttrId": 662000481,
+		"EquipNum": 2,
+		"Reborn": 10,
+		"StarNum": 4,
+		"SuitId": 100402
+	},
+	{
+		"AttrId": 662000482,
+		"EquipNum": 4,
+		"Reborn": 10,
+		"StarNum": 4,
+		"SuitId": 100404
+	},
+	{
+		"AttrId": 662000483,
+		"EquipNum": 7,
+		"Reborn": 10,
+		"StarNum": 4,
+		"SuitId": 100407
+	},
+	{
+		"AttrId": 662000484,
+		"EquipNum": 10,
+		"Reborn": 10,
+		"StarNum": 4,
+		"SuitId": 100410
+	},
+	{
+		"AttrId": 662000491,
+		"EquipNum": 2,
+		"Reborn": 10,
+		"StarNum": 5,
+		"SuitId": 100502
+	},
+	{
+		"AttrId": 662000492,
+		"EquipNum": 4,
+		"Reborn": 10,
+		"StarNum": 5,
+		"SuitId": 100504
+	},
+	{
+		"AttrId": 662000493,
+		"EquipNum": 7,
+		"Reborn": 10,
+		"StarNum": 5,
+		"SuitId": 100507
+	},
+	{
+		"AttrId": 662000494,
+		"EquipNum": 10,
+		"Reborn": 10,
+		"StarNum": 5,
+		"SuitId": 100510
+	},
+	{
+		"AttrId": 662000501,
+		"EquipNum": 2,
+		"Reborn": 11,
+		"StarNum": 1,
+		"SuitId": 110102
+	},
+	{
+		"AttrId": 662000502,
+		"EquipNum": 4,
+		"Reborn": 11,
+		"StarNum": 1,
+		"SuitId": 110104
+	},
+	{
+		"AttrId": 662000503,
+		"EquipNum": 7,
+		"Reborn": 11,
+		"StarNum": 1,
+		"SuitId": 110107
+	},
+	{
+		"AttrId": 662000504,
+		"EquipNum": 10,
+		"Reborn": 11,
+		"StarNum": 1,
+		"SuitId": 110110
+	},
+	{
+		"AttrId": 662000511,
+		"EquipNum": 2,
+		"Reborn": 11,
+		"StarNum": 2,
+		"SuitId": 110202
+	},
+	{
+		"AttrId": 662000512,
+		"EquipNum": 4,
+		"Reborn": 11,
+		"StarNum": 2,
+		"SuitId": 110204
+	},
+	{
+		"AttrId": 662000513,
+		"EquipNum": 7,
+		"Reborn": 11,
+		"StarNum": 2,
+		"SuitId": 110207
+	},
+	{
+		"AttrId": 662000514,
+		"EquipNum": 10,
+		"Reborn": 11,
+		"StarNum": 2,
+		"SuitId": 110210
+	},
+	{
+		"AttrId": 662000521,
+		"EquipNum": 2,
+		"Reborn": 11,
+		"StarNum": 3,
+		"SuitId": 110302
+	},
+	{
+		"AttrId": 662000522,
+		"EquipNum": 4,
+		"Reborn": 11,
+		"StarNum": 3,
+		"SuitId": 110304
+	},
+	{
+		"AttrId": 662000523,
+		"EquipNum": 7,
+		"Reborn": 11,
+		"StarNum": 3,
+		"SuitId": 110307
+	},
+	{
+		"AttrId": 662000524,
+		"EquipNum": 10,
+		"Reborn": 11,
+		"StarNum": 3,
+		"SuitId": 110310
+	},
+	{
+		"AttrId": 662000531,
+		"EquipNum": 2,
+		"Reborn": 11,
+		"StarNum": 4,
+		"SuitId": 110402
+	},
+	{
+		"AttrId": 662000532,
+		"EquipNum": 4,
+		"Reborn": 11,
+		"StarNum": 4,
+		"SuitId": 110404
+	},
+	{
+		"AttrId": 662000533,
+		"EquipNum": 7,
+		"Reborn": 11,
+		"StarNum": 4,
+		"SuitId": 110407
+	},
+	{
+		"AttrId": 662000534,
+		"EquipNum": 10,
+		"Reborn": 11,
+		"StarNum": 4,
+		"SuitId": 110410
+	},
+	{
+		"AttrId": 662000541,
+		"EquipNum": 2,
+		"Reborn": 11,
+		"StarNum": 5,
+		"SuitId": 110502
+	},
+	{
+		"AttrId": 662000542,
+		"EquipNum": 4,
+		"Reborn": 11,
+		"StarNum": 5,
+		"SuitId": 110504
+	},
+	{
+		"AttrId": 662000543,
+		"EquipNum": 7,
+		"Reborn": 11,
+		"StarNum": 5,
+		"SuitId": 110507
+	},
+	{
+		"AttrId": 662000544,
+		"EquipNum": 10,
+		"Reborn": 11,
+		"StarNum": 5,
+		"SuitId": 110510
+	},
+	{
+		"AttrId": 662000551,
+		"EquipNum": 2,
+		"Reborn": 12,
+		"StarNum": 1,
+		"SuitId": 120102
+	},
+	{
+		"AttrId": 662000552,
+		"EquipNum": 4,
+		"Reborn": 12,
+		"StarNum": 1,
+		"SuitId": 120104
+	},
+	{
+		"AttrId": 662000553,
+		"EquipNum": 7,
+		"Reborn": 12,
+		"StarNum": 1,
+		"SuitId": 120107
+	},
+	{
+		"AttrId": 662000554,
+		"EquipNum": 10,
+		"Reborn": 12,
+		"StarNum": 1,
+		"SuitId": 120110
+	},
+	{
+		"AttrId": 662000561,
+		"EquipNum": 2,
+		"Reborn": 12,
+		"StarNum": 2,
+		"SuitId": 120202
+	},
+	{
+		"AttrId": 662000562,
+		"EquipNum": 4,
+		"Reborn": 12,
+		"StarNum": 2,
+		"SuitId": 120204
+	},
+	{
+		"AttrId": 662000563,
+		"EquipNum": 7,
+		"Reborn": 12,
+		"StarNum": 2,
+		"SuitId": 120207
+	},
+	{
+		"AttrId": 662000564,
+		"EquipNum": 10,
+		"Reborn": 12,
+		"StarNum": 2,
+		"SuitId": 120210
+	},
+	{
+		"AttrId": 662000571,
+		"EquipNum": 2,
+		"Reborn": 12,
+		"StarNum": 3,
+		"SuitId": 120302
+	},
+	{
+		"AttrId": 662000572,
+		"EquipNum": 4,
+		"Reborn": 12,
+		"StarNum": 3,
+		"SuitId": 120304
+	},
+	{
+		"AttrId": 662000573,
+		"EquipNum": 7,
+		"Reborn": 12,
+		"StarNum": 3,
+		"SuitId": 120307
+	},
+	{
+		"AttrId": 662000574,
+		"EquipNum": 10,
+		"Reborn": 12,
+		"StarNum": 3,
+		"SuitId": 120310
+	},
+	{
+		"AttrId": 662000581,
+		"EquipNum": 2,
+		"Reborn": 12,
+		"StarNum": 4,
+		"SuitId": 120402
+	},
+	{
+		"AttrId": 662000582,
+		"EquipNum": 4,
+		"Reborn": 12,
+		"StarNum": 4,
+		"SuitId": 120404
+	},
+	{
+		"AttrId": 662000583,
+		"EquipNum": 7,
+		"Reborn": 12,
+		"StarNum": 4,
+		"SuitId": 120407
+	},
+	{
+		"AttrId": 662000584,
+		"EquipNum": 10,
+		"Reborn": 12,
+		"StarNum": 4,
+		"SuitId": 120410
+	},
+	{
+		"AttrId": 662000591,
+		"EquipNum": 2,
+		"Reborn": 12,
+		"StarNum": 5,
+		"SuitId": 120502
+	},
+	{
+		"AttrId": 662000592,
+		"EquipNum": 4,
+		"Reborn": 12,
+		"StarNum": 5,
+		"SuitId": 120504
+	},
+	{
+		"AttrId": 662000593,
+		"EquipNum": 7,
+		"Reborn": 12,
+		"StarNum": 5,
+		"SuitId": 120507
+	},
+	{
+		"AttrId": 662000594,
+		"EquipNum": 10,
+		"Reborn": 12,
+		"StarNum": 5,
+		"SuitId": 120510
+	},
+	{
+		"AttrId": 662000601,
+		"EquipNum": 2,
+		"Reborn": 13,
+		"StarNum": 1,
+		"SuitId": 130102
+	},
+	{
+		"AttrId": 662000602,
+		"EquipNum": 4,
+		"Reborn": 13,
+		"StarNum": 1,
+		"SuitId": 130104
+	},
+	{
+		"AttrId": 662000603,
+		"EquipNum": 7,
+		"Reborn": 13,
+		"StarNum": 1,
+		"SuitId": 130107
+	},
+	{
+		"AttrId": 662000604,
+		"EquipNum": 10,
+		"Reborn": 13,
+		"StarNum": 1,
+		"SuitId": 130110
+	},
+	{
+		"AttrId": 662000611,
+		"EquipNum": 2,
+		"Reborn": 13,
+		"StarNum": 2,
+		"SuitId": 130202
+	},
+	{
+		"AttrId": 662000612,
+		"EquipNum": 4,
+		"Reborn": 13,
+		"StarNum": 2,
+		"SuitId": 130204
+	},
+	{
+		"AttrId": 662000613,
+		"EquipNum": 7,
+		"Reborn": 13,
+		"StarNum": 2,
+		"SuitId": 130207
+	},
+	{
+		"AttrId": 662000614,
+		"EquipNum": 10,
+		"Reborn": 13,
+		"StarNum": 2,
+		"SuitId": 130210
+	},
+	{
+		"AttrId": 662000621,
+		"EquipNum": 2,
+		"Reborn": 13,
+		"StarNum": 3,
+		"SuitId": 130302
+	},
+	{
+		"AttrId": 662000622,
+		"EquipNum": 4,
+		"Reborn": 13,
+		"StarNum": 3,
+		"SuitId": 130304
+	},
+	{
+		"AttrId": 662000623,
+		"EquipNum": 7,
+		"Reborn": 13,
+		"StarNum": 3,
+		"SuitId": 130307
+	},
+	{
+		"AttrId": 662000624,
+		"EquipNum": 10,
+		"Reborn": 13,
+		"StarNum": 3,
+		"SuitId": 130310
+	},
+	{
+		"AttrId": 662000631,
+		"EquipNum": 2,
+		"Reborn": 13,
+		"StarNum": 4,
+		"SuitId": 130402
+	},
+	{
+		"AttrId": 662000632,
+		"EquipNum": 4,
+		"Reborn": 13,
+		"StarNum": 4,
+		"SuitId": 130404
+	},
+	{
+		"AttrId": 662000633,
+		"EquipNum": 7,
+		"Reborn": 13,
+		"StarNum": 4,
+		"SuitId": 130407
+	},
+	{
+		"AttrId": 662000634,
+		"EquipNum": 10,
+		"Reborn": 13,
+		"StarNum": 4,
+		"SuitId": 130410
+	},
+	{
+		"AttrId": 662000641,
+		"EquipNum": 2,
+		"Reborn": 13,
+		"StarNum": 5,
+		"SuitId": 130502
+	},
+	{
+		"AttrId": 662000642,
+		"EquipNum": 4,
+		"Reborn": 13,
+		"StarNum": 5,
+		"SuitId": 130504
+	},
+	{
+		"AttrId": 662000643,
+		"EquipNum": 7,
+		"Reborn": 13,
+		"StarNum": 5,
+		"SuitId": 130507
+	},
+	{
+		"AttrId": 662000644,
+		"EquipNum": 10,
+		"Reborn": 13,
+		"StarNum": 5,
+		"SuitId": 130510
+	},
+	{
+		"AttrId": 662000651,
+		"EquipNum": 2,
+		"Reborn": 14,
+		"StarNum": 1,
+		"SuitId": 140102
+	},
+	{
+		"AttrId": 662000652,
+		"EquipNum": 4,
+		"Reborn": 14,
+		"StarNum": 1,
+		"SuitId": 140104
+	},
+	{
+		"AttrId": 662000653,
+		"EquipNum": 7,
+		"Reborn": 14,
+		"StarNum": 1,
+		"SuitId": 140107
+	},
+	{
+		"AttrId": 662000654,
+		"EquipNum": 10,
+		"Reborn": 14,
+		"StarNum": 1,
+		"SuitId": 140110
+	},
+	{
+		"AttrId": 662000661,
+		"EquipNum": 2,
+		"Reborn": 14,
+		"StarNum": 2,
+		"SuitId": 140202
+	},
+	{
+		"AttrId": 662000662,
+		"EquipNum": 4,
+		"Reborn": 14,
+		"StarNum": 2,
+		"SuitId": 140204
+	},
+	{
+		"AttrId": 662000663,
+		"EquipNum": 7,
+		"Reborn": 14,
+		"StarNum": 2,
+		"SuitId": 140207
+	},
+	{
+		"AttrId": 662000664,
+		"EquipNum": 10,
+		"Reborn": 14,
+		"StarNum": 2,
+		"SuitId": 140210
+	},
+	{
+		"AttrId": 662000671,
+		"EquipNum": 2,
+		"Reborn": 14,
+		"StarNum": 3,
+		"SuitId": 140302
+	},
+	{
+		"AttrId": 662000672,
+		"EquipNum": 4,
+		"Reborn": 14,
+		"StarNum": 3,
+		"SuitId": 140304
+	},
+	{
+		"AttrId": 662000673,
+		"EquipNum": 7,
+		"Reborn": 14,
+		"StarNum": 3,
+		"SuitId": 140307
+	},
+	{
+		"AttrId": 662000674,
+		"EquipNum": 10,
+		"Reborn": 14,
+		"StarNum": 3,
+		"SuitId": 140310
+	},
+	{
+		"AttrId": 662000681,
+		"EquipNum": 2,
+		"Reborn": 14,
+		"StarNum": 4,
+		"SuitId": 140402
+	},
+	{
+		"AttrId": 662000682,
+		"EquipNum": 4,
+		"Reborn": 14,
+		"StarNum": 4,
+		"SuitId": 140404
+	},
+	{
+		"AttrId": 662000683,
+		"EquipNum": 7,
+		"Reborn": 14,
+		"StarNum": 4,
+		"SuitId": 140407
+	},
+	{
+		"AttrId": 662000684,
+		"EquipNum": 10,
+		"Reborn": 14,
+		"StarNum": 4,
+		"SuitId": 140410
+	},
+	{
+		"AttrId": 662000691,
+		"EquipNum": 2,
+		"Reborn": 14,
+		"StarNum": 5,
+		"SuitId": 140502
+	},
+	{
+		"AttrId": 662000692,
+		"EquipNum": 4,
+		"Reborn": 14,
+		"StarNum": 5,
+		"SuitId": 140504
+	},
+	{
+		"AttrId": 662000693,
+		"EquipNum": 7,
+		"Reborn": 14,
+		"StarNum": 5,
+		"SuitId": 140507
+	},
+	{
+		"AttrId": 662000694,
+		"EquipNum": 10,
+		"Reborn": 14,
+		"StarNum": 5,
+		"SuitId": 140510
+	},
+	{
+		"AttrId": 662000701,
+		"EquipNum": 2,
+		"Reborn": 15,
+		"StarNum": 1,
+		"SuitId": 150102
+	},
+	{
+		"AttrId": 662000702,
+		"EquipNum": 4,
+		"Reborn": 15,
+		"StarNum": 1,
+		"SuitId": 150104
+	},
+	{
+		"AttrId": 662000703,
+		"EquipNum": 7,
+		"Reborn": 15,
+		"StarNum": 1,
+		"SuitId": 150107
+	},
+	{
+		"AttrId": 662000704,
+		"EquipNum": 10,
+		"Reborn": 15,
+		"StarNum": 1,
+		"SuitId": 150110
+	},
+	{
+		"AttrId": 662000711,
+		"EquipNum": 2,
+		"Reborn": 15,
+		"StarNum": 2,
+		"SuitId": 150202
+	},
+	{
+		"AttrId": 662000712,
+		"EquipNum": 4,
+		"Reborn": 15,
+		"StarNum": 2,
+		"SuitId": 150204
+	},
+	{
+		"AttrId": 662000713,
+		"EquipNum": 7,
+		"Reborn": 15,
+		"StarNum": 2,
+		"SuitId": 150207
+	},
+	{
+		"AttrId": 662000714,
+		"EquipNum": 10,
+		"Reborn": 15,
+		"StarNum": 2,
+		"SuitId": 150210
+	},
+	{
+		"AttrId": 662000721,
+		"EquipNum": 2,
+		"Reborn": 15,
+		"StarNum": 3,
+		"SuitId": 150302
+	},
+	{
+		"AttrId": 662000722,
+		"EquipNum": 4,
+		"Reborn": 15,
+		"StarNum": 3,
+		"SuitId": 150304
+	},
+	{
+		"AttrId": 662000723,
+		"EquipNum": 7,
+		"Reborn": 15,
+		"StarNum": 3,
+		"SuitId": 150307
+	},
+	{
+		"AttrId": 662000724,
+		"EquipNum": 10,
+		"Reborn": 15,
+		"StarNum": 3,
+		"SuitId": 150310
+	},
+	{
+		"AttrId": 662000731,
+		"EquipNum": 2,
+		"Reborn": 15,
+		"StarNum": 4,
+		"SuitId": 150402
+	},
+	{
+		"AttrId": 662000732,
+		"EquipNum": 4,
+		"Reborn": 15,
+		"StarNum": 4,
+		"SuitId": 150404
+	},
+	{
+		"AttrId": 662000733,
+		"EquipNum": 7,
+		"Reborn": 15,
+		"StarNum": 4,
+		"SuitId": 150407
+	},
+	{
+		"AttrId": 662000734,
+		"EquipNum": 10,
+		"Reborn": 15,
+		"StarNum": 4,
+		"SuitId": 150410
+	},
+	{
+		"AttrId": 662000741,
+		"EquipNum": 2,
+		"Reborn": 15,
+		"StarNum": 5,
+		"SuitId": 150502
+	},
+	{
+		"AttrId": 662000742,
+		"EquipNum": 4,
+		"Reborn": 15,
+		"StarNum": 5,
+		"SuitId": 150504
+	},
+	{
+		"AttrId": 662000743,
+		"EquipNum": 7,
+		"Reborn": 15,
+		"StarNum": 5,
+		"SuitId": 150507
+	},
+	{
+		"AttrId": 662000744,
+		"EquipNum": 10,
+		"Reborn": 15,
+		"StarNum": 5,
+		"SuitId": 150510
+	},
+	{
+		"AttrId": 662000751,
+		"EquipNum": 2,
+		"Reborn": 16,
+		"StarNum": 1,
+		"SuitId": 160102
+	},
+	{
+		"AttrId": 662000752,
+		"EquipNum": 4,
+		"Reborn": 16,
+		"StarNum": 1,
+		"SuitId": 160104
+	},
+	{
+		"AttrId": 662000753,
+		"EquipNum": 7,
+		"Reborn": 16,
+		"StarNum": 1,
+		"SuitId": 160107
+	},
+	{
+		"AttrId": 662000754,
+		"EquipNum": 10,
+		"Reborn": 16,
+		"StarNum": 1,
+		"SuitId": 160110
+	},
+	{
+		"AttrId": 662000761,
+		"EquipNum": 2,
+		"Reborn": 16,
+		"StarNum": 2,
+		"SuitId": 160202
+	},
+	{
+		"AttrId": 662000762,
+		"EquipNum": 4,
+		"Reborn": 16,
+		"StarNum": 2,
+		"SuitId": 160204
+	},
+	{
+		"AttrId": 662000763,
+		"EquipNum": 7,
+		"Reborn": 16,
+		"StarNum": 2,
+		"SuitId": 160207
+	},
+	{
+		"AttrId": 662000764,
+		"EquipNum": 10,
+		"Reborn": 16,
+		"StarNum": 2,
+		"SuitId": 160210
+	},
+	{
+		"AttrId": 662000771,
+		"EquipNum": 2,
+		"Reborn": 16,
+		"StarNum": 3,
+		"SuitId": 160302
+	},
+	{
+		"AttrId": 662000772,
+		"EquipNum": 4,
+		"Reborn": 16,
+		"StarNum": 3,
+		"SuitId": 160304
+	},
+	{
+		"AttrId": 662000773,
+		"EquipNum": 7,
+		"Reborn": 16,
+		"StarNum": 3,
+		"SuitId": 160307
+	},
+	{
+		"AttrId": 662000774,
+		"EquipNum": 10,
+		"Reborn": 16,
+		"StarNum": 3,
+		"SuitId": 160310
+	},
+	{
+		"AttrId": 662000781,
+		"EquipNum": 2,
+		"Reborn": 16,
+		"StarNum": 4,
+		"SuitId": 160402
+	},
+	{
+		"AttrId": 662000782,
+		"EquipNum": 4,
+		"Reborn": 16,
+		"StarNum": 4,
+		"SuitId": 160404
+	},
+	{
+		"AttrId": 662000783,
+		"EquipNum": 7,
+		"Reborn": 16,
+		"StarNum": 4,
+		"SuitId": 160407
+	},
+	{
+		"AttrId": 662000784,
+		"EquipNum": 10,
+		"Reborn": 16,
+		"StarNum": 4,
+		"SuitId": 160410
+	},
+	{
+		"AttrId": 662000791,
+		"EquipNum": 2,
+		"Reborn": 16,
+		"StarNum": 5,
+		"SuitId": 160502
+	},
+	{
+		"AttrId": 662000792,
+		"EquipNum": 4,
+		"Reborn": 16,
+		"StarNum": 5,
+		"SuitId": 160504
+	},
+	{
+		"AttrId": 662000793,
+		"EquipNum": 7,
+		"Reborn": 16,
+		"StarNum": 5,
+		"SuitId": 160507
+	},
+	{
+		"AttrId": 662000794,
+		"EquipNum": 10,
+		"Reborn": 16,
+		"StarNum": 5,
+		"SuitId": 160510
+	},
+	{
+		"AttrId": 662000801,
+		"EquipNum": 2,
+		"Reborn": 17,
+		"StarNum": 1,
+		"SuitId": 170102
+	},
+	{
+		"AttrId": 662000802,
+		"EquipNum": 4,
+		"Reborn": 17,
+		"StarNum": 1,
+		"SuitId": 170104
+	},
+	{
+		"AttrId": 662000803,
+		"EquipNum": 7,
+		"Reborn": 17,
+		"StarNum": 1,
+		"SuitId": 170107
+	},
+	{
+		"AttrId": 662000804,
+		"EquipNum": 10,
+		"Reborn": 17,
+		"StarNum": 1,
+		"SuitId": 170110
+	},
+	{
+		"AttrId": 662000811,
+		"EquipNum": 2,
+		"Reborn": 17,
+		"StarNum": 2,
+		"SuitId": 170202
+	},
+	{
+		"AttrId": 662000812,
+		"EquipNum": 4,
+		"Reborn": 17,
+		"StarNum": 2,
+		"SuitId": 170204
+	},
+	{
+		"AttrId": 662000813,
+		"EquipNum": 7,
+		"Reborn": 17,
+		"StarNum": 2,
+		"SuitId": 170207
+	},
+	{
+		"AttrId": 662000814,
+		"EquipNum": 10,
+		"Reborn": 17,
+		"StarNum": 2,
+		"SuitId": 170210
+	},
+	{
+		"AttrId": 662000821,
+		"EquipNum": 2,
+		"Reborn": 17,
+		"StarNum": 3,
+		"SuitId": 170302
+	},
+	{
+		"AttrId": 662000822,
+		"EquipNum": 4,
+		"Reborn": 17,
+		"StarNum": 3,
+		"SuitId": 170304
+	},
+	{
+		"AttrId": 662000823,
+		"EquipNum": 7,
+		"Reborn": 17,
+		"StarNum": 3,
+		"SuitId": 170307
+	},
+	{
+		"AttrId": 662000824,
+		"EquipNum": 10,
+		"Reborn": 17,
+		"StarNum": 3,
+		"SuitId": 170310
+	},
+	{
+		"AttrId": 662000831,
+		"EquipNum": 2,
+		"Reborn": 17,
+		"StarNum": 4,
+		"SuitId": 170402
+	},
+	{
+		"AttrId": 662000832,
+		"EquipNum": 4,
+		"Reborn": 17,
+		"StarNum": 4,
+		"SuitId": 170404
+	},
+	{
+		"AttrId": 662000833,
+		"EquipNum": 7,
+		"Reborn": 17,
+		"StarNum": 4,
+		"SuitId": 170407
+	},
+	{
+		"AttrId": 662000834,
+		"EquipNum": 10,
+		"Reborn": 17,
+		"StarNum": 4,
+		"SuitId": 170410
+	},
+	{
+		"AttrId": 662000841,
+		"EquipNum": 2,
+		"Reborn": 17,
+		"StarNum": 5,
+		"SuitId": 170502
+	},
+	{
+		"AttrId": 662000842,
+		"EquipNum": 4,
+		"Reborn": 17,
+		"StarNum": 5,
+		"SuitId": 170504
+	},
+	{
+		"AttrId": 662000843,
+		"EquipNum": 7,
+		"Reborn": 17,
+		"StarNum": 5,
+		"SuitId": 170507
+	},
+	{
+		"AttrId": 662000844,
+		"EquipNum": 10,
+		"Reborn": 17,
+		"StarNum": 5,
+		"SuitId": 170510
+	},
+	{
+		"AttrId": 662000851,
+		"EquipNum": 2,
+		"Reborn": 18,
+		"StarNum": 1,
+		"SuitId": 180102
+	},
+	{
+		"AttrId": 662000852,
+		"EquipNum": 4,
+		"Reborn": 18,
+		"StarNum": 1,
+		"SuitId": 180104
+	},
+	{
+		"AttrId": 662000853,
+		"EquipNum": 7,
+		"Reborn": 18,
+		"StarNum": 1,
+		"SuitId": 180107
+	},
+	{
+		"AttrId": 662000854,
+		"EquipNum": 10,
+		"Reborn": 18,
+		"StarNum": 1,
+		"SuitId": 180110
+	},
+	{
+		"AttrId": 662000861,
+		"EquipNum": 2,
+		"Reborn": 18,
+		"StarNum": 2,
+		"SuitId": 180202
+	},
+	{
+		"AttrId": 662000862,
+		"EquipNum": 4,
+		"Reborn": 18,
+		"StarNum": 2,
+		"SuitId": 180204
+	},
+	{
+		"AttrId": 662000863,
+		"EquipNum": 7,
+		"Reborn": 18,
+		"StarNum": 2,
+		"SuitId": 180207
+	},
+	{
+		"AttrId": 662000864,
+		"EquipNum": 10,
+		"Reborn": 18,
+		"StarNum": 2,
+		"SuitId": 180210
+	},
+	{
+		"AttrId": 662000871,
+		"EquipNum": 2,
+		"Reborn": 18,
+		"StarNum": 3,
+		"SuitId": 180302
+	},
+	{
+		"AttrId": 662000872,
+		"EquipNum": 4,
+		"Reborn": 18,
+		"StarNum": 3,
+		"SuitId": 180304
+	},
+	{
+		"AttrId": 662000873,
+		"EquipNum": 7,
+		"Reborn": 18,
+		"StarNum": 3,
+		"SuitId": 180307
+	},
+	{
+		"AttrId": 662000874,
+		"EquipNum": 10,
+		"Reborn": 18,
+		"StarNum": 3,
+		"SuitId": 180310
+	},
+	{
+		"AttrId": 662000881,
+		"EquipNum": 2,
+		"Reborn": 18,
+		"StarNum": 4,
+		"SuitId": 180402
+	},
+	{
+		"AttrId": 662000882,
+		"EquipNum": 4,
+		"Reborn": 18,
+		"StarNum": 4,
+		"SuitId": 180404
+	},
+	{
+		"AttrId": 662000883,
+		"EquipNum": 7,
+		"Reborn": 18,
+		"StarNum": 4,
+		"SuitId": 180407
+	},
+	{
+		"AttrId": 662000884,
+		"EquipNum": 10,
+		"Reborn": 18,
+		"StarNum": 4,
+		"SuitId": 180410
+	},
+	{
+		"AttrId": 662000891,
+		"EquipNum": 2,
+		"Reborn": 18,
+		"StarNum": 5,
+		"SuitId": 180502
+	},
+	{
+		"AttrId": 662000892,
+		"EquipNum": 4,
+		"Reborn": 18,
+		"StarNum": 5,
+		"SuitId": 180504
+	},
+	{
+		"AttrId": 662000893,
+		"EquipNum": 7,
+		"Reborn": 18,
+		"StarNum": 5,
+		"SuitId": 180507
+	},
+	{
+		"AttrId": 662000894,
+		"EquipNum": 10,
+		"Reborn": 18,
+		"StarNum": 5,
+		"SuitId": 180510
+	},
+	{
+		"AttrId": 662000901,
+		"EquipNum": 2,
+		"Reborn": 19,
+		"StarNum": 1,
+		"SuitId": 190102
+	},
+	{
+		"AttrId": 662000902,
+		"EquipNum": 4,
+		"Reborn": 19,
+		"StarNum": 1,
+		"SuitId": 190104
+	},
+	{
+		"AttrId": 662000903,
+		"EquipNum": 7,
+		"Reborn": 19,
+		"StarNum": 1,
+		"SuitId": 190107
+	},
+	{
+		"AttrId": 662000904,
+		"EquipNum": 10,
+		"Reborn": 19,
+		"StarNum": 1,
+		"SuitId": 190110
+	},
+	{
+		"AttrId": 662000911,
+		"EquipNum": 2,
+		"Reborn": 19,
+		"StarNum": 2,
+		"SuitId": 190202
+	},
+	{
+		"AttrId": 662000912,
+		"EquipNum": 4,
+		"Reborn": 19,
+		"StarNum": 2,
+		"SuitId": 190204
+	},
+	{
+		"AttrId": 662000913,
+		"EquipNum": 7,
+		"Reborn": 19,
+		"StarNum": 2,
+		"SuitId": 190207
+	},
+	{
+		"AttrId": 662000914,
+		"EquipNum": 10,
+		"Reborn": 19,
+		"StarNum": 2,
+		"SuitId": 190210
+	},
+	{
+		"AttrId": 662000921,
+		"EquipNum": 2,
+		"Reborn": 19,
+		"StarNum": 3,
+		"SuitId": 190302
+	},
+	{
+		"AttrId": 662000922,
+		"EquipNum": 4,
+		"Reborn": 19,
+		"StarNum": 3,
+		"SuitId": 190304
+	},
+	{
+		"AttrId": 662000923,
+		"EquipNum": 7,
+		"Reborn": 19,
+		"StarNum": 3,
+		"SuitId": 190307
+	},
+	{
+		"AttrId": 662000924,
+		"EquipNum": 10,
+		"Reborn": 19,
+		"StarNum": 3,
+		"SuitId": 190310
+	},
+	{
+		"AttrId": 662000931,
+		"EquipNum": 2,
+		"Reborn": 19,
+		"StarNum": 4,
+		"SuitId": 190402
+	},
+	{
+		"AttrId": 662000932,
+		"EquipNum": 4,
+		"Reborn": 19,
+		"StarNum": 4,
+		"SuitId": 190404
+	},
+	{
+		"AttrId": 662000933,
+		"EquipNum": 7,
+		"Reborn": 19,
+		"StarNum": 4,
+		"SuitId": 190407
+	},
+	{
+		"AttrId": 662000934,
+		"EquipNum": 10,
+		"Reborn": 19,
+		"StarNum": 4,
+		"SuitId": 190410
+	},
+	{
+		"AttrId": 662000941,
+		"EquipNum": 2,
+		"Reborn": 19,
+		"StarNum": 5,
+		"SuitId": 190502
+	},
+	{
+		"AttrId": 662000942,
+		"EquipNum": 4,
+		"Reborn": 19,
+		"StarNum": 5,
+		"SuitId": 190504
+	},
+	{
+		"AttrId": 662000943,
+		"EquipNum": 7,
+		"Reborn": 19,
+		"StarNum": 5,
+		"SuitId": 190507
+	},
+	{
+		"AttrId": 662000944,
+		"EquipNum": 10,
+		"Reborn": 19,
+		"StarNum": 5,
+		"SuitId": 190510
+	}
+]

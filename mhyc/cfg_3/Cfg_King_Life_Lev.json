@@ -1,0 +1,602 @@
+[
+	{
+		"AttrPect": 10000,
+		"CostItem": "2320101:10",
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"AttrPect": 20000,
+		"CostItem": "2320101:30",
+		"Id": 1,
+		"Lev": 2
+	},
+	{
+		"AttrPect": 30000,
+		"CostItem": "2320101:60",
+		"Id": 1,
+		"Lev": 3
+	},
+	{
+		"AttrPect": 40000,
+		"CostItem": "2320101:100",
+		"Id": 1,
+		"Lev": 4
+	},
+	{
+		"AttrPect": 50000,
+		"CostItem": "2320101:150",
+		"Id": 1,
+		"Lev": 5
+	},
+	{
+		"AttrPect": 60000,
+		"CostItem": "2320101:210",
+		"Id": 1,
+		"Lev": 6
+	},
+	{
+		"AttrPect": 70000,
+		"CostItem": "2320101:280",
+		"Id": 1,
+		"Lev": 7
+	},
+	{
+		"AttrPect": 80000,
+		"CostItem": "2320101:360",
+		"Id": 1,
+		"Lev": 8
+	},
+	{
+		"AttrPect": 90000,
+		"CostItem": "2320101:450",
+		"Id": 1,
+		"Lev": 9
+	},
+	{
+		"AttrPect": 100000,
+		"CostItem": "2320101:550",
+		"Id": 1,
+		"Lev": 10
+	},
+	{
+		"AttrPect": 110000,
+		"CostItem": "2320101:660",
+		"Id": 1,
+		"Lev": 11
+	},
+	{
+		"AttrPect": 120000,
+		"CostItem": "2320101:780",
+		"Id": 1,
+		"Lev": 12
+	},
+	{
+		"AttrPect": 130000,
+		"CostItem": "2320101:910",
+		"Id": 1,
+		"Lev": 13
+	},
+	{
+		"AttrPect": 140000,
+		"CostItem": "2320101:1050",
+		"Id": 1,
+		"Lev": 14
+	},
+	{
+		"AttrPect": 150000,
+		"CostItem": "2320101:1200",
+		"Id": 1,
+		"Lev": 15
+	},
+	{
+		"AttrPect": 160000,
+		"CostItem": "2320101:1360",
+		"Id": 1,
+		"Lev": 16
+	},
+	{
+		"AttrPect": 170000,
+		"CostItem": "2320101:1530",
+		"Id": 1,
+		"Lev": 17
+	},
+	{
+		"AttrPect": 180000,
+		"CostItem": "2320101:1710",
+		"Id": 1,
+		"Lev": 18
+	},
+	{
+		"AttrPect": 190000,
+		"CostItem": "2320101:1900",
+		"Id": 1,
+		"Lev": 19
+	},
+	{
+		"AttrPect": 200000,
+		"CostItem": "2320101:2100",
+		"Id": 1,
+		"Lev": 20
+	},
+	{
+		"AttrPect": 10000,
+		"CostItem": "2320102:10",
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"AttrPect": 20000,
+		"CostItem": "2320102:30",
+		"Id": 2,
+		"Lev": 2
+	},
+	{
+		"AttrPect": 30000,
+		"CostItem": "2320102:60",
+		"Id": 2,
+		"Lev": 3
+	},
+	{
+		"AttrPect": 40000,
+		"CostItem": "2320102:100",
+		"Id": 2,
+		"Lev": 4
+	},
+	{
+		"AttrPect": 50000,
+		"CostItem": "2320102:150",
+		"Id": 2,
+		"Lev": 5
+	},
+	{
+		"AttrPect": 60000,
+		"CostItem": "2320102:210",
+		"Id": 2,
+		"Lev": 6
+	},
+	{
+		"AttrPect": 70000,
+		"CostItem": "2320102:280",
+		"Id": 2,
+		"Lev": 7
+	},
+	{
+		"AttrPect": 80000,
+		"CostItem": "2320102:360",
+		"Id": 2,
+		"Lev": 8
+	},
+	{
+		"AttrPect": 90000,
+		"CostItem": "2320102:450",
+		"Id": 2,
+		"Lev": 9
+	},
+	{
+		"AttrPect": 100000,
+		"CostItem": "2320102:550",
+		"Id": 2,
+		"Lev": 10
+	},
+	{
+		"AttrPect": 110000,
+		"CostItem": "2320102:660",
+		"Id": 2,
+		"Lev": 11
+	},
+	{
+		"AttrPect": 120000,
+		"CostItem": "2320102:780",
+		"Id": 2,
+		"Lev": 12
+	},
+	{
+		"AttrPect": 130000,
+		"CostItem": "2320102:910",
+		"Id": 2,
+		"Lev": 13
+	},
+	{
+		"AttrPect": 140000,
+		"CostItem": "2320102:1050",
+		"Id": 2,
+		"Lev": 14
+	},
+	{
+		"AttrPect": 150000,
+		"CostItem": "2320102:1200",
+		"Id": 2,
+		"Lev": 15
+	},
+	{
+		"AttrPect": 160000,
+		"CostItem": "2320102:1360",
+		"Id": 2,
+		"Lev": 16
+	},
+	{
+		"AttrPect": 170000,
+		"CostItem": "2320102:1530",
+		"Id": 2,
+		"Lev": 17
+	},
+	{
+		"AttrPect": 180000,
+		"CostItem": "2320102:1710",
+		"Id": 2,
+		"Lev": 18
+	},
+	{
+		"AttrPect": 190000,
+		"CostItem": "2320102:1900",
+		"Id": 2,
+		"Lev": 19
+	},
+	{
+		"AttrPect": 200000,
+		"CostItem": "2320102:2100",
+		"Id": 2,
+		"Lev": 20
+	},
+	{
+		"AttrPect": 10000,
+		"CostItem": "2320103:10",
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"AttrPect": 20000,
+		"CostItem": "2320103:30",
+		"Id": 3,
+		"Lev": 2
+	},
+	{
+		"AttrPect": 30000,
+		"CostItem": "2320103:60",
+		"Id": 3,
+		"Lev": 3
+	},
+	{
+		"AttrPect": 40000,
+		"CostItem": "2320103:100",
+		"Id": 3,
+		"Lev": 4
+	},
+	{
+		"AttrPect": 50000,
+		"CostItem": "2320103:150",
+		"Id": 3,
+		"Lev": 5
+	},
+	{
+		"AttrPect": 60000,
+		"CostItem": "2320103:210",
+		"Id": 3,
+		"Lev": 6
+	},
+	{
+		"AttrPect": 70000,
+		"CostItem": "2320103:280",
+		"Id": 3,
+		"Lev": 7
+	},
+	{
+		"AttrPect": 80000,
+		"CostItem": "2320103:360",
+		"Id": 3,
+		"Lev": 8
+	},
+	{
+		"AttrPect": 90000,
+		"CostItem": "2320103:450",
+		"Id": 3,
+		"Lev": 9
+	},
+	{
+		"AttrPect": 100000,
+		"CostItem": "2320103:550",
+		"Id": 3,
+		"Lev": 10
+	},
+	{
+		"AttrPect": 110000,
+		"CostItem": "2320103:660",
+		"Id": 3,
+		"Lev": 11
+	},
+	{
+		"AttrPect": 120000,
+		"CostItem": "2320103:780",
+		"Id": 3,
+		"Lev": 12
+	},
+	{
+		"AttrPect": 130000,
+		"CostItem": "2320103:910",
+		"Id": 3,
+		"Lev": 13
+	},
+	{
+		"AttrPect": 140000,
+		"CostItem": "2320103:1050",
+		"Id": 3,
+		"Lev": 14
+	},
+	{
+		"AttrPect": 150000,
+		"CostItem": "2320103:1200",
+		"Id": 3,
+		"Lev": 15
+	},
+	{
+		"AttrPect": 160000,
+		"CostItem": "2320103:1360",
+		"Id": 3,
+		"Lev": 16
+	},
+	{
+		"AttrPect": 170000,
+		"CostItem": "2320103:1530",
+		"Id": 3,
+		"Lev": 17
+	},
+	{
+		"AttrPect": 180000,
+		"CostItem": "2320103:1710",
+		"Id": 3,
+		"Lev": 18
+	},
+	{
+		"AttrPect": 190000,
+		"CostItem": "2320103:1900",
+		"Id": 3,
+		"Lev": 19
+	},
+	{
+		"AttrPect": 200000,
+		"CostItem": "2320103:2100",
+		"Id": 3,
+		"Lev": 20
+	},
+	{
+		"AttrPect": 10000,
+		"CostItem": "2320104:10",
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"AttrPect": 20000,
+		"CostItem": "2320104:30",
+		"Id": 4,
+		"Lev": 2
+	},
+	{
+		"AttrPect": 30000,
+		"CostItem": "2320104:60",
+		"Id": 4,
+		"Lev": 3
+	},
+	{
+		"AttrPect": 40000,
+		"CostItem": "2320104:100",
+		"Id": 4,
+		"Lev": 4
+	},
+	{
+		"AttrPect": 50000,
+		"CostItem": "2320104:150",
+		"Id": 4,
+		"Lev": 5
+	},
+	{
+		"AttrPect": 60000,
+		"CostItem": "2320104:210",
+		"Id": 4,
+		"Lev": 6
+	},
+	{
+		"AttrPect": 70000,
+		"CostItem": "2320104:280",
+		"Id": 4,
+		"Lev": 7
+	},
+	{
+		"AttrPect": 80000,
+		"CostItem": "2320104:360",
+		"Id": 4,
+		"Lev": 8
+	},
+	{
+		"AttrPect": 90000,
+		"CostItem": "2320104:450",
+		"Id": 4,
+		"Lev": 9
+	},
+	{
+		"AttrPect": 100000,
+		"CostItem": "2320104:550",
+		"Id": 4,
+		"Lev": 10
+	},
+	{
+		"AttrPect": 110000,
+		"CostItem": "2320104:660",
+		"Id": 4,
+		"Lev": 11
+	},
+	{
+		"AttrPect": 120000,
+		"CostItem": "2320104:780",
+		"Id": 4,
+		"Lev": 12
+	},
+	{
+		"AttrPect": 130000,
+		"CostItem": "2320104:910",
+		"Id": 4,
+		"Lev": 13
+	},
+	{
+		"AttrPect": 140000,
+		"CostItem": "2320104:1050",
+		"Id": 4,
+		"Lev": 14
+	},
+	{
+		"AttrPect": 150000,
+		"CostItem": "2320104:1200",
+		"Id": 4,
+		"Lev": 15
+	},
+	{
+		"AttrPect": 160000,
+		"CostItem": "2320104:1360",
+		"Id": 4,
+		"Lev": 16
+	},
+	{
+		"AttrPect": 170000,
+		"CostItem": "2320104:1530",
+		"Id": 4,
+		"Lev": 17
+	},
+	{
+		"AttrPect": 180000,
+		"CostItem": "2320104:1710",
+		"Id": 4,
+		"Lev": 18
+	},
+	{
+		"AttrPect": 190000,
+		"CostItem": "2320104:1900",
+		"Id": 4,
+		"Lev": 19
+	},
+	{
+		"AttrPect": 200000,
+		"CostItem": "2320104:2100",
+		"Id": 4,
+		"Lev": 20
+	},
+	{
+		"AttrPect": 10000,
+		"CostItem": "2320105:10",
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"AttrPect": 20000,
+		"CostItem": "2320105:30",
+		"Id": 5,
+		"Lev": 2
+	},
+	{
+		"AttrPect": 30000,
+		"CostItem": "2320105:60",
+		"Id": 5,
+		"Lev": 3
+	},
+	{
+		"AttrPect": 40000,
+		"CostItem": "2320105:100",
+		"Id": 5,
+		"Lev": 4
+	},
+	{
+		"AttrPect": 50000,
+		"CostItem": "2320105:150",
+		"Id": 5,
+		"Lev": 5
+	},
+	{
+		"AttrPect": 60000,
+		"CostItem": "2320105:210",
+		"Id": 5,
+		"Lev": 6
+	},
+	{
+		"AttrPect": 70000,
+		"CostItem": "2320105:280",
+		"Id": 5,
+		"Lev": 7
+	},
+	{
+		"AttrPect": 80000,
+		"CostItem": "2320105:360",
+		"Id": 5,
+		"Lev": 8
+	},
+	{
+		"AttrPect": 90000,
+		"CostItem": "2320105:450",
+		"Id": 5,
+		"Lev": 9
+	},
+	{
+		"AttrPect": 100000,
+		"CostItem": "2320105:550",
+		"Id": 5,
+		"Lev": 10
+	},
+	{
+		"AttrPect": 110000,
+		"CostItem": "2320105:660",
+		"Id": 5,
+		"Lev": 11
+	},
+	{
+		"AttrPect": 120000,
+		"CostItem": "2320105:780",
+		"Id": 5,
+		"Lev": 12
+	},
+	{
+		"AttrPect": 130000,
+		"CostItem": "2320105:910",
+		"Id": 5,
+		"Lev": 13
+	},
+	{
+		"AttrPect": 140000,
+		"CostItem": "2320105:1050",
+		"Id": 5,
+		"Lev": 14
+	},
+	{
+		"AttrPect": 150000,
+		"CostItem": "2320105:1200",
+		"Id": 5,
+		"Lev": 15
+	},
+	{
+		"AttrPect": 160000,
+		"CostItem": "2320105:1360",
+		"Id": 5,
+		"Lev": 16
+	},
+	{
+		"AttrPect": 170000,
+		"CostItem": "2320105:1530",
+		"Id": 5,
+		"Lev": 17
+	},
+	{
+		"AttrPect": 180000,
+		"CostItem": "2320105:1710",
+		"Id": 5,
+		"Lev": 18
+	},
+	{
+		"AttrPect": 190000,
+		"CostItem": "2320105:1900",
+		"Id": 5,
+		"Lev": 19
+	},
+	{
+		"AttrPect": 200000,
+		"CostItem": "2320105:2100",
+		"Id": 5,
+		"Lev": 20
+	}
+]

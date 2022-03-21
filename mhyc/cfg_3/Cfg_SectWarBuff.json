@@ -1,0 +1,26 @@
+[
+	{
+		"Icon": "640011",
+		"Id": "9501",
+		"Name": "战神之力",
+		"Quality": 6,
+		"Tips": "战争雕像增益,宗门成员攻击力获得大幅度加成,对建筑伤害增加2点",
+		"Title": "img_zhanshenzhili"
+	},
+	{
+		"Icon": "640004",
+		"Id": "9502",
+		"Name": "灭兽之力",
+		"Quality": 6,
+		"Tips": "攻破敌方神兽,宗门成员防御力获得大幅度加成,对建筑伤害增加2点",
+		"Title": "img_mieshouzhili"
+	},
+	{
+		"Icon": "640019",
+		"Id": "9503",
+		"Name": "擎天之力",
+		"Quality": 6,
+		"Tips": "攻破敌方宗主雕像,宗门成员生命获得大幅度加成,对建筑伤害增加2点",
+		"Title": "img_qingtianzhili"
+	}
+]

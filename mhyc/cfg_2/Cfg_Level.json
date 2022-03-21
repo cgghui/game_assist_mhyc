@@ -1,0 +1,3442 @@
+[
+	{
+		"Level": 1,
+		"NeedExp": "0"
+	},
+	{
+		"Level": 2,
+		"NeedExp": "100"
+	},
+	{
+		"Level": 3,
+		"NeedExp": "200"
+	},
+	{
+		"Level": 4,
+		"NeedExp": "300"
+	},
+	{
+		"Level": 5,
+		"NeedExp": "500"
+	},
+	{
+		"Level": 6,
+		"NeedExp": "700"
+	},
+	{
+		"Level": 7,
+		"NeedExp": "900"
+	},
+	{
+		"Level": 8,
+		"NeedExp": "1200"
+	},
+	{
+		"Level": 9,
+		"NeedExp": "1500"
+	},
+	{
+		"Level": 10,
+		"NeedExp": "1800"
+	},
+	{
+		"Level": 11,
+		"NeedExp": "2100"
+	},
+	{
+		"Level": 12,
+		"NeedExp": "2400"
+	},
+	{
+		"Level": 13,
+		"NeedExp": "2700"
+	},
+	{
+		"Level": 14,
+		"NeedExp": "3000"
+	},
+	{
+		"Level": 15,
+		"NeedExp": "3500"
+	},
+	{
+		"Level": 16,
+		"NeedExp": "4000"
+	},
+	{
+		"Level": 17,
+		"NeedExp": "4500"
+	},
+	{
+		"Level": 18,
+		"NeedExp": "5000"
+	},
+	{
+		"Level": 19,
+		"NeedExp": "5500"
+	},
+	{
+		"Level": 20,
+		"NeedExp": "6000"
+	},
+	{
+		"Level": 21,
+		"NeedExp": "6500"
+	},
+	{
+		"Level": 22,
+		"NeedExp": "7000"
+	},
+	{
+		"Level": 23,
+		"NeedExp": "7500"
+	},
+	{
+		"Level": 24,
+		"NeedExp": "8000"
+	},
+	{
+		"Level": 25,
+		"NeedExp": "8500"
+	},
+	{
+		"Level": 26,
+		"NeedExp": "9000"
+	},
+	{
+		"Level": 27,
+		"NeedExp": "9500"
+	},
+	{
+		"Level": 28,
+		"NeedExp": "10000"
+	},
+	{
+		"Level": 29,
+		"NeedExp": "10500"
+	},
+	{
+		"Level": 30,
+		"NeedExp": "11000"
+	},
+	{
+		"Level": 31,
+		"NeedExp": "17700"
+	},
+	{
+		"Level": 32,
+		"NeedExp": "18400"
+	},
+	{
+		"Level": 33,
+		"NeedExp": "19100"
+	},
+	{
+		"Level": 34,
+		"NeedExp": "19800"
+	},
+	{
+		"Level": 35,
+		"NeedExp": "20500"
+	},
+	{
+		"Level": 36,
+		"NeedExp": "21200"
+	},
+	{
+		"Level": 37,
+		"NeedExp": "21900"
+	},
+	{
+		"Level": 38,
+		"NeedExp": "22600"
+	},
+	{
+		"Level": 39,
+		"NeedExp": "23300"
+	},
+	{
+		"Level": 40,
+		"NeedExp": "24000"
+	},
+	{
+		"Level": 41,
+		"NeedExp": "24700"
+	},
+	{
+		"Level": 42,
+		"NeedExp": "25400"
+	},
+	{
+		"Level": 43,
+		"NeedExp": "26100"
+	},
+	{
+		"Level": 44,
+		"NeedExp": "26800"
+	},
+	{
+		"Level": 45,
+		"NeedExp": "27500"
+	},
+	{
+		"Level": 46,
+		"NeedExp": "28200"
+	},
+	{
+		"Level": 47,
+		"NeedExp": "28900"
+	},
+	{
+		"Level": 48,
+		"NeedExp": "29600"
+	},
+	{
+		"Level": 49,
+		"NeedExp": "30300"
+	},
+	{
+		"Level": 50,
+		"NeedExp": "31000"
+	},
+	{
+		"Level": 51,
+		"NeedExp": "31700"
+	},
+	{
+		"Level": 52,
+		"NeedExp": "32400"
+	},
+	{
+		"Level": 53,
+		"NeedExp": "33100"
+	},
+	{
+		"Level": 54,
+		"NeedExp": "33800"
+	},
+	{
+		"Level": 55,
+		"NeedExp": "34500"
+	},
+	{
+		"Level": 56,
+		"NeedExp": "35200"
+	},
+	{
+		"Level": 57,
+		"NeedExp": "35900"
+	},
+	{
+		"Level": 58,
+		"NeedExp": "36600"
+	},
+	{
+		"Level": 59,
+		"NeedExp": "37300"
+	},
+	{
+		"Level": 60,
+		"NeedExp": "38000"
+	},
+	{
+		"Level": 61,
+		"NeedExp": "86000"
+	},
+	{
+		"Level": 62,
+		"NeedExp": "87000"
+	},
+	{
+		"Level": 63,
+		"NeedExp": "88000"
+	},
+	{
+		"Level": 64,
+		"NeedExp": "89000"
+	},
+	{
+		"Level": 65,
+		"NeedExp": "90000"
+	},
+	{
+		"Level": 66,
+		"NeedExp": "91000"
+	},
+	{
+		"Level": 67,
+		"NeedExp": "92000"
+	},
+	{
+		"Level": 68,
+		"NeedExp": "93000"
+	},
+	{
+		"Level": 69,
+		"NeedExp": "94000"
+	},
+	{
+		"Level": 70,
+		"NeedExp": "95000"
+	},
+	{
+		"Level": 71,
+		"NeedExp": "96000"
+	},
+	{
+		"Level": 72,
+		"NeedExp": "97000"
+	},
+	{
+		"Level": 73,
+		"NeedExp": "98000"
+	},
+	{
+		"Level": 74,
+		"NeedExp": "99000"
+	},
+	{
+		"Level": 75,
+		"NeedExp": "100000"
+	},
+	{
+		"Level": 76,
+		"NeedExp": "101000"
+	},
+	{
+		"Level": 77,
+		"NeedExp": "102000"
+	},
+	{
+		"Level": 78,
+		"NeedExp": "103000"
+	},
+	{
+		"Level": 79,
+		"NeedExp": "104000"
+	},
+	{
+		"Level": 80,
+		"NeedExp": "105000"
+	},
+	{
+		"Level": 81,
+		"NeedExp": "286500"
+	},
+	{
+		"Level": 82,
+		"NeedExp": "288000"
+	},
+	{
+		"Level": 83,
+		"NeedExp": "289500"
+	},
+	{
+		"Level": 84,
+		"NeedExp": "291000"
+	},
+	{
+		"Level": 85,
+		"NeedExp": "292500"
+	},
+	{
+		"Level": 86,
+		"NeedExp": "294000"
+	},
+	{
+		"Level": 87,
+		"NeedExp": "295500"
+	},
+	{
+		"Level": 88,
+		"NeedExp": "297000"
+	},
+	{
+		"Level": 89,
+		"NeedExp": "298500"
+	},
+	{
+		"Level": 90,
+		"NeedExp": "300000"
+	},
+	{
+		"Level": 91,
+		"NeedExp": "941000"
+	},
+	{
+		"Level": 92,
+		"NeedExp": "945000"
+	},
+	{
+		"Level": 93,
+		"NeedExp": "950000"
+	},
+	{
+		"Level": 94,
+		"NeedExp": "954000"
+	},
+	{
+		"Level": 95,
+		"NeedExp": "959000"
+	},
+	{
+		"Level": 96,
+		"NeedExp": "962000"
+	},
+	{
+		"Level": 97,
+		"NeedExp": "967000"
+	},
+	{
+		"Level": 98,
+		"NeedExp": "971000"
+	},
+	{
+		"Level": 99,
+		"NeedExp": "976000"
+	},
+	{
+		"Level": 100,
+		"NeedExp": "980000"
+	},
+	{
+		"Level": 101,
+		"NeedExp": "1176000"
+	},
+	{
+		"Level": 102,
+		"NeedExp": "1181000"
+	},
+	{
+		"Level": 103,
+		"NeedExp": "1187000"
+	},
+	{
+		"Level": 104,
+		"NeedExp": "1192000"
+	},
+	{
+		"Level": 105,
+		"NeedExp": "1198000"
+	},
+	{
+		"Level": 106,
+		"NeedExp": "1203000"
+	},
+	{
+		"Level": 107,
+		"NeedExp": "1209000"
+	},
+	{
+		"Level": 108,
+		"NeedExp": "1214000"
+	},
+	{
+		"Level": 109,
+		"NeedExp": "1220000"
+	},
+	{
+		"Level": 110,
+		"NeedExp": "1224000"
+	},
+	{
+		"Level": 111,
+		"NeedExp": "1470000"
+	},
+	{
+		"Level": 112,
+		"NeedExp": "1476000"
+	},
+	{
+		"Level": 113,
+		"NeedExp": "1484000"
+	},
+	{
+		"Level": 114,
+		"NeedExp": "1490000"
+	},
+	{
+		"Level": 115,
+		"NeedExp": "1497000"
+	},
+	{
+		"Level": 116,
+		"NeedExp": "1503000"
+	},
+	{
+		"Level": 117,
+		"NeedExp": "1511000"
+	},
+	{
+		"Level": 118,
+		"NeedExp": "1517000"
+	},
+	{
+		"Level": 119,
+		"NeedExp": "1524000"
+	},
+	{
+		"Level": 120,
+		"NeedExp": "1530000"
+	},
+	{
+		"Level": 121,
+		"NeedExp": "1723000"
+	},
+	{
+		"Level": 122,
+		"NeedExp": "1730000"
+	},
+	{
+		"Level": 123,
+		"NeedExp": "1739000"
+	},
+	{
+		"Level": 124,
+		"NeedExp": "1746000"
+	},
+	{
+		"Level": 125,
+		"NeedExp": "1755000"
+	},
+	{
+		"Level": 126,
+		"NeedExp": "1762000"
+	},
+	{
+		"Level": 127,
+		"NeedExp": "1771000"
+	},
+	{
+		"Level": 128,
+		"NeedExp": "1778000"
+	},
+	{
+		"Level": 129,
+		"NeedExp": "1787000"
+	},
+	{
+		"Level": 130,
+		"NeedExp": "1794000"
+	},
+	{
+		"Level": 131,
+		"NeedExp": "2000000"
+	},
+	{
+		"Level": 132,
+		"NeedExp": "2008000"
+	},
+	{
+		"Level": 133,
+		"NeedExp": "2018000"
+	},
+	{
+		"Level": 134,
+		"NeedExp": "2026000"
+	},
+	{
+		"Level": 135,
+		"NeedExp": "2036000"
+	},
+	{
+		"Level": 136,
+		"NeedExp": "2045000"
+	},
+	{
+		"Level": 137,
+		"NeedExp": "2055000"
+	},
+	{
+		"Level": 138,
+		"NeedExp": "2063000"
+	},
+	{
+		"Level": 139,
+		"NeedExp": "2073000"
+	},
+	{
+		"Level": 140,
+		"NeedExp": "2081000"
+	},
+	{
+		"Level": 141,
+		"NeedExp": "2282000"
+	},
+	{
+		"Level": 142,
+		"NeedExp": "2291000"
+	},
+	{
+		"Level": 143,
+		"NeedExp": "2303000"
+	},
+	{
+		"Level": 144,
+		"NeedExp": "2312000"
+	},
+	{
+		"Level": 145,
+		"NeedExp": "2324000"
+	},
+	{
+		"Level": 146,
+		"NeedExp": "2333000"
+	},
+	{
+		"Level": 147,
+		"NeedExp": "2345000"
+	},
+	{
+		"Level": 148,
+		"NeedExp": "2354000"
+	},
+	{
+		"Level": 149,
+		"NeedExp": "2366000"
+	},
+	{
+		"Level": 150,
+		"NeedExp": "2375000"
+	},
+	{
+		"Level": 151,
+		"NeedExp": "3058000"
+	},
+	{
+		"Level": 152,
+		"NeedExp": "3071000"
+	},
+	{
+		"Level": 153,
+		"NeedExp": "3086000"
+	},
+	{
+		"Level": 154,
+		"NeedExp": "3099000"
+	},
+	{
+		"Level": 155,
+		"NeedExp": "3114000"
+	},
+	{
+		"Level": 156,
+		"NeedExp": "3127000"
+	},
+	{
+		"Level": 157,
+		"NeedExp": "3142000"
+	},
+	{
+		"Level": 158,
+		"NeedExp": "3155000"
+	},
+	{
+		"Level": 159,
+		"NeedExp": "3170000"
+	},
+	{
+		"Level": 160,
+		"NeedExp": "3183000"
+	},
+	{
+		"Level": 161,
+		"NeedExp": "3411000"
+	},
+	{
+		"Level": 162,
+		"NeedExp": "3425000"
+	},
+	{
+		"Level": 163,
+		"NeedExp": "3442000"
+	},
+	{
+		"Level": 164,
+		"NeedExp": "3456000"
+	},
+	{
+		"Level": 165,
+		"NeedExp": "3474000"
+	},
+	{
+		"Level": 166,
+		"NeedExp": "3487000"
+	},
+	{
+		"Level": 167,
+		"NeedExp": "3505000"
+	},
+	{
+		"Level": 168,
+		"NeedExp": "3519000"
+	},
+	{
+		"Level": 169,
+		"NeedExp": "3536000"
+	},
+	{
+		"Level": 170,
+		"NeedExp": "3550000"
+	},
+	{
+		"Level": 171,
+		"NeedExp": "3803000"
+	},
+	{
+		"Level": 172,
+		"NeedExp": "3818000"
+	},
+	{
+		"Level": 173,
+		"NeedExp": "3838000"
+	},
+	{
+		"Level": 174,
+		"NeedExp": "3853000"
+	},
+	{
+		"Level": 175,
+		"NeedExp": "3873000"
+	},
+	{
+		"Level": 176,
+		"NeedExp": "3888000"
+	},
+	{
+		"Level": 177,
+		"NeedExp": "3908000"
+	},
+	{
+		"Level": 178,
+		"NeedExp": "3923000"
+	},
+	{
+		"Level": 179,
+		"NeedExp": "3943000"
+	},
+	{
+		"Level": 180,
+		"NeedExp": "3958000"
+	},
+	{
+		"Level": 181,
+		"NeedExp": "5763000"
+	},
+	{
+		"Level": 182,
+		"NeedExp": "5786000"
+	},
+	{
+		"Level": 183,
+		"NeedExp": "5816000"
+	},
+	{
+		"Level": 184,
+		"NeedExp": "5839000"
+	},
+	{
+		"Level": 185,
+		"NeedExp": "5869000"
+	},
+	{
+		"Level": 186,
+		"NeedExp": "5892000"
+	},
+	{
+		"Level": 187,
+		"NeedExp": "5922000"
+	},
+	{
+		"Level": 188,
+		"NeedExp": "5945000"
+	},
+	{
+		"Level": 189,
+		"NeedExp": "5975000"
+	},
+	{
+		"Level": 190,
+		"NeedExp": "5998000"
+	},
+	{
+		"Level": 191,
+		"NeedExp": "6351000"
+	},
+	{
+		"Level": 192,
+		"NeedExp": "6377000"
+	},
+	{
+		"Level": 193,
+		"NeedExp": "6409000"
+	},
+	{
+		"Level": 194,
+		"NeedExp": "6435000"
+	},
+	{
+		"Level": 195,
+		"NeedExp": "6468000"
+	},
+	{
+		"Level": 196,
+		"NeedExp": "6493000"
+	},
+	{
+		"Level": 197,
+		"NeedExp": "6526000"
+	},
+	{
+		"Level": 198,
+		"NeedExp": "6552000"
+	},
+	{
+		"Level": 199,
+		"NeedExp": "6584000"
+	},
+	{
+		"Level": 200,
+		"NeedExp": "6610000"
+	},
+	{
+		"Level": 201,
+		"NeedExp": "13172000"
+	},
+	{
+		"Level": 202,
+		"NeedExp": "13225000"
+	},
+	{
+		"Level": 203,
+		"NeedExp": "13293000"
+	},
+	{
+		"Level": 204,
+		"NeedExp": "13346000"
+	},
+	{
+		"Level": 205,
+		"NeedExp": "13414000"
+	},
+	{
+		"Level": 206,
+		"NeedExp": "13467000"
+	},
+	{
+		"Level": 207,
+		"NeedExp": "13535000"
+	},
+	{
+		"Level": 208,
+		"NeedExp": "13588000"
+	},
+	{
+		"Level": 209,
+		"NeedExp": "13656000"
+	},
+	{
+		"Level": 210,
+		"NeedExp": "13709000"
+	},
+	{
+		"Level": 211,
+		"NeedExp": "15524000"
+	},
+	{
+		"Level": 212,
+		"NeedExp": "15587000"
+	},
+	{
+		"Level": 213,
+		"NeedExp": "15666000"
+	},
+	{
+		"Level": 214,
+		"NeedExp": "15730000"
+	},
+	{
+		"Level": 215,
+		"NeedExp": "15809000"
+	},
+	{
+		"Level": 216,
+		"NeedExp": "15872000"
+	},
+	{
+		"Level": 217,
+		"NeedExp": "15951000"
+	},
+	{
+		"Level": 218,
+		"NeedExp": "16015000"
+	},
+	{
+		"Level": 219,
+		"NeedExp": "16094000"
+	},
+	{
+		"Level": 220,
+		"NeedExp": "16157000"
+	},
+	{
+		"Level": 221,
+		"NeedExp": "18299000"
+	},
+	{
+		"Level": 222,
+		"NeedExp": "18374000"
+	},
+	{
+		"Level": 223,
+		"NeedExp": "18467000"
+	},
+	{
+		"Level": 224,
+		"NeedExp": "18542000"
+	},
+	{
+		"Level": 225,
+		"NeedExp": "18635000"
+	},
+	{
+		"Level": 226,
+		"NeedExp": "18710000"
+	},
+	{
+		"Level": 227,
+		"NeedExp": "18803000"
+	},
+	{
+		"Level": 228,
+		"NeedExp": "18878000"
+	},
+	{
+		"Level": 229,
+		"NeedExp": "18971000"
+	},
+	{
+		"Level": 230,
+		"NeedExp": "19046000"
+	},
+	{
+		"Level": 231,
+		"NeedExp": "21592000"
+	},
+	{
+		"Level": 232,
+		"NeedExp": "21680000"
+	},
+	{
+		"Level": 233,
+		"NeedExp": "21790000"
+	},
+	{
+		"Level": 234,
+		"NeedExp": "21878000"
+	},
+	{
+		"Level": 235,
+		"NeedExp": "21988000"
+	},
+	{
+		"Level": 236,
+		"NeedExp": "22077000"
+	},
+	{
+		"Level": 237,
+		"NeedExp": "22187000"
+	},
+	{
+		"Level": 238,
+		"NeedExp": "22275000"
+	},
+	{
+		"Level": 239,
+		"NeedExp": "22385000"
+	},
+	{
+		"Level": 240,
+		"NeedExp": "22473000"
+	},
+	{
+		"Level": 241,
+		"NeedExp": "50945000"
+	},
+	{
+		"Level": 242,
+		"NeedExp": "51153000"
+	},
+	{
+		"Level": 243,
+		"NeedExp": "51413000"
+	},
+	{
+		"Level": 244,
+		"NeedExp": "51621000"
+	},
+	{
+		"Level": 245,
+		"NeedExp": "51881000"
+	},
+	{
+		"Level": 246,
+		"NeedExp": "52088000"
+	},
+	{
+		"Level": 247,
+		"NeedExp": "52348000"
+	},
+	{
+		"Level": 248,
+		"NeedExp": "52556000"
+	},
+	{
+		"Level": 249,
+		"NeedExp": "52816000"
+	},
+	{
+		"Level": 250,
+		"NeedExp": "53024000"
+	},
+	{
+		"Level": 251,
+		"NeedExp": "60071000"
+	},
+	{
+		"Level": 252,
+		"NeedExp": "60316000"
+	},
+	{
+		"Level": 253,
+		"NeedExp": "60622000"
+	},
+	{
+		"Level": 254,
+		"NeedExp": "60867000"
+	},
+	{
+		"Level": 255,
+		"NeedExp": "61174000"
+	},
+	{
+		"Level": 256,
+		"NeedExp": "61419000"
+	},
+	{
+		"Level": 257,
+		"NeedExp": "61726000"
+	},
+	{
+		"Level": 258,
+		"NeedExp": "61971000"
+	},
+	{
+		"Level": 259,
+		"NeedExp": "62277000"
+	},
+	{
+		"Level": 260,
+		"NeedExp": "62522000"
+	},
+	{
+		"Level": 261,
+		"NeedExp": "70843000"
+	},
+	{
+		"Level": 262,
+		"NeedExp": "71132000"
+	},
+	{
+		"Level": 263,
+		"NeedExp": "71493000"
+	},
+	{
+		"Level": 264,
+		"NeedExp": "71782000"
+	},
+	{
+		"Level": 265,
+		"NeedExp": "72144000"
+	},
+	{
+		"Level": 266,
+		"NeedExp": "72433000"
+	},
+	{
+		"Level": 267,
+		"NeedExp": "72795000"
+	},
+	{
+		"Level": 268,
+		"NeedExp": "73084000"
+	},
+	{
+		"Level": 269,
+		"NeedExp": "73445000"
+	},
+	{
+		"Level": 270,
+		"NeedExp": "73734000"
+	},
+	{
+		"Level": 271,
+		"NeedExp": "76205000"
+	},
+	{
+		"Level": 272,
+		"NeedExp": "76516000"
+	},
+	{
+		"Level": 273,
+		"NeedExp": "76905000"
+	},
+	{
+		"Level": 274,
+		"NeedExp": "77216000"
+	},
+	{
+		"Level": 275,
+		"NeedExp": "77605000"
+	},
+	{
+		"Level": 276,
+		"NeedExp": "77916000"
+	},
+	{
+		"Level": 277,
+		"NeedExp": "78305000"
+	},
+	{
+		"Level": 278,
+		"NeedExp": "78616000"
+	},
+	{
+		"Level": 279,
+		"NeedExp": "79005000"
+	},
+	{
+		"Level": 280,
+		"NeedExp": "79316000"
+	},
+	{
+		"Level": 281,
+		"NeedExp": "81850000"
+	},
+	{
+		"Level": 282,
+		"NeedExp": "82184000"
+	},
+	{
+		"Level": 283,
+		"NeedExp": "82602000"
+	},
+	{
+		"Level": 284,
+		"NeedExp": "82936000"
+	},
+	{
+		"Level": 285,
+		"NeedExp": "83353000"
+	},
+	{
+		"Level": 286,
+		"NeedExp": "83688000"
+	},
+	{
+		"Level": 287,
+		"NeedExp": "84105000"
+	},
+	{
+		"Level": 288,
+		"NeedExp": "84439000"
+	},
+	{
+		"Level": 289,
+		"NeedExp": "84857000"
+	},
+	{
+		"Level": 290,
+		"NeedExp": "85191000"
+	},
+	{
+		"Level": 291,
+		"NeedExp": "87965000"
+	},
+	{
+		"Level": 292,
+		"NeedExp": "88324000"
+	},
+	{
+		"Level": 293,
+		"NeedExp": "88773000"
+	},
+	{
+		"Level": 294,
+		"NeedExp": "89132000"
+	},
+	{
+		"Level": 295,
+		"NeedExp": "89581000"
+	},
+	{
+		"Level": 296,
+		"NeedExp": "89940000"
+	},
+	{
+		"Level": 297,
+		"NeedExp": "90389000"
+	},
+	{
+		"Level": 298,
+		"NeedExp": "90748000"
+	},
+	{
+		"Level": 299,
+		"NeedExp": "91197000"
+	},
+	{
+		"Level": 300,
+		"NeedExp": "91556000"
+	},
+	{
+		"Level": 301,
+		"NeedExp": "94551000"
+	},
+	{
+		"Level": 302,
+		"NeedExp": "94937000"
+	},
+	{
+		"Level": 303,
+		"NeedExp": "95419000"
+	},
+	{
+		"Level": 304,
+		"NeedExp": "95805000"
+	},
+	{
+		"Level": 305,
+		"NeedExp": "96288000"
+	},
+	{
+		"Level": 306,
+		"NeedExp": "96673000"
+	},
+	{
+		"Level": 307,
+		"NeedExp": "97156000"
+	},
+	{
+		"Level": 308,
+		"NeedExp": "97542000"
+	},
+	{
+		"Level": 309,
+		"NeedExp": "98024000"
+	},
+	{
+		"Level": 310,
+		"NeedExp": "98410000"
+	},
+	{
+		"Level": 311,
+		"NeedExp": "102077000"
+	},
+	{
+		"Level": 312,
+		"NeedExp": "102494000"
+	},
+	{
+		"Level": 313,
+		"NeedExp": "103015000"
+	},
+	{
+		"Level": 314,
+		"NeedExp": "103431000"
+	},
+	{
+		"Level": 315,
+		"NeedExp": "103952000"
+	},
+	{
+		"Level": 316,
+		"NeedExp": "104369000"
+	},
+	{
+		"Level": 317,
+		"NeedExp": "104890000"
+	},
+	{
+		"Level": 318,
+		"NeedExp": "105306000"
+	},
+	{
+		"Level": 319,
+		"NeedExp": "105827000"
+	},
+	{
+		"Level": 320,
+		"NeedExp": "106244000"
+	},
+	{
+		"Level": 321,
+		"NeedExp": "165111000"
+	},
+	{
+		"Level": 322,
+		"NeedExp": "165785000"
+	},
+	{
+		"Level": 323,
+		"NeedExp": "166627000"
+	},
+	{
+		"Level": 324,
+		"NeedExp": "167301000"
+	},
+	{
+		"Level": 325,
+		"NeedExp": "168144000"
+	},
+	{
+		"Level": 326,
+		"NeedExp": "168817000"
+	},
+	{
+		"Level": 327,
+		"NeedExp": "169660000"
+	},
+	{
+		"Level": 328,
+		"NeedExp": "170334000"
+	},
+	{
+		"Level": 329,
+		"NeedExp": "171176000"
+	},
+	{
+		"Level": 330,
+		"NeedExp": "171850000"
+	},
+	{
+		"Level": 331,
+		"NeedExp": "177812000"
+	},
+	{
+		"Level": 332,
+		"NeedExp": "178537000"
+	},
+	{
+		"Level": 333,
+		"NeedExp": "179445000"
+	},
+	{
+		"Level": 334,
+		"NeedExp": "180170000"
+	},
+	{
+		"Level": 335,
+		"NeedExp": "181078000"
+	},
+	{
+		"Level": 336,
+		"NeedExp": "181803000"
+	},
+	{
+		"Level": 337,
+		"NeedExp": "182711000"
+	},
+	{
+		"Level": 338,
+		"NeedExp": "183436000"
+	},
+	{
+		"Level": 339,
+		"NeedExp": "184344000"
+	},
+	{
+		"Level": 340,
+		"NeedExp": "185069000"
+	},
+	{
+		"Level": 341,
+		"NeedExp": "191924000"
+	},
+	{
+		"Level": 342,
+		"NeedExp": "192707000"
+	},
+	{
+		"Level": 343,
+		"NeedExp": "193686000"
+	},
+	{
+		"Level": 344,
+		"NeedExp": "194470000"
+	},
+	{
+		"Level": 345,
+		"NeedExp": "195449000"
+	},
+	{
+		"Level": 346,
+		"NeedExp": "196232000"
+	},
+	{
+		"Level": 347,
+		"NeedExp": "197211000"
+	},
+	{
+		"Level": 348,
+		"NeedExp": "197995000"
+	},
+	{
+		"Level": 349,
+		"NeedExp": "198974000"
+	},
+	{
+		"Level": 350,
+		"NeedExp": "199757000"
+	},
+	{
+		"Level": 351,
+		"NeedExp": "206741000"
+	},
+	{
+		"Level": 352,
+		"NeedExp": "207585000"
+	},
+	{
+		"Level": 353,
+		"NeedExp": "208640000"
+	},
+	{
+		"Level": 354,
+		"NeedExp": "209484000"
+	},
+	{
+		"Level": 355,
+		"NeedExp": "210539000"
+	},
+	{
+		"Level": 356,
+		"NeedExp": "211382000"
+	},
+	{
+		"Level": 357,
+		"NeedExp": "212437000"
+	},
+	{
+		"Level": 358,
+		"NeedExp": "213281000"
+	},
+	{
+		"Level": 359,
+		"NeedExp": "214336000"
+	},
+	{
+		"Level": 360,
+		"NeedExp": "215180000"
+	},
+	{
+		"Level": 361,
+		"NeedExp": "222970000"
+	},
+	{
+		"Level": 362,
+		"NeedExp": "223880000"
+	},
+	{
+		"Level": 363,
+		"NeedExp": "225018000"
+	},
+	{
+		"Level": 364,
+		"NeedExp": "225928000"
+	},
+	{
+		"Level": 365,
+		"NeedExp": "227065000"
+	},
+	{
+		"Level": 366,
+		"NeedExp": "227976000"
+	},
+	{
+		"Level": 367,
+		"NeedExp": "229113000"
+	},
+	{
+		"Level": 368,
+		"NeedExp": "230023000"
+	},
+	{
+		"Level": 369,
+		"NeedExp": "231161000"
+	},
+	{
+		"Level": 370,
+		"NeedExp": "232071000"
+	},
+	{
+		"Level": 371,
+		"NeedExp": "240610000"
+	},
+	{
+		"Level": 372,
+		"NeedExp": "241592000"
+	},
+	{
+		"Level": 373,
+		"NeedExp": "242820000"
+	},
+	{
+		"Level": 374,
+		"NeedExp": "243802000"
+	},
+	{
+		"Level": 375,
+		"NeedExp": "245029000"
+	},
+	{
+		"Level": 376,
+		"NeedExp": "246012000"
+	},
+	{
+		"Level": 377,
+		"NeedExp": "247239000"
+	},
+	{
+		"Level": 378,
+		"NeedExp": "248221000"
+	},
+	{
+		"Level": 379,
+		"NeedExp": "249449000"
+	},
+	{
+		"Level": 380,
+		"NeedExp": "250431000"
+	},
+	{
+		"Level": 381,
+		"NeedExp": "259661000"
+	},
+	{
+		"Level": 382,
+		"NeedExp": "260721000"
+	},
+	{
+		"Level": 383,
+		"NeedExp": "262046000"
+	},
+	{
+		"Level": 384,
+		"NeedExp": "263106000"
+	},
+	{
+		"Level": 385,
+		"NeedExp": "264431000"
+	},
+	{
+		"Level": 386,
+		"NeedExp": "265490000"
+	},
+	{
+		"Level": 387,
+		"NeedExp": "266815000"
+	},
+	{
+		"Level": 388,
+		"NeedExp": "267875000"
+	},
+	{
+		"Level": 389,
+		"NeedExp": "269200000"
+	},
+	{
+		"Level": 390,
+		"NeedExp": "270260000"
+	},
+	{
+		"Level": 391,
+		"NeedExp": "466872000"
+	},
+	{
+		"Level": 392,
+		"NeedExp": "468778000"
+	},
+	{
+		"Level": 393,
+		"NeedExp": "471160000"
+	},
+	{
+		"Level": 394,
+		"NeedExp": "473066000"
+	},
+	{
+		"Level": 395,
+		"NeedExp": "475448000"
+	},
+	{
+		"Level": 396,
+		"NeedExp": "477353000"
+	},
+	{
+		"Level": 397,
+		"NeedExp": "479735000"
+	},
+	{
+		"Level": 398,
+		"NeedExp": "481641000"
+	},
+	{
+		"Level": 399,
+		"NeedExp": "484023000"
+	},
+	{
+		"Level": 400,
+		"NeedExp": "485928000"
+	},
+	{
+		"Level": 401,
+		"NeedExp": "503328000"
+	},
+	{
+		"Level": 402,
+		"NeedExp": "505383000"
+	},
+	{
+		"Level": 403,
+		"NeedExp": "507951000"
+	},
+	{
+		"Level": 404,
+		"NeedExp": "510005000"
+	},
+	{
+		"Level": 405,
+		"NeedExp": "512573000"
+	},
+	{
+		"Level": 406,
+		"NeedExp": "514628000"
+	},
+	{
+		"Level": 407,
+		"NeedExp": "517196000"
+	},
+	{
+		"Level": 408,
+		"NeedExp": "519250000"
+	},
+	{
+		"Level": 409,
+		"NeedExp": "521818000"
+	},
+	{
+		"Level": 410,
+		"NeedExp": "523872000"
+	},
+	{
+		"Level": 411,
+		"NeedExp": "543312000"
+	},
+	{
+		"Level": 412,
+		"NeedExp": "545530000"
+	},
+	{
+		"Level": 413,
+		"NeedExp": "548302000"
+	},
+	{
+		"Level": 414,
+		"NeedExp": "550520000"
+	},
+	{
+		"Level": 415,
+		"NeedExp": "553292000"
+	},
+	{
+		"Level": 416,
+		"NeedExp": "555509000"
+	},
+	{
+		"Level": 417,
+		"NeedExp": "558281000"
+	},
+	{
+		"Level": 418,
+		"NeedExp": "560499000"
+	},
+	{
+		"Level": 419,
+		"NeedExp": "563271000"
+	},
+	{
+		"Level": 420,
+		"NeedExp": "565488000"
+	},
+	{
+		"Level": 421,
+		"NeedExp": "585648000"
+	},
+	{
+		"Level": 422,
+		"NeedExp": "588039000"
+	},
+	{
+		"Level": 423,
+		"NeedExp": "591027000"
+	},
+	{
+		"Level": 424,
+		"NeedExp": "593417000"
+	},
+	{
+		"Level": 425,
+		"NeedExp": "596405000"
+	},
+	{
+		"Level": 426,
+		"NeedExp": "598796000"
+	},
+	{
+		"Level": 427,
+		"NeedExp": "601784000"
+	},
+	{
+		"Level": 428,
+		"NeedExp": "604174000"
+	},
+	{
+		"Level": 429,
+		"NeedExp": "607162000"
+	},
+	{
+		"Level": 430,
+		"NeedExp": "609552000"
+	},
+	{
+		"Level": 431,
+		"NeedExp": "631512000"
+	},
+	{
+		"Level": 432,
+		"NeedExp": "634090000"
+	},
+	{
+		"Level": 433,
+		"NeedExp": "637312000"
+	},
+	{
+		"Level": 434,
+		"NeedExp": "639890000"
+	},
+	{
+		"Level": 435,
+		"NeedExp": "643112000"
+	},
+	{
+		"Level": 436,
+		"NeedExp": "645689000"
+	},
+	{
+		"Level": 437,
+		"NeedExp": "648911000"
+	},
+	{
+		"Level": 438,
+		"NeedExp": "651489000"
+	},
+	{
+		"Level": 439,
+		"NeedExp": "654711000"
+	},
+	{
+		"Level": 440,
+		"NeedExp": "657288000"
+	},
+	{
+		"Level": 441,
+		"NeedExp": "1361808000"
+	},
+	{
+		"Level": 442,
+		"NeedExp": "1367366400"
+	},
+	{
+		"Level": 443,
+		"NeedExp": "1374314400"
+	},
+	{
+		"Level": 444,
+		"NeedExp": "1379872800"
+	},
+	{
+		"Level": 445,
+		"NeedExp": "1386820800"
+	},
+	{
+		"Level": 446,
+		"NeedExp": "1392379200"
+	},
+	{
+		"Level": 447,
+		"NeedExp": "1399327200"
+	},
+	{
+		"Level": 448,
+		"NeedExp": "1404885600"
+	},
+	{
+		"Level": 449,
+		"NeedExp": "1411833600"
+	},
+	{
+		"Level": 450,
+		"NeedExp": "1417392000"
+	},
+	{
+		"Level": 451,
+		"NeedExp": "1470000000"
+	},
+	{
+		"Level": 452,
+		"NeedExp": "1476000000"
+	},
+	{
+		"Level": 453,
+		"NeedExp": "1483500000"
+	},
+	{
+		"Level": 454,
+		"NeedExp": "1489500000"
+	},
+	{
+		"Level": 455,
+		"NeedExp": "1497000000"
+	},
+	{
+		"Level": 456,
+		"NeedExp": "1503000000"
+	},
+	{
+		"Level": 457,
+		"NeedExp": "1510500000"
+	},
+	{
+		"Level": 458,
+		"NeedExp": "1516500000"
+	},
+	{
+		"Level": 459,
+		"NeedExp": "1524000000"
+	},
+	{
+		"Level": 460,
+		"NeedExp": "1530000000"
+	},
+	{
+		"Level": 461,
+		"NeedExp": "1587600000"
+	},
+	{
+		"Level": 462,
+		"NeedExp": "1594080000"
+	},
+	{
+		"Level": 463,
+		"NeedExp": "1602180000"
+	},
+	{
+		"Level": 464,
+		"NeedExp": "1608660000"
+	},
+	{
+		"Level": 465,
+		"NeedExp": "1616760000"
+	},
+	{
+		"Level": 466,
+		"NeedExp": "1623240000"
+	},
+	{
+		"Level": 467,
+		"NeedExp": "1631340000"
+	},
+	{
+		"Level": 468,
+		"NeedExp": "1637820000"
+	},
+	{
+		"Level": 469,
+		"NeedExp": "1645920000"
+	},
+	{
+		"Level": 470,
+		"NeedExp": "1652400000"
+	},
+	{
+		"Level": 471,
+		"NeedExp": "1714608000"
+	},
+	{
+		"Level": 472,
+		"NeedExp": "1721606400"
+	},
+	{
+		"Level": 473,
+		"NeedExp": "1730354400"
+	},
+	{
+		"Level": 474,
+		"NeedExp": "1737352800"
+	},
+	{
+		"Level": 475,
+		"NeedExp": "1746100800"
+	},
+	{
+		"Level": 476,
+		"NeedExp": "1753099200"
+	},
+	{
+		"Level": 477,
+		"NeedExp": "1761847200"
+	},
+	{
+		"Level": 478,
+		"NeedExp": "1768845600"
+	},
+	{
+		"Level": 479,
+		"NeedExp": "1777593600"
+	},
+	{
+		"Level": 480,
+		"NeedExp": "1784592000"
+	},
+	{
+		"Level": 481,
+		"NeedExp": "1851024000"
+	},
+	{
+		"Level": 482,
+		"NeedExp": "1858579200"
+	},
+	{
+		"Level": 483,
+		"NeedExp": "1868023200"
+	},
+	{
+		"Level": 484,
+		"NeedExp": "1875578400"
+	},
+	{
+		"Level": 485,
+		"NeedExp": "1885022400"
+	},
+	{
+		"Level": 486,
+		"NeedExp": "1892577600"
+	},
+	{
+		"Level": 487,
+		"NeedExp": "1902021600"
+	},
+	{
+		"Level": 488,
+		"NeedExp": "1909576800"
+	},
+	{
+		"Level": 489,
+		"NeedExp": "1919020800"
+	},
+	{
+		"Level": 490,
+		"NeedExp": "1926576000"
+	},
+	{
+		"Level": 491,
+		"NeedExp": "1996848000"
+	},
+	{
+		"Level": 492,
+		"NeedExp": "2004998400"
+	},
+	{
+		"Level": 493,
+		"NeedExp": "2015186400"
+	},
+	{
+		"Level": 494,
+		"NeedExp": "2023336800"
+	},
+	{
+		"Level": 495,
+		"NeedExp": "2033524800"
+	},
+	{
+		"Level": 496,
+		"NeedExp": "2041675200"
+	},
+	{
+		"Level": 497,
+		"NeedExp": "2051863200"
+	},
+	{
+		"Level": 498,
+		"NeedExp": "2060013600"
+	},
+	{
+		"Level": 499,
+		"NeedExp": "2070201600"
+	},
+	{
+		"Level": 500,
+		"NeedExp": "2078352000"
+	},
+	{
+		"Level": 501,
+		"NeedExp": "2154432000"
+	},
+	{
+		"Level": 502,
+		"NeedExp": "2163225600"
+	},
+	{
+		"Level": 503,
+		"NeedExp": "2174217600"
+	},
+	{
+		"Level": 504,
+		"NeedExp": "2183011200"
+	},
+	{
+		"Level": 505,
+		"NeedExp": "2194003200"
+	},
+	{
+		"Level": 506,
+		"NeedExp": "2202796800"
+	},
+	{
+		"Level": 507,
+		"NeedExp": "2213788800"
+	},
+	{
+		"Level": 508,
+		"NeedExp": "2222582400"
+	},
+	{
+		"Level": 509,
+		"NeedExp": "2233574400"
+	},
+	{
+		"Level": 510,
+		"NeedExp": "2242368000"
+	},
+	{
+		"Level": 511,
+		"NeedExp": "2326128000"
+	},
+	{
+		"Level": 512,
+		"NeedExp": "2335622400"
+	},
+	{
+		"Level": 513,
+		"NeedExp": "2347490400"
+	},
+	{
+		"Level": 514,
+		"NeedExp": "2356984800"
+	},
+	{
+		"Level": 515,
+		"NeedExp": "2368852800"
+	},
+	{
+		"Level": 516,
+		"NeedExp": "2378347200"
+	},
+	{
+		"Level": 517,
+		"NeedExp": "2390215200"
+	},
+	{
+		"Level": 518,
+		"NeedExp": "2399709600"
+	},
+	{
+		"Level": 519,
+		"NeedExp": "2411577600"
+	},
+	{
+		"Level": 520,
+		"NeedExp": "2421072000"
+	},
+	{
+		"Level": 521,
+		"NeedExp": "2511936000"
+	},
+	{
+		"Level": 522,
+		"NeedExp": "2522188800"
+	},
+	{
+		"Level": 523,
+		"NeedExp": "2535004800"
+	},
+	{
+		"Level": 524,
+		"NeedExp": "2545257600"
+	},
+	{
+		"Level": 525,
+		"NeedExp": "2558073600"
+	},
+	{
+		"Level": 526,
+		"NeedExp": "2568326400"
+	},
+	{
+		"Level": 527,
+		"NeedExp": "2581142400"
+	},
+	{
+		"Level": 528,
+		"NeedExp": "2591395200"
+	},
+	{
+		"Level": 529,
+		"NeedExp": "2604211200"
+	},
+	{
+		"Level": 530,
+		"NeedExp": "2614464000"
+	},
+	{
+		"Level": 531,
+		"NeedExp": "2711856000"
+	},
+	{
+		"Level": 532,
+		"NeedExp": "2722924800"
+	},
+	{
+		"Level": 533,
+		"NeedExp": "2736760800"
+	},
+	{
+		"Level": 534,
+		"NeedExp": "2747829600"
+	},
+	{
+		"Level": 535,
+		"NeedExp": "2761665600"
+	},
+	{
+		"Level": 536,
+		"NeedExp": "2772734400"
+	},
+	{
+		"Level": 537,
+		"NeedExp": "2786570400"
+	},
+	{
+		"Level": 538,
+		"NeedExp": "2797639200"
+	},
+	{
+		"Level": 539,
+		"NeedExp": "2811475200"
+	},
+	{
+		"Level": 540,
+		"NeedExp": "2822544000"
+	},
+	{
+		"Level": 541,
+		"NeedExp": "2928240000"
+	},
+	{
+		"Level": 542,
+		"NeedExp": "2940192000"
+	},
+	{
+		"Level": 543,
+		"NeedExp": "2955132000"
+	},
+	{
+		"Level": 544,
+		"NeedExp": "2967084000"
+	},
+	{
+		"Level": 545,
+		"NeedExp": "2982024000"
+	},
+	{
+		"Level": 546,
+		"NeedExp": "2993976000"
+	},
+	{
+		"Level": 547,
+		"NeedExp": "3008916000"
+	},
+	{
+		"Level": 548,
+		"NeedExp": "3020868000"
+	},
+	{
+		"Level": 549,
+		"NeedExp": "3035808000"
+	},
+	{
+		"Level": 550,
+		"NeedExp": "3047760000"
+	},
+	{
+		"Level": 551,
+		"NeedExp": "3161088000"
+	},
+	{
+		"Level": 552,
+		"NeedExp": "3173990400"
+	},
+	{
+		"Level": 553,
+		"NeedExp": "3190118400"
+	},
+	{
+		"Level": 554,
+		"NeedExp": "3203020800"
+	},
+	{
+		"Level": 555,
+		"NeedExp": "3219148800"
+	},
+	{
+		"Level": 556,
+		"NeedExp": "3232051200"
+	},
+	{
+		"Level": 557,
+		"NeedExp": "3248179200"
+	},
+	{
+		"Level": 558,
+		"NeedExp": "3261081600"
+	},
+	{
+		"Level": 559,
+		"NeedExp": "3277209600"
+	},
+	{
+		"Level": 560,
+		"NeedExp": "3290112000"
+	},
+	{
+		"Level": 561,
+		"NeedExp": "3412752000"
+	},
+	{
+		"Level": 562,
+		"NeedExp": "3426681600"
+	},
+	{
+		"Level": 563,
+		"NeedExp": "3444093600"
+	},
+	{
+		"Level": 564,
+		"NeedExp": "3458023200"
+	},
+	{
+		"Level": 565,
+		"NeedExp": "3475435200"
+	},
+	{
+		"Level": 566,
+		"NeedExp": "3489364800"
+	},
+	{
+		"Level": 567,
+		"NeedExp": "3506776800"
+	},
+	{
+		"Level": 568,
+		"NeedExp": "3520706400"
+	},
+	{
+		"Level": 569,
+		"NeedExp": "3538118400"
+	},
+	{
+		"Level": 570,
+		"NeedExp": "3552048000"
+	},
+	{
+		"Level": 571,
+		"NeedExp": "3685584000"
+	},
+	{
+		"Level": 572,
+		"NeedExp": "3700627200"
+	},
+	{
+		"Level": 573,
+		"NeedExp": "3719431200"
+	},
+	{
+		"Level": 574,
+		"NeedExp": "3734474400"
+	},
+	{
+		"Level": 575,
+		"NeedExp": "3753278400"
+	},
+	{
+		"Level": 576,
+		"NeedExp": "3768321600"
+	},
+	{
+		"Level": 577,
+		"NeedExp": "3787125600"
+	},
+	{
+		"Level": 578,
+		"NeedExp": "3802168800"
+	},
+	{
+		"Level": 579,
+		"NeedExp": "3820972800"
+	},
+	{
+		"Level": 580,
+		"NeedExp": "3836016000"
+	},
+	{
+		"Level": 581,
+		"NeedExp": "3979584000"
+	},
+	{
+		"Level": 582,
+		"NeedExp": "3995827200"
+	},
+	{
+		"Level": 583,
+		"NeedExp": "4016131200"
+	},
+	{
+		"Level": 584,
+		"NeedExp": "4032374400"
+	},
+	{
+		"Level": 585,
+		"NeedExp": "4052678400"
+	},
+	{
+		"Level": 586,
+		"NeedExp": "4068921600"
+	},
+	{
+		"Level": 587,
+		"NeedExp": "4089225600"
+	},
+	{
+		"Level": 588,
+		"NeedExp": "4105468800"
+	},
+	{
+		"Level": 589,
+		"NeedExp": "4125772800"
+	},
+	{
+		"Level": 590,
+		"NeedExp": "4142016000"
+	},
+	{
+		"Level": 591,
+		"NeedExp": "4158259200"
+	},
+	{
+		"Level": 592,
+		"NeedExp": "4174502400"
+	},
+	{
+		"Level": 593,
+		"NeedExp": "4190745600"
+	},
+	{
+		"Level": 594,
+		"NeedExp": "4206988800"
+	},
+	{
+		"Level": 595,
+		"NeedExp": "4223232000"
+	},
+	{
+		"Level": 596,
+		"NeedExp": "4239475200"
+	},
+	{
+		"Level": 597,
+		"NeedExp": "4255718400"
+	},
+	{
+		"Level": 598,
+		"NeedExp": "4271961600"
+	},
+	{
+		"Level": 599,
+		"NeedExp": "4288204800"
+	},
+	{
+		"Level": 600,
+		"NeedExp": "4304448000"
+	},
+	{
+		"Level": 601,
+		"NeedExp": "4320691200"
+	},
+	{
+		"Level": 602,
+		"NeedExp": "4336934400"
+	},
+	{
+		"Level": 603,
+		"NeedExp": "4353177600"
+	},
+	{
+		"Level": 604,
+		"NeedExp": "4369420800"
+	},
+	{
+		"Level": 605,
+		"NeedExp": "4385664000"
+	},
+	{
+		"Level": 606,
+		"NeedExp": "4401907200"
+	},
+	{
+		"Level": 607,
+		"NeedExp": "4418150400"
+	},
+	{
+		"Level": 608,
+		"NeedExp": "4434393600"
+	},
+	{
+		"Level": 609,
+		"NeedExp": "4450636800"
+	},
+	{
+		"Level": 610,
+		"NeedExp": "4466880000"
+	},
+	{
+		"Level": 611,
+		"NeedExp": "4483123200"
+	},
+	{
+		"Level": 612,
+		"NeedExp": "4499366400"
+	},
+	{
+		"Level": 613,
+		"NeedExp": "4515609600"
+	},
+	{
+		"Level": 614,
+		"NeedExp": "4531852800"
+	},
+	{
+		"Level": 615,
+		"NeedExp": "4548096000"
+	},
+	{
+		"Level": 616,
+		"NeedExp": "4564339200"
+	},
+	{
+		"Level": 617,
+		"NeedExp": "4580582400"
+	},
+	{
+		"Level": 618,
+		"NeedExp": "4596825600"
+	},
+	{
+		"Level": 619,
+		"NeedExp": "4613068800"
+	},
+	{
+		"Level": 620,
+		"NeedExp": "4629312000"
+	},
+	{
+		"Level": 621,
+		"NeedExp": "4645555200"
+	},
+	{
+		"Level": 622,
+		"NeedExp": "4661798400"
+	},
+	{
+		"Level": 623,
+		"NeedExp": "4678041600"
+	},
+	{
+		"Level": 624,
+		"NeedExp": "4694284800"
+	},
+	{
+		"Level": 625,
+		"NeedExp": "4710528000"
+	},
+	{
+		"Level": 626,
+		"NeedExp": "4726771200"
+	},
+	{
+		"Level": 627,
+		"NeedExp": "4743014400"
+	},
+	{
+		"Level": 628,
+		"NeedExp": "4759257600"
+	},
+	{
+		"Level": 629,
+		"NeedExp": "4775500800"
+	},
+	{
+		"Level": 630,
+		"NeedExp": "4791744000"
+	},
+	{
+		"Level": 631,
+		"NeedExp": "4807987200"
+	},
+	{
+		"Level": 632,
+		"NeedExp": "4824230400"
+	},
+	{
+		"Level": 633,
+		"NeedExp": "4840473600"
+	},
+	{
+		"Level": 634,
+		"NeedExp": "4856716800"
+	},
+	{
+		"Level": 635,
+		"NeedExp": "4872960000"
+	},
+	{
+		"Level": 636,
+		"NeedExp": "4889203200"
+	},
+	{
+		"Level": 637,
+		"NeedExp": "4905446400"
+	},
+	{
+		"Level": 638,
+		"NeedExp": "4921689600"
+	},
+	{
+		"Level": 639,
+		"NeedExp": "4937932800"
+	},
+	{
+		"Level": 640,
+		"NeedExp": "4954176000"
+	},
+	{
+		"Level": 641,
+		"NeedExp": "4970419200"
+	},
+	{
+		"Level": 642,
+		"NeedExp": "4986662400"
+	},
+	{
+		"Level": 643,
+		"NeedExp": "5002905600"
+	},
+	{
+		"Level": 644,
+		"NeedExp": "5019148800"
+	},
+	{
+		"Level": 645,
+		"NeedExp": "5035392000"
+	},
+	{
+		"Level": 646,
+		"NeedExp": "5051635200"
+	},
+	{
+		"Level": 647,
+		"NeedExp": "5067878400"
+	},
+	{
+		"Level": 648,
+		"NeedExp": "5084121600"
+	},
+	{
+		"Level": 649,
+		"NeedExp": "5100364800"
+	},
+	{
+		"Level": 650,
+		"NeedExp": "5116608000"
+	},
+	{
+		"Level": 651,
+		"NeedExp": "5132851200"
+	},
+	{
+		"Level": 652,
+		"NeedExp": "5149094400"
+	},
+	{
+		"Level": 653,
+		"NeedExp": "5165337600"
+	},
+	{
+		"Level": 654,
+		"NeedExp": "5181580800"
+	},
+	{
+		"Level": 655,
+		"NeedExp": "5197824000"
+	},
+	{
+		"Level": 656,
+		"NeedExp": "5214067200"
+	},
+	{
+		"Level": 657,
+		"NeedExp": "5230310400"
+	},
+	{
+		"Level": 658,
+		"NeedExp": "5246553600"
+	},
+	{
+		"Level": 659,
+		"NeedExp": "5262796800"
+	},
+	{
+		"Level": 660,
+		"NeedExp": "5279040000"
+	},
+	{
+		"Level": 661,
+		"NeedExp": "5295283200"
+	},
+	{
+		"Level": 662,
+		"NeedExp": "5311526400"
+	},
+	{
+		"Level": 663,
+		"NeedExp": "5327769600"
+	},
+	{
+		"Level": 664,
+		"NeedExp": "5344012800"
+	},
+	{
+		"Level": 665,
+		"NeedExp": "5360256000"
+	},
+	{
+		"Level": 666,
+		"NeedExp": "5376499200"
+	},
+	{
+		"Level": 667,
+		"NeedExp": "5392742400"
+	},
+	{
+		"Level": 668,
+		"NeedExp": "5408985600"
+	},
+	{
+		"Level": 669,
+		"NeedExp": "5425228800"
+	},
+	{
+		"Level": 670,
+		"NeedExp": "5441472000"
+	},
+	{
+		"Level": 671,
+		"NeedExp": "5457715200"
+	},
+	{
+		"Level": 672,
+		"NeedExp": "5473958400"
+	},
+	{
+		"Level": 673,
+		"NeedExp": "5490201600"
+	},
+	{
+		"Level": 674,
+		"NeedExp": "5506444800"
+	},
+	{
+		"Level": 675,
+		"NeedExp": "5522688000"
+	},
+	{
+		"Level": 676,
+		"NeedExp": "5538931200"
+	},
+	{
+		"Level": 677,
+		"NeedExp": "5555174400"
+	},
+	{
+		"Level": 678,
+		"NeedExp": "5571417600"
+	},
+	{
+		"Level": 679,
+		"NeedExp": "5587660800"
+	},
+	{
+		"Level": 680,
+		"NeedExp": "5603904000"
+	},
+	{
+		"Level": 681,
+		"NeedExp": "5620147200"
+	},
+	{
+		"Level": 682,
+		"NeedExp": "5636390400"
+	},
+	{
+		"Level": 683,
+		"NeedExp": "5652633600"
+	},
+	{
+		"Level": 684,
+		"NeedExp": "5668876800"
+	},
+	{
+		"Level": 685,
+		"NeedExp": "5685120000"
+	},
+	{
+		"Level": 686,
+		"NeedExp": "5701363200"
+	},
+	{
+		"Level": 687,
+		"NeedExp": "5717606400"
+	},
+	{
+		"Level": 688,
+		"NeedExp": "5733849600"
+	},
+	{
+		"Level": 689,
+		"NeedExp": "5750092800"
+	},
+	{
+		"Level": 690,
+		"NeedExp": "5766336000"
+	},
+	{
+		"Level": 691,
+		"NeedExp": "5782579200"
+	},
+	{
+		"Level": 692,
+		"NeedExp": "5798822400"
+	},
+	{
+		"Level": 693,
+		"NeedExp": "5815065600"
+	},
+	{
+		"Level": 694,
+		"NeedExp": "5831308800"
+	},
+	{
+		"Level": 695,
+		"NeedExp": "5847552000"
+	},
+	{
+		"Level": 696,
+		"NeedExp": "5863795200"
+	},
+	{
+		"Level": 697,
+		"NeedExp": "5880038400"
+	},
+	{
+		"Level": 698,
+		"NeedExp": "5896281600"
+	},
+	{
+		"Level": 699,
+		"NeedExp": "5912524800"
+	},
+	{
+		"Level": 700,
+		"NeedExp": "5928768000"
+	},
+	{
+		"Level": 701,
+		"NeedExp": "5945011200"
+	},
+	{
+		"Level": 702,
+		"NeedExp": "5961254400"
+	},
+	{
+		"Level": 703,
+		"NeedExp": "5977497600"
+	},
+	{
+		"Level": 704,
+		"NeedExp": "5993740800"
+	},
+	{
+		"Level": 705,
+		"NeedExp": "6009984000"
+	},
+	{
+		"Level": 706,
+		"NeedExp": "6026227200"
+	},
+	{
+		"Level": 707,
+		"NeedExp": "6042470400"
+	},
+	{
+		"Level": 708,
+		"NeedExp": "6058713600"
+	},
+	{
+		"Level": 709,
+		"NeedExp": "6074956800"
+	},
+	{
+		"Level": 710,
+		"NeedExp": "6091200000"
+	},
+	{
+		"Level": 711,
+		"NeedExp": "6107443200"
+	},
+	{
+		"Level": 712,
+		"NeedExp": "6123686400"
+	},
+	{
+		"Level": 713,
+		"NeedExp": "6139929600"
+	},
+	{
+		"Level": 714,
+		"NeedExp": "6156172800"
+	},
+	{
+		"Level": 715,
+		"NeedExp": "6172416000"
+	},
+	{
+		"Level": 716,
+		"NeedExp": "6188659200"
+	},
+	{
+		"Level": 717,
+		"NeedExp": "6204902400"
+	},
+	{
+		"Level": 718,
+		"NeedExp": "6221145600"
+	},
+	{
+		"Level": 719,
+		"NeedExp": "6237388800"
+	},
+	{
+		"Level": 720,
+		"NeedExp": "6253632000"
+	},
+	{
+		"Level": 721,
+		"NeedExp": "6269875200"
+	},
+	{
+		"Level": 722,
+		"NeedExp": "6286118400"
+	},
+	{
+		"Level": 723,
+		"NeedExp": "6302361600"
+	},
+	{
+		"Level": 724,
+		"NeedExp": "6318604800"
+	},
+	{
+		"Level": 725,
+		"NeedExp": "6334848000"
+	},
+	{
+		"Level": 726,
+		"NeedExp": "6351091200"
+	},
+	{
+		"Level": 727,
+		"NeedExp": "6367334400"
+	},
+	{
+		"Level": 728,
+		"NeedExp": "6383577600"
+	},
+	{
+		"Level": 729,
+		"NeedExp": "6399820800"
+	},
+	{
+		"Level": 730,
+		"NeedExp": "6416064000"
+	},
+	{
+		"Level": 731,
+		"NeedExp": "6432307200"
+	},
+	{
+		"Level": 732,
+		"NeedExp": "6448550400"
+	},
+	{
+		"Level": 733,
+		"NeedExp": "6464793600"
+	},
+	{
+		"Level": 734,
+		"NeedExp": "6481036800"
+	},
+	{
+		"Level": 735,
+		"NeedExp": "6497280000"
+	},
+	{
+		"Level": 736,
+		"NeedExp": "6513523200"
+	},
+	{
+		"Level": 737,
+		"NeedExp": "6529766400"
+	},
+	{
+		"Level": 738,
+		"NeedExp": "6546009600"
+	},
+	{
+		"Level": 739,
+		"NeedExp": "6562252800"
+	},
+	{
+		"Level": 740,
+		"NeedExp": "6578496000"
+	},
+	{
+		"Level": 741,
+		"NeedExp": "6594739200"
+	},
+	{
+		"Level": 742,
+		"NeedExp": "6610982400"
+	},
+	{
+		"Level": 743,
+		"NeedExp": "6627225600"
+	},
+	{
+		"Level": 744,
+		"NeedExp": "6643468800"
+	},
+	{
+		"Level": 745,
+		"NeedExp": "6659712000"
+	},
+	{
+		"Level": 746,
+		"NeedExp": "6675955200"
+	},
+	{
+		"Level": 747,
+		"NeedExp": "6692198400"
+	},
+	{
+		"Level": 748,
+		"NeedExp": "6708441600"
+	},
+	{
+		"Level": 749,
+		"NeedExp": "6724684800"
+	},
+	{
+		"Level": 750,
+		"NeedExp": "6740928000"
+	},
+	{
+		"Level": 751,
+		"NeedExp": "6757171200"
+	},
+	{
+		"Level": 752,
+		"NeedExp": "6773414400"
+	},
+	{
+		"Level": 753,
+		"NeedExp": "6789657600"
+	},
+	{
+		"Level": 754,
+		"NeedExp": "6805900800"
+	},
+	{
+		"Level": 755,
+		"NeedExp": "6822144000"
+	},
+	{
+		"Level": 756,
+		"NeedExp": "6838387200"
+	},
+	{
+		"Level": 757,
+		"NeedExp": "6854630400"
+	},
+	{
+		"Level": 758,
+		"NeedExp": "6870873600"
+	},
+	{
+		"Level": 759,
+		"NeedExp": "6887116800"
+	},
+	{
+		"Level": 760,
+		"NeedExp": "6903360000"
+	},
+	{
+		"Level": 761,
+		"NeedExp": "6919603200"
+	},
+	{
+		"Level": 762,
+		"NeedExp": "6935846400"
+	},
+	{
+		"Level": 763,
+		"NeedExp": "6952089600"
+	},
+	{
+		"Level": 764,
+		"NeedExp": "6968332800"
+	},
+	{
+		"Level": 765,
+		"NeedExp": "6984576000"
+	},
+	{
+		"Level": 766,
+		"NeedExp": "7000819200"
+	},
+	{
+		"Level": 767,
+		"NeedExp": "7017062400"
+	},
+	{
+		"Level": 768,
+		"NeedExp": "7033305600"
+	},
+	{
+		"Level": 769,
+		"NeedExp": "7049548800"
+	},
+	{
+		"Level": 770,
+		"NeedExp": "7065792000"
+	},
+	{
+		"Level": 771,
+		"NeedExp": "7082035200"
+	},
+	{
+		"Level": 772,
+		"NeedExp": "7098278400"
+	},
+	{
+		"Level": 773,
+		"NeedExp": "7114521600"
+	},
+	{
+		"Level": 774,
+		"NeedExp": "7130764800"
+	},
+	{
+		"Level": 775,
+		"NeedExp": "7147008000"
+	},
+	{
+		"Level": 776,
+		"NeedExp": "7163251200"
+	},
+	{
+		"Level": 777,
+		"NeedExp": "7179494400"
+	},
+	{
+		"Level": 778,
+		"NeedExp": "7195737600"
+	},
+	{
+		"Level": 779,
+		"NeedExp": "7211980800"
+	},
+	{
+		"Level": 780,
+		"NeedExp": "7228224000"
+	},
+	{
+		"Level": 781,
+		"NeedExp": "7244467200"
+	},
+	{
+		"Level": 782,
+		"NeedExp": "7260710400"
+	},
+	{
+		"Level": 783,
+		"NeedExp": "7276953600"
+	},
+	{
+		"Level": 784,
+		"NeedExp": "7293196800"
+	},
+	{
+		"Level": 785,
+		"NeedExp": "7309440000"
+	},
+	{
+		"Level": 786,
+		"NeedExp": "7325683200"
+	},
+	{
+		"Level": 787,
+		"NeedExp": "7341926400"
+	},
+	{
+		"Level": 788,
+		"NeedExp": "7358169600"
+	},
+	{
+		"Level": 789,
+		"NeedExp": "7374412800"
+	},
+	{
+		"Level": 790,
+		"NeedExp": "7390656000"
+	},
+	{
+		"Level": 791,
+		"NeedExp": "7406899200"
+	},
+	{
+		"Level": 792,
+		"NeedExp": "7423142400"
+	},
+	{
+		"Level": 793,
+		"NeedExp": "7439385600"
+	},
+	{
+		"Level": 794,
+		"NeedExp": "7455628800"
+	},
+	{
+		"Level": 795,
+		"NeedExp": "7471872000"
+	},
+	{
+		"Level": 796,
+		"NeedExp": "7488115200"
+	},
+	{
+		"Level": 797,
+		"NeedExp": "7504358400"
+	},
+	{
+		"Level": 798,
+		"NeedExp": "7520601600"
+	},
+	{
+		"Level": 799,
+		"NeedExp": "7536844800"
+	},
+	{
+		"Level": 800,
+		"NeedExp": "7553088000"
+	},
+	{
+		"Level": 801,
+		"NeedExp": "7569331200"
+	},
+	{
+		"Level": 802,
+		"NeedExp": "7585574400"
+	},
+	{
+		"Level": 803,
+		"NeedExp": "7601817600"
+	},
+	{
+		"Level": 804,
+		"NeedExp": "7618060800"
+	},
+	{
+		"Level": 805,
+		"NeedExp": "7634304000"
+	},
+	{
+		"Level": 806,
+		"NeedExp": "7650547200"
+	},
+	{
+		"Level": 807,
+		"NeedExp": "7666790400"
+	},
+	{
+		"Level": 808,
+		"NeedExp": "7683033600"
+	},
+	{
+		"Level": 809,
+		"NeedExp": "7699276800"
+	},
+	{
+		"Level": 810,
+		"NeedExp": "7715520000"
+	},
+	{
+		"Level": 811,
+		"NeedExp": "7731763200"
+	},
+	{
+		"Level": 812,
+		"NeedExp": "7748006400"
+	},
+	{
+		"Level": 813,
+		"NeedExp": "7764249600"
+	},
+	{
+		"Level": 814,
+		"NeedExp": "7780492800"
+	},
+	{
+		"Level": 815,
+		"NeedExp": "7796736000"
+	},
+	{
+		"Level": 816,
+		"NeedExp": "7812979200"
+	},
+	{
+		"Level": 817,
+		"NeedExp": "7829222400"
+	},
+	{
+		"Level": 818,
+		"NeedExp": "7845465600"
+	},
+	{
+		"Level": 819,
+		"NeedExp": "7861708800"
+	},
+	{
+		"Level": 820,
+		"NeedExp": "7877952000"
+	},
+	{
+		"Level": 821,
+		"NeedExp": "7894195200"
+	},
+	{
+		"Level": 822,
+		"NeedExp": "7910438400"
+	},
+	{
+		"Level": 823,
+		"NeedExp": "7926681600"
+	},
+	{
+		"Level": 824,
+		"NeedExp": "7942924800"
+	},
+	{
+		"Level": 825,
+		"NeedExp": "7959168000"
+	},
+	{
+		"Level": 826,
+		"NeedExp": "7975411200"
+	},
+	{
+		"Level": 827,
+		"NeedExp": "7991654400"
+	},
+	{
+		"Level": 828,
+		"NeedExp": "8007897600"
+	},
+	{
+		"Level": 829,
+		"NeedExp": "8024140800"
+	},
+	{
+		"Level": 830,
+		"NeedExp": "8040384000"
+	},
+	{
+		"Level": 831,
+		"NeedExp": "8056627200"
+	},
+	{
+		"Level": 832,
+		"NeedExp": "8072870400"
+	},
+	{
+		"Level": 833,
+		"NeedExp": "8089113600"
+	},
+	{
+		"Level": 834,
+		"NeedExp": "8105356800"
+	},
+	{
+		"Level": 835,
+		"NeedExp": "8121600000"
+	},
+	{
+		"Level": 836,
+		"NeedExp": "8137843200"
+	},
+	{
+		"Level": 837,
+		"NeedExp": "8154086400"
+	},
+	{
+		"Level": 838,
+		"NeedExp": "8170329600"
+	},
+	{
+		"Level": 839,
+		"NeedExp": "8186572800"
+	},
+	{
+		"Level": 840,
+		"NeedExp": "8202816000"
+	},
+	{
+		"Level": 841,
+		"NeedExp": "8219059200"
+	},
+	{
+		"Level": 842,
+		"NeedExp": "8235302400"
+	},
+	{
+		"Level": 843,
+		"NeedExp": "8251545600"
+	},
+	{
+		"Level": 844,
+		"NeedExp": "8267788800"
+	},
+	{
+		"Level": 845,
+		"NeedExp": "8284032000"
+	},
+	{
+		"Level": 846,
+		"NeedExp": "8300275200"
+	},
+	{
+		"Level": 847,
+		"NeedExp": "8316518400"
+	},
+	{
+		"Level": 848,
+		"NeedExp": "8332761600"
+	},
+	{
+		"Level": 849,
+		"NeedExp": "8349004800"
+	},
+	{
+		"Level": 850,
+		"NeedExp": "8365248000"
+	},
+	{
+		"Level": 851,
+		"NeedExp": "8381491200"
+	},
+	{
+		"Level": 852,
+		"NeedExp": "8397734400"
+	},
+	{
+		"Level": 853,
+		"NeedExp": "8413977600"
+	},
+	{
+		"Level": 854,
+		"NeedExp": "8430220800"
+	},
+	{
+		"Level": 855,
+		"NeedExp": "8446464000"
+	},
+	{
+		"Level": 856,
+		"NeedExp": "8462707200"
+	},
+	{
+		"Level": 857,
+		"NeedExp": "8478950400"
+	},
+	{
+		"Level": 858,
+		"NeedExp": "8495193600"
+	},
+	{
+		"Level": 859,
+		"NeedExp": "8511436800"
+	},
+	{
+		"Level": 860,
+		"NeedExp": "8527680000"
+	}
+]

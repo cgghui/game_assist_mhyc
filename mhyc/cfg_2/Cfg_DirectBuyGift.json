@@ -1,0 +1,1378 @@
+[
+	{
+		"BgImg": "bg_zhaocaimao|img_libao_kuang|img_libao_kuang",
+		"CostNum": 68,
+		"GoodID": 4001,
+		"GoodName": "宝物-招财",
+		"ItemStr": "2150008:1|801:1|2200254:1|2250303:10|2250302:5|1:600",
+		"PrizeShow": "img_icon_zhaocaimao:0"
+	},
+	{
+		"BgImg": "zglb_zhanlihufu|img_libao_kuang",
+		"CostNum": 30,
+		"GoodID": 4002,
+		"GoodName": "宝物-护符",
+		"ItemStr": "2150009:1|820:1|1:300|2250303:5|2250302:3|3:880000",
+		"PrizeShow": "img_icon_hufu:0"
+	},
+	{
+		"CostNum": 98,
+		"GoodID": 4003,
+		"GoodName": "宝物-神灯",
+		"ItemStr": "2150007:1|1:980|2050104:1|2010004:10|2:2888|501:2",
+		"PrizeShow": "6752:1"
+	},
+	{
+		"AdvImg": "img_yuanshigg1|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40031,
+		"GoodName": "智慧原石",
+		"ItemStr": "2150001:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"NextGId": 40032,
+		"PrizeShow": "img_15000:0"
+	},
+	{
+		"AdvImg": "img_yuanshigg2|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40032,
+		"GoodName": "力量原石",
+		"ItemStr": "2150002:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"NextGId": 40033,
+		"PrizeShow": "img_15001:0"
+	},
+	{
+		"AdvImg": "img_yuanshigg3|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40033,
+		"GoodName": "勇气原石",
+		"ItemStr": "2150003:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"NextGId": 40034,
+		"PrizeShow": "img_15002:0"
+	},
+	{
+		"AdvImg": "img_yuanshigg4|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40034,
+		"GoodName": "财富原石",
+		"ItemStr": "2150004:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"NextGId": 40035,
+		"PrizeShow": "img_15003:0"
+	},
+	{
+		"AdvImg": "img_yuanshigg5|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40035,
+		"GoodName": "命运原石",
+		"ItemStr": "2150005:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"NextGId": 40036,
+		"PrizeShow": "img_15004:0"
+	},
+	{
+		"AdvImg": "img_yuanshigg6|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40036,
+		"GoodName": "名利原石",
+		"ItemStr": "2150006:1|262:2|4020102:1|271:2|2200101:30|1:680",
+		"PrizeShow": "img_15005:0"
+	},
+	{
+		"AdvImg": "zglb_shenshilibao|img_song88888",
+		"BgImg": "zglb_08|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40037,
+		"GoodName": "神灯原石",
+		"ItemStr": "2150012:1|262:5|4020102:3|271:5|2200101:50|1:1980",
+		"PrizeShow": "img_sslb:0"
+	},
+	{
+		"AdvImg": "img_yuanshen_shanxiao|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40101,
+		"GoodName": "凶兽山魈",
+		"ItemStr": "2310054:1|2310003:10|2403454:3|2310001:20|2310002:5|1:680",
+		"NextGId": 40102,
+		"PrizeShow": "8135:14:1:80"
+	},
+	{
+		"AdvImg": "img_yuanshen_hujiao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 40102,
+		"GoodName": "凶兽虎蛟",
+		"ItemStr": "2310062:1|2310003:20|2403462:3|2310001:50|2310002:10|1:3280",
+		"NextGId": 40103,
+		"PrizeShow": "8143:14:1:80"
+	},
+	{
+		"AdvImg": "img_yuanshen_qiongqi|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40103,
+		"GoodName": "凶兽穷奇",
+		"ItemStr": "2310066:1|2310003:50|2403466:3|2310001:100|2310002:20|1:6480",
+		"PrizeShow": "8147:14:1:80"
+	},
+	{
+		"AdvImg": "img_xiantong_lingyue|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40151,
+		"GoodName": "仙童灵月",
+		"ItemStr": "5014202:1|5014103:20|5014112:5|263:2|2200255:1|1:1980",
+		"NextGId": 40152,
+		"PrizeShow": "2112:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_xiantong_xiaofulu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40152,
+		"GoodName": "小福禄",
+		"ItemStr": "5016103:1|5014103:20|5014112:5|263:2|2200255:1|1:1980",
+		"NextGId": 40154,
+		"PrizeShow": "2115:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_xiantong_maliang|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40153,
+		"GoodName": "马良",
+		"ItemStr": "5016105:1|5014103:50|5014112:10|263:2|2200256:1|1:6480",
+		"NextGId": 40155,
+		"PrizeShow": "2122:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_xiantong_xiaohuaxian|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40154,
+		"GoodName": "小花仙",
+		"ItemStr": "5016112:1|5014103:20|5014112:5|263:2|2200255:1|1:1980",
+		"NextGId": 40153,
+		"PrizeShow": "2118:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_xiantong_xiaolongren|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40155,
+		"GoodName": "小龙人",
+		"ItemStr": "5016114:1|5014103:50|5014112:10|263:2|2200256:1|1:6480",
+		"PrizeShow": "2125:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_xiantong_wanjudalibao|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40156,
+		"GoodName": "玩具大礼包",
+		"ItemStr": "5014012:1|5014011:1|5014008:1|5014103:10|5014112:2|1:300",
+		"PrizeShow": "img_15006:0"
+	},
+	{
+		"AdvImg": "img_yanjia_tshx|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 40201,
+		"GoodName": "天枢核心",
+		"ItemStr": "2060201:1|2060200:10|3003:3|2060102:10|2060199:200|1:680",
+		"NextGId": 40202,
+		"PrizeShow": "ui_5601:1"
+	},
+	{
+		"AdvImg": "img_yanjia_txhx|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 40202,
+		"GoodName": "天璇核心",
+		"ItemStr": "2060202:1|2060200:50|3003:6|2060102:20|2060199:400|1:3280",
+		"NextGId": 40203,
+		"PrizeShow": "ui_5602:1"
+	},
+	{
+		"AdvImg": "img_yanjia_yhhx|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40203,
+		"GoodName": "玉衡核心",
+		"ItemStr": "2060205:1|2060200:100|3003:9|2060102:30|2060199:800|1:6480",
+		"PrizeShow": "ui_5605:1"
+	},
+	{
+		"AdvImg": "img_yanjia_jxxq|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40211,
+		"GoodName": "机械先驱",
+		"ItemStr": "3120101:1|2060103:20|2060200:30|3003:5|2060199:300|1:3960",
+		"NextGId": 40212,
+		"PrizeShow": "1702:8"
+	},
+	{
+		"AdvImg": "img_yanjia_hdck|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40212,
+		"GoodName": "皇帝刺客",
+		"ItemStr": "3120102:1|2060103:80|2060200:100|3003:9|2060199:800|1:12960",
+		"NextGId": 40213,
+		"PrizeShow": "1703:8"
+	},
+	{
+		"AdvImg": "img_yanjia_xkzz|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40213,
+		"GoodName": "虚空之主",
+		"ItemStr": "3120103:1|2060104:50|2060200:200|3003:12|2060199:1200|1:39960",
+		"PrizeShow": "1704:8"
+	},
+	{
+		"AdvImg": "zglb_yxguanyu|img_song88888",
+		"AnimationShow": "1:10351",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40221,
+		"GoodName": "武圣关羽",
+		"ItemStr": "2080103:1|2080451:40|2200831:80|2080261:1|3:40000000|1:980",
+		"NextGId": 40222,
+		"PrizeShow": "1603:8"
+	},
+	{
+		"AdvImg": "img_yx_zhaoyun|img_song88888",
+		"AnimationShow": "1:10352",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40222,
+		"GoodName": "龙胆赵云",
+		"ItemStr": "2080104:1|2080204:50|2080451:40|2200831:80|2080254:6|1:12960",
+		"NextGId": 40223,
+		"PrizeShow": "1604:8"
+	},
+	{
+		"AdvImg": "img_yx_lvbu|img_song88888",
+		"AnimationShow": "1:10352",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40223,
+		"GoodName": "飞将吕布",
+		"ItemStr": "2080105:1|2080205:50|2080451:40|2200831:160|2080254:6|1:12960",
+		"NextGId": 40224,
+		"PrizeShow": "1605:8"
+	},
+	{
+		"AdvImg": "img_yx_machao|img_song88888",
+		"AnimationShow": "1:10352",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40224,
+		"GoodName": "西凉马超",
+		"ItemStr": "2080106:1|2080206:50|2080451:40|2080254:6|2080262:1|1:12960",
+		"PrizeShow": "1606:8"
+	},
+	{
+		"AdvImg": "zglb_hlpf_jin|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40241,
+		"GoodName": "庚金之主",
+		"ItemStr": "2070111:1|2070191:50|2070171:500|2070151:10|2022:50|1:12960",
+		"NextGId": 40242,
+		"PrizeShow": "5509:8"
+	},
+	{
+		"AdvImg": "zglb_lw_jin|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40242,
+		"GoodName": "天狐刃",
+		"ItemStr": "2070256:1|2070251:1|2070191:50|2070171:500|2070151:10|1:12960",
+		"PrizeShow": "1602201:17:0.7:40"
+	},
+	{
+		"AdvImg": "zglb_hlpf_mu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40243,
+		"GoodName": "乙木之主",
+		"ItemStr": "2070112:1|2070192:50|2070172:1000|2070152:10|2022:50|1:12960",
+		"NextGId": 40244,
+		"PrizeShow": "5511:8"
+	},
+	{
+		"AdvImg": "zglb_lw_mu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40244,
+		"GoodName": "囚龙珠",
+		"ItemStr": "2070257:1|2070252:1|2070192:50|2070172:1000|2070152:10|1:12960",
+		"PrizeShow": "1602401:17:0.8"
+	},
+	{
+		"AdvImg": "zglb_hlpf_shui|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40245,
+		"GoodName": "癸水之主",
+		"ItemStr": "2070113:1|2070193:50|2070173:1500|2070153:10|2022:50|1:12960",
+		"NextGId": 40246,
+		"PrizeShow": "5504:8"
+	},
+	{
+		"AdvImg": "zglb_lw_shui|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40246,
+		"GoodName": "冰晶丹",
+		"ItemStr": "2070258:1|2070253:1|2070193:50|2070173:1500|2070153:10|1:12960",
+		"PrizeShow": "1602601:17:0.8"
+	},
+	{
+		"AdvImg": "zglb_hlpf_huo|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40247,
+		"GoodName": "炎火之主",
+		"ItemStr": "2070114:1|2070194:50|2070174:2000|2070154:10|2022:50|1:12960",
+		"NextGId": 40248,
+		"PrizeShow": "5512:8"
+	},
+	{
+		"AdvImg": "zglb_lw_huo|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40248,
+		"GoodName": "仁皇剑",
+		"ItemStr": "2070259:1|2070254:1|2070194:50|2070174:2000|2070154:10|1:12960",
+		"PrizeShow": "1602801:17:0.8:40"
+	},
+	{
+		"AdvImg": "zglb_hlpf_tu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40249,
+		"GoodName": "戊土之主",
+		"ItemStr": "2070115:1|2070195:50|2070175:2500|2070155:10|2022:50|1:12960",
+		"NextGId": 40250,
+		"PrizeShow": "5508:8"
+	},
+	{
+		"AdvImg": "zglb_lw_tu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40250,
+		"GoodName": "惊雷环",
+		"ItemStr": "2070260:1|2070255:1|2070195:50|2070175:2500|2070155:10|1:12960",
+		"PrizeShow": "1603001:17:0.8"
+	},
+	{
+		"AdvImg": "img_guangming8|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40261,
+		"GoodName": "光明兽",
+		"ItemStr": "5020108:1|2140103:2|2140102:5|2140101:10|2140201:50|1:600",
+		"PrizeShow": "1:18:1:50"
+	},
+	{
+		"AdvImg": "img_kongque7|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40262,
+		"GoodName": "孔雀·风",
+		"ItemStr": "5020207:1|2140103:5|2140102:10|2140101:50|2140201:100|1:1960",
+		"NextGId": 40263,
+		"PrizeShow": "2:18:1:50"
+	},
+	{
+		"AdvImg": "img_kongque8|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 128,
+		"GoodID": 40263,
+		"GoodName": "孔雀·雷",
+		"ItemStr": "5020208:1|2140103:5|2140102:10|2140101:100|2140201:120|1:2560",
+		"PrizeShow": "2:18:1:50"
+	},
+	{
+		"AdvImg": "img_youkunmp|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40264,
+		"GoodName": "逍遥鲲·阴",
+		"ItemStr": "5020307:1|5020305:1|5020303:1|5020301:1|2140103:50|1:12960",
+		"NextGId": 40265,
+		"PrizeShow": "3:18:1:50"
+	},
+	{
+		"AdvImg": "img_youkunmp|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40265,
+		"GoodName": "逍遥鲲·阳",
+		"ItemStr": "5020308:1|5020306:1|5020304:1|5020302:1|2140103:50|1:12960",
+		"PrizeShow": "3:18:1:50"
+	},
+	{
+		"AdvImg": "img_baize328|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 40270,
+		"GoodName": "白泽·乾",
+		"ItemStr": "5020502:1|5020501:1|2140103:10|2140102:20|2140201:200|1:6560",
+		"NextGId": 40271,
+		"PrizeShow": "5:18:1:50"
+	},
+	{
+		"AdvImg": "img_baize648|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40271,
+		"GoodName": "白泽·坎",
+		"ItemStr": "5020505:1|5020504:1|5020503:1|2140103:40|2140201:300|1:12960",
+		"NextGId": 40272,
+		"PrizeShow": "5:18:1:50"
+	},
+	{
+		"AdvImg": "img_baize648|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40272,
+		"GoodName": "白泽·艮",
+		"ItemStr": "5020507:1|5020506:1|2140103:40|2140102:40|2140201:300|1:12960",
+		"NextGId": 40273,
+		"PrizeShow": "5:18:1:50"
+	},
+	{
+		"AdvImg": "img_baize648|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40273,
+		"GoodName": "白泽·震",
+		"ItemStr": "5020508:1|2140103:50|2140102:50|2140101:100|2140201:300|1:12960",
+		"PrizeShow": "5:18:1:50"
+	},
+	{
+		"AdvImg": "img_shufapt|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 6,
+		"GoodID": 40310,
+		"GoodName": "苍灵阵",
+		"ItemStr": "2090201:1|2090256:2|2090257:1|2090251:20|2200255:1|1:120",
+		"NextGId": 40311,
+		"PrizeShow": "img_canglingzhen:19"
+	},
+	{
+		"AdvImg": "img_qimendj|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40311,
+		"GoodName": "奇门遁甲",
+		"ItemStr": "2090255:1|2090256:5|2090257:2|2022:50|2200255:2|1:1960",
+		"NextGId": 40312,
+		"PrizeShow": "img_canglingzhen|img_chigongzhen|img_sangmenzhen|img_moyuzhen|img_yushouzhen:19"
+	},
+	{
+		"AdvImg": "img_qinglongsj|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40312,
+		"GoodName": "青龙神君",
+		"ItemStr": "2090211:1|2090011:10|2090111:4|2090256:5|2090257:2|1:12960",
+		"PrizeShow": "img_qinglongzhen:19"
+	},
+	{
+		"AdvImg": "zglb_yanchixia|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40321,
+		"GoodName": "燕赤侠",
+		"ItemStr": "5016106:1|5014028:3|5014113:15|5014100:100|5014111:50|1:39960",
+		"NextGId": 40322,
+		"PrizeShow": "2123:8:1.2:30"
+	},
+	{
+		"AdvImg": "zglb_wudaoshendan|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40322,
+		"GoodName": "悟道神丹",
+		"ItemStr": "5014113:15|5014010:3|5014112:10|5014100:50|5014111:20|1:1960",
+		"NextGId": 40323,
+		"PrizeShow": "e/prefab/wudaoshendan/wudaoshendan:20:1:130"
+	},
+	{
+		"AdvImg": "zglb_yueguniang|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40323,
+		"GoodName": "月姑娘",
+		"ItemStr": "5016115:1|5014027:3|5014113:15|5014100:100|5014111:50|1:39960",
+		"PrizeShow": "2128:8:1.2:30"
+	},
+	{
+		"AdvImg": "img_limengdx|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40331,
+		"GoodName": "璃梦蝶仙",
+		"ItemStr": "2043008:1|2041051:6|2041001:200|2041002:200|2040001:100|1:12960",
+		"NextGId": 40332,
+		"PrizeShow": "2051:8"
+	},
+	{
+		"AdvImg": "img_hongmengls|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40332,
+		"GoodName": "鸿蒙灵石",
+		"ItemStr": "2041051:15|2041001:50|2041002:50|2040001:20|3:30000000|1:1960",
+		"NextGId": 40333,
+		"PrizeShow": "e/prefab/hongmeng/hongmenglingshi:20:1:0"
+	},
+	{
+		"AdvImg": "img_qinglianjs|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40333,
+		"GoodName": "清莲剑圣",
+		"ItemStr": "2043010:1|2041051:12|2041001:400|2041002:400|2040001:200|1:39960",
+		"PrizeShow": "2052:8"
+	},
+	{
+		"AdvImg": "img_yj_batian|img_song88888",
+		"BgImg": "zglb_09|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40341,
+		"GoodName": "霸天铸甲",
+		"ItemStr": "3120108:1|2060401:6|2060104:100|2060200:200|2060199:1000|1:12960",
+		"NextGId": 40342,
+		"PrizeShow": "1709:8"
+	},
+	{
+		"AdvImg": "img_taiyishenchui|img_song88888",
+		"BgImg": "zglb_09|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40342,
+		"GoodName": "太乙神锤",
+		"ItemStr": "2060401:15|2060104:50|2060200:100|2060199:500|3:30000000|1:1960",
+		"NextGId": 40343,
+		"PrizeShow": "e/prefab/taiyishenchui/taiyishenchui.prefab:20:1:40"
+	},
+	{
+		"AdvImg": "img_yj_tianshu|img_song88888",
+		"BgImg": "zglb_09|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40343,
+		"GoodName": "天枢铸甲",
+		"ItemStr": "3120106:1|2060401:12|2060104:200|2060200:400|2060199:2000|1:39960",
+		"PrizeShow": "1707:8"
+	},
+	{
+		"AdvImg": "img_cwzb|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40351,
+		"GoodName": "宠物装备",
+		"ItemStr": "2020081:1|2020082:1|2020083:1|2020084:1|2020089:4|1:600",
+		"NextGId": 40352,
+		"PrizeShow": "ui_6113:1"
+	},
+	{
+		"AdvImg": "img_lsjh|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40352,
+		"GoodName": "灵兽精华",
+		"ItemStr": "2020091:3|2020080:5|2020089:5|2010004:50|2010003:50|1:3960",
+		"PrizeShow": "e/prefab/lingshoujinghua/linshoujinghua:20:1:40"
+	},
+	{
+		"AdvImg": "img_yx_xyzs|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 198,
+		"GoodID": 40361,
+		"GoodName": "晓月战神",
+		"ItemStr": "2080621:1|2080103:1|2070293:10|2080253:40|2080454:200|1:3960",
+		"NextGId": 40362,
+		"PrizeShow": "1638:8"
+	},
+	{
+		"AdvImg": "img_yx_lzsh|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40362,
+		"GoodName": "龙战四海",
+		"ItemStr": "2080631:1|2080104:1|2070293:10|2080254:50|2080454:300|1:16200",
+		"NextGId": 40363,
+		"PrizeShow": "1632:8"
+	},
+	{
+		"AdvImg": "img_yx_qxts|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 40363,
+		"GoodName": "七星天师",
+		"ItemStr": "2080661:1|2080107:1|2070293:10|2080254:100|2080454:400|1:49950",
+		"PrizeShow": "1633:8"
+	},
+	{
+		"AdvImg": "zglb_xingtubaozang|img_song88888",
+		"BgImg": "zglb_08|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 40371,
+		"GoodName": "星图宝藏",
+		"ItemStr": "2700001:5|2700201:4|2700301:5|2700501:5|2700101:13|1:1960",
+		"PrizeShow": "e/prefab/xingtubaozang/xingtubaozang:20:1:40"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40401,
+		"GoodName": "坐骑材料",
+		"ItemStr": "3150101:1|2250302:3|2250303:10|2250304:15|2250301:100|1:300",
+		"NextGId": 61010,
+		"PrizeShow": "ui_6579:1"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40411,
+		"GoodName": "光武材料",
+		"ItemStr": "3150301:1|2250202:3|2250203:10|2250204:15|2250201:100|1:300",
+		"NextGId": 61020,
+		"PrizeShow": "ui_6579:1"
+	},
+	{
+		"AdvImg": "zglb_xunxianling|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40421,
+		"GoodName": "天仙寻仙令",
+		"ItemStr": "4010101:20|4010101:10|4010101:10|4010101:10|2040001:100|1:300",
+		"NextGId": 61030,
+		"PrizeShow": "img_xunxianling:0"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40431,
+		"GoodName": "羽翼材料",
+		"ItemStr": "3150201:1|2250102:3|2250103:10|2250104:15|2250101:100|1:300",
+		"NextGId": 61040,
+		"PrizeShow": "ui_6579:1"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40441,
+		"GoodName": "战神炼神丹",
+		"ItemStr": "2030202:10|2030202:3|2030201:30|2030201:20|2030201:100|1:300",
+		"NextGId": 40442,
+		"PrizeShow": "img_lianshendan:0"
+	},
+	{
+		"AdvImg": "zglb_huoshenzhurong|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 40442,
+		"GoodName": "火神祝融",
+		"ItemStr": "2030104:1|2030202:30|2030202:10|2030201:60|2030201:60|1:1080",
+		"PrizeShow": "2405:8"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40451,
+		"GoodName": "战骑炼神丹",
+		"ItemStr": "2030402:10|2030402:3|2030403:15|2030401:20|2030401:100|1:300",
+		"NextGId": 40452,
+		"PrizeShow": "img_lianshendan:0"
+	},
+	{
+		"AdvImg": "zglb_huoyuzhuque|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 40452,
+		"GoodName": "火羽朱雀",
+		"ItemStr": "2030304:1|8040335:1|2030402:10|2030401:60|2030401:60|1:1080",
+		"PrizeShow": "5104:3:0.9:90"
+	},
+	{
+		"AdvImg": "zglb_cailiaolibao|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40461,
+		"GoodName": "法宝材料",
+		"ItemStr": "3150401:1|2250402:3|2250403:10|2250404:15|2250401:100|1:300",
+		"NextGId": 40462,
+		"PrizeShow": "ui_6579:1"
+	},
+	{
+		"AdvImg": "zglb_shenmutou|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 40462,
+		"GoodName": "神木骰",
+		"ItemStr": "1719:1|8040334:1|2250402:10|2250403:20|2250401:120|1:1080",
+		"NextGId": 40463,
+		"PrizeShow": "6110:6"
+	},
+	{
+		"AdvImg": "zglb_fulu|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40463,
+		"GoodName": "福禄",
+		"ItemStr": "1718:1|8040334:3|2250402:25|2250403:30|2250404:20|1:6480",
+		"PrizeShow": "6109:6"
+	},
+	{
+		"AdvImg": "zglb_fengyaofu|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 30,
+		"GoodID": 40471,
+		"GoodName": "封妖符",
+		"ItemStr": "4010102:30|4010102:20|351:1|2010004:10|2010003:10|1:300",
+		"NextGId": 40472,
+		"PrizeShow": "img_fengyaofu:0"
+	},
+	{
+		"AdvImg": "zglb_dingjijinengshu|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 40472,
+		"GoodName": "顶级连击",
+		"ItemStr": "2020302:1|352:1|4010102:50|4010102:25|4010102:25|1:1080",
+		"NextGId": 40473,
+		"PrizeShow": "ui_6854:1"
+	},
+	{
+		"AdvImg": "zglb_molong|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 40473,
+		"GoodName": "魔龙",
+		"ItemStr": "2025001:1|2020316:1|352:2|2010004:10|2010003:20|1:6480",
+		"PrizeShow": "img_molong:0"
+	},
+	{
+		"AdvImg": "zglb_qiankunqilin|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 60010,
+		"GoodName": "乾坤麒麟",
+		"ItemStr": "1528:1|8040331:3|2250302:25|2250303:30|2250304:20|1:6480",
+		"PrizeShow": "1126:3"
+	},
+	{
+		"AdvImg": "zglb_qiankunshenjian|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 60020,
+		"GoodName": "乾坤神剑",
+		"ItemStr": "1511:1|8040332:3|2250202:25|2250203:30|2250204:20|1:6480",
+		"PrizeShow": "1426:5"
+	},
+	{
+		"AdvImg": "zglb_luoshen|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 60030,
+		"GoodName": "天仙洛神",
+		"ItemStr": "2040254:1|262:2|4010101:50|4010101:25|4010101:25|1:6480",
+		"PrizeShow": "2029:8"
+	},
+	{
+		"AdvImg": "zglb_qiankunjianying|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 60040,
+		"GoodName": "乾坤剑影",
+		"ItemStr": "1523:1|5013007:3|2250102:25|2250103:30|2250104:20|1:6480",
+		"PrizeShow": "1226:4"
+	},
+	{
+		"AdvImg": "zglb_qiankunzhizun|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 60090,
+		"GoodName": "乾坤至尊",
+		"ItemStr": "3011006:1|5011017:1|2050104:1|2200501:5|2200255:1|1:6480",
+		"PrizeShow": "6:2"
+	},
+	{
+		"AdvImg": "zglb_fengkuanghuojian|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 61010,
+		"GoodName": "疯狂火箭",
+		"ItemStr": "1539:1|8040331:1|2250302:10|2250303:20|2250301:120|1:1080",
+		"NextGId": 60010,
+		"PrizeShow": "1131:3"
+	},
+	{
+		"AdvImg": "zglb_fengkuangchuizi|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 61020,
+		"GoodName": "疯狂的锤子",
+		"ItemStr": "1554:1|8040332:1|2250202:10|2250203:20|2250201:120|1:1080",
+		"NextGId": 60020,
+		"PrizeShow": "1431:5"
+	},
+	{
+		"AdvImg": "zglb_zhinv|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 61030,
+		"GoodName": "天仙织女",
+		"ItemStr": "2040242:1|262:1|4010101:30|4010101:20|4010101:20|1:1080",
+		"NextGId": 60030,
+		"PrizeShow": "2026:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangbeisi|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 61040,
+		"GoodName": "疯狂的贝斯",
+		"ItemStr": "1544:1|8040333:1|2250102:10|2250103:20|2250101:120|1:1080",
+		"NextGId": 60040,
+		"PrizeShow": "1231:4"
+	},
+	{
+		"AdvImg": "zglb_donghuangtaiyi|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 61050,
+		"GoodName": "东皇太一",
+		"ItemStr": "2030101:1|5013019:1|2030202:50|2030201:100|2030201:100|1:27080",
+		"PrizeShow": "1116102:7"
+	},
+	{
+		"AdvImg": "zglb_dasiming|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 90011,
+		"GoodName": "大司命",
+		"ItemStr": "2030110:1|5013011:1|2030202:20|2030201:60|2030201:60|1:3280",
+		"PrizeShow": "1116111:7"
+	},
+	{
+		"AdvImg": "zglb_lunhuijinwu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 61060,
+		"GoodName": "轮回金乌",
+		"ItemStr": "2030301:1|8040355:4|2030402:50|2030403:30|2030401:200|1:27080",
+		"PrizeShow": "1116202:3:0.8:80"
+	},
+	{
+		"AdvImg": "zglb_shanheshan|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 61070,
+		"GoodName": "山河扇",
+		"ItemStr": "1702:1|8040354:4|2250402:50|2250403:60|2250404:30|1:27080",
+		"PrizeShow": "6102:6"
+	},
+	{
+		"AdvImg": "zglb_leishen|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 61080,
+		"GoodName": "雷神",
+		"ItemStr": "2021662:1|2020303:1|2010004:30|501:30|2010003:50|1:27080",
+		"PrizeShow": "1057:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangxiaochou|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 61090,
+		"GoodName": "疯狂小丑",
+		"ItemStr": "3011011:1|263:2|2050104:2|2200501:5|2200255:1|1:1080",
+		"NextGId": 60090,
+		"PrizeShow": "11:2"
+	},
+	{
+		"AdvImg": "zglb_bihaimengjing|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 62010,
+		"GoodName": "碧海萌鲸",
+		"ItemStr": "1310:1|8040351:4|2250302:50|2250303:60|2250304:30|1:27080",
+		"PrizeShow": "1133:3"
+	},
+	{
+		"AdvImg": "zglb_bihaihanmang|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 62020,
+		"GoodName": "碧海寒芒",
+		"ItemStr": "1616:1|8040352:4|2250202:50|2250203:60|2250204:30|1:27080",
+		"PrizeShow": "1433:5"
+	},
+	{
+		"AdvImg": "zglb_bihailingyu|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 62040,
+		"GoodName": "碧海凌羽",
+		"ItemStr": "1410:1|8040353:4|2250102:50|2250103:60|2250104:30|1:27080",
+		"PrizeShow": "1233:4"
+	},
+	{
+		"AdvImg": "zglb_bihaichaoyin|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 62090,
+		"GoodName": "碧海潮音",
+		"ItemStr": "3011014:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "14:2"
+	},
+	{
+		"AdvImg": "zglb_qiankunqilin|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 70010,
+		"GoodName": "乾坤麒麟（弃用）",
+		"ItemStr": "1528:1|8040331:3|2250302:25|2250303:30|2250304:20|1:6480",
+		"PrizeShow": "1126:3"
+	},
+	{
+		"AdvImg": "zglb_qiankunshenjian|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 70020,
+		"GoodName": "乾坤神剑（弃用）",
+		"ItemStr": "1511:1|8040332:3|2250202:25|2250203:30|2250204:20|1:6480",
+		"PrizeShow": "1426:5"
+	},
+	{
+		"AdvImg": "zglb_luoshen|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 70030,
+		"GoodName": "天仙洛神（弃用）",
+		"ItemStr": "2040254:1|262:2|4010101:50|4010101:25|4010101:25|1:6480",
+		"PrizeShow": "2029:8"
+	},
+	{
+		"AdvImg": "zglb_qiankunjianying|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 70040,
+		"GoodName": "乾坤剑影（弃用）",
+		"ItemStr": "1523:1|5013007:3|2250102:25|2250103:30|2250104:20|1:6480",
+		"PrizeShow": "1226:4"
+	},
+	{
+		"AdvImg": "zglb_qiankunzhizun|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 70090,
+		"GoodName": "乾坤至尊（弃用）",
+		"ItemStr": "3011006:1|5011017:1|2050104:1|2200501:5|2200255:1|1:6480",
+		"PrizeShow": "6:2"
+	},
+	{
+		"AdvImg": "zglb_fengkuanghuojian|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 71010,
+		"GoodName": "疯狂火箭（弃用）",
+		"ItemStr": "1539:1|8040331:1|2250302:10|2250303:20|2250301:120|1:1080",
+		"PrizeShow": "1131:3"
+	},
+	{
+		"AdvImg": "zglb_fengkuangchuizi|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 71020,
+		"GoodName": "疯狂的锤子（弃用）",
+		"ItemStr": "1554:1|8040332:1|2250202:10|2250203:20|2250201:120|1:1080",
+		"PrizeShow": "1431:5"
+	},
+	{
+		"AdvImg": "zglb_zhinv|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 71030,
+		"GoodName": "天仙织女（弃用）",
+		"ItemStr": "2040242:1|262:1|4010101:30|4010101:20|4010101:20|1:1080",
+		"PrizeShow": "2026:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangbeisi|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 71040,
+		"GoodName": "疯狂的贝斯（弃用）",
+		"ItemStr": "1544:1|8040333:1|2250102:10|2250103:20|2250101:120|1:1080",
+		"PrizeShow": "1231:4"
+	},
+	{
+		"AdvImg": "zglb_donghuangtaiyi|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 71050,
+		"GoodName": "东皇太一（弃用）",
+		"ItemStr": "2030101:1|5013019:1|2030202:50|2030201:100|2030201:100|1:27080",
+		"PrizeShow": "1116102:7"
+	},
+	{
+		"AdvImg": "zglb_lunhuijinwu|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 71060,
+		"GoodName": "轮回金乌（弃用）",
+		"ItemStr": "2030301:1|8040355:4|2030402:50|2030403:30|2030401:200|1:27080",
+		"PrizeShow": "1116202:3:0.8:80"
+	},
+	{
+		"AdvImg": "zglb_shanheshan|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 71070,
+		"GoodName": "山河扇（弃用）",
+		"ItemStr": "1702:1|8040354:4|2250402:50|2250403:60|2250404:30|1:27080",
+		"PrizeShow": "6102:6"
+	},
+	{
+		"AdvImg": "zglb_leishen|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 71080,
+		"GoodName": "雷神（弃用）",
+		"ItemStr": "2021662:1|2020303:1|2010004:30|501:30|2010003:50|1:27080",
+		"PrizeShow": "1057:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangxiaochou|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 108,
+		"GoodID": 71090,
+		"GoodName": "疯狂小丑（弃用）",
+		"ItemStr": "3011011:1|263:2|2050104:2|2200501:5|2200255:1|1:3280",
+		"PrizeShow": "11:2"
+	},
+	{
+		"AdvImg": "zglb_bihaimengjing|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 72010,
+		"GoodName": "碧海萌鲸（弃用）",
+		"ItemStr": "1310:1|8040352:4|2250202:50|2250203:60|2250204:30|1:27080",
+		"PrizeShow": "1133:3"
+	},
+	{
+		"AdvImg": "zglb_bihaihanmang|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 72020,
+		"GoodName": "碧海寒芒（弃用）",
+		"ItemStr": "1616:1|8040352:4|2250202:50|2250203:60|2250204:30|1:27080",
+		"PrizeShow": "1433:5"
+	},
+	{
+		"AdvImg": "zglb_bihailingyu|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 72040,
+		"GoodName": "碧海凌羽（弃用）",
+		"ItemStr": "1410:1|8040353:4|2250102:50|2250103:60|2250104:30|1:27080",
+		"PrizeShow": "1233:4"
+	},
+	{
+		"AdvImg": "zglb_bihaichaoyin|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 72090,
+		"GoodName": "碧海潮音（弃用）",
+		"ItemStr": "3011014:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "14:2"
+	},
+	{
+		"AdvImg": "zglb_qiankunqilin|img_song88888|img_xinfu328|img_5zhe",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 50010,
+		"GoodName": "乾坤麒麟（弃用）",
+		"ItemStr": "1528:1|5013008:1|2250302:3|2250303:5|2250304:5|1:6480",
+		"PrizeShow": "1126:3"
+	},
+	{
+		"AdvImg": "zglb_qiankunshenjian|img_song88888|img_xinfu328|img_5zhe",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 50020,
+		"GoodName": "乾坤神剑（弃用）",
+		"ItemStr": "1511:1|5012011:1|2250202:3|2250203:5|2250204:5|1:6480",
+		"PrizeShow": "1426:5"
+	},
+	{
+		"AdvImg": "zglb_luoshen|img_song88888|img_xinfu328|img_5zhe",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 50030,
+		"GoodName": "天仙洛神（弃用）",
+		"ItemStr": "2040254:1|5011020:1|2050105:1|2200841:5|2200255:1|1:6480",
+		"PrizeShow": "2029:8"
+	},
+	{
+		"AdvImg": "zglb_qiankunjianying|img_song88888|img_xinfu328|img_5zhe",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 50040,
+		"GoodName": "乾坤剑影（弃用）",
+		"ItemStr": "1523:1|5013007:1|2250102:3|2250103:5|2250104:5|1:6480",
+		"PrizeShow": "1226:4"
+	},
+	{
+		"AdvImg": "zglb_qiankunzhizun|img_song88888|img_xinfu328|img_5zhe",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 328,
+		"GoodID": 50090,
+		"GoodName": "乾坤至尊（弃用）",
+		"ItemStr": "3011006:1|5011017:1|2050104:1|2200501:5|2200255:1|1:6480",
+		"PrizeShow": "6:2"
+	},
+	{
+		"AdvImg": "zglb_fengkuanghuojian|img_song88888|img_xinfu98|img_5zhe",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 51010,
+		"GoodName": "疯狂火箭（弃用）",
+		"ItemStr": "1539:1|262:2|2250303:3|2250304:3|2250301:20|1:1980",
+		"PrizeShow": "1131:3"
+	},
+	{
+		"AdvImg": "zglb_fengkuangchuizi|img_song88888|img_xinfu58|img_5zhe",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 58,
+		"GoodID": 51020,
+		"GoodName": "疯狂的锤子（弃用）",
+		"ItemStr": "1554:1|262:2|2250203:2|2250204:2|2250201:10|1:1080",
+		"PrizeShow": "1431:5"
+	},
+	{
+		"AdvImg": "zglb_zhinv|img_song88888|img_xinfu68|img_5zhe",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 51030,
+		"GoodName": "天仙织女（弃用）",
+		"ItemStr": "2040242:1|262:2|4010101:10|2040001:20|2200254:1|1:1280",
+		"PrizeShow": "2026:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangbeisi|img_song88888|img_xinfu68|img_5zhe",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 68,
+		"GoodID": 51040,
+		"GoodName": "疯狂的贝斯（弃用）",
+		"ItemStr": "1544:1|262:2|2250103:3|2250104:3|2250101:15|1:1280",
+		"PrizeShow": "1231:4"
+	},
+	{
+		"AdvImg": "zglb_donghuangtaiyi|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 51050,
+		"GoodName": "东皇太一（弃用）",
+		"ItemStr": "2030101:1|5013019:1|2030202:6|2200257:1|2030201:50|1:27080",
+		"PrizeShow": "1116102:7"
+	},
+	{
+		"AdvImg": "zglb_lunhuijinwu|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 51060,
+		"GoodName": "轮回金乌（弃用）",
+		"ItemStr": "2030301:1|5013020:1|2030402:6|2200257:1|2030403:10|1:27080",
+		"PrizeShow": "1116202:3:0.8:80"
+	},
+	{
+		"AdvImg": "zglb_shanheshan|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 51070,
+		"GoodName": "山河扇（弃用）",
+		"ItemStr": "1702:1|5012005:1|2250402:6|2250403:10|2250404:10|1:27080",
+		"PrizeShow": "6102:6"
+	},
+	{
+		"AdvImg": "zglb_leishen|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 51080,
+		"GoodName": "雷神（弃用）",
+		"ItemStr": "2021662:1|5011006:1|2010003:20|2010004:30|2020303:1|1:27080",
+		"PrizeShow": "1057:8"
+	},
+	{
+		"AdvImg": "zglb_fengkuangxiaochou|img_song88888|img_xinfu168|img_5zhe",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 168,
+		"GoodID": 51090,
+		"GoodName": "疯狂小丑（弃用）",
+		"ItemStr": "3011011:1|263:2|2050104:2|2200501:5|2200255:1|1:3280",
+		"PrizeShow": "11:2"
+	},
+	{
+		"AdvImg": "zglb_bihaimengjing|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 52010,
+		"GoodName": "碧海萌鲸（弃用）",
+		"ItemStr": "1310:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "1133:3"
+	},
+	{
+		"AdvImg": "zglb_bihaihanmang|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 52020,
+		"GoodName": "碧海寒芒（弃用）",
+		"ItemStr": "1616:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "1433:5"
+	},
+	{
+		"AdvImg": "zglb_bihailingyu|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 52040,
+		"GoodName": "碧海凌羽（弃用）",
+		"ItemStr": "1410:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "1233:4"
+	},
+	{
+		"AdvImg": "zglb_bihaichaoyin|img_song88888|img_xinfu648|img_5zhe",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 52090,
+		"GoodName": "碧海潮音（弃用）",
+		"ItemStr": "3011014:1|2200260:1|2050105:2|2200501:20|2200841:2|1:27080",
+		"PrizeShow": "14:2"
+	},
+	{
+		"AdvImg": "zglb_ymj|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80001,
+		"GoodName": "幽冥之宫",
+		"ItemStr": "907017301:1|907017306:1|2320303:20|2320103:40|2200256:1|1:6480",
+		"NextGId": 80002,
+		"PrizeShow": "7514:15"
+	},
+	{
+		"AdvImg": "zglb_ymjian|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80002,
+		"GoodName": "幽冥之商",
+		"ItemStr": "907017302:1|907017307:1|2320303:20|2320103:40|2200256:1|1:6480",
+		"NextGId": 80003,
+		"PrizeShow": "7514:15"
+	},
+	{
+		"AdvImg": "zglb_ymw|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80003,
+		"GoodName": "幽冥之角",
+		"ItemStr": "907017303:1|907017308:1|2320303:20|2320103:40|2200256:1|1:6480",
+		"NextGId": 80004,
+		"PrizeShow": "7514:15"
+	},
+	{
+		"AdvImg": "zglb_yml|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80004,
+		"GoodName": "幽冥之徵",
+		"ItemStr": "907017304:1|907017309:1|2320303:20|2320103:40|2200256:1|1:6480",
+		"NextGId": 80005,
+		"PrizeShow": "7514:15"
+	},
+	{
+		"AdvImg": "zglb_ymjie|img_song88888",
+		"BgImg": "zglb_02|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80005,
+		"GoodName": "幽冥之羽",
+		"ItemStr": "907017305:1|907017310:1|2320303:20|2320103:40|2200256:1|1:6480",
+		"PrizeShow": "7514:15"
+	},
+	{
+		"AdvImg": "zglb_szy|img_song88888",
+		"BgImg": "zglb_05|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80101,
+		"GoodName": "幽冥水之玉",
+		"ItemStr": "2320021:1|2320143:20|2320103:40|263:2|2200256:1|1:6480",
+		"NextGId": 80102,
+		"PrizeShow": "4274:16:0.5"
+	},
+	{
+		"AdvImg": "zglb_hzy|img_song88888",
+		"BgImg": "zglb_03|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80102,
+		"GoodName": "幽冥火之玉",
+		"ItemStr": "2320022:1|2320143:20|2320103:40|263:2|2200256:1|1:6480",
+		"NextGId": 80103,
+		"PrizeShow": "4274:16:0.5"
+	},
+	{
+		"AdvImg": "zglb_fzy|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80103,
+		"GoodName": "幽冥风之玉",
+		"ItemStr": "2320023:1|2320143:20|2320103:40|263:2|2200256:1|1:6480",
+		"NextGId": 80104,
+		"PrizeShow": "4274:16:0.5"
+	},
+	{
+		"AdvImg": "zglb_lzy|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 648,
+		"GoodID": 80104,
+		"GoodName": "幽冥雷之玉",
+		"ItemStr": "2320024:1|2320143:20|2320103:40|263:2|2200256:1|1:6480",
+		"PrizeShow": "4274:16:0.5"
+	},
+	{
+		"AdvImg": "zglb_shenbiantaiyi|img_song88888",
+		"BgImg": "zglb_04|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 1998,
+		"GoodID": 90001,
+		"GoodName": "星变东皇",
+		"ItemStr": "2030101:1|2070291:6|2030202:100|2030201:200|3:60000000|1:27080",
+		"NextGId": 90002,
+		"PrizeShow": "1116102:7"
+	},
+	{
+		"AdvImg": "zglb_shengguanglingdan|img_song88888",
+		"BgImg": "zglb_01|img_libao_kuang2|img_libao_kuang3",
+		"CostNum": 98,
+		"GoodID": 90002,
+		"GoodName": "圣光灵丹",
+		"ItemStr": "2070291:6|2030202:50|2030201:100|2030201:100|3:30000000|1:980",
+		"PrizeShow": "e/prefab/shengguang/ShengGuang:20:1:80"
+	}
+]

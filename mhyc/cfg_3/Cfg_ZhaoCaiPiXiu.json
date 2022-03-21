@@ -1,0 +1,212 @@
+[
+	{
+		"Id": 1,
+		"Name": "转生达到",
+		"Prize": "2:6800",
+		"TargetB": 1,
+		"TargetReborn": 1
+	},
+	{
+		"Id": 2,
+		"Name": "转生达到",
+		"Prize": "2:1000",
+		"TargetB": 2,
+		"TargetReborn": 1
+	},
+	{
+		"Id": 3,
+		"Name": "转生达到",
+		"Prize": "2:2000",
+		"TargetB": 3,
+		"TargetReborn": 1
+	},
+	{
+		"Id": 4,
+		"Name": "转生达到",
+		"Prize": "2:3000",
+		"TargetB": 1,
+		"TargetReborn": 2
+	},
+	{
+		"Id": 5,
+		"Name": "转生达到",
+		"Prize": "2:4000",
+		"TargetB": 2,
+		"TargetReborn": 2
+	},
+	{
+		"Id": 6,
+		"Name": "转生达到",
+		"Prize": "2:5000",
+		"TargetB": 3,
+		"TargetReborn": 2
+	},
+	{
+		"Id": 7,
+		"Name": "转生达到",
+		"Prize": "2:6000",
+		"TargetB": 1,
+		"TargetReborn": 3
+	},
+	{
+		"Id": 8,
+		"Name": "转生达到",
+		"Prize": "2:7000",
+		"TargetB": 2,
+		"TargetReborn": 3
+	},
+	{
+		"Id": 9,
+		"Name": "转生达到",
+		"Prize": "2:8000",
+		"TargetB": 3,
+		"TargetReborn": 3
+	},
+	{
+		"Id": 10,
+		"Name": "转生达到",
+		"Prize": "2:9000",
+		"TargetB": 1,
+		"TargetReborn": 4
+	},
+	{
+		"Id": 11,
+		"Name": "转生达到",
+		"Prize": "2:10000",
+		"TargetB": 2,
+		"TargetReborn": 4
+	},
+	{
+		"Id": 12,
+		"Name": "转生达到",
+		"Prize": "2:12000",
+		"TargetB": 3,
+		"TargetReborn": 4
+	},
+	{
+		"Id": 13,
+		"Name": "转生达到",
+		"Prize": "2:14000",
+		"TargetB": 1,
+		"TargetReborn": 5
+	},
+	{
+		"Id": 14,
+		"Name": "转生达到",
+		"Prize": "2:16000",
+		"TargetB": 2,
+		"TargetReborn": 5
+	},
+	{
+		"Id": 15,
+		"Name": "转生达到",
+		"Prize": "2:18000",
+		"TargetB": 3,
+		"TargetReborn": 5
+	},
+	{
+		"Id": 16,
+		"Name": "转生达到",
+		"Prize": "2:20000",
+		"TargetB": 1,
+		"TargetReborn": 6
+	},
+	{
+		"Id": 17,
+		"Name": "转生达到",
+		"Prize": "2:25000",
+		"TargetB": 2,
+		"TargetReborn": 6
+	},
+	{
+		"Id": 18,
+		"Name": "转生达到",
+		"Prize": "2:30000",
+		"TargetB": 3,
+		"TargetReborn": 6
+	},
+	{
+		"Id": 19,
+		"Name": "转生达到",
+		"Prize": "2:35000",
+		"TargetB": 1,
+		"TargetReborn": 7
+	},
+	{
+		"Id": 20,
+		"Name": "转生达到",
+		"Prize": "2:40000",
+		"TargetB": 2,
+		"TargetReborn": 7
+	},
+	{
+		"Id": 21,
+		"Name": "转生达到",
+		"Prize": "2:45000",
+		"TargetB": 3,
+		"TargetReborn": 7
+	},
+	{
+		"Id": 22,
+		"Name": "转生达到",
+		"Prize": "2:50000",
+		"TargetB": 1,
+		"TargetReborn": 8
+	},
+	{
+		"Id": 23,
+		"Name": "转生达到",
+		"Prize": "2:55000",
+		"TargetB": 2,
+		"TargetReborn": 8
+	},
+	{
+		"Id": 24,
+		"Name": "转生达到",
+		"Prize": "2:60000",
+		"TargetB": 3,
+		"TargetReborn": 8
+	},
+	{
+		"Id": 25,
+		"Name": "转生达到",
+		"Prize": "2:65000",
+		"TargetB": 1,
+		"TargetReborn": 9
+	},
+	{
+		"Id": 26,
+		"Name": "转生达到",
+		"Prize": "2:75000",
+		"TargetB": 2,
+		"TargetReborn": 9
+	},
+	{
+		"Id": 27,
+		"Name": "转生达到",
+		"Prize": "2:80000",
+		"TargetB": 3,
+		"TargetReborn": 9
+	},
+	{
+		"Id": 28,
+		"Name": "转生达到",
+		"Prize": "2:90000",
+		"TargetB": 1,
+		"TargetReborn": 10
+	},
+	{
+		"Id": 29,
+		"Name": "转生达到",
+		"Prize": "2:100000",
+		"TargetB": 2,
+		"TargetReborn": 10
+	},
+	{
+		"Id": 30,
+		"Name": "转生达到",
+		"Prize": "2:120000",
+		"TargetB": 3,
+		"TargetReborn": 10
+	}
+]

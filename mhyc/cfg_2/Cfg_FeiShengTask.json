@@ -1,0 +1,650 @@
+[
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 1,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 255,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 2,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 5,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 3,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 265,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 4,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 10,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 5,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 275,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 6,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 15,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 7,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 285,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 8,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 20,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 9,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 295,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 10,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 25,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 11,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:1000",
+		"TargetCount": 305,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14001,
+		"CounterType": 370,
+		"Id": 12,
+		"Name": "仙童总等级达到{0}级",
+		"Prize": "2200502:5",
+		"TargetCount": 30,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 13,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 315,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 14,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 15,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 15,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 325,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 16,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 16,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 17,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 335,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 18,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 17,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 19,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 345,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 20,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 18,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 21,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 355,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 22,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 19,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 23,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:2000",
+		"TargetCount": 365,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 28,
+		"CounterType": 339,
+		"Id": 24,
+		"Name": "合体天仙等级达到{0}级",
+		"Prize": "2250302:5",
+		"TargetCount": 20,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 25,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 375,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 26,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 5,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 27,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 385,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 28,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 10,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 29,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 395,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 30,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 15,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 31,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 405,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 32,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 20,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 33,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 415,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 34,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 25,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 35,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:3000",
+		"TargetCount": 425,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 14005,
+		"CounterType": 372,
+		"Id": 36,
+		"Name": "仙童玩具总星级达到{0}级",
+		"Prize": "2250202:5",
+		"TargetCount": 30,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 37,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 435,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 38,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 5,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 39,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 445,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 40,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 10,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 41,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 455,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 42,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 15,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 43,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 465,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 44,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 20,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 45,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 475,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 46,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 25,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 47,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:4000",
+		"TargetCount": 485,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 11124,
+		"CounterType": 20017,
+		"Id": 48,
+		"Name": "信物强化总等级达到{0}级",
+		"Prize": "2250102:5",
+		"TargetCount": 30,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 49,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 495,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 50,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 100000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 51,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 505,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 52,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 300000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 53,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 515,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 54,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 500000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 55,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 525,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 56,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 700000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 57,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 535,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 58,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 900000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 59,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:5000",
+		"TargetCount": 545,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 93,
+		"CounterType": 73,
+		"Id": 60,
+		"Name": "剑魂总战力达到{0}",
+		"Prize": "2250402:5",
+		"TargetCount": 1100000,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 61,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 555,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 62,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 20,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 63,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 565,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 64,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 35,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 65,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 575,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 66,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 50,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 67,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 585,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 68,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 65,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 69,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 595,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 70,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 80,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 109,
+		"CounterType": 1,
+		"Id": 71,
+		"Name": "角色等级达到{0}级",
+		"Prize": "2:6000",
+		"TargetCount": 605,
+		"Type": 43
+	},
+	{
+		"ClientFuncId": 15001,
+		"CounterType": 75,
+		"Id": 72,
+		"Name": "偃甲等级达到{0}级",
+		"Prize": "2250502:5",
+		"TargetCount": 95,
+		"Type": 43
+	}
+]

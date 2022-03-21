@@ -1,0 +1,182 @@
+[
+	{
+		"AttrId": 2501,
+		"Exp": 100,
+		"Level": 1,
+		"LevelAdd": 2
+	},
+	{
+		"AttrId": 2502,
+		"Exp": 200,
+		"Level": 2,
+		"LevelAdd": 2
+	},
+	{
+		"AttrId": 2503,
+		"Exp": 300,
+		"Level": 3,
+		"LevelAdd": 4
+	},
+	{
+		"AttrId": 2504,
+		"Exp": 400,
+		"Level": 4,
+		"LevelAdd": 4
+	},
+	{
+		"AttrId": 2505,
+		"Exp": 500,
+		"Level": 5,
+		"LevelAdd": 6
+	},
+	{
+		"AttrId": 2506,
+		"Exp": 600,
+		"Level": 6,
+		"LevelAdd": 6
+	},
+	{
+		"AttrId": 2507,
+		"Exp": 700,
+		"Level": 7,
+		"LevelAdd": 8
+	},
+	{
+		"AttrId": 2508,
+		"Exp": 800,
+		"Level": 8,
+		"LevelAdd": 8
+	},
+	{
+		"AttrId": 2509,
+		"Exp": 900,
+		"Level": 9,
+		"LevelAdd": 10
+	},
+	{
+		"AttrId": 2510,
+		"Exp": 1000,
+		"Level": 10,
+		"LevelAdd": 10
+	},
+	{
+		"AttrId": 2511,
+		"Exp": 1100,
+		"Level": 11,
+		"LevelAdd": 12
+	},
+	{
+		"AttrId": 2512,
+		"Exp": 1200,
+		"Level": 12,
+		"LevelAdd": 12
+	},
+	{
+		"AttrId": 2513,
+		"Exp": 1300,
+		"Level": 13,
+		"LevelAdd": 14
+	},
+	{
+		"AttrId": 2514,
+		"Exp": 1400,
+		"Level": 14,
+		"LevelAdd": 14
+	},
+	{
+		"AttrId": 2515,
+		"Exp": 1500,
+		"Level": 15,
+		"LevelAdd": 16
+	},
+	{
+		"AttrId": 2516,
+		"Exp": 1600,
+		"Level": 16,
+		"LevelAdd": 16
+	},
+	{
+		"AttrId": 2517,
+		"Exp": 1700,
+		"Level": 17,
+		"LevelAdd": 18
+	},
+	{
+		"AttrId": 2518,
+		"Exp": 1800,
+		"Level": 18,
+		"LevelAdd": 18
+	},
+	{
+		"AttrId": 2519,
+		"Exp": 1900,
+		"Level": 19,
+		"LevelAdd": 20
+	},
+	{
+		"AttrId": 2520,
+		"Exp": 2000,
+		"Level": 20,
+		"LevelAdd": 20
+	},
+	{
+		"AttrId": 2521,
+		"Exp": 2200,
+		"Level": 21,
+		"LevelAdd": 22
+	},
+	{
+		"AttrId": 2522,
+		"Exp": 2500,
+		"Level": 22,
+		"LevelAdd": 22
+	},
+	{
+		"AttrId": 2523,
+		"Exp": 2900,
+		"Level": 23,
+		"LevelAdd": 24
+	},
+	{
+		"AttrId": 2524,
+		"Exp": 3400,
+		"Level": 24,
+		"LevelAdd": 24
+	},
+	{
+		"AttrId": 2525,
+		"Exp": 4000,
+		"Level": 25,
+		"LevelAdd": 26
+	},
+	{
+		"AttrId": 2526,
+		"Exp": 4700,
+		"Level": 26,
+		"LevelAdd": 26
+	},
+	{
+		"AttrId": 2527,
+		"Exp": 5500,
+		"Level": 27,
+		"LevelAdd": 28
+	},
+	{
+		"AttrId": 2528,
+		"Exp": 6400,
+		"Level": 28,
+		"LevelAdd": 28
+	},
+	{
+		"AttrId": 2529,
+		"Exp": 7400,
+		"Level": 29,
+		"LevelAdd": 30
+	},
+	{
+		"AttrId": 2530,
+		"Exp": 8500,
+		"Level": 30,
+		"LevelAdd": 30
+	}
+]

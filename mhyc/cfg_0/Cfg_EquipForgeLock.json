@@ -1,0 +1,22 @@
+[
+	{
+		"Count": 1,
+		"NeedItem": "2:100"
+	},
+	{
+		"Count": 2,
+		"NeedItem": "2:150"
+	},
+	{
+		"Count": 3,
+		"NeedItem": "2:200"
+	},
+	{
+		"Count": 4,
+		"NeedItem": "2:300"
+	},
+	{
+		"Count": 5,
+		"NeedItem": "2:500"
+	}
+]

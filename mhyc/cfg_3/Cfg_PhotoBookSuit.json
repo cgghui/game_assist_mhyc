@@ -1,0 +1,178 @@
+[
+	{
+		"Attr": 373003,
+		"Class": 1,
+		"Desc": "【套装1阶】|七仙女图鉴总战力+",
+		"Effect": "1",
+		"Need": 3,
+		"Type": 1
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装2阶】|七仙女图鉴总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 1
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装3阶】|PVP战斗中，角色受击后，有概率为自己增加1个护盾。吸收自身最大生命15%的伤害，持续2回合",
+		"Effect": "3",
+		"Need": 7,
+		"SkillId": 7000,
+		"Type": 1
+	},
+	{
+		"Attr": 373055,
+		"Class": 1,
+		"Desc": "【套装1阶】|十二美人图鉴总战力+",
+		"Effect": "1",
+		"Need": 5,
+		"Type": 2
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装2阶】|十二美人图鉴总战力+",
+		"Effect": "2",
+		"Need": 9,
+		"Percent": 1000,
+		"Type": 2
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装3阶】|角色暴击时，有概率提升50%本次暴击伤害",
+		"Effect": "3",
+		"Need": 12,
+		"SkillId": 7001,
+		"Type": 2
+	},
+	{
+		"Attr": 373104,
+		"Class": 1,
+		"Desc": "【套装1阶】|十大神器图鉴总战力+",
+		"Effect": "1",
+		"Need": 4,
+		"Type": 3
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装2阶】|十大神器图鉴总战力+",
+		"Effect": "2",
+		"Need": 7,
+		"Percent": 1000,
+		"Type": 3
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装3阶】|生命值低于20%时，造成的伤害增加20%",
+		"Effect": "3",
+		"Need": 10,
+		"SkillId": 7002,
+		"Type": 3
+	},
+	{
+		"Attr": 373155,
+		"Class": 1,
+		"Desc": "【套装1阶】|十二神兽图鉴总战力+",
+		"Effect": "1",
+		"Need": 5,
+		"Type": 4
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装2阶】|十二神兽图鉴总战力+",
+		"Effect": "2",
+		"Need": 9,
+		"Percent": 1000,
+		"Type": 4
+	},
+	{
+		"Class": 1,
+		"Desc": "【套装3阶】|攻击时，较大概率增加本次攻击30%命中率",
+		"Effect": "3",
+		"Need": 12,
+		"SkillId": 7003,
+		"Type": 4
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 11
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 12
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 13
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 14
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 15
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 5,
+		"Percent": 1000,
+		"Type": 16
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 6,
+		"Percent": 1000,
+		"Type": 17
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 6,
+		"Percent": 1000,
+		"Type": 18
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 6,
+		"Percent": 1000,
+		"Type": 19
+	},
+	{
+		"Class": 2,
+		"Desc": "【宝物共鸣】|当前层总战力+",
+		"Effect": "2",
+		"Need": 6,
+		"Percent": 1000,
+		"Type": 20
+	}
+]

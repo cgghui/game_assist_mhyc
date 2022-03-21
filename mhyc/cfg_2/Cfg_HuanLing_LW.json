@@ -1,0 +1,52 @@
+[
+	{
+		"HLId": 1,
+		"Id": 1,
+		"Name": "白骨剑",
+		"Show": "ui_8168",
+		"SkillId": 5,
+		"Type": 1,
+		"UnlockItem": 2070251,
+		"UnlockItemNum": 1
+	},
+	{
+		"HLId": 2,
+		"Id": 2,
+		"Name": "黑巫杖",
+		"Show": "ui_8164",
+		"SkillId": 10,
+		"Type": 1,
+		"UnlockItem": 2070252,
+		"UnlockItemNum": 1
+	},
+	{
+		"HLId": 3,
+		"Id": 3,
+		"Name": "虚灵钩",
+		"Show": "ui_8163",
+		"SkillId": 15,
+		"Type": 1,
+		"UnlockItem": 2070253,
+		"UnlockItemNum": 1
+	},
+	{
+		"HLId": 4,
+		"Id": 4,
+		"Name": "真火锏",
+		"Show": "ui_8162",
+		"SkillId": 20,
+		"Type": 1,
+		"UnlockItem": 2070254,
+		"UnlockItemNum": 1
+	},
+	{
+		"HLId": 5,
+		"Id": 5,
+		"Name": "昆虚尘",
+		"Show": "ui_8166",
+		"SkillId": 25,
+		"Type": 1,
+		"UnlockItem": 2070255,
+		"UnlockItemNum": 1
+	}
+]

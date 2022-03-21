@@ -1,0 +1,2774 @@
+[
+	{
+		"Desc": "2级生命丹",
+		"ItemId": 2050002,
+		"Level": 2,
+		"NeedItem": "2050001:5",
+		"Type": 11,
+		"Type2": 2001
+	},
+	{
+		"Desc": "2级攻击丹",
+		"ItemId": 2050012,
+		"Level": 2,
+		"NeedItem": "2050011:5",
+		"Type": 11,
+		"Type2": 2002
+	},
+	{
+		"Desc": "2级攻速丹",
+		"ItemId": 2050072,
+		"Level": 2,
+		"NeedItem": "2050071:5",
+		"Type": 11,
+		"Type2": 2003
+	},
+	{
+		"Desc": "2级防御丹",
+		"ItemId": 2050022,
+		"Level": 2,
+		"NeedItem": "2050021:5",
+		"Type": 11,
+		"Type2": 2004
+	},
+	{
+		"Desc": "2级抗暴丹",
+		"ItemId": 2050062,
+		"Level": 2,
+		"NeedItem": "2050061:5",
+		"Type": 11,
+		"Type2": 2005
+	},
+	{
+		"Desc": "2级暴击丹",
+		"ItemId": 2050052,
+		"Level": 2,
+		"NeedItem": "2050051:5",
+		"Type": 11,
+		"Type2": 2006
+	},
+	{
+		"Desc": "2级闪避丹",
+		"ItemId": 2050042,
+		"Level": 2,
+		"NeedItem": "2050041:5",
+		"Type": 11,
+		"Type2": 2007
+	},
+	{
+		"Desc": "2级命中丹",
+		"ItemId": 2050032,
+		"Level": 2,
+		"NeedItem": "2050031:5",
+		"Type": 11,
+		"Type2": 2008
+	},
+	{
+		"Desc": "3级生命丹",
+		"ItemId": 2050003,
+		"Level": 3,
+		"NeedItem": "2050002:5",
+		"Type": 11,
+		"Type2": 2001
+	},
+	{
+		"Desc": "3级攻击丹",
+		"ItemId": 2050013,
+		"Level": 3,
+		"NeedItem": "2050012:5",
+		"Type": 11,
+		"Type2": 2002
+	},
+	{
+		"Desc": "3级攻速丹",
+		"ItemId": 2050073,
+		"Level": 3,
+		"NeedItem": "2050072:5",
+		"Type": 11,
+		"Type2": 2003
+	},
+	{
+		"Desc": "3级防御丹",
+		"ItemId": 2050023,
+		"Level": 3,
+		"NeedItem": "2050022:5",
+		"Type": 11,
+		"Type2": 2004
+	},
+	{
+		"Desc": "3级抗暴丹",
+		"ItemId": 2050063,
+		"Level": 3,
+		"NeedItem": "2050062:5",
+		"Type": 11,
+		"Type2": 2005
+	},
+	{
+		"Desc": "3级暴击丹",
+		"ItemId": 2050053,
+		"Level": 3,
+		"NeedItem": "2050052:5",
+		"Type": 11,
+		"Type2": 2006
+	},
+	{
+		"Desc": "3级闪避丹",
+		"ItemId": 2050043,
+		"Level": 3,
+		"NeedItem": "2050042:5",
+		"Type": 11,
+		"Type2": 2007
+	},
+	{
+		"Desc": "3级命中丹",
+		"ItemId": 2050033,
+		"Level": 3,
+		"NeedItem": "2050032:5",
+		"Type": 11,
+		"Type2": 2008
+	},
+	{
+		"Desc": "4级生命丹",
+		"ItemId": 2050004,
+		"Level": 4,
+		"NeedItem": "2050003:5",
+		"Type": 11,
+		"Type2": 2001
+	},
+	{
+		"Desc": "4级攻击丹",
+		"ItemId": 2050014,
+		"Level": 4,
+		"NeedItem": "2050013:5",
+		"Type": 11,
+		"Type2": 2002
+	},
+	{
+		"Desc": "4级攻速丹",
+		"ItemId": 2050074,
+		"Level": 4,
+		"NeedItem": "2050073:5",
+		"Type": 11,
+		"Type2": 2003
+	},
+	{
+		"Desc": "4级防御丹",
+		"ItemId": 2050024,
+		"Level": 4,
+		"NeedItem": "2050023:5",
+		"Type": 11,
+		"Type2": 2004
+	},
+	{
+		"Desc": "4级抗暴丹",
+		"ItemId": 2050064,
+		"Level": 4,
+		"NeedItem": "2050063:5",
+		"Type": 11,
+		"Type2": 2005
+	},
+	{
+		"Desc": "4级暴击丹",
+		"ItemId": 2050054,
+		"Level": 4,
+		"NeedItem": "2050053:5",
+		"Type": 11,
+		"Type2": 2006
+	},
+	{
+		"Desc": "4级闪避丹",
+		"ItemId": 2050044,
+		"Level": 4,
+		"NeedItem": "2050043:5",
+		"Type": 11,
+		"Type2": 2007
+	},
+	{
+		"Desc": "4级命中丹",
+		"ItemId": 2050034,
+		"Level": 4,
+		"NeedItem": "2050033:5",
+		"Type": 11,
+		"Type2": 2008
+	},
+	{
+		"Desc": "5级生命丹",
+		"ItemId": 2050005,
+		"Level": 5,
+		"NeedItem": "2050004:5",
+		"Type": 11,
+		"Type2": 2001
+	},
+	{
+		"Desc": "5级攻击丹",
+		"ItemId": 2050015,
+		"Level": 5,
+		"NeedItem": "2050014:5",
+		"Type": 11,
+		"Type2": 2002
+	},
+	{
+		"Desc": "5级攻速丹",
+		"ItemId": 2050075,
+		"Level": 5,
+		"NeedItem": "2050074:5",
+		"Type": 11,
+		"Type2": 2003
+	},
+	{
+		"Desc": "5级防御丹",
+		"ItemId": 2050025,
+		"Level": 5,
+		"NeedItem": "2050024:5",
+		"Type": 11,
+		"Type2": 2004
+	},
+	{
+		"Desc": "5级抗暴丹",
+		"ItemId": 2050065,
+		"Level": 5,
+		"NeedItem": "2050064:5",
+		"Type": 11,
+		"Type2": 2005
+	},
+	{
+		"Desc": "5级暴击丹",
+		"ItemId": 2050055,
+		"Level": 5,
+		"NeedItem": "2050054:5",
+		"Type": 11,
+		"Type2": 2006
+	},
+	{
+		"Desc": "5级闪避丹",
+		"ItemId": 2050045,
+		"Level": 5,
+		"NeedItem": "2050044:5",
+		"Type": 11,
+		"Type2": 2007
+	},
+	{
+		"Desc": "5级命中丹",
+		"ItemId": 2050035,
+		"Level": 5,
+		"NeedItem": "2050034:5",
+		"Type": 11,
+		"Type2": 2008
+	},
+	{
+		"Desc": "2级生命宝石",
+		"ItemId": 2200362,
+		"Level": 2,
+		"NeedItem": "2200361:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "3级生命宝石",
+		"ItemId": 2200363,
+		"Level": 3,
+		"NeedItem": "2200362:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "4级生命宝石",
+		"ItemId": 2200364,
+		"Level": 4,
+		"NeedItem": "2200363:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "5级生命宝石",
+		"ItemId": 2200365,
+		"Level": 5,
+		"NeedItem": "2200364:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "6级生命宝石",
+		"ItemId": 2200366,
+		"Level": 6,
+		"NeedItem": "2200365:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "7级生命宝石",
+		"ItemId": 2200367,
+		"Level": 7,
+		"NeedItem": "2200366:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "8级生命宝石",
+		"ItemId": 2200368,
+		"Level": 8,
+		"NeedItem": "2200367:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "9级生命宝石",
+		"ItemId": 2200369,
+		"Level": 9,
+		"NeedItem": "2200368:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "10级生命宝石",
+		"ItemId": 2200370,
+		"Level": 10,
+		"NeedItem": "2200369:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "11级生命宝石",
+		"ItemId": 2200371,
+		"Level": 11,
+		"NeedItem": "2200370:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "12级生命宝石",
+		"ItemId": 2200372,
+		"Level": 12,
+		"NeedItem": "2200371:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "13级生命宝石",
+		"ItemId": 2200373,
+		"Level": 13,
+		"NeedItem": "2200372:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "14级生命宝石",
+		"ItemId": 2200374,
+		"Level": 14,
+		"NeedItem": "2200373:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "15级生命宝石",
+		"ItemId": 2200375,
+		"Level": 15,
+		"NeedItem": "2200374:3",
+		"Type": 1,
+		"Type2": 1001
+	},
+	{
+		"Desc": "2级攻击宝石",
+		"ItemId": 2200302,
+		"Level": 2,
+		"NeedItem": "2200301:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "3级攻击宝石",
+		"ItemId": 2200303,
+		"Level": 3,
+		"NeedItem": "2200302:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "4级攻击宝石",
+		"ItemId": 2200304,
+		"Level": 4,
+		"NeedItem": "2200303:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "5级攻击宝石",
+		"ItemId": 2200305,
+		"Level": 5,
+		"NeedItem": "2200304:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "6级攻击宝石",
+		"ItemId": 2200306,
+		"Level": 6,
+		"NeedItem": "2200305:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "7级攻击宝石",
+		"ItemId": 2200307,
+		"Level": 7,
+		"NeedItem": "2200306:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "8级攻击宝石",
+		"ItemId": 2200308,
+		"Level": 8,
+		"NeedItem": "2200307:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "9级攻击宝石",
+		"ItemId": 2200309,
+		"Level": 9,
+		"NeedItem": "2200308:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "10级攻击宝石",
+		"ItemId": 2200310,
+		"Level": 10,
+		"NeedItem": "2200309:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "11级攻击宝石",
+		"ItemId": 2200311,
+		"Level": 11,
+		"NeedItem": "2200310:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "12级攻击宝石",
+		"ItemId": 2200312,
+		"Level": 12,
+		"NeedItem": "2200311:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "13级攻击宝石",
+		"ItemId": 2200313,
+		"Level": 13,
+		"NeedItem": "2200312:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "14级攻击宝石",
+		"ItemId": 2200314,
+		"Level": 14,
+		"NeedItem": "2200313:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "15级攻击宝石",
+		"ItemId": 2200315,
+		"Level": 15,
+		"NeedItem": "2200314:3",
+		"Type": 1,
+		"Type2": 1002
+	},
+	{
+		"Desc": "2级防御宝石",
+		"ItemId": 2200332,
+		"Level": 2,
+		"NeedItem": "2200331:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "3级防御宝石",
+		"ItemId": 2200333,
+		"Level": 3,
+		"NeedItem": "2200332:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "4级防御宝石",
+		"ItemId": 2200334,
+		"Level": 4,
+		"NeedItem": "2200333:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "5级防御宝石",
+		"ItemId": 2200335,
+		"Level": 5,
+		"NeedItem": "2200334:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "6级防御宝石",
+		"ItemId": 2200336,
+		"Level": 6,
+		"NeedItem": "2200335:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "7级防御宝石",
+		"ItemId": 2200337,
+		"Level": 7,
+		"NeedItem": "2200336:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "8级防御宝石",
+		"ItemId": 2200338,
+		"Level": 8,
+		"NeedItem": "2200337:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "9级防御宝石",
+		"ItemId": 2200339,
+		"Level": 9,
+		"NeedItem": "2200338:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "10级防御宝石",
+		"ItemId": 2200340,
+		"Level": 10,
+		"NeedItem": "2200339:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "11级防御宝石",
+		"ItemId": 2200341,
+		"Level": 11,
+		"NeedItem": "2200340:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "12级防御宝石",
+		"ItemId": 2200342,
+		"Level": 12,
+		"NeedItem": "2200341:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "13级防御宝石",
+		"ItemId": 2200343,
+		"Level": 13,
+		"NeedItem": "2200342:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "14级防御宝石",
+		"ItemId": 2200344,
+		"Level": 14,
+		"NeedItem": "2200343:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "15级防御宝石",
+		"ItemId": 2200345,
+		"Level": 15,
+		"NeedItem": "2200344:3",
+		"Type": 1,
+		"Type2": 1003
+	},
+	{
+		"Desc": "2转升星石",
+		"ItemId": 2200602,
+		"Level": 2,
+		"NeedItem": "2200601:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "3转升星石",
+		"ItemId": 2200603,
+		"Level": 3,
+		"NeedItem": "2200602:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "4转升星石",
+		"ItemId": 2200604,
+		"Level": 4,
+		"NeedItem": "2200603:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "5转升星石",
+		"ItemId": 2200605,
+		"Level": 5,
+		"NeedItem": "2200604:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "6转升星石",
+		"ItemId": 2200606,
+		"Level": 6,
+		"NeedItem": "2200605:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "7转升星石",
+		"ItemId": 2200607,
+		"Level": 7,
+		"NeedItem": "2200606:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "8转升星石",
+		"ItemId": 2200608,
+		"Level": 8,
+		"NeedItem": "2200607:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "9转升星石",
+		"ItemId": 2200609,
+		"Level": 9,
+		"NeedItem": "2200608:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "10转升星石",
+		"ItemId": 2200610,
+		"Level": 10,
+		"NeedItem": "2200609:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "11转升星石",
+		"ItemId": 2200611,
+		"Level": 11,
+		"NeedItem": "2200610:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "12转升星石",
+		"ItemId": 2200612,
+		"Level": 12,
+		"NeedItem": "2200611:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "13转升星石",
+		"ItemId": 2200613,
+		"Level": 13,
+		"NeedItem": "2200612:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "14转升星石",
+		"ItemId": 2200614,
+		"Level": 14,
+		"NeedItem": "2200613:5",
+		"Type": 31,
+		"Type2": 3001
+	},
+	{
+		"Desc": "2转武器碎片",
+		"ItemId": 2200702,
+		"Level": 2,
+		"NeedItem": "2200701:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "2转防具碎片",
+		"ItemId": 2200732,
+		"Level": 2,
+		"NeedItem": "2200731:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "2转饰品碎片",
+		"ItemId": 2200762,
+		"Level": 2,
+		"NeedItem": "2200761:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "3转武器碎片",
+		"ItemId": 2200703,
+		"Level": 3,
+		"NeedItem": "2200702:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "3转防具碎片",
+		"ItemId": 2200733,
+		"Level": 3,
+		"NeedItem": "2200732:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "3转饰品碎片",
+		"ItemId": 2200763,
+		"Level": 3,
+		"NeedItem": "2200762:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "4转武器碎片",
+		"ItemId": 2200704,
+		"Level": 4,
+		"NeedItem": "2200703:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "4转防具碎片",
+		"ItemId": 2200734,
+		"Level": 4,
+		"NeedItem": "2200733:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "4转饰品碎片",
+		"ItemId": 2200764,
+		"Level": 4,
+		"NeedItem": "2200763:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "5转武器碎片",
+		"ItemId": 2200705,
+		"Level": 5,
+		"NeedItem": "2200704:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "5转防具碎片",
+		"ItemId": 2200735,
+		"Level": 5,
+		"NeedItem": "2200734:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "5转饰品碎片",
+		"ItemId": 2200765,
+		"Level": 5,
+		"NeedItem": "2200764:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "6转武器碎片",
+		"ItemId": 2200706,
+		"Level": 6,
+		"NeedItem": "2200705:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "6转防具碎片",
+		"ItemId": 2200736,
+		"Level": 6,
+		"NeedItem": "2200735:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "6转饰品碎片",
+		"ItemId": 2200766,
+		"Level": 6,
+		"NeedItem": "2200765:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "7转武器碎片",
+		"ItemId": 2200707,
+		"Level": 7,
+		"NeedItem": "2200706:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "7转防具碎片",
+		"ItemId": 2200737,
+		"Level": 7,
+		"NeedItem": "2200736:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "7转饰品碎片",
+		"ItemId": 2200767,
+		"Level": 7,
+		"NeedItem": "2200766:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "8转武器碎片",
+		"ItemId": 2200708,
+		"Level": 8,
+		"NeedItem": "2200707:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "8转防具碎片",
+		"ItemId": 2200738,
+		"Level": 8,
+		"NeedItem": "2200737:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "8转饰品碎片",
+		"ItemId": 2200768,
+		"Level": 8,
+		"NeedItem": "2200767:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "9转武器碎片",
+		"ItemId": 2200709,
+		"Level": 9,
+		"NeedItem": "2200708:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "9转防具碎片",
+		"ItemId": 2200739,
+		"Level": 9,
+		"NeedItem": "2200738:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "9转饰品碎片",
+		"ItemId": 2200769,
+		"Level": 9,
+		"NeedItem": "2200768:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "10转武器碎片",
+		"ItemId": 2200710,
+		"Level": 10,
+		"NeedItem": "2200709:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "10转防具碎片",
+		"ItemId": 2200740,
+		"Level": 10,
+		"NeedItem": "2200739:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "10转饰品碎片",
+		"ItemId": 2200770,
+		"Level": 10,
+		"NeedItem": "2200769:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "11转武器碎片",
+		"ItemId": 2200711,
+		"Level": 11,
+		"NeedItem": "2200710:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "11转防具碎片",
+		"ItemId": 2200741,
+		"Level": 11,
+		"NeedItem": "2200740:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "11转饰品碎片",
+		"ItemId": 2200771,
+		"Level": 11,
+		"NeedItem": "2200770:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "12转武器碎片",
+		"ItemId": 2200712,
+		"Level": 12,
+		"NeedItem": "2200711:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "12转防具碎片",
+		"ItemId": 2200742,
+		"Level": 12,
+		"NeedItem": "2200741:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "12转饰品碎片",
+		"ItemId": 2200772,
+		"Level": 12,
+		"NeedItem": "2200771:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "13转武器碎片",
+		"ItemId": 2200713,
+		"Level": 13,
+		"NeedItem": "2200712:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "13转防具碎片",
+		"ItemId": 2200743,
+		"Level": 13,
+		"NeedItem": "2200742:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "13转饰品碎片",
+		"ItemId": 2200773,
+		"Level": 13,
+		"NeedItem": "2200772:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "14转武器碎片",
+		"ItemId": 2200714,
+		"Level": 14,
+		"NeedItem": "2200713:5",
+		"Type": 31,
+		"Type2": 3003
+	},
+	{
+		"Desc": "14转防具碎片",
+		"ItemId": 2200744,
+		"Level": 14,
+		"NeedItem": "2200743:5",
+		"Type": 31,
+		"Type2": 3004
+	},
+	{
+		"Desc": "14转饰品碎片",
+		"ItemId": 2200774,
+		"Level": 14,
+		"NeedItem": "2200773:5",
+		"Type": 31,
+		"Type2": 3005
+	},
+	{
+		"Desc": "2转打造石",
+		"ItemId": 2200802,
+		"Level": 2,
+		"NeedItem": "2200801:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "3转打造石",
+		"ItemId": 2200803,
+		"Level": 3,
+		"NeedItem": "2200802:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "4转打造石",
+		"ItemId": 2200804,
+		"Level": 4,
+		"NeedItem": "2200803:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "5转打造石",
+		"ItemId": 2200805,
+		"Level": 5,
+		"NeedItem": "2200804:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "6转打造石",
+		"ItemId": 2200806,
+		"Level": 6,
+		"NeedItem": "2200805:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "7转打造石",
+		"ItemId": 2200807,
+		"Level": 7,
+		"NeedItem": "2200806:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "8转打造石",
+		"ItemId": 2200808,
+		"Level": 8,
+		"NeedItem": "2200807:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "9转打造石",
+		"ItemId": 2200809,
+		"Level": 9,
+		"NeedItem": "2200808:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "10转打造石",
+		"ItemId": 2200810,
+		"Level": 10,
+		"NeedItem": "2200809:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "11转打造石",
+		"ItemId": 2200811,
+		"Level": 11,
+		"NeedItem": "2200810:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "12转打造石",
+		"ItemId": 2200812,
+		"Level": 12,
+		"NeedItem": "2200811:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "13转打造石",
+		"ItemId": 2200813,
+		"Level": 13,
+		"NeedItem": "2200812:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "14转打造石",
+		"ItemId": 2200814,
+		"Level": 14,
+		"NeedItem": "2200813:5",
+		"Type": 31,
+		"Type2": 3002
+	},
+	{
+		"Desc": "神锻石",
+		"ItemId": 2200510,
+		"NeedItem": "2200511:10",
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "2阶神锻符",
+		"ItemId": 2200513,
+		"NeedItem": "2200512:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "3阶神锻符",
+		"ItemId": 2200514,
+		"NeedItem": "2200513:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "4阶神锻符",
+		"ItemId": 2200515,
+		"NeedItem": "2200514:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "5阶神锻符",
+		"ItemId": 2200516,
+		"NeedItem": "2200515:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "6阶神锻符",
+		"ItemId": 2200517,
+		"NeedItem": "2200516:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "7阶神锻符",
+		"ItemId": 2200518,
+		"NeedItem": "2200517:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "8阶神锻符",
+		"ItemId": 2200519,
+		"NeedItem": "2200518:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "9阶神锻符",
+		"ItemId": 2200520,
+		"NeedItem": "2200519:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "10阶神锻符",
+		"ItemId": 2200521,
+		"NeedItem": "2200520:3",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3012
+	},
+	{
+		"Desc": "完美洗炼符",
+		"ItemId": 2200203,
+		"NeedItem": "2200202:3",
+		"Type": 31,
+		"Type2": 3006
+	},
+	{
+		"Desc": "2星炼器神符",
+		"ItemId": 1102,
+		"Level": 2,
+		"NeedItem": "1101:3",
+		"Rate": 10000,
+		"RateShow": 10000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "3星炼器神符",
+		"ItemId": 1103,
+		"Level": 3,
+		"NeedItem": "1102:3",
+		"Rate": 9500,
+		"RateShow": 9500,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "4星炼器神符",
+		"ItemId": 1104,
+		"Level": 4,
+		"NeedItem": "1103:3",
+		"Rate": 9000,
+		"RateShow": 9000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "5星炼器神符",
+		"ItemId": 1105,
+		"Level": 5,
+		"NeedItem": "1104:3",
+		"Rate": 8500,
+		"RateShow": 8500,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "6星炼器神符",
+		"ItemId": 1106,
+		"Level": 6,
+		"NeedItem": "1105:3",
+		"Rate": 8000,
+		"RateShow": 8000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "7星炼器神符",
+		"ItemId": 1107,
+		"Level": 7,
+		"NeedItem": "1106:3",
+		"Rate": 7500,
+		"RateShow": 7500,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "8星炼器神符",
+		"ItemId": 1108,
+		"Level": 8,
+		"NeedItem": "1107:3",
+		"Rate": 7000,
+		"RateShow": 7000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "9星炼器神符",
+		"ItemId": 1109,
+		"Level": 9,
+		"NeedItem": "1108:3",
+		"Rate": 6500,
+		"RateShow": 6500,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "10星炼器神符",
+		"ItemId": 1110,
+		"Level": 10,
+		"NeedItem": "1109:3",
+		"Rate": 6000,
+		"RateShow": 6000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "11星炼器神符",
+		"ItemId": 1111,
+		"Level": 11,
+		"NeedItem": "1110:3",
+		"Rate": 5000,
+		"RateShow": 5500,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "12星炼器神符",
+		"ItemId": 1112,
+		"Level": 12,
+		"NeedItem": "1111:3",
+		"Rate": 4000,
+		"RateShow": 5000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "13星炼器神符",
+		"ItemId": 1113,
+		"Level": 13,
+		"NeedItem": "1112:3",
+		"Rate": 3000,
+		"RateShow": 4000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "14星炼器神符",
+		"ItemId": 1114,
+		"Level": 14,
+		"NeedItem": "1113:3",
+		"Rate": 2000,
+		"RateShow": 3000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "15星炼器神符",
+		"ItemId": 1115,
+		"Level": 15,
+		"NeedItem": "1114:3",
+		"Rate": 1000,
+		"RateShow": 2000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "16星炼器神符",
+		"ItemId": 1116,
+		"Level": 16,
+		"NeedItem": "1115:3",
+		"Rate": 100,
+		"RateShow": 1000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "17星炼器神符",
+		"ItemId": 1117,
+		"Level": 17,
+		"NeedItem": "1116:3",
+		"Rate": 10000,
+		"RateShow": 10000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "18星炼器神符",
+		"ItemId": 1118,
+		"Level": 18,
+		"NeedItem": "1117:3",
+		"Rate": 10000,
+		"RateShow": 10000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "19星炼器神符",
+		"ItemId": 1119,
+		"Level": 19,
+		"NeedItem": "1118:3",
+		"Rate": 10000,
+		"RateShow": 10000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "20星炼器神符",
+		"ItemId": 1120,
+		"Level": 20,
+		"NeedItem": "1119:3",
+		"Rate": 10000,
+		"RateShow": 10000,
+		"Type": 31,
+		"Type2": 3008
+	},
+	{
+		"Desc": "庚金神石",
+		"ItemId": 2070211,
+		"NeedItem": "2070191:10",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3011
+	},
+	{
+		"Desc": "乙木神石",
+		"ItemId": 2070212,
+		"NeedItem": "2070192:10",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3011
+	},
+	{
+		"Desc": "癸水神石",
+		"ItemId": 2070213,
+		"NeedItem": "2070193:10",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3011
+	},
+	{
+		"Desc": "炎火神石",
+		"ItemId": 2070214,
+		"NeedItem": "2070194:10",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3011
+	},
+	{
+		"Desc": "戊土神石",
+		"ItemId": 2070215,
+		"NeedItem": "2070195:10",
+		"RedPoint": 1,
+		"Type": 31,
+		"Type2": 3011
+	},
+	{
+		"Desc": "坐骑皮肤宝箱",
+		"ItemId": 3150101,
+		"NeedItem": "2250305:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "翅膀皮肤宝箱",
+		"ItemId": 3150201,
+		"NeedItem": "2250105:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "光武皮肤宝箱",
+		"ItemId": 3150301,
+		"NeedItem": "2250205:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "法宝皮肤宝箱",
+		"ItemId": 3150401,
+		"NeedItem": "2250405:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "角色时装宝箱",
+		"ItemId": 3150501,
+		"NeedItem": "3013001:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "战神皮肤宝箱",
+		"ItemId": 3150111,
+		"NeedItem": "2250311:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "战骑皮肤宝箱",
+		"ItemId": 3150121,
+		"NeedItem": "2250312:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "战宝皮肤宝箱",
+		"ItemId": 3150131,
+		"NeedItem": "2250313:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "法器皮肤宝箱",
+		"ItemId": 3150141,
+		"NeedItem": "2250314:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "兽灵皮肤宝箱",
+		"ItemId": 3150151,
+		"NeedItem": "2250315:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "随机稀有天赋",
+		"ItemId": 792,
+		"NeedItem": "952:50",
+		"Type": 21,
+		"Type2": 8021
+	},
+	{
+		"Desc": "SR外显宝箱",
+		"ItemId": 2400401,
+		"NeedItem": "2400501:25",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "SSR外显宝箱",
+		"ItemId": 2400402,
+		"NeedItem": "2400502:30",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "SSSR外显宝箱",
+		"ItemId": 2400403,
+		"NeedItem": "2400503:40",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "XR外显宝箱",
+		"ItemId": 2400404,
+		"NeedItem": "2400504:50",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "UR外显宝箱",
+		"ItemId": 2400405,
+		"NeedItem": "2400505:200",
+		"Type": 21,
+		"Type2": 8010
+	},
+	{
+		"Desc": "夸父",
+		"ItemId": 2030102,
+		"NeedItem": "2030152:30",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "水神共工",
+		"ItemId": 2030103,
+		"NeedItem": "2030153:50",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "火神祝融",
+		"ItemId": 2030104,
+		"NeedItem": "2030154:50",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "自在天",
+		"ItemId": 2030106,
+		"NeedItem": "2030156:70",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "黄帝轩辕",
+		"ItemId": 2030105,
+		"NeedItem": "2030155:100",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "大鹏明王",
+		"ItemId": 2030107,
+		"NeedItem": "2030157:100",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "随机典藏战神",
+		"ItemId": 2401201,
+		"NeedItem": "2401211:100",
+		"Type": 21,
+		"Type2": 8011
+	},
+	{
+		"Desc": "火羽朱雀",
+		"ItemId": 2030304,
+		"NeedItem": "2030354:50",
+		"Type": 21,
+		"Type2": 8012
+	},
+	{
+		"Desc": "黄莺",
+		"ItemId": 2043001,
+		"NeedItem": "2043051:30",
+		"Type": 21,
+		"Type2": 8013
+	},
+	{
+		"Desc": "魔女",
+		"ItemId": 2043004,
+		"NeedItem": "2043054:40",
+		"Type": 21,
+		"Type2": 8013
+	},
+	{
+		"Desc": "芭蕉夫人",
+		"ItemId": 2043003,
+		"NeedItem": "2043053:50",
+		"Type": 21,
+		"Type2": 8013
+	},
+	{
+		"Desc": "观音",
+		"ItemId": 2043002,
+		"NeedItem": "2043052:200",
+		"Type": 21,
+		"Type2": 8013
+	},
+	{
+		"Desc": "2阶打造石",
+		"ItemId": 8050221,
+		"Level": 2,
+		"NeedItem": "8050121:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "3阶打造石",
+		"ItemId": 8050321,
+		"Level": 3,
+		"NeedItem": "8050221:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "4阶打造石",
+		"ItemId": 8050421,
+		"Level": 4,
+		"NeedItem": "8050321:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "5阶打造石",
+		"ItemId": 8050521,
+		"Level": 5,
+		"NeedItem": "8050421:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "6阶打造石",
+		"ItemId": 8050621,
+		"Level": 6,
+		"NeedItem": "8050521:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "7阶打造石",
+		"ItemId": 8050721,
+		"Level": 7,
+		"NeedItem": "8050621:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "8阶打造石",
+		"ItemId": 8050821,
+		"Level": 8,
+		"NeedItem": "8050721:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "9阶打造石",
+		"ItemId": 8050921,
+		"Level": 9,
+		"NeedItem": "8050821:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "10阶打造石",
+		"ItemId": 8051021,
+		"Level": 10,
+		"NeedItem": "8050921:5",
+		"Type": 41,
+		"Type2": 4001
+	},
+	{
+		"Desc": "2阶坐骑装备碎片",
+		"ItemId": 8050211,
+		"Level": 2,
+		"NeedItem": "8050111:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "3阶坐骑装备碎片",
+		"ItemId": 8050311,
+		"Level": 3,
+		"NeedItem": "8050211:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "4阶坐骑装备碎片",
+		"ItemId": 8050411,
+		"Level": 4,
+		"NeedItem": "8050311:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "5阶坐骑装备碎片",
+		"ItemId": 8050511,
+		"Level": 5,
+		"NeedItem": "8050411:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "6阶坐骑装备碎片",
+		"ItemId": 8050611,
+		"Level": 6,
+		"NeedItem": "8050511:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "7阶坐骑装备碎片",
+		"ItemId": 8050711,
+		"Level": 7,
+		"NeedItem": "8050611:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "8阶坐骑装备碎片",
+		"ItemId": 8050811,
+		"Level": 8,
+		"NeedItem": "8050711:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "9阶坐骑装备碎片",
+		"ItemId": 8050911,
+		"Level": 9,
+		"NeedItem": "8050811:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "10阶坐骑装备碎片",
+		"ItemId": 8051011,
+		"Level": 10,
+		"NeedItem": "8050911:5",
+		"Type": 41,
+		"Type2": 4002
+	},
+	{
+		"Desc": "2阶光武装备碎片",
+		"ItemId": 8050212,
+		"Level": 2,
+		"NeedItem": "8050112:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "3阶光武装备碎片",
+		"ItemId": 8050312,
+		"Level": 3,
+		"NeedItem": "8050212:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "4阶光武装备碎片",
+		"ItemId": 8050412,
+		"Level": 4,
+		"NeedItem": "8050312:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "5阶光武装备碎片",
+		"ItemId": 8050512,
+		"Level": 5,
+		"NeedItem": "8050412:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "6阶光武装备碎片",
+		"ItemId": 8050612,
+		"Level": 6,
+		"NeedItem": "8050512:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "7阶光武装备碎片",
+		"ItemId": 8050712,
+		"Level": 7,
+		"NeedItem": "8050612:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "8阶光武装备碎片",
+		"ItemId": 8050812,
+		"Level": 8,
+		"NeedItem": "8050712:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "9阶光武装备碎片",
+		"ItemId": 8050912,
+		"Level": 9,
+		"NeedItem": "8050812:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "10阶光武装备碎片",
+		"ItemId": 8051012,
+		"Level": 10,
+		"NeedItem": "8050912:5",
+		"Type": 41,
+		"Type2": 4003
+	},
+	{
+		"Desc": "2阶羽翼装备碎片",
+		"ItemId": 8050213,
+		"Level": 2,
+		"NeedItem": "8050113:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "3阶羽翼装备碎片",
+		"ItemId": 8050313,
+		"Level": 3,
+		"NeedItem": "8050213:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "4阶羽翼装备碎片",
+		"ItemId": 8050413,
+		"Level": 4,
+		"NeedItem": "8050313:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "5阶羽翼装备碎片",
+		"ItemId": 8050513,
+		"Level": 5,
+		"NeedItem": "8050413:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "6阶羽翼装备碎片",
+		"ItemId": 8050613,
+		"Level": 6,
+		"NeedItem": "8050513:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "7阶羽翼装备碎片",
+		"ItemId": 8050713,
+		"Level": 7,
+		"NeedItem": "8050613:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "8阶羽翼装备碎片",
+		"ItemId": 8050813,
+		"Level": 8,
+		"NeedItem": "8050713:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "9阶羽翼装备碎片",
+		"ItemId": 8050913,
+		"Level": 9,
+		"NeedItem": "8050813:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "10阶羽翼装备碎片",
+		"ItemId": 8051013,
+		"Level": 10,
+		"NeedItem": "8050913:5",
+		"Type": 41,
+		"Type2": 4004
+	},
+	{
+		"Desc": "2阶法宝装备碎片",
+		"ItemId": 8050214,
+		"Level": 2,
+		"NeedItem": "8050114:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "3阶法宝装备碎片",
+		"ItemId": 8050314,
+		"Level": 3,
+		"NeedItem": "8050214:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "4阶法宝装备碎片",
+		"ItemId": 8050414,
+		"Level": 4,
+		"NeedItem": "8050314:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "5阶法宝装备碎片",
+		"ItemId": 8050514,
+		"Level": 5,
+		"NeedItem": "8050414:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "6阶法宝装备碎片",
+		"ItemId": 8050614,
+		"Level": 6,
+		"NeedItem": "8050514:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "7阶法宝装备碎片",
+		"ItemId": 8050714,
+		"Level": 7,
+		"NeedItem": "8050614:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "8阶法宝装备碎片",
+		"ItemId": 8050814,
+		"Level": 8,
+		"NeedItem": "8050714:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "9阶法宝装备碎片",
+		"ItemId": 8050914,
+		"Level": 9,
+		"NeedItem": "8050814:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "10阶法宝装备碎片",
+		"ItemId": 8051014,
+		"Level": 10,
+		"NeedItem": "8050914:5",
+		"Type": 41,
+		"Type2": 4005
+	},
+	{
+		"Desc": "2阶灵兽装备碎片",
+		"ItemId": 8050215,
+		"Level": 2,
+		"NeedItem": "8050115:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "3阶灵兽装备碎片",
+		"ItemId": 8050315,
+		"Level": 3,
+		"NeedItem": "8050215:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "4阶灵兽装备碎片",
+		"ItemId": 8050415,
+		"Level": 4,
+		"NeedItem": "8050315:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "5阶灵兽装备碎片",
+		"ItemId": 8050515,
+		"Level": 5,
+		"NeedItem": "8050415:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "6阶灵兽装备碎片",
+		"ItemId": 8050615,
+		"Level": 6,
+		"NeedItem": "8050515:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "7阶灵兽装备碎片",
+		"ItemId": 8050715,
+		"Level": 7,
+		"NeedItem": "8050615:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "8阶灵兽装备碎片",
+		"ItemId": 8050815,
+		"Level": 8,
+		"NeedItem": "8050715:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "9阶灵兽装备碎片",
+		"ItemId": 8050915,
+		"Level": 9,
+		"NeedItem": "8050815:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "10阶灵兽装备碎片",
+		"ItemId": 8051015,
+		"Level": 10,
+		"NeedItem": "8050915:5",
+		"Type": 41,
+		"Type2": 4006
+	},
+	{
+		"Desc": "2阶仙阶装备碎片",
+		"ItemId": 8050216,
+		"Level": 2,
+		"NeedItem": "8050116:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "3阶仙阶装备碎片",
+		"ItemId": 8050316,
+		"Level": 3,
+		"NeedItem": "8050216:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "4阶仙阶装备碎片",
+		"ItemId": 8050416,
+		"Level": 4,
+		"NeedItem": "8050316:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "5阶仙阶装备碎片",
+		"ItemId": 8050516,
+		"Level": 5,
+		"NeedItem": "8050416:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "6阶仙阶装备碎片",
+		"ItemId": 8050616,
+		"Level": 6,
+		"NeedItem": "8050516:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "7阶仙阶装备碎片",
+		"ItemId": 8050716,
+		"Level": 7,
+		"NeedItem": "8050616:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "8阶仙阶装备碎片",
+		"ItemId": 8050816,
+		"Level": 8,
+		"NeedItem": "8050716:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "9阶仙阶装备碎片",
+		"ItemId": 8050916,
+		"Level": 9,
+		"NeedItem": "8050816:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "10阶仙阶装备碎片",
+		"ItemId": 8051016,
+		"Level": 10,
+		"NeedItem": "8050916:5",
+		"Type": 41,
+		"Type2": 4007
+	},
+	{
+		"Desc": "2阶神阶装备碎片",
+		"ItemId": 8050217,
+		"Level": 2,
+		"NeedItem": "8050117:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "3阶神阶装备碎片",
+		"ItemId": 8050317,
+		"Level": 3,
+		"NeedItem": "8050217:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "4阶神阶装备碎片",
+		"ItemId": 8050417,
+		"Level": 4,
+		"NeedItem": "8050317:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "5阶神阶装备碎片",
+		"ItemId": 8050517,
+		"Level": 5,
+		"NeedItem": "8050417:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "6阶神阶装备碎片",
+		"ItemId": 8050617,
+		"Level": 6,
+		"NeedItem": "8050517:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "7阶神阶装备碎片",
+		"ItemId": 8050717,
+		"Level": 7,
+		"NeedItem": "8050617:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "8阶神阶装备碎片",
+		"ItemId": 8050817,
+		"Level": 8,
+		"NeedItem": "8050717:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "9阶神阶装备碎片",
+		"ItemId": 8050917,
+		"Level": 9,
+		"NeedItem": "8050817:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "10阶神阶装备碎片",
+		"ItemId": 8051017,
+		"Level": 10,
+		"NeedItem": "8050917:5",
+		"Type": 41,
+		"Type2": 4008
+	},
+	{
+		"Desc": "灵魂石",
+		"ItemId": 2200222,
+		"NeedItem": "2200221:3",
+		"Type": 51
+	},
+	{
+		"Desc": "仙魂石",
+		"ItemId": 2200223,
+		"NeedItem": "2200222:4",
+		"Type": 51
+	},
+	{
+		"Desc": "神魂石",
+		"ItemId": 2200224,
+		"NeedItem": "2200223:5",
+		"Type": 51
+	},
+	{
+		"Desc": "高级必杀",
+		"ItemId": 2020201,
+		"NeedItem": "2024201:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级连击",
+		"ItemId": 2020202,
+		"NeedItem": "2024202:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级吸血",
+		"ItemId": 2020203,
+		"NeedItem": "2024203:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级技巧",
+		"ItemId": 2020205,
+		"NeedItem": "2024205:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级反弹",
+		"ItemId": 2020206,
+		"NeedItem": "2024206:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级飞行",
+		"ItemId": 2020207,
+		"NeedItem": "2024207:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级坚韧",
+		"ItemId": 2020208,
+		"NeedItem": "2024208:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级致命",
+		"ItemId": 2020209,
+		"NeedItem": "2024209:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级重生",
+		"ItemId": 2020214,
+		"NeedItem": "2024214:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级招架",
+		"ItemId": 2020217,
+		"NeedItem": "2024217:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级强壮",
+		"ItemId": 2020218,
+		"NeedItem": "2024218:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级背水",
+		"ItemId": 2020219,
+		"NeedItem": "2024219:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级护主",
+		"ItemId": 2020224,
+		"NeedItem": "2024224:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级审判",
+		"ItemId": 2020227,
+		"NeedItem": "2024227:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "高级背刺",
+		"ItemId": 2020228,
+		"NeedItem": "2024228:30",
+		"Type": 61,
+		"Type2": 6002
+	},
+	{
+		"Desc": "顶级必杀",
+		"ItemId": 2020301,
+		"NeedItem": "2024301:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级连击",
+		"ItemId": 2020302,
+		"NeedItem": "2024302:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级吸血",
+		"ItemId": 2020303,
+		"NeedItem": "2024303:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级技巧",
+		"ItemId": 2020305,
+		"NeedItem": "2024305:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级反弹",
+		"ItemId": 2020306,
+		"NeedItem": "2024306:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级飞行",
+		"ItemId": 2020307,
+		"NeedItem": "2024307:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级坚韧",
+		"ItemId": 2020308,
+		"NeedItem": "2024308:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级致命",
+		"ItemId": 2020309,
+		"NeedItem": "2024309:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级重生",
+		"ItemId": 2020314,
+		"NeedItem": "2024314:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级招架",
+		"ItemId": 2020317,
+		"NeedItem": "2024317:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级强壮",
+		"ItemId": 2020318,
+		"NeedItem": "2024318:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级背水",
+		"ItemId": 2020319,
+		"NeedItem": "2024319:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级护主",
+		"ItemId": 2020324,
+		"NeedItem": "2024324:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级审判",
+		"ItemId": 2020327,
+		"NeedItem": "2024327:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "顶级背刺",
+		"ItemId": 2020328,
+		"NeedItem": "2024328:30",
+		"Type": 61,
+		"Type2": 6003
+	},
+	{
+		"Desc": "黄金锤",
+		"ItemId": 4030101,
+		"NeedItem": "4030102:30",
+		"Type": 91
+	},
+	{
+		"Desc": "铂金锤",
+		"ItemId": 4030103,
+		"NeedItem": "4030104:50",
+		"Type": 91
+	},
+	{
+		"Desc": "钻石锤",
+		"ItemId": 4030105,
+		"NeedItem": "4030106:80",
+		"Type": 91
+	},
+	{
+		"Desc": "SR天仙宝箱",
+		"ItemId": 2401100,
+		"NeedItem": "2401110:25",
+		"Type": 45
+	},
+	{
+		"Desc": "SSR天仙宝箱",
+		"ItemId": 2401101,
+		"NeedItem": "2401111:30",
+		"Type": 45
+	},
+	{
+		"Desc": "SSSR天仙宝箱",
+		"ItemId": 2401102,
+		"NeedItem": "2401112:40",
+		"Type": 45
+	},
+	{
+		"Desc": "XR天仙宝箱",
+		"ItemId": 2401103,
+		"NeedItem": "2401113:50",
+		"Type": 45
+	},
+	{
+		"Desc": "UR天仙宝箱",
+		"ItemId": 2401104,
+		"NeedItem": "2401114:200",
+		"Type": 45
+	},
+	{
+		"Desc": "长右元神",
+		"ItemId": 2310053,
+		"NeedItem": "2310003:50",
+		"Type": 71,
+		"Type2": 9002
+	},
+	{
+		"Desc": "犀渠元神",
+		"ItemId": 2310057,
+		"NeedItem": "2310003:100",
+		"Type": 71,
+		"Type2": 9002
+	},
+	{
+		"Desc": "化蛇元神",
+		"ItemId": 2310061,
+		"NeedItem": "2310003:200",
+		"Type": 71,
+		"Type2": 9002
+	},
+	{
+		"Desc": "天狗元神",
+		"ItemId": 2310065,
+		"NeedItem": "2310003:400",
+		"Type": 71,
+		"Type2": 9002
+	},
+	{
+		"Desc": "龙鲤元神",
+		"ItemId": 2310069,
+		"NeedItem": "2310003:1000",
+		"Type": 71,
+		"Type2": 9002
+	},
+	{
+		"Desc": "贾宝宝",
+		"ItemId": 5016101,
+		"NeedItem": "5016201:20",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "采臣",
+		"ItemId": 5016102,
+		"NeedItem": "5016202:30",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "小福禄",
+		"ItemId": 5016103,
+		"NeedItem": "5016203:40",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "小石头",
+		"ItemId": 5016104,
+		"NeedItem": "5016204:40",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "马良",
+		"ItemId": 5016105,
+		"NeedItem": "5016205:50",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "燕赤侠",
+		"ItemId": 5016106,
+		"NeedItem": "5016206:200",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "沉香",
+		"ItemId": 5016107,
+		"NeedItem": "5016207:200",
+		"Type": 101,
+		"Type2": 101001
+	},
+	{
+		"Desc": "林妹妹",
+		"ItemId": 5016109,
+		"NeedItem": "5016209:20",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "小倩",
+		"ItemId": 5016110,
+		"NeedItem": "5016210:30",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "糖糖",
+		"ItemId": 5016111,
+		"NeedItem": "5016211:40",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "小花仙",
+		"ItemId": 5016112,
+		"NeedItem": "5016212:40",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "小龙人",
+		"ItemId": 5016114,
+		"NeedItem": "5016214:50",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "月姑娘",
+		"ItemId": 5016115,
+		"NeedItem": "5016215:200",
+		"Type": 101,
+		"Type2": 101002
+	},
+	{
+		"Desc": "铜铃铛卡",
+		"ItemId": 5014004,
+		"NeedItem": "5015004:20",
+		"Type": 111,
+		"Type2": 111001
+	},
+	{
+		"Desc": "象棋卡",
+		"ItemId": 5014006,
+		"NeedItem": "5015006:20",
+		"Type": 111,
+		"Type2": 111001
+	},
+	{
+		"Desc": "放大镜卡",
+		"ItemId": 5014007,
+		"NeedItem": "5015007:20",
+		"Type": 111,
+		"Type2": 111001
+	},
+	{
+		"Desc": "如意梳卡",
+		"ItemId": 5014008,
+		"NeedItem": "5015008:20",
+		"Type": 111,
+		"Type2": 111001
+	},
+	{
+		"Desc": "木剑卡",
+		"ItemId": 5014001,
+		"NeedItem": "5015001:30",
+		"Type": 111,
+		"Type2": 111002
+	},
+	{
+		"Desc": "笛子卡",
+		"ItemId": 5014002,
+		"NeedItem": "5015002:30",
+		"Type": 111,
+		"Type2": 111002
+	},
+	{
+		"Desc": "灯笼卡",
+		"ItemId": 5014009,
+		"NeedItem": "5015009:30",
+		"Type": 111,
+		"Type2": 111002
+	},
+	{
+		"Desc": "中国结卡",
+		"ItemId": 5014011,
+		"NeedItem": "5015011:30",
+		"Type": 111,
+		"Type2": 111002
+	},
+	{
+		"Desc": "布老虎卡",
+		"ItemId": 5014003,
+		"NeedItem": "5015003:40",
+		"Type": 111,
+		"Type2": 111003
+	},
+	{
+		"Desc": "陀螺卡",
+		"ItemId": 5014005,
+		"NeedItem": "5015005:40",
+		"Type": 111,
+		"Type2": 111003
+	},
+	{
+		"Desc": "兔爷卡",
+		"ItemId": 5014012,
+		"NeedItem": "5015012:40",
+		"Type": 111,
+		"Type2": 111003
+	},
+	{
+		"Desc": "玉如意卡",
+		"ItemId": 5014010,
+		"NeedItem": "5015012:50",
+		"Type": 111,
+		"Type2": 111004
+	},
+	{
+		"Desc": "金色阵法",
+		"ItemId": 2090255,
+		"NeedItem": "2090251:100",
+		"Type": 121,
+		"Type2": 120001
+	},
+	{
+		"Desc": "彩色阵法",
+		"ItemId": 2090265,
+		"NeedItem": "2090261:100",
+		"Type": 121,
+		"Type2": 120001
+	},
+	{
+		"Desc": "2星龙珠",
+		"ItemId": 2600022,
+		"Level": 2,
+		"NeedItem": "2600021:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "3星龙珠",
+		"ItemId": 2600023,
+		"Level": 3,
+		"NeedItem": "2600022:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "4星龙珠",
+		"ItemId": 2600024,
+		"Level": 4,
+		"NeedItem": "2600023:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "5星龙珠",
+		"ItemId": 2600025,
+		"Level": 5,
+		"NeedItem": "2600024:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "6星龙珠",
+		"ItemId": 2600026,
+		"Level": 6,
+		"NeedItem": "2600025:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "7星龙珠",
+		"ItemId": 2600027,
+		"Level": 7,
+		"NeedItem": "2600026:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "8星龙珠",
+		"ItemId": 2600028,
+		"Level": 8,
+		"NeedItem": "2600027:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "9星龙珠",
+		"ItemId": 2600029,
+		"Level": 9,
+		"NeedItem": "2600028:3",
+		"Type": 131,
+		"Type2": 130001
+	},
+	{
+		"Desc": "10星龙珠",
+		"ItemId": 2600030,
+		"Level": 10,
+		"NeedItem": "2600029:3",
+		"Type": 131,
+		"Type2": 130001
+	}
+]

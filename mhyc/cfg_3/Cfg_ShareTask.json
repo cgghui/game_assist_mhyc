@@ -1,0 +1,82 @@
+[
+	{
+		"CounterType": 109,
+		"Desc": "每日邀请3次",
+		"GetCondition": "6",
+		"Id": 1,
+		"Independent": 1,
+		"Name": "每日邀请3次",
+		"Note": "每日邀请3次",
+		"Order": 1,
+		"Prize": "2:100|174:1|108:3",
+		"ServiceType": 1,
+		"TargetCount": 3,
+		"TargetDesc": "每日前3次邀请可领取",
+		"Type": 13
+	},
+	{
+		"CounterType": 109,
+		"Desc": "分享奖励",
+		"Id": 2,
+		"Name": "分享奖励",
+		"Note": "分享奖励",
+		"Order": 2,
+		"Prize": "2:500|103:150|104:15",
+		"ServiceType": 1,
+		"TargetCount": 5,
+		"TargetDesc": "累计邀请5次可领取",
+		"Type": 13
+	},
+	{
+		"CounterType": 109,
+		"Desc": "分享奖励",
+		"Id": 3,
+		"Name": "分享奖励",
+		"Note": "分享奖励",
+		"Order": 3,
+		"Prize": "2:1000|501:20|165:2",
+		"ServiceType": 1,
+		"TargetCount": 10,
+		"TargetDesc": "累计邀请10次可领取",
+		"Type": 13
+	},
+	{
+		"CounterType": 109,
+		"Desc": "分享奖励",
+		"Id": 4,
+		"Name": "分享奖励",
+		"Note": "分享奖励",
+		"Order": 4,
+		"Prize": "2:1500|503:30|108:10",
+		"ServiceType": 1,
+		"TargetCount": 15,
+		"TargetDesc": "累计邀请15次可领取",
+		"Type": 13
+	},
+	{
+		"CounterType": 109,
+		"Desc": "分享奖励",
+		"Id": 5,
+		"Name": "分享奖励",
+		"Note": "分享奖励",
+		"Order": 5,
+		"Prize": "2:2000|105:60|612:3",
+		"ServiceType": 1,
+		"TargetCount": 20,
+		"TargetDesc": "累计邀请20次可领取",
+		"Type": 13
+	},
+	{
+		"CounterType": 109,
+		"Desc": "分享奖励",
+		"Id": 6,
+		"Name": "分享奖励",
+		"Note": "分享奖励",
+		"Order": 6,
+		"Prize": "2:2500|181:100|182:100",
+		"ServiceType": 1,
+		"TargetCount": 25,
+		"TargetDesc": "累计邀请25次可领取",
+		"Type": 13
+	}
+]

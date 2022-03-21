@@ -1,0 +1,1402 @@
+[
+	{
+		"AttrInc": 20000,
+		"Id": 1,
+		"ItemCount": 1,
+		"No": 1,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 1,
+		"ItemCount": 2,
+		"No": 2,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 1,
+		"ItemCount": 3,
+		"No": 3,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 1,
+		"ItemCount": 4,
+		"No": 4,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 1,
+		"ItemCount": 5,
+		"No": 5,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 1,
+		"ItemCount": 6,
+		"No": 6,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 1,
+		"ItemCount": 7,
+		"No": 7,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 1,
+		"ItemCount": 8,
+		"No": 8,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 1,
+		"ItemCount": 9,
+		"No": 9,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 1,
+		"ItemCount": 10,
+		"No": 10,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 2,
+		"ItemCount": 1,
+		"No": 11,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 2,
+		"ItemCount": 2,
+		"No": 12,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 2,
+		"ItemCount": 3,
+		"No": 13,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 2,
+		"ItemCount": 4,
+		"No": 14,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 2,
+		"ItemCount": 5,
+		"No": 15,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 2,
+		"ItemCount": 6,
+		"No": 16,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 2,
+		"ItemCount": 7,
+		"No": 17,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 2,
+		"ItemCount": 8,
+		"No": 18,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 2,
+		"ItemCount": 9,
+		"No": 19,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 2,
+		"ItemCount": 10,
+		"No": 20,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 3,
+		"ItemCount": 1,
+		"No": 21,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 3,
+		"ItemCount": 2,
+		"No": 22,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 3,
+		"ItemCount": 3,
+		"No": 23,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 3,
+		"ItemCount": 4,
+		"No": 24,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 3,
+		"ItemCount": 5,
+		"No": 25,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 3,
+		"ItemCount": 6,
+		"No": 26,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 3,
+		"ItemCount": 7,
+		"No": 27,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 3,
+		"ItemCount": 8,
+		"No": 28,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 3,
+		"ItemCount": 9,
+		"No": 29,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 3,
+		"ItemCount": 10,
+		"No": 30,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 4,
+		"ItemCount": 1,
+		"No": 31,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 4,
+		"ItemCount": 2,
+		"No": 32,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 4,
+		"ItemCount": 3,
+		"No": 33,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 4,
+		"ItemCount": 4,
+		"No": 34,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 4,
+		"ItemCount": 5,
+		"No": 35,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 4,
+		"ItemCount": 6,
+		"No": 36,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 4,
+		"ItemCount": 7,
+		"No": 37,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 4,
+		"ItemCount": 8,
+		"No": 38,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 4,
+		"ItemCount": 9,
+		"No": 39,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 4,
+		"ItemCount": 10,
+		"No": 40,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 5,
+		"ItemCount": 1,
+		"No": 41,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 5,
+		"ItemCount": 2,
+		"No": 42,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 5,
+		"ItemCount": 3,
+		"No": 43,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 5,
+		"ItemCount": 4,
+		"No": 44,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 5,
+		"ItemCount": 5,
+		"No": 45,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 5,
+		"ItemCount": 6,
+		"No": 46,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 5,
+		"ItemCount": 7,
+		"No": 47,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 5,
+		"ItemCount": 8,
+		"No": 48,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 5,
+		"ItemCount": 9,
+		"No": 49,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 5,
+		"ItemCount": 10,
+		"No": 50,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 6,
+		"ItemCount": 1,
+		"No": 51,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 6,
+		"ItemCount": 2,
+		"No": 52,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 6,
+		"ItemCount": 3,
+		"No": 53,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 6,
+		"ItemCount": 4,
+		"No": 54,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 6,
+		"ItemCount": 5,
+		"No": 55,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 6,
+		"ItemCount": 6,
+		"No": 56,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 6,
+		"ItemCount": 7,
+		"No": 57,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 6,
+		"ItemCount": 8,
+		"No": 58,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 6,
+		"ItemCount": 9,
+		"No": 59,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 6,
+		"ItemCount": 10,
+		"No": 60,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 7,
+		"ItemCount": 1,
+		"No": 61,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 7,
+		"ItemCount": 2,
+		"No": 62,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 7,
+		"ItemCount": 3,
+		"No": 63,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 7,
+		"ItemCount": 4,
+		"No": 64,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 7,
+		"ItemCount": 5,
+		"No": 65,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 7,
+		"ItemCount": 6,
+		"No": 66,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 7,
+		"ItemCount": 7,
+		"No": 67,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 7,
+		"ItemCount": 8,
+		"No": 68,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 7,
+		"ItemCount": 9,
+		"No": 69,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 7,
+		"ItemCount": 10,
+		"No": 70,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 8,
+		"ItemCount": 1,
+		"No": 71,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 8,
+		"ItemCount": 2,
+		"No": 72,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 8,
+		"ItemCount": 3,
+		"No": 73,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 8,
+		"ItemCount": 4,
+		"No": 74,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 8,
+		"ItemCount": 5,
+		"No": 75,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 8,
+		"ItemCount": 6,
+		"No": 76,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 8,
+		"ItemCount": 7,
+		"No": 77,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 8,
+		"ItemCount": 8,
+		"No": 78,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 8,
+		"ItemCount": 9,
+		"No": 79,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 8,
+		"ItemCount": 10,
+		"No": 80,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 9,
+		"ItemCount": 1,
+		"No": 81,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 9,
+		"ItemCount": 2,
+		"No": 82,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 9,
+		"ItemCount": 3,
+		"No": 83,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 9,
+		"ItemCount": 4,
+		"No": 84,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 9,
+		"ItemCount": 5,
+		"No": 85,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 9,
+		"ItemCount": 6,
+		"No": 86,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 9,
+		"ItemCount": 7,
+		"No": 87,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 9,
+		"ItemCount": 8,
+		"No": 88,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 9,
+		"ItemCount": 9,
+		"No": 89,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 9,
+		"ItemCount": 10,
+		"No": 90,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 10,
+		"ItemCount": 1,
+		"No": 91,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 10,
+		"ItemCount": 2,
+		"No": 92,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 10,
+		"ItemCount": 3,
+		"No": 93,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 10,
+		"ItemCount": 4,
+		"No": 94,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 10,
+		"ItemCount": 5,
+		"No": 95,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 10,
+		"ItemCount": 6,
+		"No": 96,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 10,
+		"ItemCount": 7,
+		"No": 97,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 10,
+		"ItemCount": 8,
+		"No": 98,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 10,
+		"ItemCount": 9,
+		"No": 99,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 10,
+		"ItemCount": 10,
+		"No": 100,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 11,
+		"ItemCount": 1,
+		"No": 101,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 11,
+		"ItemCount": 2,
+		"No": 102,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 11,
+		"ItemCount": 3,
+		"No": 103,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 11,
+		"ItemCount": 4,
+		"No": 104,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 11,
+		"ItemCount": 5,
+		"No": 105,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 11,
+		"ItemCount": 6,
+		"No": 106,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 11,
+		"ItemCount": 7,
+		"No": 107,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 11,
+		"ItemCount": 8,
+		"No": 108,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 11,
+		"ItemCount": 9,
+		"No": 109,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 11,
+		"ItemCount": 10,
+		"No": 110,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 12,
+		"ItemCount": 1,
+		"No": 111,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 12,
+		"ItemCount": 2,
+		"No": 112,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 12,
+		"ItemCount": 3,
+		"No": 113,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 12,
+		"ItemCount": 4,
+		"No": 114,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 12,
+		"ItemCount": 5,
+		"No": 115,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 12,
+		"ItemCount": 6,
+		"No": 116,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 12,
+		"ItemCount": 7,
+		"No": 117,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 12,
+		"ItemCount": 8,
+		"No": 118,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 12,
+		"ItemCount": 9,
+		"No": 119,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 12,
+		"ItemCount": 10,
+		"No": 120,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 13,
+		"ItemCount": 1,
+		"No": 121,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 13,
+		"ItemCount": 2,
+		"No": 122,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 13,
+		"ItemCount": 3,
+		"No": 123,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 13,
+		"ItemCount": 4,
+		"No": 124,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 13,
+		"ItemCount": 5,
+		"No": 125,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 13,
+		"ItemCount": 6,
+		"No": 126,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 13,
+		"ItemCount": 7,
+		"No": 127,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 13,
+		"ItemCount": 8,
+		"No": 128,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 13,
+		"ItemCount": 9,
+		"No": 129,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 13,
+		"ItemCount": 10,
+		"No": 130,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 14,
+		"ItemCount": 1,
+		"No": 131,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 14,
+		"ItemCount": 2,
+		"No": 132,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 14,
+		"ItemCount": 3,
+		"No": 133,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 14,
+		"ItemCount": 4,
+		"No": 134,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 14,
+		"ItemCount": 5,
+		"No": 135,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 14,
+		"ItemCount": 6,
+		"No": 136,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 14,
+		"ItemCount": 7,
+		"No": 137,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 14,
+		"ItemCount": 8,
+		"No": 138,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 14,
+		"ItemCount": 9,
+		"No": 139,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 14,
+		"ItemCount": 10,
+		"No": 140,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 15,
+		"ItemCount": 1,
+		"No": 141,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 15,
+		"ItemCount": 2,
+		"No": 142,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 15,
+		"ItemCount": 3,
+		"No": 143,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 15,
+		"ItemCount": 4,
+		"No": 144,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 15,
+		"ItemCount": 5,
+		"No": 145,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 15,
+		"ItemCount": 6,
+		"No": 146,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 15,
+		"ItemCount": 7,
+		"No": 147,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 15,
+		"ItemCount": 8,
+		"No": 148,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 15,
+		"ItemCount": 9,
+		"No": 149,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 15,
+		"ItemCount": 10,
+		"No": 150,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 16,
+		"ItemCount": 1,
+		"No": 151,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 16,
+		"ItemCount": 2,
+		"No": 152,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 16,
+		"ItemCount": 3,
+		"No": 153,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 16,
+		"ItemCount": 4,
+		"No": 154,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 16,
+		"ItemCount": 5,
+		"No": 155,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 16,
+		"ItemCount": 6,
+		"No": 156,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 16,
+		"ItemCount": 7,
+		"No": 157,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 16,
+		"ItemCount": 8,
+		"No": 158,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 16,
+		"ItemCount": 9,
+		"No": 159,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 16,
+		"ItemCount": 10,
+		"No": 160,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 17,
+		"ItemCount": 1,
+		"No": 161,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 17,
+		"ItemCount": 2,
+		"No": 162,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 17,
+		"ItemCount": 3,
+		"No": 163,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 17,
+		"ItemCount": 4,
+		"No": 164,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 17,
+		"ItemCount": 5,
+		"No": 165,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 17,
+		"ItemCount": 6,
+		"No": 166,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 17,
+		"ItemCount": 7,
+		"No": 167,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 17,
+		"ItemCount": 8,
+		"No": 168,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 17,
+		"ItemCount": 9,
+		"No": 169,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 17,
+		"ItemCount": 10,
+		"No": 170,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 18,
+		"ItemCount": 1,
+		"No": 171,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 18,
+		"ItemCount": 2,
+		"No": 172,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 18,
+		"ItemCount": 3,
+		"No": 173,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 18,
+		"ItemCount": 4,
+		"No": 174,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 18,
+		"ItemCount": 5,
+		"No": 175,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 18,
+		"ItemCount": 6,
+		"No": 176,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 18,
+		"ItemCount": 7,
+		"No": 177,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 18,
+		"ItemCount": 8,
+		"No": 178,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 18,
+		"ItemCount": 9,
+		"No": 179,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 18,
+		"ItemCount": 10,
+		"No": 180,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 19,
+		"ItemCount": 1,
+		"No": 181,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 19,
+		"ItemCount": 2,
+		"No": 182,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 19,
+		"ItemCount": 3,
+		"No": 183,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 19,
+		"ItemCount": 4,
+		"No": 184,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 19,
+		"ItemCount": 5,
+		"No": 185,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 19,
+		"ItemCount": 6,
+		"No": 186,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 19,
+		"ItemCount": 7,
+		"No": 187,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 19,
+		"ItemCount": 8,
+		"No": 188,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 19,
+		"ItemCount": 9,
+		"No": 189,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 19,
+		"ItemCount": 10,
+		"No": 190,
+		"Star": 10
+	},
+	{
+		"AttrInc": 20000,
+		"Id": 20,
+		"ItemCount": 1,
+		"No": 191,
+		"Star": 1
+	},
+	{
+		"AttrInc": 30000,
+		"Id": 20,
+		"ItemCount": 2,
+		"No": 192,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Id": 20,
+		"ItemCount": 3,
+		"No": 193,
+		"Star": 3
+	},
+	{
+		"AttrInc": 50000,
+		"Id": 20,
+		"ItemCount": 4,
+		"No": 194,
+		"Star": 4
+	},
+	{
+		"AttrInc": 60000,
+		"Id": 20,
+		"ItemCount": 5,
+		"No": 195,
+		"Star": 5
+	},
+	{
+		"AttrInc": 70000,
+		"Id": 20,
+		"ItemCount": 6,
+		"No": 196,
+		"Star": 6
+	},
+	{
+		"AttrInc": 80000,
+		"Id": 20,
+		"ItemCount": 7,
+		"No": 197,
+		"Star": 7
+	},
+	{
+		"AttrInc": 90000,
+		"Id": 20,
+		"ItemCount": 8,
+		"No": 198,
+		"Star": 8
+	},
+	{
+		"AttrInc": 100000,
+		"Id": 20,
+		"ItemCount": 9,
+		"No": 199,
+		"Star": 9
+	},
+	{
+		"AttrInc": 110000,
+		"Id": 20,
+		"ItemCount": 10,
+		"No": 200,
+		"Star": 10
+	}
+]

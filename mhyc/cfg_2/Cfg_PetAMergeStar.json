@@ -1,0 +1,152 @@
+[
+	{
+		"Id": 1,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 2,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 3,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 4,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 5,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 6,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 7,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 8,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 9,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 10,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 11,
+		"SkillLev": 11,
+		"Star": 11
+	},
+	{
+		"Id": 12,
+		"SkillLev": 12,
+		"Star": 12
+	},
+	{
+		"Id": 13,
+		"SkillLev": 13,
+		"Star": 13
+	},
+	{
+		"Id": 14,
+		"SkillLev": 14,
+		"Star": 14
+	},
+	{
+		"Id": 15,
+		"SkillLev": 15,
+		"Star": 15
+	},
+	{
+		"Id": 16,
+		"SkillLev": 16,
+		"Star": 16
+	},
+	{
+		"Id": 17,
+		"SkillLev": 17,
+		"Star": 17
+	},
+	{
+		"Id": 18,
+		"SkillLev": 18,
+		"Star": 18
+	},
+	{
+		"Id": 19,
+		"SkillLev": 19,
+		"Star": 19
+	},
+	{
+		"Id": 20,
+		"SkillLev": 20,
+		"Star": 20
+	},
+	{
+		"Id": 21,
+		"SkillLev": 21,
+		"Star": 21
+	},
+	{
+		"Id": 22,
+		"SkillLev": 22,
+		"Star": 22
+	},
+	{
+		"Id": 23,
+		"SkillLev": 23,
+		"Star": 23
+	},
+	{
+		"Id": 24,
+		"SkillLev": 24,
+		"Star": 24
+	},
+	{
+		"Id": 25,
+		"SkillLev": 25,
+		"Star": 25
+	},
+	{
+		"Id": 26,
+		"SkillLev": 26,
+		"Star": 26
+	},
+	{
+		"Id": 27,
+		"SkillLev": 27,
+		"Star": 27
+	},
+	{
+		"Id": 28,
+		"SkillLev": 28,
+		"Star": 28
+	},
+	{
+		"Id": 29,
+		"SkillLev": 29,
+		"Star": 29
+	},
+	{
+		"Id": 30,
+		"SkillLev": 30,
+		"Star": 30
+	}
+]

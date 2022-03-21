@@ -1,0 +1,866 @@
+[
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 1,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 1
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 2,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 1
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 3,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 1
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 4,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 5,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 6,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 7,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 8,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 9,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 10,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 2
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 11,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 12,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 13,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 14,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 15,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 16,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 17,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【双生】\n上阵:紫霞[仙]、刺客[宠]",
+		"Id": 18,
+		"PartnerIds": "3002|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【国宝】\n上阵:憨多多[宠]、淘小竹[宠]",
+		"Id": 19,
+		"PartnerIds": "5005|3004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【青丘】\n上阵:狐宝[宠]、玄狐[宠]",
+		"Id": 20,
+		"PartnerIds": "4006|4008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 3
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 21,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 22,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 23,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 24,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 25,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 26,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 27,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【双生】\n上阵:紫霞[仙]、刺客[宠]",
+		"Id": 28,
+		"PartnerIds": "3002|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【国宝】\n上阵:憨多多[宠]、淘小竹[宠]",
+		"Id": 29,
+		"PartnerIds": "5005|3004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【青丘】\n上阵:狐宝[宠]、玄狐[宠]",
+		"Id": 30,
+		"PartnerIds": "4006|4008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【神鸟】\n上阵:精卫[宠]、玄鸟[宠]",
+		"Id": 31,
+		"PartnerIds": "4003|5003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【萌物】\n上阵:波波[宠]、萌萌[宠]",
+		"Id": 32,
+		"PartnerIds": "1001|2003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【吃兔兔】\n上阵:冰域狼王[宠]、飞仙兔子[宠]",
+		"Id": 33,
+		"PartnerIds": "5001|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 4
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 34,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 35,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 36,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 37,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 38,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 39,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 40,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【双生】\n上阵:紫霞[仙]、刺客[宠]",
+		"Id": 41,
+		"PartnerIds": "3002|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【国宝】\n上阵:憨多多[宠]、淘小竹[宠]",
+		"Id": 42,
+		"PartnerIds": "5005|3004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【青丘】\n上阵:狐宝[宠]、玄狐[宠]",
+		"Id": 43,
+		"PartnerIds": "4006|4008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【神鸟】\n上阵:精卫[宠]、玄鸟[宠]",
+		"Id": 44,
+		"PartnerIds": "4003|5003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【萌物】\n上阵:波波[宠]、萌萌[宠]",
+		"Id": 45,
+		"PartnerIds": "1001|2003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【吃兔兔】\n上阵:冰域狼王[宠]、飞仙兔子[宠]",
+		"Id": 46,
+		"PartnerIds": "5001|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【伏魔】\n上阵:真武大帝[战]、赤炎魔[宠]",
+		"Id": 47,
+		"PartnerIds": "1116101|5008",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【前世缘】\n上阵:大魔王[宠]、花神[仙]",
+		"Id": 48,
+		"PartnerIds": "6008|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【朝圣】\n上阵:自在天[战]、圣僧[宠]",
+		"Id": 49,
+		"PartnerIds": "1116107|6007",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 5
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 50,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 51,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 52,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 53,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 54,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 55,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 56,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【双生】\n上阵:紫霞[仙]、刺客[宠]",
+		"Id": 57,
+		"PartnerIds": "3002|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【国宝】\n上阵:憨多多[宠]、淘小竹[宠]",
+		"Id": 58,
+		"PartnerIds": "5005|3004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【青丘】\n上阵:狐宝[宠]、玄狐[宠]",
+		"Id": 59,
+		"PartnerIds": "4006|4008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【神鸟】\n上阵:精卫[宠]、玄鸟[宠]",
+		"Id": 60,
+		"PartnerIds": "4003|5003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【萌物】\n上阵:波波[宠]、萌萌[宠]",
+		"Id": 61,
+		"PartnerIds": "1001|2003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【吃兔兔】\n上阵:冰域狼王[宠]、飞仙兔子[宠]",
+		"Id": 62,
+		"PartnerIds": "5001|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【伏魔】\n上阵:真武大帝[战]、赤炎魔[宠]",
+		"Id": 63,
+		"PartnerIds": "1116101|5008",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【前世缘】\n上阵:大魔王[宠]、花神[仙]",
+		"Id": 64,
+		"PartnerIds": "6008|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【朝圣】\n上阵:自在天[战]、圣僧[宠]",
+		"Id": 65,
+		"PartnerIds": "1116107|6007",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【姐弟】\n上阵:二郎神[宠]、瑶姬[仙]",
+		"Id": 66,
+		"PartnerIds": "6010|6001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【神卫】\n上阵:神将[宠]、羽灵神[宠]",
+		"Id": 67,
+		"PartnerIds": "5009|6005",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【玄火】\n上阵:火麒麟[宠]、火神祝融[战]",
+		"Id": 68,
+		"PartnerIds": "5004|1116105",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|3",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【闹海】\n上阵:哪吒三太子[宠]、龙王[宠]",
+		"Id": 69,
+		"PartnerIds": "4009|6001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【凡心】\n上阵:八戒[宠]、嫦娥[仙]",
+		"Id": 70,
+		"PartnerIds": "3007|6002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 6
+	},
+	{
+		"Desc": "【双姝】\n上阵:孟婆小七[仙]、龙公主[仙]",
+		"Id": 71,
+		"PartnerIds": "1002|2002",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【偶遇】\n上阵:任1战神、紫霞[仙]",
+		"Id": 72,
+		"PartnerIds": "0|3002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【吃鸡】\n上阵:喵喵[宠]、萌鸡[宠]",
+		"Id": 73,
+		"PartnerIds": "1003|1002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【“凶兽”】\n上阵:俏娇虎[宠]、壮壮[宠]",
+		"Id": 74,
+		"PartnerIds": "3002|4004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【海灵】\n上阵:巡海夜叉[宠]、美娇娇[宠]",
+		"Id": 75,
+		"PartnerIds": "3005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【求道】\n上阵:符灵[宠]、天师[宠]",
+		"Id": 76,
+		"PartnerIds": "3006|3008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【双生】\n上阵:草精[宠]、碧萝[仙]",
+		"Id": 77,
+		"PartnerIds": "2005|2001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【双生】\n上阵:紫霞[仙]、刺客[宠]",
+		"Id": 78,
+		"PartnerIds": "3002|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【国宝】\n上阵:憨多多[宠]、淘小竹[宠]",
+		"Id": 79,
+		"PartnerIds": "5005|3004",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【青丘】\n上阵:狐宝[宠]、玄狐[宠]",
+		"Id": 80,
+		"PartnerIds": "4006|4008",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【神鸟】\n上阵:精卫[宠]、玄鸟[宠]",
+		"Id": 81,
+		"PartnerIds": "4003|5003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【萌物】\n上阵:波波[宠]、萌萌[宠]",
+		"Id": 82,
+		"PartnerIds": "1001|2003",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【吃兔兔】\n上阵:冰域狼王[宠]、飞仙兔子[宠]",
+		"Id": 83,
+		"PartnerIds": "5001|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【伏魔】\n上阵:真武大帝[战]、赤炎魔[宠]",
+		"Id": 84,
+		"PartnerIds": "1116101|5008",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【前世缘】\n上阵:大魔王[宠]、花神[仙]",
+		"Id": 85,
+		"PartnerIds": "6008|4001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【朝圣】\n上阵:自在天[战]、圣僧[宠]",
+		"Id": 86,
+		"PartnerIds": "1116107|6007",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【姐弟】\n上阵:二郎神[宠]、瑶姬[仙]",
+		"Id": 87,
+		"PartnerIds": "6010|6001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【神卫】\n上阵:神将[宠]、羽灵神[宠]",
+		"Id": 88,
+		"PartnerIds": "5009|6005",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【玄火】\n上阵:火麒麟[宠]、火神祝融[战]",
+		"Id": 89,
+		"PartnerIds": "5004|1116105",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|3",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【闹海】\n上阵:哪吒三太子[宠]、龙王[宠]",
+		"Id": 90,
+		"PartnerIds": "4009|6001",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【凡心】\n上阵:八戒[宠]、嫦娥[仙]",
+		"Id": 91,
+		"PartnerIds": "3007|6002",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【逐日】\n上阵:日神羲和[仙]、夸父[战]",
+		"Id": 92,
+		"PartnerIds": "6003|1116103",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|3",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【皎月】\n上阵:月神常曦[仙]、玉兔精[仙]",
+		"Id": 93,
+		"PartnerIds": "6004|3001",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|2",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【古神】\n上阵:女娲[仙]、东皇太一[战]",
+		"Id": 94,
+		"PartnerIds": "7002|1116102",
+		"PartnerNum": 2,
+		"PartnerTypes": "2|3",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【轩辕剑】\n上阵:皇帝轩辕[战]、邪剑灵[宠]",
+		"Id": 95,
+		"PartnerIds": "1116106|5002",
+		"PartnerNum": 2,
+		"PartnerTypes": "3|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	},
+	{
+		"Desc": "【师徒】\n上阵:三藏[宠]、八戒[宠]",
+		"Id": 96,
+		"PartnerIds": "7002|3007",
+		"PartnerNum": 2,
+		"PartnerTypes": "1|1",
+		"Prize": "501:1",
+		"TaskStar": 7
+	}
+]

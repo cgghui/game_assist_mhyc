@@ -1,0 +1,22 @@
+[
+	{
+		"CfgKey": "RoleSkillUpP1",
+		"CfgValue": "550"
+	},
+	{
+		"CfgKey": "RoleSkillUpP2",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "RoleSkillUpP3",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "RoleSkillUpItem",
+		"CfgValue": "7"
+	},
+	{
+		"CfgKey": "SkillFightValue",
+		"CfgValue": "1"
+	}
+]

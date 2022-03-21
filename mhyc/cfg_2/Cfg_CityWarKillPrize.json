@@ -1,0 +1,27 @@
+[
+	{
+		"Prize": 302,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"Prize": 303,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"Prize": 304,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"Prize": 305,
+		"RankMax": 10,
+		"RankMin": 4
+	},
+	{
+		"Prize": 306,
+		"RankMax": 999,
+		"RankMin": 11
+	}
+]

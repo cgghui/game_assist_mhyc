@@ -1,0 +1,127 @@
+[
+	{
+		"BaseAttr": 3300501,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300502,
+		"Id": 1,
+		"Lev": 2
+	},
+	{
+		"BaseAttr": 3300503,
+		"Id": 1,
+		"Lev": 3
+	},
+	{
+		"BaseAttr": 3300504,
+		"Id": 1,
+		"Lev": 4
+	},
+	{
+		"BaseAttr": 3300505,
+		"Id": 1,
+		"Lev": 5
+	},
+	{
+		"BaseAttr": 3300511,
+		"Id": 2,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300512,
+		"Id": 2,
+		"Lev": 2
+	},
+	{
+		"BaseAttr": 3300513,
+		"Id": 2,
+		"Lev": 3
+	},
+	{
+		"BaseAttr": 3300514,
+		"Id": 2,
+		"Lev": 4
+	},
+	{
+		"BaseAttr": 3300515,
+		"Id": 2,
+		"Lev": 5
+	},
+	{
+		"BaseAttr": 3300521,
+		"Id": 3,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300522,
+		"Id": 3,
+		"Lev": 2
+	},
+	{
+		"BaseAttr": 3300523,
+		"Id": 3,
+		"Lev": 3
+	},
+	{
+		"BaseAttr": 3300524,
+		"Id": 3,
+		"Lev": 4
+	},
+	{
+		"BaseAttr": 3300525,
+		"Id": 3,
+		"Lev": 5
+	},
+	{
+		"BaseAttr": 3300531,
+		"Id": 4,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300532,
+		"Id": 4,
+		"Lev": 2
+	},
+	{
+		"BaseAttr": 3300533,
+		"Id": 4,
+		"Lev": 3
+	},
+	{
+		"BaseAttr": 3300534,
+		"Id": 4,
+		"Lev": 4
+	},
+	{
+		"BaseAttr": 3300535,
+		"Id": 4,
+		"Lev": 5
+	},
+	{
+		"BaseAttr": 3300541,
+		"Id": 5,
+		"Lev": 1
+	},
+	{
+		"BaseAttr": 3300542,
+		"Id": 5,
+		"Lev": 2
+	},
+	{
+		"BaseAttr": 3300543,
+		"Id": 5,
+		"Lev": 3
+	},
+	{
+		"BaseAttr": 3300544,
+		"Id": 5,
+		"Lev": 4
+	},
+	{
+		"BaseAttr": 3300545,
+		"Id": 5,
+		"Lev": 5
+	}
+]

@@ -1,0 +1,48 @@
+[
+	{
+		"FuncId": 28,
+		"Quality": 1
+	},
+	{
+		"FuncId": 28,
+		"Quality": 2
+	},
+	{
+		"FuncId": 28,
+		"Quality": 3
+	},
+	{
+		"FuncId": 28,
+		"Quality": 4
+	},
+	{
+		"Count": 1,
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Count": 2,
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Count": 3,
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 3
+	},
+	{
+		"Count": 4,
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 4
+	},
+	{
+		"Count": 5,
+		"FuncId": 28,
+		"Quality": 5,
+		"Star": 5
+	}
+]

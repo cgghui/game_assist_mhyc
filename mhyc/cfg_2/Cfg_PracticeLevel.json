@@ -1,0 +1,2392 @@
+[
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 1
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 2,
+		"Multi": 10000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 3,
+		"Multi": 20000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 4,
+		"Multi": 30000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 5,
+		"Multi": 40000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 10,
+		"GodBookId": 6850,
+		"Level": 6,
+		"Multi": 50000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 15,
+		"GodBookId": 6850,
+		"Level": 7,
+		"Multi": 60000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 15,
+		"GodBookId": 6850,
+		"Level": 8,
+		"Multi": 70000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 15,
+		"GodBookId": 6850,
+		"Level": 9,
+		"Multi": 80000
+	},
+	{
+		"Desc": "1阶天书",
+		"Exp": 15,
+		"GodBookId": 6850,
+		"Level": 10,
+		"Multi": 90000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 15,
+		"GodBookId": 6851,
+		"Level": 11,
+		"Multi": 100000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 15,
+		"GodBookId": 6851,
+		"Level": 12,
+		"Multi": 110000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 13,
+		"Multi": 120000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 14,
+		"Multi": 130000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 15,
+		"Multi": 140000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 16,
+		"Multi": 150000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 17,
+		"Multi": 160000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 18,
+		"Multi": 170000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 19,
+		"Multi": 180000,
+		"PrecentAttrIdList": "1001"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 20,
+		"Multi": 190000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 21,
+		"Multi": 200000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "2阶天书",
+		"Exp": 20,
+		"GodBookId": 6851,
+		"Level": 22,
+		"Multi": 210000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 23,
+		"Multi": 220000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 24,
+		"Multi": 230000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 25,
+		"Multi": 240000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 26,
+		"Multi": 250000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 27,
+		"Multi": 260000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 28,
+		"Multi": 270000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 29,
+		"Multi": 280000,
+		"PrecentAttrIdList": "1002|1201"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 30,
+		"Multi": 290000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 31,
+		"Multi": 300000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 30,
+		"GodBookId": 6852,
+		"Level": 32,
+		"Multi": 310000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 33,
+		"Multi": 320000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 34,
+		"Multi": 330000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 35,
+		"Multi": 340000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 36,
+		"Multi": 350000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 37,
+		"Multi": 360000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 38,
+		"Multi": 370000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 39,
+		"Multi": 380000,
+		"PrecentAttrIdList": "1003|1101|1202"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 40,
+		"Multi": 390000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 41,
+		"Multi": 400000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 40,
+		"GodBookId": 6852,
+		"Level": 42,
+		"Multi": 410000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 43,
+		"Multi": 420000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 44,
+		"Multi": 430000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 45,
+		"Multi": 440000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 46,
+		"Multi": 450000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 47,
+		"Multi": 460000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 48,
+		"Multi": 470000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 49,
+		"Multi": 480000,
+		"PrecentAttrIdList": "1004|1102|1203|1301"
+	},
+	{
+		"Desc": "3阶天书",
+		"Exp": 50,
+		"GodBookId": 6852,
+		"Level": 50,
+		"Multi": 490000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 50,
+		"GodBookId": 6853,
+		"Level": 51,
+		"Multi": 500000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 50,
+		"GodBookId": 6853,
+		"Level": 52,
+		"Multi": 510000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 53,
+		"Multi": 520000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 54,
+		"Multi": 530000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 55,
+		"Multi": 540000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 56,
+		"Multi": 550000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 57,
+		"Multi": 560000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 58,
+		"Multi": 570000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 59,
+		"Multi": 580000,
+		"PrecentAttrIdList": "1005|1103|1204|1302"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 60,
+		"Multi": 590000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 61,
+		"Multi": 600000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 60,
+		"GodBookId": 6853,
+		"Level": 62,
+		"Multi": 610000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 63,
+		"Multi": 620000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 64,
+		"Multi": 630000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 65,
+		"Multi": 640000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 66,
+		"Multi": 650000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 67,
+		"Multi": 660000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 68,
+		"Multi": 670000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 69,
+		"Multi": 680000,
+		"PrecentAttrIdList": "1006|1104|1205|1303"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 70,
+		"Multi": 690000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 71,
+		"Multi": 700000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 70,
+		"GodBookId": 6853,
+		"Level": 72,
+		"Multi": 710000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 73,
+		"Multi": 720000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 74,
+		"Multi": 730000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 75,
+		"Multi": 740000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 76,
+		"Multi": 750000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 77,
+		"Multi": 760000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 78,
+		"Multi": 770000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 79,
+		"Multi": 780000,
+		"PrecentAttrIdList": "1007|1105|1206|1304"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 80,
+		"Multi": 790000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 81,
+		"Multi": 800000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 80,
+		"GodBookId": 6853,
+		"Level": 82,
+		"Multi": 810000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 83,
+		"Multi": 820000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 84,
+		"Multi": 830000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 85,
+		"Multi": 840000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 86,
+		"Multi": 850000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 87,
+		"Multi": 860000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 88,
+		"Multi": 870000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 89,
+		"Multi": 880000,
+		"PrecentAttrIdList": "1008|1106|1207|1305"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 90,
+		"Multi": 890000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 91,
+		"Multi": 900000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 90,
+		"GodBookId": 6853,
+		"Level": 92,
+		"Multi": 910000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 93,
+		"Multi": 920000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 94,
+		"Multi": 930000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 95,
+		"Multi": 940000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 96,
+		"Multi": 950000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 97,
+		"Multi": 960000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 98,
+		"Multi": 970000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 99,
+		"Multi": 980000,
+		"PrecentAttrIdList": "1009|1107|1208|1306"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 100,
+		"Multi": 990000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 101,
+		"Multi": 1000000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 102,
+		"Multi": 1010000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 103,
+		"Multi": 1020000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 104,
+		"Multi": 1030000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 105,
+		"Multi": 1040000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 106,
+		"Multi": 1050000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 107,
+		"Multi": 1060000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 108,
+		"Multi": 1070000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 109,
+		"Multi": 1080000,
+		"PrecentAttrIdList": "1010|1108|1209|1307"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 110,
+		"Multi": 1090000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 111,
+		"Multi": 1100000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 112,
+		"Multi": 1110000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 113,
+		"Multi": 1120000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 114,
+		"Multi": 1130000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 115,
+		"Multi": 1140000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 116,
+		"Multi": 1150000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 117,
+		"Multi": 1160000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "4阶天书",
+		"Exp": 100,
+		"GodBookId": 6853,
+		"Level": 118,
+		"Multi": 1170000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 119,
+		"Multi": 1180000,
+		"PrecentAttrIdList": "1011|1109|1210|1308"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 120,
+		"Multi": 1190000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 121,
+		"Multi": 1200000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 122,
+		"Multi": 1210000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 123,
+		"Multi": 1220000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 124,
+		"Multi": 1230000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 125,
+		"Multi": 1240000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 126,
+		"Multi": 1250000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 127,
+		"Multi": 1260000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 128,
+		"Multi": 1270000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 129,
+		"Multi": 1280000,
+		"PrecentAttrIdList": "1012|1110|1211|1309"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 130,
+		"Multi": 1290000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 131,
+		"Multi": 1300000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 132,
+		"Multi": 1310000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 133,
+		"Multi": 1320000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 134,
+		"Multi": 1330000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 135,
+		"Multi": 1340000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 136,
+		"Multi": 1350000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 137,
+		"Multi": 1360000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 138,
+		"Multi": 1370000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 139,
+		"Multi": 1380000,
+		"PrecentAttrIdList": "1013|1112|1211|1310"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 140,
+		"Multi": 1390000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 141,
+		"Multi": 1400000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 142,
+		"Multi": 1410000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 143,
+		"Multi": 1420000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 144,
+		"Multi": 1430000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 145,
+		"Multi": 1440000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 146,
+		"Multi": 1450000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 147,
+		"Multi": 1460000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 148,
+		"Multi": 1470000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 149,
+		"Multi": 1480000,
+		"PrecentAttrIdList": "1014|1112|1213|1311"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 150,
+		"Multi": 1490000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 151,
+		"Multi": 1500000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 152,
+		"Multi": 1510000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 153,
+		"Multi": 1520000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 154,
+		"Multi": 1530000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 155,
+		"Multi": 1540000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 156,
+		"Multi": 1550000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 157,
+		"Multi": 1560000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 158,
+		"Multi": 1570000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 159,
+		"Multi": 1580000,
+		"PrecentAttrIdList": "1015|1113|1214|1312"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 160,
+		"Multi": 1590000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 161,
+		"Multi": 1600000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 162,
+		"Multi": 1610000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 163,
+		"Multi": 1620000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 164,
+		"Multi": 1630000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 165,
+		"Multi": 1640000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 166,
+		"Multi": 1650000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 167,
+		"Multi": 1660000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 168,
+		"Multi": 1670000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 169,
+		"Multi": 1680000,
+		"PrecentAttrIdList": "1016|1114|1215|1313"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 170,
+		"Multi": 1690000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 171,
+		"Multi": 1700000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 172,
+		"Multi": 1710000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 173,
+		"Multi": 1720000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 174,
+		"Multi": 1730000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 175,
+		"Multi": 1740000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 176,
+		"Multi": 1750000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 177,
+		"Multi": 1760000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 178,
+		"Multi": 1770000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 179,
+		"Multi": 1780000,
+		"PrecentAttrIdList": "1016|1115|1216|1314"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 180,
+		"Multi": 1790000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 181,
+		"Multi": 1800000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 182,
+		"Multi": 1810000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 183,
+		"Multi": 1820000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 184,
+		"Multi": 1830000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 185,
+		"Multi": 1840000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 186,
+		"Multi": 1850000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 187,
+		"Multi": 1860000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 188,
+		"Multi": 1870000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 189,
+		"Multi": 1880000,
+		"PrecentAttrIdList": "1016|1116|1216|1315"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 190,
+		"Multi": 1890000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 191,
+		"Multi": 1900000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 192,
+		"Multi": 1910000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 193,
+		"Multi": 1920000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 194,
+		"Multi": 1930000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 195,
+		"Multi": 1940000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 196,
+		"Multi": 1950000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 197,
+		"Multi": 1960000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 198,
+		"Multi": 1970000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 199,
+		"Multi": 1980000,
+		"PrecentAttrIdList": "1016|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 100,
+		"GodBookId": 6854,
+		"Level": 200,
+		"Multi": 1990000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 110,
+		"GodBookId": 6854,
+		"Level": 201,
+		"Multi": 2000000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 120,
+		"GodBookId": 6854,
+		"Level": 202,
+		"Multi": 2010000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 130,
+		"GodBookId": 6854,
+		"Level": 203,
+		"Multi": 2020000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 140,
+		"GodBookId": 6854,
+		"Level": 204,
+		"Multi": 2030000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 150,
+		"GodBookId": 6854,
+		"Level": 205,
+		"Multi": 2040000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 160,
+		"GodBookId": 6854,
+		"Level": 206,
+		"Multi": 2050000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 170,
+		"GodBookId": 6854,
+		"Level": 207,
+		"Multi": 2060000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 180,
+		"GodBookId": 6854,
+		"Level": 208,
+		"Multi": 2070000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 190,
+		"GodBookId": 6854,
+		"Level": 209,
+		"Multi": 2080000,
+		"PrecentAttrIdList": "1017|1116|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 200,
+		"GodBookId": 6854,
+		"Level": 210,
+		"Multi": 2090000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 210,
+		"GodBookId": 6854,
+		"Level": 211,
+		"Multi": 2100000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 220,
+		"GodBookId": 6854,
+		"Level": 212,
+		"Multi": 2110000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 230,
+		"GodBookId": 6854,
+		"Level": 213,
+		"Multi": 2120000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 240,
+		"GodBookId": 6854,
+		"Level": 214,
+		"Multi": 2130000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 250,
+		"GodBookId": 6854,
+		"Level": 215,
+		"Multi": 2140000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 260,
+		"GodBookId": 6854,
+		"Level": 216,
+		"Multi": 2150000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 270,
+		"GodBookId": 6854,
+		"Level": 217,
+		"Multi": 2160000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 280,
+		"GodBookId": 6854,
+		"Level": 218,
+		"Multi": 2170000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 290,
+		"GodBookId": 6854,
+		"Level": 219,
+		"Multi": 2180000,
+		"PrecentAttrIdList": "1017|1117|1216|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 300,
+		"GodBookId": 6854,
+		"Level": 220,
+		"Multi": 2190000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 310,
+		"GodBookId": 6854,
+		"Level": 221,
+		"Multi": 2200000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 320,
+		"GodBookId": 6854,
+		"Level": 222,
+		"Multi": 2210000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 330,
+		"GodBookId": 6854,
+		"Level": 223,
+		"Multi": 2220000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 340,
+		"GodBookId": 6854,
+		"Level": 224,
+		"Multi": 2230000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 350,
+		"GodBookId": 6854,
+		"Level": 225,
+		"Multi": 2240000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 360,
+		"GodBookId": 6854,
+		"Level": 226,
+		"Multi": 2250000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 370,
+		"GodBookId": 6854,
+		"Level": 227,
+		"Multi": 2260000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 380,
+		"GodBookId": 6854,
+		"Level": 228,
+		"Multi": 2270000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 390,
+		"GodBookId": 6854,
+		"Level": 229,
+		"Multi": 2280000,
+		"PrecentAttrIdList": "1017|1117|1217|1316"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 400,
+		"GodBookId": 6854,
+		"Level": 230,
+		"Multi": 2290000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 410,
+		"GodBookId": 6854,
+		"Level": 231,
+		"Multi": 2300000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 420,
+		"GodBookId": 6854,
+		"Level": 232,
+		"Multi": 2310000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 430,
+		"GodBookId": 6854,
+		"Level": 233,
+		"Multi": 2320000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 440,
+		"GodBookId": 6854,
+		"Level": 234,
+		"Multi": 2330000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 450,
+		"GodBookId": 6854,
+		"Level": 235,
+		"Multi": 2340000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 460,
+		"GodBookId": 6854,
+		"Level": 236,
+		"Multi": 2350000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 470,
+		"GodBookId": 6854,
+		"Level": 237,
+		"Multi": 2360000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 480,
+		"GodBookId": 6854,
+		"Level": 238,
+		"Multi": 2370000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 490,
+		"GodBookId": 6854,
+		"Level": 239,
+		"Multi": 2380000,
+		"PrecentAttrIdList": "1017|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 500,
+		"GodBookId": 6854,
+		"Level": 240,
+		"Multi": 2390000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 510,
+		"GodBookId": 6854,
+		"Level": 241,
+		"Multi": 2400000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 520,
+		"GodBookId": 6854,
+		"Level": 242,
+		"Multi": 2410000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 530,
+		"GodBookId": 6854,
+		"Level": 243,
+		"Multi": 2420000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 540,
+		"GodBookId": 6854,
+		"Level": 244,
+		"Multi": 2430000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 550,
+		"GodBookId": 6854,
+		"Level": 245,
+		"Multi": 2440000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 560,
+		"GodBookId": 6854,
+		"Level": 246,
+		"Multi": 2450000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 570,
+		"GodBookId": 6854,
+		"Level": 247,
+		"Multi": 2460000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 580,
+		"GodBookId": 6854,
+		"Level": 248,
+		"Multi": 2470000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 590,
+		"GodBookId": 6854,
+		"Level": 249,
+		"Multi": 2480000,
+		"PrecentAttrIdList": "1018|1117|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 600,
+		"GodBookId": 6854,
+		"Level": 250,
+		"Multi": 2490000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 610,
+		"GodBookId": 6854,
+		"Level": 251,
+		"Multi": 2500000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 620,
+		"GodBookId": 6854,
+		"Level": 252,
+		"Multi": 2510000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 630,
+		"GodBookId": 6854,
+		"Level": 253,
+		"Multi": 2520000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 640,
+		"GodBookId": 6854,
+		"Level": 254,
+		"Multi": 2530000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 650,
+		"GodBookId": 6854,
+		"Level": 255,
+		"Multi": 2540000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 660,
+		"GodBookId": 6854,
+		"Level": 256,
+		"Multi": 2550000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 670,
+		"GodBookId": 6854,
+		"Level": 257,
+		"Multi": 2560000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 680,
+		"GodBookId": 6854,
+		"Level": 258,
+		"Multi": 2570000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 690,
+		"GodBookId": 6854,
+		"Level": 259,
+		"Multi": 2580000,
+		"PrecentAttrIdList": "1018|1118|1217|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 700,
+		"GodBookId": 6854,
+		"Level": 260,
+		"Multi": 2590000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 710,
+		"GodBookId": 6854,
+		"Level": 261,
+		"Multi": 2600000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 720,
+		"GodBookId": 6854,
+		"Level": 262,
+		"Multi": 2610000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 730,
+		"GodBookId": 6854,
+		"Level": 263,
+		"Multi": 2620000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 740,
+		"GodBookId": 6854,
+		"Level": 264,
+		"Multi": 2630000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 750,
+		"GodBookId": 6854,
+		"Level": 265,
+		"Multi": 2640000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 760,
+		"GodBookId": 6854,
+		"Level": 266,
+		"Multi": 2650000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 770,
+		"GodBookId": 6854,
+		"Level": 267,
+		"Multi": 2660000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 780,
+		"GodBookId": 6854,
+		"Level": 268,
+		"Multi": 2670000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 790,
+		"GodBookId": 6854,
+		"Level": 269,
+		"Multi": 2680000,
+		"PrecentAttrIdList": "1018|1118|1218|1317"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 800,
+		"GodBookId": 6854,
+		"Level": 270,
+		"Multi": 2690000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 810,
+		"GodBookId": 6854,
+		"Level": 271,
+		"Multi": 2700000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 820,
+		"GodBookId": 6854,
+		"Level": 272,
+		"Multi": 2710000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 830,
+		"GodBookId": 6854,
+		"Level": 273,
+		"Multi": 2720000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 840,
+		"GodBookId": 6854,
+		"Level": 274,
+		"Multi": 2730000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 850,
+		"GodBookId": 6854,
+		"Level": 275,
+		"Multi": 2740000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 860,
+		"GodBookId": 6854,
+		"Level": 276,
+		"Multi": 2750000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 870,
+		"GodBookId": 6854,
+		"Level": 277,
+		"Multi": 2760000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 880,
+		"GodBookId": 6854,
+		"Level": 278,
+		"Multi": 2770000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 890,
+		"GodBookId": 6854,
+		"Level": 279,
+		"Multi": 2780000,
+		"PrecentAttrIdList": "1018|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 900,
+		"GodBookId": 6854,
+		"Level": 280,
+		"Multi": 2790000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 910,
+		"GodBookId": 6854,
+		"Level": 281,
+		"Multi": 2800000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 920,
+		"GodBookId": 6854,
+		"Level": 282,
+		"Multi": 2810000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 930,
+		"GodBookId": 6854,
+		"Level": 283,
+		"Multi": 2820000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 940,
+		"GodBookId": 6854,
+		"Level": 284,
+		"Multi": 2830000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 950,
+		"GodBookId": 6854,
+		"Level": 285,
+		"Multi": 2840000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 960,
+		"GodBookId": 6854,
+		"Level": 286,
+		"Multi": 2850000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 970,
+		"GodBookId": 6854,
+		"Level": 287,
+		"Multi": 2860000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 980,
+		"GodBookId": 6854,
+		"Level": 288,
+		"Multi": 2870000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 990,
+		"GodBookId": 6854,
+		"Level": 289,
+		"Multi": 2880000,
+		"PrecentAttrIdList": "1019|1118|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1000,
+		"GodBookId": 6854,
+		"Level": 290,
+		"Multi": 2890000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1010,
+		"GodBookId": 6854,
+		"Level": 291,
+		"Multi": 2900000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1020,
+		"GodBookId": 6854,
+		"Level": 292,
+		"Multi": 2910000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1030,
+		"GodBookId": 6854,
+		"Level": 293,
+		"Multi": 2920000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1040,
+		"GodBookId": 6854,
+		"Level": 294,
+		"Multi": 2930000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1050,
+		"GodBookId": 6854,
+		"Level": 295,
+		"Multi": 2940000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1060,
+		"GodBookId": 6854,
+		"Level": 296,
+		"Multi": 2950000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1070,
+		"GodBookId": 6854,
+		"Level": 297,
+		"Multi": 2960000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1080,
+		"GodBookId": 6854,
+		"Level": 298,
+		"Multi": 2970000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1090,
+		"GodBookId": 6854,
+		"Level": 299,
+		"Multi": 2980000,
+		"PrecentAttrIdList": "1019|1119|1218|1318"
+	},
+	{
+		"Desc": "5阶天书",
+		"Exp": 1100,
+		"GodBookId": 6854,
+		"Level": 300,
+		"Multi": 2990000,
+		"PrecentAttrIdList": "1019|1119|1219|1318"
+	}
+]

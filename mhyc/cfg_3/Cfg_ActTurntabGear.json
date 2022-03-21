@@ -1,0 +1,3082 @@
+[
+	{
+		"ActId": 51002,
+		"Gear": 1,
+		"Id": 101,
+		"Integral": 1000,
+		"Prize": "2250301:10"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 2,
+		"Id": 102,
+		"Integral": 2000,
+		"Prize": "2250301:30"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 3,
+		"Id": 103,
+		"Integral": 5000,
+		"Prize": "2250303:10"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 4,
+		"Id": 104,
+		"Integral": 10000,
+		"Prize": "2250305:5"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 5,
+		"Id": 105,
+		"Integral": 15000,
+		"Prize": "2250304:10"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 6,
+		"Id": 106,
+		"Integral": 20000,
+		"Prize": "1526:1"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 7,
+		"Id": 107,
+		"Integral": 30000,
+		"Prize": "2250305:10"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 8,
+		"Id": 108,
+		"Integral": 50000,
+		"Prize": "2250305:15"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 9,
+		"Id": 109,
+		"Integral": 75000,
+		"Prize": "2250305:20"
+	},
+	{
+		"ActId": 51002,
+		"Gear": 10,
+		"Id": 110,
+		"Integral": 100000,
+		"Prize": "1530:1"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 1,
+		"Id": 201,
+		"Integral": 1000,
+		"Prize": "2250201:10"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 2,
+		"Id": 202,
+		"Integral": 2000,
+		"Prize": "2250201:30"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 3,
+		"Id": 203,
+		"Integral": 5000,
+		"Prize": "2250203:10"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 4,
+		"Id": 204,
+		"Integral": 10000,
+		"Prize": "2250205:5"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 5,
+		"Id": 205,
+		"Integral": 15000,
+		"Prize": "2250204:10"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 6,
+		"Id": 206,
+		"Integral": 20000,
+		"Prize": "1514:1"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 7,
+		"Id": 207,
+		"Integral": 30000,
+		"Prize": "2250205:10"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 8,
+		"Id": 208,
+		"Integral": 50000,
+		"Prize": "2250205:15"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 9,
+		"Id": 209,
+		"Integral": 75000,
+		"Prize": "2250205:20"
+	},
+	{
+		"ActId": 51102,
+		"Gear": 10,
+		"Id": 210,
+		"Integral": 100000,
+		"Prize": "1512:1"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 1,
+		"Id": 301,
+		"Integral": 1000,
+		"Prize": "2040001:10"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 2,
+		"Id": 302,
+		"Integral": 2000,
+		"Prize": "2040001:30"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 3,
+		"Id": 303,
+		"Integral": 5000,
+		"Prize": "4010101:5"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 4,
+		"Id": 304,
+		"Integral": 10000,
+		"Prize": "2040221:1"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 5,
+		"Id": 305,
+		"Integral": 15000,
+		"Prize": "4010101:8"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 6,
+		"Id": 306,
+		"Integral": 20000,
+		"Prize": "2040231:1"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 7,
+		"Id": 307,
+		"Integral": 30000,
+		"Prize": "4010101:10"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 8,
+		"Id": 308,
+		"Integral": 50000,
+		"Prize": "4010101:15"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 9,
+		"Id": 309,
+		"Integral": 75000,
+		"Prize": "4010101:20"
+	},
+	{
+		"ActId": 51202,
+		"Gear": 10,
+		"Id": 310,
+		"Integral": 100000,
+		"Prize": "2040242:1"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 1,
+		"Id": 401,
+		"Integral": 1000,
+		"Prize": "2250101:10"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 2,
+		"Id": 402,
+		"Integral": 2000,
+		"Prize": "2250101:30"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 3,
+		"Id": 403,
+		"Integral": 5000,
+		"Prize": "2250103:10"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 4,
+		"Id": 404,
+		"Integral": 10000,
+		"Prize": "2250105:5"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 5,
+		"Id": 405,
+		"Integral": 15000,
+		"Prize": "2250104:10"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 6,
+		"Id": 406,
+		"Integral": 20000,
+		"Prize": "1516:1"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 7,
+		"Id": 407,
+		"Integral": 30000,
+		"Prize": "2250105:10"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 8,
+		"Id": 408,
+		"Integral": 50000,
+		"Prize": "2250105:15"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 9,
+		"Id": 409,
+		"Integral": 75000,
+		"Prize": "2250105:20"
+	},
+	{
+		"ActId": 51302,
+		"Gear": 10,
+		"Id": 410,
+		"Integral": 100000,
+		"Prize": "1520:1"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 1,
+		"Id": 501,
+		"Integral": 1000,
+		"Prize": "2030201:10"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 2,
+		"Id": 502,
+		"Integral": 2000,
+		"Prize": "2030201:30"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 3,
+		"Id": 503,
+		"Integral": 5000,
+		"Prize": "2030202:2"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 4,
+		"Id": 504,
+		"Integral": 10000,
+		"Prize": "2030202:5"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 5,
+		"Id": 505,
+		"Integral": 15000,
+		"Prize": "2030202:8"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 6,
+		"Id": 506,
+		"Integral": 20000,
+		"Prize": "2030102:1"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 7,
+		"Id": 507,
+		"Integral": 30000,
+		"Prize": "2030202:12"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 8,
+		"Id": 508,
+		"Integral": 50000,
+		"Prize": "2030202:18"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 9,
+		"Id": 509,
+		"Integral": 75000,
+		"Prize": "2030202:20"
+	},
+	{
+		"ActId": 51402,
+		"Gear": 10,
+		"Id": 510,
+		"Integral": 100000,
+		"Prize": "2030106:1"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 1,
+		"Id": 601,
+		"Integral": 1000,
+		"Prize": "2030401:10"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 2,
+		"Id": 602,
+		"Integral": 2000,
+		"Prize": "2030401:30"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 3,
+		"Id": 603,
+		"Integral": 5000,
+		"Prize": "2030402:2"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 4,
+		"Id": 604,
+		"Integral": 10000,
+		"Prize": "2030401:15"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 5,
+		"Id": 605,
+		"Integral": 15000,
+		"Prize": "2030403:10"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 6,
+		"Id": 606,
+		"Integral": 20000,
+		"Prize": "2030302:1"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 7,
+		"Id": 607,
+		"Integral": 30000,
+		"Prize": "2030402:12"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 8,
+		"Id": 608,
+		"Integral": 50000,
+		"Prize": "2030402:18"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 9,
+		"Id": 609,
+		"Integral": 75000,
+		"Prize": "2030402:20"
+	},
+	{
+		"ActId": 51502,
+		"Gear": 10,
+		"Id": 610,
+		"Integral": 100000,
+		"Prize": "2030306:1"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 1,
+		"Id": 701,
+		"Integral": 1000,
+		"Prize": "2250401:10"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 2,
+		"Id": 702,
+		"Integral": 2000,
+		"Prize": "2250401:30"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 3,
+		"Id": 703,
+		"Integral": 5000,
+		"Prize": "2250403:10"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 4,
+		"Id": 704,
+		"Integral": 10000,
+		"Prize": "2250405:5"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 5,
+		"Id": 705,
+		"Integral": 15000,
+		"Prize": "2250404:10"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 6,
+		"Id": 706,
+		"Integral": 20000,
+		"Prize": "1701:1"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 7,
+		"Id": 707,
+		"Integral": 30000,
+		"Prize": "2250405:10"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 8,
+		"Id": 708,
+		"Integral": 50000,
+		"Prize": "2250405:15"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 9,
+		"Id": 709,
+		"Integral": 75000,
+		"Prize": "2250405:20"
+	},
+	{
+		"ActId": 51602,
+		"Gear": 10,
+		"Id": 710,
+		"Integral": 100000,
+		"Prize": "1714:1"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 1,
+		"Id": 801,
+		"Integral": 1000,
+		"Prize": "2010004:1"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 2,
+		"Id": 802,
+		"Integral": 2000,
+		"Prize": "500:5"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 3,
+		"Id": 803,
+		"Integral": 5000,
+		"Prize": "2010004:3"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 4,
+		"Id": 804,
+		"Integral": 10000,
+		"Prize": "2021507:1"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 5,
+		"Id": 805,
+		"Integral": 15000,
+		"Prize": "2010004:6"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 6,
+		"Id": 806,
+		"Integral": 20000,
+		"Prize": "502:3"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 7,
+		"Id": 807,
+		"Integral": 30000,
+		"Prize": "2010004:10"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 8,
+		"Id": 808,
+		"Integral": 50000,
+		"Prize": "501:10"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 9,
+		"Id": 809,
+		"Integral": 75000,
+		"Prize": "2010004:25"
+	},
+	{
+		"ActId": 51702,
+		"Gear": 10,
+		"Id": 810,
+		"Integral": 100000,
+		"Prize": "2021658:1"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 1,
+		"Id": 901,
+		"Integral": 1000,
+		"Prize": "2250501:10"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 2,
+		"Id": 902,
+		"Integral": 2000,
+		"Prize": "2250501:30"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 3,
+		"Id": 903,
+		"Integral": 5000,
+		"Prize": "2250503:5"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 4,
+		"Id": 904,
+		"Integral": 10000,
+		"Prize": "3013001:5"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 5,
+		"Id": 905,
+		"Integral": 15000,
+		"Prize": "2250503:10"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 6,
+		"Id": 906,
+		"Integral": 20000,
+		"Prize": "3011004:1"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 7,
+		"Id": 907,
+		"Integral": 30000,
+		"Prize": "3013001:10"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 8,
+		"Id": 908,
+		"Integral": 50000,
+		"Prize": "3013001:15"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 9,
+		"Id": 909,
+		"Integral": 75000,
+		"Prize": "3013001:20"
+	},
+	{
+		"ActId": 51802,
+		"Gear": 10,
+		"Id": 910,
+		"Integral": 100000,
+		"Prize": "3011001:1"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 1,
+		"Id": 1001,
+		"Integral": 1000,
+		"Prize": "2250601:10"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 2,
+		"Id": 1002,
+		"Integral": 2000,
+		"Prize": "2250601:30"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 3,
+		"Id": 1003,
+		"Integral": 5000,
+		"Prize": "2250603:5"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 4,
+		"Id": 1004,
+		"Integral": 10000,
+		"Prize": "3013001:5"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 5,
+		"Id": 1005,
+		"Integral": 15000,
+		"Prize": "2250603:10"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 6,
+		"Id": 1006,
+		"Integral": 20000,
+		"Prize": "3011004:1"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 7,
+		"Id": 1007,
+		"Integral": 30000,
+		"Prize": "3013001:10"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 8,
+		"Id": 1008,
+		"Integral": 50000,
+		"Prize": "3013001:15"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 9,
+		"Id": 1009,
+		"Integral": 75000,
+		"Prize": "3013001:20"
+	},
+	{
+		"ActId": 51902,
+		"Gear": 10,
+		"Id": 1010,
+		"Integral": 100000,
+		"Prize": "3011001:1"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 1,
+		"Id": 5001,
+		"Integral": 1000,
+		"Prize": "2250301:10"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 2,
+		"Id": 5002,
+		"Integral": 2000,
+		"Prize": "2250301:30"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 3,
+		"Id": 5003,
+		"Integral": 5000,
+		"Prize": "2250303:10"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 4,
+		"Id": 5004,
+		"Integral": 10000,
+		"Prize": "2250305:5"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 5,
+		"Id": 5005,
+		"Integral": 15000,
+		"Prize": "2250304:10"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 6,
+		"Id": 5006,
+		"Integral": 20000,
+		"Prize": "1526:1"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 7,
+		"Id": 5007,
+		"Integral": 30000,
+		"Prize": "2250305:10"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 8,
+		"Id": 5008,
+		"Integral": 50000,
+		"Prize": "2250305:15"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 9,
+		"Id": 5009,
+		"Integral": 75000,
+		"Prize": "2250305:20"
+	},
+	{
+		"ActId": 53007,
+		"Gear": 10,
+		"Id": 5010,
+		"Integral": 100000,
+		"Prize": "1530:1"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 1,
+		"Id": 5101,
+		"Integral": 1000,
+		"Prize": "2250201:10"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 2,
+		"Id": 5102,
+		"Integral": 2000,
+		"Prize": "2250201:30"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 3,
+		"Id": 5103,
+		"Integral": 5000,
+		"Prize": "2250203:10"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 4,
+		"Id": 5104,
+		"Integral": 10000,
+		"Prize": "2250205:5"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 5,
+		"Id": 5105,
+		"Integral": 15000,
+		"Prize": "2250204:10"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 6,
+		"Id": 5106,
+		"Integral": 20000,
+		"Prize": "1514:1"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 7,
+		"Id": 5107,
+		"Integral": 30000,
+		"Prize": "2250205:10"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 8,
+		"Id": 5108,
+		"Integral": 50000,
+		"Prize": "2250205:15"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 9,
+		"Id": 5109,
+		"Integral": 75000,
+		"Prize": "2250205:20"
+	},
+	{
+		"ActId": 53107,
+		"Gear": 10,
+		"Id": 5110,
+		"Integral": 100000,
+		"Prize": "1512:1"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 1,
+		"Id": 5201,
+		"Integral": 1000,
+		"Prize": "2040001:10"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 2,
+		"Id": 5202,
+		"Integral": 2000,
+		"Prize": "2040001:30"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 3,
+		"Id": 5203,
+		"Integral": 5000,
+		"Prize": "4010101:5"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 4,
+		"Id": 5204,
+		"Integral": 10000,
+		"Prize": "2040221:1"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 5,
+		"Id": 5205,
+		"Integral": 15000,
+		"Prize": "4010101:8"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 6,
+		"Id": 5206,
+		"Integral": 20000,
+		"Prize": "2040231:1"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 7,
+		"Id": 5207,
+		"Integral": 30000,
+		"Prize": "4010101:10"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 8,
+		"Id": 5208,
+		"Integral": 50000,
+		"Prize": "4010101:15"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 9,
+		"Id": 5209,
+		"Integral": 75000,
+		"Prize": "4010101:20"
+	},
+	{
+		"ActId": 53207,
+		"Gear": 10,
+		"Id": 5210,
+		"Integral": 100000,
+		"Prize": "2040242:1"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 1,
+		"Id": 5301,
+		"Integral": 1000,
+		"Prize": "2250101:10"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 2,
+		"Id": 5302,
+		"Integral": 2000,
+		"Prize": "2250101:30"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 3,
+		"Id": 5303,
+		"Integral": 5000,
+		"Prize": "2250103:10"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 4,
+		"Id": 5304,
+		"Integral": 10000,
+		"Prize": "2250105:5"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 5,
+		"Id": 5305,
+		"Integral": 15000,
+		"Prize": "2250104:10"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 6,
+		"Id": 5306,
+		"Integral": 20000,
+		"Prize": "1516:1"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 7,
+		"Id": 5307,
+		"Integral": 30000,
+		"Prize": "2250105:10"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 8,
+		"Id": 5308,
+		"Integral": 50000,
+		"Prize": "2250105:15"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 9,
+		"Id": 5309,
+		"Integral": 75000,
+		"Prize": "2250105:20"
+	},
+	{
+		"ActId": 53307,
+		"Gear": 10,
+		"Id": 5310,
+		"Integral": 100000,
+		"Prize": "1520:1"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 1,
+		"Id": 5401,
+		"Integral": 1000,
+		"Prize": "2030201:10"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 2,
+		"Id": 5402,
+		"Integral": 2000,
+		"Prize": "2030201:30"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 3,
+		"Id": 5403,
+		"Integral": 5000,
+		"Prize": "2030202:2"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 4,
+		"Id": 5404,
+		"Integral": 10000,
+		"Prize": "2030202:5"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 5,
+		"Id": 5405,
+		"Integral": 15000,
+		"Prize": "2030202:8"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 6,
+		"Id": 5406,
+		"Integral": 20000,
+		"Prize": "2030102:1"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 7,
+		"Id": 5407,
+		"Integral": 30000,
+		"Prize": "2030202:12"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 8,
+		"Id": 5408,
+		"Integral": 50000,
+		"Prize": "2030202:18"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 9,
+		"Id": 5409,
+		"Integral": 75000,
+		"Prize": "2030202:20"
+	},
+	{
+		"ActId": 53407,
+		"Gear": 10,
+		"Id": 5410,
+		"Integral": 100000,
+		"Prize": "2030106:1"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 1,
+		"Id": 5501,
+		"Integral": 1000,
+		"Prize": "2030401:10"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 2,
+		"Id": 5502,
+		"Integral": 2000,
+		"Prize": "2030401:30"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 3,
+		"Id": 5503,
+		"Integral": 5000,
+		"Prize": "2030402:2"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 4,
+		"Id": 5504,
+		"Integral": 10000,
+		"Prize": "2030401:15"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 5,
+		"Id": 5505,
+		"Integral": 15000,
+		"Prize": "2030403:10"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 6,
+		"Id": 5506,
+		"Integral": 20000,
+		"Prize": "2030302:1"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 7,
+		"Id": 5507,
+		"Integral": 30000,
+		"Prize": "2030402:12"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 8,
+		"Id": 5508,
+		"Integral": 50000,
+		"Prize": "2030402:18"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 9,
+		"Id": 5509,
+		"Integral": 75000,
+		"Prize": "2030402:20"
+	},
+	{
+		"ActId": 53507,
+		"Gear": 10,
+		"Id": 5510,
+		"Integral": 100000,
+		"Prize": "2030306:1"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 1,
+		"Id": 5601,
+		"Integral": 1000,
+		"Prize": "2250401:10"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 2,
+		"Id": 5602,
+		"Integral": 2000,
+		"Prize": "2250401:30"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 3,
+		"Id": 5603,
+		"Integral": 5000,
+		"Prize": "2250403:10"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 4,
+		"Id": 5604,
+		"Integral": 10000,
+		"Prize": "2250405:5"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 5,
+		"Id": 5605,
+		"Integral": 15000,
+		"Prize": "2250404:10"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 6,
+		"Id": 5606,
+		"Integral": 20000,
+		"Prize": "1701:1"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 7,
+		"Id": 5607,
+		"Integral": 30000,
+		"Prize": "2250405:10"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 8,
+		"Id": 5608,
+		"Integral": 50000,
+		"Prize": "2250405:15"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 9,
+		"Id": 5609,
+		"Integral": 75000,
+		"Prize": "2250405:20"
+	},
+	{
+		"ActId": 53607,
+		"Gear": 10,
+		"Id": 5610,
+		"Integral": 100000,
+		"Prize": "1714:1"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 1,
+		"Id": 5701,
+		"Integral": 1000,
+		"Prize": "2010004:1"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 2,
+		"Id": 5702,
+		"Integral": 2000,
+		"Prize": "500:5"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 3,
+		"Id": 5703,
+		"Integral": 5000,
+		"Prize": "2010004:3"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 4,
+		"Id": 5704,
+		"Integral": 10000,
+		"Prize": "2021507:1"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 5,
+		"Id": 5705,
+		"Integral": 15000,
+		"Prize": "2010004:6"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 6,
+		"Id": 5706,
+		"Integral": 20000,
+		"Prize": "502:3"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 7,
+		"Id": 5707,
+		"Integral": 30000,
+		"Prize": "2010004:10"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 8,
+		"Id": 5708,
+		"Integral": 50000,
+		"Prize": "501:10"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 9,
+		"Id": 5709,
+		"Integral": 75000,
+		"Prize": "2010004:25"
+	},
+	{
+		"ActId": 53707,
+		"Gear": 10,
+		"Id": 5710,
+		"Integral": 100000,
+		"Prize": "2021658:1"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 1,
+		"Id": 5801,
+		"Integral": 1000,
+		"Prize": "5014100:10"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 2,
+		"Id": 5802,
+		"Integral": 2000,
+		"Prize": "5014101:30"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 3,
+		"Id": 5803,
+		"Integral": 5000,
+		"Prize": "5014112:1"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 4,
+		"Id": 5804,
+		"Integral": 10000,
+		"Prize": "2403301:1"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 5,
+		"Id": 5805,
+		"Integral": 15000,
+		"Prize": "5014112:2"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 6,
+		"Id": 5806,
+		"Integral": 20000,
+		"Prize": "2403302:1"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 7,
+		"Id": 5807,
+		"Integral": 30000,
+		"Prize": "5014111:50"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 8,
+		"Id": 5808,
+		"Integral": 50000,
+		"Prize": "5014111:100"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 9,
+		"Id": 5809,
+		"Integral": 75000,
+		"Prize": "2403303:1"
+	},
+	{
+		"ActId": 53807,
+		"Gear": 10,
+		"Id": 5810,
+		"Integral": 100000,
+		"Prize": "5016111:1"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 1,
+		"Id": 5901,
+		"Integral": 1000,
+		"Prize": "2250601:10"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 2,
+		"Id": 5902,
+		"Integral": 2000,
+		"Prize": "2250601:30"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 3,
+		"Id": 5903,
+		"Integral": 5000,
+		"Prize": "2250603:5"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 4,
+		"Id": 5904,
+		"Integral": 10000,
+		"Prize": "3013001:5"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 5,
+		"Id": 5905,
+		"Integral": 15000,
+		"Prize": "2250603:10"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 6,
+		"Id": 5906,
+		"Integral": 20000,
+		"Prize": "3011004:1"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 7,
+		"Id": 5907,
+		"Integral": 30000,
+		"Prize": "3013001:10"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 8,
+		"Id": 5908,
+		"Integral": 50000,
+		"Prize": "3013001:15"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 9,
+		"Id": 5909,
+		"Integral": 75000,
+		"Prize": "3013001:20"
+	},
+	{
+		"ActId": 53907,
+		"Gear": 10,
+		"Id": 5910,
+		"Integral": 100000,
+		"Prize": "3011001:1"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 1,
+		"Id": 10001,
+		"Integral": 1000,
+		"Prize": "5014100:10"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 2,
+		"Id": 10002,
+		"Integral": 2000,
+		"Prize": "5014101:30"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 3,
+		"Id": 10003,
+		"Integral": 5000,
+		"Prize": "5014112:1"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 4,
+		"Id": 10004,
+		"Integral": 10000,
+		"Prize": "2403301:1"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 5,
+		"Id": 10005,
+		"Integral": 15000,
+		"Prize": "5014112:2"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 6,
+		"Id": 10006,
+		"Integral": 20000,
+		"Prize": "2403302:1"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 7,
+		"Id": 10007,
+		"Integral": 30000,
+		"Prize": "5014111:50"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 8,
+		"Id": 10008,
+		"Integral": 50000,
+		"Prize": "5014111:100"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 9,
+		"Id": 10009,
+		"Integral": 75000,
+		"Prize": "2403303:1"
+	},
+	{
+		"ActId": 55007,
+		"Gear": 10,
+		"Id": 10010,
+		"Integral": 100000,
+		"Prize": "5016111:1"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 1,
+		"Id": 10101,
+		"Integral": 1000,
+		"Prize": "2250301:10"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 2,
+		"Id": 10102,
+		"Integral": 2000,
+		"Prize": "2250301:30"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 3,
+		"Id": 10103,
+		"Integral": 5000,
+		"Prize": "2250303:10"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 4,
+		"Id": 10104,
+		"Integral": 10000,
+		"Prize": "2250305:5"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 5,
+		"Id": 10105,
+		"Integral": 15000,
+		"Prize": "2250304:10"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 6,
+		"Id": 10106,
+		"Integral": 20000,
+		"Prize": "1526:1"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 7,
+		"Id": 10107,
+		"Integral": 30000,
+		"Prize": "2250305:10"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 8,
+		"Id": 10108,
+		"Integral": 50000,
+		"Prize": "2250305:15"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 9,
+		"Id": 10109,
+		"Integral": 75000,
+		"Prize": "2250305:20"
+	},
+	{
+		"ActId": 55107,
+		"Gear": 10,
+		"Id": 10110,
+		"Integral": 100000,
+		"Prize": "1530:1"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 1,
+		"Id": 10201,
+		"Integral": 1000,
+		"Prize": "2250201:10"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 2,
+		"Id": 10202,
+		"Integral": 2000,
+		"Prize": "2250201:30"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 3,
+		"Id": 10203,
+		"Integral": 5000,
+		"Prize": "2250203:10"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 4,
+		"Id": 10204,
+		"Integral": 10000,
+		"Prize": "2250205:5"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 5,
+		"Id": 10205,
+		"Integral": 15000,
+		"Prize": "2250204:10"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 6,
+		"Id": 10206,
+		"Integral": 20000,
+		"Prize": "1514:1"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 7,
+		"Id": 10207,
+		"Integral": 30000,
+		"Prize": "2250205:10"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 8,
+		"Id": 10208,
+		"Integral": 50000,
+		"Prize": "2250205:15"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 9,
+		"Id": 10209,
+		"Integral": 75000,
+		"Prize": "2250205:20"
+	},
+	{
+		"ActId": 55207,
+		"Gear": 10,
+		"Id": 10210,
+		"Integral": 100000,
+		"Prize": "1512:1"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 1,
+		"Id": 10301,
+		"Integral": 1000,
+		"Prize": "2060199:10"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 2,
+		"Id": 10302,
+		"Integral": 2000,
+		"Prize": "2060199:30"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 3,
+		"Id": 10303,
+		"Integral": 5000,
+		"Prize": "2060200:5"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 4,
+		"Id": 10304,
+		"Integral": 10000,
+		"Prize": "2060200:5"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 5,
+		"Id": 10305,
+		"Integral": 15000,
+		"Prize": "2060101:10"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 6,
+		"Id": 10306,
+		"Integral": 20000,
+		"Prize": "3011004:1"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 7,
+		"Id": 10307,
+		"Integral": 30000,
+		"Prize": "2060102:10"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 8,
+		"Id": 10308,
+		"Integral": 50000,
+		"Prize": "2060103:15"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 9,
+		"Id": 10309,
+		"Integral": 75000,
+		"Prize": "2060104:20"
+	},
+	{
+		"ActId": 55307,
+		"Gear": 10,
+		"Id": 10310,
+		"Integral": 100000,
+		"Prize": "2060201:1"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 1,
+		"Id": 10401,
+		"Integral": 1000,
+		"Prize": "2040001:10"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 2,
+		"Id": 10402,
+		"Integral": 2000,
+		"Prize": "2040001:30"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 3,
+		"Id": 10403,
+		"Integral": 5000,
+		"Prize": "4010101:5"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 4,
+		"Id": 10404,
+		"Integral": 10000,
+		"Prize": "2040221:1"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 5,
+		"Id": 10405,
+		"Integral": 15000,
+		"Prize": "4010101:8"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 6,
+		"Id": 10406,
+		"Integral": 20000,
+		"Prize": "2040231:1"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 7,
+		"Id": 10407,
+		"Integral": 30000,
+		"Prize": "4010101:10"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 8,
+		"Id": 10408,
+		"Integral": 50000,
+		"Prize": "4010101:15"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 9,
+		"Id": 10409,
+		"Integral": 75000,
+		"Prize": "4010101:20"
+	},
+	{
+		"ActId": 55407,
+		"Gear": 10,
+		"Id": 10410,
+		"Integral": 100000,
+		"Prize": "2040242:1"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 1,
+		"Id": 10501,
+		"Integral": 1000,
+		"Prize": "2070171:10"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 2,
+		"Id": 10502,
+		"Integral": 2000,
+		"Prize": "2070171:30"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 3,
+		"Id": 10503,
+		"Integral": 5000,
+		"Prize": "2070171:50"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 4,
+		"Id": 10504,
+		"Integral": 10000,
+		"Prize": "2070151:5"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 5,
+		"Id": 10505,
+		"Integral": 15000,
+		"Prize": "2070231:10"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 6,
+		"Id": 10506,
+		"Integral": 20000,
+		"Prize": "2070253:1"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 7,
+		"Id": 10507,
+		"Integral": 30000,
+		"Prize": "2070231:10"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 8,
+		"Id": 10508,
+		"Integral": 50000,
+		"Prize": "2070231:20"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 9,
+		"Id": 10509,
+		"Integral": 75000,
+		"Prize": "2070151:20"
+	},
+	{
+		"ActId": 55507,
+		"Gear": 10,
+		"Id": 10510,
+		"Integral": 100000,
+		"Prize": "2070254:1"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 1,
+		"Id": 10601,
+		"Integral": 1000,
+		"Prize": "2250101:10"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 2,
+		"Id": 10602,
+		"Integral": 2000,
+		"Prize": "2250101:30"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 3,
+		"Id": 10603,
+		"Integral": 5000,
+		"Prize": "2250103:10"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 4,
+		"Id": 10604,
+		"Integral": 10000,
+		"Prize": "2250105:5"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 5,
+		"Id": 10605,
+		"Integral": 15000,
+		"Prize": "2250104:10"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 6,
+		"Id": 10606,
+		"Integral": 20000,
+		"Prize": "1516:1"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 7,
+		"Id": 10607,
+		"Integral": 30000,
+		"Prize": "2250105:10"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 8,
+		"Id": 10608,
+		"Integral": 50000,
+		"Prize": "2250105:15"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 9,
+		"Id": 10609,
+		"Integral": 75000,
+		"Prize": "2250105:20"
+	},
+	{
+		"ActId": 55607,
+		"Gear": 10,
+		"Id": 10610,
+		"Integral": 100000,
+		"Prize": "1520:1"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 1,
+		"Id": 10701,
+		"Integral": 1000,
+		"Prize": "2030201:10"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 2,
+		"Id": 10702,
+		"Integral": 2000,
+		"Prize": "2030201:30"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 3,
+		"Id": 10703,
+		"Integral": 5000,
+		"Prize": "2030202:2"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 4,
+		"Id": 10704,
+		"Integral": 10000,
+		"Prize": "2030202:5"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 5,
+		"Id": 10705,
+		"Integral": 15000,
+		"Prize": "2030202:8"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 6,
+		"Id": 10706,
+		"Integral": 20000,
+		"Prize": "2030102:1"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 7,
+		"Id": 10707,
+		"Integral": 30000,
+		"Prize": "2030202:12"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 8,
+		"Id": 10708,
+		"Integral": 50000,
+		"Prize": "2030202:18"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 9,
+		"Id": 10709,
+		"Integral": 75000,
+		"Prize": "2030202:20"
+	},
+	{
+		"ActId": 55707,
+		"Gear": 10,
+		"Id": 10710,
+		"Integral": 100000,
+		"Prize": "2030106:1"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 1,
+		"Id": 10801,
+		"Integral": 1000,
+		"Prize": "2030401:10"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 2,
+		"Id": 10802,
+		"Integral": 2000,
+		"Prize": "2030401:30"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 3,
+		"Id": 10803,
+		"Integral": 5000,
+		"Prize": "2030402:2"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 4,
+		"Id": 10804,
+		"Integral": 10000,
+		"Prize": "2030401:15"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 5,
+		"Id": 10805,
+		"Integral": 15000,
+		"Prize": "2030403:10"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 6,
+		"Id": 10806,
+		"Integral": 20000,
+		"Prize": "2030302:1"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 7,
+		"Id": 10807,
+		"Integral": 30000,
+		"Prize": "2030402:12"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 8,
+		"Id": 10808,
+		"Integral": 50000,
+		"Prize": "2030402:18"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 9,
+		"Id": 10809,
+		"Integral": 75000,
+		"Prize": "2030402:20"
+	},
+	{
+		"ActId": 55807,
+		"Gear": 10,
+		"Id": 10810,
+		"Integral": 100000,
+		"Prize": "2030306:1"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 1,
+		"Id": 10901,
+		"Integral": 1000,
+		"Prize": "2250401:10"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 2,
+		"Id": 10902,
+		"Integral": 2000,
+		"Prize": "2250401:30"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 3,
+		"Id": 10903,
+		"Integral": 5000,
+		"Prize": "2250403:10"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 4,
+		"Id": 10904,
+		"Integral": 10000,
+		"Prize": "2250405:5"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 5,
+		"Id": 10905,
+		"Integral": 15000,
+		"Prize": "2250404:10"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 6,
+		"Id": 10906,
+		"Integral": 20000,
+		"Prize": "1701:1"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 7,
+		"Id": 10907,
+		"Integral": 30000,
+		"Prize": "2250405:10"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 8,
+		"Id": 10908,
+		"Integral": 50000,
+		"Prize": "2250405:15"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 9,
+		"Id": 10909,
+		"Integral": 75000,
+		"Prize": "2250405:20"
+	},
+	{
+		"ActId": 55907,
+		"Gear": 10,
+		"Id": 10910,
+		"Integral": 100000,
+		"Prize": "1714:1"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 1,
+		"Id": 11001,
+		"Integral": 1000,
+		"Prize": "2010004:1"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 2,
+		"Id": 11002,
+		"Integral": 2000,
+		"Prize": "500:5"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 3,
+		"Id": 11003,
+		"Integral": 5000,
+		"Prize": "2010004:3"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 4,
+		"Id": 11004,
+		"Integral": 10000,
+		"Prize": "2021507:1"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 5,
+		"Id": 11005,
+		"Integral": 15000,
+		"Prize": "2010004:6"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 6,
+		"Id": 11006,
+		"Integral": 20000,
+		"Prize": "502:3"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 7,
+		"Id": 11007,
+		"Integral": 30000,
+		"Prize": "2010004:10"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 8,
+		"Id": 11008,
+		"Integral": 50000,
+		"Prize": "501:10"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 9,
+		"Id": 11009,
+		"Integral": 75000,
+		"Prize": "2010004:25"
+	},
+	{
+		"ActId": 56007,
+		"Gear": 10,
+		"Id": 11010,
+		"Integral": 100000,
+		"Prize": "2021658:1"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 1,
+		"Id": 15001,
+		"Integral": 1000,
+		"Prize": "5014100:10"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 2,
+		"Id": 15002,
+		"Integral": 2000,
+		"Prize": "5014101:30"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 3,
+		"Id": 15003,
+		"Integral": 5000,
+		"Prize": "5014112:1"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 4,
+		"Id": 15004,
+		"Integral": 10000,
+		"Prize": "2403301:1"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 5,
+		"Id": 15005,
+		"Integral": 15000,
+		"Prize": "5014112:2"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 6,
+		"Id": 15006,
+		"Integral": 20000,
+		"Prize": "2403302:1"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 7,
+		"Id": 15007,
+		"Integral": 30000,
+		"Prize": "5014111:50"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 8,
+		"Id": 15008,
+		"Integral": 50000,
+		"Prize": "5014111:100"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 9,
+		"Id": 15009,
+		"Integral": 75000,
+		"Prize": "2403303:1"
+	},
+	{
+		"ActId": 57007,
+		"Gear": 10,
+		"Id": 15010,
+		"Integral": 100000,
+		"Prize": "5016111:1"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 1,
+		"Id": 15101,
+		"Integral": 1000,
+		"Prize": "2250301:10"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 2,
+		"Id": 15102,
+		"Integral": 2000,
+		"Prize": "2250301:30"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 3,
+		"Id": 15103,
+		"Integral": 5000,
+		"Prize": "2250303:10"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 4,
+		"Id": 15104,
+		"Integral": 10000,
+		"Prize": "2250305:5"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 5,
+		"Id": 15105,
+		"Integral": 15000,
+		"Prize": "2250304:10"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 6,
+		"Id": 15106,
+		"Integral": 20000,
+		"Prize": "1526:1"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 7,
+		"Id": 15107,
+		"Integral": 30000,
+		"Prize": "2250305:10"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 8,
+		"Id": 15108,
+		"Integral": 50000,
+		"Prize": "2250305:15"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 9,
+		"Id": 15109,
+		"Integral": 75000,
+		"Prize": "2250305:20"
+	},
+	{
+		"ActId": 57107,
+		"Gear": 10,
+		"Id": 15110,
+		"Integral": 100000,
+		"Prize": "1530:1"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 1,
+		"Id": 15201,
+		"Integral": 1000,
+		"Prize": "2250201:10"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 2,
+		"Id": 15202,
+		"Integral": 2000,
+		"Prize": "2250201:30"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 3,
+		"Id": 15203,
+		"Integral": 5000,
+		"Prize": "2250203:10"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 4,
+		"Id": 15204,
+		"Integral": 10000,
+		"Prize": "2250205:5"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 5,
+		"Id": 15205,
+		"Integral": 15000,
+		"Prize": "2250204:10"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 6,
+		"Id": 15206,
+		"Integral": 20000,
+		"Prize": "1514:1"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 7,
+		"Id": 15207,
+		"Integral": 30000,
+		"Prize": "2250205:10"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 8,
+		"Id": 15208,
+		"Integral": 50000,
+		"Prize": "2250205:15"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 9,
+		"Id": 15209,
+		"Integral": 75000,
+		"Prize": "2250205:20"
+	},
+	{
+		"ActId": 57207,
+		"Gear": 10,
+		"Id": 15210,
+		"Integral": 100000,
+		"Prize": "1512:1"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 1,
+		"Id": 15301,
+		"Integral": 1000,
+		"Prize": "2080453:20"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 2,
+		"Id": 15302,
+		"Integral": 2000,
+		"Prize": "2080251:10"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 3,
+		"Id": 15303,
+		"Integral": 5000,
+		"Prize": "2080271:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 4,
+		"Id": 15304,
+		"Integral": 10000,
+		"Prize": "2080272:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 5,
+		"Id": 15305,
+		"Integral": 15000,
+		"Prize": "2080273:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 6,
+		"Id": 15306,
+		"Integral": 20000,
+		"Prize": "2080261:1"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 7,
+		"Id": 15307,
+		"Integral": 30000,
+		"Prize": "2080401:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 8,
+		"Id": 15308,
+		"Integral": 50000,
+		"Prize": "2080402:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 9,
+		"Id": 15309,
+		"Integral": 75000,
+		"Prize": "2080403:5"
+	},
+	{
+		"ActId": 57307,
+		"Gear": 10,
+		"Id": 15310,
+		"Integral": 100000,
+		"Prize": "2080262:1"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 1,
+		"Id": 15401,
+		"Integral": 1000,
+		"Prize": "2060199:10"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 2,
+		"Id": 15402,
+		"Integral": 2000,
+		"Prize": "2060199:30"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 3,
+		"Id": 15403,
+		"Integral": 5000,
+		"Prize": "2060200:5"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 4,
+		"Id": 15404,
+		"Integral": 10000,
+		"Prize": "2060200:5"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 5,
+		"Id": 15405,
+		"Integral": 15000,
+		"Prize": "2060101:10"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 6,
+		"Id": 15406,
+		"Integral": 20000,
+		"Prize": "3011004:1"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 7,
+		"Id": 15407,
+		"Integral": 30000,
+		"Prize": "2060102:10"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 8,
+		"Id": 15408,
+		"Integral": 50000,
+		"Prize": "2060103:15"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 9,
+		"Id": 15409,
+		"Integral": 75000,
+		"Prize": "2060104:20"
+	},
+	{
+		"ActId": 57407,
+		"Gear": 10,
+		"Id": 15410,
+		"Integral": 100000,
+		"Prize": "2060201:1"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 1,
+		"Id": 15501,
+		"Integral": 1000,
+		"Prize": "2040001:10"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 2,
+		"Id": 15502,
+		"Integral": 2000,
+		"Prize": "2040001:30"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 3,
+		"Id": 15503,
+		"Integral": 5000,
+		"Prize": "4010101:5"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 4,
+		"Id": 15504,
+		"Integral": 10000,
+		"Prize": "2040221:1"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 5,
+		"Id": 15505,
+		"Integral": 15000,
+		"Prize": "4010101:8"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 6,
+		"Id": 15506,
+		"Integral": 20000,
+		"Prize": "2040231:1"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 7,
+		"Id": 15507,
+		"Integral": 30000,
+		"Prize": "4010101:10"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 8,
+		"Id": 15508,
+		"Integral": 50000,
+		"Prize": "4010101:15"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 9,
+		"Id": 15509,
+		"Integral": 75000,
+		"Prize": "4010101:20"
+	},
+	{
+		"ActId": 57507,
+		"Gear": 10,
+		"Id": 15510,
+		"Integral": 100000,
+		"Prize": "2040242:1"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 1,
+		"Id": 15601,
+		"Integral": 1000,
+		"Prize": "2070171:10"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 2,
+		"Id": 15602,
+		"Integral": 2000,
+		"Prize": "2070171:30"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 3,
+		"Id": 15603,
+		"Integral": 5000,
+		"Prize": "2070171:50"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 4,
+		"Id": 15604,
+		"Integral": 10000,
+		"Prize": "2070151:5"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 5,
+		"Id": 15605,
+		"Integral": 15000,
+		"Prize": "2070231:10"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 6,
+		"Id": 15606,
+		"Integral": 20000,
+		"Prize": "2070253:1"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 7,
+		"Id": 15607,
+		"Integral": 30000,
+		"Prize": "2070231:10"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 8,
+		"Id": 15608,
+		"Integral": 50000,
+		"Prize": "2070231:20"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 9,
+		"Id": 15609,
+		"Integral": 75000,
+		"Prize": "2070151:20"
+	},
+	{
+		"ActId": 57607,
+		"Gear": 10,
+		"Id": 15610,
+		"Integral": 100000,
+		"Prize": "2070254:1"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 1,
+		"Id": 15701,
+		"Integral": 1000,
+		"Prize": "2250101:10"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 2,
+		"Id": 15702,
+		"Integral": 2000,
+		"Prize": "2250101:30"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 3,
+		"Id": 15703,
+		"Integral": 5000,
+		"Prize": "2250103:10"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 4,
+		"Id": 15704,
+		"Integral": 10000,
+		"Prize": "2250105:5"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 5,
+		"Id": 15705,
+		"Integral": 15000,
+		"Prize": "2250104:10"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 6,
+		"Id": 15706,
+		"Integral": 20000,
+		"Prize": "1516:1"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 7,
+		"Id": 15707,
+		"Integral": 30000,
+		"Prize": "2250105:10"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 8,
+		"Id": 15708,
+		"Integral": 50000,
+		"Prize": "2250105:15"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 9,
+		"Id": 15709,
+		"Integral": 75000,
+		"Prize": "2250105:20"
+	},
+	{
+		"ActId": 57707,
+		"Gear": 10,
+		"Id": 15710,
+		"Integral": 100000,
+		"Prize": "1520:1"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 1,
+		"Id": 15801,
+		"Integral": 1000,
+		"Prize": "2030201:10"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 2,
+		"Id": 15802,
+		"Integral": 2000,
+		"Prize": "2030201:30"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 3,
+		"Id": 15803,
+		"Integral": 5000,
+		"Prize": "2030202:2"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 4,
+		"Id": 15804,
+		"Integral": 10000,
+		"Prize": "2030202:5"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 5,
+		"Id": 15805,
+		"Integral": 15000,
+		"Prize": "2030202:8"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 6,
+		"Id": 15806,
+		"Integral": 20000,
+		"Prize": "2030102:1"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 7,
+		"Id": 15807,
+		"Integral": 30000,
+		"Prize": "2030202:12"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 8,
+		"Id": 15808,
+		"Integral": 50000,
+		"Prize": "2030202:18"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 9,
+		"Id": 15809,
+		"Integral": 75000,
+		"Prize": "2030202:20"
+	},
+	{
+		"ActId": 57807,
+		"Gear": 10,
+		"Id": 15810,
+		"Integral": 100000,
+		"Prize": "2030106:1"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 1,
+		"Id": 15901,
+		"Integral": 1000,
+		"Prize": "2030401:10"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 2,
+		"Id": 15902,
+		"Integral": 2000,
+		"Prize": "2030401:30"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 3,
+		"Id": 15903,
+		"Integral": 5000,
+		"Prize": "2030402:2"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 4,
+		"Id": 15904,
+		"Integral": 10000,
+		"Prize": "2030401:15"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 5,
+		"Id": 15905,
+		"Integral": 15000,
+		"Prize": "2030403:10"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 6,
+		"Id": 15906,
+		"Integral": 20000,
+		"Prize": "2030302:1"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 7,
+		"Id": 15907,
+		"Integral": 30000,
+		"Prize": "2030402:12"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 8,
+		"Id": 15908,
+		"Integral": 50000,
+		"Prize": "2030402:18"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 9,
+		"Id": 15909,
+		"Integral": 75000,
+		"Prize": "2030402:20"
+	},
+	{
+		"ActId": 57907,
+		"Gear": 10,
+		"Id": 15910,
+		"Integral": 100000,
+		"Prize": "2030306:1"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 1,
+		"Id": 16001,
+		"Integral": 1000,
+		"Prize": "2250401:10"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 2,
+		"Id": 16002,
+		"Integral": 2000,
+		"Prize": "2250401:30"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 3,
+		"Id": 16003,
+		"Integral": 5000,
+		"Prize": "2250403:10"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 4,
+		"Id": 16004,
+		"Integral": 10000,
+		"Prize": "2250405:5"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 5,
+		"Id": 16005,
+		"Integral": 15000,
+		"Prize": "2250404:10"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 6,
+		"Id": 16006,
+		"Integral": 20000,
+		"Prize": "1701:1"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 7,
+		"Id": 16007,
+		"Integral": 30000,
+		"Prize": "2250405:10"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 8,
+		"Id": 16008,
+		"Integral": 50000,
+		"Prize": "2250405:15"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 9,
+		"Id": 16009,
+		"Integral": 75000,
+		"Prize": "2250405:20"
+	},
+	{
+		"ActId": 58007,
+		"Gear": 10,
+		"Id": 16010,
+		"Integral": 100000,
+		"Prize": "1714:1"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 1,
+		"Id": 16101,
+		"Integral": 1000,
+		"Prize": "2140201:10"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 2,
+		"Id": 16102,
+		"Integral": 2000,
+		"Prize": "2140201:30"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 3,
+		"Id": 16103,
+		"Integral": 5000,
+		"Prize": "2140102:5"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 4,
+		"Id": 16104,
+		"Integral": 10000,
+		"Prize": "2404921:5"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 5,
+		"Id": 16105,
+		"Integral": 15000,
+		"Prize": "2140102:10"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 6,
+		"Id": 16106,
+		"Integral": 20000,
+		"Prize": "2404922:1"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 7,
+		"Id": 16107,
+		"Integral": 30000,
+		"Prize": "2140102:20"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 8,
+		"Id": 16108,
+		"Integral": 50000,
+		"Prize": "2140102:30"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 9,
+		"Id": 16109,
+		"Integral": 75000,
+		"Prize": "2140103:20"
+	},
+	{
+		"ActId": 58107,
+		"Gear": 10,
+		"Id": 16110,
+		"Integral": 100000,
+		"Prize": "2404923:1"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 1,
+		"Id": 16201,
+		"Integral": 1000,
+		"Prize": "2010004:1"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 2,
+		"Id": 16202,
+		"Integral": 2000,
+		"Prize": "500:5"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 3,
+		"Id": 16203,
+		"Integral": 5000,
+		"Prize": "2010004:3"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 4,
+		"Id": 16204,
+		"Integral": 10000,
+		"Prize": "2021507:1"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 5,
+		"Id": 16205,
+		"Integral": 15000,
+		"Prize": "2010004:6"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 6,
+		"Id": 16206,
+		"Integral": 20000,
+		"Prize": "502:3"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 7,
+		"Id": 16207,
+		"Integral": 30000,
+		"Prize": "2010004:10"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 8,
+		"Id": 16208,
+		"Integral": 50000,
+		"Prize": "501:10"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 9,
+		"Id": 16209,
+		"Integral": 75000,
+		"Prize": "2010004:25"
+	},
+	{
+		"ActId": 58207,
+		"Gear": 10,
+		"Id": 16210,
+		"Integral": 100000,
+		"Prize": "2021658:1"
+	}
+]

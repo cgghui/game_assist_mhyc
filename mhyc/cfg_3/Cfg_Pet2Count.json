@@ -1,0 +1,102 @@
+[
+	{
+		"Count": 1,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 2,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 3,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 4,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 5,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 6,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 7,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 8,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 9,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 10,
+		"Level": 1,
+		"VIP": 1
+	},
+	{
+		"Count": 11,
+		"Level": 101,
+		"VIP": 8
+	},
+	{
+		"Count": 12,
+		"Level": 101,
+		"VIP": 8
+	},
+	{
+		"Count": 13,
+		"Level": 101,
+		"VIP": 8
+	},
+	{
+		"Count": 14,
+		"Level": 101,
+		"VIP": 8
+	},
+	{
+		"Count": 15,
+		"Level": 101,
+		"VIP": 8
+	},
+	{
+		"Count": 16,
+		"Level": 151,
+		"VIP": 11
+	},
+	{
+		"Count": 17,
+		"Level": 151,
+		"VIP": 11
+	},
+	{
+		"Count": 18,
+		"Level": 151,
+		"VIP": 11
+	},
+	{
+		"Count": 19,
+		"Level": 151,
+		"VIP": 11
+	},
+	{
+		"Count": 20,
+		"Level": 151,
+		"VIP": 11
+	}
+]

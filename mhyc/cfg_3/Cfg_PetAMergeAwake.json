@@ -1,0 +1,44 @@
+[
+	{
+		"AwakeAttrId": 2673101,
+		"AwakeSkillId": 8004,
+		"Id": 1,
+		"Quality": 1
+	},
+	{
+		"AwakeAttrId": 2673102,
+		"AwakeSkillId": 8004,
+		"Id": 2,
+		"Quality": 2
+	},
+	{
+		"AwakeAttrId": 2673103,
+		"AwakeSkillId": 8004,
+		"Id": 3,
+		"Quality": 3
+	},
+	{
+		"AwakeAttrId": 2673104,
+		"AwakeSkillId": 8004,
+		"Id": 4,
+		"Quality": 4
+	},
+	{
+		"AwakeAttrId": 2673105,
+		"AwakeSkillId": 8004,
+		"Id": 5,
+		"Quality": 5
+	},
+	{
+		"AwakeAttrId": 2673106,
+		"AwakeSkillId": 8004,
+		"Id": 6,
+		"Quality": 6
+	},
+	{
+		"AwakeAttrId": 2673107,
+		"AwakeSkillId": 8004,
+		"Id": 7,
+		"Quality": 7
+	}
+]

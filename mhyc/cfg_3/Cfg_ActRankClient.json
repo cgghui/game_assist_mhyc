@@ -1,0 +1,177 @@
+[
+	{
+		"BtnImg": "img_btn_zuoqichongbang",
+		"Id": 1,
+		"IdxTag": 1,
+		"IsMain": 1,
+		"Name": "坐骑冲榜",
+		"ParamClient": 802,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_shenbingchongbang",
+		"Id": 2,
+		"IdxTag": 2,
+		"IsMain": 1,
+		"Name": "光武冲榜",
+		"ParamClient": 808,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_tianxianchongbang",
+		"Id": 3,
+		"IdxTag": 3,
+		"IsMain": 1,
+		"Name": "天仙冲榜",
+		"ParamClient": 801,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_chibangchongbang",
+		"Id": 4,
+		"IdxTag": 4,
+		"IsMain": 1,
+		"Name": "羽翼冲榜",
+		"ParamClient": 804,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_zhanshenchongbang",
+		"Id": 5,
+		"IdxTag": 5,
+		"IsMain": 1,
+		"Name": "战神冲榜",
+		"ParamClient": 810,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "btn_zhanqichongbang",
+		"Id": 6,
+		"IdxTag": 6,
+		"IsMain": 1,
+		"Name": "战骑冲榜",
+		"ParamClient": 837,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_fabaochongbang",
+		"Id": 7,
+		"IdxTag": 7,
+		"IsMain": 1,
+		"Name": "法宝冲榜",
+		"ParamClient": 831,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_chongwuchongbang",
+		"Id": 8,
+		"IdxTag": 8,
+		"IsMain": 1,
+		"Name": "宠物冲榜",
+		"ParamClient": 800,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_xiantongchongbang",
+		"Id": 9,
+		"IdxTag": 9,
+		"IsMain": 1,
+		"Name": "仙童冲榜",
+		"ParamClient": 835,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_yanjia",
+		"Id": 10,
+		"IdxTag": 10,
+		"IsMain": 1,
+		"Name": "偃甲冲榜",
+		"ParamClient": 841,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_huanling",
+		"Id": 11,
+		"IdxTag": 11,
+		"IsMain": 1,
+		"Name": "幻灵冲榜",
+		"ParamClient": 842,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_yingxiongbang",
+		"Id": 12,
+		"IdxTag": 12,
+		"IsMain": 1,
+		"Name": "英雄冲榜",
+		"ParamClient": 843,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "img_btn_yishoubang",
+		"Id": 13,
+		"IdxTag": 13,
+		"IsMain": 1,
+		"Name": "异兽冲榜",
+		"ParamClient": 844,
+		"Prefab1": "XChoBg",
+		"Prefab2": "CBGrad"
+	},
+	{
+		"BtnImg": "btn_chongbangduobao",
+		"Id": 14,
+		"IdxTag": 14,
+		"Name": "冲榜夺宝",
+		"Prefab1": "CBRun"
+	},
+	{
+		"BtnImg": "btn_chongbangqianggou",
+		"HideRed": 1,
+		"Id": 15,
+		"IdxTag": 15,
+		"Name": "冲榜抢购",
+		"Prefab1": "CBBuy"
+	},
+	{
+		"BtnImg": "img_btn_chongbangtehui",
+		"HideRed": 1,
+		"Id": 16,
+		"IdxTag": 16,
+		"Name": "冲榜特惠",
+		"Prefab1": "CBSale",
+		"Prefab2": "CBTeHu"
+	},
+	{
+		"BtnImg": "img_btn_chongbangleichong",
+		"Id": 17,
+		"IdxTag": 17,
+		"Name": "冲榜累充",
+		"Prefab1": "ChBnRn"
+	},
+	{
+		"BtnImg": "btn_chongbangdanbi",
+		"Id": 18,
+		"IdxTag": 18,
+		"Name": "冲榜单笔",
+		"Prefab1": "ChBnRn"
+	},
+	{
+		"BtnImg": "img_btn_chongbangxiaofei",
+		"Id": 19,
+		"IdxTag": 19,
+		"Name": "冲榜消费",
+		"Prefab1": "ChBnRn"
+	}
+]

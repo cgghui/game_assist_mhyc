@@ -1,0 +1,22 @@
+[
+	{
+		"DataKeepTime": 3600,
+		"Id": 1,
+		"MaxAucNum": 3,
+		"Name": "通天拍卖行",
+		"NoticeParam1": 11064,
+		"ReadyTime": 60,
+		"Time": 1800,
+		"TotalNum": 12
+	},
+	{
+		"DataKeepTime": 3600,
+		"Id": 2,
+		"MaxAucNum": 3,
+		"Name": "异界妖门卖行",
+		"NoticeParam1": 11067,
+		"ReadyTime": 60,
+		"Time": 43200,
+		"TotalNum": 21
+	}
+]

@@ -1,0 +1,164 @@
+[
+	{
+		"AttrId": 2521001,
+		"Desc": "上阵2个蓝色精英宠物",
+		"PetNum": 2,
+		"PetQuality": 2,
+		"PetRarity": 2,
+		"PowerId": 1,
+		"TotemId": 201
+	},
+	{
+		"AttrId": 2521002,
+		"Desc": "上阵2个红色精英宠物",
+		"PetNum": 2,
+		"PetQuality": 5,
+		"PetRarity": 2,
+		"PowerId": 2,
+		"TotemId": 201
+	},
+	{
+		"AttrId": 2521003,
+		"Desc": "上阵2个金色精英宠物",
+		"PetNum": 2,
+		"PetQuality": 6,
+		"PetRarity": 2,
+		"PowerId": 3,
+		"TotemId": 201
+	},
+	{
+		"AttrId": 2521004,
+		"Desc": "上阵2个史诗宠物",
+		"PetNum": 2,
+		"PetQuality": 3,
+		"PetRarity": 3,
+		"PowerId": 1,
+		"TotemId": 301
+	},
+	{
+		"AttrId": 2521005,
+		"Desc": "上阵2个金色史诗宠物",
+		"PetNum": 2,
+		"PetQuality": 6,
+		"PetRarity": 3,
+		"PowerId": 2,
+		"TotemId": 301
+	},
+	{
+		"AttrId": 2521006,
+		"Desc": "上阵2个七彩史诗宠物",
+		"PetNum": 2,
+		"PetQuality": 7,
+		"PetRarity": 3,
+		"PowerId": 3,
+		"TotemId": 301
+	},
+	{
+		"AttrId": 2521007,
+		"Desc": "上阵4个传说宠物",
+		"PetNum": 4,
+		"PetQuality": 4,
+		"PetRarity": 4,
+		"PowerId": 1,
+		"TotemId": 401
+	},
+	{
+		"AttrId": 2521008,
+		"Desc": "上阵4个金色传说宠物",
+		"PetNum": 4,
+		"PetQuality": 6,
+		"PetRarity": 4,
+		"PowerId": 2,
+		"TotemId": 401
+	},
+	{
+		"AttrId": 2521009,
+		"Desc": "上阵4个七彩传说宠物",
+		"PetNum": 4,
+		"PetQuality": 7,
+		"PetRarity": 4,
+		"PowerId": 3,
+		"TotemId": 401
+	},
+	{
+		"AttrId": 2521010,
+		"Desc": "上阵4个传说宠物",
+		"PetNum": 4,
+		"PetQuality": 4,
+		"PetRarity": 4,
+		"PowerId": 1,
+		"TotemId": 501
+	},
+	{
+		"AttrId": 2521011,
+		"Desc": "上阵4个金色传说宠物",
+		"PetNum": 4,
+		"PetQuality": 6,
+		"PetRarity": 4,
+		"PowerId": 2,
+		"TotemId": 501
+	},
+	{
+		"AttrId": 2521012,
+		"Desc": "上阵4个七彩传说宠物",
+		"PetNum": 4,
+		"PetQuality": 7,
+		"PetRarity": 4,
+		"PowerId": 3,
+		"TotemId": 501
+	},
+	{
+		"AttrId": 2521013,
+		"Desc": "上阵6个神兽",
+		"PetNum": 6,
+		"PetQuality": 4,
+		"PetRarity": 5,
+		"PowerId": 1,
+		"TotemId": 601
+	},
+	{
+		"AttrId": 2521014,
+		"Desc": "上阵6个金色神兽",
+		"PetNum": 6,
+		"PetQuality": 6,
+		"PetRarity": 5,
+		"PowerId": 2,
+		"TotemId": 601
+	},
+	{
+		"AttrId": 2521015,
+		"Desc": "上阵6个七彩神兽",
+		"PetNum": 6,
+		"PetQuality": 7,
+		"PetRarity": 5,
+		"PowerId": 3,
+		"TotemId": 601
+	},
+	{
+		"AttrId": 2521016,
+		"Desc": "上阵8个神兽",
+		"PetNum": 8,
+		"PetQuality": 4,
+		"PetRarity": 5,
+		"PowerId": 1,
+		"TotemId": 701
+	},
+	{
+		"AttrId": 2521017,
+		"Desc": "上阵8个金色神兽",
+		"PetNum": 8,
+		"PetQuality": 6,
+		"PetRarity": 5,
+		"PowerId": 2,
+		"TotemId": 701
+	},
+	{
+		"AttrId": 2521018,
+		"Desc": "上阵8个七彩神兽",
+		"PetNum": 8,
+		"PetQuality": 7,
+		"PetRarity": 5,
+		"PowerId": 3,
+		"TotemId": 701
+	}
+]

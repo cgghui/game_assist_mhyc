@@ -1,0 +1,30 @@
+[
+	{
+		"CfgKey": "HJ_HelpTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HJ_Buff1",
+		"CfgValue": "8100"
+	},
+	{
+		"CfgKey": "HJ_Buff2",
+		"CfgValue": "8101"
+	},
+	{
+		"CfgKey": "RefreshTeamCD",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HJ_FgtCD",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HJ_InviteCD",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "HJ_ShoutCD",
+		"CfgValue": "5"
+	}
+]

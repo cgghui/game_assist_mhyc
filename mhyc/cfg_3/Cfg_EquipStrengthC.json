@@ -1,0 +1,136 @@
+[
+	{
+		"CoinBase": 1000,
+		"CoinUp": 1000,
+		"Max": 30,
+		"Min": 1,
+		"StoneBase": 1,
+		"StoneUp": "0.3"
+	},
+	{
+		"CoinBase": 31000,
+		"CoinUp": 1000,
+		"Max": 100,
+		"Min": 31,
+		"Reborn": 1,
+		"StoneBase": 10,
+		"StoneUp": "0.3"
+	},
+	{
+		"CoinBase": 101000,
+		"CoinUp": 1000,
+		"Max": 200,
+		"Min": 101,
+		"Reborn": 2,
+		"StoneBase": 31,
+		"StoneUp": "0.3"
+	},
+	{
+		"CoinBase": 201000,
+		"CoinUp": 1000,
+		"Max": 250,
+		"Min": 201,
+		"Reborn": 3,
+		"StoneBase": 61,
+		"StoneUp": "0.3"
+	},
+	{
+		"CoinBase": 251000,
+		"CoinUp": 1000,
+		"Max": 300,
+		"Min": 251,
+		"Reborn": 4,
+		"StoneBase": 76,
+		"StoneUp": "0.3"
+	},
+	{
+		"CoinBase": 301000,
+		"CoinUp": 2000,
+		"Max": 350,
+		"Min": 301,
+		"Reborn": 5,
+		"StoneBase": 91,
+		"StoneUp": "0.4"
+	},
+	{
+		"CoinBase": 401000,
+		"CoinUp": 3000,
+		"Max": 400,
+		"Min": 351,
+		"Reborn": 6,
+		"StoneBase": 111,
+		"StoneUp": "0.5"
+	},
+	{
+		"CoinBase": 551000,
+		"CoinUp": 4000,
+		"Max": 450,
+		"Min": 401,
+		"Reborn": 7,
+		"StoneBase": 136,
+		"StoneUp": "0.6"
+	},
+	{
+		"CoinBase": 751000,
+		"CoinUp": 5000,
+		"Max": 500,
+		"Min": 451,
+		"Reborn": 8,
+		"StoneBase": 166,
+		"StoneUp": "0.7"
+	},
+	{
+		"CoinBase": 1001000,
+		"CoinUp": 7000,
+		"Max": 550,
+		"Min": 501,
+		"Reborn": 9,
+		"StoneBase": 201,
+		"StoneUp": "1"
+	},
+	{
+		"CoinBase": 1351000,
+		"CoinUp": 9000,
+		"Max": 600,
+		"Min": 551,
+		"Reborn": 10,
+		"StoneBase": 251,
+		"StoneUp": "1.5"
+	},
+	{
+		"CoinBase": 1801000,
+		"CoinUp": 12000,
+		"Max": 650,
+		"Min": 601,
+		"Reborn": 11,
+		"StoneBase": 326,
+		"StoneUp": "2"
+	},
+	{
+		"CoinBase": 2401000,
+		"CoinUp": 15000,
+		"Max": 700,
+		"Min": 651,
+		"Reborn": 12,
+		"StoneBase": 426,
+		"StoneUp": "3"
+	},
+	{
+		"CoinBase": 3151000,
+		"CoinUp": 19000,
+		"Max": 750,
+		"Min": 701,
+		"Reborn": 13,
+		"StoneBase": 576,
+		"StoneUp": "4"
+	},
+	{
+		"CoinBase": 4101000,
+		"CoinUp": 23000,
+		"Max": 800,
+		"Min": 751,
+		"Reborn": 14,
+		"StoneBase": 776,
+		"StoneUp": "5"
+	}
+]

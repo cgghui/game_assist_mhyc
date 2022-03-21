@@ -1,0 +1,1022 @@
+[
+	{
+		"AttrId": 2701,
+		"Exp": 100,
+		"Level": 1
+	},
+	{
+		"AttrId": 2702,
+		"Exp": 100,
+		"Level": 2
+	},
+	{
+		"AttrId": 2703,
+		"Exp": 100,
+		"Level": 3
+	},
+	{
+		"AttrId": 2704,
+		"Exp": 100,
+		"Level": 4
+	},
+	{
+		"AttrId": 2705,
+		"Exp": 100,
+		"Level": 5
+	},
+	{
+		"AttrId": 2706,
+		"Exp": 200,
+		"Level": 6
+	},
+	{
+		"AttrId": 2707,
+		"Exp": 200,
+		"Level": 7
+	},
+	{
+		"AttrId": 2708,
+		"Exp": 200,
+		"Level": 8
+	},
+	{
+		"AttrId": 2709,
+		"Exp": 200,
+		"Level": 9
+	},
+	{
+		"AttrId": 2710,
+		"Exp": 200,
+		"Level": 10,
+		"Prize": "2005:100|2006:50"
+	},
+	{
+		"AttrId": 2711,
+		"Exp": 300,
+		"Level": 11
+	},
+	{
+		"AttrId": 2712,
+		"Exp": 300,
+		"Level": 12
+	},
+	{
+		"AttrId": 2713,
+		"Exp": 300,
+		"Level": 13
+	},
+	{
+		"AttrId": 2714,
+		"Exp": 300,
+		"Level": 14
+	},
+	{
+		"AttrId": 2715,
+		"Exp": 300,
+		"Level": 15
+	},
+	{
+		"AttrId": 2716,
+		"Exp": 400,
+		"Level": 16
+	},
+	{
+		"AttrId": 2717,
+		"Exp": 400,
+		"Level": 17
+	},
+	{
+		"AttrId": 2718,
+		"Exp": 400,
+		"Level": 18
+	},
+	{
+		"AttrId": 2719,
+		"Exp": 400,
+		"Level": 19
+	},
+	{
+		"AttrId": 2720,
+		"Exp": 400,
+		"Level": 20,
+		"Prize": "2005:150|2006:75"
+	},
+	{
+		"AttrId": 2721,
+		"Exp": 500,
+		"Level": 21
+	},
+	{
+		"AttrId": 2722,
+		"Exp": 500,
+		"Level": 22
+	},
+	{
+		"AttrId": 2723,
+		"Exp": 500,
+		"Level": 23
+	},
+	{
+		"AttrId": 2724,
+		"Exp": 500,
+		"Level": 24
+	},
+	{
+		"AttrId": 2725,
+		"Exp": 500,
+		"Level": 25
+	},
+	{
+		"AttrId": 2726,
+		"Exp": 600,
+		"Level": 26
+	},
+	{
+		"AttrId": 2727,
+		"Exp": 600,
+		"Level": 27
+	},
+	{
+		"AttrId": 2728,
+		"Exp": 600,
+		"Level": 28
+	},
+	{
+		"AttrId": 2729,
+		"Exp": 600,
+		"Level": 29
+	},
+	{
+		"AttrId": 2730,
+		"Exp": 600,
+		"Level": 30,
+		"Prize": "2005:200|2006:100"
+	},
+	{
+		"AttrId": 2731,
+		"Exp": 700,
+		"Level": 31
+	},
+	{
+		"AttrId": 2732,
+		"Exp": 700,
+		"Level": 32
+	},
+	{
+		"AttrId": 2733,
+		"Exp": 700,
+		"Level": 33
+	},
+	{
+		"AttrId": 2734,
+		"Exp": 700,
+		"Level": 34
+	},
+	{
+		"AttrId": 2735,
+		"Exp": 700,
+		"Level": 35
+	},
+	{
+		"AttrId": 2736,
+		"Exp": 800,
+		"Level": 36
+	},
+	{
+		"AttrId": 2737,
+		"Exp": 800,
+		"Level": 37
+	},
+	{
+		"AttrId": 2738,
+		"Exp": 800,
+		"Level": 38
+	},
+	{
+		"AttrId": 2739,
+		"Exp": 800,
+		"Level": 39
+	},
+	{
+		"AttrId": 2740,
+		"Exp": 800,
+		"Level": 40,
+		"Prize": "2005:250|2006:125"
+	},
+	{
+		"AttrId": 2741,
+		"Exp": 900,
+		"Level": 41
+	},
+	{
+		"AttrId": 2742,
+		"Exp": 900,
+		"Level": 42
+	},
+	{
+		"AttrId": 2743,
+		"Exp": 900,
+		"Level": 43
+	},
+	{
+		"AttrId": 2744,
+		"Exp": 900,
+		"Level": 44
+	},
+	{
+		"AttrId": 2745,
+		"Exp": 900,
+		"Level": 45
+	},
+	{
+		"AttrId": 2746,
+		"Exp": 1000,
+		"Level": 46
+	},
+	{
+		"AttrId": 2747,
+		"Exp": 1000,
+		"Level": 47
+	},
+	{
+		"AttrId": 2748,
+		"Exp": 1000,
+		"Level": 48
+	},
+	{
+		"AttrId": 2749,
+		"Exp": 1000,
+		"Level": 49
+	},
+	{
+		"AttrId": 2750,
+		"Exp": 1000,
+		"Level": 50,
+		"Prize": "2005:300|2006:150"
+	},
+	{
+		"AttrId": 2751,
+		"Exp": 1100,
+		"Level": 51
+	},
+	{
+		"AttrId": 2752,
+		"Exp": 1100,
+		"Level": 52
+	},
+	{
+		"AttrId": 2753,
+		"Exp": 1100,
+		"Level": 53
+	},
+	{
+		"AttrId": 2754,
+		"Exp": 1100,
+		"Level": 54
+	},
+	{
+		"AttrId": 2755,
+		"Exp": 1100,
+		"Level": 55
+	},
+	{
+		"AttrId": 2756,
+		"Exp": 1200,
+		"Level": 56
+	},
+	{
+		"AttrId": 2757,
+		"Exp": 1200,
+		"Level": 57
+	},
+	{
+		"AttrId": 2758,
+		"Exp": 1200,
+		"Level": 58
+	},
+	{
+		"AttrId": 2759,
+		"Exp": 1200,
+		"Level": 59
+	},
+	{
+		"AttrId": 2760,
+		"Exp": 1200,
+		"Level": 60,
+		"Prize": "2005:350|2006:175"
+	},
+	{
+		"AttrId": 2761,
+		"Exp": 1300,
+		"Level": 61
+	},
+	{
+		"AttrId": 2762,
+		"Exp": 1300,
+		"Level": 62
+	},
+	{
+		"AttrId": 2763,
+		"Exp": 1300,
+		"Level": 63
+	},
+	{
+		"AttrId": 2764,
+		"Exp": 1300,
+		"Level": 64
+	},
+	{
+		"AttrId": 2765,
+		"Exp": 1300,
+		"Level": 65
+	},
+	{
+		"AttrId": 2766,
+		"Exp": 1400,
+		"Level": 66
+	},
+	{
+		"AttrId": 2767,
+		"Exp": 1400,
+		"Level": 67
+	},
+	{
+		"AttrId": 2768,
+		"Exp": 1400,
+		"Level": 68
+	},
+	{
+		"AttrId": 2769,
+		"Exp": 1400,
+		"Level": 69
+	},
+	{
+		"AttrId": 2770,
+		"Exp": 1400,
+		"Level": 70,
+		"Prize": "2005:400|2006:200"
+	},
+	{
+		"AttrId": 2771,
+		"Exp": 1500,
+		"Level": 71
+	},
+	{
+		"AttrId": 2772,
+		"Exp": 1500,
+		"Level": 72
+	},
+	{
+		"AttrId": 2773,
+		"Exp": 1500,
+		"Level": 73
+	},
+	{
+		"AttrId": 2774,
+		"Exp": 1500,
+		"Level": 74
+	},
+	{
+		"AttrId": 2775,
+		"Exp": 1500,
+		"Level": 75
+	},
+	{
+		"AttrId": 2776,
+		"Exp": 1600,
+		"Level": 76
+	},
+	{
+		"AttrId": 2777,
+		"Exp": 1600,
+		"Level": 77
+	},
+	{
+		"AttrId": 2778,
+		"Exp": 1600,
+		"Level": 78
+	},
+	{
+		"AttrId": 2779,
+		"Exp": 1600,
+		"Level": 79
+	},
+	{
+		"AttrId": 2780,
+		"Exp": 1600,
+		"Level": 80,
+		"Prize": "2005:450|2006:225"
+	},
+	{
+		"AttrId": 2781,
+		"Exp": 1700,
+		"Level": 81
+	},
+	{
+		"AttrId": 2782,
+		"Exp": 1700,
+		"Level": 82
+	},
+	{
+		"AttrId": 2783,
+		"Exp": 1700,
+		"Level": 83
+	},
+	{
+		"AttrId": 2784,
+		"Exp": 1700,
+		"Level": 84
+	},
+	{
+		"AttrId": 2785,
+		"Exp": 1700,
+		"Level": 85
+	},
+	{
+		"AttrId": 2786,
+		"Exp": 1800,
+		"Level": 86
+	},
+	{
+		"AttrId": 2787,
+		"Exp": 1800,
+		"Level": 87
+	},
+	{
+		"AttrId": 2788,
+		"Exp": 1800,
+		"Level": 88
+	},
+	{
+		"AttrId": 2789,
+		"Exp": 1800,
+		"Level": 89
+	},
+	{
+		"AttrId": 2790,
+		"Exp": 1800,
+		"Level": 90,
+		"Prize": "2005:500|2006:250"
+	},
+	{
+		"AttrId": 2791,
+		"Exp": 1900,
+		"Level": 91
+	},
+	{
+		"AttrId": 2792,
+		"Exp": 1900,
+		"Level": 92
+	},
+	{
+		"AttrId": 2793,
+		"Exp": 1900,
+		"Level": 93
+	},
+	{
+		"AttrId": 2794,
+		"Exp": 1900,
+		"Level": 94
+	},
+	{
+		"AttrId": 2795,
+		"Exp": 1900,
+		"Level": 95
+	},
+	{
+		"AttrId": 2796,
+		"Exp": 2000,
+		"Level": 96
+	},
+	{
+		"AttrId": 2797,
+		"Exp": 2000,
+		"Level": 97
+	},
+	{
+		"AttrId": 2798,
+		"Exp": 2000,
+		"Level": 98
+	},
+	{
+		"AttrId": 2799,
+		"Exp": 2000,
+		"Level": 99
+	},
+	{
+		"AttrId": 2800,
+		"Exp": 2000,
+		"Level": 100,
+		"Prize": "2005:550|2006:275"
+	},
+	{
+		"AttrId": 2801,
+		"Exp": 2100,
+		"Level": 101
+	},
+	{
+		"AttrId": 2802,
+		"Exp": 2100,
+		"Level": 102
+	},
+	{
+		"AttrId": 2803,
+		"Exp": 2100,
+		"Level": 103
+	},
+	{
+		"AttrId": 2804,
+		"Exp": 2100,
+		"Level": 104
+	},
+	{
+		"AttrId": 2805,
+		"Exp": 2100,
+		"Level": 105
+	},
+	{
+		"AttrId": 2806,
+		"Exp": 2200,
+		"Level": 106
+	},
+	{
+		"AttrId": 2807,
+		"Exp": 2200,
+		"Level": 107
+	},
+	{
+		"AttrId": 2808,
+		"Exp": 2200,
+		"Level": 108
+	},
+	{
+		"AttrId": 2809,
+		"Exp": 2200,
+		"Level": 109
+	},
+	{
+		"AttrId": 2810,
+		"Exp": 2200,
+		"Level": 110,
+		"Prize": "2005:600|2006:300"
+	},
+	{
+		"AttrId": 2811,
+		"Exp": 2300,
+		"Level": 111
+	},
+	{
+		"AttrId": 2812,
+		"Exp": 2300,
+		"Level": 112
+	},
+	{
+		"AttrId": 2813,
+		"Exp": 2300,
+		"Level": 113
+	},
+	{
+		"AttrId": 2814,
+		"Exp": 2300,
+		"Level": 114
+	},
+	{
+		"AttrId": 2815,
+		"Exp": 2300,
+		"Level": 115
+	},
+	{
+		"AttrId": 2816,
+		"Exp": 2400,
+		"Level": 116
+	},
+	{
+		"AttrId": 2817,
+		"Exp": 2400,
+		"Level": 117
+	},
+	{
+		"AttrId": 2818,
+		"Exp": 2400,
+		"Level": 118
+	},
+	{
+		"AttrId": 2819,
+		"Exp": 2400,
+		"Level": 119
+	},
+	{
+		"AttrId": 2820,
+		"Exp": 2400,
+		"Level": 120,
+		"Prize": "2005:650|2006:325"
+	},
+	{
+		"AttrId": 2821,
+		"Exp": 2500,
+		"Level": 121
+	},
+	{
+		"AttrId": 2822,
+		"Exp": 2500,
+		"Level": 122
+	},
+	{
+		"AttrId": 2823,
+		"Exp": 2500,
+		"Level": 123
+	},
+	{
+		"AttrId": 2824,
+		"Exp": 2500,
+		"Level": 124
+	},
+	{
+		"AttrId": 2825,
+		"Exp": 2500,
+		"Level": 125
+	},
+	{
+		"AttrId": 2826,
+		"Exp": 2600,
+		"Level": 126
+	},
+	{
+		"AttrId": 2827,
+		"Exp": 2600,
+		"Level": 127
+	},
+	{
+		"AttrId": 2828,
+		"Exp": 2600,
+		"Level": 128
+	},
+	{
+		"AttrId": 2829,
+		"Exp": 2600,
+		"Level": 129
+	},
+	{
+		"AttrId": 2830,
+		"Exp": 2600,
+		"Level": 130,
+		"Prize": "2005:700|2006:350"
+	},
+	{
+		"AttrId": 2831,
+		"Exp": 2700,
+		"Level": 131
+	},
+	{
+		"AttrId": 2832,
+		"Exp": 2700,
+		"Level": 132
+	},
+	{
+		"AttrId": 2833,
+		"Exp": 2700,
+		"Level": 133
+	},
+	{
+		"AttrId": 2834,
+		"Exp": 2700,
+		"Level": 134
+	},
+	{
+		"AttrId": 2835,
+		"Exp": 2700,
+		"Level": 135
+	},
+	{
+		"AttrId": 2836,
+		"Exp": 2800,
+		"Level": 136
+	},
+	{
+		"AttrId": 2837,
+		"Exp": 2800,
+		"Level": 137
+	},
+	{
+		"AttrId": 2838,
+		"Exp": 2800,
+		"Level": 138
+	},
+	{
+		"AttrId": 2839,
+		"Exp": 2800,
+		"Level": 139
+	},
+	{
+		"AttrId": 2840,
+		"Exp": 2800,
+		"Level": 140,
+		"Prize": "2005:750|2006:375"
+	},
+	{
+		"AttrId": 2841,
+		"Exp": 2900,
+		"Level": 141
+	},
+	{
+		"AttrId": 2842,
+		"Exp": 2900,
+		"Level": 142
+	},
+	{
+		"AttrId": 2843,
+		"Exp": 2900,
+		"Level": 143
+	},
+	{
+		"AttrId": 2844,
+		"Exp": 2900,
+		"Level": 144
+	},
+	{
+		"AttrId": 2845,
+		"Exp": 2900,
+		"Level": 145
+	},
+	{
+		"AttrId": 2846,
+		"Exp": 3000,
+		"Level": 146
+	},
+	{
+		"AttrId": 2847,
+		"Exp": 3000,
+		"Level": 147
+	},
+	{
+		"AttrId": 2848,
+		"Exp": 3000,
+		"Level": 148
+	},
+	{
+		"AttrId": 2849,
+		"Exp": 3000,
+		"Level": 149
+	},
+	{
+		"AttrId": 2850,
+		"Exp": 3000,
+		"Level": 150,
+		"Prize": "2005:800|2006:400"
+	},
+	{
+		"AttrId": 2851,
+		"Exp": 3100,
+		"Level": 151
+	},
+	{
+		"AttrId": 2852,
+		"Exp": 3100,
+		"Level": 152
+	},
+	{
+		"AttrId": 2853,
+		"Exp": 3100,
+		"Level": 153
+	},
+	{
+		"AttrId": 2854,
+		"Exp": 3100,
+		"Level": 154
+	},
+	{
+		"AttrId": 2855,
+		"Exp": 3100,
+		"Level": 155
+	},
+	{
+		"AttrId": 2856,
+		"Exp": 3200,
+		"Level": 156
+	},
+	{
+		"AttrId": 2857,
+		"Exp": 3200,
+		"Level": 157
+	},
+	{
+		"AttrId": 2858,
+		"Exp": 3200,
+		"Level": 158
+	},
+	{
+		"AttrId": 2859,
+		"Exp": 3200,
+		"Level": 159
+	},
+	{
+		"AttrId": 2860,
+		"Exp": 3200,
+		"Level": 160,
+		"Prize": "2005:850|2006:425"
+	},
+	{
+		"AttrId": 2861,
+		"Exp": 3300,
+		"Level": 161
+	},
+	{
+		"AttrId": 2862,
+		"Exp": 3300,
+		"Level": 162
+	},
+	{
+		"AttrId": 2863,
+		"Exp": 3300,
+		"Level": 163
+	},
+	{
+		"AttrId": 2864,
+		"Exp": 3300,
+		"Level": 164
+	},
+	{
+		"AttrId": 2865,
+		"Exp": 3300,
+		"Level": 165
+	},
+	{
+		"AttrId": 2866,
+		"Exp": 3400,
+		"Level": 166
+	},
+	{
+		"AttrId": 2867,
+		"Exp": 3400,
+		"Level": 167
+	},
+	{
+		"AttrId": 2868,
+		"Exp": 3400,
+		"Level": 168
+	},
+	{
+		"AttrId": 2869,
+		"Exp": 3400,
+		"Level": 169
+	},
+	{
+		"AttrId": 2870,
+		"Exp": 3400,
+		"Level": 170,
+		"Prize": "2005:900|2006:450"
+	},
+	{
+		"AttrId": 2871,
+		"Exp": 3500,
+		"Level": 171
+	},
+	{
+		"AttrId": 2872,
+		"Exp": 3500,
+		"Level": 172
+	},
+	{
+		"AttrId": 2873,
+		"Exp": 3500,
+		"Level": 173
+	},
+	{
+		"AttrId": 2874,
+		"Exp": 3500,
+		"Level": 174
+	},
+	{
+		"AttrId": 2875,
+		"Exp": 3500,
+		"Level": 175
+	},
+	{
+		"AttrId": 2876,
+		"Exp": 3600,
+		"Level": 176
+	},
+	{
+		"AttrId": 2877,
+		"Exp": 3600,
+		"Level": 177
+	},
+	{
+		"AttrId": 2878,
+		"Exp": 3600,
+		"Level": 178
+	},
+	{
+		"AttrId": 2879,
+		"Exp": 3600,
+		"Level": 179
+	},
+	{
+		"AttrId": 2880,
+		"Exp": 3600,
+		"Level": 180,
+		"Prize": "2005:950|2006:475"
+	},
+	{
+		"AttrId": 2881,
+		"Exp": 3700,
+		"Level": 181
+	},
+	{
+		"AttrId": 2882,
+		"Exp": 3700,
+		"Level": 182
+	},
+	{
+		"AttrId": 2883,
+		"Exp": 3700,
+		"Level": 183
+	},
+	{
+		"AttrId": 2884,
+		"Exp": 3700,
+		"Level": 184
+	},
+	{
+		"AttrId": 2885,
+		"Exp": 3700,
+		"Level": 185
+	},
+	{
+		"AttrId": 2886,
+		"Exp": 3800,
+		"Level": 186
+	},
+	{
+		"AttrId": 2887,
+		"Exp": 3800,
+		"Level": 187
+	},
+	{
+		"AttrId": 2888,
+		"Exp": 3800,
+		"Level": 188
+	},
+	{
+		"AttrId": 2889,
+		"Exp": 3800,
+		"Level": 189
+	},
+	{
+		"AttrId": 2890,
+		"Exp": 3800,
+		"Level": 190,
+		"Prize": "2005:1000|2006:500"
+	},
+	{
+		"AttrId": 2891,
+		"Exp": 3900,
+		"Level": 191
+	},
+	{
+		"AttrId": 2892,
+		"Exp": 3900,
+		"Level": 192
+	},
+	{
+		"AttrId": 2893,
+		"Exp": 3900,
+		"Level": 193
+	},
+	{
+		"AttrId": 2894,
+		"Exp": 3900,
+		"Level": 194
+	},
+	{
+		"AttrId": 2895,
+		"Exp": 3900,
+		"Level": 195
+	},
+	{
+		"AttrId": 2896,
+		"Exp": 4000,
+		"Level": 196
+	},
+	{
+		"AttrId": 2897,
+		"Exp": 4000,
+		"Level": 197
+	},
+	{
+		"AttrId": 2898,
+		"Exp": 4000,
+		"Level": 198
+	},
+	{
+		"AttrId": 2899,
+		"Exp": 4000,
+		"Level": 199
+	},
+	{
+		"AttrId": 2900,
+		"Exp": 4000,
+		"Level": 200,
+		"Prize": "2005:1050|2006:525"
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"Compose_Num": 10,
+		"ItemId": 2010004,
+		"ItemNum": 1,
+		"MaxLevel": 80,
+		"MaxQuality": 5,
+		"MaxReborn": 2,
+		"Rarity": 1
+	},
+	{
+		"Compose_Num": 20,
+		"ItemId": 2010004,
+		"ItemNum": 1,
+		"MaxLevel": 80,
+		"MaxQuality": 6,
+		"MaxReborn": 3,
+		"Rarity": 2
+	},
+	{
+		"Compose_Num": 50,
+		"ItemId": 2010004,
+		"ItemNum": 2,
+		"MaxLevel": 80,
+		"MaxQuality": 7,
+		"MaxReborn": 4,
+		"Rarity": 3
+	},
+	{
+		"Compose_Num": 80,
+		"ItemId": 2010004,
+		"ItemNum": 3,
+		"MaxLevel": 80,
+		"MaxQuality": 7,
+		"MaxReborn": 5,
+		"Rarity": 4
+	},
+	{
+		"Compose_Num": 100,
+		"Item2Id": 2020066,
+		"Item2Num": 1,
+		"ItemId": 2010004,
+		"ItemNum": 3,
+		"MaxLevel": 80,
+		"MaxQuality": 7,
+		"MaxReborn": 6,
+		"Rarity": 5
+	}
+]

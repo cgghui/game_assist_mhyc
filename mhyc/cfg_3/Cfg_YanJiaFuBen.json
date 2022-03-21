@@ -1,0 +1,28 @@
+[
+	{
+		"Icon": "img_qlmj",
+		"Id": 1,
+		"Name": "青龙秘境"
+	},
+	{
+		"Icon": "img_bhmj",
+		"Id": 2,
+		"LimitFBId": 1,
+		"LimitStage": 5280,
+		"Name": "白虎秘境"
+	},
+	{
+		"Icon": "img_xwmj",
+		"Id": 3,
+		"LimitFBId": 2,
+		"LimitStage": 6300,
+		"Name": "玄武秘境"
+	},
+	{
+		"Icon": "img_zqmj",
+		"Id": 4,
+		"LimitFBId": 3,
+		"LimitStage": 8200,
+		"Name": "朱雀秘境"
+	}
+]

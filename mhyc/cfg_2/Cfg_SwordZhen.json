@@ -1,0 +1,90 @@
+[
+	{
+		"ActCond": 740,
+		"ActCondShow": "400级解锁",
+		"ClientSkill": 13001,
+		"Icon": 1008,
+		"Id": 1,
+		"Name": "三清剑阵",
+		"NameIcon": "font_sanqing",
+		"Quality": 5,
+		"Source": 8283
+	},
+	{
+		"ActCond": 750,
+		"ActCondShow": "500级解锁",
+		"ClientSkill": 13002,
+		"Icon": 1007,
+		"Id": 2,
+		"Name": "五行剑阵",
+		"NameIcon": "font_wuxing",
+		"Quality": 5,
+		"Source": 8282
+	},
+	{
+		"ActCond": 526,
+		"ActCondShow": "SVIP6解锁",
+		"ClientSkill": 13003,
+		"Icon": 1006,
+		"Id": 3,
+		"Name": "天罡剑阵",
+		"NameIcon": "font_tiangang",
+		"Quality": 5,
+		"Source": 8281
+	},
+	{
+		"ActCond": 760,
+		"ActCondShow": "600级解锁",
+		"ClientSkill": 13004,
+		"Icon": 1005,
+		"Id": 4,
+		"Name": "七星剑阵",
+		"NameIcon": "font_qixing",
+		"Quality": 6,
+		"Source": 8280
+	},
+	{
+		"ActCond": 25151,
+		"ActCondShow": "道具解锁",
+		"ClientSkill": 13005,
+		"Icon": 1004,
+		"Id": 5,
+		"Name": "八卦剑阵",
+		"NameIcon": "font_bagua",
+		"Quality": 6,
+		"Source": 8279
+	},
+	{
+		"ActCond": 530,
+		"ActCondShow": "SVIP10解锁",
+		"ClientSkill": 13006,
+		"Icon": 1003,
+		"Id": 6,
+		"Name": "通天剑阵",
+		"NameIcon": "font_tongtian",
+		"Quality": 6,
+		"Source": 8278
+	},
+	{
+		"ActCond": 770,
+		"ActCondShow": "700级解锁",
+		"ClientSkill": 13007,
+		"Icon": 1002,
+		"Id": 7,
+		"Name": "天绝剑阵",
+		"NameIcon": "font_tianjue",
+		"Quality": 7,
+		"Source": 8277
+	},
+	{
+		"ActCond": 25152,
+		"ActCondShow": "道具解锁",
+		"ClientSkill": 13008,
+		"Icon": 1001,
+		"Id": 8,
+		"Name": "诛仙剑阵",
+		"NameIcon": "font_zhuxian",
+		"Quality": 7,
+		"Source": 8276
+	}
+]

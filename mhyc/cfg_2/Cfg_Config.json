@@ -1,0 +1,526 @@
+[
+	{
+		"CfgKey": "GradeUpTempAttrId",
+		"CfgValue": "1001"
+	},
+	{
+		"CfgKey": "SeekTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HelpTimes",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "RedPreciousGet",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "PreciousCreateItem1",
+		"CfgValue": "181:1|182:1"
+	},
+	{
+		"CfgKey": "PreciousCreateItem2",
+		"CfgValue": "183:1"
+	},
+	{
+		"CfgKey": "PreciousPosOpen",
+		"CfgValue": "108:0|108:0|150:10|280:12"
+	},
+	{
+		"CfgKey": "SignTask3VipRequir",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "FuBenCrossPrizeTimes",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "MonthCardPrice0",
+		"CfgValue": "1111:1|105:400|2:3000|57:10"
+	},
+	{
+		"CfgKey": "MonthCardPrice1",
+		"CfgValue": "3000|1000|30000"
+	},
+	{
+		"CfgKey": "MonthCardPrice2",
+		"CfgValue": "30|30"
+	},
+	{
+		"CfgKey": "MonthCardPrice3",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "MonthCardMail",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "MonthCardAddTime",
+		"CfgValue": "21600"
+	},
+	{
+		"CfgKey": "LifeCardPrice1",
+		"CfgValue": "10000|1500"
+	},
+	{
+		"CfgKey": "LifeCardPrice2",
+		"CfgValue": "30|30"
+	},
+	{
+		"CfgKey": "LifeCardPrice3",
+		"CfgValue": "200"
+	},
+	{
+		"CfgKey": "LifeCardMail",
+		"CfgValue": "13"
+	},
+	{
+		"CfgKey": "SMMaxMonster",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "SMItemPrize",
+		"CfgValue": "2:500|56:1|174:1|217:1"
+	},
+	{
+		"CfgKey": "SMExpPrize",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "SMTarget",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "SMFastFinishCost",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "SMMonsterExpPrize",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "SMMonsterGoldPrize",
+		"CfgValue": "25000"
+	},
+	{
+		"CfgKey": "SMMonsterStarExp",
+		"CfgValue": "10000|11500|13000|14500|16000|18000|20000"
+	},
+	{
+		"CfgKey": "SMMonsterStarRefreshCost",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "SendShopSaleMaxTime",
+		"CfgValue": "28800"
+	},
+	{
+		"CfgKey": "RedPkgDailyMoneyLimit",
+		"CfgValue": "30000"
+	},
+	{
+		"CfgKey": "FirstChargePrize",
+		"CfgValue": "1131:1:1|103011:1:1|103014:1:1|501:10|2:888|3:888000"
+	},
+	{
+		"CfgKey": "VipSale",
+		"CfgValue": "9"
+	},
+	{
+		"CfgKey": "VipSend",
+		"CfgValue": "9"
+	},
+	{
+		"CfgKey": "PeaceFinish",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "FirstChargeTipsShow",
+		"CfgValue": "38"
+	},
+	{
+		"CfgKey": "RealNamePrize",
+		"CfgValue": "501:10"
+	},
+	{
+		"CfgKey": "BeautySkill",
+		"CfgValue": "502|501"
+	},
+	{
+		"CfgKey": "DrawItem1",
+		"CfgValue": "225"
+	},
+	{
+		"CfgKey": "DrawItem2",
+		"CfgValue": "226"
+	},
+	{
+		"CfgKey": "CollectPrize",
+		"CfgValue": "1768:1|612:3|103:20|2:500"
+	},
+	{
+		"CfgKey": "FocusPrice",
+		"CfgValue": "1545:1|226:1|103:50|174:2"
+	},
+	{
+		"CfgKey": "FirstInvite",
+		"CfgValue": "1109:1|3:5000000|104:30|102:1500|103:300|2:1000"
+	},
+	{
+		"CfgKey": "GodGodAttr1Max",
+		"CfgValue": "1002|46960"
+	},
+	{
+		"CfgKey": "GodGodAttr2Max",
+		"CfgValue": "1005|9392"
+	},
+	{
+		"CfgKey": "GodGodAttr3Max",
+		"CfgValue": "1006|2348"
+	},
+	{
+		"CfgKey": "GodGodLSNeed",
+		"CfgValue": "2026:1|2027:1"
+	},
+	{
+		"CfgKey": "Monster1",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "Monster2",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "Monster3",
+		"CfgValue": "1.5"
+	},
+	{
+		"CfgKey": "WordStarAttrRate",
+		"CfgValue": "50000|60000|70000|100000"
+	},
+	{
+		"CfgKey": "Expedition_ReliveMoney",
+		"CfgValue": "500"
+	},
+	{
+		"CfgKey": "Expedition_ResetMoney",
+		"CfgValue": "2000"
+	},
+	{
+		"CfgKey": "Expedition_BuffMax",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "Expedition_RefershBuffMoney",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "Expedition_SweepDay",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "Expedition_SweepVip",
+		"CfgValue": "9"
+	},
+	{
+		"CfgKey": "HeavenlyInstanceStageOpenMax",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "DemonInstanceStageOpenMax",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "TowerInstanceStageOpenMax",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "TreasureInstanceStageOpenMax",
+		"CfgValue": "600"
+	},
+	{
+		"CfgKey": "Grade2Type",
+		"CfgValue": "11|12|13|14|42|41|31|32|51|52"
+	},
+	{
+		"CfgKey": "Robber_AttrId",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "PillMax",
+		"CfgValue": "999"
+	},
+	{
+		"CfgKey": "PlayerShadowNum",
+		"CfgValue": "1:0|20:3|25:5|31:7|34:9|37:11|40:13|43:15|46:17|50:20"
+	},
+	{
+		"CfgKey": "DisasterItemSource",
+		"CfgValue": "150"
+	},
+	{
+		"CfgKey": "PayRankClientShowDesc",
+		"CfgValue": "排行榜每5分钟刷新，结算前将发布公告通知"
+	},
+	{
+		"CfgKey": "FirstChargeTimeTipsShow",
+		"CfgValue": "12|38"
+	},
+	{
+		"CfgKey": "AllBossDoubleActId",
+		"CfgValue": "200"
+	},
+	{
+		"CfgKey": "PassCheckBuy_1",
+		"CfgValue": "201"
+	},
+	{
+		"CfgKey": "PassCheckBuy_2",
+		"CfgValue": "202"
+	},
+	{
+		"CfgKey": "PassCheckBuy_Coin3",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "Passcheck_model",
+		"CfgValue": "1061"
+	},
+	{
+		"CfgKey": "Passcheck_Title1",
+		"CfgValue": "1771"
+	},
+	{
+		"CfgKey": "Passcheck_Title2",
+		"CfgValue": "1067"
+	},
+	{
+		"CfgKey": "GodTowerActId",
+		"CfgValue": "500"
+	},
+	{
+		"CfgKey": "PreciousForgeItem",
+		"CfgValue": "3151:1"
+	},
+	{
+		"CfgKey": "PreciousForgeCoin",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "QingDianZhuanPanChongZhi",
+		"CfgValue": "5|1"
+	},
+	{
+		"CfgKey": "EscortTimesMax",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "CombatEffectivenessRange",
+		"CfgValue": "1|9"
+	},
+	{
+		"CfgKey": "ChargeTurn",
+		"CfgValue": "21|101|102|103|104"
+	},
+	{
+		"CfgKey": "MaxMailNum",
+		"CfgValue": "255:100"
+	},
+	{
+		"CfgKey": "LimitClothLevel",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "LimitClothId",
+		"CfgValue": "1508"
+	},
+	{
+		"CfgKey": "LimitClothTime",
+		"CfgValue": "1800"
+	},
+	{
+		"CfgKey": "LimitClothSkinId",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "SkinUpAttrMulti",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "BagExtendPrice",
+		"CfgValue": "2:5"
+	},
+	{
+		"CfgKey": "FirstRechargeGift",
+		"CfgValue": "1:10000"
+	},
+	{
+		"CfgKey": "AutoSmeltVipLimit",
+		"CfgValue": "11"
+	},
+	{
+		"CfgKey": "RandAttributeColor",
+		"CfgValue": "10|20|40|50|75|90"
+	},
+	{
+		"CfgKey": "SeekingDragonMaxTimes",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "SeekingDragonNeedItem",
+		"CfgValue": "521:1"
+	},
+	{
+		"CfgKey": "AutoUpGreadeSpeed",
+		"CfgValue": "20:1|40:2|60:5|999:10"
+	},
+	{
+		"CfgKey": "StageDrawTImeGive",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "SeekingDragonNeedItemFixed",
+		"CfgValue": "522:1"
+	},
+	{
+		"CfgKey": "TotemHelpNum",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "SectHonorPraisePrize",
+		"CfgValue": "2:100"
+	},
+	{
+		"CfgKey": "SectHonorPrize",
+		"CfgValue": "2200401:10|2200254:1|2251003:1|2:100"
+	},
+	{
+		"CfgKey": "HorseFootTongLingNum",
+		"CfgValue": "99"
+	},
+	{
+		"CfgKey": "SkinLevel_HeadFram",
+		"CfgValue": "500"
+	},
+	{
+		"CfgKey": "SkinLevel_Title",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "SkinLevel_Grade",
+		"CfgValue": "999"
+	},
+	{
+		"CfgKey": "BeastBaseSize",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "BeastMaxSize",
+		"CfgValue": "3000"
+	},
+	{
+		"CfgKey": "HuanLingBaseSize",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "HuanLingMaxSize",
+		"CfgValue": "3000"
+	},
+	{
+		"CfgKey": "BeastMaxStarLev",
+		"CfgValue": "11"
+	},
+	{
+		"CfgKey": "BeastMinQuityLev",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "HuanLingMaxStarLev",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "HuanLingMinQuityLev",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "EquipSelectMaxSize",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "OneKeySelectMaxSize",
+		"CfgValue": "25"
+	},
+	{
+		"CfgKey": "EquipSelectHaveStarLv",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "EquipSelectHaveQualityLv",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "StickSteelItemNoticeStar",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "StickSteelItemNoticeId",
+		"CfgValue": "343"
+	},
+	{
+		"CfgKey": "GKStageDrawLimit",
+		"CfgValue": "1201"
+	},
+	{
+		"CfgKey": "MomoPrize",
+		"CfgValue": "2020291:1|2010004:5|2010002:10|500:5|2:300|2:300"
+	},
+	{
+		"CfgKey": "QQRedPkgLimitLv",
+		"CfgValue": "70"
+	},
+	{
+		"CfgKey": "WarriorGCFixItemId",
+		"CfgValue": "2070291"
+	},
+	{
+		"CfgKey": "XinShouFuBackConditionStage",
+		"CfgValue": "29"
+	},
+	{
+		"CfgKey": "XinShouFuBackConditionLevel",
+		"CfgValue": "65"
+	},
+	{
+		"CfgKey": "KidsQNFixItemId",
+		"CfgValue": "5014113"
+	},
+	{
+		"CfgKey": "PetASXFixItemId",
+		"CfgValue": "2041051"
+	},
+	{
+		"CfgKey": "SYLMShield",
+		"CfgValue": "70|30"
+	},
+	{
+		"CfgKey": "LMPvpAttrAvd",
+		"CfgValue": "4:1000000|5:5000|6:1000000|7:50000|8:100|19:100000|20:50000"
+	},
+	{
+		"CfgKey": "ZhujiaFixItemId",
+		"CfgValue": "2060401"
+	},
+	{
+		"CfgKey": "KingSuitMaxQuityLev",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "KingSuitMax",
+		"CfgValue": "1|2|3|4|5"
+	},
+	{
+		"CfgKey": "ShenDuanActiveCondition",
+		"CfgValue": "10"
+	}
+]

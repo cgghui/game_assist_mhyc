@@ -1,0 +1,37 @@
+[
+	{
+		"BuildStone1": "0:0",
+		"BuildStone2": "0:0",
+		"Quality": 2,
+		"Tatter1": "1:1",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "1:1",
+		"BuildStone2": "0:0",
+		"Quality": 3,
+		"Tatter1": "3:3",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "3:3",
+		"BuildStone2": "0:0",
+		"Quality": 4,
+		"Tatter1": "10:10",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "10:10",
+		"BuildStone2": "0:0",
+		"Quality": 5,
+		"Tatter1": "30:30",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "10:10",
+		"BuildStone2": "0:0",
+		"Quality": 6,
+		"Tatter1": "30:30",
+		"Tatter2": "0:0"
+	}
+]

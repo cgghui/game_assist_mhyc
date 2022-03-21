@@ -1,0 +1,114 @@
+[
+	{
+		"SkillIcon": "640014",
+		"SkillId": 2306,
+		"SkillIncId": 2906101,
+		"SkillName": "男·初度",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906001,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "640030",
+		"SkillId": 2307,
+		"SkillIncId": 2906102,
+		"SkillName": "男·外傅",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906002,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "624002",
+		"SkillId": 2308,
+		"SkillIncId": 2906103,
+		"SkillName": "男·舞象",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906003,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "624103",
+		"SkillId": 2309,
+		"SkillIncId": 2906104,
+		"SkillName": "男·弱冠",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906004,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "640014",
+		"SkillId": 2406,
+		"SkillIncId": 2906101,
+		"SkillName": "女·初度",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906001,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "610010",
+		"SkillId": 2407,
+		"SkillIncId": 2906102,
+		"SkillName": "女·总角",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906002,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "610008",
+		"SkillId": 2408,
+		"SkillIncId": 2906103,
+		"SkillName": "女·束发",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906003,
+		"SkillType": 4
+	},
+	{
+		"SkillIcon": "624204",
+		"SkillId": 2409,
+		"SkillIncId": 2906104,
+		"SkillName": "女·豆蔻",
+		"SkillQuality": "0:2:4|3:10:5|11:30:6",
+		"SkillTagId": 2906004,
+		"SkillType": 4
+	},
+	{
+		"SkillId": 9001,
+		"SkillTagId": 9001,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9002,
+		"SkillTagId": 9002,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9003,
+		"SkillTagId": 9003,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9004,
+		"SkillTagId": 9004,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9011,
+		"SkillTagId": 9011,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9012,
+		"SkillTagId": 9012,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9013,
+		"SkillTagId": 9013,
+		"SkillType": 2
+	},
+	{
+		"SkillId": 9014,
+		"SkillTagId": 9014,
+		"SkillType": 2
+	}
+]

@@ -1,0 +1,107 @@
+[
+	{
+		"Level": 20,
+		"Skills": 9001,
+		"SkinExtSKill": 9031
+	},
+	{
+		"Level": 40,
+		"Skills": 9002,
+		"SkinExtSKill": 9032
+	},
+	{
+		"Level": 60,
+		"Skills": 9003,
+		"SkinExtSKill": 9033
+	},
+	{
+		"Level": 80,
+		"Skills": 9004,
+		"SkinExtSKill": 9034
+	},
+	{
+		"Level": 20,
+		"Skills": 9011,
+		"SkinExtSKill": 9041
+	},
+	{
+		"Level": 40,
+		"Skills": 9012,
+		"SkinExtSKill": 9042
+	},
+	{
+		"Level": 60,
+		"Skills": 9013,
+		"SkinExtSKill": 9043
+	},
+	{
+		"Level": 80,
+		"Skills": 9014,
+		"SkinExtSKill": 9044
+	},
+	{
+		"Level": 1,
+		"Skills": 265,
+		"SkinExtSKill": 9051
+	},
+	{
+		"Level": 1,
+		"Skills": 266,
+		"SkinExtSKill": 9052
+	},
+	{
+		"Level": 1,
+		"Skills": 267,
+		"SkinExtSKill": 9053
+	},
+	{
+		"Level": 1,
+		"Skills": 269,
+		"SkinExtSKill": 9054
+	},
+	{
+		"Level": 1,
+		"Skills": 286,
+		"SkinExtSKill": 9056
+	},
+	{
+		"Level": 1,
+		"Skills": 287,
+		"SkinExtSKill": 9057
+	},
+	{
+		"Level": 1,
+		"Skills": 288,
+		"SkinExtSKill": 9058
+	},
+	{
+		"Level": 1,
+		"Skills": 9005,
+		"SkinExtSKill": 9061
+	},
+	{
+		"Level": 1,
+		"Skills": 9006,
+		"SkinExtSKill": 9062
+	},
+	{
+		"Level": 1,
+		"Skills": 9007,
+		"SkinExtSKill": 9062
+	},
+	{
+		"Level": 1,
+		"Skills": 9015,
+		"SkinExtSKill": 9063
+	},
+	{
+		"Level": 1,
+		"Skills": 9016,
+		"SkinExtSKill": 9064
+	},
+	{
+		"Level": 1,
+		"Skills": 9017,
+		"SkinExtSKill": 9064
+	}
+]

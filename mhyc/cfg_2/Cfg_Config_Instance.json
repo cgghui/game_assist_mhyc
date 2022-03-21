@@ -1,0 +1,110 @@
+[
+	{
+		"CfgKey": "GemTowerMonsterXY",
+		"CfgValue": "20|32"
+	},
+	{
+		"CfgKey": "GemTowerNextLayerXY1",
+		"CfgValue": "40|24"
+	},
+	{
+		"CfgKey": "GemTowerNextLayerXY2",
+		"CfgValue": "32|14"
+	},
+	{
+		"CfgKey": "GemTowerMapId",
+		"CfgValue": "2311"
+	},
+	{
+		"CfgKey": "SLInspireInc",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "SLInspireCoin3Max",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "SLInspireCoin4Max",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "OneKeySweepVip",
+		"CfgValue": "11"
+	},
+	{
+		"CfgKey": "SLInspireVip",
+		"CfgValue": "14"
+	},
+	{
+		"CfgKey": "SLFVInc",
+		"CfgValue": "0.1"
+	},
+	{
+		"CfgKey": "PetaATowerMonsterXY",
+		"CfgValue": "24|29"
+	},
+	{
+		"CfgKey": "PetaATowerMapId",
+		"CfgValue": "2312"
+	},
+	{
+		"CfgKey": "PetaATowerNextLayerXY1",
+		"CfgValue": "40|22"
+	},
+	{
+		"CfgKey": "PetaATowerNextLayerXY2",
+		"CfgValue": "32|11"
+	},
+	{
+		"CfgKey": "GodTowerMonsterXY",
+		"CfgValue": "22|31"
+	},
+	{
+		"CfgKey": "GodTowerMapId",
+		"CfgValue": "2313"
+	},
+	{
+		"CfgKey": "GodTowerNextLayerXY1",
+		"CfgValue": "18|22"
+	},
+	{
+		"CfgKey": "GodTowerNextLayerXY2",
+		"CfgValue": "13|11"
+	},
+	{
+		"CfgKey": "KidTowerMonsterXY",
+		"CfgValue": "21|30"
+	},
+	{
+		"CfgKey": "KidTowerMapId",
+		"CfgValue": "2314"
+	},
+	{
+		"CfgKey": "KidTowerNextLayerXY1",
+		"CfgValue": "38|20"
+	},
+	{
+		"CfgKey": "KidTowerNextLayerXY2",
+		"CfgValue": "29|6"
+	},
+	{
+		"CfgKey": "SwordTowerMonsterXY",
+		"CfgValue": "21|28"
+	},
+	{
+		"CfgKey": "SwordTowerMapId",
+		"CfgValue": "2315"
+	},
+	{
+		"CfgKey": "SwordTowerNextLayerXY1",
+		"CfgValue": "38|21"
+	},
+	{
+		"CfgKey": "SwordTowerNextLayerXY2",
+		"CfgValue": "29|7"
+	},
+	{
+		"CfgKey": "LimitStage",
+		"CfgValue": "3000"
+	}
+]

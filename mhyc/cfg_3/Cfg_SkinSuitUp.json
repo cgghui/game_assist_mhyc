@@ -1,0 +1,62 @@
+[
+	{
+		"AttrId": 10001,
+		"Item_Id": "2200503:0",
+		"Level": 1,
+		"Part_Level": 1
+	},
+	{
+		"AttrId": 10002,
+		"Item_Id": "2200503:1",
+		"Level": 2,
+		"Part_Level": 2
+	},
+	{
+		"AttrId": 10003,
+		"Item_Id": "2200503:3",
+		"Level": 3,
+		"Part_Level": 3
+	},
+	{
+		"AttrId": 10004,
+		"Item_Id": "2200503:6",
+		"Level": 4,
+		"Part_Level": 4
+	},
+	{
+		"AttrId": 10005,
+		"Item_Id": "2200503:10",
+		"Level": 5,
+		"Part_Level": 5
+	},
+	{
+		"AttrId": 10006,
+		"Item_Id": "2200503:15",
+		"Level": 6,
+		"Part_Level": 6
+	},
+	{
+		"AttrId": 10007,
+		"Item_Id": "2200503:21",
+		"Level": 7,
+		"Part_Level": 7
+	},
+	{
+		"AttrId": 10008,
+		"Item_Id": "2200503:28",
+		"Level": 8,
+		"Part_Level": 8
+	},
+	{
+		"AttrId": 10009,
+		"Item_Id": "2200503:36",
+		"Level": 9,
+		"Part_Level": 9
+	},
+	{
+		"AttrId": 10010,
+		"Item_Id": "2200503:43",
+		"Level": 10,
+		"Part_Level": 10
+	}
+]

@@ -1,0 +1,169 @@
+[
+	{
+		"BaseAttrMulti": 3000,
+		"Level": 1,
+		"Qty_Exp_1": 10,
+		"Qty_Exp_2": 30,
+		"Qty_Exp_3": 110,
+		"Qty_Exp_4": 360,
+		"Qty_Exp_5": 1190,
+		"Qty_Exp_6": 3910,
+		"Qty_Exp_7": 12910,
+		"SkillLevel": 1
+	},
+	{
+		"BaseAttrMulti": 6000,
+		"Level": 2,
+		"Qty_Exp_1": 20,
+		"Qty_Exp_2": 60,
+		"Qty_Exp_3": 220,
+		"Qty_Exp_4": 720,
+		"Qty_Exp_5": 2380,
+		"Qty_Exp_6": 7820,
+		"Qty_Exp_7": 25820,
+		"SkillLevel": 1
+	},
+	{
+		"AddAttrNum": 1,
+		"BaseAttrMulti": 9000,
+		"Level": 3,
+		"Qty_Exp_1": 50,
+		"Qty_Exp_2": 150,
+		"Qty_Exp_3": 550,
+		"Qty_Exp_4": 1800,
+		"Qty_Exp_5": 5950,
+		"Qty_Exp_6": 19550,
+		"Qty_Exp_7": 64550,
+		"SkillLevel": 2
+	},
+	{
+		"BaseAttrMulti": 12000,
+		"Level": 4,
+		"Qty_Exp_1": 110,
+		"Qty_Exp_2": 330,
+		"Qty_Exp_3": 1210,
+		"Qty_Exp_4": 3960,
+		"Qty_Exp_5": 13090,
+		"Qty_Exp_6": 43010,
+		"Qty_Exp_7": 142010,
+		"SkillLevel": 2
+	},
+	{
+		"BaseAttrMulti": 15000,
+		"Level": 5,
+		"Qty_Exp_1": 210,
+		"Qty_Exp_2": 630,
+		"Qty_Exp_3": 2310,
+		"Qty_Exp_4": 7560,
+		"Qty_Exp_5": 24990,
+		"Qty_Exp_6": 82110,
+		"Qty_Exp_7": 271110,
+		"SkillLevel": 2
+	},
+	{
+		"AddAttrNum": 1,
+		"BaseAttrMulti": 18000,
+		"Level": 6,
+		"Qty_Exp_1": 360,
+		"Qty_Exp_2": 1080,
+		"Qty_Exp_3": 3960,
+		"Qty_Exp_4": 12960,
+		"Qty_Exp_5": 42840,
+		"Qty_Exp_6": 140760,
+		"Qty_Exp_7": 464760,
+		"SkillLevel": 3
+	},
+	{
+		"BaseAttrMulti": 21000,
+		"Level": 7,
+		"Qty_Exp_1": 570,
+		"Qty_Exp_2": 1710,
+		"Qty_Exp_3": 6270,
+		"Qty_Exp_4": 20520,
+		"Qty_Exp_5": 67830,
+		"Qty_Exp_6": 222870,
+		"Qty_Exp_7": 735870,
+		"SkillLevel": 3
+	},
+	{
+		"BaseAttrMulti": 24000,
+		"Level": 8,
+		"Qty_Exp_1": 850,
+		"Qty_Exp_2": 2550,
+		"Qty_Exp_3": 9350,
+		"Qty_Exp_4": 30600,
+		"Qty_Exp_5": 101150,
+		"Qty_Exp_6": 332350,
+		"Qty_Exp_7": 1097350,
+		"SkillLevel": 3
+	},
+	{
+		"AddAttrNum": 1,
+		"BaseAttrMulti": 27000,
+		"Level": 9,
+		"Qty_Exp_1": 1210,
+		"Qty_Exp_2": 3630,
+		"Qty_Exp_3": 13310,
+		"Qty_Exp_4": 43560,
+		"Qty_Exp_5": 143990,
+		"Qty_Exp_6": 473110,
+		"Qty_Exp_7": 1562110,
+		"SkillLevel": 4
+	},
+	{
+		"BaseAttrMulti": 30000,
+		"Level": 10,
+		"Qty_Exp_3": 18260,
+		"Qty_Exp_4": 59760,
+		"Qty_Exp_5": 197540,
+		"Qty_Exp_6": 649060,
+		"Qty_Exp_7": 2143060,
+		"SkillLevel": 4
+	},
+	{
+		"BaseAttrMulti": 33000,
+		"Level": 11,
+		"Qty_Exp_3": 24310,
+		"Qty_Exp_4": 79560,
+		"Qty_Exp_5": 262990,
+		"Qty_Exp_6": 864110,
+		"Qty_Exp_7": 2853110,
+		"SkillLevel": 4
+	},
+	{
+		"AddAttrNum": 1,
+		"BaseAttrMulti": 36000,
+		"Level": 12,
+		"Qty_Exp_3": 31570,
+		"Qty_Exp_4": 103320,
+		"Qty_Exp_5": 341530,
+		"Qty_Exp_6": 1122170,
+		"Qty_Exp_7": 3705170,
+		"SkillLevel": 5
+	},
+	{
+		"BaseAttrMulti": 39000,
+		"Level": 13,
+		"Qty_Exp_5": 434350,
+		"Qty_Exp_6": 1427150,
+		"Qty_Exp_7": 4712150,
+		"SkillLevel": 5
+	},
+	{
+		"BaseAttrMulti": 42000,
+		"Level": 14,
+		"Qty_Exp_5": 542640,
+		"Qty_Exp_6": 1782960,
+		"Qty_Exp_7": 5886960,
+		"SkillLevel": 5
+	},
+	{
+		"AddAttrNum": 1,
+		"BaseAttrMulti": 45000,
+		"Level": 15,
+		"Qty_Exp_5": 667590,
+		"Qty_Exp_6": 2193510,
+		"Qty_Exp_7": 7242510,
+		"SkillLevel": 6
+	}
+]

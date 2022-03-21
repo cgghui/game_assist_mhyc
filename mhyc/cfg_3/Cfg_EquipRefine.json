@@ -1,0 +1,3242 @@
+[
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 1,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 1,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 1,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 1,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 2,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 2,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 2,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 2,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 3,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 3,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 3,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 3,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 4,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 4,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 4,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 4,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 5,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 5,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 5,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 5,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 6,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 6,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 6,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 6,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 7,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 7,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 7,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 7,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 8,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 8,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 8,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 8,
+		"Pos": 4,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 9,
+		"Pos": 1,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 9,
+		"Pos": 2,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 9,
+		"Pos": 3,
+		"StrengthSLev": 500
+	},
+	{
+		"AttrId": 90020001,
+		"FuncId": 14115,
+		"Lev": 1,
+		"MaxExp": 200,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"AttrId": 90020002,
+		"FuncId": 14115,
+		"Lev": 2,
+		"MaxExp": 800,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"AttrId": 90020003,
+		"FuncId": 14115,
+		"Lev": 3,
+		"MaxExp": 2400,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"AttrId": 90020004,
+		"FuncId": 14115,
+		"Lev": 4,
+		"MaxExp": 5600,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"AttrId": 90020005,
+		"FuncId": 14115,
+		"Lev": 5,
+		"MaxExp": 11000,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"AttrId": 90020006,
+		"FuncId": 14115,
+		"Lev": 6,
+		"MaxExp": 19200,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"AttrId": 90020007,
+		"FuncId": 14115,
+		"Lev": 7,
+		"MaxExp": 30800,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 350
+	},
+	{
+		"AttrId": 90020008,
+		"FuncId": 14115,
+		"Lev": 8,
+		"MaxExp": 46400,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 400
+	},
+	{
+		"AttrId": 90020009,
+		"FuncId": 14115,
+		"Lev": 9,
+		"MaxExp": 66600,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 450
+	},
+	{
+		"AttrId": 90020010,
+		"FuncId": 14115,
+		"Lev": 10,
+		"MaxExp": 92000,
+		"ObjId": 9,
+		"Pos": 4,
+		"StrengthSLev": 500
+	}
+]

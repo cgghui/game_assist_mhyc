@@ -1,0 +1,30 @@
+[
+	{
+		"CfgKey": "QieCuoFightReportExistTime",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "QieCuoClearTime",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "QieCuoLimitId",
+		"CfgValue": "10006"
+	},
+	{
+		"CfgKey": "QieCuoCD",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "QC_LogMax",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "QC_ShoutCD",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "QC_RequireCD",
+		"CfgValue": "5"
+	}
+]

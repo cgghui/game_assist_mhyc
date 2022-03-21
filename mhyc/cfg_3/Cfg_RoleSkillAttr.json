@@ -1,0 +1,112 @@
+[
+	{
+		"AttrBase": 200,
+		"AttrLevel": 10,
+		"AttrType": 1,
+		"Desc": "人族技能 秒群",
+		"HLId": 1,
+		"SkillId": 101
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "人族技能 秒3",
+		"HLId": 2,
+		"SkillId": 102
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "人族技能 单体 增伤",
+		"HLId": 3,
+		"SkillId": 103
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "人族技能 单体 低伤",
+		"HLId": 5,
+		"SkillId": 104
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "人族技能 单体 高伤",
+		"HLId": 4,
+		"SkillId": 105
+	},
+	{
+		"AttrBase": 200,
+		"AttrLevel": 10,
+		"AttrType": 1,
+		"Desc": "仙族技能 秒群",
+		"SkillId": 106
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "仙族技能 秒3",
+		"SkillId": 107
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "仙族技能 单体 增伤",
+		"SkillId": 108
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "仙族技能 单体 低伤",
+		"SkillId": 109
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "仙族技能 单体 高伤",
+		"SkillId": 110
+	},
+	{
+		"AttrBase": 200,
+		"AttrLevel": 10,
+		"AttrType": 1,
+		"Desc": "魔族技能 秒群",
+		"SkillId": 111
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "魔族技能 秒3",
+		"SkillId": 112
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "魔族技能 单体 增伤",
+		"SkillId": 113
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "魔族技能 单体 低伤",
+		"SkillId": 114
+	},
+	{
+		"AttrBase": 10,
+		"AttrLevel": 1,
+		"AttrType": 2,
+		"Desc": "魔族技能 单体 高伤",
+		"SkillId": 115
+	}
+]

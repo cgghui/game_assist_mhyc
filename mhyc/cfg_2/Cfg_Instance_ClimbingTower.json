@@ -1,0 +1,67 @@
+[
+	{
+		"InsType": 212,
+		"ItemChangeType": 1302,
+		"MapId": 2311,
+		"MonsterX": 20,
+		"MonsterY": 32,
+		"NextLayerX1": 40,
+		"NextLayerX2": 32,
+		"NextLayerY1": 24,
+		"NextLayerY2": 14,
+		"TowerName": "宝石塔",
+		"TowerType": 1
+	},
+	{
+		"InsType": 213,
+		"ItemChangeType": 1303,
+		"MapId": 2312,
+		"MonsterX": 24,
+		"MonsterY": 29,
+		"NextLayerX1": 40,
+		"NextLayerX2": 32,
+		"NextLayerY1": 22,
+		"NextLayerY2": 11,
+		"TowerName": "天仙塔",
+		"TowerType": 2
+	},
+	{
+		"InsType": 214,
+		"ItemChangeType": 1304,
+		"MapId": 2313,
+		"MonsterX": 22,
+		"MonsterY": 31,
+		"NextLayerX1": 18,
+		"NextLayerX2": 13,
+		"NextLayerY1": 22,
+		"NextLayerY2": 11,
+		"TowerName": "战神塔",
+		"TowerType": 3
+	},
+	{
+		"InsType": 215,
+		"ItemChangeType": 1305,
+		"MapId": 2314,
+		"MonsterX": 21,
+		"MonsterY": 30,
+		"NextLayerX1": 38,
+		"NextLayerX2": 29,
+		"NextLayerY1": 20,
+		"NextLayerY2": 6,
+		"TowerName": "仙童塔",
+		"TowerType": 4
+	},
+	{
+		"InsType": 216,
+		"ItemChangeType": 1306,
+		"MapId": 2315,
+		"MonsterX": 21,
+		"MonsterY": 28,
+		"NextLayerX1": 38,
+		"NextLayerX2": 29,
+		"NextLayerY1": 21,
+		"NextLayerY2": 7,
+		"TowerName": "剑魂塔",
+		"TowerType": 5
+	}
+]

@@ -1,0 +1,128 @@
+[
+	{
+		"GeneralDropId": 53201,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 1,
+		"MonsterId": 6556,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53251,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53202,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 2,
+		"MonsterId": 6557,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53252,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53203,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 3,
+		"MonsterId": 6558,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53253,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53204,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 4,
+		"MonsterId": 6559,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53254,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53205,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 5,
+		"MonsterId": 6560,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53255,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53206,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 6,
+		"MonsterId": 6561,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53256,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53207,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 7,
+		"MonsterId": 6562,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53257,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53208,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 8,
+		"MonsterId": 6563,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53258,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53209,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 9,
+		"MonsterId": 6564,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53259,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53210,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 10,
+		"MonsterId": 6565,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53260,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53211,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 11,
+		"MonsterId": 6566,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53261,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53212,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 12,
+		"MonsterId": 6567,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53262,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53213,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 13,
+		"MonsterId": 6568,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53263,
+		"SupremeOpenCostItem": "507:1"
+	},
+	{
+		"GeneralDropId": 53214,
+		"GeneralOpenCostItem": "2:1000",
+		"Id": 14,
+		"MonsterId": 6569,
+		"OpenTimesBase": 10,
+		"SupremeDropId": 53264,
+		"SupremeOpenCostItem": "507:1"
+	}
+]

@@ -1,0 +1,614 @@
+[
+	{
+		"HPRatio": 3000,
+		"Id": 1001,
+		"Key": 1,
+		"Name": "强壮",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530501,
+		"HPRatio": 10000,
+		"Id": 1001,
+		"Key": 3,
+		"Name": "强壮",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"HPRatio": 10000,
+		"Id": 1001,
+		"Key": 4,
+		"Name": "强壮",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530511,
+		"HPRatio": 30000,
+		"Id": 1001,
+		"Key": 6,
+		"Name": "强壮",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"HPRatio": 20000,
+		"Id": 1001,
+		"Key": 7,
+		"Name": "强壮",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530521,
+		"HPRatio": 60000,
+		"Id": 1001,
+		"Key": 9,
+		"Name": "强壮",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"HPRatio": 40000,
+		"Id": 1001,
+		"Key": 10,
+		"Name": "强壮",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530531,
+		"HPRatio": 120000,
+		"Id": 1001,
+		"Key": 12,
+		"Name": "强壮",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"HPRatio": 3000,
+		"Id": 1002,
+		"Key": 101,
+		"Name": "破坏",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530502,
+		"HPRatio": 10000,
+		"Id": 1002,
+		"Key": 103,
+		"Name": "破坏",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"HPRatio": 10000,
+		"Id": 1002,
+		"Key": 104,
+		"Name": "破坏",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530512,
+		"HPRatio": 30000,
+		"Id": 1002,
+		"Key": 106,
+		"Name": "破坏",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"HPRatio": 20000,
+		"Id": 1002,
+		"Key": 107,
+		"Name": "破坏",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530522,
+		"HPRatio": 60000,
+		"Id": 1002,
+		"Key": 109,
+		"Name": "破坏",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"HPRatio": 40000,
+		"Id": 1002,
+		"Key": 110,
+		"Name": "破坏",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530532,
+		"HPRatio": 120000,
+		"Id": 1002,
+		"Key": 112,
+		"Name": "破坏",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"HPRatio": 3000,
+		"Id": 1003,
+		"Key": 201,
+		"Name": "坚韧",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530503,
+		"HPRatio": 10000,
+		"Id": 1003,
+		"Key": 203,
+		"Name": "坚韧",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"HPRatio": 10000,
+		"Id": 1003,
+		"Key": 204,
+		"Name": "坚韧",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530513,
+		"HPRatio": 30000,
+		"Id": 1003,
+		"Key": 206,
+		"Name": "坚韧",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"HPRatio": 20000,
+		"Id": 1003,
+		"Key": 207,
+		"Name": "坚韧",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530523,
+		"HPRatio": 60000,
+		"Id": 1003,
+		"Key": 209,
+		"Name": "坚韧",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"HPRatio": 40000,
+		"Id": 1003,
+		"Key": 210,
+		"Name": "坚韧",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530533,
+		"HPRatio": 120000,
+		"Id": 1003,
+		"Key": 212,
+		"Name": "坚韧",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 3000,
+		"Id": 1004,
+		"Key": 301,
+		"Name": "狂暴",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"AttrId": 2530501,
+		"Id": 1004,
+		"Key": 303,
+		"Name": "狂暴",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"Id": 1004,
+		"Key": 304,
+		"Name": "狂暴",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 30000,
+		"AttrId": 2530511,
+		"Id": 1004,
+		"Key": 306,
+		"Name": "狂暴",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 20000,
+		"Id": 1004,
+		"Key": 307,
+		"Name": "狂暴",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 60000,
+		"AttrId": 2530521,
+		"Id": 1004,
+		"Key": 309,
+		"Name": "狂暴",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 40000,
+		"Id": 1004,
+		"Key": 310,
+		"Name": "狂暴",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 120000,
+		"AttrId": 2530531,
+		"Id": 1004,
+		"Key": 312,
+		"Name": "狂暴",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 3000,
+		"Id": 1005,
+		"Key": 401,
+		"Name": "毁灭",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"AttrId": 2530502,
+		"Id": 1005,
+		"Key": 403,
+		"Name": "毁灭",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"Id": 1005,
+		"Key": 404,
+		"Name": "毁灭",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 30000,
+		"AttrId": 2530512,
+		"Id": 1005,
+		"Key": 406,
+		"Name": "毁灭",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 20000,
+		"Id": 1005,
+		"Key": 407,
+		"Name": "毁灭",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 60000,
+		"AttrId": 2530522,
+		"Id": 1005,
+		"Key": 409,
+		"Name": "毁灭",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 40000,
+		"Id": 1005,
+		"Key": 410,
+		"Name": "毁灭",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 120000,
+		"AttrId": 2530532,
+		"Id": 1005,
+		"Key": 412,
+		"Name": "毁灭",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 3000,
+		"Id": 1006,
+		"Key": 501,
+		"Name": "制裁",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"AttrId": 2530503,
+		"Id": 1006,
+		"Key": 503,
+		"Name": "制裁",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"ATKRatio": 10000,
+		"Id": 1006,
+		"Key": 504,
+		"Name": "制裁",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 30000,
+		"AttrId": 2530513,
+		"Id": 1006,
+		"Key": 506,
+		"Name": "制裁",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"ATKRatio": 20000,
+		"Id": 1006,
+		"Key": 507,
+		"Name": "制裁",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 60000,
+		"AttrId": 2530523,
+		"Id": 1006,
+		"Key": 509,
+		"Name": "制裁",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"ATKRatio": 40000,
+		"Id": 1006,
+		"Key": 510,
+		"Name": "制裁",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"ATKRatio": 120000,
+		"AttrId": 2530533,
+		"Id": 1006,
+		"Key": 512,
+		"Name": "制裁",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"DEFRatio": 3000,
+		"Id": 1007,
+		"Key": 601,
+		"Name": "神佑",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530501,
+		"DEFRatio": 10000,
+		"Id": 1007,
+		"Key": 603,
+		"Name": "神佑",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"DEFRatio": 10000,
+		"Id": 1007,
+		"Key": 604,
+		"Name": "神佑",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530511,
+		"DEFRatio": 30000,
+		"Id": 1007,
+		"Key": 606,
+		"Name": "神佑",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"DEFRatio": 20000,
+		"Id": 1007,
+		"Key": 607,
+		"Name": "神佑",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530521,
+		"DEFRatio": 60000,
+		"Id": 1007,
+		"Key": 609,
+		"Name": "神佑",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"DEFRatio": 40000,
+		"Id": 1007,
+		"Key": 610,
+		"Name": "神佑",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530531,
+		"DEFRatio": 120000,
+		"Id": 1007,
+		"Key": 612,
+		"Name": "神佑",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"DEFRatio": 3000,
+		"Id": 1008,
+		"Key": 701,
+		"Name": "残忍",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530502,
+		"DEFRatio": 10000,
+		"Id": 1008,
+		"Key": 703,
+		"Name": "残忍",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"DEFRatio": 10000,
+		"Id": 1008,
+		"Key": 704,
+		"Name": "残忍",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530512,
+		"DEFRatio": 30000,
+		"Id": 1008,
+		"Key": 706,
+		"Name": "残忍",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"DEFRatio": 20000,
+		"Id": 1008,
+		"Key": 707,
+		"Name": "残忍",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530522,
+		"DEFRatio": 60000,
+		"Id": 1008,
+		"Key": 709,
+		"Name": "残忍",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"DEFRatio": 40000,
+		"Id": 1008,
+		"Key": 710,
+		"Name": "残忍",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530532,
+		"DEFRatio": 120000,
+		"Id": 1008,
+		"Key": 712,
+		"Name": "残忍",
+		"Num": 4,
+		"Quality": 7
+	},
+	{
+		"DEFRatio": 3000,
+		"Id": 1009,
+		"Key": 801,
+		"Name": "守护",
+		"Num": 2,
+		"Quality": 4
+	},
+	{
+		"AttrId": 2530503,
+		"DEFRatio": 10000,
+		"Id": 1009,
+		"Key": 803,
+		"Name": "守护",
+		"Num": 4,
+		"Quality": 4
+	},
+	{
+		"DEFRatio": 10000,
+		"Id": 1009,
+		"Key": 804,
+		"Name": "守护",
+		"Num": 2,
+		"Quality": 5
+	},
+	{
+		"AttrId": 2530513,
+		"DEFRatio": 30000,
+		"Id": 1009,
+		"Key": 806,
+		"Name": "守护",
+		"Num": 4,
+		"Quality": 5
+	},
+	{
+		"DEFRatio": 20000,
+		"Id": 1009,
+		"Key": 807,
+		"Name": "守护",
+		"Num": 2,
+		"Quality": 6
+	},
+	{
+		"AttrId": 2530523,
+		"DEFRatio": 60000,
+		"Id": 1009,
+		"Key": 809,
+		"Name": "守护",
+		"Num": 4,
+		"Quality": 6
+	},
+	{
+		"DEFRatio": 40000,
+		"Id": 1009,
+		"Key": 810,
+		"Name": "守护",
+		"Num": 2,
+		"Quality": 7
+	},
+	{
+		"AttrId": 2530533,
+		"DEFRatio": 120000,
+		"Id": 1009,
+		"Key": 812,
+		"Name": "守护",
+		"Num": 4,
+		"Quality": 7
+	}
+]

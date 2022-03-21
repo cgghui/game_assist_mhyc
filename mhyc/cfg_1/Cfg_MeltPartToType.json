@@ -1,0 +1,42 @@
+[
+	{
+		"EquipMaterialType": 1,
+		"EquipPart": 1
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 2
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 3
+	},
+	{
+		"EquipMaterialType": 3,
+		"EquipPart": 4
+	},
+	{
+		"EquipMaterialType": 3,
+		"EquipPart": 5
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 6
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 7
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 8
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 9
+	},
+	{
+		"EquipMaterialType": 2,
+		"EquipPart": 10
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"BoxDropId": 1701,
+		"FirstPassBoxDropId": 1721,
+		"Icon": "map_icon2",
+		"Id": 1,
+		"Name": "仙狐林",
+		"PosX": 103,
+		"PosY": 150
+	},
+	{
+		"BoxDropId": 1702,
+		"FirstPassBoxDropId": 1722,
+		"Icon": "map_icon1",
+		"Id": 2,
+		"Name": "辉夜林",
+		"PosX": -154,
+		"PosY": 452
+	},
+	{
+		"BoxDropId": 1703,
+		"FirstPassBoxDropId": 1723,
+		"Icon": "map_icon3",
+		"Id": 3,
+		"Name": "玉枫林",
+		"PosX": 134,
+		"PosY": 640
+	},
+	{
+		"BoxDropId": 1704,
+		"FirstPassBoxDropId": 1724,
+		"Icon": "map_icon20",
+		"Id": 4,
+		"Name": "龙啸林",
+		"PosX": -156,
+		"PosY": 835
+	},
+	{
+		"BoxDropId": 1705,
+		"FirstPassBoxDropId": 1725,
+		"Icon": "map_icon24",
+		"Id": 5,
+		"Name": "长歌林",
+		"PosX": 143,
+		"PosY": 990
+	},
+	{
+		"BoxDropId": 1706,
+		"FirstPassBoxDropId": 1726,
+		"Icon": "map_icon16",
+		"Id": 6,
+		"Name": "噬渊林",
+		"PosX": -185,
+		"PosY": 1265
+	},
+	{
+		"BoxDropId": 1707,
+		"FirstPassBoxDropId": 1727,
+		"Icon": "map_icon10",
+		"Id": 7,
+		"Name": "月栖林",
+		"PosX": 96,
+		"PosY": 1555
+	},
+	{
+		"BoxDropId": 1708,
+		"FirstPassBoxDropId": 1728,
+		"Icon": "map_icon21",
+		"Id": 8,
+		"Name": "瓦尔仙林",
+		"PosX": -135,
+		"PosY": 1710
+	},
+	{
+		"BoxDropId": 1709,
+		"FirstPassBoxDropId": 1729,
+		"Icon": "map_icon25",
+		"Id": 9,
+		"Name": "地渊林",
+		"PosX": 116,
+		"PosY": 1928
+	},
+	{
+		"BoxDropId": 1710,
+		"FirstPassBoxDropId": 1730,
+		"Icon": "map_icon5",
+		"Id": 10,
+		"Name": "紫竹林",
+		"PosX": -196,
+		"PosY": 2080
+	}
+]

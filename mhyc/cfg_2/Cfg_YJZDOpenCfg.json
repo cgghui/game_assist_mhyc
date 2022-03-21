@@ -1,0 +1,14 @@
+[
+	{
+		"UnionAreaNum": 4,
+		"YJIdArr": "1|3|6|4"
+	},
+	{
+		"UnionAreaNum": 6,
+		"YJIdArr": "1|3|6|4|2"
+	},
+	{
+		"UnionAreaNum": 8,
+		"YJIdArr": "1|3|6|4|2|5"
+	}
+]

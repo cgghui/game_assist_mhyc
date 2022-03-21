@@ -1,0 +1,56 @@
+[
+	{
+		"GoodsId": 1001,
+		"Id": 1,
+		"MinGetRMB": 100,
+		"Multiple": 5,
+		"NeedRMB": 1,
+		"RedPkgRMB": 800,
+		"YBCount": 500
+	},
+	{
+		"GoodsId": 1002,
+		"Id": 2,
+		"MinGetRMB": 600,
+		"Multiple": 10,
+		"NeedRMB": 6,
+		"RedPkgRMB": 4800,
+		"YBCount": 6000
+	},
+	{
+		"GoodsId": 1003,
+		"Id": 3,
+		"MinGetRMB": 970,
+		"Multiple": 10,
+		"NeedRMB": 10,
+		"RedPkgRMB": 8000,
+		"YBCount": 10000
+	},
+	{
+		"GoodsId": 1004,
+		"Id": 4,
+		"MinGetRMB": 2910,
+		"Multiple": 10,
+		"NeedRMB": 30,
+		"RedPkgRMB": 24000,
+		"YBCount": 30000
+	},
+	{
+		"GoodsId": 1005,
+		"Id": 5,
+		"MinGetRMB": 4850,
+		"Multiple": 10,
+		"NeedRMB": 50,
+		"RedPkgRMB": 40000,
+		"YBCount": 50000
+	},
+	{
+		"GoodsId": 1006,
+		"Id": 6,
+		"MinGetRMB": 9000,
+		"Multiple": 5,
+		"NeedRMB": 98,
+		"RedPkgRMB": 78400,
+		"YBCount": 50000
+	}
+]

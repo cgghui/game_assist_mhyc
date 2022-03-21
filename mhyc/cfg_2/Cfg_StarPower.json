@@ -1,0 +1,4057 @@
+[
+	{
+		"AttrId": 100000001,
+		"Id": 10001,
+		"LevelAttrId": 100000101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010001,
+		"Id": 10002,
+		"LevelAttrId": 100011001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010002,
+		"Id": 10003,
+		"LevelAttrId": 100011002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000002,
+		"Id": 10004,
+		"LevelAttrId": 100000102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100000003,
+		"Id": 10005,
+		"LevelAttrId": 100000103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010003,
+		"Id": 10006,
+		"LevelAttrId": 100011003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010004,
+		"Id": 10007,
+		"LevelAttrId": 100011004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10008,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10701,
+		"SkillId": 10701,
+		"SkillType": 1
+	},
+	{
+		"Id": 10009,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10702,
+		"SkillId": 10702,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010005,
+		"Id": 10010,
+		"LevelAttrId": 100011005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010006,
+		"Id": 10011,
+		"LevelAttrId": 100011006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10012,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10703,
+		"SkillId": 10703,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000011,
+		"Id": 10013,
+		"LevelAttrId": 100000111,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010101,
+		"Id": 10014,
+		"LevelAttrId": 100011101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010102,
+		"Id": 10015,
+		"LevelAttrId": 100011102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000012,
+		"Id": 10016,
+		"LevelAttrId": 100000112,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100000013,
+		"Id": 10017,
+		"LevelAttrId": 100000113,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010103,
+		"Id": 10018,
+		"LevelAttrId": 100011103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010104,
+		"Id": 10019,
+		"LevelAttrId": 100011104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10020,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10701,
+		"SkillId": 10701,
+		"SkillType": 1
+	},
+	{
+		"Id": 10021,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10702,
+		"SkillId": 10702,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010105,
+		"Id": 10022,
+		"LevelAttrId": 100011105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010106,
+		"Id": 10023,
+		"LevelAttrId": 100011106,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10024,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10703,
+		"SkillId": 10703,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000021,
+		"Id": 10025,
+		"LevelAttrId": 100000121,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010201,
+		"Id": 10026,
+		"LevelAttrId": 100011201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010202,
+		"Id": 10027,
+		"LevelAttrId": 100011202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000022,
+		"Id": 10028,
+		"LevelAttrId": 100000122,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100000023,
+		"Id": 10029,
+		"LevelAttrId": 100000123,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010203,
+		"Id": 10030,
+		"LevelAttrId": 100011203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010204,
+		"Id": 10031,
+		"LevelAttrId": 100011204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10032,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10701,
+		"SkillId": 10701,
+		"SkillType": 1
+	},
+	{
+		"Id": 10033,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10702,
+		"SkillId": 10702,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010205,
+		"Id": 10034,
+		"LevelAttrId": 100011205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010206,
+		"Id": 10035,
+		"LevelAttrId": 100011206,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10036,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10703,
+		"SkillId": 10703,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000031,
+		"Id": 10037,
+		"LevelAttrId": 100000131,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010301,
+		"Id": 10038,
+		"LevelAttrId": 100011301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010302,
+		"Id": 10039,
+		"LevelAttrId": 100011302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000032,
+		"Id": 10040,
+		"LevelAttrId": 100000132,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100000033,
+		"Id": 10041,
+		"LevelAttrId": 100000133,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010303,
+		"Id": 10042,
+		"LevelAttrId": 100011303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010304,
+		"Id": 10043,
+		"LevelAttrId": 100011304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10044,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10701,
+		"SkillId": 10701,
+		"SkillType": 1
+	},
+	{
+		"Id": 10045,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10702,
+		"SkillId": 10702,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010305,
+		"Id": 10046,
+		"LevelAttrId": 100011305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010306,
+		"Id": 10047,
+		"LevelAttrId": 100011306,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10048,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10703,
+		"SkillId": 10703,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000041,
+		"Id": 10049,
+		"LevelAttrId": 100000141,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010401,
+		"Id": 10050,
+		"LevelAttrId": 100011401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010402,
+		"Id": 10051,
+		"LevelAttrId": 100011402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000042,
+		"Id": 10052,
+		"LevelAttrId": 100000142,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100000043,
+		"Id": 10053,
+		"LevelAttrId": 100000143,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 1
+	},
+	{
+		"AttrId": 100010403,
+		"Id": 10054,
+		"LevelAttrId": 100011403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010404,
+		"Id": 10055,
+		"LevelAttrId": 100011404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10056,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10701,
+		"SkillId": 10701,
+		"SkillType": 1
+	},
+	{
+		"Id": 10057,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10702,
+		"SkillId": 10702,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010405,
+		"Id": 10058,
+		"LevelAttrId": 100011405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010406,
+		"Id": 10059,
+		"LevelAttrId": 100011406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10060,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10703,
+		"SkillId": 10703,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000201,
+		"Id": 10101,
+		"LevelAttrId": 100000301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010001,
+		"Id": 10102,
+		"LevelAttrId": 100011001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010002,
+		"Id": 10103,
+		"LevelAttrId": 100011002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000202,
+		"Id": 10104,
+		"LevelAttrId": 100000302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100000203,
+		"Id": 10105,
+		"LevelAttrId": 100000303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010003,
+		"Id": 10106,
+		"LevelAttrId": 100011003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010004,
+		"Id": 10107,
+		"LevelAttrId": 100011004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10108,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10704,
+		"SkillId": 10704,
+		"SkillType": 1
+	},
+	{
+		"Id": 10109,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10705,
+		"SkillId": 10705,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010005,
+		"Id": 10110,
+		"LevelAttrId": 100011005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010006,
+		"Id": 10111,
+		"LevelAttrId": 100011006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10112,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10706,
+		"SkillId": 10706,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000211,
+		"Id": 10113,
+		"LevelAttrId": 100000311,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010101,
+		"Id": 10114,
+		"LevelAttrId": 100011101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010102,
+		"Id": 10115,
+		"LevelAttrId": 100011102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000212,
+		"Id": 10116,
+		"LevelAttrId": 100000312,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100000213,
+		"Id": 10117,
+		"LevelAttrId": 100000313,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010103,
+		"Id": 10118,
+		"LevelAttrId": 100011103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010104,
+		"Id": 10119,
+		"LevelAttrId": 100011104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10120,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10704,
+		"SkillId": 10704,
+		"SkillType": 1
+	},
+	{
+		"Id": 10121,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10705,
+		"SkillId": 10705,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010105,
+		"Id": 10122,
+		"LevelAttrId": 100011105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010106,
+		"Id": 10123,
+		"LevelAttrId": 100011106,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10124,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10706,
+		"SkillId": 10706,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000221,
+		"Id": 10125,
+		"LevelAttrId": 100000321,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010201,
+		"Id": 10126,
+		"LevelAttrId": 100011201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010202,
+		"Id": 10127,
+		"LevelAttrId": 100011202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000222,
+		"Id": 10128,
+		"LevelAttrId": 100000322,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100000223,
+		"Id": 10129,
+		"LevelAttrId": 100000323,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010203,
+		"Id": 10130,
+		"LevelAttrId": 100011203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010204,
+		"Id": 10131,
+		"LevelAttrId": 100011204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10132,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10704,
+		"SkillId": 10704,
+		"SkillType": 1
+	},
+	{
+		"Id": 10133,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10705,
+		"SkillId": 10705,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010205,
+		"Id": 10134,
+		"LevelAttrId": 100011205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010206,
+		"Id": 10135,
+		"LevelAttrId": 100011206,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10136,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10706,
+		"SkillId": 10706,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000231,
+		"Id": 10137,
+		"LevelAttrId": 100000331,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010301,
+		"Id": 10138,
+		"LevelAttrId": 100011301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010302,
+		"Id": 10139,
+		"LevelAttrId": 100011302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000232,
+		"Id": 10140,
+		"LevelAttrId": 100000332,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100000233,
+		"Id": 10141,
+		"LevelAttrId": 100000333,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010303,
+		"Id": 10142,
+		"LevelAttrId": 100011303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010304,
+		"Id": 10143,
+		"LevelAttrId": 100011304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10144,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10704,
+		"SkillId": 10704,
+		"SkillType": 1
+	},
+	{
+		"Id": 10145,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10705,
+		"SkillId": 10705,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010305,
+		"Id": 10146,
+		"LevelAttrId": 100011305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010306,
+		"Id": 10147,
+		"LevelAttrId": 100011306,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10148,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10706,
+		"SkillId": 10706,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000241,
+		"Id": 10149,
+		"LevelAttrId": 100000341,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010401,
+		"Id": 10150,
+		"LevelAttrId": 100011401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010402,
+		"Id": 10151,
+		"LevelAttrId": 100011402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000242,
+		"Id": 10152,
+		"LevelAttrId": 100000342,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100000243,
+		"Id": 10153,
+		"LevelAttrId": 100000343,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 2
+	},
+	{
+		"AttrId": 100010403,
+		"Id": 10154,
+		"LevelAttrId": 100011403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010404,
+		"Id": 10155,
+		"LevelAttrId": 100011404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10156,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10704,
+		"SkillId": 10704,
+		"SkillType": 1
+	},
+	{
+		"Id": 10157,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10705,
+		"SkillId": 10705,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010405,
+		"Id": 10158,
+		"LevelAttrId": 100011405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010406,
+		"Id": 10159,
+		"LevelAttrId": 100011406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10160,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10706,
+		"SkillId": 10706,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000401,
+		"Id": 10201,
+		"LevelAttrId": 100000501,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010001,
+		"Id": 10202,
+		"LevelAttrId": 100011001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010002,
+		"Id": 10203,
+		"LevelAttrId": 100011002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000402,
+		"Id": 10204,
+		"LevelAttrId": 100000502,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100000403,
+		"Id": 10205,
+		"LevelAttrId": 100000503,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010003,
+		"Id": 10206,
+		"LevelAttrId": 100011003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010004,
+		"Id": 10207,
+		"LevelAttrId": 100011004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10208,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10707,
+		"SkillId": 10707,
+		"SkillType": 1
+	},
+	{
+		"Id": 10209,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10708,
+		"SkillId": 10708,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010005,
+		"Id": 10210,
+		"LevelAttrId": 100011005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010006,
+		"Id": 10211,
+		"LevelAttrId": 100011006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10212,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10709,
+		"SkillId": 10709,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000411,
+		"Id": 10213,
+		"LevelAttrId": 100000511,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010101,
+		"Id": 10214,
+		"LevelAttrId": 100011101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010102,
+		"Id": 10215,
+		"LevelAttrId": 100011102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000412,
+		"Id": 10216,
+		"LevelAttrId": 100000512,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100000413,
+		"Id": 10217,
+		"LevelAttrId": 100000513,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010103,
+		"Id": 10218,
+		"LevelAttrId": 100011103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010104,
+		"Id": 10219,
+		"LevelAttrId": 100011104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10220,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10707,
+		"SkillId": 10707,
+		"SkillType": 1
+	},
+	{
+		"Id": 10221,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10708,
+		"SkillId": 10708,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010105,
+		"Id": 10222,
+		"LevelAttrId": 100011105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010106,
+		"Id": 10223,
+		"LevelAttrId": 100011106,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10224,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10709,
+		"SkillId": 10709,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000421,
+		"Id": 10225,
+		"LevelAttrId": 100000521,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010201,
+		"Id": 10226,
+		"LevelAttrId": 100011201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010202,
+		"Id": 10227,
+		"LevelAttrId": 100011202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000422,
+		"Id": 10228,
+		"LevelAttrId": 100000522,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100000423,
+		"Id": 10229,
+		"LevelAttrId": 100000523,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010203,
+		"Id": 10230,
+		"LevelAttrId": 100011203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010204,
+		"Id": 10231,
+		"LevelAttrId": 100011204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10232,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10707,
+		"SkillId": 10707,
+		"SkillType": 1
+	},
+	{
+		"Id": 10233,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10708,
+		"SkillId": 10708,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010205,
+		"Id": 10234,
+		"LevelAttrId": 100011205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010206,
+		"Id": 10235,
+		"LevelAttrId": 100011206,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10236,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10709,
+		"SkillId": 10709,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000431,
+		"Id": 10237,
+		"LevelAttrId": 100000531,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010301,
+		"Id": 10238,
+		"LevelAttrId": 100011301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010302,
+		"Id": 10239,
+		"LevelAttrId": 100011302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000432,
+		"Id": 10240,
+		"LevelAttrId": 100000532,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100000433,
+		"Id": 10241,
+		"LevelAttrId": 100000533,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010303,
+		"Id": 10242,
+		"LevelAttrId": 100011303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010304,
+		"Id": 10243,
+		"LevelAttrId": 100011304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10244,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10707,
+		"SkillId": 10707,
+		"SkillType": 1
+	},
+	{
+		"Id": 10245,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10708,
+		"SkillId": 10708,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010305,
+		"Id": 10246,
+		"LevelAttrId": 100011305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010306,
+		"Id": 10247,
+		"LevelAttrId": 100011306,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10248,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10709,
+		"SkillId": 10709,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000441,
+		"Id": 10249,
+		"LevelAttrId": 100000541,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010401,
+		"Id": 10250,
+		"LevelAttrId": 100011401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010402,
+		"Id": 10251,
+		"LevelAttrId": 100011402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000442,
+		"Id": 10252,
+		"LevelAttrId": 100000542,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100000443,
+		"Id": 10253,
+		"LevelAttrId": 100000543,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 3
+	},
+	{
+		"AttrId": 100010403,
+		"Id": 10254,
+		"LevelAttrId": 100011403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010404,
+		"Id": 10255,
+		"LevelAttrId": 100011404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10256,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10707,
+		"SkillId": 10707,
+		"SkillType": 1
+	},
+	{
+		"Id": 10257,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10708,
+		"SkillId": 10708,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010405,
+		"Id": 10258,
+		"LevelAttrId": 100011405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010406,
+		"Id": 10259,
+		"LevelAttrId": 100011406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10260,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10709,
+		"SkillId": 10709,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000601,
+		"Id": 10301,
+		"LevelAttrId": 100000701,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010001,
+		"Id": 10302,
+		"LevelAttrId": 100011001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010002,
+		"Id": 10303,
+		"LevelAttrId": 100011002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000602,
+		"Id": 10304,
+		"LevelAttrId": 100000702,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100000603,
+		"Id": 10305,
+		"LevelAttrId": 100000703,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010003,
+		"Id": 10306,
+		"LevelAttrId": 100011003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010004,
+		"Id": 10307,
+		"LevelAttrId": 100011004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10308,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10710,
+		"SkillId": 10710,
+		"SkillType": 1
+	},
+	{
+		"Id": 10309,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10711,
+		"SkillId": 10711,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010005,
+		"Id": 10310,
+		"LevelAttrId": 100011005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010006,
+		"Id": 10311,
+		"LevelAttrId": 100011006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10312,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10712,
+		"SkillId": 10712,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000611,
+		"Id": 10313,
+		"LevelAttrId": 100000711,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010101,
+		"Id": 10314,
+		"LevelAttrId": 100011101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010102,
+		"Id": 10315,
+		"LevelAttrId": 100011102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000612,
+		"Id": 10316,
+		"LevelAttrId": 100000712,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100000613,
+		"Id": 10317,
+		"LevelAttrId": 100000713,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010103,
+		"Id": 10318,
+		"LevelAttrId": 100011103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010104,
+		"Id": 10319,
+		"LevelAttrId": 100011104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10320,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10710,
+		"SkillId": 10710,
+		"SkillType": 1
+	},
+	{
+		"Id": 10321,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10711,
+		"SkillId": 10711,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010105,
+		"Id": 10322,
+		"LevelAttrId": 100011105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010106,
+		"Id": 10323,
+		"LevelAttrId": 100011106,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10324,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10712,
+		"SkillId": 10712,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000621,
+		"Id": 10325,
+		"LevelAttrId": 100000721,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010201,
+		"Id": 10326,
+		"LevelAttrId": 100011201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010202,
+		"Id": 10327,
+		"LevelAttrId": 100011202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000622,
+		"Id": 10328,
+		"LevelAttrId": 100000722,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100000623,
+		"Id": 10329,
+		"LevelAttrId": 100000723,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010203,
+		"Id": 10330,
+		"LevelAttrId": 100011203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010204,
+		"Id": 10331,
+		"LevelAttrId": 100011204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10332,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10710,
+		"SkillId": 10710,
+		"SkillType": 1
+	},
+	{
+		"Id": 10333,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10711,
+		"SkillId": 10711,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010205,
+		"Id": 10334,
+		"LevelAttrId": 100011205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010206,
+		"Id": 10335,
+		"LevelAttrId": 100011206,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10336,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10712,
+		"SkillId": 10712,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000631,
+		"Id": 10337,
+		"LevelAttrId": 100000731,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010301,
+		"Id": 10338,
+		"LevelAttrId": 100011301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010302,
+		"Id": 10339,
+		"LevelAttrId": 100011302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000632,
+		"Id": 10340,
+		"LevelAttrId": 100000732,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100000633,
+		"Id": 10341,
+		"LevelAttrId": 100000733,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010303,
+		"Id": 10342,
+		"LevelAttrId": 100011303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010304,
+		"Id": 10343,
+		"LevelAttrId": 100011304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10344,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10710,
+		"SkillId": 10710,
+		"SkillType": 1
+	},
+	{
+		"Id": 10345,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10711,
+		"SkillId": 10711,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010305,
+		"Id": 10346,
+		"LevelAttrId": 100011305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010306,
+		"Id": 10347,
+		"LevelAttrId": 100011306,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10348,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10712,
+		"SkillId": 10712,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000641,
+		"Id": 10349,
+		"LevelAttrId": 100000741,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010401,
+		"Id": 10350,
+		"LevelAttrId": 100011401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010402,
+		"Id": 10351,
+		"LevelAttrId": 100011402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000642,
+		"Id": 10352,
+		"LevelAttrId": 100000742,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100000643,
+		"Id": 10353,
+		"LevelAttrId": 100000743,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 4
+	},
+	{
+		"AttrId": 100010403,
+		"Id": 10354,
+		"LevelAttrId": 100011403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010404,
+		"Id": 10355,
+		"LevelAttrId": 100011404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10356,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10710,
+		"SkillId": 10710,
+		"SkillType": 1
+	},
+	{
+		"Id": 10357,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10711,
+		"SkillId": 10711,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010405,
+		"Id": 10358,
+		"LevelAttrId": 100011405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010406,
+		"Id": 10359,
+		"LevelAttrId": 100011406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10360,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10712,
+		"SkillId": 10712,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000801,
+		"Id": 10401,
+		"LevelAttrId": 100000901,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010001,
+		"Id": 10402,
+		"LevelAttrId": 100011001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010002,
+		"Id": 10403,
+		"LevelAttrId": 100011002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000802,
+		"Id": 10404,
+		"LevelAttrId": 100000902,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100000803,
+		"Id": 10405,
+		"LevelAttrId": 100000903,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010003,
+		"Id": 10406,
+		"LevelAttrId": 100011003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010004,
+		"Id": 10407,
+		"LevelAttrId": 100011004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10408,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10713,
+		"SkillId": 10713,
+		"SkillType": 1
+	},
+	{
+		"Id": 10409,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10714,
+		"SkillId": 10714,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010005,
+		"Id": 10410,
+		"LevelAttrId": 100011005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010006,
+		"Id": 10411,
+		"LevelAttrId": 100011006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10412,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10715,
+		"SkillId": 10715,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000811,
+		"Id": 10413,
+		"LevelAttrId": 100000911,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010101,
+		"Id": 10414,
+		"LevelAttrId": 100011101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010102,
+		"Id": 10415,
+		"LevelAttrId": 100011102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000812,
+		"Id": 10416,
+		"LevelAttrId": 100000912,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100000813,
+		"Id": 10417,
+		"LevelAttrId": 100000913,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010103,
+		"Id": 10418,
+		"LevelAttrId": 100011103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010104,
+		"Id": 10419,
+		"LevelAttrId": 100011104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10420,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10713,
+		"SkillId": 10713,
+		"SkillType": 1
+	},
+	{
+		"Id": 10421,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10714,
+		"SkillId": 10714,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010105,
+		"Id": 10422,
+		"LevelAttrId": 100011105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010106,
+		"Id": 10423,
+		"LevelAttrId": 100011106,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10424,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10715,
+		"SkillId": 10715,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000821,
+		"Id": 10425,
+		"LevelAttrId": 100000921,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010201,
+		"Id": 10426,
+		"LevelAttrId": 100011201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010202,
+		"Id": 10427,
+		"LevelAttrId": 100011202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000822,
+		"Id": 10428,
+		"LevelAttrId": 100000922,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100000823,
+		"Id": 10429,
+		"LevelAttrId": 100000923,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010203,
+		"Id": 10430,
+		"LevelAttrId": 100011203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010204,
+		"Id": 10431,
+		"LevelAttrId": 100011204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10432,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10713,
+		"SkillId": 10713,
+		"SkillType": 1
+	},
+	{
+		"Id": 10433,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10714,
+		"SkillId": 10714,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010205,
+		"Id": 10434,
+		"LevelAttrId": 100011205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010206,
+		"Id": 10435,
+		"LevelAttrId": 100011206,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10436,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10715,
+		"SkillId": 10715,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000831,
+		"Id": 10437,
+		"LevelAttrId": 100000931,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010301,
+		"Id": 10438,
+		"LevelAttrId": 100011301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010302,
+		"Id": 10439,
+		"LevelAttrId": 100011302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000832,
+		"Id": 10440,
+		"LevelAttrId": 100000932,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100000833,
+		"Id": 10441,
+		"LevelAttrId": 100000933,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010303,
+		"Id": 10442,
+		"LevelAttrId": 100011303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010304,
+		"Id": 10443,
+		"LevelAttrId": 100011304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10444,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10713,
+		"SkillId": 10713,
+		"SkillType": 1
+	},
+	{
+		"Id": 10445,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10714,
+		"SkillId": 10714,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010305,
+		"Id": 10446,
+		"LevelAttrId": 100011305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010306,
+		"Id": 10447,
+		"LevelAttrId": 100011306,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10448,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10715,
+		"SkillId": 10715,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100000841,
+		"Id": 10449,
+		"LevelAttrId": 100000941,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 103,
+		"ShowAttr": "star3",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010401,
+		"Id": 10450,
+		"LevelAttrId": 100011401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010402,
+		"Id": 10451,
+		"LevelAttrId": 100011402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100000842,
+		"Id": 10452,
+		"LevelAttrId": 100000942,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100000843,
+		"Id": 10453,
+		"LevelAttrId": 100000943,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2",
+		"StarMapType": 5
+	},
+	{
+		"AttrId": 100010403,
+		"Id": 10454,
+		"LevelAttrId": 100011403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010404,
+		"Id": 10455,
+		"LevelAttrId": 100011404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10456,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10713,
+		"SkillId": 10713,
+		"SkillType": 1
+	},
+	{
+		"Id": 10457,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10714,
+		"SkillId": 10714,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100010405,
+		"Id": 10458,
+		"LevelAttrId": 100011405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100010406,
+		"Id": 10459,
+		"LevelAttrId": 100011406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 10460,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 10715,
+		"SkillId": 10715,
+		"SkillType": 1
+	},
+	{
+		"AttrId": 100002001,
+		"Id": 11001,
+		"LevelAttrId": 100002001,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "1"
+	},
+	{
+		"AttrId": 100002002,
+		"Id": 11002,
+		"LevelAttrId": 100002002,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "3"
+	},
+	{
+		"AttrId": 100100001,
+		"Id": 12001,
+		"LevelAttrId": 100101001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12002,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12003,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12004,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12005,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12006,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100002,
+		"Id": 12007,
+		"LevelAttrId": 100101002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12008,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12009,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12010,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12011,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12012,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"SkillId": 10802,
+		"SkillType": 2
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12013,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100003,
+		"Id": 12014,
+		"LevelAttrId": 100101003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12015,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12016,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12017,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"SkillId": 10803,
+		"SkillType": 2
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12018,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12019,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12020,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100004,
+		"Id": 12021,
+		"LevelAttrId": 100101004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12022,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12023,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100005,
+		"Id": 12024,
+		"LevelAttrId": 100101005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12025,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12026,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12027,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "101",
+		"SkillDes": "雷云旋涡造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "101:5:1000|151:5:1000|156:5:1000|161:5:1000|166:5:1000|171:5:1000|176:5:1000|181:5:1000|186:5:1000"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12028,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12029,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "102",
+		"SkillDes": "坠龙剑诀造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "102:5:1000|152:5:1000|157:5:1000|162:5:1000|167:5:1000|172:5:1000|177:5:1000|182:5:1000|187:5:1000"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12030,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12031,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12032,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "104",
+		"SkillDes": "惊天一剑造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "104:10:3000|154:10:3000|159:10:3000|164:10:3000|169:10:3000|174:10:3000|179:10:3000|184:10:3000|189:10:3000"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12033,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12034,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12035,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "103",
+		"SkillDes": "怒剑狂花造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "103:10:3000|153:10:3000|158:10:3000|163:10:3000|168:10:3000|173:10:3000|178:10:3000|183:10:3000|188:10:3000"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12036,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12037,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100101,
+		"Id": 12038,
+		"LevelAttrId": 100101101,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12039,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12040,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100102,
+		"Id": 12041,
+		"LevelAttrId": 100101102,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12042,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12043,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12044,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"SkillId": 10801,
+		"SkillType": 2
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12045,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12046,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100103,
+		"Id": 12047,
+		"LevelAttrId": 100101103,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12048,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12049,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12050,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "105",
+		"SkillDes": "纯阳罡气造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "105:10:3000|155:10:3000|160:10:3000|165:10:3000|170:10:3000|175:10:3000|180:10:3000|185:10:3000|190:10:3000"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12051,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12052,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100104,
+		"Id": 12053,
+		"LevelAttrId": 100101104,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12054,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12055,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100105,
+		"Id": 12056,
+		"LevelAttrId": 100101105,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12057,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12058,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100201,
+		"Id": 12059,
+		"LevelAttrId": 100101201,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12060,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12061,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683002",
+		"SkillDes": "神兽宠物群攻技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "373:5:1000|375:5:1000|377:5:1000|378:5:1000|380:5:1000|382:5:1000|383:5:1000|11001:5:1000|11011:5:1000|11021:5:1000|11031:5:1000|11041:5:1000|11051:5:1000|11061:5:1000|11201:5:1000|11211:5:1000|11221:5:1000|11231:5:1000|11241:5:1000|11251:5:1000|11261:5:1000|11501:5:1000|11511:5:1000|11521:5:1000|11531:5:1000|11541:5:1000|11551:5:1000|11561:5:1000|11701:5:1000|11711:5:1000|11721:5:1000|11731:5:1000|11741:5:1000|11751:5:1000|11761:5:1000|11801:5:1000|11811:5:1000|11821:5:1000|11831:5:1000|11841:5:1000|11851:5:1000|11861:5:1000|11901:5:1000|11911:5:1000|11921:5:1000|11931:5:1000|11941:5:1000|11951:5:1000|11961:5:1000"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12062,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100202,
+		"Id": 12063,
+		"LevelAttrId": 100101202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110007,
+		"Id": 12064,
+		"LevelAttrId": 100111007,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12065,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683001",
+		"SkillDes": "神兽宠物单攻技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "374:10:3000|376:10:3000|379:10:3000|11101:10:3000|11111:10:3000|11121:10:3000|11131:10:3000|11141:10:3000|11151:10:3000|11161:10:3000|11301:10:3000|11311:10:3000|11321:10:3000|11331:10:3000|11341:10:3000|11351:10:3000|11361:10:3000|11601:10:3000|11611:10:3000|11621:10:3000|11631:10:3000|11641:10:3000|11651:10:3000|11661:10:3000"
+	},
+	{
+		"AttrId": 100110008,
+		"Id": 12066,
+		"LevelAttrId": 100111008,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110009,
+		"Id": 12067,
+		"LevelAttrId": 100111009,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12068,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "636001",
+		"SkillDes": "合体天仙主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "231:5:1000|232:5:1000|233:5:1000|234:5:1000|235:5:1000|236:5:1000"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12069,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12070,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12071,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"SkillId": 10804,
+		"SkillType": 2
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12072,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100203,
+		"Id": 12073,
+		"LevelAttrId": 100101203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12074,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12075,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683003",
+		"SkillDes": "仙童男童主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "251:10:3000|261:10:3000|262:10:3000|263:10:3000|264:10:3000|265:10:3000|266:10:3000|267:10:3000|268:10:3000|269:10:3000"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12076,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100202,
+		"Id": 12077,
+		"LevelAttrId": 100101202,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12078,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12079,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100203,
+		"Id": 12080,
+		"LevelAttrId": 100101203,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12081,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12082,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683004",
+		"SkillDes": "仙童女童主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "252:10:3000|270:10:3000|281:10:3000|282:10:3000|283:10:3000|284:10:3000|285:10:3000|286:10:3000|287:10:3000|288:10:3000|289:10:3000"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12083,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100204,
+		"Id": 12084,
+		"LevelAttrId": 100101204,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12085,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12086,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "636001",
+		"SkillDes": "合体天仙主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "231:5:1000|232:5:1000|233:5:1000|234:5:1000|235:5:1000|236:5:1000"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12087,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12088,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12089,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683003",
+		"SkillDes": "仙童男童主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "251:10:3000|261:10:3000|262:10:3000|263:10:3000|264:10:3000|265:10:3000|266:10:3000|267:10:3000|268:10:3000|269:10:3000"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12090,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12091,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100205,
+		"Id": 12092,
+		"LevelAttrId": 100101205,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12093,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12094,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100301,
+		"Id": 12095,
+		"LevelAttrId": 100101301,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12096,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12097,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100302,
+		"Id": 12098,
+		"LevelAttrId": 100101302,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12099,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12100,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683005",
+		"SkillDes": "战神普攻造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "491:10:3000|492:10:3000|493:10:3000|494:10:3000|495:10:3000|496:10:3000|497:10:3000|498:10:3000|499:10:3000|501:10:3000|561:10:3000|562:10:3000|563:10:3000"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12101,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12102,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100303,
+		"Id": 12103,
+		"LevelAttrId": 100101303,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12104,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12105,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100304,
+		"Id": 12106,
+		"LevelAttrId": 100101304,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12107,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12108,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100305,
+		"Id": 12109,
+		"LevelAttrId": 100101305,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12110,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12111,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12112,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683006",
+		"SkillDes": "战神连击造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "502:10:3000|503:10:3000|504:10:3000|505:10:3000|506:10:3000|507:10:3000|508:10:3000|509:10:3000|551:10:3000|552:10:3000|571:10:3000|572:10:3000|573:10:3000"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12113,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12114,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100401,
+		"Id": 12115,
+		"LevelAttrId": 100101401,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12116,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12117,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100402,
+		"Id": 12118,
+		"LevelAttrId": 100101402,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12119,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100403,
+		"Id": 12120,
+		"LevelAttrId": 100101403,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12121,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12122,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683001",
+		"SkillDes": "神兽宠物单攻技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "374:10:3000|376:10:3000|379:10:3000|11101:10:3000|11111:10:3000|11121:10:3000|11131:10:3000|11141:10:3000|11151:10:3000|11161:10:3000|11301:10:3000|11311:10:3000|11321:10:3000|11331:10:3000|11341:10:3000|11351:10:3000|11361:10:3000|11601:10:3000|11611:10:3000|11621:10:3000|11631:10:3000|11641:10:3000|11651:10:3000|11661:10:3000"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12123,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100404,
+		"Id": 12124,
+		"LevelAttrId": 100101404,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12125,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12126,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1
+	},
+	{
+		"AttrId": 100110007,
+		"Id": 12127,
+		"LevelAttrId": 100111007,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12128,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100405,
+		"Id": 12129,
+		"LevelAttrId": 100101405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12130,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12131,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100406,
+		"Id": 12132,
+		"LevelAttrId": 100101406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12133,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12134,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1
+	},
+	{
+		"AttrId": 100110001,
+		"Id": 12135,
+		"LevelAttrId": 100111001,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100405,
+		"Id": 12136,
+		"LevelAttrId": 100101405,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110002,
+		"Id": 12137,
+		"LevelAttrId": 100111002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12138,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"SkillId": 10804,
+		"SkillType": 2
+	},
+	{
+		"AttrId": 100110003,
+		"Id": 12139,
+		"LevelAttrId": 100111003,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100110004,
+		"Id": 12140,
+		"LevelAttrId": 100111004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100406,
+		"Id": 12141,
+		"LevelAttrId": 100101406,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100110005,
+		"Id": 12142,
+		"LevelAttrId": 100111005,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"AttrId": 100100407,
+		"Id": 12143,
+		"LevelAttrId": 100101407,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 102,
+		"ShowAttr": "star2"
+	},
+	{
+		"AttrId": 100110006,
+		"Id": 12144,
+		"LevelAttrId": 100111006,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "gfx"
+	},
+	{
+		"Id": 12145,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683010"
+	},
+	{
+		"AttrId": 100100002,
+		"Id": 12146,
+		"LevelAttrId": 100101002,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"AttrId": 100100004,
+		"Id": 12147,
+		"LevelAttrId": 100101004,
+		"MaxLevel": 10,
+		"MinLevel": 1,
+		"PowerType": 101,
+		"ShowAttr": "star1"
+	},
+	{
+		"Id": 12148,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683007",
+		"SkillDes": "英雄主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "10301:10:3000|10302:10:3000|10303:10:3000|10304:10:3000|10305:10:3000|10306:10:3000|10307:10:3000|10308:10:3000|10309:10:3000|10310:10:3000"
+	},
+	{
+		"Id": 12149,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683008",
+		"SkillDes": "英雄组合技造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "10351:5:1000|10352:5:1000|10353:5:1000"
+	},
+	{
+		"Id": 12150,
+		"MaxLevel": 1,
+		"MinLevel": 1,
+		"PowerType": 1,
+		"ShowAttr": "683009",
+		"SkillDes": "异兽主动技能造成的伤害额外提升\u003ccolor=#43f241\u003e{1}%\u003c/c\u003e+\u003ccolor=#43f241\u003e{2}\u003c/c\u003e",
+		"SkillEffect": "10501:10:3000|10502:10:3000|10503:10:3000|10504:10:3000|10505:10:3000|10506:10:3000|10507:10:3000|10508:10:3000|10509:10:3000|10510:10:3000|10536:10:3000|10537:10:3000|10538:10:3000|10539:10:3000|10540:10:3000|10541:10:3000|10542:10:3000|10543:10:3000|10544:10:3000|10545:10:3000"
+	}
+]

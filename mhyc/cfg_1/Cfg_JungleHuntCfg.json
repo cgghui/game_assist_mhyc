@@ -1,0 +1,34 @@
+[
+	{
+		"CfgKey": "JungleResetTmsLimitId",
+		"CfgValue": "100201"
+	},
+	{
+		"CfgKey": "JungleCureCostItemInfo",
+		"CfgValue": "2:1000"
+	},
+	{
+		"CfgKey": "JungleRefreshCostItemInfo",
+		"CfgValue": "2:200"
+	},
+	{
+		"CfgKey": "JungleMaxFreeResetTms",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "JungleDayFreeResetTms",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "JungleDayAutoResetDays",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "JungleSweepVip",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "JungleResetTime",
+		"CfgValue": "4:6"
+	}
+]

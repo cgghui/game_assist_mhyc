@@ -1,0 +1,106 @@
+[
+	{
+		"CfgKey": "RandSysPet2",
+		"CfgValue": "1:500"
+	},
+	{
+		"CfgKey": "ComposePet2",
+		"CfgValue": "1:300"
+	},
+	{
+		"CfgKey": "ComposePetProtect",
+		"CfgValue": "10000"
+	},
+	{
+		"CfgKey": "ComposeHighValue1",
+		"CfgValue": "5:4"
+	},
+	{
+		"CfgKey": "ComposeHighValue2",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HealthyRatio",
+		"CfgValue": "2700"
+	},
+	{
+		"CfgKey": "DefenseRatio",
+		"CfgValue": "720"
+	},
+	{
+		"CfgKey": "AttackRatio",
+		"CfgValue": "1320"
+	},
+	{
+		"CfgKey": "PetChange1",
+		"CfgValue": "1:6|2:3|3:80|4:1|5:1"
+	},
+	{
+		"CfgKey": "PetChange2",
+		"CfgValue": "1:5|2:2|3:80|4:1|5:1"
+	},
+	{
+		"CfgKey": "PetChange3",
+		"CfgValue": "1:4|2:1|3:80|4:1|5:1"
+	},
+	{
+		"CfgKey": "PetChange4",
+		"CfgValue": "1:3|2:1|3:80|4:1|5:1"
+	},
+	{
+		"CfgKey": "PetChange5",
+		"CfgValue": "1:2|2:0|3:80|4:1|5:1"
+	},
+	{
+		"CfgKey": "MaxDropBookNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "Obtain",
+		"CfgValue": "2020201"
+	},
+	{
+		"CfgKey": "PetComposeNum",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "PetMaxNum",
+		"CfgValue": "3000"
+	},
+	{
+		"CfgKey": "PetDevourNum",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "HelpPetNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "PetFreeRarity",
+		"CfgValue": "1|2"
+	},
+	{
+		"CfgKey": "PetBreakQuality",
+		"CfgValue": "5|6|7"
+	},
+	{
+		"CfgKey": "PetFreeMax",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "PetAwakenLimit",
+		"CfgValue": "7|1:1|6|5"
+	},
+	{
+		"CfgKey": "PetAwaTransform",
+		"CfgValue": "3|7"
+	},
+	{
+		"CfgKey": "XiaoTianQuanActiveSkill",
+		"CfgValue": "381|11706|11716|11726|11736|11746"
+	},
+	{
+		"CfgKey": "ReliveMaxNum",
+		"CfgValue": "10"
+	}
+]

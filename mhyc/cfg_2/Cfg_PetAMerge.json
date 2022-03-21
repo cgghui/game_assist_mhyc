@@ -1,0 +1,75 @@
+[
+	{
+		"ActiveSkillId": "219:1",
+		"AnimId": 2043,
+		"Attr": 2673001,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8001,
+		"Quality": 1,
+		"SkillCount": 1
+	},
+	{
+		"ActiveSkillId": "231:1",
+		"AnimId": 2043,
+		"Attr": 2673002,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8002,
+		"Quality": 2,
+		"SkillCount": 1
+	},
+	{
+		"ActiveSkillId": "232:1",
+		"AnimId": 2043,
+		"Attr": 2673003,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8003,
+		"Quality": 3,
+		"SkillCount": 2
+	},
+	{
+		"ActiveSkillId": "233:1",
+		"AnimId": 2043,
+		"Attr": 2673004,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8004,
+		"Quality": 4,
+		"SkillCount": 3
+	},
+	{
+		"ActiveSkillId": "234:1",
+		"AnimId": 2043,
+		"Attr": 2673005,
+		"AwakePos": 1,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8005,
+		"Quality": 5,
+		"SkillCount": 4
+	},
+	{
+		"ActiveSkillId": "235:1",
+		"AnimId": 2043,
+		"Attr": 2673006,
+		"AwakePos": 1,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8006,
+		"Quality": 6,
+		"SkillCount": 5
+	},
+	{
+		"ActiveSkillId": "236:1",
+		"AnimId": 2043,
+		"Attr": 2673007,
+		"AwakePos": 1,
+		"Name": "九天玄女",
+		"PassiveSkills": "8000:1|8001:1|8002:1|8003:1",
+		"PetAId": 8007,
+		"Quality": 7,
+		"SkillCount": 5
+	}
+]

@@ -1,0 +1,3002 @@
+[
+	{
+		"AddAttrId": 3402001,
+		"BaseAttrId": 3405001,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402002,
+		"BaseAttrId": 3405002,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402003,
+		"BaseAttrId": 3405003,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402004,
+		"BaseAttrId": 3405004,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402005,
+		"BaseAttrId": 3405005,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402006,
+		"BaseAttrId": 3405006,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402007,
+		"BaseAttrId": 3405007,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402008,
+		"BaseAttrId": 3405008,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402009,
+		"BaseAttrId": 3405009,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402010,
+		"BaseAttrId": 3405010,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402011,
+		"BaseAttrId": 3405011,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402012,
+		"BaseAttrId": 3405012,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402013,
+		"BaseAttrId": 3405013,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402014,
+		"BaseAttrId": 3405014,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402015,
+		"BaseAttrId": 3405015,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402016,
+		"BaseAttrId": 3405016,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402017,
+		"BaseAttrId": 3405017,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402018,
+		"BaseAttrId": 3405018,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402019,
+		"BaseAttrId": 3405019,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402020,
+		"BaseAttrId": 3405020,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402021,
+		"BaseAttrId": 3405021,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402022,
+		"BaseAttrId": 3405022,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402023,
+		"BaseAttrId": 3405023,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402024,
+		"BaseAttrId": 3405024,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402025,
+		"BaseAttrId": 3405025,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402026,
+		"BaseAttrId": 3405026,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402027,
+		"BaseAttrId": 3405027,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402028,
+		"BaseAttrId": 3405028,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402029,
+		"BaseAttrId": 3405029,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402030,
+		"BaseAttrId": 3405030,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402031,
+		"BaseAttrId": 3405031,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402032,
+		"BaseAttrId": 3405032,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402033,
+		"BaseAttrId": 3405033,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402034,
+		"BaseAttrId": 3405034,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402035,
+		"BaseAttrId": 3405035,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402036,
+		"BaseAttrId": 3405036,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402037,
+		"BaseAttrId": 3405037,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402038,
+		"BaseAttrId": 3405038,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402039,
+		"BaseAttrId": 3405039,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402040,
+		"BaseAttrId": 3405040,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402041,
+		"BaseAttrId": 3405041,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402042,
+		"BaseAttrId": 3405042,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402043,
+		"BaseAttrId": 3405043,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402044,
+		"BaseAttrId": 3405044,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402045,
+		"BaseAttrId": 3405045,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402046,
+		"BaseAttrId": 3405046,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402047,
+		"BaseAttrId": 3405047,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402048,
+		"BaseAttrId": 3405048,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402049,
+		"BaseAttrId": 3405049,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402050,
+		"BaseAttrId": 3405050,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 3402201,
+		"BaseAttrId": 3405201,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402202,
+		"BaseAttrId": 3405202,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402203,
+		"BaseAttrId": 3405203,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402204,
+		"BaseAttrId": 3405204,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402205,
+		"BaseAttrId": 3405205,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402206,
+		"BaseAttrId": 3405206,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402207,
+		"BaseAttrId": 3405207,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402208,
+		"BaseAttrId": 3405208,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402209,
+		"BaseAttrId": 3405209,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402210,
+		"BaseAttrId": 3405210,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402211,
+		"BaseAttrId": 3405211,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402212,
+		"BaseAttrId": 3405212,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402213,
+		"BaseAttrId": 3405213,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402214,
+		"BaseAttrId": 3405214,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402215,
+		"BaseAttrId": 3405215,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402216,
+		"BaseAttrId": 3405216,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402217,
+		"BaseAttrId": 3405217,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402218,
+		"BaseAttrId": 3405218,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402219,
+		"BaseAttrId": 3405219,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402220,
+		"BaseAttrId": 3405220,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402221,
+		"BaseAttrId": 3405221,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402222,
+		"BaseAttrId": 3405222,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402223,
+		"BaseAttrId": 3405223,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402224,
+		"BaseAttrId": 3405224,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402225,
+		"BaseAttrId": 3405225,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402226,
+		"BaseAttrId": 3405226,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402227,
+		"BaseAttrId": 3405227,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402228,
+		"BaseAttrId": 3405228,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402229,
+		"BaseAttrId": 3405229,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402230,
+		"BaseAttrId": 3405230,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402231,
+		"BaseAttrId": 3405231,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402232,
+		"BaseAttrId": 3405232,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402233,
+		"BaseAttrId": 3405233,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402234,
+		"BaseAttrId": 3405234,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402235,
+		"BaseAttrId": 3405235,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402236,
+		"BaseAttrId": 3405236,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402237,
+		"BaseAttrId": 3405237,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402238,
+		"BaseAttrId": 3405238,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402239,
+		"BaseAttrId": 3405239,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402240,
+		"BaseAttrId": 3405240,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402241,
+		"BaseAttrId": 3405241,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402242,
+		"BaseAttrId": 3405242,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402243,
+		"BaseAttrId": 3405243,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402244,
+		"BaseAttrId": 3405244,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402245,
+		"BaseAttrId": 3405245,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402246,
+		"BaseAttrId": 3405246,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402247,
+		"BaseAttrId": 3405247,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402248,
+		"BaseAttrId": 3405248,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402249,
+		"BaseAttrId": 3405249,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402250,
+		"BaseAttrId": 3405250,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 3402401,
+		"BaseAttrId": 3405401,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402402,
+		"BaseAttrId": 3405402,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402403,
+		"BaseAttrId": 3405403,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402404,
+		"BaseAttrId": 3405404,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402405,
+		"BaseAttrId": 3405405,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402406,
+		"BaseAttrId": 3405406,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402407,
+		"BaseAttrId": 3405407,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402408,
+		"BaseAttrId": 3405408,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402409,
+		"BaseAttrId": 3405409,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402410,
+		"BaseAttrId": 3405410,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402411,
+		"BaseAttrId": 3405411,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402412,
+		"BaseAttrId": 3405412,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402413,
+		"BaseAttrId": 3405413,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402414,
+		"BaseAttrId": 3405414,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402415,
+		"BaseAttrId": 3405415,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402416,
+		"BaseAttrId": 3405416,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402417,
+		"BaseAttrId": 3405417,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402418,
+		"BaseAttrId": 3405418,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402419,
+		"BaseAttrId": 3405419,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402420,
+		"BaseAttrId": 3405420,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402421,
+		"BaseAttrId": 3405421,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402422,
+		"BaseAttrId": 3405422,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402423,
+		"BaseAttrId": 3405423,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402424,
+		"BaseAttrId": 3405424,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402425,
+		"BaseAttrId": 3405425,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402426,
+		"BaseAttrId": 3405426,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402427,
+		"BaseAttrId": 3405427,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402428,
+		"BaseAttrId": 3405428,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402429,
+		"BaseAttrId": 3405429,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402430,
+		"BaseAttrId": 3405430,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402431,
+		"BaseAttrId": 3405431,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402432,
+		"BaseAttrId": 3405432,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402433,
+		"BaseAttrId": 3405433,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402434,
+		"BaseAttrId": 3405434,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402435,
+		"BaseAttrId": 3405435,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402436,
+		"BaseAttrId": 3405436,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402437,
+		"BaseAttrId": 3405437,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402438,
+		"BaseAttrId": 3405438,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402439,
+		"BaseAttrId": 3405439,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402440,
+		"BaseAttrId": 3405440,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402441,
+		"BaseAttrId": 3405441,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402442,
+		"BaseAttrId": 3405442,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402443,
+		"BaseAttrId": 3405443,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402444,
+		"BaseAttrId": 3405444,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402445,
+		"BaseAttrId": 3405445,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402446,
+		"BaseAttrId": 3405446,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402447,
+		"BaseAttrId": 3405447,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402448,
+		"BaseAttrId": 3405448,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402449,
+		"BaseAttrId": 3405449,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402450,
+		"BaseAttrId": 3405450,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 3402601,
+		"BaseAttrId": 3405601,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402602,
+		"BaseAttrId": 3405602,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402603,
+		"BaseAttrId": 3405603,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402604,
+		"BaseAttrId": 3405604,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402605,
+		"BaseAttrId": 3405605,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402606,
+		"BaseAttrId": 3405606,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402607,
+		"BaseAttrId": 3405607,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402608,
+		"BaseAttrId": 3405608,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402609,
+		"BaseAttrId": 3405609,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402610,
+		"BaseAttrId": 3405610,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402611,
+		"BaseAttrId": 3405611,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402612,
+		"BaseAttrId": 3405612,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402613,
+		"BaseAttrId": 3405613,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402614,
+		"BaseAttrId": 3405614,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402615,
+		"BaseAttrId": 3405615,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402616,
+		"BaseAttrId": 3405616,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402617,
+		"BaseAttrId": 3405617,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402618,
+		"BaseAttrId": 3405618,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402619,
+		"BaseAttrId": 3405619,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402620,
+		"BaseAttrId": 3405620,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402621,
+		"BaseAttrId": 3405621,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402622,
+		"BaseAttrId": 3405622,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402623,
+		"BaseAttrId": 3405623,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402624,
+		"BaseAttrId": 3405624,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402625,
+		"BaseAttrId": 3405625,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402626,
+		"BaseAttrId": 3405626,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402627,
+		"BaseAttrId": 3405627,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402628,
+		"BaseAttrId": 3405628,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402629,
+		"BaseAttrId": 3405629,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402630,
+		"BaseAttrId": 3405630,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402631,
+		"BaseAttrId": 3405631,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402632,
+		"BaseAttrId": 3405632,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402633,
+		"BaseAttrId": 3405633,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402634,
+		"BaseAttrId": 3405634,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402635,
+		"BaseAttrId": 3405635,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402636,
+		"BaseAttrId": 3405636,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402637,
+		"BaseAttrId": 3405637,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402638,
+		"BaseAttrId": 3405638,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402639,
+		"BaseAttrId": 3405639,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402640,
+		"BaseAttrId": 3405640,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402641,
+		"BaseAttrId": 3405641,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402642,
+		"BaseAttrId": 3405642,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402643,
+		"BaseAttrId": 3405643,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402644,
+		"BaseAttrId": 3405644,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402645,
+		"BaseAttrId": 3405645,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402646,
+		"BaseAttrId": 3405646,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402647,
+		"BaseAttrId": 3405647,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402648,
+		"BaseAttrId": 3405648,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402649,
+		"BaseAttrId": 3405649,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402650,
+		"BaseAttrId": 3405650,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 3402801,
+		"BaseAttrId": 3405801,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402802,
+		"BaseAttrId": 3405802,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402803,
+		"BaseAttrId": 3405803,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402804,
+		"BaseAttrId": 3405804,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402805,
+		"BaseAttrId": 3405805,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402806,
+		"BaseAttrId": 3405806,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402807,
+		"BaseAttrId": 3405807,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402808,
+		"BaseAttrId": 3405808,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402809,
+		"BaseAttrId": 3405809,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402810,
+		"BaseAttrId": 3405810,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402811,
+		"BaseAttrId": 3405811,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402812,
+		"BaseAttrId": 3405812,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402813,
+		"BaseAttrId": 3405813,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402814,
+		"BaseAttrId": 3405814,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402815,
+		"BaseAttrId": 3405815,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402816,
+		"BaseAttrId": 3405816,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402817,
+		"BaseAttrId": 3405817,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402818,
+		"BaseAttrId": 3405818,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402819,
+		"BaseAttrId": 3405819,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402820,
+		"BaseAttrId": 3405820,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402821,
+		"BaseAttrId": 3405821,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402822,
+		"BaseAttrId": 3405822,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402823,
+		"BaseAttrId": 3405823,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402824,
+		"BaseAttrId": 3405824,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402825,
+		"BaseAttrId": 3405825,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402826,
+		"BaseAttrId": 3405826,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402827,
+		"BaseAttrId": 3405827,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402828,
+		"BaseAttrId": 3405828,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402829,
+		"BaseAttrId": 3405829,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402830,
+		"BaseAttrId": 3405830,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402831,
+		"BaseAttrId": 3405831,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402832,
+		"BaseAttrId": 3405832,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402833,
+		"BaseAttrId": 3405833,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402834,
+		"BaseAttrId": 3405834,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402835,
+		"BaseAttrId": 3405835,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402836,
+		"BaseAttrId": 3405836,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402837,
+		"BaseAttrId": 3405837,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402838,
+		"BaseAttrId": 3405838,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402839,
+		"BaseAttrId": 3405839,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402840,
+		"BaseAttrId": 3405840,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402841,
+		"BaseAttrId": 3405841,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402842,
+		"BaseAttrId": 3405842,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402843,
+		"BaseAttrId": 3405843,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402844,
+		"BaseAttrId": 3405844,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402845,
+		"BaseAttrId": 3405845,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402846,
+		"BaseAttrId": 3405846,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402847,
+		"BaseAttrId": 3405847,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402848,
+		"BaseAttrId": 3405848,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402849,
+		"BaseAttrId": 3405849,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3402850,
+		"BaseAttrId": 3405850,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 3403001,
+		"BaseAttrId": 3406001,
+		"LevelLimit": 1,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"NeedItem": "2501001:1000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403002,
+		"BaseAttrId": 3406002,
+		"LevelLimit": 1,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"NeedItem": "2501001:2000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403003,
+		"BaseAttrId": 3406003,
+		"LevelLimit": 1,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"NeedItem": "2501001:3000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403004,
+		"BaseAttrId": 3406004,
+		"LevelLimit": 1,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"NeedItem": "2501001:4000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403005,
+		"BaseAttrId": 3406005,
+		"LevelLimit": 1,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"NeedItem": "2501001:5000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403006,
+		"BaseAttrId": 3406006,
+		"LevelLimit": 1,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"NeedItem": "2501001:6000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403007,
+		"BaseAttrId": 3406007,
+		"LevelLimit": 1,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"NeedItem": "2501001:7000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403008,
+		"BaseAttrId": 3406008,
+		"LevelLimit": 1,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"NeedItem": "2501001:8000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403009,
+		"BaseAttrId": 3406009,
+		"LevelLimit": 1,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"NeedItem": "2501001:9000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403010,
+		"BaseAttrId": 3406010,
+		"LevelLimit": 1,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"NeedItem": "2501001:10000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403011,
+		"BaseAttrId": 3406011,
+		"LevelLimit": 2,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"NeedItem": "2501001:11000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403012,
+		"BaseAttrId": 3406012,
+		"LevelLimit": 2,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"NeedItem": "2501001:12000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403013,
+		"BaseAttrId": 3406013,
+		"LevelLimit": 2,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"NeedItem": "2501001:13000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403014,
+		"BaseAttrId": 3406014,
+		"LevelLimit": 2,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"NeedItem": "2501001:14000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403015,
+		"BaseAttrId": 3406015,
+		"LevelLimit": 2,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"NeedItem": "2501001:15000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403016,
+		"BaseAttrId": 3406016,
+		"LevelLimit": 2,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"NeedItem": "2501001:16000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403017,
+		"BaseAttrId": 3406017,
+		"LevelLimit": 2,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"NeedItem": "2501001:17000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403018,
+		"BaseAttrId": 3406018,
+		"LevelLimit": 2,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"NeedItem": "2501001:18000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403019,
+		"BaseAttrId": 3406019,
+		"LevelLimit": 2,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"NeedItem": "2501001:19000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403020,
+		"BaseAttrId": 3406020,
+		"LevelLimit": 2,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"NeedItem": "2501001:20000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403021,
+		"BaseAttrId": 3406021,
+		"LevelLimit": 3,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"NeedItem": "2501001:21000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403022,
+		"BaseAttrId": 3406022,
+		"LevelLimit": 3,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"NeedItem": "2501001:22000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403023,
+		"BaseAttrId": 3406023,
+		"LevelLimit": 3,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"NeedItem": "2501001:23000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403024,
+		"BaseAttrId": 3406024,
+		"LevelLimit": 3,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"NeedItem": "2501001:24000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403025,
+		"BaseAttrId": 3406025,
+		"LevelLimit": 3,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"NeedItem": "2501001:25000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403026,
+		"BaseAttrId": 3406026,
+		"LevelLimit": 4,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"NeedItem": "2501001:26000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403027,
+		"BaseAttrId": 3406027,
+		"LevelLimit": 4,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"NeedItem": "2501001:27000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403028,
+		"BaseAttrId": 3406028,
+		"LevelLimit": 4,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"NeedItem": "2501001:28000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403029,
+		"BaseAttrId": 3406029,
+		"LevelLimit": 4,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"NeedItem": "2501001:29000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403030,
+		"BaseAttrId": 3406030,
+		"LevelLimit": 4,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"NeedItem": "2501001:30000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403031,
+		"BaseAttrId": 3406031,
+		"LevelLimit": 5,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"NeedItem": "2501001:31000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403032,
+		"BaseAttrId": 3406032,
+		"LevelLimit": 5,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"NeedItem": "2501001:32000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403033,
+		"BaseAttrId": 3406033,
+		"LevelLimit": 5,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"NeedItem": "2501001:33000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403034,
+		"BaseAttrId": 3406034,
+		"LevelLimit": 5,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"NeedItem": "2501001:34000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403035,
+		"BaseAttrId": 3406035,
+		"LevelLimit": 5,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"NeedItem": "2501001:35000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403036,
+		"BaseAttrId": 3406036,
+		"LevelLimit": 6,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"NeedItem": "2501001:36000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403037,
+		"BaseAttrId": 3406037,
+		"LevelLimit": 6,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"NeedItem": "2501001:37000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403038,
+		"BaseAttrId": 3406038,
+		"LevelLimit": 6,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"NeedItem": "2501001:38000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403039,
+		"BaseAttrId": 3406039,
+		"LevelLimit": 6,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"NeedItem": "2501001:39000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403040,
+		"BaseAttrId": 3406040,
+		"LevelLimit": 6,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"NeedItem": "2501001:40000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403041,
+		"BaseAttrId": 3406041,
+		"LevelLimit": 7,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"NeedItem": "2501001:41000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403042,
+		"BaseAttrId": 3406042,
+		"LevelLimit": 7,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"NeedItem": "2501001:42000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403043,
+		"BaseAttrId": 3406043,
+		"LevelLimit": 7,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"NeedItem": "2501001:43000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403044,
+		"BaseAttrId": 3406044,
+		"LevelLimit": 7,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"NeedItem": "2501001:44000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403045,
+		"BaseAttrId": 3406045,
+		"LevelLimit": 7,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"NeedItem": "2501001:45000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403046,
+		"BaseAttrId": 3406046,
+		"LevelLimit": 8,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"NeedItem": "2501001:46000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403047,
+		"BaseAttrId": 3406047,
+		"LevelLimit": 8,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"NeedItem": "2501001:47000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403048,
+		"BaseAttrId": 3406048,
+		"LevelLimit": 8,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"NeedItem": "2501001:48000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403049,
+		"BaseAttrId": 3406049,
+		"LevelLimit": 8,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"NeedItem": "2501001:49000",
+		"PerItem": 100,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 3403050,
+		"BaseAttrId": 3406050,
+		"LevelLimit": 8,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"NeedItem": "2501001:50000",
+		"PerItem": 100,
+		"Pos": 6
+	}
+]

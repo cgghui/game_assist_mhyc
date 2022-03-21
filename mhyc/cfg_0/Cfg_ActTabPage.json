@@ -1,0 +1,3814 @@
+[
+	{
+		"ActId": 10009,
+		"BrPath": "i/m/newAct/opnGft/bg_kaifulibao",
+		"Desc1": "i/m/newAct/opnGft/bg_libao"
+	},
+	{
+		"ActId": 601,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 602,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 603,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 611,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 612,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 613,
+		"BrPath": "i/m/newAct/mulRtn/bg_baibeifanli"
+	},
+	{
+		"ActId": 616,
+		"BrPath": "i/m/newAct/mulRtn/bg_tehuifanli"
+	},
+	{
+		"ActId": 617,
+		"BrPath": "i/m/newAct/mulRtn/bg_tehuifanli"
+	},
+	{
+		"ActId": 618,
+		"BrPath": "i/m/newAct/mulRtn/bg_tehuifanli"
+	},
+	{
+		"ActId": 702,
+		"BrPath": "i/m/newAct/smlRcg/banner__tiantianfanli"
+	},
+	{
+		"ActId": 705,
+		"BrPath": "i/m/newAct/smlRcg/banner_shenshoufanli"
+	},
+	{
+		"ActId": 2541,
+		"BrPath": "i/m/newAct/comPnl/banner_sdxl"
+	},
+	{
+		"ActId": 2571,
+		"BrPath": "i/m/mulCB/img_bg_jiangliyulan",
+		"Desc1": "2511"
+	},
+	{
+		"ActId": 2551,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 2561,
+		"BrPath": "i/m/mulCB/banner_hefuchongbang1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2562,
+		"BrPath": "i/m/mulCB/banner_hefuchongbang1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2563,
+		"BrPath": "i/m/mulCB/banner_hefuchongbang1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2566,
+		"BrPath": "i/m/mulCB/banner_hefuchongbang1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2611,
+		"BrPath": "i/m/newAct/comPnl/banner_hefukuanghuan1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2621,
+		"BrPath": "i/m/newAct/comPnl/banner_hefukuanghuan2",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2631,
+		"BrPath": "i/m/newAct/comPnl/banner_hefukuanghuan3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2641,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；\n\n重置时间：\u003ccolor=#ffffff\u003e合服狂欢开启\u003c/c\u003e\n\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2711,
+		"BrPath": "i/m/newAct/comPnl/banner_hefuzengli1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2731,
+		"BrPath": "i/m/newAct/bfxr/bg_sbjl"
+	},
+	{
+		"ActId": 2811,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2821,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2822,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2831,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2841,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 2911,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 2912,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 2913,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 25611,
+		"BrPath": "i/m/newAct/zqhd/bg_xunbao6"
+	},
+	{
+		"ActId": 25631,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25632,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25633,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25634,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25635,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25636,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25637,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25638,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25651,
+		"BrPath": "i/m/newAct/comPnl/banner_lxcz8",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25661,
+		"BrPath": "i/m/newAct/comPnl/banner_brlc9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25671,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25681,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl30"
+	},
+	{
+		"ActId": 25691,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-10-12日\n第2轮重置：2021-10-16日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25692,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-10-12日\n第2轮重置：2021-10-16日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25741,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25742,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25743,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25744,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25745,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25746,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25747,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25748,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi17",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25751,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang19"
+	},
+	{
+		"ActId": 25752,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang19"
+	},
+	{
+		"ActId": 25761,
+		"Desc1": "25711"
+	},
+	{
+		"ActId": 25762,
+		"Desc1": "25712"
+	},
+	{
+		"ActId": 25811,
+		"BrPath": "i/m/newAct/bjys/img_bg_cydg",
+		"Desc1": "重阳登高",
+		"Desc2": "20262"
+	},
+	{
+		"ActId": 25821,
+		"BrPath": "i/m/newAct/bjys/img_bg_dgyt",
+		"Desc1": "登高远眺",
+		"Desc2": "20263"
+	},
+	{
+		"ActId": 25822,
+		"BrPath": "i/m/newAct/bjys/img_bg_dgyt",
+		"Desc1": "登高远眺",
+		"Desc2": "20263"
+	},
+	{
+		"ActId": 25911,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25921,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25922,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25931,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25941,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 25971,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 63001,
+		"BrPath": "i/m/newAct/yqyl/banner_lxdl"
+	},
+	{
+		"ActId": 63003,
+		"BrPath": "i/m/newAct/yqyl/bg_hyzl"
+	},
+	{
+		"ActId": 63004,
+		"BrPath": "i/m/newAct/yqyl/bg_fytz"
+	},
+	{
+		"ActId": 26011,
+		"BrPath": "i/m/newAct/zxsy/bg_fuyanyouli",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26021,
+		"BrPath": "i/m/newAct/zxsy/bg_erlangzhenjun",
+		"Cartoon": "11:6010:1020|11:7008:1344",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26031,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexianlianchong",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26041,
+		"BrPath": "i/m/newAct/zxsy/bg_xianyanzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每充值\u003c/c\u003e元可获得1抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26051,
+		"BrPath": "i/m/newAct/zxsy/bg_leichongzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到目标可获得抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26061,
+		"BrPath": "i/m/newAct/zxsy/bg_xingyunpt",
+		"Desc1": "26081"
+	},
+	{
+		"ActId": 26091,
+		"BrPath": "i/m/newAct/zxsy/bg_jihuadz",
+		"Desc1": "touzi4|touzi2|touzi3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买\u003c/c\u003e档投资，额外获得投资目标奖励\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26111,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15312"
+	},
+	{
+		"ActId": 26121,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26131,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26132,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26133,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26134,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26135,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26136,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26137,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26138,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26141,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26142,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26143,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26144,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26145,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26146,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26147,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26148,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz9",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26161,
+		"BrPath": "i/m/newAct/comPnl/banner_sjlx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26171,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26181,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl31"
+	},
+	{
+		"ActId": 26191,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-10-22日\n第2轮重置：2021-10-26日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26192,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-10-22日\n第2轮重置：2021-10-26日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26241,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26251,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 26261,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 26231,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26311,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 26312,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 26321,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26322,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26331,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26341,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26371,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 26411,
+		"BrPath": "i/m/newAct/annive/img_yiluyouni",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e庆典币可兑换绝版好礼哦\u003c/c\u003e"
+	},
+	{
+		"ActId": 26421,
+		"BrPath": "i/m/newAct/annive/bg_pttq"
+	},
+	{
+		"ActId": 26431,
+		"BrPath": "i/m/newAct/annive/bg_znxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 26441,
+		"BrPath": "i/m/newAct/annive/bg_ssbp"
+	},
+	{
+		"ActId": 26511,
+		"BrPath": "i/m/newAct/annive/bg_zndg"
+	},
+	{
+		"ActId": 26521,
+		"BrPath": "i/m/newAct/annive/img_qingdiansc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e庆典礼包可直接购买，亦可使用嘉年庆典币直接兑换\u003c/c\u003e"
+	},
+	{
+		"ActId": 26531,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 26541,
+		"BrPath": "i/m/newAct/annive/bg__shenshoudlb"
+	},
+	{
+		"ActId": 26611,
+		"BrPath": "i/m/newAct/zqhd/bg_xunbao7"
+	},
+	{
+		"ActId": 26631,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26632,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26633,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26634,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26635,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26636,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26637,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26638,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc20",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26651,
+		"BrPath": "i/m/newAct/comPnl/banner_lxcz9",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26661,
+		"BrPath": "i/m/newAct/comPnl/banner_brlc10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26671,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26681,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl33"
+	},
+	{
+		"ActId": 26691,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-01日\n第2轮重置：2021-11-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26692,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-01日\n第2轮重置：2021-11-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26741,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26742,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26743,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26744,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26745,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26746,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26747,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26748,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi18",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26750,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 26751,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang20"
+	},
+	{
+		"ActId": 26752,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang20"
+	},
+	{
+		"ActId": 26761,
+		"Desc1": "26711"
+	},
+	{
+		"ActId": 26762,
+		"Desc1": "26712"
+	},
+	{
+		"ActId": 26811,
+		"BrPath": "i/m/newAct/bjys/bg_tbds",
+		"Desc2": "20206"
+	},
+	{
+		"ActId": 26821,
+		"Desc1": "26750"
+	},
+	{
+		"ActId": 26911,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26921,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26922,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26931,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26941,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 26971,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 27011,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15314",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 27021,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27031,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27032,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27033,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27034,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27035,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27036,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27037,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27038,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27041,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27042,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27043,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27044,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27045,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27046,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27047,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27048,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz10",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27061,
+		"BrPath": "i/m/newAct/comPnl/banner_szlx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27071,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27081,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl32"
+	},
+	{
+		"ActId": 27091,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-11日\n第2轮重置：2021-11-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27092,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-11日\n第2轮重置：2021-11-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27141,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27151,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 27161,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 27131,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27211,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 27212,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 27221,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27222,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27231,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27241,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27271,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 27311,
+		"BrPath": "i/m/newAct/zxsy/bg_fuyanyouli",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27321,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexiantianpeng",
+		"Cartoon": "11:3007:1208|11:7007:1331",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27331,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexianlianchong",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27341,
+		"BrPath": "i/m/newAct/zxsy/bg_xianyanzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每充值\u003c/c\u003e元可获得1抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27351,
+		"BrPath": "i/m/newAct/zxsy/bg_leichongzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到目标可获得抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27361,
+		"BrPath": "i/m/newAct/zxsy/bg_xingyunpt",
+		"Desc1": "27381"
+	},
+	{
+		"ActId": 27391,
+		"BrPath": "i/m/newAct/zxsy/bg_jihuadz",
+		"Desc1": "touzi4|touzi2|touzi3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买\u003c/c\u003e档投资，额外获得投资目标奖励\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27411,
+		"BrPath": "i/m/newAct/zqhd/bg_ganenxunbao"
+	},
+	{
+		"ActId": 27431,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27432,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27433,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27434,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27435,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27436,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27437,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27438,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27451,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27461,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27471,
+		"BrPath": "i/m/newAct/comPnl/banner_gesy_lxdl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27481,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl1"
+	},
+	{
+		"ActId": 27491,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-21日\n第2轮重置：2021-11-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27492,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-11-21日\n第2轮重置：2021-11-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27541,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27542,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27543,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27544,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27545,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27546,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27547,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27548,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_klsy",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27551,
+		"BrPath": "i/m/newAct/comPnl/banner_gxyn_zsb"
+	},
+	{
+		"ActId": 27552,
+		"BrPath": "i/m/newAct/comPnl/banner_gxyn_zsb"
+	},
+	{
+		"ActId": 27561,
+		"Desc1": "27511"
+	},
+	{
+		"ActId": 27562,
+		"Desc1": "27512"
+	},
+	{
+		"ActId": 27611,
+		"BrPath": "i/m/newAct/bjys/bg_huojidaren",
+		"Desc1": "火鸡大餐",
+		"Desc2": "20278"
+	},
+	{
+		"ActId": 27621,
+		"BrPath": "i/m/newAct/bjys/bg_ganenzaixin",
+		"Desc1": "感恩在心",
+		"Desc2": "20279"
+	},
+	{
+		"ActId": 27622,
+		"BrPath": "i/m/newAct/bjys/bg_ganenzaixin",
+		"Desc1": "感恩在心",
+		"Desc2": "20279"
+	},
+	{
+		"ActId": 27711,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27721,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27722,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27731,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27741,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27771,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 27811,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15316",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 27821,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27831,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27832,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27833,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27834,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27835,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27836,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27837,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27838,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc21",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27841,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27842,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27843,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27844,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27845,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27846,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27847,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27848,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27861,
+		"BrPath": "i/m/newAct/comPnl/banner_szlx1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27871,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27881,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl34"
+	},
+	{
+		"ActId": 27891,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-01日\n第2轮重置：2021-12-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27892,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-01日\n第2轮重置：2021-12-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27941,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 27951,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 27961,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 27931,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28011,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 28012,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 28021,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28022,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28031,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28041,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28071,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 28111,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualingqian"
+	},
+	{
+		"ActId": 28121,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuamz",
+		"Desc1": "jinli",
+		"Desc2": "\u003ccolor=#8d4a2c\u003e转1次获得10个\u003ccolor=#ff3e40\u003e烟灵珠\u003c/c\u003e，烟灵珠可在\u003ccolor=#12a710 click=\"|28141,{0}|\"\u003e\u003cu\u003e烟花商城\u003c/u\u003e\u003c/c\u003e兑换宝物\u003c/c\u003e"
+	},
+	{
+		"ActId": 28141,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 28151,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuadfd",
+		"Desc1": "img_fu|img_lu|font_shou|font_si|font_cai"
+	},
+	{
+		"ActId": 28161,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 28171,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 28172,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 28201,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualc",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28211,
+		"BrPath": "i/m/newAct/dqd/banner_yanhualx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28311,
+		"BrPath": "i/m/newAct/zxsy/bg_fuyanyouli",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28321,
+		"BrPath": "i/m/newAct/zxsy/bg_erlangzhenjun",
+		"Cartoon": "11:6010:1020|11:7008:1344",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28322,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexiantianpeng",
+		"Cartoon": "11:3007:1208|11:7007:1331",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28331,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexianlianchong",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28341,
+		"BrPath": "i/m/newAct/zxsy/bg_xianyanzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每充值\u003c/c\u003e元可获得1抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28351,
+		"BrPath": "i/m/newAct/zxsy/bg_leichongzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到目标可获得抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28361,
+		"BrPath": "i/m/newAct/zxsy/bg_xingyunpt",
+		"Desc1": "28381"
+	},
+	{
+		"ActId": 28391,
+		"BrPath": "i/m/newAct/zxsy/bg_jihuadz",
+		"Desc1": "touzi4|touzi2|touzi3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买\u003c/c\u003e档投资，额外获得投资目标奖励\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28411,
+		"BrPath": "i/m/newAct/zqhd/bg_xunbao8"
+	},
+	{
+		"ActId": 28431,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28432,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28433,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28434,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28435,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28436,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28437,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28438,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc22",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28451,
+		"BrPath": "i/m/newAct/comPnl/banner_lxcz10",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28461,
+		"BrPath": "i/m/newAct/comPnl/banner_brlc11",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28471,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl24",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28481,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl35"
+	},
+	{
+		"ActId": 28491,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-11日\n第2轮重置：2021-12-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28492,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-11日\n第2轮重置：2021-12-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28541,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28542,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28543,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28544,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28545,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28546,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28547,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28548,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi19",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28550,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 28551,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang21"
+	},
+	{
+		"ActId": 28552,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang21"
+	},
+	{
+		"ActId": 28561,
+		"Desc1": "28511"
+	},
+	{
+		"ActId": 28562,
+		"Desc1": "28512"
+	},
+	{
+		"ActId": 28611,
+		"BrPath": "i/m/newAct/bjys/bg_tbds",
+		"Desc2": "20206"
+	},
+	{
+		"ActId": 28621,
+		"Desc1": "28550"
+	},
+	{
+		"ActId": 28711,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28721,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28722,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28731,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28741,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28771,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 28811,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15318",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 28821,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28831,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28832,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28833,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28834,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28835,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28836,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28837,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28838,
+		"BrPath": "i/m/newAct/comPnl/banner_mrlc23",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28841,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28842,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28843,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28844,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28845,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28846,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28847,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28848,
+		"BrPath": "i/m/newAct/comPnl/banner_dbcz12",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28861,
+		"BrPath": "i/m/newAct/comPnl/banner_szlx2",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28871,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl25",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28881,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl36"
+	},
+	{
+		"ActId": 28891,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-21日\n第2轮重置：2021-12-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28892,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-21日\n第2轮重置：2021-12-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28941,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 28951,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 28961,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 28931,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29011,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 29012,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 29021,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29022,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29031,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29041,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29071,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 29111,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualingqian"
+	},
+	{
+		"ActId": 29121,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuamz",
+		"Desc1": "jinli",
+		"Desc2": "\u003ccolor=#8d4a2c\u003e转1次获得10个\u003ccolor=#ff3e40\u003e烟灵珠\u003c/c\u003e，烟灵珠可在\u003ccolor=#12a710 click=\"|29141,{0}|\"\u003e\u003cu\u003e烟花商城\u003c/u\u003e\u003c/c\u003e兑换宝物\u003c/c\u003e"
+	},
+	{
+		"ActId": 29141,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 29151,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuadfd",
+		"Desc1": "img_fu|img_lu|font_shou|font_si|font_cai"
+	},
+	{
+		"ActId": 29161,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 29171,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 29172,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 29201,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualc",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29211,
+		"BrPath": "i/m/newAct/dqd/banner_yanhualx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29311,
+		"BrPath": "i/m/newAct/zqhd/bg_yuandanxunbao"
+	},
+	{
+		"ActId": 29331,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29332,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29333,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29334,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29335,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29336,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29337,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29338,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_mrlc1",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29351,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29361,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29371,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh_lxdl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29381,
+		"BrPath": "i/m/newAct/bfxr/bg_khdl3"
+	},
+	{
+		"ActId": 29391,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-31日\n第2轮重置：2022-01-04日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29392,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2021-12-31日\n第2轮重置：2022-01-04日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29441,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29442,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29443,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29444,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29445,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29446,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29447,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29448,
+		"BrPath": "i/m/newAct/comPnl/banner_jxzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29451,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang2"
+	},
+	{
+		"ActId": 29452,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang2"
+	},
+	{
+		"ActId": 29461,
+		"Desc1": "29411"
+	},
+	{
+		"ActId": 29462,
+		"Desc1": "29412"
+	},
+	{
+		"ActId": 29511,
+		"BrPath": "i/m/newAct/bjys/bg_jibaiqifu",
+		"Desc1": "祭拜祈福",
+		"Desc2": "20154"
+	},
+	{
+		"ActId": 29521,
+		"BrPath": "i/m/newAct/bjys/bg_gongxifc",
+		"Desc1": "恭喜发财",
+		"Desc2": "20155"
+	},
+	{
+		"ActId": 29522,
+		"BrPath": "i/m/newAct/bjys/bg_gongxifc",
+		"Desc1": "恭喜发财",
+		"Desc2": "20155"
+	},
+	{
+		"ActId": 29611,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29621,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29622,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29631,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29641,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29671,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 29711,
+		"BrPath": "i/m/newAct/zxsy/bg_fuyanyouli",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29721,
+		"BrPath": "i/m/newAct/zxsy/bg_taiyitz",
+		"Cartoon": "11:5006:1039|11:7009:1340",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29731,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexianlianchong",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29741,
+		"BrPath": "i/m/newAct/zxsy/bg_xianyanzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每充值\u003c/c\u003e元可获得1抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29751,
+		"BrPath": "i/m/newAct/zxsy/bg_leichongzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到目标可获得抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29761,
+		"BrPath": "i/m/newAct/zxsy/bg_xingyunpt",
+		"Desc1": "29781"
+	},
+	{
+		"ActId": 29791,
+		"BrPath": "i/m/newAct/zxsy/bg_jihuadz",
+		"Desc1": "touzi4|touzi2|touzi3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买\u003c/c\u003e档投资，额外获得投资目标奖励\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29811,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15320",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 29821,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29831,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29832,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29833,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29834,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29835,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29836,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29837,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29838,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29841,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29842,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29843,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29844,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29845,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29846,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29847,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29848,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29861,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_szlx2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29871,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_lxdl2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29881,
+		"BrPath": "i/m/newAct/bfxr/bg_lbjj_khdl"
+	},
+	{
+		"ActId": 29891,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-10日\n第2轮重置：2022-01-14日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29892,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-10日\n第2轮重置：2022-01-14日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29941,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 29951,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 29961,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 29931,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30011,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 30012,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 30021,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30022,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30031,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30041,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30071,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 30111,
+		"BrPath": "i/m/newAct/zqhd/bg_xiaonianxunbao2022"
+	},
+	{
+		"ActId": 30131,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30132,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30133,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30134,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30135,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30136,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30137,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30138,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30151,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30161,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyc2022_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30171,
+		"BrPath": "i/m/newAct/comPnl/banner_xnyh2022_lxdl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30181,
+		"BrPath": "i/m/newAct/bfxr/bg_xnyc2022_khdl"
+	},
+	{
+		"ActId": 30191,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-20日\n第2轮重置：2022-01-24日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30192,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-20日\n第2轮重置：2022-01-24日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30241,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30242,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30243,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30244,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30245,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30246,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30247,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30248,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30250,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 30251,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_zsb"
+	},
+	{
+		"ActId": 30252,
+		"BrPath": "i/m/newAct/comPnl/banner_tmzl2022_zsb"
+	},
+	{
+		"ActId": 30261,
+		"Desc1": "30211"
+	},
+	{
+		"ActId": 30262,
+		"Desc1": "30212"
+	},
+	{
+		"ActId": 30311,
+		"BrPath": "i/m/newAct/bjys/bg_tbds",
+		"Desc2": "20206"
+	},
+	{
+		"ActId": 30321,
+		"Desc1": "30250"
+	},
+	{
+		"ActId": 30411,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30421,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30422,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30431,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30441,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30471,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 30511,
+		"BrPath": "i/m/newAct/annive/img_nianhuoyouni",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e庆典币可兑换绝版好礼哦\u003c/c\u003e"
+	},
+	{
+		"ActId": 30521,
+		"BrPath": "i/m/newAct/annive/bg_nhdj"
+	},
+	{
+		"ActId": 30531,
+		"BrPath": "i/m/newAct/annive/bg_znxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 30532,
+		"BrPath": "i/m/newAct/annive/bg_znxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 30541,
+		"BrPath": "i/m/newAct/annive/bg_slbp"
+	},
+	{
+		"ActId": 30551,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30552,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30553,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30554,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30555,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30556,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30557,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30558,
+		"BrPath": "i/m/newAct/comPnl/banner_nlqd_nhdb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30611,
+		"BrPath": "i/m/newAct/annive/bg_nhdg"
+	},
+	{
+		"ActId": 30621,
+		"BrPath": "i/m/newAct/annive/img_nianhuosc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e礼包可直接购买，亦可使用嘉年庆典币直接兑换\u003c/c\u003e"
+	},
+	{
+		"ActId": 30631,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 30632,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 30641,
+		"BrPath": "i/m/newAct/annive/bg__shenshoudlb"
+	},
+	{
+		"ActId": 30711,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15322",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 30721,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30731,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30732,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30733,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30734,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30735,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30736,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30737,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30738,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_mrlc2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30741,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30742,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30743,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30744,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30745,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30746,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30747,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30748,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_dbcz2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30761,
+		"BrPath": "i/m/newAct/comPnl/banner_xcjj_xclx2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30771,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_lxdl2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30781,
+		"BrPath": "i/m/newAct/bfxr/bg_xcjj_khdl2022"
+	},
+	{
+		"ActId": 30791,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-30日\n第2轮重置：2022-02-03日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30792,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-01-30日\n第2轮重置：2022-02-03日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30841,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30851,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 30861,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 30831,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30911,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 30912,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 30921,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30922,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30931,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30941,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 30971,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 31011,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualingqian"
+	},
+	{
+		"ActId": 31021,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuamz",
+		"Desc1": "jinli",
+		"Desc2": "\u003ccolor=#8d4a2c\u003e转1次获得10个\u003ccolor=#ff3e40\u003e烟灵珠\u003c/c\u003e，烟灵珠可在\u003ccolor=#12a710 click=\"|31041,{0}|\"\u003e\u003cu\u003e烟花商城\u003c/u\u003e\u003c/c\u003e兑换宝物\u003c/c\u003e"
+	},
+	{
+		"ActId": 31041,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 31051,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuadfd",
+		"Desc1": "img_fu|img_lu|font_shou|font_si|font_cai"
+	},
+	{
+		"ActId": 31061,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 31071,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 31072,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 31101,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualc",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31111,
+		"BrPath": "i/m/newAct/dqd/banner_yanhualx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31211,
+		"BrPath": "i/m/newAct/zqhd/bg_yuanxiaoxunbao"
+	},
+	{
+		"ActId": 31231,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31232,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31233,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31234,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31235,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31236,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31237,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31238,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31251,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31261,
+		"BrPath": "i/m/newAct/comPnl/banner_yxjj_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31271,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl_yxj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31281,
+		"BrPath": "i/m/newAct/bfxr/bg_yxjj_khdl"
+	},
+	{
+		"ActId": 31291,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-02-09日\n第2轮重置：2022-02-13日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31292,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-02-09日\n第2轮重置：2022-02-13日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31341,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31342,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31343,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31344,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31345,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31346,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31347,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31348,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31351,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_zsb"
+	},
+	{
+		"ActId": 31352,
+		"BrPath": "i/m/newAct/comPnl/banner_syzl_zsb"
+	},
+	{
+		"ActId": 31361,
+		"Desc1": "31311"
+	},
+	{
+		"ActId": 31362,
+		"Desc1": "31312"
+	},
+	{
+		"ActId": 31411,
+		"BrPath": "i/m/newAct/bjys/bg_zuohuadeng",
+		"Desc1": "做花灯",
+		"Desc2": "20313"
+	},
+	{
+		"ActId": 31421,
+		"BrPath": "i/m/newAct/bjys/bg_yuanxiaoxl",
+		"Desc1": "元宵喜乐",
+		"Desc2": "20314"
+	},
+	{
+		"ActId": 31422,
+		"BrPath": "i/m/newAct/bjys/bg_yuanxiaoxl",
+		"Desc1": "元宵喜乐",
+		"Desc2": "20314"
+	},
+	{
+		"ActId": 31511,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31521,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31522,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31531,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31541,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31571,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 31611,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15324",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 31621,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31631,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31632,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31633,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31634,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31635,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31636,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31637,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31638,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31641,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31642,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31643,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31644,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31645,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31646,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31647,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31648,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31661,
+		"BrPath": "i/m/newAct/comPnl/banner_tyss_xclx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31671,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_lxdl2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31681,
+		"BrPath": "i/m/newAct/bfxr/bg_tyss_khdl"
+	},
+	{
+		"ActId": 31691,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-02-19日\n第2轮重置：2022-02-23日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31692,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-02-19日\n第2轮重置：2022-02-23日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31741,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31751,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 31761,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 31731,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31811,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 31812,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 31821,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31822,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31831,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31841,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31871,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 31911,
+		"BrPath": "i/m/newAct/annive/img_jianianxiangban",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e庆典币可兑换绝版好礼哦\u003c/c\u003e"
+	},
+	{
+		"ActId": 31921,
+		"BrPath": "i/m/newAct/annive/bg_jnsg"
+	},
+	{
+		"ActId": 31931,
+		"BrPath": "i/m/newAct/annive/bg_jnxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 31932,
+		"BrPath": "i/m/newAct/annive/bg_jnxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 31941,
+		"BrPath": "i/m/newAct/annive/bg_slbp"
+	},
+	{
+		"ActId": 31951,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31952,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31953,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31954,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31955,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31956,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31957,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 31958,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32011,
+		"BrPath": "i/m/newAct/annive/bg_jndg"
+	},
+	{
+		"ActId": 32021,
+		"BrPath": "i/m/newAct/annive/img_jianiansc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e礼包可直接购买，亦可使用嘉年庆典币直接兑换\u003c/c\u003e"
+	},
+	{
+		"ActId": 32031,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 32032,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 32041,
+		"BrPath": "i/m/newAct/annive/bg__shenshoudlb"
+	},
+	{
+		"ActId": 32111,
+		"BrPath": "i/m/newAct/zxsy/bg_fuyanyouli",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32121,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexiantianpeng",
+		"Cartoon": "11:3007:1208|11:7007:1331",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续4日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32122,
+		"BrPath": "i/m/newAct/zxsy/bg_juanliandj",
+		"Cartoon": "11:5009:1074|11:7010:1334",
+		"Desc1": "26022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e连续8日每天通过邮件获得\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32131,
+		"BrPath": "i/m/newAct/zxsy/bg_zhexianlianchong",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32141,
+		"BrPath": "i/m/newAct/zxsy/bg_xianyanzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每充值\u003c/c\u003e元可获得1抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32151,
+		"BrPath": "i/m/newAct/zxsy/bg_leichongzp",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到目标可获得抽奖次数\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 32161,
+		"BrPath": "i/m/newAct/zxsy/bg_xingyunpt",
+		"Desc1": "32181"
+	},
+	{
+		"ActId": 32191,
+		"BrPath": "i/m/newAct/zxsy/bg_jihuadz",
+		"Desc1": "touzi4|touzi2|touzi3",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买\u003c/c\u003e档投资，额外获得投资目标奖励\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33111,
+		"BrPath": "i/m/newAct/zqhd/bg_meilixunbao"
+	},
+	{
+		"ActId": 33131,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33132,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33133,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33134,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33135,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33136,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33137,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33138,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33151,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33161,
+		"BrPath": "i/m/newAct/comPnl/banner_mljj_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33171,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl_yxj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33181,
+		"BrPath": "i/m/newAct/bfxr/bg_mljj_khdl"
+	},
+	{
+		"ActId": 33191,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-01日\n第2轮重置：2022-03-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33192,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-01日\n第2轮重置：2022-03-05日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33241,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33242,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33243,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33244,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33245,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33246,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33247,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33248,
+		"BrPath": "i/m/newAct/comPnl/banner_danbichongzhi202201",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33250,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 33251,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang5"
+	},
+	{
+		"ActId": 33252,
+		"BrPath": "i/m/newAct/comPnl/banner_zengsongbang5"
+	},
+	{
+		"ActId": 33261,
+		"Desc1": "33211"
+	},
+	{
+		"ActId": 33262,
+		"Desc1": "33212"
+	},
+	{
+		"ActId": 33311,
+		"BrPath": "i/m/newAct/bjys/bg_tbds",
+		"Desc2": "20206"
+	},
+	{
+		"ActId": 33321,
+		"Desc1": "33250"
+	},
+	{
+		"ActId": 33411,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33421,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33422,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33431,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33441,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33471,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 33511,
+		"BrPath": "i/m/newAct/wishDw/bg_xinyuanchouiang",
+		"Desc1": "15326",
+		"Desc2": "i/m/marry/img_jianying_nan"
+	},
+	{
+		"ActId": 33521,
+		"BrPath": "i/m/newAct/wishDw/bg_zhulichouj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e购买心愿礼包可领取对应的单笔充值奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33531,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33532,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33533,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33534,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33535,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33536,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33537,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33538,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33541,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33542,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33543,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33544,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33545,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33546,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33547,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33548,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33561,
+		"BrPath": "i/m/newAct/comPnl/banner_lsjy_xclx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33571,
+		"BrPath": "i/m/newAct/comPnl/banner_lbjj_lxdl2022",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33581,
+		"BrPath": "i/m/newAct/bfxr/bg_lsjy_khdl"
+	},
+	{
+		"ActId": 33591,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-11日\n第2轮重置：2022-03-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33592,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-11日\n第2轮重置：2022-03-15日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33641,
+		"ActType": 1105,
+		"BrPath": "i/m/newAct/comPnl/banner_lianxuchongzhi",
+		"Desc1": "今日累充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33651,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadaofanli",
+		"Desc1": "砸蛋值"
+	},
+	{
+		"ActId": 33661,
+		"ActType": 1107,
+		"BrPath": "i/m/newAct/comPnl/banner_zadanlibao"
+	},
+	{
+		"ActId": 33631,
+		"BrPath": "i/m/newAct/comPnl/banner_xyzd_czdh",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e(请记得在活动时间内兑换哦~)\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33711,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 33712,
+		"BrPath": "i/m/newAct/comPnl/banner_jchd_xfph"
+	},
+	{
+		"ActId": 33721,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33722,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33731,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33741,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33771,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 33811,
+		"BrPath": "i/m/newAct/annive/img_jianianxiangban",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#46ff69\u003e庆典币可兑换绝版好礼哦\u003c/c\u003e"
+	},
+	{
+		"ActId": 33821,
+		"BrPath": "i/m/newAct/annive/bg_jnsg"
+	},
+	{
+		"ActId": 33831,
+		"BrPath": "i/m/newAct/annive/bg_jnxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 33832,
+		"BrPath": "i/m/newAct/annive/bg_jnxys",
+		"Desc1": "font_pifu|font_chongwu|font_tianxian|font_zhanshen",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e心愿开启当日充值\u003c/c\u003e\u003ccolor=#46ff69\u003e任意金额/50/198\u003c/c\u003e\u003ccolor=#ffffff\u003e可额外各获得一次开启机会\u003c/c\u003e"
+	},
+	{
+		"ActId": 33841,
+		"BrPath": "i/m/newAct/annive/bg_slbp"
+	},
+	{
+		"ActId": 33851,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33852,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33853,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33854,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33855,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33856,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33857,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33858,
+		"BrPath": "i/m/newAct/comPnl/banner_jnq_jndb",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 33911,
+		"BrPath": "i/m/newAct/annive/bg_jndg"
+	},
+	{
+		"ActId": 33921,
+		"BrPath": "i/m/newAct/annive/img_jianiansc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e礼包可直接购买，亦可使用嘉年庆典币直接兑换\u003c/c\u003e"
+	},
+	{
+		"ActId": 33931,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 33932,
+		"BrPath": "i/m/newAct/annive/bg_pifulibao"
+	},
+	{
+		"ActId": 33941,
+		"BrPath": "i/m/newAct/annive/bg__shenshoudlb"
+	},
+	{
+		"ActId": 34011,
+		"BrPath": "i/m/newAct/zqhd/bg_yangchunxunbao"
+	},
+	{
+		"ActId": 34031,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34032,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34033,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34034,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34035,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34036,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34037,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34038,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_mrlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34051,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_lxcz",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34061,
+		"BrPath": "i/m/newAct/comPnl/banner_chdd_brlc",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34071,
+		"BrPath": "i/m/newAct/comPnl/banner_lxdl_yxj",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34081,
+		"BrPath": "i/m/newAct/bfxr/bg_chdd_khdl"
+	},
+	{
+		"ActId": 34091,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-21日\n第2轮重置：2022-03-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34092,
+		"BrPath": "i/m/newAct/bfxr/bg_xykh",
+		"Desc1": "406",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动开启时，充值界面的双倍仙玉档位无论是否购买过，均会被自动重置为双倍状态；重置共计两轮\n第1轮重置：2022-03-21日\n第2轮重置：2022-03-25日\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34141,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34142,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34143,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34144,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34145,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34146,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34147,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34148,
+		"BrPath": "i/m/newAct/comPnl/banner_chzl_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34151,
+		"BrPath": "i/m/newAct/comPnl/banner_sql_zsb"
+	},
+	{
+		"ActId": 34152,
+		"BrPath": "i/m/newAct/comPnl/banner_sql_zsb"
+	},
+	{
+		"ActId": 34161,
+		"Desc1": "34111"
+	},
+	{
+		"ActId": 34162,
+		"Desc1": "34112"
+	},
+	{
+		"ActId": 34211,
+		"BrPath": "i/m/newAct/bjys/bg_zuofengzheng",
+		"Desc1": "做风筝",
+		"Desc2": "20355"
+	},
+	{
+		"ActId": 34221,
+		"BrPath": "i/m/newAct/bjys/bg_chunhuaxl",
+		"Desc1": "春华喜乐",
+		"Desc2": "20356"
+	},
+	{
+		"ActId": 34222,
+		"BrPath": "i/m/newAct/bjys/bg_chunhuaxl",
+		"Desc1": "春华喜乐",
+		"Desc2": "20356"
+	},
+	{
+		"ActId": 34311,
+		"BrPath": "i/m/newAct/comPnl/img_dlhl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,每日登录可领取奖励\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34321,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34322,
+		"BrPath": "i/m/newAct/comPnl/img_dbcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e通过\u003ccolor=#46ff69\u003e充值界面购买\u003c/c\u003e指定档位仙玉可领奖,多次充值不累加\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34331,
+		"BrPath": "i/m/newAct/comPnl/img_ljcz",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,\u003ccolor=#46ff69\u003e累计多日\u003c/c\u003e充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34341,
+		"BrPath": "i/m/newAct/comPnl/img_xfzl",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定数量,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34371,
+		"BrPath": "i/m/newAct/fndBao/fndXan/bg_xydb"
+	},
+	{
+		"ActId": 34411,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualingqian"
+	},
+	{
+		"ActId": 34421,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuamz",
+		"Desc1": "jinli",
+		"Desc2": "\u003ccolor=#8d4a2c\u003e转1次获得10个\u003ccolor=#ff3e40\u003e烟灵珠\u003c/c\u003e，烟灵珠可在\u003ccolor=#12a710 click=\"|34441,{0}|\"\u003e\u003cu\u003e烟花商城\u003c/u\u003e\u003c/c\u003e兑换宝物\u003c/c\u003e"
+	},
+	{
+		"ActId": 34441,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 34451,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuadfd",
+		"Desc1": "img_fu|img_lu|font_shou|font_si|font_cai"
+	},
+	{
+		"ActId": 34461,
+		"BrPath": "i/m/newAct/dqd/bg_yanhuazy"
+	},
+	{
+		"ActId": 34471,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 34472,
+		"BrPath": "i/m/newAct/dqd/bg_shenshoubp",
+		"Desc2": "\u003coutline color=#620f0f width=1\u003e\u003ccolor=#f3f049\u003e当前累计宝箱将在结算时随机进行分配\u003c/c\u003e"
+	},
+	{
+		"ActId": 34501,
+		"BrPath": "i/m/newAct/dqd/bg_yanhualc",
+		"Desc1": "今日已充",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计\u003ccolor=#46ff69\u003e连续多日\u003c/c\u003e每日充值达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	},
+	{
+		"ActId": 34511,
+		"BrPath": "i/m/newAct/dqd/banner_yanhualx",
+		"Desc2": "\u003coutline color=#080300 width=1\u003e\u003ccolor=#ffffff\u003e活动期间,累计消费仙玉达到指定金额,领取豪礼\u003c/c\u003e\u003c/outline\u003e"
+	}
+]

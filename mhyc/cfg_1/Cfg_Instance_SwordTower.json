@@ -1,0 +1,4441 @@
+[
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 1,
+		"NeedLv": 310,
+		"RefreshId": 35001,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 2,
+		"RefreshId": 35002,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 3,
+		"RefreshId": 35003,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 4,
+		"RefreshId": 35004,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 5,
+		"RefreshId": 35005,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 6,
+		"RefreshId": 35006,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 7,
+		"RefreshId": 35007,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 8,
+		"RefreshId": 35008,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"Id": 9,
+		"RefreshId": 35009,
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010011:500|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010505",
+		"Id": 10,
+		"LayerType": 1,
+		"RefreshId": 35010,
+		"SepPrize": "2010014:1",
+		"ShowPrize": "2010011:500|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 11,
+		"RefreshId": 35011,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 12,
+		"RefreshId": 35012,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 13,
+		"RefreshId": 35013,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 14,
+		"RefreshId": 35014,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 15,
+		"RefreshId": 35015,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 16,
+		"NeedLv": 315,
+		"RefreshId": 35016,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 17,
+		"RefreshId": 35017,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 18,
+		"RefreshId": 35018,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"Id": 19,
+		"RefreshId": 35019,
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010011:600|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010506",
+		"Id": 20,
+		"LayerType": 1,
+		"RefreshId": 35020,
+		"SepPrize": "2010014:1",
+		"ShowPrize": "2010011:600|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 21,
+		"NeedLv": 320,
+		"RefreshId": 35021,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 22,
+		"RefreshId": 35022,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 23,
+		"RefreshId": 35023,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 24,
+		"RefreshId": 35024,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 25,
+		"RefreshId": 35025,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 26,
+		"NeedLv": 325,
+		"RefreshId": 35026,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 27,
+		"RefreshId": 35027,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 28,
+		"RefreshId": 35028,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"Id": 29,
+		"RefreshId": 35029,
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010011:700|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010507",
+		"Id": 30,
+		"LayerType": 1,
+		"RefreshId": 35030,
+		"SepPrize": "2010014:1",
+		"ShowPrize": "2010011:700|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 31,
+		"NeedLv": 330,
+		"RefreshId": 35031,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 32,
+		"RefreshId": 35032,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 33,
+		"RefreshId": 35033,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 34,
+		"RefreshId": 35034,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 35,
+		"RefreshId": 35035,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 36,
+		"NeedLv": 335,
+		"RefreshId": 35036,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 37,
+		"RefreshId": 35037,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 38,
+		"RefreshId": 35038,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"Id": 39,
+		"RefreshId": 35039,
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010011:800|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010508",
+		"Id": 40,
+		"LayerType": 1,
+		"RefreshId": 35040,
+		"SepPrize": "2010014:1",
+		"ShowPrize": "2010011:800|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 41,
+		"NeedLv": 340,
+		"RefreshId": 35041,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 42,
+		"RefreshId": 35042,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 43,
+		"RefreshId": 35043,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 44,
+		"RefreshId": 35044,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 45,
+		"RefreshId": 35045,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 46,
+		"NeedLv": 345,
+		"RefreshId": 35046,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 47,
+		"RefreshId": 35047,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 48,
+		"RefreshId": 35048,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"Id": 49,
+		"RefreshId": 35049,
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010011:900|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010509",
+		"Id": 50,
+		"LayerType": 1,
+		"RefreshId": 35050,
+		"SepPrize": "2010014:1",
+		"ShowPrize": "2010011:900|2404201:1|2010013:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 51,
+		"NeedLv": 350,
+		"RefreshId": 35051,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 52,
+		"RefreshId": 35052,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 53,
+		"RefreshId": 35053,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 54,
+		"RefreshId": 35054,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 55,
+		"RefreshId": 35055,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 56,
+		"NeedLv": 355,
+		"RefreshId": 35056,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 57,
+		"RefreshId": 35057,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 58,
+		"RefreshId": 35058,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"Id": 59,
+		"RefreshId": 35059,
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010011:1000|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010510",
+		"Id": 60,
+		"LayerType": 1,
+		"RefreshId": 35060,
+		"SepPrize": "2010015:1",
+		"ShowPrize": "2010011:1000|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 61,
+		"NeedLv": 360,
+		"RefreshId": 35061,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 62,
+		"RefreshId": 35062,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 63,
+		"RefreshId": 35063,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 64,
+		"RefreshId": 35064,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 65,
+		"RefreshId": 35065,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 66,
+		"NeedLv": 365,
+		"RefreshId": 35066,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 67,
+		"RefreshId": 35067,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 68,
+		"RefreshId": 35068,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"Id": 69,
+		"RefreshId": 35069,
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010011:1100|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010511",
+		"Id": 70,
+		"LayerType": 1,
+		"RefreshId": 35070,
+		"SepPrize": "2010015:1",
+		"ShowPrize": "2010011:1100|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 71,
+		"NeedLv": 370,
+		"RefreshId": 35071,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 72,
+		"RefreshId": 35072,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 73,
+		"RefreshId": 35073,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 74,
+		"RefreshId": 35074,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 75,
+		"RefreshId": 35075,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 76,
+		"NeedLv": 375,
+		"RefreshId": 35076,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 77,
+		"RefreshId": 35077,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 78,
+		"RefreshId": 35078,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"Id": 79,
+		"RefreshId": 35079,
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010011:1200|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010512",
+		"Id": 80,
+		"LayerType": 1,
+		"RefreshId": 35080,
+		"SepPrize": "2010015:1",
+		"ShowPrize": "2010011:1200|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 81,
+		"NeedLv": 380,
+		"RefreshId": 35081,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 82,
+		"RefreshId": 35082,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 83,
+		"RefreshId": 35083,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 84,
+		"RefreshId": 35084,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 85,
+		"RefreshId": 35085,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 86,
+		"NeedLv": 385,
+		"RefreshId": 35086,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 87,
+		"RefreshId": 35087,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 88,
+		"RefreshId": 35088,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"Id": 89,
+		"RefreshId": 35089,
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010011:1300|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010513",
+		"Id": 90,
+		"LayerType": 1,
+		"RefreshId": 35090,
+		"SepPrize": "2010015:1",
+		"ShowPrize": "2010011:1300|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 91,
+		"NeedLv": 390,
+		"RefreshId": 35091,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 92,
+		"RefreshId": 35092,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 93,
+		"RefreshId": 35093,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 94,
+		"RefreshId": 35094,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"ExtraParam1": "1",
+		"Id": 95,
+		"RefreshId": 35095,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 96,
+		"NeedLv": 395,
+		"RefreshId": 35096,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 97,
+		"RefreshId": 35097,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 98,
+		"RefreshId": 35098,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"Id": 99,
+		"RefreshId": 35099,
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010011:1400|2010013:1",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010514",
+		"Id": 100,
+		"LayerType": 1,
+		"RefreshId": 35100,
+		"SepPrize": "2010015:1",
+		"ShowPrize": "2010011:1400|2404201:1|2010013:1|2010014:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 101,
+		"NeedLv": 400,
+		"RefreshId": 35101,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 102,
+		"RefreshId": 35102,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 103,
+		"RefreshId": 35103,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 104,
+		"RefreshId": 35104,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 105,
+		"RefreshId": 35105,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 106,
+		"NeedLv": 405,
+		"RefreshId": 35106,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 107,
+		"RefreshId": 35107,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 108,
+		"RefreshId": 35108,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"Id": 109,
+		"RefreshId": 35109,
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:5|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010515",
+		"Id": 110,
+		"LayerType": 1,
+		"RefreshId": 35110,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:5|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 111,
+		"NeedLv": 410,
+		"RefreshId": 35111,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 112,
+		"RefreshId": 35112,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 113,
+		"RefreshId": 35113,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 114,
+		"RefreshId": 35114,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 115,
+		"RefreshId": 35115,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 116,
+		"NeedLv": 415,
+		"RefreshId": 35116,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 117,
+		"RefreshId": 35117,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 118,
+		"RefreshId": 35118,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"Id": 119,
+		"RefreshId": 35119,
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:6|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010516",
+		"Id": 120,
+		"LayerType": 1,
+		"RefreshId": 35120,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:6|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 121,
+		"NeedLv": 420,
+		"RefreshId": 35121,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 122,
+		"RefreshId": 35122,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 123,
+		"RefreshId": 35123,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 124,
+		"RefreshId": 35124,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 125,
+		"RefreshId": 35125,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 126,
+		"NeedLv": 425,
+		"RefreshId": 35126,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 127,
+		"RefreshId": 35127,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 128,
+		"RefreshId": 35128,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"Id": 129,
+		"RefreshId": 35129,
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:7|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010517",
+		"Id": 130,
+		"LayerType": 1,
+		"RefreshId": 35130,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:7|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 131,
+		"NeedLv": 430,
+		"RefreshId": 35131,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 132,
+		"RefreshId": 35132,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 133,
+		"RefreshId": 35133,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 134,
+		"RefreshId": 35134,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 135,
+		"RefreshId": 35135,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 136,
+		"NeedLv": 435,
+		"RefreshId": 35136,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 137,
+		"RefreshId": 35137,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 138,
+		"RefreshId": 35138,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"Id": 139,
+		"RefreshId": 35139,
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:8|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 140,
+		"LayerType": 1,
+		"RefreshId": 35140,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:8|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 141,
+		"NeedLv": 440,
+		"RefreshId": 35141,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 142,
+		"RefreshId": 35142,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 143,
+		"RefreshId": 35143,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 144,
+		"RefreshId": 35144,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 145,
+		"RefreshId": 35145,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 146,
+		"NeedLv": 445,
+		"RefreshId": 35146,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 147,
+		"RefreshId": 35147,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 148,
+		"RefreshId": 35148,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"Id": 149,
+		"RefreshId": 35149,
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:9|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010518",
+		"Id": 150,
+		"LayerType": 1,
+		"RefreshId": 35150,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:9|2404201:1|2010013:2|2010014:1|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 151,
+		"NeedLv": 450,
+		"RefreshId": 35151,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 152,
+		"RefreshId": 35152,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 153,
+		"RefreshId": 35153,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 154,
+		"RefreshId": 35154,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 155,
+		"RefreshId": 35155,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 156,
+		"NeedLv": 455,
+		"RefreshId": 35156,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 157,
+		"RefreshId": 35157,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 158,
+		"RefreshId": 35158,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"Id": 159,
+		"RefreshId": 35159,
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:10|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 160,
+		"LayerType": 1,
+		"RefreshId": 35160,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:10|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 161,
+		"NeedLv": 460,
+		"RefreshId": 35161,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 162,
+		"RefreshId": 35162,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 163,
+		"RefreshId": 35163,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 164,
+		"RefreshId": 35164,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 165,
+		"RefreshId": 35165,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 166,
+		"NeedLv": 465,
+		"RefreshId": 35166,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 167,
+		"RefreshId": 35167,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 168,
+		"RefreshId": 35168,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"Id": 169,
+		"RefreshId": 35169,
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:11|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010519",
+		"Id": 170,
+		"LayerType": 1,
+		"RefreshId": 35170,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:11|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 171,
+		"NeedLv": 470,
+		"RefreshId": 35171,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 172,
+		"RefreshId": 35172,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 173,
+		"RefreshId": 35173,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 174,
+		"RefreshId": 35174,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 175,
+		"RefreshId": 35175,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 176,
+		"NeedLv": 475,
+		"RefreshId": 35176,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 177,
+		"RefreshId": 35177,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 178,
+		"RefreshId": 35178,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"Id": 179,
+		"RefreshId": 35179,
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:12|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 180,
+		"LayerType": 1,
+		"RefreshId": 35180,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:12|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 181,
+		"NeedLv": 480,
+		"RefreshId": 35181,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 182,
+		"RefreshId": 35182,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 183,
+		"RefreshId": 35183,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 184,
+		"RefreshId": 35184,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 185,
+		"RefreshId": 35185,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 186,
+		"NeedLv": 485,
+		"RefreshId": 35186,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 187,
+		"RefreshId": 35187,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 188,
+		"RefreshId": 35188,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"Id": 189,
+		"RefreshId": 35189,
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:13|2010013:2",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010520",
+		"Id": 190,
+		"LayerType": 1,
+		"RefreshId": 35190,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:13|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 191,
+		"NeedLv": 490,
+		"RefreshId": 35191,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 192,
+		"RefreshId": 35192,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 193,
+		"RefreshId": 35193,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 194,
+		"RefreshId": 35194,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 195,
+		"RefreshId": 35195,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 196,
+		"NeedLv": 495,
+		"RefreshId": 35196,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 197,
+		"RefreshId": 35197,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 198,
+		"RefreshId": 35198,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"Id": 199,
+		"RefreshId": 35199,
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:14|2010013:2",
+		"ExtraParam1": "1",
+		"Id": 200,
+		"LayerType": 1,
+		"RefreshId": 35200,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:14|2404201:1|2010013:2|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 201,
+		"NeedLv": 500,
+		"RefreshId": 35201,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 202,
+		"NeedLv": 5,
+		"RefreshId": 35202,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 203,
+		"NeedLv": 5,
+		"RefreshId": 35203,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 204,
+		"NeedLv": 5,
+		"RefreshId": 35204,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 205,
+		"NeedLv": 5,
+		"RefreshId": 35205,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 206,
+		"NeedLv": 505,
+		"RefreshId": 35206,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 207,
+		"RefreshId": 35207,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 208,
+		"RefreshId": 35208,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"Id": 209,
+		"RefreshId": 35209,
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:15|2010013:3",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010521",
+		"Id": 210,
+		"LayerType": 1,
+		"RefreshId": 35210,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:15|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 211,
+		"NeedLv": 510,
+		"RefreshId": 35211,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 212,
+		"NeedLv": 5,
+		"RefreshId": 35212,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 213,
+		"NeedLv": 5,
+		"RefreshId": 35213,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 214,
+		"NeedLv": 5,
+		"RefreshId": 35214,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 215,
+		"NeedLv": 5,
+		"RefreshId": 35215,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 216,
+		"NeedLv": 515,
+		"RefreshId": 35216,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 217,
+		"RefreshId": 35217,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 218,
+		"RefreshId": 35218,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"Id": 219,
+		"RefreshId": 35219,
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:16|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 220,
+		"LayerType": 1,
+		"RefreshId": 35220,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:16|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 221,
+		"NeedLv": 520,
+		"RefreshId": 35221,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 222,
+		"NeedLv": 5,
+		"RefreshId": 35222,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 223,
+		"NeedLv": 5,
+		"RefreshId": 35223,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 224,
+		"NeedLv": 5,
+		"RefreshId": 35224,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 225,
+		"NeedLv": 5,
+		"RefreshId": 35225,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 226,
+		"NeedLv": 525,
+		"RefreshId": 35226,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 227,
+		"RefreshId": 35227,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 228,
+		"RefreshId": 35228,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"Id": 229,
+		"RefreshId": 35229,
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:17|2010013:3",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010522",
+		"Id": 230,
+		"LayerType": 1,
+		"RefreshId": 35230,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:17|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 231,
+		"NeedLv": 530,
+		"RefreshId": 35231,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 232,
+		"NeedLv": 5,
+		"RefreshId": 35232,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 233,
+		"NeedLv": 5,
+		"RefreshId": 35233,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 234,
+		"NeedLv": 5,
+		"RefreshId": 35234,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 235,
+		"NeedLv": 5,
+		"RefreshId": 35235,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 236,
+		"NeedLv": 535,
+		"RefreshId": 35236,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 237,
+		"RefreshId": 35237,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 238,
+		"RefreshId": 35238,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"Id": 239,
+		"RefreshId": 35239,
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:18|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 240,
+		"LayerType": 1,
+		"RefreshId": 35240,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:18|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 241,
+		"NeedLv": 540,
+		"RefreshId": 35241,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 242,
+		"NeedLv": 5,
+		"RefreshId": 35242,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 243,
+		"NeedLv": 5,
+		"RefreshId": 35243,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 244,
+		"NeedLv": 5,
+		"RefreshId": 35244,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 245,
+		"NeedLv": 5,
+		"RefreshId": 35245,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 246,
+		"NeedLv": 545,
+		"RefreshId": 35246,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 247,
+		"RefreshId": 35247,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 248,
+		"RefreshId": 35248,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"Id": 249,
+		"RefreshId": 35249,
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:19|2010013:3",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010523",
+		"Id": 250,
+		"LayerType": 1,
+		"RefreshId": 35250,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:19|2404201:1|2010013:3|2010014:2|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 251,
+		"NeedLv": 550,
+		"RefreshId": 35251,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 252,
+		"NeedLv": 5,
+		"RefreshId": 35252,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 253,
+		"NeedLv": 5,
+		"RefreshId": 35253,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 254,
+		"NeedLv": 5,
+		"RefreshId": 35254,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 255,
+		"NeedLv": 5,
+		"RefreshId": 35255,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 256,
+		"NeedLv": 555,
+		"RefreshId": 35256,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 257,
+		"RefreshId": 35257,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 258,
+		"RefreshId": 35258,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"Id": 259,
+		"RefreshId": 35259,
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:20|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 260,
+		"LayerType": 1,
+		"RefreshId": 35260,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:20|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 261,
+		"NeedLv": 560,
+		"RefreshId": 35261,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 262,
+		"NeedLv": 5,
+		"RefreshId": 35262,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 263,
+		"NeedLv": 5,
+		"RefreshId": 35263,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 264,
+		"NeedLv": 5,
+		"RefreshId": 35264,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 265,
+		"NeedLv": 5,
+		"RefreshId": 35265,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 266,
+		"NeedLv": 565,
+		"RefreshId": 35266,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 267,
+		"RefreshId": 35267,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 268,
+		"RefreshId": 35268,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"Id": 269,
+		"RefreshId": 35269,
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:21|2010013:3",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010524",
+		"Id": 270,
+		"LayerType": 1,
+		"RefreshId": 35270,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:21|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 271,
+		"NeedLv": 570,
+		"RefreshId": 35271,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 272,
+		"NeedLv": 5,
+		"RefreshId": 35272,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 273,
+		"NeedLv": 5,
+		"RefreshId": 35273,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 274,
+		"NeedLv": 5,
+		"RefreshId": 35274,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 275,
+		"NeedLv": 5,
+		"RefreshId": 35275,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 276,
+		"NeedLv": 575,
+		"RefreshId": 35276,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 277,
+		"RefreshId": 35277,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 278,
+		"RefreshId": 35278,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"Id": 279,
+		"RefreshId": 35279,
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:22|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 280,
+		"LayerType": 1,
+		"RefreshId": 35280,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:22|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 281,
+		"NeedLv": 580,
+		"RefreshId": 35281,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 282,
+		"NeedLv": 5,
+		"RefreshId": 35282,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 283,
+		"NeedLv": 5,
+		"RefreshId": 35283,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 284,
+		"NeedLv": 5,
+		"RefreshId": 35284,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 285,
+		"NeedLv": 5,
+		"RefreshId": 35285,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 286,
+		"NeedLv": 585,
+		"RefreshId": 35286,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 287,
+		"RefreshId": 35287,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 288,
+		"RefreshId": 35288,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"Id": 289,
+		"RefreshId": 35289,
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:23|2010013:3",
+		"ExtraParam1": "1",
+		"ExtraParam2": "2010525",
+		"Id": 290,
+		"LayerType": 1,
+		"RefreshId": 35290,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:23|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 291,
+		"NeedLv": 590,
+		"RefreshId": 35291,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 292,
+		"NeedLv": 5,
+		"RefreshId": 35292,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 293,
+		"NeedLv": 5,
+		"RefreshId": 35293,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 294,
+		"NeedLv": 5,
+		"RefreshId": 35294,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 295,
+		"NeedLv": 5,
+		"RefreshId": 35295,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 296,
+		"NeedLv": 595,
+		"RefreshId": 35296,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 297,
+		"RefreshId": 35297,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 298,
+		"RefreshId": 35298,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"Id": 299,
+		"RefreshId": 35299,
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:24|2010013:3",
+		"ExtraParam1": "1",
+		"Id": 300,
+		"LayerType": 1,
+		"RefreshId": 35300,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:24|2404201:1|2010013:3|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 301,
+		"NeedLv": 600,
+		"RefreshId": 35301,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 302,
+		"NeedLv": 5,
+		"RefreshId": 35302,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 303,
+		"NeedLv": 5,
+		"RefreshId": 35303,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 304,
+		"NeedLv": 5,
+		"RefreshId": 35304,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 305,
+		"NeedLv": 5,
+		"RefreshId": 35305,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 306,
+		"NeedLv": 605,
+		"RefreshId": 35306,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 307,
+		"RefreshId": 35307,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 308,
+		"RefreshId": 35308,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"Id": 309,
+		"RefreshId": 35309,
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:25|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 310,
+		"LayerType": 1,
+		"RefreshId": 35310,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:25|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 311,
+		"NeedLv": 610,
+		"RefreshId": 35311,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 312,
+		"NeedLv": 5,
+		"RefreshId": 35312,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 313,
+		"NeedLv": 5,
+		"RefreshId": 35313,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 314,
+		"NeedLv": 5,
+		"RefreshId": 35314,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 315,
+		"NeedLv": 5,
+		"RefreshId": 35315,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 316,
+		"NeedLv": 615,
+		"RefreshId": 35316,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 317,
+		"RefreshId": 35317,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 318,
+		"RefreshId": 35318,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"Id": 319,
+		"RefreshId": 35319,
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:26|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 320,
+		"LayerType": 1,
+		"RefreshId": 35320,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:26|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 321,
+		"NeedLv": 620,
+		"RefreshId": 35321,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 322,
+		"NeedLv": 5,
+		"RefreshId": 35322,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 323,
+		"NeedLv": 5,
+		"RefreshId": 35323,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 324,
+		"NeedLv": 5,
+		"RefreshId": 35324,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 325,
+		"NeedLv": 5,
+		"RefreshId": 35325,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 326,
+		"NeedLv": 625,
+		"RefreshId": 35326,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 327,
+		"RefreshId": 35327,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 328,
+		"RefreshId": 35328,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"Id": 329,
+		"RefreshId": 35329,
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:27|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 330,
+		"LayerType": 1,
+		"RefreshId": 35330,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:27|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 331,
+		"NeedLv": 630,
+		"RefreshId": 35331,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 332,
+		"NeedLv": 5,
+		"RefreshId": 35332,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 333,
+		"NeedLv": 5,
+		"RefreshId": 35333,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 334,
+		"NeedLv": 5,
+		"RefreshId": 35334,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 335,
+		"NeedLv": 5,
+		"RefreshId": 35335,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 336,
+		"NeedLv": 635,
+		"RefreshId": 35336,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 337,
+		"RefreshId": 35337,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 338,
+		"RefreshId": 35338,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"Id": 339,
+		"RefreshId": 35339,
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:28|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 340,
+		"LayerType": 1,
+		"RefreshId": 35340,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:28|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 341,
+		"NeedLv": 640,
+		"RefreshId": 35341,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 342,
+		"NeedLv": 5,
+		"RefreshId": 35342,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 343,
+		"NeedLv": 5,
+		"RefreshId": 35343,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 344,
+		"NeedLv": 5,
+		"RefreshId": 35344,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 345,
+		"NeedLv": 5,
+		"RefreshId": 35345,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 346,
+		"NeedLv": 645,
+		"RefreshId": 35346,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 347,
+		"RefreshId": 35347,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 348,
+		"RefreshId": 35348,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"Id": 349,
+		"RefreshId": 35349,
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:29|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 350,
+		"LayerType": 1,
+		"RefreshId": 35350,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:29|2404201:1|2010013:4|2010014:3|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 351,
+		"NeedLv": 650,
+		"RefreshId": 35351,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 352,
+		"NeedLv": 5,
+		"RefreshId": 35352,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 353,
+		"NeedLv": 5,
+		"RefreshId": 35353,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 354,
+		"NeedLv": 5,
+		"RefreshId": 35354,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 355,
+		"NeedLv": 5,
+		"RefreshId": 35355,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 356,
+		"NeedLv": 655,
+		"RefreshId": 35356,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 357,
+		"RefreshId": 35357,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 358,
+		"RefreshId": 35358,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"Id": 359,
+		"RefreshId": 35359,
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:30|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 360,
+		"LayerType": 1,
+		"RefreshId": 35360,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:30|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 361,
+		"NeedLv": 660,
+		"RefreshId": 35361,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 362,
+		"NeedLv": 5,
+		"RefreshId": 35362,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 363,
+		"NeedLv": 5,
+		"RefreshId": 35363,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 364,
+		"NeedLv": 5,
+		"RefreshId": 35364,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 365,
+		"NeedLv": 5,
+		"RefreshId": 35365,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 366,
+		"NeedLv": 665,
+		"RefreshId": 35366,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 367,
+		"RefreshId": 35367,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 368,
+		"RefreshId": 35368,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"Id": 369,
+		"RefreshId": 35369,
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:31|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 370,
+		"LayerType": 1,
+		"RefreshId": 35370,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:31|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 371,
+		"NeedLv": 670,
+		"RefreshId": 35371,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 372,
+		"NeedLv": 5,
+		"RefreshId": 35372,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 373,
+		"NeedLv": 5,
+		"RefreshId": 35373,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 374,
+		"NeedLv": 5,
+		"RefreshId": 35374,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 375,
+		"NeedLv": 5,
+		"RefreshId": 35375,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 376,
+		"NeedLv": 675,
+		"RefreshId": 35376,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 377,
+		"RefreshId": 35377,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 378,
+		"RefreshId": 35378,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"Id": 379,
+		"RefreshId": 35379,
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:32|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 380,
+		"LayerType": 1,
+		"RefreshId": 35380,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:32|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 381,
+		"NeedLv": 680,
+		"RefreshId": 35381,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 382,
+		"NeedLv": 5,
+		"RefreshId": 35382,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 383,
+		"NeedLv": 5,
+		"RefreshId": 35383,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 384,
+		"NeedLv": 5,
+		"RefreshId": 35384,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 385,
+		"NeedLv": 5,
+		"RefreshId": 35385,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 386,
+		"NeedLv": 685,
+		"RefreshId": 35386,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 387,
+		"RefreshId": 35387,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 388,
+		"RefreshId": 35388,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"Id": 389,
+		"RefreshId": 35389,
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:33|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 390,
+		"LayerType": 1,
+		"RefreshId": 35390,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:33|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 391,
+		"NeedLv": 690,
+		"RefreshId": 35391,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 392,
+		"NeedLv": 5,
+		"RefreshId": 35392,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 393,
+		"NeedLv": 5,
+		"RefreshId": 35393,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 394,
+		"NeedLv": 5,
+		"RefreshId": 35394,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 395,
+		"NeedLv": 5,
+		"RefreshId": 35395,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 396,
+		"NeedLv": 695,
+		"RefreshId": 35396,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 397,
+		"RefreshId": 35397,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 398,
+		"RefreshId": 35398,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"Id": 399,
+		"RefreshId": 35399,
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:34|2010013:4",
+		"ExtraParam1": "1",
+		"Id": 400,
+		"LayerType": 1,
+		"RefreshId": 35400,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:34|2404201:1|2010013:4|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 401,
+		"NeedLv": 700,
+		"RefreshId": 35401,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 402,
+		"NeedLv": 5,
+		"RefreshId": 35402,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 403,
+		"NeedLv": 5,
+		"RefreshId": 35403,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 404,
+		"NeedLv": 5,
+		"RefreshId": 35404,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 405,
+		"NeedLv": 5,
+		"RefreshId": 35405,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 406,
+		"NeedLv": 705,
+		"RefreshId": 35406,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 407,
+		"RefreshId": 35407,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 408,
+		"RefreshId": 35408,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"Id": 409,
+		"RefreshId": 35409,
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:35|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 410,
+		"LayerType": 1,
+		"RefreshId": 35410,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:35|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 411,
+		"NeedLv": 710,
+		"RefreshId": 35411,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 412,
+		"NeedLv": 5,
+		"RefreshId": 35412,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 413,
+		"NeedLv": 5,
+		"RefreshId": 35413,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 414,
+		"NeedLv": 5,
+		"RefreshId": 35414,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 415,
+		"NeedLv": 5,
+		"RefreshId": 35415,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 416,
+		"NeedLv": 715,
+		"RefreshId": 35416,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 417,
+		"RefreshId": 35417,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 418,
+		"RefreshId": 35418,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"Id": 419,
+		"RefreshId": 35419,
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:36|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 420,
+		"LayerType": 1,
+		"RefreshId": 35420,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:36|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 421,
+		"NeedLv": 720,
+		"RefreshId": 35421,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 422,
+		"NeedLv": 5,
+		"RefreshId": 35422,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 423,
+		"NeedLv": 5,
+		"RefreshId": 35423,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 424,
+		"NeedLv": 5,
+		"RefreshId": 35424,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 425,
+		"NeedLv": 5,
+		"RefreshId": 35425,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 426,
+		"NeedLv": 725,
+		"RefreshId": 35426,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 427,
+		"RefreshId": 35427,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 428,
+		"RefreshId": 35428,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"Id": 429,
+		"RefreshId": 35429,
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:37|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 430,
+		"LayerType": 1,
+		"RefreshId": 35430,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:37|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 431,
+		"NeedLv": 730,
+		"RefreshId": 35431,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 432,
+		"NeedLv": 5,
+		"RefreshId": 35432,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 433,
+		"NeedLv": 5,
+		"RefreshId": 35433,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 434,
+		"NeedLv": 5,
+		"RefreshId": 35434,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 435,
+		"NeedLv": 5,
+		"RefreshId": 35435,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 436,
+		"NeedLv": 735,
+		"RefreshId": 35436,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 437,
+		"RefreshId": 35437,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 177,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 438,
+		"RefreshId": 35438,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 180,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"Id": 439,
+		"RefreshId": 35439,
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 189,
+		"DayGetPrize": "2010012:38|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 440,
+		"LayerType": 1,
+		"RefreshId": 35440,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:38|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 201,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 441,
+		"NeedLv": 740,
+		"RefreshId": 35441,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 442,
+		"NeedLv": 5,
+		"RefreshId": 35442,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 443,
+		"NeedLv": 5,
+		"RefreshId": 35443,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 444,
+		"NeedLv": 5,
+		"RefreshId": 35444,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 12,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 445,
+		"NeedLv": 5,
+		"RefreshId": 35445,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 446,
+		"NeedLv": 745,
+		"RefreshId": 35446,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 18,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 447,
+		"RefreshId": 35447,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 24,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 448,
+		"RefreshId": 35448,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 27,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"Id": 449,
+		"RefreshId": 35449,
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 30,
+		"DayGetPrize": "2010012:39|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 450,
+		"LayerType": 1,
+		"RefreshId": 35450,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:39|2404201:1|2010013:5|2010014:4|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 33,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 451,
+		"NeedLv": 750,
+		"RefreshId": 35451,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 36,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 452,
+		"NeedLv": 5,
+		"RefreshId": 35452,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 39,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 453,
+		"NeedLv": 5,
+		"RefreshId": 35453,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 42,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 454,
+		"NeedLv": 5,
+		"RefreshId": 35454,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 48,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 455,
+		"NeedLv": 5,
+		"RefreshId": 35455,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 114,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 456,
+		"NeedLv": 755,
+		"RefreshId": 35456,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 51,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 457,
+		"RefreshId": 35457,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 57,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 458,
+		"RefreshId": 35458,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 60,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"Id": 459,
+		"RefreshId": 35459,
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 63,
+		"DayGetPrize": "2010012:40|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 460,
+		"LayerType": 1,
+		"RefreshId": 35460,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:40|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 69,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 461,
+		"NeedLv": 760,
+		"RefreshId": 35461,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 72,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 462,
+		"NeedLv": 5,
+		"RefreshId": 35462,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 84,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 463,
+		"NeedLv": 5,
+		"RefreshId": 35463,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 93,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 464,
+		"NeedLv": 5,
+		"RefreshId": 35464,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 99,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 465,
+		"NeedLv": 5,
+		"RefreshId": 35465,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 102,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 466,
+		"NeedLv": 765,
+		"RefreshId": 35466,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 111,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 467,
+		"RefreshId": 35467,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 126,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 468,
+		"RefreshId": 35468,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 129,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"Id": 469,
+		"RefreshId": 35469,
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 132,
+		"DayGetPrize": "2010012:41|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 470,
+		"LayerType": 1,
+		"RefreshId": 35470,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:41|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 144,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 471,
+		"NeedLv": 770,
+		"RefreshId": 35471,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 153,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 472,
+		"NeedLv": 5,
+		"RefreshId": 35472,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 165,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 473,
+		"NeedLv": 5,
+		"RefreshId": 35473,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 186,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 474,
+		"NeedLv": 5,
+		"RefreshId": 35474,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 192,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 475,
+		"NeedLv": 5,
+		"RefreshId": 35475,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 195,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 476,
+		"NeedLv": 775,
+		"RefreshId": 35476,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 21,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 477,
+		"RefreshId": 35477,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 45,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 478,
+		"RefreshId": 35478,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 66,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"Id": 479,
+		"RefreshId": 35479,
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 87,
+		"DayGetPrize": "2010012:42|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 480,
+		"LayerType": 1,
+		"RefreshId": 35480,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:42|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 90,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 481,
+		"NeedLv": 780,
+		"RefreshId": 35481,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 96,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 482,
+		"NeedLv": 5,
+		"RefreshId": 35482,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 105,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 483,
+		"NeedLv": 5,
+		"RefreshId": 35483,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 117,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 484,
+		"NeedLv": 5,
+		"RefreshId": 35484,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 123,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 485,
+		"NeedLv": 5,
+		"RefreshId": 35485,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 135,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 486,
+		"NeedLv": 785,
+		"RefreshId": 35486,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 138,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 487,
+		"RefreshId": 35487,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 141,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 488,
+		"RefreshId": 35488,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 183,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"Id": 489,
+		"RefreshId": 35489,
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 198,
+		"DayGetPrize": "2010012:43|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 490,
+		"LayerType": 1,
+		"RefreshId": 35490,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:43|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 54,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 491,
+		"NeedLv": 790,
+		"RefreshId": 35491,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 81,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 492,
+		"NeedLv": 5,
+		"RefreshId": 35492,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 120,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 493,
+		"NeedLv": 5,
+		"RefreshId": 35493,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 150,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 494,
+		"NeedLv": 5,
+		"RefreshId": 35494,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 156,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 495,
+		"NeedLv": 5,
+		"RefreshId": 35495,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 159,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 496,
+		"NeedLv": 795,
+		"RefreshId": 35496,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 162,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 497,
+		"RefreshId": 35497,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 168,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 498,
+		"RefreshId": 35498,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 171,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"Id": 499,
+		"RefreshId": 35499,
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	},
+	{
+		"BossId": 174,
+		"DayGetPrize": "2010012:44|2010013:5",
+		"ExtraParam1": "1",
+		"Id": 500,
+		"LayerType": 1,
+		"RefreshId": 35500,
+		"SepPrize": "2010016:1",
+		"ShowPrize": "2010012:44|2404201:1|2010013:5|2010014:5|2010015:1",
+		"TowerType": 5
+	}
+]

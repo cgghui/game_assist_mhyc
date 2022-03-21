@@ -1,0 +1,50 @@
+[
+	{
+		"CfgKey": "VIPEmojLevel",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "Changeconsumption",
+		"CfgValue": "101:1"
+	},
+	{
+		"CfgKey": "Interval",
+		"CfgValue": "10003:3|10004:3|10005:0|10010:3|10011:3|10021:3|10022:3"
+	},
+	{
+		"CfgKey": "LimitMsgBar",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "LimitMsgDay",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "LimitMsgLength",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "LimitShowMsg",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "LimitRepeatNum",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "NoTalkTime",
+		"CfgValue": "86400"
+	},
+	{
+		"CfgKey": "LimitLevel",
+		"CfgValue": "130"
+	},
+	{
+		"CfgKey": "LimitWordLen",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "LimitShare",
+		"CfgValue": "5"
+	}
+]

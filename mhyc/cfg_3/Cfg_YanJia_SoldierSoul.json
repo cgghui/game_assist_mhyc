@@ -1,0 +1,346 @@
+[
+	{
+		"BaseAttr": 3100301,
+		"Id": 1,
+		"ItemId": 2060301,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100302,
+		"Id": 1,
+		"ItemCount": 10,
+		"ItemId": 2060301,
+		"Lev": 1,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100303,
+		"Id": 1,
+		"ItemCount": 20,
+		"ItemId": 2060301,
+		"Lev": 2,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100304,
+		"Id": 1,
+		"ItemCount": 30,
+		"ItemId": 2060301,
+		"Lev": 3,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100305,
+		"Id": 1,
+		"ItemCount": 40,
+		"ItemId": 2060301,
+		"Lev": 4,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100306,
+		"Id": 1,
+		"ItemCount": 50,
+		"ItemId": 2060301,
+		"Lev": 5,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100307,
+		"Id": 1,
+		"ItemCount": 60,
+		"ItemId": 2060301,
+		"Lev": 6,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100308,
+		"Id": 1,
+		"ItemCount": 70,
+		"ItemId": 2060301,
+		"Lev": 7,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100309,
+		"Id": 1,
+		"ItemCount": 80,
+		"ItemId": 2060301,
+		"Lev": 8,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100310,
+		"Id": 1,
+		"ItemCount": 90,
+		"ItemId": 2060301,
+		"Lev": 9,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100311,
+		"Id": 1,
+		"ItemCount": 100,
+		"ItemId": 2060301,
+		"Lev": 10,
+		"Name": "吃丹1"
+	},
+	{
+		"BaseAttr": 3100401,
+		"Id": 2,
+		"ItemId": 2060302,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100402,
+		"Id": 2,
+		"ItemCount": 10,
+		"ItemId": 2060302,
+		"Lev": 1,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100403,
+		"Id": 2,
+		"ItemCount": 20,
+		"ItemId": 2060302,
+		"Lev": 2,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100404,
+		"Id": 2,
+		"ItemCount": 30,
+		"ItemId": 2060302,
+		"Lev": 3,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100405,
+		"Id": 2,
+		"ItemCount": 40,
+		"ItemId": 2060302,
+		"Lev": 4,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100406,
+		"Id": 2,
+		"ItemCount": 50,
+		"ItemId": 2060302,
+		"Lev": 5,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100407,
+		"Id": 2,
+		"ItemCount": 60,
+		"ItemId": 2060302,
+		"Lev": 6,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100408,
+		"Id": 2,
+		"ItemCount": 70,
+		"ItemId": 2060302,
+		"Lev": 7,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100409,
+		"Id": 2,
+		"ItemCount": 80,
+		"ItemId": 2060302,
+		"Lev": 8,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100410,
+		"Id": 2,
+		"ItemCount": 90,
+		"ItemId": 2060302,
+		"Lev": 9,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100411,
+		"Id": 2,
+		"ItemCount": 100,
+		"ItemId": 2060302,
+		"Lev": 10,
+		"Name": "吃丹2"
+	},
+	{
+		"BaseAttr": 3100501,
+		"Id": 3,
+		"ItemId": 2060303,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100502,
+		"Id": 3,
+		"ItemCount": 10,
+		"ItemId": 2060303,
+		"Lev": 1,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100503,
+		"Id": 3,
+		"ItemCount": 20,
+		"ItemId": 2060303,
+		"Lev": 2,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100504,
+		"Id": 3,
+		"ItemCount": 30,
+		"ItemId": 2060303,
+		"Lev": 3,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100505,
+		"Id": 3,
+		"ItemCount": 40,
+		"ItemId": 2060303,
+		"Lev": 4,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100506,
+		"Id": 3,
+		"ItemCount": 50,
+		"ItemId": 2060303,
+		"Lev": 5,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100507,
+		"Id": 3,
+		"ItemCount": 60,
+		"ItemId": 2060303,
+		"Lev": 6,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100508,
+		"Id": 3,
+		"ItemCount": 70,
+		"ItemId": 2060303,
+		"Lev": 7,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100509,
+		"Id": 3,
+		"ItemCount": 80,
+		"ItemId": 2060303,
+		"Lev": 8,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100510,
+		"Id": 3,
+		"ItemCount": 90,
+		"ItemId": 2060303,
+		"Lev": 9,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100511,
+		"Id": 3,
+		"ItemCount": 100,
+		"ItemId": 2060303,
+		"Lev": 10,
+		"Name": "吃丹3"
+	},
+	{
+		"BaseAttr": 3100601,
+		"Id": 4,
+		"ItemId": 2060304,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100602,
+		"Id": 4,
+		"ItemCount": 10,
+		"ItemId": 2060304,
+		"Lev": 1,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100603,
+		"Id": 4,
+		"ItemCount": 20,
+		"ItemId": 2060304,
+		"Lev": 2,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100604,
+		"Id": 4,
+		"ItemCount": 30,
+		"ItemId": 2060304,
+		"Lev": 3,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100605,
+		"Id": 4,
+		"ItemCount": 40,
+		"ItemId": 2060304,
+		"Lev": 4,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100606,
+		"Id": 4,
+		"ItemCount": 50,
+		"ItemId": 2060304,
+		"Lev": 5,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100607,
+		"Id": 4,
+		"ItemCount": 60,
+		"ItemId": 2060304,
+		"Lev": 6,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100608,
+		"Id": 4,
+		"ItemCount": 70,
+		"ItemId": 2060304,
+		"Lev": 7,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100609,
+		"Id": 4,
+		"ItemCount": 80,
+		"ItemId": 2060304,
+		"Lev": 8,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100610,
+		"Id": 4,
+		"ItemCount": 90,
+		"ItemId": 2060304,
+		"Lev": 9,
+		"Name": "吃丹4"
+	},
+	{
+		"BaseAttr": 3100611,
+		"Id": 4,
+		"ItemCount": 100,
+		"ItemId": 2060304,
+		"Lev": 10,
+		"Name": "吃丹4"
+	}
+]

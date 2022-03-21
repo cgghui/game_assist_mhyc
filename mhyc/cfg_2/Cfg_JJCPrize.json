@@ -1,0 +1,82 @@
+[
+	{
+		"Prize": 1301,
+		"RankMax": 1,
+		"RankMin": 1
+	},
+	{
+		"Prize": 1302,
+		"RankMax": 2,
+		"RankMin": 2
+	},
+	{
+		"Prize": 1303,
+		"RankMax": 3,
+		"RankMin": 3
+	},
+	{
+		"Prize": 1304,
+		"RankMax": 4,
+		"RankMin": 4
+	},
+	{
+		"Prize": 1305,
+		"RankMax": 5,
+		"RankMin": 5
+	},
+	{
+		"Prize": 1306,
+		"RankMax": 10,
+		"RankMin": 6
+	},
+	{
+		"Prize": 1307,
+		"RankMax": 20,
+		"RankMin": 11
+	},
+	{
+		"Prize": 1308,
+		"RankMax": 50,
+		"RankMin": 21
+	},
+	{
+		"Prize": 1309,
+		"RankMax": 100,
+		"RankMin": 51
+	},
+	{
+		"Prize": 1310,
+		"RankMax": 300,
+		"RankMin": 101
+	},
+	{
+		"Prize": 1311,
+		"RankMax": 1000,
+		"RankMin": 301
+	},
+	{
+		"Prize": 1312,
+		"RankMax": 5000,
+		"RankMin": 1001
+	},
+	{
+		"Prize": 1313,
+		"RankMax": 10000,
+		"RankMin": 5001
+	},
+	{
+		"Prize": 1314,
+		"RankMax": 15000,
+		"RankMin": 10001
+	},
+	{
+		"Prize": 1315,
+		"RankMax": 20000,
+		"RankMin": 15001
+	},
+	{
+		"Prize": 1316,
+		"RankMax": 99999,
+		"RankMin": 20000
+	}
+]

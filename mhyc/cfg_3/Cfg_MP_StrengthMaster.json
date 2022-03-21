@@ -1,0 +1,302 @@
+[
+	{
+		"Attr": 3620801,
+		"CountLimit": 2,
+		"Lev": 1,
+		"LevelLimit": 10
+	},
+	{
+		"Attr": 3620802,
+		"CountLimit": 2,
+		"Lev": 2,
+		"LevelLimit": 20
+	},
+	{
+		"Attr": 3620803,
+		"CountLimit": 2,
+		"Lev": 3,
+		"LevelLimit": 30
+	},
+	{
+		"Attr": 3620804,
+		"CountLimit": 4,
+		"Lev": 4,
+		"LevelLimit": 40
+	},
+	{
+		"Attr": 3620805,
+		"CountLimit": 4,
+		"Lev": 5,
+		"LevelLimit": 50
+	},
+	{
+		"Attr": 3620806,
+		"CountLimit": 4,
+		"Lev": 6,
+		"LevelLimit": 60
+	},
+	{
+		"Attr": 3620807,
+		"CountLimit": 6,
+		"Lev": 7,
+		"LevelLimit": 70
+	},
+	{
+		"Attr": 3620808,
+		"CountLimit": 6,
+		"Lev": 8,
+		"LevelLimit": 80
+	},
+	{
+		"Attr": 3620809,
+		"CountLimit": 6,
+		"Lev": 9,
+		"LevelLimit": 90
+	},
+	{
+		"Attr": 3620810,
+		"CountLimit": 6,
+		"Lev": 10,
+		"LevelLimit": 100
+	},
+	{
+		"Attr": 3620811,
+		"CountLimit": 6,
+		"Lev": 11,
+		"LevelLimit": 110
+	},
+	{
+		"Attr": 3620812,
+		"CountLimit": 6,
+		"Lev": 12,
+		"LevelLimit": 120
+	},
+	{
+		"Attr": 3620813,
+		"CountLimit": 6,
+		"Lev": 13,
+		"LevelLimit": 130
+	},
+	{
+		"Attr": 3620814,
+		"CountLimit": 6,
+		"Lev": 14,
+		"LevelLimit": 140
+	},
+	{
+		"Attr": 3620815,
+		"CountLimit": 6,
+		"Lev": 15,
+		"LevelLimit": 150
+	},
+	{
+		"Attr": 3620816,
+		"CountLimit": 6,
+		"Lev": 16,
+		"LevelLimit": 160
+	},
+	{
+		"Attr": 3620817,
+		"CountLimit": 6,
+		"Lev": 17,
+		"LevelLimit": 170
+	},
+	{
+		"Attr": 3620818,
+		"CountLimit": 6,
+		"Lev": 18,
+		"LevelLimit": 180
+	},
+	{
+		"Attr": 3620819,
+		"CountLimit": 6,
+		"Lev": 19,
+		"LevelLimit": 190
+	},
+	{
+		"Attr": 3620820,
+		"CountLimit": 6,
+		"Lev": 20,
+		"LevelLimit": 200
+	},
+	{
+		"Attr": 3620821,
+		"CountLimit": 8,
+		"Lev": 21,
+		"LevelLimit": 210
+	},
+	{
+		"Attr": 3620822,
+		"CountLimit": 8,
+		"Lev": 22,
+		"LevelLimit": 220
+	},
+	{
+		"Attr": 3620823,
+		"CountLimit": 8,
+		"Lev": 23,
+		"LevelLimit": 230
+	},
+	{
+		"Attr": 3620824,
+		"CountLimit": 8,
+		"Lev": 24,
+		"LevelLimit": 240
+	},
+	{
+		"Attr": 3620825,
+		"CountLimit": 8,
+		"Lev": 25,
+		"LevelLimit": 250
+	},
+	{
+		"Attr": 3620826,
+		"CountLimit": 8,
+		"Lev": 26,
+		"LevelLimit": 260
+	},
+	{
+		"Attr": 3620827,
+		"CountLimit": 8,
+		"Lev": 27,
+		"LevelLimit": 270
+	},
+	{
+		"Attr": 3620828,
+		"CountLimit": 8,
+		"Lev": 28,
+		"LevelLimit": 280
+	},
+	{
+		"Attr": 3620829,
+		"CountLimit": 8,
+		"Lev": 29,
+		"LevelLimit": 290
+	},
+	{
+		"Attr": 3620830,
+		"CountLimit": 8,
+		"Lev": 30,
+		"LevelLimit": 300
+	},
+	{
+		"Attr": 3620831,
+		"CountLimit": 8,
+		"Lev": 31,
+		"LevelLimit": 310
+	},
+	{
+		"Attr": 3620832,
+		"CountLimit": 8,
+		"Lev": 32,
+		"LevelLimit": 320
+	},
+	{
+		"Attr": 3620833,
+		"CountLimit": 8,
+		"Lev": 33,
+		"LevelLimit": 330
+	},
+	{
+		"Attr": 3620834,
+		"CountLimit": 8,
+		"Lev": 34,
+		"LevelLimit": 340
+	},
+	{
+		"Attr": 3620835,
+		"CountLimit": 8,
+		"Lev": 35,
+		"LevelLimit": 350
+	},
+	{
+		"Attr": 3620836,
+		"CountLimit": 8,
+		"Lev": 36,
+		"LevelLimit": 360
+	},
+	{
+		"Attr": 3620837,
+		"CountLimit": 8,
+		"Lev": 37,
+		"LevelLimit": 370
+	},
+	{
+		"Attr": 3620838,
+		"CountLimit": 8,
+		"Lev": 38,
+		"LevelLimit": 380
+	},
+	{
+		"Attr": 3620839,
+		"CountLimit": 8,
+		"Lev": 39,
+		"LevelLimit": 390
+	},
+	{
+		"Attr": 3620840,
+		"CountLimit": 8,
+		"Lev": 40,
+		"LevelLimit": 400
+	},
+	{
+		"Attr": 3620841,
+		"CountLimit": 8,
+		"Lev": 41,
+		"LevelLimit": 410
+	},
+	{
+		"Attr": 3620842,
+		"CountLimit": 8,
+		"Lev": 42,
+		"LevelLimit": 420
+	},
+	{
+		"Attr": 3620843,
+		"CountLimit": 8,
+		"Lev": 43,
+		"LevelLimit": 430
+	},
+	{
+		"Attr": 3620844,
+		"CountLimit": 8,
+		"Lev": 44,
+		"LevelLimit": 440
+	},
+	{
+		"Attr": 3620845,
+		"CountLimit": 8,
+		"Lev": 45,
+		"LevelLimit": 450
+	},
+	{
+		"Attr": 3620846,
+		"CountLimit": 8,
+		"Lev": 46,
+		"LevelLimit": 460
+	},
+	{
+		"Attr": 3620847,
+		"CountLimit": 8,
+		"Lev": 47,
+		"LevelLimit": 470
+	},
+	{
+		"Attr": 3620848,
+		"CountLimit": 8,
+		"Lev": 48,
+		"LevelLimit": 480
+	},
+	{
+		"Attr": 3620849,
+		"CountLimit": 8,
+		"Lev": 49,
+		"LevelLimit": 490
+	},
+	{
+		"Attr": 3620850,
+		"CountLimit": 8,
+		"Lev": 50,
+		"LevelLimit": 500
+	}
+]

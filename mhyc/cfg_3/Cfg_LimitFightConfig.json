@@ -1,0 +1,34 @@
+[
+	{
+		"CfgKey": "LimitFightCount",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "LimitFightInterval",
+		"CfgValue": "7200"
+	},
+	{
+		"CfgKey": "LimitFightMapId",
+		"CfgValue": "2400"
+	},
+	{
+		"CfgKey": "LimitFightMapX",
+		"CfgValue": "26"
+	},
+	{
+		"CfgKey": "LimitFightMapY",
+		"CfgValue": "21"
+	},
+	{
+		"CfgKey": "LimitFightItemId",
+		"CfgValue": "952|71|602"
+	},
+	{
+		"CfgKey": "LimitFightBuyLimitId",
+		"CfgValue": "90002"
+	},
+	{
+		"CfgKey": "LimitFightSkinId",
+		"CfgValue": "300300"
+	}
+]

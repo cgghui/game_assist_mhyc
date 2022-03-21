@@ -1,0 +1,1532 @@
+[
+	{
+		"Id": 1
+	},
+	{
+		"Id": 1,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 1,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 1,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 1,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 1,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 1,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 1,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 1,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 1,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 1,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 1,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 1,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 1,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 1,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 1,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 1,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 1,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 1,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 1,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 1,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 2
+	},
+	{
+		"Id": 2,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 2,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 2,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 2,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 2,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 2,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 2,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 2,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 2,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 2,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 2,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 2,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 2,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 2,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 2,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 2,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 2,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 2,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 2,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 2,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 3
+	},
+	{
+		"Id": 3,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 3,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 3,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 3,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 3,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 3,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 3,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 3,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 3,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 3,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 3,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 3,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 3,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 3,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 3,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 3,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 3,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 3,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 3,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 3,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 4
+	},
+	{
+		"Id": 4,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 4,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 4,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 4,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 4,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 4,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 4,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 4,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 4,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 4,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 4,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 4,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 4,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 4,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 4,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 4,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 4,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 4,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 4,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 4,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 5
+	},
+	{
+		"Id": 5,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 5,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 5,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 5,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 5,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 5,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 5,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 5,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 5,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 5,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 5,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 5,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 5,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 5,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 5,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 5,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 5,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 5,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 5,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 5,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 6
+	},
+	{
+		"Id": 6,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 6,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 6,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 6,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 6,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 6,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 6,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 6,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 6,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 6,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 6,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 6,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 6,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 6,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 6,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 6,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 6,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 6,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 6,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 6,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 7
+	},
+	{
+		"Id": 7,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 7,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 7,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 7,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 7,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 7,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 7,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 7,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 7,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 7,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 7,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 7,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 7,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 7,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 7,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 7,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 7,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 7,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 7,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 7,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 8
+	},
+	{
+		"Id": 8,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 8,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 8,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 8,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 8,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 8,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 8,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 8,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 8,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 8,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 8,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 8,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 8,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 8,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 8,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 8,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 8,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 8,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 8,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 8,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 9
+	},
+	{
+		"Id": 9,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 9,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 9,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 9,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 9,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 9,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 9,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 9,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 9,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 9,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 9,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 9,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 9,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 9,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 9,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 9,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 9,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 9,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 9,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 9,
+		"SkillLev": 15,
+		"Star": 30
+	},
+	{
+		"Id": 10
+	},
+	{
+		"Id": 10,
+		"SkillLev": 1,
+		"Star": 1
+	},
+	{
+		"Id": 10,
+		"SkillLev": 2,
+		"Star": 2
+	},
+	{
+		"Id": 10,
+		"SkillLev": 3,
+		"Star": 3
+	},
+	{
+		"Id": 10,
+		"SkillLev": 4,
+		"Star": 4
+	},
+	{
+		"Id": 10,
+		"SkillLev": 5,
+		"Star": 5
+	},
+	{
+		"Id": 10,
+		"SkillLev": 6,
+		"Star": 6
+	},
+	{
+		"Id": 10,
+		"SkillLev": 7,
+		"Star": 7
+	},
+	{
+		"Id": 10,
+		"SkillLev": 8,
+		"Star": 8
+	},
+	{
+		"Id": 10,
+		"SkillLev": 9,
+		"Star": 9
+	},
+	{
+		"Id": 10,
+		"SkillLev": 10,
+		"Star": 10
+	},
+	{
+		"Id": 10,
+		"SkillLev": 10,
+		"Star": 11
+	},
+	{
+		"Id": 10,
+		"SkillLev": 11,
+		"Star": 12
+	},
+	{
+		"Id": 10,
+		"SkillLev": 11,
+		"Star": 13
+	},
+	{
+		"Id": 10,
+		"SkillLev": 12,
+		"Star": 14
+	},
+	{
+		"Id": 10,
+		"SkillLev": 12,
+		"Star": 15
+	},
+	{
+		"Id": 10,
+		"SkillLev": 13,
+		"Star": 16
+	},
+	{
+		"Id": 10,
+		"SkillLev": 13,
+		"Star": 17
+	},
+	{
+		"Id": 10,
+		"SkillLev": 14,
+		"Star": 18
+	},
+	{
+		"Id": 10,
+		"SkillLev": 14,
+		"Star": 19
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 20
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 21
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 22
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 23
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 24
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 25
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 26
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 27
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 28
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 29
+	},
+	{
+		"Id": 10,
+		"SkillLev": 15,
+		"Star": 30
+	}
+]

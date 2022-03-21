@@ -1,0 +1,93 @@
+[
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_1",
+		"FuncId": 11050,
+		"Id": 1,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_5",
+		"FuncId": 11051,
+		"Id": 2,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_3",
+		"FuncId": 11052,
+		"Id": 3,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_7",
+		"FuncId": 11056,
+		"Id": 4,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_2",
+		"FuncId": 11053,
+		"Id": 5,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_9",
+		"FuncId": 11054,
+		"Id": 6,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_4",
+		"FuncId": 100,
+		"Id": 7
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_6",
+		"FuncId": 12801,
+		"Id": 8,
+		"IsUse": 1
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_10",
+		"FuncId": 11132,
+		"Id": 9,
+		"IsUse": 1
+	},
+	{
+		"FuncId": 11151,
+		"Id": 10
+	},
+	{
+		"FuncId": 11152,
+		"Id": 11
+	},
+	{
+		"FuncId": 11153,
+		"Id": 12
+	},
+	{
+		"FuncId": 11155,
+		"Id": 13
+	},
+	{
+		"FuncId": 11156,
+		"Id": 14
+	},
+	{
+		"FuncId": 11157,
+		"Id": 15
+	},
+	{
+		"FuncId": 11158,
+		"Id": 16
+	},
+	{
+		"AnimId": "i/m/newAct/bfxr/wf_8",
+		"FuncId": 817,
+		"Id": 17,
+		"IsUse": 1
+	},
+	{
+		"FuncId": 11176,
+		"Id": 18
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"AttrInc": 10000,
+		"Star": 1
+	},
+	{
+		"AttrInc": 20000,
+		"Star": 2
+	},
+	{
+		"AttrInc": 40000,
+		"Star": 3
+	},
+	{
+		"AttrInc": 80000,
+		"Star": 4
+	},
+	{
+		"AttrInc": 140000,
+		"Star": 5
+	},
+	{
+		"AttrInc": 220000,
+		"Star": 6
+	},
+	{
+		"AttrInc": 320000,
+		"NeedItem": "2310005:10",
+		"Star": 7
+	},
+	{
+		"AttrInc": 440000,
+		"NeedItem": "2310005:30",
+		"Star": 8
+	},
+	{
+		"AttrInc": 580000,
+		"NeedItem": "2310005:50",
+		"Star": 9
+	},
+	{
+		"AttrInc": 740000,
+		"NeedItem": "2310005:100",
+		"Star": 10
+	},
+	{
+		"AttrInc": 920000,
+		"NeedItem": "2310005:200",
+		"Star": 11
+	}
+]

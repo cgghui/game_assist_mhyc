@@ -1,0 +1,34 @@
+[
+	{
+		"CfgKey": "UnLockGoldWarriorTips1",
+		"CfgValue": "具备星变之路开启条件"
+	},
+	{
+		"CfgKey": "UnLockGoldWarriorTips2",
+		"CfgValue": "稀世战神惊天变 一重楼是一重天"
+	},
+	{
+		"CfgKey": "MAXGradeUp",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "MAXLevelUp",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "MAXStarUp",
+		"CfgValue": "21"
+	},
+	{
+		"CfgKey": "GetGoldWarriorTips",
+		"CfgValue": "稀世皮肤激活,星变之路开启"
+	},
+	{
+		"CfgKey": "ChangeGoldWarriorTips",
+		"CfgValue": "星变成功，重天突破"
+	},
+	{
+		"CfgKey": "GoldWarriorUpTips",
+		"CfgValue": "已达星变上限，升星方可突破"
+	}
+]

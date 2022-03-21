@@ -1,0 +1,401 @@
+[
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,146]]",
+		"ID": 1,
+		"SIZE": 40,
+		"ShowLv": "1+2"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,125]]",
+		"ID": 2,
+		"SIZE": 40,
+		"ShowLv": "1+2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,99]]",
+		"ID": 3,
+		"SIZE": 40,
+		"ShowLv": "2+3+4"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,70]]",
+		"ID": 4,
+		"SIZE": 40,
+		"ShowLv": "1+2"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,49]]",
+		"ID": 5,
+		"SIZE": 40,
+		"ShowLv": "1+2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,32]]",
+		"ID": 6,
+		"SIZE": 40,
+		"ShowLv": "2+3+4"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[17,17]]",
+		"ID": 7,
+		"SIZE": 40,
+		"ShowLv": "3+4+5"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,146]]",
+		"ID": 8,
+		"SIZE": 40,
+		"ShowLv": "1+2"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,125]]",
+		"ID": 9,
+		"SIZE": 40,
+		"ShowLv": "1+2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,99]]",
+		"ID": 10,
+		"SIZE": 40,
+		"ShowLv": "2+3+4"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,70]]",
+		"ID": 11,
+		"SIZE": 40,
+		"ShowLv": "1+2"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,49]]",
+		"ID": 12,
+		"SIZE": 40,
+		"ShowLv": "1+2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,32]]",
+		"ID": 13,
+		"SIZE": 40,
+		"ShowLv": "2+3+4"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[56,17]]",
+		"ID": 14,
+		"SIZE": 40,
+		"ShowLv": "3+4+5"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,12]]",
+		"ID": 15,
+		"SIZE": 30,
+		"ShowLv": "归墟之境"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,158]]",
+		"ID": 16,
+		"SIZE": 30,
+		"ShowLv": "主城"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,149]]",
+		"ID": 17,
+		"SIZE": 40,
+		"ShowLv": "1"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,107]]",
+		"ID": 18,
+		"SIZE": 40,
+		"ShowLv": "2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,58]]",
+		"ID": 19,
+		"SIZE": 40,
+		"ShowLv": "2+3"
+	},
+	{
+		"Belong": 1,
+		"Coordinate": "[[35,24]]",
+		"ID": 20,
+		"SIZE": 40,
+		"ShowLv": "4+5"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[17,16]]",
+		"ID": 101,
+		"SIZE": 30,
+		"ShowLv": "4+5"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[20,52]]",
+		"ID": 102,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[40,40]]",
+		"ID": 103,
+		"SIZE": 30,
+		"ShowLv": "5+6+7"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[52,20]]",
+		"ID": 104,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[22,100]]",
+		"ID": 105,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[52,84]]",
+		"ID": 106,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[54,64]]",
+		"ID": 107,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[64,51]]",
+		"ID": 108,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[86,48]]",
+		"ID": 109,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[100,24]]",
+		"ID": 110,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[17,139]]",
+		"ID": 111,
+		"SIZE": 30,
+		"ShowLv": "4+5"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[45,111]]",
+		"ID": 112,
+		"SIZE": 30,
+		"ShowLv": "5+6+7"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[67,84]]",
+		"ID": 113,
+		"SIZE": 30,
+		"ShowLv": "7+9"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[66,65]]",
+		"ID": 114,
+		"SIZE": 30,
+		"ShowLv": "7+9"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[85,66]]",
+		"ID": 115,
+		"SIZE": 30,
+		"ShowLv": "7+9"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[85,84]]",
+		"ID": 116,
+		"SIZE": 30,
+		"ShowLv": "7+9"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[77,90]]",
+		"ID": 117,
+		"SIZE": 26,
+		"ShowLv": "8"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[63,76]]",
+		"ID": 118,
+		"SIZE": 26,
+		"ShowLv": "8"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[77,62]]",
+		"ID": 119,
+		"SIZE": 26,
+		"ShowLv": "8"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[91,76]]",
+		"ID": 120,
+		"SIZE": 26,
+		"ShowLv": "8"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[109,41]]",
+		"ID": 121,
+		"SIZE": 30,
+		"ShowLv": "5+6+7"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[139,17]]",
+		"ID": 122,
+		"SIZE": 30,
+		"ShowLv": "4+5"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[55,132]]",
+		"ID": 123,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[66,101]]",
+		"ID": 124,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[88,101]]",
+		"ID": 125,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[103,88]]",
+		"ID": 126,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[103,63]]",
+		"ID": 127,
+		"SIZE": 40,
+		"ShowLv": "5+6"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[130,54]]",
+		"ID": 128,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[102,133]]",
+		"ID": 129,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[112,112]]",
+		"ID": 130,
+		"SIZE": 30,
+		"ShowLv": "5+6+7"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[133,102]]",
+		"ID": 131,
+		"SIZE": 50,
+		"ShowLv": "3+4"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[139,139]]",
+		"ID": 132,
+		"SIZE": 30,
+		"ShowLv": "4+5"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[70,11]]",
+		"ID": 133,
+		"SIZE": 26,
+		"ShowLv": "风之域"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[11,69]]",
+		"ID": 134,
+		"SIZE": 26,
+		"ShowLv": "花之域"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[146,81]]",
+		"ID": 135,
+		"SIZE": 26,
+		"ShowLv": "月之域"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[81,146]]",
+		"ID": 136,
+		"SIZE": 26,
+		"ShowLv": "雪之域"
+	},
+	{
+		"Belong": 2,
+		"Coordinate": "[[76,75]]",
+		"ID": 137,
+		"SIZE": 26,
+		"ShowLv": "云顶天宫"
+	}
+]

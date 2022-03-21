@@ -1,0 +1,155 @@
+[
+	{
+		"NeedExp": 10
+	},
+	{
+		"AttrPercent": 800,
+		"JingLianLevel": 1,
+		"NeedExp": 20
+	},
+	{
+		"AttrPercent": 1000,
+		"JingLianLevel": 2,
+		"NeedExp": 50
+	},
+	{
+		"AttrPercent": 1200,
+		"JingLianLevel": 3,
+		"NeedExp": 100
+	},
+	{
+		"AttrPercent": 1400,
+		"JingLianLevel": 4,
+		"NeedExp": 150
+	},
+	{
+		"AttrPercent": 1600,
+		"JingLianLevel": 5,
+		"NeedExp": 200
+	},
+	{
+		"AttrPercent": 1800,
+		"JingLianLevel": 6,
+		"NeedExp": 250
+	},
+	{
+		"AttrPercent": 2000,
+		"JingLianLevel": 7,
+		"NeedExp": 300
+	},
+	{
+		"AttrPercent": 2200,
+		"JingLianLevel": 8,
+		"NeedExp": 400
+	},
+	{
+		"AttrPercent": 2400,
+		"JingLianLevel": 9,
+		"NeedExp": 520
+	},
+	{
+		"AttrPercent": 2600,
+		"JingLianLevel": 10,
+		"NeedExp": 680
+	},
+	{
+		"AttrPercent": 2800,
+		"JingLianLevel": 11,
+		"NeedExp": 880
+	},
+	{
+		"AttrPercent": 3000,
+		"JingLianLevel": 12,
+		"NeedExp": 1140
+	},
+	{
+		"AttrPercent": 3200,
+		"JingLianLevel": 13,
+		"NeedExp": 1480
+	},
+	{
+		"AttrPercent": 3400,
+		"JingLianLevel": 14,
+		"NeedExp": 1920
+	},
+	{
+		"AttrPercent": 3600,
+		"JingLianLevel": 15,
+		"NeedExp": 2500
+	},
+	{
+		"AttrPercent": 3800,
+		"JingLianLevel": 16,
+		"NeedExp": 3250
+	},
+	{
+		"AttrPercent": 4000,
+		"JingLianLevel": 17,
+		"NeedExp": 4230
+	},
+	{
+		"AttrPercent": 4200,
+		"JingLianLevel": 18,
+		"NeedExp": 5500
+	},
+	{
+		"AttrPercent": 4400,
+		"JingLianLevel": 19,
+		"NeedExp": 7150
+	},
+	{
+		"AttrPercent": 4600,
+		"JingLianLevel": 20,
+		"NeedExp": 9300
+	},
+	{
+		"AttrPercent": 4800,
+		"JingLianLevel": 21,
+		"NeedExp": 12090
+	},
+	{
+		"AttrPercent": 5000,
+		"JingLianLevel": 22,
+		"NeedExp": 15720
+	},
+	{
+		"AttrPercent": 5200,
+		"JingLianLevel": 23,
+		"NeedExp": 20440
+	},
+	{
+		"AttrPercent": 5400,
+		"JingLianLevel": 24,
+		"NeedExp": 26570
+	},
+	{
+		"AttrPercent": 5600,
+		"JingLianLevel": 25,
+		"NeedExp": 34540
+	},
+	{
+		"AttrPercent": 5800,
+		"JingLianLevel": 26,
+		"NeedExp": 44900
+	},
+	{
+		"AttrPercent": 6000,
+		"JingLianLevel": 27,
+		"NeedExp": 58370
+	},
+	{
+		"AttrPercent": 6200,
+		"JingLianLevel": 28,
+		"NeedExp": 75880
+	},
+	{
+		"AttrPercent": 6400,
+		"JingLianLevel": 29,
+		"NeedExp": 98640
+	},
+	{
+		"AttrPercent": 6600,
+		"JingLianLevel": 30,
+		"NeedExp": -1
+	}
+]

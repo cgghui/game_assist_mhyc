@@ -1,0 +1,202 @@
+[
+	{
+		"ItemId": 2050001,
+		"Level": 1,
+		"Type": 1
+	},
+	{
+		"ItemId": 2050011,
+		"Level": 1,
+		"Type": 2
+	},
+	{
+		"ItemId": 2050071,
+		"Level": 1,
+		"Type": 3
+	},
+	{
+		"ItemId": 2050021,
+		"Level": 1,
+		"Type": 4
+	},
+	{
+		"ItemId": 2050061,
+		"Level": 1,
+		"Type": 5
+	},
+	{
+		"ItemId": 2050051,
+		"Level": 1,
+		"Type": 6
+	},
+	{
+		"ItemId": 2050041,
+		"Level": 1,
+		"Type": 7
+	},
+	{
+		"ItemId": 2050031,
+		"Level": 1,
+		"Type": 8
+	},
+	{
+		"ItemId": 2050002,
+		"Level": 2,
+		"Type": 1
+	},
+	{
+		"ItemId": 2050012,
+		"Level": 2,
+		"Type": 2
+	},
+	{
+		"ItemId": 2050072,
+		"Level": 2,
+		"Type": 3
+	},
+	{
+		"ItemId": 2050022,
+		"Level": 2,
+		"Type": 4
+	},
+	{
+		"ItemId": 2050062,
+		"Level": 2,
+		"Type": 5
+	},
+	{
+		"ItemId": 2050052,
+		"Level": 2,
+		"Type": 6
+	},
+	{
+		"ItemId": 2050042,
+		"Level": 2,
+		"Type": 7
+	},
+	{
+		"ItemId": 2050032,
+		"Level": 2,
+		"Type": 8
+	},
+	{
+		"ItemId": 2050003,
+		"Level": 3,
+		"Type": 1
+	},
+	{
+		"ItemId": 2050013,
+		"Level": 3,
+		"Type": 2
+	},
+	{
+		"ItemId": 2050073,
+		"Level": 3,
+		"Type": 3
+	},
+	{
+		"ItemId": 2050023,
+		"Level": 3,
+		"Type": 4
+	},
+	{
+		"ItemId": 2050063,
+		"Level": 3,
+		"Type": 5
+	},
+	{
+		"ItemId": 2050053,
+		"Level": 3,
+		"Type": 6
+	},
+	{
+		"ItemId": 2050043,
+		"Level": 3,
+		"Type": 7
+	},
+	{
+		"ItemId": 2050033,
+		"Level": 3,
+		"Type": 8
+	},
+	{
+		"ItemId": 2050004,
+		"Level": 4,
+		"Type": 1
+	},
+	{
+		"ItemId": 2050014,
+		"Level": 4,
+		"Type": 2
+	},
+	{
+		"ItemId": 2050074,
+		"Level": 4,
+		"Type": 3
+	},
+	{
+		"ItemId": 2050024,
+		"Level": 4,
+		"Type": 4
+	},
+	{
+		"ItemId": 2050064,
+		"Level": 4,
+		"Type": 5
+	},
+	{
+		"ItemId": 2050054,
+		"Level": 4,
+		"Type": 6
+	},
+	{
+		"ItemId": 2050044,
+		"Level": 4,
+		"Type": 7
+	},
+	{
+		"ItemId": 2050034,
+		"Level": 4,
+		"Type": 8
+	},
+	{
+		"ItemId": 2050005,
+		"Level": 5,
+		"Type": 1
+	},
+	{
+		"ItemId": 2050015,
+		"Level": 5,
+		"Type": 2
+	},
+	{
+		"ItemId": 2050075,
+		"Level": 5,
+		"Type": 3
+	},
+	{
+		"ItemId": 2050025,
+		"Level": 5,
+		"Type": 4
+	},
+	{
+		"ItemId": 2050065,
+		"Level": 5,
+		"Type": 5
+	},
+	{
+		"ItemId": 2050055,
+		"Level": 5,
+		"Type": 6
+	},
+	{
+		"ItemId": 2050045,
+		"Level": 5,
+		"Type": 7
+	},
+	{
+		"ItemId": 2050035,
+		"Level": 5,
+		"Type": 8
+	}
+]

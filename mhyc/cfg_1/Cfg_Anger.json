@@ -1,0 +1,47 @@
+[
+	{
+		"Amount": 1,
+		"Exp": 100,
+		"Level": 1
+	},
+	{
+		"Amount": 2,
+		"Exp": 200,
+		"Level": 2
+	},
+	{
+		"Amount": 3,
+		"Exp": 300,
+		"Level": 3
+	},
+	{
+		"Amount": 4,
+		"Exp": 400,
+		"Level": 4
+	},
+	{
+		"Amount": 5,
+		"Exp": 500,
+		"Level": 5
+	},
+	{
+		"Amount": 6,
+		"Exp": 600,
+		"Level": 6
+	},
+	{
+		"Amount": 7,
+		"Exp": 700,
+		"Level": 7
+	},
+	{
+		"Amount": 8,
+		"Exp": 800,
+		"Level": 8
+	},
+	{
+		"Amount": 9,
+		"Exp": 900,
+		"Level": 9
+	}
+]

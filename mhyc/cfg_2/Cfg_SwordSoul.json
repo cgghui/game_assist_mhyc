@@ -1,0 +1,1051 @@
+[
+	{
+		"AttrType": "101",
+		"CoreType": 1,
+		"FeatureId": 1326,
+		"Id": 2010701,
+		"LevelUpField": "Quality_9",
+		"Name": "致命一击",
+		"TuluAttrId": 3200518,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "102",
+		"CoreType": 2,
+		"FeatureId": 1327,
+		"Id": 2010702,
+		"LevelUpField": "Quality_9",
+		"Name": "无懈可击",
+		"TuluAttrId": 3200519,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "101",
+		"CoreType": 1,
+		"FeatureId": 1426,
+		"Id": 2010801,
+		"LevelUpField": "Quality_10",
+		"Name": "致命一击",
+		"TuluAttrId": 3200618,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "102",
+		"CoreType": 2,
+		"FeatureId": 1427,
+		"Id": 2010802,
+		"LevelUpField": "Quality_10",
+		"Name": "无懈可击",
+		"TuluAttrId": 3200619,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "1",
+		"CoreType": 3,
+		"FeatureId": 1001,
+		"Id": 2010201,
+		"LevelUpField": "Quality_1",
+		"Name": "攻击"
+	},
+	{
+		"AttrType": "2",
+		"CoreType": 3,
+		"FeatureId": 1002,
+		"Id": 2010202,
+		"LevelUpField": "Quality_1",
+		"Name": "生命"
+	},
+	{
+		"AttrType": "3",
+		"CoreType": 3,
+		"FeatureId": 1003,
+		"Id": 2010203,
+		"LevelUpField": "Quality_1",
+		"Name": "命中"
+	},
+	{
+		"AttrType": "4",
+		"CoreType": 3,
+		"FeatureId": 1004,
+		"Id": 2010204,
+		"LevelUpField": "Quality_1",
+		"Name": "抗暴"
+	},
+	{
+		"AttrType": "5",
+		"CoreType": 3,
+		"FeatureId": 1005,
+		"Id": 2010205,
+		"LevelUpField": "Quality_1",
+		"Name": "闪避"
+	},
+	{
+		"AttrType": "6",
+		"CoreType": 3,
+		"FeatureId": 1006,
+		"Id": 2010206,
+		"LevelUpField": "Quality_1",
+		"Name": "暴击"
+	},
+	{
+		"AttrType": "7",
+		"CoreType": 3,
+		"FeatureId": 1007,
+		"Id": 2010207,
+		"LevelUpField": "Quality_1",
+		"Name": "防御"
+	},
+	{
+		"AttrType": "8",
+		"CoreType": 3,
+		"FeatureId": 1008,
+		"Id": 2010208,
+		"LevelUpField": "Quality_1",
+		"Name": "经验"
+	},
+	{
+		"AttrType": "9",
+		"CoreType": 3,
+		"FeatureId": 1009,
+		"Id": 2010209,
+		"LevelUpField": "Quality_1",
+		"Name": "金币"
+	},
+	{
+		"AttrType": "10",
+		"CoreType": 3,
+		"FeatureId": 1010,
+		"Id": 2010210,
+		"LevelUpField": "Quality_1",
+		"Name": "伤加"
+	},
+	{
+		"AttrType": "11",
+		"CoreType": 3,
+		"FeatureId": 1011,
+		"Id": 2010211,
+		"LevelUpField": "Quality_1",
+		"Name": "伤减"
+	},
+	{
+		"AttrType": "12",
+		"CoreType": 3,
+		"FeatureId": 1012,
+		"Id": 2010212,
+		"LevelUpField": "Quality_1",
+		"Name": "生机"
+	},
+	{
+		"AttrType": "13",
+		"CoreType": 3,
+		"FeatureId": 1013,
+		"Id": 2010213,
+		"LevelUpField": "Quality_1",
+		"Name": "利刃"
+	},
+	{
+		"AttrType": "14",
+		"CoreType": 3,
+		"FeatureId": 1014,
+		"Id": 2010214,
+		"LevelUpField": "Quality_1",
+		"Name": "磐石"
+	},
+	{
+		"AttrAdd": "1:2000",
+		"AttrType": "15",
+		"CoreType": 3,
+		"Id": 2010215,
+		"LevelUpField": "Quality_1",
+		"Name": "强壮"
+	},
+	{
+		"AttrAdd": "2:2000",
+		"AttrType": "16",
+		"CoreType": 3,
+		"Id": 2010216,
+		"LevelUpField": "Quality_1",
+		"Name": "横扫"
+	},
+	{
+		"AttrAdd": "3:2000",
+		"AttrType": "17",
+		"CoreType": 3,
+		"Id": 2010217,
+		"LevelUpField": "Quality_1",
+		"Name": "壁垒"
+	},
+	{
+		"AttrType": "1",
+		"CoreType": 3,
+		"FeatureId": 1101,
+		"Id": 2010301,
+		"LevelUpField": "Quality_3",
+		"Name": "攻击"
+	},
+	{
+		"AttrType": "2",
+		"CoreType": 3,
+		"FeatureId": 1102,
+		"Id": 2010302,
+		"LevelUpField": "Quality_3",
+		"Name": "生命"
+	},
+	{
+		"AttrType": "3",
+		"CoreType": 3,
+		"FeatureId": 1103,
+		"Id": 2010303,
+		"LevelUpField": "Quality_3",
+		"Name": "命中"
+	},
+	{
+		"AttrType": "4",
+		"CoreType": 3,
+		"FeatureId": 1104,
+		"Id": 2010304,
+		"LevelUpField": "Quality_3",
+		"Name": "抗暴"
+	},
+	{
+		"AttrType": "5",
+		"CoreType": 3,
+		"FeatureId": 1105,
+		"Id": 2010305,
+		"LevelUpField": "Quality_3",
+		"Name": "闪避"
+	},
+	{
+		"AttrType": "6",
+		"CoreType": 3,
+		"FeatureId": 1106,
+		"Id": 2010306,
+		"LevelUpField": "Quality_3",
+		"Name": "暴击"
+	},
+	{
+		"AttrType": "7",
+		"CoreType": 3,
+		"FeatureId": 1107,
+		"Id": 2010307,
+		"LevelUpField": "Quality_3",
+		"Name": "防御"
+	},
+	{
+		"AttrType": "8",
+		"CoreType": 3,
+		"FeatureId": 1108,
+		"Id": 2010308,
+		"LevelUpField": "Quality_3",
+		"Name": "经验"
+	},
+	{
+		"AttrType": "9",
+		"CoreType": 3,
+		"FeatureId": 1109,
+		"Id": 2010309,
+		"LevelUpField": "Quality_3",
+		"Name": "金币"
+	},
+	{
+		"AttrType": "10",
+		"CoreType": 3,
+		"FeatureId": 1110,
+		"Id": 2010310,
+		"LevelUpField": "Quality_3",
+		"Name": "伤加"
+	},
+	{
+		"AttrType": "11",
+		"CoreType": 3,
+		"FeatureId": 1111,
+		"Id": 2010311,
+		"LevelUpField": "Quality_3",
+		"Name": "伤减"
+	},
+	{
+		"AttrType": "12",
+		"CoreType": 3,
+		"FeatureId": 1112,
+		"Id": 2010312,
+		"LevelUpField": "Quality_3",
+		"Name": "生机"
+	},
+	{
+		"AttrType": "13",
+		"CoreType": 3,
+		"FeatureId": 1113,
+		"Id": 2010313,
+		"LevelUpField": "Quality_3",
+		"Name": "利刃"
+	},
+	{
+		"AttrType": "14",
+		"CoreType": 3,
+		"FeatureId": 1114,
+		"Id": 2010314,
+		"LevelUpField": "Quality_3",
+		"Name": "磐石"
+	},
+	{
+		"AttrAdd": "1:4000",
+		"AttrType": "15",
+		"CoreType": 3,
+		"Id": 2010315,
+		"LevelUpField": "Quality_3",
+		"Name": "强壮"
+	},
+	{
+		"AttrAdd": "2:4000",
+		"AttrType": "16",
+		"CoreType": 3,
+		"Id": 2010316,
+		"LevelUpField": "Quality_3",
+		"Name": "横扫"
+	},
+	{
+		"AttrAdd": "3:4000",
+		"AttrType": "17",
+		"CoreType": 3,
+		"Id": 2010317,
+		"LevelUpField": "Quality_3",
+		"Name": "壁垒"
+	},
+	{
+		"AttrType": "18",
+		"CoreType": 3,
+		"FeatureId": 1118,
+		"Id": 2010318,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·抵抗"
+	},
+	{
+		"AttrType": "19",
+		"CoreType": 3,
+		"FeatureId": 1119,
+		"Id": 2010319,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·精密"
+	},
+	{
+		"AttrType": "20|12",
+		"CoreType": 3,
+		"FeatureId": 1120,
+		"Id": 2010320,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·蓬勃"
+	},
+	{
+		"AttrType": "21",
+		"CoreType": 3,
+		"FeatureId": 1121,
+		"Id": 2010321,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·无双"
+	},
+	{
+		"AttrType": "22",
+		"CoreType": 3,
+		"FeatureId": 1122,
+		"Id": 2010322,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·庇佑"
+	},
+	{
+		"AttrType": "23|9",
+		"CoreType": 3,
+		"FeatureId": 1123,
+		"Id": 2010323,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·丰收"
+	},
+	{
+		"AttrAdd": "2:6000",
+		"AttrType": "24|16",
+		"CoreType": 3,
+		"FeatureId": 1124,
+		"Id": 2010324,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·残暴"
+	},
+	{
+		"AttrAdd": "1:6000|3:6000",
+		"AttrType": "15|17",
+		"CoreType": 3,
+		"Id": 2010325,
+		"LevelUpField": "Quality_4",
+		"Name": "圣·长生"
+	},
+	{
+		"AttrType": "1",
+		"CoreType": 3,
+		"FeatureId": 1201,
+		"Id": 2010401,
+		"LevelUpField": "Quality_5",
+		"Name": "攻击"
+	},
+	{
+		"AttrType": "2",
+		"CoreType": 3,
+		"FeatureId": 1202,
+		"Id": 2010402,
+		"LevelUpField": "Quality_5",
+		"Name": "生命"
+	},
+	{
+		"AttrType": "3",
+		"CoreType": 3,
+		"FeatureId": 1203,
+		"Id": 2010403,
+		"LevelUpField": "Quality_5",
+		"Name": "命中"
+	},
+	{
+		"AttrType": "4",
+		"CoreType": 3,
+		"FeatureId": 1204,
+		"Id": 2010404,
+		"LevelUpField": "Quality_5",
+		"Name": "抗暴"
+	},
+	{
+		"AttrType": "5",
+		"CoreType": 3,
+		"FeatureId": 1205,
+		"Id": 2010405,
+		"LevelUpField": "Quality_5",
+		"Name": "闪避"
+	},
+	{
+		"AttrType": "6",
+		"CoreType": 3,
+		"FeatureId": 1206,
+		"Id": 2010406,
+		"LevelUpField": "Quality_5",
+		"Name": "暴击"
+	},
+	{
+		"AttrType": "7",
+		"CoreType": 3,
+		"FeatureId": 1207,
+		"Id": 2010407,
+		"LevelUpField": "Quality_5",
+		"Name": "防御"
+	},
+	{
+		"AttrType": "8",
+		"CoreType": 3,
+		"FeatureId": 1208,
+		"Id": 2010408,
+		"LevelUpField": "Quality_5",
+		"Name": "经验"
+	},
+	{
+		"AttrType": "9",
+		"CoreType": 3,
+		"FeatureId": 1209,
+		"Id": 2010409,
+		"LevelUpField": "Quality_5",
+		"Name": "金币"
+	},
+	{
+		"AttrType": "10",
+		"CoreType": 3,
+		"FeatureId": 1210,
+		"Id": 2010410,
+		"LevelUpField": "Quality_5",
+		"Name": "伤加"
+	},
+	{
+		"AttrType": "11",
+		"CoreType": 3,
+		"FeatureId": 1211,
+		"Id": 2010411,
+		"LevelUpField": "Quality_5",
+		"Name": "伤减"
+	},
+	{
+		"AttrType": "12",
+		"CoreType": 3,
+		"FeatureId": 1212,
+		"Id": 2010412,
+		"LevelUpField": "Quality_5",
+		"Name": "生机"
+	},
+	{
+		"AttrType": "13",
+		"CoreType": 3,
+		"FeatureId": 1213,
+		"Id": 2010413,
+		"LevelUpField": "Quality_5",
+		"Name": "利刃"
+	},
+	{
+		"AttrType": "14",
+		"CoreType": 3,
+		"FeatureId": 1214,
+		"Id": 2010414,
+		"LevelUpField": "Quality_5",
+		"Name": "磐石"
+	},
+	{
+		"AttrAdd": "1:8000",
+		"AttrType": "15",
+		"CoreType": 3,
+		"Id": 2010415,
+		"LevelUpField": "Quality_5",
+		"Name": "强壮"
+	},
+	{
+		"AttrAdd": "2:8000",
+		"AttrType": "16",
+		"CoreType": 3,
+		"Id": 2010416,
+		"LevelUpField": "Quality_5",
+		"Name": "横扫"
+	},
+	{
+		"AttrAdd": "3:8000",
+		"AttrType": "17",
+		"CoreType": 3,
+		"Id": 2010417,
+		"LevelUpField": "Quality_5",
+		"Name": "壁垒"
+	},
+	{
+		"AttrType": "18",
+		"CoreType": 3,
+		"FeatureId": 1218,
+		"Id": 2010418,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·抵抗"
+	},
+	{
+		"AttrType": "19",
+		"CoreType": 3,
+		"FeatureId": 1219,
+		"Id": 2010419,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·精密"
+	},
+	{
+		"AttrType": "20|12",
+		"CoreType": 3,
+		"FeatureId": 1220,
+		"Id": 2010420,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·蓬勃"
+	},
+	{
+		"AttrType": "21",
+		"CoreType": 3,
+		"FeatureId": 1221,
+		"Id": 2010421,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·无双"
+	},
+	{
+		"AttrType": "22",
+		"CoreType": 3,
+		"FeatureId": 1222,
+		"Id": 2010422,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·庇佑"
+	},
+	{
+		"AttrType": "23|9",
+		"CoreType": 3,
+		"FeatureId": 1223,
+		"Id": 2010423,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·丰收"
+	},
+	{
+		"AttrAdd": "2:12000",
+		"AttrType": "24|16",
+		"CoreType": 3,
+		"FeatureId": 1224,
+		"Id": 2010424,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·残暴"
+	},
+	{
+		"AttrAdd": "1:12000|3:12000",
+		"AttrType": "15|17",
+		"CoreType": 3,
+		"Id": 2010425,
+		"LevelUpField": "Quality_6",
+		"Name": "圣·长生"
+	},
+	{
+		"AttrType": "1",
+		"CoreType": 3,
+		"FeatureId": 1301,
+		"Id": 2010501,
+		"LevelUpField": "Quality_7",
+		"Name": "攻击",
+		"TuluAttrId": 3200501,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "2",
+		"CoreType": 3,
+		"FeatureId": 1302,
+		"Id": 2010502,
+		"LevelUpField": "Quality_7",
+		"Name": "生命",
+		"TuluAttrId": 3200502,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "3",
+		"CoreType": 3,
+		"FeatureId": 1303,
+		"Id": 2010503,
+		"LevelUpField": "Quality_7",
+		"Name": "命中",
+		"TuluAttrId": 3200503,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "4",
+		"CoreType": 3,
+		"FeatureId": 1304,
+		"Id": 2010504,
+		"LevelUpField": "Quality_7",
+		"Name": "抗暴",
+		"TuluAttrId": 3200504,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "5",
+		"CoreType": 3,
+		"FeatureId": 1305,
+		"Id": 2010505,
+		"LevelUpField": "Quality_7",
+		"Name": "闪避",
+		"TuluAttrId": 3200505,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "6",
+		"CoreType": 3,
+		"FeatureId": 1306,
+		"Id": 2010506,
+		"LevelUpField": "Quality_7",
+		"Name": "暴击",
+		"TuluAttrId": 3200506,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "7",
+		"CoreType": 3,
+		"FeatureId": 1307,
+		"Id": 2010507,
+		"LevelUpField": "Quality_7",
+		"Name": "防御",
+		"TuluAttrId": 3200507,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "8",
+		"CoreType": 3,
+		"FeatureId": 1308,
+		"Id": 2010508,
+		"LevelUpField": "Quality_7",
+		"Name": "经验",
+		"TuluAttrId": 3200508,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "9",
+		"CoreType": 3,
+		"FeatureId": 1309,
+		"Id": 2010509,
+		"LevelUpField": "Quality_7",
+		"Name": "金币",
+		"TuluAttrId": 3200509,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "10",
+		"CoreType": 3,
+		"FeatureId": 1310,
+		"Id": 2010510,
+		"LevelUpField": "Quality_7",
+		"Name": "伤加",
+		"TuluAttrId": 3200510,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "11",
+		"CoreType": 3,
+		"FeatureId": 1311,
+		"Id": 2010511,
+		"LevelUpField": "Quality_7",
+		"Name": "伤减",
+		"TuluAttrId": 3200511,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "12",
+		"CoreType": 3,
+		"FeatureId": 1312,
+		"Id": 2010512,
+		"LevelUpField": "Quality_7",
+		"Name": "生机",
+		"TuluAttrId": 3200512,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "13",
+		"CoreType": 3,
+		"FeatureId": 1313,
+		"Id": 2010513,
+		"LevelUpField": "Quality_7",
+		"Name": "利刃",
+		"TuluAttrId": 3200513,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "14",
+		"CoreType": 3,
+		"FeatureId": 1314,
+		"Id": 2010514,
+		"LevelUpField": "Quality_7",
+		"Name": "磐石",
+		"TuluAttrId": 3200514,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "1:16000",
+		"AttrType": "15",
+		"CoreType": 3,
+		"Id": 2010515,
+		"LevelUpField": "Quality_7",
+		"Name": "强壮",
+		"TuluAttrId": 3200515,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "2:16000",
+		"AttrType": "16",
+		"CoreType": 3,
+		"Id": 2010516,
+		"LevelUpField": "Quality_7",
+		"Name": "横扫",
+		"TuluAttrId": 3200516,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "3:16000",
+		"AttrType": "17",
+		"CoreType": 3,
+		"Id": 2010517,
+		"LevelUpField": "Quality_7",
+		"Name": "壁垒",
+		"TuluAttrId": 3200517,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "18",
+		"CoreType": 3,
+		"FeatureId": 1318,
+		"Id": 2010518,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·抵抗"
+	},
+	{
+		"AttrType": "19",
+		"CoreType": 3,
+		"FeatureId": 1319,
+		"Id": 2010519,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·精密"
+	},
+	{
+		"AttrType": "20|12",
+		"CoreType": 3,
+		"FeatureId": 1320,
+		"Id": 2010520,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·蓬勃"
+	},
+	{
+		"AttrType": "21",
+		"CoreType": 3,
+		"FeatureId": 1321,
+		"Id": 2010521,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·无双"
+	},
+	{
+		"AttrType": "22",
+		"CoreType": 3,
+		"FeatureId": 1322,
+		"Id": 2010522,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·庇佑"
+	},
+	{
+		"AttrType": "23|9",
+		"CoreType": 3,
+		"FeatureId": 1323,
+		"Id": 2010523,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·丰收"
+	},
+	{
+		"AttrAdd": "2:24000",
+		"AttrType": "24|16",
+		"CoreType": 3,
+		"FeatureId": 1324,
+		"Id": 2010524,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·残暴"
+	},
+	{
+		"AttrAdd": "1:24000|3:24000",
+		"AttrType": "15|17",
+		"CoreType": 3,
+		"Id": 2010525,
+		"LevelUpField": "Quality_8",
+		"Name": "圣·长生"
+	},
+	{
+		"AttrType": "1",
+		"CoreType": 3,
+		"FeatureId": 1401,
+		"Id": 2010601,
+		"LevelUpField": "Quality_11",
+		"Name": "攻击",
+		"TuluAttrId": 3200601,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "2",
+		"CoreType": 3,
+		"FeatureId": 1402,
+		"Id": 2010602,
+		"LevelUpField": "Quality_11",
+		"Name": "生命",
+		"TuluAttrId": 3200602,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "3",
+		"CoreType": 3,
+		"FeatureId": 1403,
+		"Id": 2010603,
+		"LevelUpField": "Quality_11",
+		"Name": "命中",
+		"TuluAttrId": 3200603,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "4",
+		"CoreType": 3,
+		"FeatureId": 1404,
+		"Id": 2010604,
+		"LevelUpField": "Quality_11",
+		"Name": "抗暴",
+		"TuluAttrId": 3200604,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "5",
+		"CoreType": 3,
+		"FeatureId": 1405,
+		"Id": 2010605,
+		"LevelUpField": "Quality_11",
+		"Name": "闪避",
+		"TuluAttrId": 3200605,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "6",
+		"CoreType": 3,
+		"FeatureId": 1406,
+		"Id": 2010606,
+		"LevelUpField": "Quality_11",
+		"Name": "暴击",
+		"TuluAttrId": 3200606,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "7",
+		"CoreType": 3,
+		"FeatureId": 1407,
+		"Id": 2010607,
+		"LevelUpField": "Quality_11",
+		"Name": "防御",
+		"TuluAttrId": 3200607,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "8",
+		"CoreType": 3,
+		"FeatureId": 1408,
+		"Id": 2010608,
+		"LevelUpField": "Quality_11",
+		"Name": "经验",
+		"TuluAttrId": 3200608,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "9",
+		"CoreType": 3,
+		"FeatureId": 1409,
+		"Id": 2010609,
+		"LevelUpField": "Quality_11",
+		"Name": "金币",
+		"TuluAttrId": 3200609,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "10",
+		"CoreType": 3,
+		"FeatureId": 1410,
+		"Id": 2010610,
+		"LevelUpField": "Quality_11",
+		"Name": "伤加",
+		"TuluAttrId": 3200610,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "11",
+		"CoreType": 3,
+		"FeatureId": 1411,
+		"Id": 2010611,
+		"LevelUpField": "Quality_11",
+		"Name": "伤减",
+		"TuluAttrId": 3200611,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "12",
+		"CoreType": 3,
+		"FeatureId": 1412,
+		"Id": 2010612,
+		"LevelUpField": "Quality_11",
+		"Name": "生机",
+		"TuluAttrId": 3200612,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "13",
+		"CoreType": 3,
+		"FeatureId": 1413,
+		"Id": 2010613,
+		"LevelUpField": "Quality_11",
+		"Name": "利刃",
+		"TuluAttrId": 3200613,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "14",
+		"CoreType": 3,
+		"FeatureId": 1414,
+		"Id": 2010614,
+		"LevelUpField": "Quality_11",
+		"Name": "磐石",
+		"TuluAttrId": 3200614,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "1:20000",
+		"AttrType": "15",
+		"CoreType": 3,
+		"Id": 2010615,
+		"LevelUpField": "Quality_11",
+		"Name": "强壮",
+		"TuluAttrId": 3200615,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "2:20000",
+		"AttrType": "16",
+		"CoreType": 3,
+		"Id": 2010616,
+		"LevelUpField": "Quality_11",
+		"Name": "横扫",
+		"TuluAttrId": 3200616,
+		"TuluType": 1
+	},
+	{
+		"AttrAdd": "3:20000",
+		"AttrType": "17",
+		"CoreType": 3,
+		"Id": 2010617,
+		"LevelUpField": "Quality_11",
+		"Name": "壁垒",
+		"TuluAttrId": 3200617,
+		"TuluType": 1
+	},
+	{
+		"AttrType": "18",
+		"CoreType": 3,
+		"FeatureId": 1418,
+		"Id": 2010618,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·抵抗"
+	},
+	{
+		"AttrType": "19",
+		"CoreType": 3,
+		"FeatureId": 1419,
+		"Id": 2010619,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·精密"
+	},
+	{
+		"AttrType": "20|12",
+		"CoreType": 3,
+		"FeatureId": 1420,
+		"Id": 2010620,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·蓬勃"
+	},
+	{
+		"AttrType": "21",
+		"CoreType": 3,
+		"FeatureId": 1421,
+		"Id": 2010621,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·无双"
+	},
+	{
+		"AttrType": "22",
+		"CoreType": 3,
+		"FeatureId": 1422,
+		"Id": 2010622,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·庇佑"
+	},
+	{
+		"AttrType": "23|9",
+		"CoreType": 3,
+		"FeatureId": 1423,
+		"Id": 2010623,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·丰收"
+	},
+	{
+		"AttrAdd": "2:30000",
+		"AttrType": "24|16",
+		"CoreType": 3,
+		"FeatureId": 1424,
+		"Id": 2010624,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·残暴"
+	},
+	{
+		"AttrAdd": "1:30000|3:30000",
+		"AttrType": "15|17",
+		"CoreType": 3,
+		"FeatureId": 1425,
+		"Id": 2010625,
+		"LevelUpField": "Quality_12",
+		"Name": "圣·长生"
+	}
+]

@@ -1,0 +1,3926 @@
+[
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 1
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 1
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 1
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 1
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 1
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 1
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 1
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 1
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 1
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 1
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 1
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 1
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 1
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 1
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 1
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 1
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 1
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 1
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 1
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 1
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 1
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 1
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 1
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 1
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 1
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 1
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 1
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 1
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 2
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 2
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 2
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 2
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 2
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 2
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 2
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 2
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 2
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 2
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 2
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 2
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 2
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 2
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 2
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 2
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 2
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 2
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 2
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 2
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 2
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 2
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 2
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 2
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 2
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 2
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 2
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 2
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 3
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 3
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 3
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 3
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 3
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 3
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 3
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 3
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 3
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 3
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 3
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 3
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 3
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 3
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 3
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 3
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 3
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 3
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 3
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 3
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 3
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 3
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 3
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 3
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 3
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 3
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 3
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 3
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 4
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 4
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 4
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 4
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 4
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 4
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 4
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 4
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 4
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 4
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 4
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 4
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 4
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 4
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 4
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 4
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 4
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 4
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 4
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 4
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 4
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 4
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 4
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 4
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 4
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 4
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 4
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 4
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 5
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 5
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 5
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 5
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 5
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 5
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 5
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 5
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 5
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 5
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 5
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 5
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 5
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 5
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 5
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 5
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 5
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 5
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 5
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 5
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 5
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 5
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 5
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 5
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 5
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 5
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 5
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 5
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 6
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 6
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 6
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 6
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 6
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 6
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 6
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 6
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 6
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 6
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 6
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 6
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 6
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 6
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 6
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 6
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 6
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 6
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 6
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 6
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 6
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 6
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 6
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 6
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 6
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 6
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 6
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 6
+	},
+	{
+		"Attr": 10000,
+		"Class": 1,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 20000,
+		"Class": 1,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 30000,
+		"Class": 1,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 7
+	},
+	{
+		"Attr": 40000,
+		"Class": 1,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 7
+	},
+	{
+		"Attr": 50000,
+		"Class": 1,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 7
+	},
+	{
+		"Attr": 60000,
+		"Class": 1,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 7
+	},
+	{
+		"Attr": 70000,
+		"Class": 1,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 7
+	},
+	{
+		"Attr": 80000,
+		"Class": 1,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 7
+	},
+	{
+		"Attr": 90000,
+		"Class": 1,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 7
+	},
+	{
+		"Attr": 100000,
+		"Class": 1,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 7
+	},
+	{
+		"Attr": 110000,
+		"Class": 1,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 7
+	},
+	{
+		"Attr": 120000,
+		"Class": 1,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 7
+	},
+	{
+		"Attr": 130000,
+		"Class": 1,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 7
+	},
+	{
+		"Attr": 140000,
+		"Class": 1,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 7
+	},
+	{
+		"Attr": 150000,
+		"Class": 1,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 7
+	},
+	{
+		"Attr": 160000,
+		"Class": 1,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 7
+	},
+	{
+		"Attr": 170000,
+		"Class": 1,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 7
+	},
+	{
+		"Attr": 180000,
+		"Class": 1,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 7
+	},
+	{
+		"Attr": 190000,
+		"Class": 1,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 7
+	},
+	{
+		"Attr": 200000,
+		"Class": 1,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 7
+	},
+	{
+		"Attr": 210000,
+		"Class": 1,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 7
+	},
+	{
+		"Attr": 220000,
+		"Class": 1,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 7
+	},
+	{
+		"Attr": 230000,
+		"Class": 1,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 7
+	},
+	{
+		"Attr": 240000,
+		"Class": 1,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 7
+	},
+	{
+		"Attr": 250000,
+		"Class": 1,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 7
+	},
+	{
+		"Attr": 260000,
+		"Class": 1,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 7
+	},
+	{
+		"Attr": 270000,
+		"Class": 1,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 7
+	},
+	{
+		"Attr": 280000,
+		"Class": 1,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 7
+	},
+	{
+		"Attr": 290000,
+		"Class": 1,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 7
+	},
+	{
+		"Attr": 300000,
+		"Class": 1,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 7
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 1
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 1
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 1
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 1
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 1
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 1
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 1
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 1
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 1
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 1
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 1
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 1
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 1
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 1
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 1
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 1
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 1
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 1
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 1
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 1
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 1
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 1
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 1
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 1
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 1
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 1
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 1
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 1
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 2
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 2
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 2
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 2
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 2
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 2
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 2
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 2
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 2
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 2
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 2
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 2
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 2
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 2
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 2
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 2
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 2
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 2
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 2
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 2
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 2
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 2
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 2
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 2
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 2
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 2
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 2
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 2
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 3
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 3
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 3
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 3
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 3
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 3
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 3
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 3
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 3
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 3
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 3
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 3
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 3
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 3
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 3
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 3
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 3
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 3
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 3
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 3
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 3
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 3
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 3
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 3
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 3
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 3
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 3
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 3
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 4
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 4
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 4
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 4
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 4
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 4
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 4
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 4
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 4
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 4
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 4
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 4
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 4
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 4
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 4
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 4
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 4
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 4
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 4
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 4
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 4
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 4
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 4
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 4
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 4
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 4
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 4
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 4
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 5
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 5
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 5
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 5
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 5
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 5
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 5
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 5
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 5
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 5
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 5
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 5
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 5
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 5
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 5
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 5
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 5
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 5
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 5
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 5
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 5
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 5
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 5
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 5
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 5
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 5
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 5
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 5
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 6
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 6
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 6
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 6
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 6
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 6
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 6
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 6
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 6
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 6
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 6
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 6
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 6
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 6
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 6
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 6
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 6
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 6
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 6
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 6
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 6
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 6
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 6
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 6
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 6
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 6
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 6
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 6
+	},
+	{
+		"Attr": 10000,
+		"Class": 2,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 20000,
+		"Class": 2,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 30000,
+		"Class": 2,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 7
+	},
+	{
+		"Attr": 40000,
+		"Class": 2,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 7
+	},
+	{
+		"Attr": 50000,
+		"Class": 2,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 7
+	},
+	{
+		"Attr": 60000,
+		"Class": 2,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 7
+	},
+	{
+		"Attr": 70000,
+		"Class": 2,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 7
+	},
+	{
+		"Attr": 80000,
+		"Class": 2,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 7
+	},
+	{
+		"Attr": 90000,
+		"Class": 2,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 7
+	},
+	{
+		"Attr": 100000,
+		"Class": 2,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 7
+	},
+	{
+		"Attr": 110000,
+		"Class": 2,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 7
+	},
+	{
+		"Attr": 120000,
+		"Class": 2,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 7
+	},
+	{
+		"Attr": 130000,
+		"Class": 2,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 7
+	},
+	{
+		"Attr": 140000,
+		"Class": 2,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 7
+	},
+	{
+		"Attr": 150000,
+		"Class": 2,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 7
+	},
+	{
+		"Attr": 160000,
+		"Class": 2,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 7
+	},
+	{
+		"Attr": 170000,
+		"Class": 2,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 7
+	},
+	{
+		"Attr": 180000,
+		"Class": 2,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 7
+	},
+	{
+		"Attr": 190000,
+		"Class": 2,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 7
+	},
+	{
+		"Attr": 200000,
+		"Class": 2,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 7
+	},
+	{
+		"Attr": 210000,
+		"Class": 2,
+		"Level": 21,
+		"NeedNum": 21,
+		"Quality": 7
+	},
+	{
+		"Attr": 220000,
+		"Class": 2,
+		"Level": 22,
+		"NeedNum": 22,
+		"Quality": 7
+	},
+	{
+		"Attr": 230000,
+		"Class": 2,
+		"Level": 23,
+		"NeedNum": 23,
+		"Quality": 7
+	},
+	{
+		"Attr": 240000,
+		"Class": 2,
+		"Level": 24,
+		"NeedNum": 24,
+		"Quality": 7
+	},
+	{
+		"Attr": 250000,
+		"Class": 2,
+		"Level": 25,
+		"NeedNum": 25,
+		"Quality": 7
+	},
+	{
+		"Attr": 260000,
+		"Class": 2,
+		"Level": 26,
+		"NeedNum": 26,
+		"Quality": 7
+	},
+	{
+		"Attr": 270000,
+		"Class": 2,
+		"Level": 27,
+		"NeedNum": 27,
+		"Quality": 7
+	},
+	{
+		"Attr": 280000,
+		"Class": 2,
+		"Level": 28,
+		"NeedNum": 28,
+		"Quality": 7
+	},
+	{
+		"Attr": 290000,
+		"Class": 2,
+		"Level": 29,
+		"NeedNum": 29,
+		"Quality": 7
+	},
+	{
+		"Attr": 300000,
+		"Class": 2,
+		"Level": 30,
+		"NeedNum": 30,
+		"Quality": 7
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 1
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 1
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 1
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 1
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"NeedStrengthLev": 20,
+		"Quality": 1
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 1
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 1
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 1
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 1
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"NeedStrengthLev": 40,
+		"Quality": 1
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 1
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 1
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 1
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 1
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"NeedStrengthLev": 60,
+		"Quality": 1
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 1
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 1
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 1
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 1
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"NeedStrengthLev": 80,
+		"Quality": 1
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 2
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 2
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 2
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 2
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 2
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 2
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 2
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 2
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 2
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 2
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 2
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 2
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 2
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 2
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 2
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 2
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 2
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 2
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 2
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 2
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 3
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 3
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 3
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 3
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 3
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 3
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 3
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 3
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 3
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 3
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 3
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 3
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 3
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 3
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 3
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 3
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 3
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 3
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 3
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 3
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 4
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 4
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 4
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 4
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 4
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 4
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 4
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 4
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 4
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 4
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 4
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 4
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 4
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 4
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 4
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 4
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 4
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 4
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 4
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 4
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 5
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 5
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 5
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 5
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 5
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 5
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 5
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 5
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 5
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 5
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 5
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 5
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 5
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 5
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 5
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 5
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 5
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 5
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 5
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 5
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 6
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 6
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 6
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 6
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 6
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 6
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 6
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 6
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 6
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 6
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 6
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 6
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 6
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 6
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 6
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 6
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 6
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 6
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 6
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 6
+	},
+	{
+		"Attr": 10000,
+		"Class": 3,
+		"Level": 1,
+		"NeedNum": 1,
+		"Quality": 7
+	},
+	{
+		"Attr": 20000,
+		"Class": 3,
+		"Level": 2,
+		"NeedNum": 2,
+		"Quality": 7
+	},
+	{
+		"Attr": 30000,
+		"Class": 3,
+		"Level": 3,
+		"NeedNum": 3,
+		"Quality": 7
+	},
+	{
+		"Attr": 40000,
+		"Class": 3,
+		"Level": 4,
+		"NeedNum": 4,
+		"Quality": 7
+	},
+	{
+		"Attr": 50000,
+		"Class": 3,
+		"Level": 5,
+		"NeedNum": 5,
+		"Quality": 7
+	},
+	{
+		"Attr": 60000,
+		"Class": 3,
+		"Level": 6,
+		"NeedNum": 6,
+		"Quality": 7
+	},
+	{
+		"Attr": 70000,
+		"Class": 3,
+		"Level": 7,
+		"NeedNum": 7,
+		"Quality": 7
+	},
+	{
+		"Attr": 80000,
+		"Class": 3,
+		"Level": 8,
+		"NeedNum": 8,
+		"Quality": 7
+	},
+	{
+		"Attr": 90000,
+		"Class": 3,
+		"Level": 9,
+		"NeedNum": 9,
+		"Quality": 7
+	},
+	{
+		"Attr": 100000,
+		"Class": 3,
+		"Level": 10,
+		"NeedNum": 10,
+		"Quality": 7
+	},
+	{
+		"Attr": 110000,
+		"Class": 3,
+		"Level": 11,
+		"NeedNum": 11,
+		"Quality": 7
+	},
+	{
+		"Attr": 120000,
+		"Class": 3,
+		"Level": 12,
+		"NeedNum": 12,
+		"Quality": 7
+	},
+	{
+		"Attr": 130000,
+		"Class": 3,
+		"Level": 13,
+		"NeedNum": 13,
+		"Quality": 7
+	},
+	{
+		"Attr": 140000,
+		"Class": 3,
+		"Level": 14,
+		"NeedNum": 14,
+		"Quality": 7
+	},
+	{
+		"Attr": 150000,
+		"Class": 3,
+		"Level": 15,
+		"NeedNum": 15,
+		"Quality": 7
+	},
+	{
+		"Attr": 160000,
+		"Class": 3,
+		"Level": 16,
+		"NeedNum": 16,
+		"Quality": 7
+	},
+	{
+		"Attr": 170000,
+		"Class": 3,
+		"Level": 17,
+		"NeedNum": 17,
+		"Quality": 7
+	},
+	{
+		"Attr": 180000,
+		"Class": 3,
+		"Level": 18,
+		"NeedNum": 18,
+		"Quality": 7
+	},
+	{
+		"Attr": 190000,
+		"Class": 3,
+		"Level": 19,
+		"NeedNum": 19,
+		"Quality": 7
+	},
+	{
+		"Attr": 200000,
+		"Class": 3,
+		"Level": 20,
+		"NeedNum": 20,
+		"Quality": 7
+	}
+]

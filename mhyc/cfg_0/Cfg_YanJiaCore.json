@@ -1,0 +1,72 @@
+[
+	{
+		"AnimId": 5601,
+		"BaseAttr": 3100101,
+		"Id": 1,
+		"Name": "天枢核心",
+		"Quality": 4,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；",
+		"SkillName": "天枢特技",
+		"UnLockItem": 2060201
+	},
+	{
+		"AnimId": 5602,
+		"BaseAttr": 3100102,
+		"Id": 2,
+		"Name": "天璇核心",
+		"Quality": 5,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e",
+		"SkillName": "天璇特技",
+		"UnLockItem": 2060202
+	},
+	{
+		"AnimId": 5603,
+		"BaseAttr": 3100103,
+		"Id": 3,
+		"Name": "天玑核心",
+		"Quality": 6,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e核心属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e",
+		"SkillName": "天玑特技",
+		"UnLockItem": 2060203
+	},
+	{
+		"AnimId": 5604,
+		"BaseAttr": 3100104,
+		"Id": 4,
+		"Name": "天权核心",
+		"Quality": 6,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e核心属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{2}%\u003c/c\u003e",
+		"SkillName": "天权特技",
+		"UnLockItem": 2060204
+	},
+	{
+		"AnimId": 5605,
+		"BaseAttr": 3100105,
+		"Id": 5,
+		"Name": "玉衡核心",
+		"Quality": 7,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e核心属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{2}%\u003c/c\u003e，当前皮肤天赋等级\u003ccolor=#12a710\u003e+{1}\u003c/c\u003e；",
+		"SkillName": "玉衡特技",
+		"UnLockItem": 2060205
+	},
+	{
+		"AnimId": 5606,
+		"BaseAttr": 3100106,
+		"Id": 6,
+		"Name": "开阳核心",
+		"Quality": 7,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e核心属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{2}%\u003c/c\u003e，当前皮肤天赋等级\u003ccolor=#12a710\u003e+{1}\u003c/c\u003e；",
+		"SkillName": "开阳特技",
+		"UnLockItem": 2060206
+	},
+	{
+		"AnimId": 5607,
+		"BaseAttr": 3100107,
+		"Id": 7,
+		"Name": "摇光核心",
+		"Quality": 7,
+		"SkillDesc": "穿戴后，偃甲\u003ccolor=#12a710\u003e基础属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{0}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e套装属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{1}%\u003c/c\u003e；偃甲\u003ccolor=#12a710\u003e核心属性\u003c/c\u003e增加\u003ccolor=#12a710\u003e{2}%\u003c/c\u003e，当前皮肤天赋等级\u003ccolor=#12a710\u003e+{1}\u003c/c\u003e；",
+		"SkillName": "摇光特技",
+		"UnLockItem": 2060207
+	}
+]

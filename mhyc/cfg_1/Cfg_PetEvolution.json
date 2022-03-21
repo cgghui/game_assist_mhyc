@@ -1,0 +1,66 @@
+[
+	{
+		"AttrTypeId": 12002,
+		"DetailType": 5,
+		"EntryIcon": 2006,
+		"Item": "79:1|80:1",
+		"ItemEnter": "79|80|2020456|2021456|2022456",
+		"Msg": 20208,
+		"PetId": 2006,
+		"PetName": "美猴王",
+		"TitleName": "大圣归来",
+		"ToPetId": 7004
+	},
+	{
+		"AttrTypeId": 12003,
+		"DetailType": 5,
+		"EntryIcon": 3007,
+		"IsMulti": 1,
+		"Item": "81:1|82:1",
+		"ItemEnter": "81|82|2020507|2021507|2022507",
+		"Msg": 20259,
+		"PetId": 3007,
+		"PetName": "八戒",
+		"TitleName": "谪仙天蓬",
+		"ToPetId": 7007
+	},
+	{
+		"AttrTypeId": 12004,
+		"DetailType": 5,
+		"EntryIcon": 6010,
+		"IsMulti": 1,
+		"Item": "83:1|82:1",
+		"ItemEnter": "83|82|2020659|2021659|2022659",
+		"Msg": 20265,
+		"PetId": 6010,
+		"PetName": "二郎神",
+		"TitleName": "谪仙二郎",
+		"ToPetId": 7008
+	},
+	{
+		"AttrTypeId": 12005,
+		"DetailType": 5,
+		"EntryIcon": 5006,
+		"IsMulti": 1,
+		"Item": "85:1|82:1",
+		"ItemEnter": "85|82|2020606|2021606|2022606",
+		"Msg": 20288,
+		"PetId": 5006,
+		"PetName": "太乙真人",
+		"TitleName": "谪仙太乙",
+		"ToPetId": 7009
+	},
+	{
+		"AttrTypeId": 12006,
+		"DetailType": 5,
+		"EntryIcon": 5009,
+		"IsMulti": 1,
+		"Item": "86:1|82:1",
+		"ItemEnter": "86|82|2020609|2021609|2022609",
+		"Msg": 20318,
+		"PetId": 5009,
+		"PetName": "神将",
+		"TitleName": "谪仙卷帘",
+		"ToPetId": 7010
+	}
+]

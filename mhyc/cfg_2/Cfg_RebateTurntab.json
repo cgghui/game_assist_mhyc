@@ -1,0 +1,11252 @@
+[
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 1,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 2,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 3,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 4,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 5,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 6,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 7,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 1,
+		"Id": 8,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 9,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 10,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 11,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 12,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 13,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 14,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 15,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 2,
+		"Id": 16,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 17,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 18,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 19,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 20,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 21,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 22,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 23,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 3,
+		"Id": 24,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 25,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 26,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 27,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 28,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 29,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 30,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 31,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 4,
+		"Id": 32,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 33,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 34,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 35,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 36,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 37,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 38,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 39,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 5,
+		"Id": 40,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 41,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 42,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 43,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 44,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 45,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 46,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 47,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 6,
+		"Id": 48,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 49,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 50,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 51,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 52,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 53,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 54,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 55,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 7,
+		"Id": 56,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 57,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 58,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 59,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 60,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 61,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 62,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 63,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 704,
+		"Gear": 8,
+		"Id": 64,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 1,
+		"Id": 25951008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 2,
+		"Id": 25951016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 3,
+		"Id": 25951024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 4,
+		"Id": 25951032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 5,
+		"Id": 25951040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 6,
+		"Id": 25951048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 7,
+		"Id": 25951056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 25951,
+		"Gear": 8,
+		"Id": 25951064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 1,
+		"Id": 26351008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 2,
+		"Id": 26351016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 3,
+		"Id": 26351024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 4,
+		"Id": 26351032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 5,
+		"Id": 26351040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 6,
+		"Id": 26351048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 7,
+		"Id": 26351056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26351,
+		"Gear": 8,
+		"Id": 26351064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 1,
+		"Id": 26951008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 2,
+		"Id": 26951016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 3,
+		"Id": 26951024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 4,
+		"Id": 26951032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 5,
+		"Id": 26951040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 6,
+		"Id": 26951048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 7,
+		"Id": 26951056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 26951,
+		"Gear": 8,
+		"Id": 26951064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 1,
+		"Id": 27251008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 2,
+		"Id": 27251016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 3,
+		"Id": 27251024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 4,
+		"Id": 27251032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 5,
+		"Id": 27251040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 6,
+		"Id": 27251048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 7,
+		"Id": 27251056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27251,
+		"Gear": 8,
+		"Id": 27251064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 1,
+		"Id": 27751008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 2,
+		"Id": 27751016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 3,
+		"Id": 27751024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 4,
+		"Id": 27751032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 5,
+		"Id": 27751040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 6,
+		"Id": 27751048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 7,
+		"Id": 27751056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 27751,
+		"Gear": 8,
+		"Id": 27751064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 1,
+		"Id": 28051008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 2,
+		"Id": 28051016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 3,
+		"Id": 28051024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 4,
+		"Id": 28051032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 5,
+		"Id": 28051040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 6,
+		"Id": 28051048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 7,
+		"Id": 28051056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28051,
+		"Gear": 8,
+		"Id": 28051064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 1,
+		"Id": 28751008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 2,
+		"Id": 28751016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 3,
+		"Id": 28751024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 4,
+		"Id": 28751032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 5,
+		"Id": 28751040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 6,
+		"Id": 28751048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 7,
+		"Id": 28751056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 28751,
+		"Gear": 8,
+		"Id": 28751064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 1,
+		"Id": 29051008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 2,
+		"Id": 29051016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 3,
+		"Id": 29051024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 4,
+		"Id": 29051032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 5,
+		"Id": 29051040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 6,
+		"Id": 29051048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 7,
+		"Id": 29051056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29051,
+		"Gear": 8,
+		"Id": 29051064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 1,
+		"Id": 29651008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 2,
+		"Id": 29651016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 3,
+		"Id": 29651024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 4,
+		"Id": 29651032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 5,
+		"Id": 29651040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 6,
+		"Id": 29651048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 7,
+		"Id": 29651056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 29651,
+		"Gear": 8,
+		"Id": 29651064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 1,
+		"Id": 30051008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 2,
+		"Id": 30051016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 3,
+		"Id": 30051024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 4,
+		"Id": 30051032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 5,
+		"Id": 30051040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 6,
+		"Id": 30051048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 7,
+		"Id": 30051056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30051,
+		"Gear": 8,
+		"Id": 30051064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 1,
+		"Id": 30451008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 2,
+		"Id": 30451016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 3,
+		"Id": 30451024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 4,
+		"Id": 30451032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 5,
+		"Id": 30451040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 6,
+		"Id": 30451048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 7,
+		"Id": 30451056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30451,
+		"Gear": 8,
+		"Id": 30451064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 1,
+		"Id": 30951008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 2,
+		"Id": 30951016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 3,
+		"Id": 30951024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 4,
+		"Id": 30951032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 5,
+		"Id": 30951040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 6,
+		"Id": 30951048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 7,
+		"Id": 30951056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 30951,
+		"Gear": 8,
+		"Id": 30951064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 1,
+		"Id": 31551008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 2,
+		"Id": 31551016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 3,
+		"Id": 31551024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 4,
+		"Id": 31551032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 5,
+		"Id": 31551040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 6,
+		"Id": 31551048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 7,
+		"Id": 31551056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31551,
+		"Gear": 8,
+		"Id": 31551064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 1,
+		"Id": 31851008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 2,
+		"Id": 31851016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 3,
+		"Id": 31851024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 4,
+		"Id": 31851032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 5,
+		"Id": 31851040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 6,
+		"Id": 31851048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 7,
+		"Id": 31851056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 31851,
+		"Gear": 8,
+		"Id": 31851064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 1,
+		"Id": 33451008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 2,
+		"Id": 33451016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 3,
+		"Id": 33451024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 4,
+		"Id": 33451032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 5,
+		"Id": 33451040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 6,
+		"Id": 33451048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 7,
+		"Id": 33451056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33451,
+		"Gear": 8,
+		"Id": 33451064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 1,
+		"Id": 33751008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 2,
+		"Id": 33751016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 3,
+		"Id": 33751024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 4,
+		"Id": 33751032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 5,
+		"Id": 33751040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 6,
+		"Id": 33751048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 7,
+		"Id": 33751056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 33751,
+		"Gear": 8,
+		"Id": 33751064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351001,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351002,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351003,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351004,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3700,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351005,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 5000,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351006,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351007,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 1,
+		"Id": 34351008,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351009,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351010,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351011,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351012,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351013,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351014,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351015,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 2,
+		"Id": 34351016,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351017,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351018,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351019,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351020,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351021,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351022,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351023,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 3,
+		"Id": 34351024,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351025,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 600,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351026,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 1000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351027,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 2900,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351028,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 3200,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351029,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 1500,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351030,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 500,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351031,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"Odd": 200,
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 4,
+		"Id": 34351032,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351033,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351034,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351035,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351036,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351037,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351038,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351039,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 5,
+		"Id": 34351040,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351041,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351042,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351043,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351044,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351045,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351046,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351047,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 6,
+		"Id": 34351048,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351049,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351050,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351051,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351052,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351053,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351054,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351055,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 7,
+		"Id": 34351056,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351057,
+		"Multiple": 500,
+		"Name": "财神送礼",
+		"Odd": 2200,
+		"OddClient": "15%",
+		"ShowPos": 8
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351058,
+		"Multiple": 800,
+		"Name": "财神送礼",
+		"Odd": 3000,
+		"OddClient": "15%",
+		"ShowPos": 6
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351059,
+		"Multiple": 1000,
+		"Name": "财神送礼",
+		"Odd": 3500,
+		"OddClient": "21%",
+		"ShowPos": 4
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351060,
+		"Multiple": 2000,
+		"Name": "财神送礼",
+		"Odd": 800,
+		"OddClient": "20%",
+		"ShowPos": 2
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351061,
+		"Multiple": 3000,
+		"Name": "财神送礼",
+		"Odd": 300,
+		"OddClient": "12%",
+		"ShowPos": 3
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351062,
+		"Multiple": 5000,
+		"Name": "财神送礼",
+		"Odd": 100,
+		"OddClient": "8%",
+		"ShowPos": 7
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351063,
+		"Multiple": 8000,
+		"Name": "财神送礼",
+		"OddClient": "6%",
+		"ShowPos": 5
+	},
+	{
+		"ActId": 34351,
+		"Gear": 8,
+		"Id": 34351064,
+		"Multiple": 10000,
+		"Name": "财神送礼",
+		"OddClient": "3%",
+		"ShowPos": 1
+	}
+]

@@ -1,0 +1,110 @@
+[
+	{
+		"ActiveSkillId": "10301:1",
+		"AnimId": 1601,
+		"AttrId": 3500001,
+		"DefaultEquips": "901018101|901018102|901018103|901018104",
+		"GodSkillAdd": "10451:3000:2000",
+		"GodWeaponSkill": 10451,
+		"Id": 1,
+		"Name": "刘备",
+		"Quality": 4,
+		"UnLockItem": 2080101
+	},
+	{
+		"ActiveSkillId": "10302:1",
+		"AnimId": 1602,
+		"AttrId": 3500002,
+		"DefaultEquips": "901038101|901038102|901038103|901038104",
+		"GodSkillAdd": "10451:3000:2000",
+		"GodWeaponSkill": 10451,
+		"Id": 2,
+		"Name": "张飞",
+		"Quality": 4,
+		"UnLockItem": 2080102
+	},
+	{
+		"ActiveSkillId": "10303:1",
+		"AnimId": 1603,
+		"AttrId": 3500003,
+		"DefaultEquips": "901028101|901028102|901028103|901028104",
+		"GodSkillAdd": "10451:3000:2000",
+		"GodWeaponSkill": 10451,
+		"Id": 3,
+		"Name": "关羽",
+		"Quality": 4,
+		"UnLockItem": 2080103
+	},
+	{
+		"ActiveSkillId": "10304:3",
+		"AnimId": 1604,
+		"AttrId": 3500004,
+		"DefaultEquips": "901048101|901048102|901048103|901048104",
+		"GodSkillAdd": "10454:1000:0",
+		"GodWeaponSkill": 10454,
+		"Id": 4,
+		"Name": "赵云",
+		"Quality": 6,
+		"UnLockItem": 2080104
+	},
+	{
+		"ActiveSkillId": "10305:3",
+		"AnimId": 1605,
+		"AttrId": 3500005,
+		"DefaultEquips": "901068101|901068102|901068103|901068104",
+		"GodSkillAdd": "10454:1000:0",
+		"GodWeaponSkill": 10454,
+		"Id": 5,
+		"Name": "吕布",
+		"Quality": 6,
+		"UnLockItem": 2080105
+	},
+	{
+		"ActiveSkillId": "10306:3",
+		"AnimId": 1606,
+		"AttrId": 3500006,
+		"DefaultEquips": "901058101|901058102|901058103|901058104",
+		"GodSkillAdd": "10454:1000:0",
+		"GodWeaponSkill": 10454,
+		"Id": 6,
+		"Name": "马超",
+		"Quality": 6,
+		"UnLockItem": 2080106
+	},
+	{
+		"ActiveSkillId": "10307:4",
+		"AnimId": 1607,
+		"AttrId": 3500007,
+		"DefaultEquips": "901078101|901078102|901078103|901078104",
+		"GodSkillAdd": "10455:1000:0",
+		"GodWeaponSkill": 10455,
+		"Id": 7,
+		"Name": "诸葛亮",
+		"Quality": 7,
+		"UnLockItem": 2080107
+	},
+	{
+		"ActiveSkillId": "10308:4",
+		"AnimId": 1608,
+		"AttrId": 3500008,
+		"DefaultEquips": "901098101|901098102|901098103|901098104",
+		"GodSkillAdd": "10455:1000:0",
+		"GodWeaponSkill": 10455,
+		"Id": 8,
+		"Name": "庞统",
+		"Quality": 7,
+		"UnLockItem": 2080108
+	},
+	{
+		"ActiveSkillId": "10309:4",
+		"AnimId": 1609,
+		"AttrId": 3500009,
+		"DefaultEquips": "901088101|901088102|901088103|901088104",
+		"GodSkillAdd": "10455:1000:0",
+		"GodWeaponSkill": 10455,
+		"Id": 9,
+		"Name": "司马懿",
+		"Quality": 7,
+		"UnLockItem": 2080109
+	}
+]

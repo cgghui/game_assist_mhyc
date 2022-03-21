@@ -1,0 +1,44 @@
+[
+	{
+		"FuncId": 15051,
+		"ItemChangeType": 3401,
+		"MaxNum": 100,
+		"RedId": 90001,
+		"WhId": 1,
+		"WhName": "偃甲副本收益仓库"
+	},
+	{
+		"FuncId": 14105,
+		"ItemChangeType": 3204,
+		"MaxNum": 100,
+		"RedId": 90002,
+		"WhId": 2,
+		"WhName": "幻灵副本奖励"
+	},
+	{
+		"FuncId": 11058,
+		"ItemChangeType": 3603,
+		"MaxNum": 100,
+		"RedId": 90003,
+		"WhId": 3,
+		"WhName": "秘境Boss收益仓库"
+	},
+	{
+		"ActId": "30321|33321",
+		"FuncId": 3611,
+		"ItemChangeType": 3310,
+		"MaxNum": 100,
+		"RedId": 90010,
+		"WhId": 4,
+		"WhName": "八荒探宝"
+	},
+	{
+		"ActId": "501",
+		"FuncId": 12300,
+		"ItemChangeType": 1902,
+		"MaxNum": 500,
+		"RedId": 90004,
+		"WhId": 5,
+		"WhName": "寻宝仓库"
+	}
+]

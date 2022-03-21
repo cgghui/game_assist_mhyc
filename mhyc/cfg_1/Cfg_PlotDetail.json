@@ -1,0 +1,220 @@
+[
+	{
+		"Emoji": "#4",
+		"Id": 1,
+		"Role": 4,
+		"TalkContent": "今日修行将成，送你套仙装做贺礼吧。"
+	},
+	{
+		"Emoji": "#17",
+		"Id": 2,
+		"Role": 1,
+		"TalkContent": "谢师姐疼爱，这仙装真漂亮！"
+	},
+	{
+		"Emoji": "#2",
+		"Id": 2,
+		"Role": 4,
+		"TalkContent": "今日修行能否圆满，需经本宗魔灵试炼，快快御剑前往吧！"
+	},
+	{
+		"Id": 3,
+		"Role": 4,
+		"TalkContent": "魔灵修行千年威力极强，本门能战胜魔灵全身而退的不过屈指几人而已。千万小心！"
+	},
+	{
+		"Emoji": "#9",
+		"Id": 3,
+		"Role": 1,
+		"TalkContent": "多谢师姐关怀，我一定多加小心！"
+	},
+	{
+		"Emoji": "#14",
+		"Id": 4,
+		"Role": 6,
+		"TalkContent": "呔，打BOSS自然需俺美猴王相助。妖怪，吃俺老孙一棒！"
+	},
+	{
+		"Emoji": "#20",
+		"Id": 5,
+		"Role": 4,
+		"TalkContent": "这猴子缘何会帮你？看来与你有缘；试炼虽过但你身受内伤估计要修养一段，此番下山修行务必轻装简从。"
+	},
+	{
+		"Emoji": "#22",
+		"Id": 5,
+		"Role": 1,
+		"TalkContent": "全听师姐安排。不过这仙装和一套修行物什，我该如何安排？"
+	},
+	{
+		"Id": 5,
+		"Role": 4,
+		"TalkContent": "我用宗门秘法帮你暂且封印，等修养恢复之后自会逐个解封，这就送你下山吧..."
+	},
+	{
+		"ActId": 1,
+		"ChatName": "魔尊",
+		"Emoji": "#17",
+		"Id": 101,
+		"POS_LR": 2,
+		"PicID": "xsjq_nan",
+		"TalkContent": "哈哈...哈哈哈...你叫吧，你叫吧，叫破喉咙也不会有人来救你的！！！"
+	},
+	{
+		"ActId": 1,
+		"ChatName": "小仙女",
+		"Emoji": "#15",
+		"Id": 102,
+		"POS_LR": 1,
+		"PicID": "xsjq_nv",
+		"TalkContent": "破喉咙，破喉咙~救命啊！！！"
+	},
+	{
+		"ActId": 1,
+		"ChatName": "小仙女",
+		"DropID": 1771,
+		"Emoji": "#7",
+		"Id": 103,
+		"POS_LR": 2,
+		"PicID": "xsjq_nv",
+		"TalkContent": "哈哈哈，破喉咙还挺厉害呀！但是想要我追随你？嘿嘿，那你还要多救我几次才行。"
+	},
+	{
+		"ActId": 1,
+		"DropID": 1771,
+		"Emoji": "#12",
+		"Id": 104,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "喂！喂！喂！我不叫[破喉咙]啊~"
+	},
+	{
+		"ActId": 1,
+		"ChatName": "小仙女",
+		"DropID": 1772,
+		"Emoji": "#16",
+		"Id": 105,
+		"POS_LR": 2,
+		"PicID": "xsjq_nv",
+		"TalkContent": "多谢上仙救我于水火之中，我愿意从今以后跟随着你到天涯海角。"
+	},
+	{
+		"ActId": 1,
+		"DropID": 1772,
+		"Emoji": "#6",
+		"Id": 106,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "那在下就恭敬不如从命了~"
+	},
+	{
+		"ActId": 2,
+		"ChatName": "狼王",
+		"Emoji": "#1",
+		"Id": 121,
+		"POS_LR": 2,
+		"PicID": "qy_bingyulangwang",
+		"TalkContent": "嘿嘿嘿…小狐狸，你跑不掉的，这几天嘴里淡出鸟了，快来让我开开荤！"
+	},
+	{
+		"ActId": 2,
+		"ChatName": "小仙狐",
+		"Emoji": "#11",
+		"Id": 122,
+		"POS_LR": 1,
+		"PicID": "qy_jiuweihu",
+		"TalkContent": "你想得美！！！"
+	},
+	{
+		"ActId": 2,
+		"ChatName": "小仙狐",
+		"DropID": 1781,
+		"Emoji": "#24",
+		"Id": 123,
+		"POS_LR": 2,
+		"PicID": "qy_jiuweihu",
+		"TalkContent": "多谢恩公相救，一些薄礼不成敬意！"
+	},
+	{
+		"ActId": 2,
+		"DropID": 1781,
+		"Emoji": "#18",
+		"Id": 124,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "哎，哎，哎~使不得，使不得！"
+	},
+	{
+		"ActId": 2,
+		"ChatName": "小仙狐",
+		"DropID": 1782,
+		"Emoji": "#16",
+		"Id": 125,
+		"POS_LR": 2,
+		"PicID": "qy_jiuweihu",
+		"TalkContent": "多谢上仙救我于水火之中，我愿追随上仙左右！"
+	},
+	{
+		"ActId": 2,
+		"DropID": 1782,
+		"Emoji": "#4",
+		"Id": 126,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "那就一起遨游山海吧~"
+	},
+	{
+		"ActId": 3,
+		"ChatName": "大魔王",
+		"Emoji": "#12",
+		"Id": 141,
+		"POS_LR": 2,
+		"PicID": "qy_damowang",
+		"TalkContent": "哼！东皇太一，你非要赶尽杀绝不成？"
+	},
+	{
+		"ActId": 3,
+		"ChatName": "东皇太一",
+		"Emoji": "#11",
+		"Id": 142,
+		"POS_LR": 1,
+		"PicID": "qy_donghuangtaiyi",
+		"TalkContent": "大魔头，人人得而诛之！"
+	},
+	{
+		"ActId": 3,
+		"ChatName": "东皇太一",
+		"DropID": 1791,
+		"Id": 143,
+		"POS_LR": 2,
+		"PicID": "qy_donghuangtaiyi",
+		"TalkContent": "多谢上仙出手相助，诛杀此僚！"
+	},
+	{
+		"ActId": 3,
+		"DropID": 1791,
+		"Emoji": "#4",
+		"Id": 144,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "我也是修仙之人，看不得魔头作恶！"
+	},
+	{
+		"ActId": 3,
+		"ChatName": "东皇太一",
+		"DropID": 1792,
+		"Id": 145,
+		"POS_LR": 2,
+		"PicID": "qy_donghuangtaiyi",
+		"TalkContent": "看来上仙也是同道中人，我愿追随上仙斩妖除魔！"
+	},
+	{
+		"ActId": 3,
+		"DropID": 1792,
+		"Emoji": "#7",
+		"Id": 146,
+		"POS_LR": 1,
+		"PicID": "xsjq_nanzhu|xsjq_nvzhu",
+		"TalkContent": "哈哈哈…妖魔的好日子到头了~"
+	}
+]

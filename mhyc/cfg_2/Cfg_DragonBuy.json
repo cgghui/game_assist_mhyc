@@ -1,0 +1,18 @@
+[
+	{
+		"Amount": 100,
+		"GoldType": 1,
+		"Id": 1,
+		"ItemId": 2600007,
+		"ItemNum": 1,
+		"Times_Max": 999999
+	},
+	{
+		"Amount": 2000,
+		"GoldType": 2,
+		"Id": 7,
+		"ItemId": 2600007,
+		"ItemNum": 1,
+		"Times_Max": 999999
+	}
+]

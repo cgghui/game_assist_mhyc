@@ -1,0 +1,90 @@
+[
+	{
+		"BGMap": "td_qinglong",
+		"ExplorePrize": 2041,
+		"FBId": 1,
+		"FirstPassPrize": "903005101:1|903005102:1|903005103:1|903005104:1|903005105:1|903005106:1",
+		"GQId": 1,
+		"GQType": 1,
+		"MapX": 12,
+		"MapY": 12,
+		"PlayerGrid ": "1:1",
+		"SweepPrize": 2031
+	},
+	{
+		"BGMap": "ms_qinglong",
+		"ExplorePrize": 2041,
+		"FBId": 1,
+		"GQId": 2,
+		"GQType": 2,
+		"MapX": 12,
+		"MapY": 12,
+		"PlayerGrid ": "20:1"
+	},
+	{
+		"BGMap": "td_baihu",
+		"ExplorePrize": 2042,
+		"FBId": 2,
+		"FirstPassPrize": "904005101:1|2060102:5",
+		"GQId": 1,
+		"GQType": 1,
+		"MapX": 16,
+		"MapY": 16,
+		"PlayerGrid ": "1:1",
+		"SweepPrize": 2032
+	},
+	{
+		"BGMap": "ms_baihu",
+		"ExplorePrize": 2042,
+		"FBId": 2,
+		"GQId": 2,
+		"GQType": 2,
+		"MapX": 16,
+		"MapY": 16,
+		"PlayerGrid ": "15:1"
+	},
+	{
+		"BGMap": "td_xuanwu",
+		"ExplorePrize": 2043,
+		"FBId": 3,
+		"FirstPassPrize": "905005101:1|2060103:5",
+		"GQId": 1,
+		"GQType": 1,
+		"MapX": 19,
+		"MapY": 19,
+		"PlayerGrid ": "1:1",
+		"SweepPrize": 2033
+	},
+	{
+		"BGMap": "ms_xuanwu",
+		"ExplorePrize": 2043,
+		"FBId": 3,
+		"GQId": 2,
+		"GQType": 2,
+		"MapX": 19,
+		"MapY": 19,
+		"PlayerGrid ": "20:1"
+	},
+	{
+		"BGMap": "td_zhuque",
+		"ExplorePrize": 2044,
+		"FBId": 4,
+		"FirstPassPrize": "906005101:1|2060104:5",
+		"GQId": 1,
+		"GQType": 1,
+		"MapX": 21,
+		"MapY": 21,
+		"PlayerGrid ": "1:1",
+		"SweepPrize": 2034
+	},
+	{
+		"BGMap": "ms_zhuque",
+		"ExplorePrize": 2044,
+		"FBId": 4,
+		"GQId": 2,
+		"GQType": 2,
+		"MapX": 21,
+		"MapY": 21,
+		"PlayerGrid ": "20:1"
+	}
+]

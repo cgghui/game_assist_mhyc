@@ -1,0 +1,16046 @@
+[
+	{
+		"AttrId": 1,
+		"Q": 1
+	},
+	{
+		"AttrId": 1,
+		"Q": 1
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 366,
+		"Min": 110,
+		"Q": 1
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 549,
+		"Min": 165,
+		"Q": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 952,
+		"Min": 286,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 1808,
+		"Min": 542,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 3255,
+		"Min": 977,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 5533,
+		"Min": 1660,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 8853,
+		"Min": 2656,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 14165,
+		"Min": 4250,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 1,
+		"Max": 21247,
+		"Min": 6374,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 1,
+		"Max": 31870,
+		"Min": 9561,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 1,
+		"Max": 44618,
+		"Min": 13385,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 1,
+		"Max": 58004,
+		"Min": 17401,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 1,
+		"Max": 84805,
+		"Min": 25442,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 1,
+		"Max": 123671,
+		"Min": 37101,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 1,
+		"Max": 183483,
+		"Min": 55045,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 1,
+		"Max": 271866,
+		"Min": 81560,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 1,
+		"Max": 402188,
+		"Min": 120656,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 1,
+		"Max": 594082,
+		"Min": 178225,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 1,
+		"Max": 875955,
+		"Min": 262787,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 1,
+		"Max": 1289160,
+		"Min": 386748,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 1,
+		"Max": 1893379,
+		"Min": 568014,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 1,
+		"Max": 2774455,
+		"Min": 832337,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 2,
+		"Q": 1
+	},
+	{
+		"AttrId": 2,
+		"Q": 1
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 73,
+		"Min": 22,
+		"Q": 1
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 110,
+		"Min": 33,
+		"Q": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 190,
+		"Min": 57,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 362,
+		"Min": 109,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 651,
+		"Min": 195,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1107,
+		"Min": 332,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1771,
+		"Min": 531,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 2833,
+		"Min": 850,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 2,
+		"Max": 4249,
+		"Min": 1275,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 2,
+		"Max": 6374,
+		"Min": 1912,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 2,
+		"Max": 8924,
+		"Min": 2677,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 2,
+		"Max": 11601,
+		"Min": 3480,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 2,
+		"Max": 16961,
+		"Min": 5088,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 2,
+		"Max": 24734,
+		"Min": 7420,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 2,
+		"Max": 36697,
+		"Min": 11009,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 2,
+		"Max": 54373,
+		"Min": 16312,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 2,
+		"Max": 80438,
+		"Min": 24131,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 2,
+		"Max": 118816,
+		"Min": 35645,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 2,
+		"Max": 175191,
+		"Min": 52557,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 2,
+		"Max": 257832,
+		"Min": 77350,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 2,
+		"Max": 378676,
+		"Min": 113603,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 2,
+		"Max": 554891,
+		"Min": 166467,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 3,
+		"Q": 1
+	},
+	{
+		"AttrId": 3,
+		"Q": 1
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 37,
+		"Min": 11,
+		"Q": 1
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 55,
+		"Min": 17,
+		"Q": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 95,
+		"Min": 29,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 181,
+		"Min": 54,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 325,
+		"Min": 98,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 553,
+		"Min": 166,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 885,
+		"Min": 266,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1416,
+		"Min": 425,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 3,
+		"Max": 2125,
+		"Min": 638,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 3,
+		"Max": 3187,
+		"Min": 956,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 3,
+		"Max": 4462,
+		"Min": 1339,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 3,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 3,
+		"Max": 8481,
+		"Min": 2544,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 3,
+		"Max": 12367,
+		"Min": 3710,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 3,
+		"Max": 18348,
+		"Min": 5504,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 3,
+		"Max": 27187,
+		"Min": 8156,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 3,
+		"Max": 40219,
+		"Min": 12066,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 3,
+		"Max": 59408,
+		"Min": 17822,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 3,
+		"Max": 87596,
+		"Min": 26279,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 3,
+		"Max": 128916,
+		"Min": 38675,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 3,
+		"Max": 189338,
+		"Min": 56801,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 3,
+		"Max": 277445,
+		"Min": 83234,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 9,
+		"Q": 1
+	},
+	{
+		"AttrId": 9,
+		"Q": 1
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 37,
+		"Min": 11,
+		"Q": 1
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 55,
+		"Min": 17,
+		"Q": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 95,
+		"Min": 29,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 181,
+		"Min": 54,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 325,
+		"Min": 98,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 553,
+		"Min": 166,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 885,
+		"Min": 266,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1416,
+		"Min": 425,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 9,
+		"Max": 2125,
+		"Min": 638,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 9,
+		"Max": 3187,
+		"Min": 956,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 9,
+		"Max": 4462,
+		"Min": 1339,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 9,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 9,
+		"Max": 8481,
+		"Min": 2544,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 9,
+		"Max": 12367,
+		"Min": 3710,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 9,
+		"Max": 18348,
+		"Min": 5504,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 9,
+		"Max": 27187,
+		"Min": 8156,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 9,
+		"Max": 40219,
+		"Min": 12066,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 9,
+		"Max": 59408,
+		"Min": 17822,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 9,
+		"Max": 87596,
+		"Min": 26279,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 9,
+		"Max": 128916,
+		"Min": 38675,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 9,
+		"Max": 189338,
+		"Min": 56801,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 9,
+		"Max": 277445,
+		"Min": 83234,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 10,
+		"Q": 1
+	},
+	{
+		"AttrId": 10,
+		"Q": 1
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 18,
+		"Min": 5,
+		"Q": 1
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 27,
+		"Min": 8,
+		"Q": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 48,
+		"Min": 14,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 90,
+		"Min": 27,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 163,
+		"Min": 49,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 277,
+		"Min": 83,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 443,
+		"Min": 133,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 708,
+		"Min": 212,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 10,
+		"Max": 1062,
+		"Min": 319,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 10,
+		"Max": 1594,
+		"Min": 478,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 10,
+		"Max": 2231,
+		"Min": 669,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 10,
+		"Max": 2900,
+		"Min": 870,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 10,
+		"Max": 4240,
+		"Min": 1272,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 10,
+		"Max": 6184,
+		"Min": 1855,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 10,
+		"Max": 9174,
+		"Min": 2752,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 10,
+		"Max": 13593,
+		"Min": 4078,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 10,
+		"Max": 20109,
+		"Min": 6033,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 10,
+		"Max": 29704,
+		"Min": 8911,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 10,
+		"Max": 43798,
+		"Min": 13139,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 10,
+		"Max": 64458,
+		"Min": 19337,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 10,
+		"Max": 94669,
+		"Min": 28401,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 10,
+		"Max": 138723,
+		"Min": 41617,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 11,
+		"Q": 1
+	},
+	{
+		"AttrId": 11,
+		"Q": 1
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 37,
+		"Min": 11,
+		"Q": 1
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 55,
+		"Min": 17,
+		"Q": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 95,
+		"Min": 29,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 181,
+		"Min": 54,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 325,
+		"Min": 98,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 553,
+		"Min": 166,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 885,
+		"Min": 266,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1416,
+		"Min": 425,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 11,
+		"Max": 2125,
+		"Min": 638,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 11,
+		"Max": 3187,
+		"Min": 956,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 11,
+		"Max": 4462,
+		"Min": 1339,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 11,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 11,
+		"Max": 8481,
+		"Min": 2544,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 11,
+		"Max": 12367,
+		"Min": 3710,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 11,
+		"Max": 18348,
+		"Min": 5504,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 11,
+		"Max": 27187,
+		"Min": 8156,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 11,
+		"Max": 40219,
+		"Min": 12066,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 11,
+		"Max": 59408,
+		"Min": 17822,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 11,
+		"Max": 87596,
+		"Min": 26279,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 11,
+		"Max": 128916,
+		"Min": 38675,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 11,
+		"Max": 189338,
+		"Min": 56801,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 11,
+		"Max": 277445,
+		"Min": 83234,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 12,
+		"Q": 1
+	},
+	{
+		"AttrId": 12,
+		"Q": 1
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 18,
+		"Min": 5,
+		"Q": 1
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 27,
+		"Min": 8,
+		"Q": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 48,
+		"Min": 14,
+		"Q": 1,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 90,
+		"Min": 27,
+		"Q": 1,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 163,
+		"Min": 49,
+		"Q": 1,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 277,
+		"Min": 83,
+		"Q": 1,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 443,
+		"Min": 133,
+		"Q": 1,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 708,
+		"Min": 212,
+		"Q": 1,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 12,
+		"Max": 1062,
+		"Min": 319,
+		"Q": 1,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 12,
+		"Max": 1594,
+		"Min": 478,
+		"Q": 1,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 12,
+		"Max": 2231,
+		"Min": 669,
+		"Q": 1,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 12,
+		"Max": 2900,
+		"Min": 870,
+		"Q": 1,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 12,
+		"Max": 4240,
+		"Min": 1272,
+		"Q": 1,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 12,
+		"Max": 6184,
+		"Min": 1855,
+		"Q": 1,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 12,
+		"Max": 9174,
+		"Min": 2752,
+		"Q": 1,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 12,
+		"Max": 13593,
+		"Min": 4078,
+		"Q": 1,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 12,
+		"Max": 20109,
+		"Min": 6033,
+		"Q": 1,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 12,
+		"Max": 29704,
+		"Min": 8911,
+		"Q": 1,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 12,
+		"Max": 43798,
+		"Min": 13139,
+		"Q": 1,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 12,
+		"Max": 64458,
+		"Min": 19337,
+		"Q": 1,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 12,
+		"Max": 94669,
+		"Min": 28401,
+		"Q": 1,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 12,
+		"Max": 138723,
+		"Min": 41617,
+		"Q": 1,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 1,
+		"Q": 2
+	},
+	{
+		"AttrId": 1,
+		"Q": 2
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 476,
+		"Min": 143,
+		"Q": 2
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 714,
+		"Min": 214,
+		"Q": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 1237,
+		"Min": 371,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 2351,
+		"Min": 705,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 4231,
+		"Min": 1269,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 7193,
+		"Min": 2158,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 11509,
+		"Min": 3453,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 18414,
+		"Min": 5524,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 1,
+		"Max": 27621,
+		"Min": 8286,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 1,
+		"Max": 41431,
+		"Min": 12429,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 1,
+		"Max": 58004,
+		"Min": 17401,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 1,
+		"Max": 75405,
+		"Min": 22622,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 1,
+		"Max": 110247,
+		"Min": 33074,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 1,
+		"Max": 160772,
+		"Min": 48232,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 1,
+		"Max": 238528,
+		"Min": 71558,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 1,
+		"Max": 353425,
+		"Min": 106028,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 1,
+		"Max": 522844,
+		"Min": 156853,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 1,
+		"Max": 772306,
+		"Min": 231692,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 1,
+		"Max": 1138742,
+		"Min": 341623,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 1,
+		"Max": 1675908,
+		"Min": 502772,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 1,
+		"Max": 2461393,
+		"Min": 738418,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 1,
+		"Max": 3606791,
+		"Min": 1082037,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 2,
+		"Q": 2
+	},
+	{
+		"AttrId": 2,
+		"Q": 2
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 95,
+		"Min": 29,
+		"Q": 2
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 143,
+		"Min": 43,
+		"Q": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 247,
+		"Min": 74,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 470,
+		"Min": 141,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 846,
+		"Min": 254,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1439,
+		"Min": 432,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 2302,
+		"Min": 691,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 3683,
+		"Min": 1105,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 2,
+		"Max": 5524,
+		"Min": 1657,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 2,
+		"Max": 8286,
+		"Min": 2486,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 2,
+		"Max": 11601,
+		"Min": 3480,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 2,
+		"Max": 15081,
+		"Min": 4524,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 2,
+		"Max": 22049,
+		"Min": 6615,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 2,
+		"Max": 32154,
+		"Min": 9646,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 2,
+		"Max": 47706,
+		"Min": 14312,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 2,
+		"Max": 70685,
+		"Min": 21206,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 2,
+		"Max": 104569,
+		"Min": 31371,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 2,
+		"Max": 154461,
+		"Min": 46338,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 2,
+		"Max": 227748,
+		"Min": 68324,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 2,
+		"Max": 335182,
+		"Min": 100555,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 2,
+		"Max": 492279,
+		"Min": 147684,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 2,
+		"Max": 721358,
+		"Min": 216407,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 3,
+		"Q": 2
+	},
+	{
+		"AttrId": 3,
+		"Q": 2
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 48,
+		"Min": 14,
+		"Q": 2
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 71,
+		"Min": 21,
+		"Q": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 124,
+		"Min": 37,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 235,
+		"Min": 71,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 423,
+		"Min": 127,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 719,
+		"Min": 216,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1151,
+		"Min": 345,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1841,
+		"Min": 552,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 3,
+		"Max": 2762,
+		"Min": 829,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 3,
+		"Max": 4143,
+		"Min": 1243,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 3,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 3,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 3,
+		"Max": 11025,
+		"Min": 3308,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 3,
+		"Max": 16077,
+		"Min": 4823,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 3,
+		"Max": 23853,
+		"Min": 7156,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 3,
+		"Max": 35343,
+		"Min": 10603,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 3,
+		"Max": 52284,
+		"Min": 15685,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 3,
+		"Max": 77231,
+		"Min": 23169,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 3,
+		"Max": 113874,
+		"Min": 34162,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 3,
+		"Max": 167591,
+		"Min": 50277,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 3,
+		"Max": 246139,
+		"Min": 73842,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 3,
+		"Max": 360679,
+		"Min": 108204,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 9,
+		"Q": 2
+	},
+	{
+		"AttrId": 9,
+		"Q": 2
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 48,
+		"Min": 14,
+		"Q": 2
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 71,
+		"Min": 21,
+		"Q": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 124,
+		"Min": 37,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 235,
+		"Min": 71,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 423,
+		"Min": 127,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 719,
+		"Min": 216,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1151,
+		"Min": 345,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1841,
+		"Min": 552,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 9,
+		"Max": 2762,
+		"Min": 829,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 9,
+		"Max": 4143,
+		"Min": 1243,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 9,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 9,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 9,
+		"Max": 11025,
+		"Min": 3308,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 9,
+		"Max": 16077,
+		"Min": 4823,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 9,
+		"Max": 23853,
+		"Min": 7156,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 9,
+		"Max": 35343,
+		"Min": 10603,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 9,
+		"Max": 52284,
+		"Min": 15685,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 9,
+		"Max": 77231,
+		"Min": 23169,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 9,
+		"Max": 113874,
+		"Min": 34162,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 9,
+		"Max": 167591,
+		"Min": 50277,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 9,
+		"Max": 246139,
+		"Min": 73842,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 9,
+		"Max": 360679,
+		"Min": 108204,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 10,
+		"Q": 2
+	},
+	{
+		"AttrId": 10,
+		"Q": 2
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 24,
+		"Min": 7,
+		"Q": 2
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 36,
+		"Min": 11,
+		"Q": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 62,
+		"Min": 19,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 118,
+		"Min": 35,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 212,
+		"Min": 64,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 360,
+		"Min": 108,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 575,
+		"Min": 173,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 921,
+		"Min": 276,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 10,
+		"Max": 1381,
+		"Min": 414,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 10,
+		"Max": 2072,
+		"Min": 622,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 10,
+		"Max": 2900,
+		"Min": 870,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 10,
+		"Max": 3770,
+		"Min": 1131,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 10,
+		"Max": 5512,
+		"Min": 1654,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 10,
+		"Max": 8039,
+		"Min": 2412,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 10,
+		"Max": 11926,
+		"Min": 3578,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 10,
+		"Max": 17671,
+		"Min": 5301,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 10,
+		"Max": 26142,
+		"Min": 7843,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 10,
+		"Max": 38615,
+		"Min": 11585,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 10,
+		"Max": 56937,
+		"Min": 17081,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 10,
+		"Max": 83795,
+		"Min": 25139,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 10,
+		"Max": 123070,
+		"Min": 36921,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 10,
+		"Max": 180340,
+		"Min": 54102,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 11,
+		"Q": 2
+	},
+	{
+		"AttrId": 11,
+		"Q": 2
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 48,
+		"Min": 14,
+		"Q": 2
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 71,
+		"Min": 21,
+		"Q": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 124,
+		"Min": 37,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 235,
+		"Min": 71,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 423,
+		"Min": 127,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 719,
+		"Min": 216,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1151,
+		"Min": 345,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1841,
+		"Min": 552,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 11,
+		"Max": 2762,
+		"Min": 829,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 11,
+		"Max": 4143,
+		"Min": 1243,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 11,
+		"Max": 5800,
+		"Min": 1740,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 11,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 11,
+		"Max": 11025,
+		"Min": 3308,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 11,
+		"Max": 16077,
+		"Min": 4823,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 11,
+		"Max": 23853,
+		"Min": 7156,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 11,
+		"Max": 35343,
+		"Min": 10603,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 11,
+		"Max": 52284,
+		"Min": 15685,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 11,
+		"Max": 77231,
+		"Min": 23169,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 11,
+		"Max": 113874,
+		"Min": 34162,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 11,
+		"Max": 167591,
+		"Min": 50277,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 11,
+		"Max": 246139,
+		"Min": 73842,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 11,
+		"Max": 360679,
+		"Min": 108204,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 12,
+		"Q": 2
+	},
+	{
+		"AttrId": 12,
+		"Q": 2
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 24,
+		"Min": 7,
+		"Q": 2
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 36,
+		"Min": 11,
+		"Q": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 62,
+		"Min": 19,
+		"Q": 2,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 118,
+		"Min": 35,
+		"Q": 2,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 212,
+		"Min": 64,
+		"Q": 2,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 360,
+		"Min": 108,
+		"Q": 2,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 575,
+		"Min": 173,
+		"Q": 2,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 921,
+		"Min": 276,
+		"Q": 2,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 12,
+		"Max": 1381,
+		"Min": 414,
+		"Q": 2,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 12,
+		"Max": 2072,
+		"Min": 622,
+		"Q": 2,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 12,
+		"Max": 2900,
+		"Min": 870,
+		"Q": 2,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 12,
+		"Max": 3770,
+		"Min": 1131,
+		"Q": 2,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 12,
+		"Max": 5512,
+		"Min": 1654,
+		"Q": 2,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 12,
+		"Max": 8039,
+		"Min": 2412,
+		"Q": 2,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 12,
+		"Max": 11926,
+		"Min": 3578,
+		"Q": 2,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 12,
+		"Max": 17671,
+		"Min": 5301,
+		"Q": 2,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 12,
+		"Max": 26142,
+		"Min": 7843,
+		"Q": 2,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 12,
+		"Max": 38615,
+		"Min": 11585,
+		"Q": 2,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 12,
+		"Max": 56937,
+		"Min": 17081,
+		"Q": 2,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 12,
+		"Max": 83795,
+		"Min": 25139,
+		"Q": 2,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 12,
+		"Max": 123070,
+		"Min": 36921,
+		"Q": 2,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 12,
+		"Max": 180340,
+		"Min": 54102,
+		"Q": 2,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 1,
+		"Q": 3
+	},
+	{
+		"AttrId": 1,
+		"Q": 3
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 619,
+		"Min": 186,
+		"Q": 3
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 928,
+		"Min": 278,
+		"Q": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 1608,
+		"Min": 482,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 3056,
+		"Min": 917,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 5501,
+		"Min": 1650,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 9351,
+		"Min": 2805,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 14961,
+		"Min": 4488,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 23938,
+		"Min": 7181,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 1,
+		"Max": 35907,
+		"Min": 10772,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 1,
+		"Max": 53861,
+		"Min": 16158,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 1,
+		"Max": 75405,
+		"Min": 22622,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 1,
+		"Max": 98026,
+		"Min": 29408,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 1,
+		"Max": 143321,
+		"Min": 42996,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 1,
+		"Max": 209004,
+		"Min": 62701,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 1,
+		"Max": 310087,
+		"Min": 93026,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 1,
+		"Max": 459453,
+		"Min": 137836,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 1,
+		"Max": 679697,
+		"Min": 203909,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 1,
+		"Max": 1003998,
+		"Min": 301199,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 1,
+		"Max": 1480364,
+		"Min": 444109,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 1,
+		"Max": 2178680,
+		"Min": 653604,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 1,
+		"Max": 3199811,
+		"Min": 959943,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 1,
+		"Max": 4688828,
+		"Min": 1406648,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 2,
+		"Q": 3
+	},
+	{
+		"AttrId": 2,
+		"Q": 3
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 124,
+		"Min": 37,
+		"Q": 3
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 186,
+		"Min": 56,
+		"Q": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 322,
+		"Min": 97,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 611,
+		"Min": 183,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1100,
+		"Min": 330,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1870,
+		"Min": 561,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 2992,
+		"Min": 898,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 4788,
+		"Min": 1436,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 2,
+		"Max": 7181,
+		"Min": 2154,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 2,
+		"Max": 10772,
+		"Min": 3232,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 2,
+		"Max": 15081,
+		"Min": 4524,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 2,
+		"Max": 19605,
+		"Min": 5882,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 2,
+		"Max": 28664,
+		"Min": 8599,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 2,
+		"Max": 41801,
+		"Min": 12540,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 2,
+		"Max": 62017,
+		"Min": 18605,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 2,
+		"Max": 91891,
+		"Min": 27567,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 2,
+		"Max": 135939,
+		"Min": 40782,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 2,
+		"Max": 200800,
+		"Min": 60240,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 2,
+		"Max": 296073,
+		"Min": 88822,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 2,
+		"Max": 435736,
+		"Min": 130721,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 2,
+		"Max": 639962,
+		"Min": 191989,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 2,
+		"Max": 937766,
+		"Min": 281330,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 3,
+		"Q": 3
+	},
+	{
+		"AttrId": 3,
+		"Q": 3
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 62,
+		"Min": 19,
+		"Q": 3
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 93,
+		"Min": 28,
+		"Q": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 161,
+		"Min": 48,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 306,
+		"Min": 92,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 550,
+		"Min": 165,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 935,
+		"Min": 281,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1496,
+		"Min": 449,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 2394,
+		"Min": 718,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 3,
+		"Max": 3591,
+		"Min": 1077,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 3,
+		"Max": 5386,
+		"Min": 1616,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 3,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 3,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 3,
+		"Max": 14332,
+		"Min": 4300,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 3,
+		"Max": 20900,
+		"Min": 6270,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 3,
+		"Max": 31009,
+		"Min": 9303,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 3,
+		"Max": 45945,
+		"Min": 13784,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 3,
+		"Max": 67970,
+		"Min": 20391,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 3,
+		"Max": 100400,
+		"Min": 30120,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 3,
+		"Max": 148036,
+		"Min": 44411,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 3,
+		"Max": 217868,
+		"Min": 65360,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 3,
+		"Max": 319981,
+		"Min": 95994,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 3,
+		"Max": 468883,
+		"Min": 140665,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 9,
+		"Q": 3
+	},
+	{
+		"AttrId": 9,
+		"Q": 3
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 62,
+		"Min": 19,
+		"Q": 3
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 93,
+		"Min": 28,
+		"Q": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 161,
+		"Min": 48,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 306,
+		"Min": 92,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 550,
+		"Min": 165,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 935,
+		"Min": 281,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1496,
+		"Min": 449,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 2394,
+		"Min": 718,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 9,
+		"Max": 3591,
+		"Min": 1077,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 9,
+		"Max": 5386,
+		"Min": 1616,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 9,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 9,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 9,
+		"Max": 14332,
+		"Min": 4300,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 9,
+		"Max": 20900,
+		"Min": 6270,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 9,
+		"Max": 31009,
+		"Min": 9303,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 9,
+		"Max": 45945,
+		"Min": 13784,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 9,
+		"Max": 67970,
+		"Min": 20391,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 9,
+		"Max": 100400,
+		"Min": 30120,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 9,
+		"Max": 148036,
+		"Min": 44411,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 9,
+		"Max": 217868,
+		"Min": 65360,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 9,
+		"Max": 319981,
+		"Min": 95994,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 9,
+		"Max": 468883,
+		"Min": 140665,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 10,
+		"Q": 3
+	},
+	{
+		"AttrId": 10,
+		"Q": 3
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 31,
+		"Min": 9,
+		"Q": 3
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 46,
+		"Min": 14,
+		"Q": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 80,
+		"Min": 24,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 153,
+		"Min": 46,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 275,
+		"Min": 83,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 468,
+		"Min": 140,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 748,
+		"Min": 224,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1197,
+		"Min": 359,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 10,
+		"Max": 1795,
+		"Min": 539,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 10,
+		"Max": 2693,
+		"Min": 808,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 10,
+		"Max": 3770,
+		"Min": 1131,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 10,
+		"Max": 4901,
+		"Min": 1470,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 10,
+		"Max": 7166,
+		"Min": 2150,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 10,
+		"Max": 10450,
+		"Min": 3135,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 10,
+		"Max": 15504,
+		"Min": 4651,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 10,
+		"Max": 22973,
+		"Min": 6892,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 10,
+		"Max": 33985,
+		"Min": 10196,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 10,
+		"Max": 50200,
+		"Min": 15060,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 10,
+		"Max": 74018,
+		"Min": 22205,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 10,
+		"Max": 108934,
+		"Min": 32680,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 10,
+		"Max": 159991,
+		"Min": 47997,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 10,
+		"Max": 234441,
+		"Min": 70332,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 11,
+		"Q": 3
+	},
+	{
+		"AttrId": 11,
+		"Q": 3
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 62,
+		"Min": 19,
+		"Q": 3
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 93,
+		"Min": 28,
+		"Q": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 161,
+		"Min": 48,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 306,
+		"Min": 92,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 550,
+		"Min": 165,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 935,
+		"Min": 281,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1496,
+		"Min": 449,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 2394,
+		"Min": 718,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 11,
+		"Max": 3591,
+		"Min": 1077,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 11,
+		"Max": 5386,
+		"Min": 1616,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 11,
+		"Max": 7540,
+		"Min": 2262,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 11,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 11,
+		"Max": 14332,
+		"Min": 4300,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 11,
+		"Max": 20900,
+		"Min": 6270,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 11,
+		"Max": 31009,
+		"Min": 9303,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 11,
+		"Max": 45945,
+		"Min": 13784,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 11,
+		"Max": 67970,
+		"Min": 20391,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 11,
+		"Max": 100400,
+		"Min": 30120,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 11,
+		"Max": 148036,
+		"Min": 44411,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 11,
+		"Max": 217868,
+		"Min": 65360,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 11,
+		"Max": 319981,
+		"Min": 95994,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 11,
+		"Max": 468883,
+		"Min": 140665,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 12,
+		"Q": 3
+	},
+	{
+		"AttrId": 12,
+		"Q": 3
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 31,
+		"Min": 9,
+		"Q": 3
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 46,
+		"Min": 14,
+		"Q": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 80,
+		"Min": 24,
+		"Q": 3,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 153,
+		"Min": 46,
+		"Q": 3,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 275,
+		"Min": 83,
+		"Q": 3,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 468,
+		"Min": 140,
+		"Q": 3,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 748,
+		"Min": 224,
+		"Q": 3,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1197,
+		"Min": 359,
+		"Q": 3,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 12,
+		"Max": 1795,
+		"Min": 539,
+		"Q": 3,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 12,
+		"Max": 2693,
+		"Min": 808,
+		"Q": 3,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 12,
+		"Max": 3770,
+		"Min": 1131,
+		"Q": 3,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 12,
+		"Max": 4901,
+		"Min": 1470,
+		"Q": 3,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 12,
+		"Max": 7166,
+		"Min": 2150,
+		"Q": 3,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 12,
+		"Max": 10450,
+		"Min": 3135,
+		"Q": 3,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 12,
+		"Max": 15504,
+		"Min": 4651,
+		"Q": 3,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 12,
+		"Max": 22973,
+		"Min": 6892,
+		"Q": 3,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 12,
+		"Max": 33985,
+		"Min": 10196,
+		"Q": 3,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 12,
+		"Max": 50200,
+		"Min": 15060,
+		"Q": 3,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 12,
+		"Max": 74018,
+		"Min": 22205,
+		"Q": 3,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 12,
+		"Max": 108934,
+		"Min": 32680,
+		"Q": 3,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 12,
+		"Max": 159991,
+		"Min": 47997,
+		"Q": 3,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 12,
+		"Max": 234441,
+		"Min": 70332,
+		"Q": 3,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 1,
+		"Q": 4
+	},
+	{
+		"AttrId": 1,
+		"Q": 4
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 804,
+		"Min": 241,
+		"Q": 4
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 1206,
+		"Min": 362,
+		"Q": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 2091,
+		"Min": 627,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 3973,
+		"Min": 1192,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 7151,
+		"Min": 2145,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 12156,
+		"Min": 3647,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 19450,
+		"Min": 5835,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 31119,
+		"Min": 9336,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 1,
+		"Max": 46679,
+		"Min": 14004,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 1,
+		"Max": 70019,
+		"Min": 21006,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 1,
+		"Max": 98026,
+		"Min": 29408,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 1,
+		"Max": 127434,
+		"Min": 38230,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 1,
+		"Max": 186317,
+		"Min": 55895,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 1,
+		"Max": 271705,
+		"Min": 81512,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 1,
+		"Max": 403113,
+		"Min": 120934,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 1,
+		"Max": 597288,
+		"Min": 179186,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 1,
+		"Max": 883606,
+		"Min": 265082,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 1,
+		"Max": 1305198,
+		"Min": 391559,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 1,
+		"Max": 1924473,
+		"Min": 577342,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 1,
+		"Max": 2832285,
+		"Min": 849686,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 1,
+		"Max": 4159754,
+		"Min": 1247926,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 1,
+		"Max": 6095477,
+		"Min": 1828643,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 2,
+		"Q": 4
+	},
+	{
+		"AttrId": 2,
+		"Q": 4
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 161,
+		"Min": 48,
+		"Q": 4
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 241,
+		"Min": 72,
+		"Q": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 418,
+		"Min": 125,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 795,
+		"Min": 239,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1430,
+		"Min": 429,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 2431,
+		"Min": 729,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 3890,
+		"Min": 1167,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 6224,
+		"Min": 1867,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 2,
+		"Max": 9336,
+		"Min": 2801,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 2,
+		"Max": 14004,
+		"Min": 4201,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 2,
+		"Max": 19605,
+		"Min": 5882,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 2,
+		"Max": 25487,
+		"Min": 7646,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 2,
+		"Max": 37263,
+		"Min": 11179,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 2,
+		"Max": 54341,
+		"Min": 16302,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 2,
+		"Max": 80623,
+		"Min": 24187,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 2,
+		"Max": 119458,
+		"Min": 35837,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 2,
+		"Max": 176721,
+		"Min": 53016,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 2,
+		"Max": 261040,
+		"Min": 78312,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 2,
+		"Max": 384895,
+		"Min": 115469,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 2,
+		"Max": 566457,
+		"Min": 169937,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 2,
+		"Max": 831951,
+		"Min": 249585,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 2,
+		"Max": 1219095,
+		"Min": 365729,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 3,
+		"Q": 4
+	},
+	{
+		"AttrId": 3,
+		"Q": 4
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 80,
+		"Min": 24,
+		"Q": 4
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 121,
+		"Min": 36,
+		"Q": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 209,
+		"Min": 63,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 397,
+		"Min": 119,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 715,
+		"Min": 215,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1216,
+		"Min": 365,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1945,
+		"Min": 584,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 3112,
+		"Min": 934,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 3,
+		"Max": 4668,
+		"Min": 1400,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 3,
+		"Max": 7002,
+		"Min": 2101,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 3,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 3,
+		"Max": 12743,
+		"Min": 3823,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 3,
+		"Max": 18632,
+		"Min": 5590,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 3,
+		"Max": 27171,
+		"Min": 8151,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 3,
+		"Max": 40311,
+		"Min": 12093,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 3,
+		"Max": 59729,
+		"Min": 17919,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 3,
+		"Max": 88361,
+		"Min": 26508,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 3,
+		"Max": 130520,
+		"Min": 39156,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 3,
+		"Max": 192447,
+		"Min": 57734,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 3,
+		"Max": 283228,
+		"Min": 84968,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 3,
+		"Max": 415975,
+		"Min": 124793,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 3,
+		"Max": 609548,
+		"Min": 182864,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 9,
+		"Q": 4
+	},
+	{
+		"AttrId": 9,
+		"Q": 4
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 80,
+		"Min": 24,
+		"Q": 4
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 121,
+		"Min": 36,
+		"Q": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 209,
+		"Min": 63,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 397,
+		"Min": 119,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 715,
+		"Min": 215,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1216,
+		"Min": 365,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1945,
+		"Min": 584,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 3112,
+		"Min": 934,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 9,
+		"Max": 4668,
+		"Min": 1400,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 9,
+		"Max": 7002,
+		"Min": 2101,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 9,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 9,
+		"Max": 12743,
+		"Min": 3823,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 9,
+		"Max": 18632,
+		"Min": 5590,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 9,
+		"Max": 27171,
+		"Min": 8151,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 9,
+		"Max": 40311,
+		"Min": 12093,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 9,
+		"Max": 59729,
+		"Min": 17919,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 9,
+		"Max": 88361,
+		"Min": 26508,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 9,
+		"Max": 130520,
+		"Min": 39156,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 9,
+		"Max": 192447,
+		"Min": 57734,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 9,
+		"Max": 283228,
+		"Min": 84968,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 9,
+		"Max": 415975,
+		"Min": 124793,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 9,
+		"Max": 609548,
+		"Min": 182864,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 10,
+		"Q": 4
+	},
+	{
+		"AttrId": 10,
+		"Q": 4
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 40,
+		"Min": 12,
+		"Q": 4
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 60,
+		"Min": 18,
+		"Q": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 105,
+		"Min": 32,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 199,
+		"Min": 60,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 358,
+		"Min": 107,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 608,
+		"Min": 182,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 972,
+		"Min": 292,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1556,
+		"Min": 467,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 10,
+		"Max": 2334,
+		"Min": 700,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 10,
+		"Max": 3501,
+		"Min": 1050,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 10,
+		"Max": 4901,
+		"Min": 1470,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 10,
+		"Max": 6372,
+		"Min": 1912,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 10,
+		"Max": 9316,
+		"Min": 2795,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 10,
+		"Max": 13585,
+		"Min": 4076,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 10,
+		"Max": 20156,
+		"Min": 6047,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 10,
+		"Max": 29864,
+		"Min": 8959,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 10,
+		"Max": 44180,
+		"Min": 13254,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 10,
+		"Max": 65260,
+		"Min": 19578,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 10,
+		"Max": 96224,
+		"Min": 28867,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 10,
+		"Max": 141614,
+		"Min": 42484,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 10,
+		"Max": 207988,
+		"Min": 62396,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 10,
+		"Max": 304774,
+		"Min": 91432,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 11,
+		"Q": 4
+	},
+	{
+		"AttrId": 11,
+		"Q": 4
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 80,
+		"Min": 24,
+		"Q": 4
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 121,
+		"Min": 36,
+		"Q": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 209,
+		"Min": 63,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 397,
+		"Min": 119,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 715,
+		"Min": 215,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1216,
+		"Min": 365,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1945,
+		"Min": 584,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 3112,
+		"Min": 934,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 11,
+		"Max": 4668,
+		"Min": 1400,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 11,
+		"Max": 7002,
+		"Min": 2101,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 11,
+		"Max": 9803,
+		"Min": 2941,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 11,
+		"Max": 12743,
+		"Min": 3823,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 11,
+		"Max": 18632,
+		"Min": 5590,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 11,
+		"Max": 27171,
+		"Min": 8151,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 11,
+		"Max": 40311,
+		"Min": 12093,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 11,
+		"Max": 59729,
+		"Min": 17919,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 11,
+		"Max": 88361,
+		"Min": 26508,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 11,
+		"Max": 130520,
+		"Min": 39156,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 11,
+		"Max": 192447,
+		"Min": 57734,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 11,
+		"Max": 283228,
+		"Min": 84968,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 11,
+		"Max": 415975,
+		"Min": 124793,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 11,
+		"Max": 609548,
+		"Min": 182864,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 12,
+		"Q": 4
+	},
+	{
+		"AttrId": 12,
+		"Q": 4
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 40,
+		"Min": 12,
+		"Q": 4
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 60,
+		"Min": 18,
+		"Q": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 105,
+		"Min": 32,
+		"Q": 4,
+		"Reborn": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 199,
+		"Min": 60,
+		"Q": 4,
+		"Reborn": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 358,
+		"Min": 107,
+		"Q": 4,
+		"Reborn": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 608,
+		"Min": 182,
+		"Q": 4,
+		"Reborn": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 972,
+		"Min": 292,
+		"Q": 4,
+		"Reborn": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1556,
+		"Min": 467,
+		"Q": 4,
+		"Reborn": 6
+	},
+	{
+		"AttrId": 12,
+		"Max": 2334,
+		"Min": 700,
+		"Q": 4,
+		"Reborn": 7
+	},
+	{
+		"AttrId": 12,
+		"Max": 3501,
+		"Min": 1050,
+		"Q": 4,
+		"Reborn": 8
+	},
+	{
+		"AttrId": 12,
+		"Max": 4901,
+		"Min": 1470,
+		"Q": 4,
+		"Reborn": 9
+	},
+	{
+		"AttrId": 12,
+		"Max": 6372,
+		"Min": 1912,
+		"Q": 4,
+		"Reborn": 10
+	},
+	{
+		"AttrId": 12,
+		"Max": 9316,
+		"Min": 2795,
+		"Q": 4,
+		"Reborn": 11
+	},
+	{
+		"AttrId": 12,
+		"Max": 13585,
+		"Min": 4076,
+		"Q": 4,
+		"Reborn": 12
+	},
+	{
+		"AttrId": 12,
+		"Max": 20156,
+		"Min": 6047,
+		"Q": 4,
+		"Reborn": 13
+	},
+	{
+		"AttrId": 12,
+		"Max": 29864,
+		"Min": 8959,
+		"Q": 4,
+		"Reborn": 14
+	},
+	{
+		"AttrId": 12,
+		"Max": 44180,
+		"Min": 13254,
+		"Q": 4,
+		"Reborn": 15
+	},
+	{
+		"AttrId": 12,
+		"Max": 65260,
+		"Min": 19578,
+		"Q": 4,
+		"Reborn": 16
+	},
+	{
+		"AttrId": 12,
+		"Max": 96224,
+		"Min": 28867,
+		"Q": 4,
+		"Reborn": 17
+	},
+	{
+		"AttrId": 12,
+		"Max": 141614,
+		"Min": 42484,
+		"Q": 4,
+		"Reborn": 18
+	},
+	{
+		"AttrId": 12,
+		"Max": 207988,
+		"Min": 62396,
+		"Q": 4,
+		"Reborn": 19
+	},
+	{
+		"AttrId": 12,
+		"Max": 304774,
+		"Min": 91432,
+		"Q": 4,
+		"Reborn": 20
+	},
+	{
+		"AttrId": 1,
+		"Q": 5
+	},
+	{
+		"AttrId": 1,
+		"Q": 5
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 2013,
+		"Min": 604,
+		"Q": 5
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 3020,
+		"Min": 906,
+		"Q": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 4026,
+		"Min": 1208,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 4429,
+		"Min": 1329,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 4832,
+		"Min": 1450,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 5234,
+		"Min": 1570,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 6040,
+		"Min": 1812,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 7650,
+		"Min": 2295,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 8415,
+		"Min": 2525,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 9180,
+		"Min": 2754,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 9945,
+		"Min": 2984,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 11475,
+		"Min": 3443,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 13770,
+		"Min": 4131,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 15147,
+		"Min": 4544,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 16524,
+		"Min": 4957,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 17901,
+		"Min": 5370,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 20655,
+		"Min": 6197,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 23409,
+		"Min": 7023,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 25750,
+		"Min": 7725,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 28091,
+		"Min": 8427,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 30432,
+		"Min": 9130,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 35113,
+		"Min": 10534,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 37454,
+		"Min": 11236,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 41200,
+		"Min": 12360,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 44945,
+		"Min": 13484,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 48691,
+		"Min": 14607,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 56181,
+		"Min": 16854,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 59927,
+		"Min": 17978,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 65919,
+		"Min": 19776,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 71912,
+		"Min": 21574,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 77905,
+		"Min": 23372,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 89890,
+		"Min": 26967,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 89890,
+		"Min": 26967,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 98879,
+		"Min": 29664,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 107868,
+		"Min": 32360,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 116857,
+		"Min": 35057,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 134835,
+		"Min": 40451,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 134835,
+		"Min": 40451,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 148319,
+		"Min": 44496,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 161802,
+		"Min": 48541,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 175286,
+		"Min": 52586,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 202253,
+		"Min": 60676,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 188769,
+		"Min": 56631,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 207646,
+		"Min": 62294,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 226523,
+		"Min": 67957,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 245400,
+		"Min": 73620,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 283154,
+		"Min": 84946,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 245400,
+		"Min": 73620,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 269940,
+		"Min": 80982,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 294480,
+		"Min": 88344,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 319020,
+		"Min": 95706,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 368100,
+		"Min": 110430,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 380734,
+		"Min": 114220,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 407378,
+		"Min": 122213,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 435870,
+		"Min": 130761,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 466429,
+		"Min": 139929,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 499054,
+		"Min": 149716,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 525210,
+		"Min": 157563,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 572460,
+		"Min": 171738,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 624015,
+		"Min": 187205,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 680190,
+		"Min": 204057,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 741405,
+		"Min": 222422,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 779220,
+		"Min": 233766,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 849386,
+		"Min": 254816,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 925830,
+		"Min": 277749,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 1009159,
+		"Min": 302748,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 1099980,
+		"Min": 329994,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 1154595,
+		"Min": 346379,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 1258530,
+		"Min": 377559,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 1371825,
+		"Min": 411548,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 1495260,
+		"Min": 448578,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 1629810,
+		"Min": 488943,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 1708125,
+		"Min": 512438,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 1861875,
+		"Min": 558563,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 2029406,
+		"Min": 608822,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 2212031,
+		"Min": 663609,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 2411156,
+		"Min": 723347,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 2523060,
+		"Min": 756918,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 2750130,
+		"Min": 825039,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 2997630,
+		"Min": 899289,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 3267450,
+		"Min": 980235,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 3561480,
+		"Min": 1068444,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 3720221,
+		"Min": 1116066,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 4055044,
+		"Min": 1216513,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 4419968,
+		"Min": 1325990,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 4817753,
+		"Min": 1445326,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 5251331,
+		"Min": 1575399,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 5475113,
+		"Min": 1642534,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 5967885,
+		"Min": 1790366,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 6504960,
+		"Min": 1951488,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 7090380,
+		"Min": 2127114,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 7728518,
+		"Min": 2318555,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 8041163,
+		"Min": 2412349,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 8764875,
+		"Min": 2629463,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 9553714,
+		"Min": 2866114,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 10413585,
+		"Min": 3124076,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 11350789,
+		"Min": 3405237,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 11783175,
+		"Min": 3534953,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 12843675,
+		"Min": 3853103,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 13999575,
+		"Min": 4199873,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 15259500,
+		"Min": 4577850,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 16632825,
+		"Min": 4989848,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Q": 5
+	},
+	{
+		"AttrId": 2,
+		"Q": 5
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 403,
+		"Min": 121,
+		"Q": 5
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 604,
+		"Min": 181,
+		"Q": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 805,
+		"Min": 242,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 886,
+		"Min": 266,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 966,
+		"Min": 290,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1047,
+		"Min": 314,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1208,
+		"Min": 362,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 1530,
+		"Min": 459,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1683,
+		"Min": 505,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1836,
+		"Min": 551,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1989,
+		"Min": 597,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 2295,
+		"Min": 689,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 2754,
+		"Min": 826,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 3029,
+		"Min": 909,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 3305,
+		"Min": 992,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 3580,
+		"Min": 1074,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 4131,
+		"Min": 1239,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 4682,
+		"Min": 1405,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 5150,
+		"Min": 1545,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 6086,
+		"Min": 1826,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 7023,
+		"Min": 2107,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 7491,
+		"Min": 2247,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 8240,
+		"Min": 2472,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 9738,
+		"Min": 2921,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 11236,
+		"Min": 3371,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 11985,
+		"Min": 3596,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 13184,
+		"Min": 3955,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 14382,
+		"Min": 4315,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 15581,
+		"Min": 4674,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 17978,
+		"Min": 5393,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 17978,
+		"Min": 5393,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 19776,
+		"Min": 5933,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 21574,
+		"Min": 6472,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 23371,
+		"Min": 7011,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 26967,
+		"Min": 8090,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 26967,
+		"Min": 8090,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 29664,
+		"Min": 8899,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 32360,
+		"Min": 9708,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 35057,
+		"Min": 10517,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 40451,
+		"Min": 12135,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 37754,
+		"Min": 11326,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 41529,
+		"Min": 12459,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 45305,
+		"Min": 13592,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 49080,
+		"Min": 14724,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 56631,
+		"Min": 16989,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 49080,
+		"Min": 14724,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 53988,
+		"Min": 16196,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 58896,
+		"Min": 17669,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 63804,
+		"Min": 19141,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 73620,
+		"Min": 22086,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 76147,
+		"Min": 22844,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 81476,
+		"Min": 24443,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 87174,
+		"Min": 26152,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 93286,
+		"Min": 27986,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 99811,
+		"Min": 29943,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 105042,
+		"Min": 31513,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 114492,
+		"Min": 34348,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 124803,
+		"Min": 37441,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 136038,
+		"Min": 40811,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 148281,
+		"Min": 44484,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 155844,
+		"Min": 46753,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 169877,
+		"Min": 50963,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 185166,
+		"Min": 55550,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 201832,
+		"Min": 60550,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 219996,
+		"Min": 65999,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 230919,
+		"Min": 69276,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 251706,
+		"Min": 75512,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 274365,
+		"Min": 82310,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 299052,
+		"Min": 89716,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 325962,
+		"Min": 97789,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 341625,
+		"Min": 102488,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 372375,
+		"Min": 111713,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 405881,
+		"Min": 121764,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 442406,
+		"Min": 132722,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 482231,
+		"Min": 144669,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 504612,
+		"Min": 151384,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 550026,
+		"Min": 165008,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 599526,
+		"Min": 179858,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 653490,
+		"Min": 196047,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 712296,
+		"Min": 213689,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 744044,
+		"Min": 223213,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 811009,
+		"Min": 243303,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 883994,
+		"Min": 265198,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 963551,
+		"Min": 289065,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1050266,
+		"Min": 315080,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 1095023,
+		"Min": 328507,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1193577,
+		"Min": 358073,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1300992,
+		"Min": 390298,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1418076,
+		"Min": 425423,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1545704,
+		"Min": 463711,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 1608233,
+		"Min": 482470,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1752975,
+		"Min": 525893,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1910743,
+		"Min": 573223,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 2082717,
+		"Min": 624815,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 2270158,
+		"Min": 681047,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 2356635,
+		"Min": 706991,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 2568735,
+		"Min": 770621,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 2799915,
+		"Min": 839975,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 3051900,
+		"Min": 915570,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 3326565,
+		"Min": 997970,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Q": 5
+	},
+	{
+		"AttrId": 3,
+		"Q": 5
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 201,
+		"Min": 60,
+		"Q": 5
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 302,
+		"Min": 91,
+		"Q": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 403,
+		"Min": 121,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 443,
+		"Min": 133,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 483,
+		"Min": 145,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 523,
+		"Min": 157,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 604,
+		"Min": 181,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 765,
+		"Min": 230,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 842,
+		"Min": 253,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 918,
+		"Min": 275,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 994,
+		"Min": 298,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1147,
+		"Min": 344,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 1515,
+		"Min": 455,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 1652,
+		"Min": 496,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1790,
+		"Min": 537,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 2341,
+		"Min": 702,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 2575,
+		"Min": 773,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 3043,
+		"Min": 913,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 3745,
+		"Min": 1124,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 4120,
+		"Min": 1236,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 4869,
+		"Min": 1461,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 5993,
+		"Min": 1798,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 6592,
+		"Min": 1978,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 7191,
+		"Min": 2157,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 7790,
+		"Min": 2337,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 18877,
+		"Min": 5663,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 20765,
+		"Min": 6230,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 22652,
+		"Min": 6796,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 26994,
+		"Min": 8098,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 29448,
+		"Min": 8834,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 31902,
+		"Min": 9571,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 38073,
+		"Min": 11422,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 40738,
+		"Min": 12221,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 43587,
+		"Min": 13076,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 46643,
+		"Min": 13993,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 49905,
+		"Min": 14972,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 52521,
+		"Min": 15756,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 57246,
+		"Min": 17174,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 62402,
+		"Min": 18721,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 68019,
+		"Min": 20406,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 74141,
+		"Min": 22242,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 77922,
+		"Min": 23377,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 84939,
+		"Min": 25482,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 92583,
+		"Min": 27775,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 100916,
+		"Min": 30275,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 109998,
+		"Min": 32999,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 115460,
+		"Min": 34638,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 125853,
+		"Min": 37756,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 137183,
+		"Min": 41155,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 149526,
+		"Min": 44858,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 162981,
+		"Min": 48894,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 170813,
+		"Min": 51244,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 186188,
+		"Min": 55856,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 202941,
+		"Min": 60882,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 221203,
+		"Min": 66361,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 241116,
+		"Min": 72335,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 252306,
+		"Min": 75692,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 275013,
+		"Min": 82504,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 299763,
+		"Min": 89929,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 326745,
+		"Min": 98024,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 356148,
+		"Min": 106844,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 372022,
+		"Min": 111607,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 405504,
+		"Min": 121651,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 441997,
+		"Min": 132599,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 481775,
+		"Min": 144533,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 525133,
+		"Min": 157540,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 547511,
+		"Min": 164253,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 596789,
+		"Min": 179037,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 650496,
+		"Min": 195149,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 709038,
+		"Min": 212711,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 772852,
+		"Min": 231856,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 804116,
+		"Min": 241235,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 876488,
+		"Min": 262946,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 955371,
+		"Min": 286611,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1041359,
+		"Min": 312408,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1135079,
+		"Min": 340524,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1178318,
+		"Min": 353495,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 1284368,
+		"Min": 385310,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 1399958,
+		"Min": 419987,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1525950,
+		"Min": 457785,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1663283,
+		"Min": 498985,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Q": 5
+	},
+	{
+		"AttrId": 9,
+		"Q": 5
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 201,
+		"Min": 60,
+		"Q": 5
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 302,
+		"Min": 91,
+		"Q": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 403,
+		"Min": 121,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 443,
+		"Min": 133,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 483,
+		"Min": 145,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 523,
+		"Min": 157,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 604,
+		"Min": 181,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 765,
+		"Min": 230,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 842,
+		"Min": 253,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 918,
+		"Min": 275,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 994,
+		"Min": 298,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1147,
+		"Min": 344,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 1515,
+		"Min": 455,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 1652,
+		"Min": 496,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1790,
+		"Min": 537,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 2341,
+		"Min": 702,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 2575,
+		"Min": 773,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 3043,
+		"Min": 913,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 3745,
+		"Min": 1124,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 4120,
+		"Min": 1236,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 4869,
+		"Min": 1461,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 5993,
+		"Min": 1798,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 6592,
+		"Min": 1978,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 7191,
+		"Min": 2157,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 7790,
+		"Min": 2337,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 18877,
+		"Min": 5663,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 20765,
+		"Min": 6230,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 22652,
+		"Min": 6796,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 26994,
+		"Min": 8098,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 29448,
+		"Min": 8834,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 31902,
+		"Min": 9571,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 38073,
+		"Min": 11422,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 40738,
+		"Min": 12221,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 43587,
+		"Min": 13076,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 46643,
+		"Min": 13993,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 49905,
+		"Min": 14972,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 52521,
+		"Min": 15756,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 57246,
+		"Min": 17174,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 62402,
+		"Min": 18721,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 68019,
+		"Min": 20406,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 74141,
+		"Min": 22242,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 77922,
+		"Min": 23377,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 84939,
+		"Min": 25482,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 92583,
+		"Min": 27775,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 100916,
+		"Min": 30275,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 109998,
+		"Min": 32999,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 115460,
+		"Min": 34638,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 125853,
+		"Min": 37756,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 137183,
+		"Min": 41155,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 149526,
+		"Min": 44858,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 162981,
+		"Min": 48894,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 170813,
+		"Min": 51244,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 186188,
+		"Min": 55856,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 202941,
+		"Min": 60882,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 221203,
+		"Min": 66361,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 241116,
+		"Min": 72335,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 252306,
+		"Min": 75692,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 275013,
+		"Min": 82504,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 299763,
+		"Min": 89929,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 326745,
+		"Min": 98024,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 356148,
+		"Min": 106844,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 372022,
+		"Min": 111607,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 405504,
+		"Min": 121651,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 441997,
+		"Min": 132599,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 481775,
+		"Min": 144533,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 525133,
+		"Min": 157540,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 547511,
+		"Min": 164253,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 596789,
+		"Min": 179037,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 650496,
+		"Min": 195149,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 709038,
+		"Min": 212711,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 772852,
+		"Min": 231856,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 804116,
+		"Min": 241235,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 876488,
+		"Min": 262946,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 955371,
+		"Min": 286611,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1041359,
+		"Min": 312408,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1135079,
+		"Min": 340524,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1178318,
+		"Min": 353495,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 1284368,
+		"Min": 385310,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 1399958,
+		"Min": 419987,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1525950,
+		"Min": 457785,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1663283,
+		"Min": 498985,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Q": 5
+	},
+	{
+		"AttrId": 10,
+		"Q": 5
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 101,
+		"Min": 30,
+		"Q": 5
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 151,
+		"Min": 45,
+		"Q": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 201,
+		"Min": 60,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 221,
+		"Min": 66,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 242,
+		"Min": 73,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 262,
+		"Min": 79,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 302,
+		"Min": 91,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 383,
+		"Min": 115,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 421,
+		"Min": 126,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 459,
+		"Min": 138,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 497,
+		"Min": 149,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 574,
+		"Min": 172,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 688,
+		"Min": 206,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 757,
+		"Min": 227,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 826,
+		"Min": 248,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 895,
+		"Min": 269,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 1033,
+		"Min": 310,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1170,
+		"Min": 351,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 1287,
+		"Min": 386,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 1405,
+		"Min": 422,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 1522,
+		"Min": 457,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 1756,
+		"Min": 527,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1873,
+		"Min": 562,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 2060,
+		"Min": 618,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 2247,
+		"Min": 674,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 2435,
+		"Min": 731,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 2996,
+		"Min": 899,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 3296,
+		"Min": 989,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 3596,
+		"Min": 1079,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 3895,
+		"Min": 1169,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 4944,
+		"Min": 1483,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 5393,
+		"Min": 1618,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 5843,
+		"Min": 1753,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 7416,
+		"Min": 2225,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 8090,
+		"Min": 2427,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 8764,
+		"Min": 2629,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 9438,
+		"Min": 2831,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 10382,
+		"Min": 3115,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 11326,
+		"Min": 3398,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 12270,
+		"Min": 3681,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 14158,
+		"Min": 4247,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 12270,
+		"Min": 3681,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 13497,
+		"Min": 4049,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 14724,
+		"Min": 4417,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 15951,
+		"Min": 4785,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 19037,
+		"Min": 5711,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 20369,
+		"Min": 6111,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 21794,
+		"Min": 6538,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 23321,
+		"Min": 6996,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 24953,
+		"Min": 7486,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 26261,
+		"Min": 7878,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 28623,
+		"Min": 8587,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 31201,
+		"Min": 9360,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 34010,
+		"Min": 10203,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 37070,
+		"Min": 11121,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 38961,
+		"Min": 11688,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 42469,
+		"Min": 12741,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 46292,
+		"Min": 13888,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 50458,
+		"Min": 15137,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 54999,
+		"Min": 16500,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 57730,
+		"Min": 17319,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 62927,
+		"Min": 18878,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 68591,
+		"Min": 20577,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 74763,
+		"Min": 22429,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 81491,
+		"Min": 24447,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 85406,
+		"Min": 25622,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 93094,
+		"Min": 27928,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 101470,
+		"Min": 30441,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 110602,
+		"Min": 33181,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 120558,
+		"Min": 36167,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 126153,
+		"Min": 37846,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 137507,
+		"Min": 41252,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 149882,
+		"Min": 44965,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 163373,
+		"Min": 49012,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 178074,
+		"Min": 53422,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 186011,
+		"Min": 55803,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 202752,
+		"Min": 60826,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 220998,
+		"Min": 66299,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 240888,
+		"Min": 72266,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 262567,
+		"Min": 78770,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 273756,
+		"Min": 82127,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 298394,
+		"Min": 89518,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 325248,
+		"Min": 97574,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 354519,
+		"Min": 106356,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 386426,
+		"Min": 115928,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 402058,
+		"Min": 120617,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 438244,
+		"Min": 131473,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 477686,
+		"Min": 143306,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 520679,
+		"Min": 156204,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 567539,
+		"Min": 170262,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 589159,
+		"Min": 176748,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 642184,
+		"Min": 192655,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 699979,
+		"Min": 209994,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 762975,
+		"Min": 228893,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 831641,
+		"Min": 249492,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Q": 5
+	},
+	{
+		"AttrId": 11,
+		"Q": 5
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 201,
+		"Min": 60,
+		"Q": 5
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 302,
+		"Min": 91,
+		"Q": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 403,
+		"Min": 121,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 443,
+		"Min": 133,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 483,
+		"Min": 145,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 523,
+		"Min": 157,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 604,
+		"Min": 181,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 765,
+		"Min": 230,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 842,
+		"Min": 253,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 918,
+		"Min": 275,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 994,
+		"Min": 298,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1147,
+		"Min": 344,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 1515,
+		"Min": 455,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 1652,
+		"Min": 496,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1790,
+		"Min": 537,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 2341,
+		"Min": 702,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 2575,
+		"Min": 773,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 3043,
+		"Min": 913,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 3745,
+		"Min": 1124,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 4120,
+		"Min": 1236,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 4869,
+		"Min": 1461,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 5993,
+		"Min": 1798,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 6592,
+		"Min": 1978,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 7191,
+		"Min": 2157,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 7790,
+		"Min": 2337,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 18877,
+		"Min": 5663,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 20765,
+		"Min": 6230,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 22652,
+		"Min": 6796,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 24540,
+		"Min": 7362,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 26994,
+		"Min": 8098,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 29448,
+		"Min": 8834,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 31902,
+		"Min": 9571,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 38073,
+		"Min": 11422,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 40738,
+		"Min": 12221,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 43587,
+		"Min": 13076,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 46643,
+		"Min": 13993,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 49905,
+		"Min": 14972,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 52521,
+		"Min": 15756,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 57246,
+		"Min": 17174,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 62402,
+		"Min": 18721,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 68019,
+		"Min": 20406,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 74141,
+		"Min": 22242,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 77922,
+		"Min": 23377,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 84939,
+		"Min": 25482,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 92583,
+		"Min": 27775,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 100916,
+		"Min": 30275,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 109998,
+		"Min": 32999,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 115460,
+		"Min": 34638,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 125853,
+		"Min": 37756,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 137183,
+		"Min": 41155,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 149526,
+		"Min": 44858,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 162981,
+		"Min": 48894,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 170813,
+		"Min": 51244,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 186188,
+		"Min": 55856,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 202941,
+		"Min": 60882,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 221203,
+		"Min": 66361,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 241116,
+		"Min": 72335,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 252306,
+		"Min": 75692,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 275013,
+		"Min": 82504,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 299763,
+		"Min": 89929,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 326745,
+		"Min": 98024,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 356148,
+		"Min": 106844,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 372022,
+		"Min": 111607,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 405504,
+		"Min": 121651,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 441997,
+		"Min": 132599,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 481775,
+		"Min": 144533,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 525133,
+		"Min": 157540,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 547511,
+		"Min": 164253,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 596789,
+		"Min": 179037,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 650496,
+		"Min": 195149,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 709038,
+		"Min": 212711,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 772852,
+		"Min": 231856,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 804116,
+		"Min": 241235,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 876488,
+		"Min": 262946,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 955371,
+		"Min": 286611,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1041359,
+		"Min": 312408,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1135079,
+		"Min": 340524,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1178318,
+		"Min": 353495,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 1284368,
+		"Min": 385310,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 1399958,
+		"Min": 419987,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1525950,
+		"Min": 457785,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1663283,
+		"Min": 498985,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Q": 5
+	},
+	{
+		"AttrId": 12,
+		"Q": 5
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 101,
+		"Min": 30,
+		"Q": 5
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 151,
+		"Min": 45,
+		"Q": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 201,
+		"Min": 60,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 221,
+		"Min": 66,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 242,
+		"Min": 73,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 262,
+		"Min": 79,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 302,
+		"Min": 91,
+		"Q": 5,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 383,
+		"Min": 115,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 421,
+		"Min": 126,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 459,
+		"Min": 138,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 497,
+		"Min": 149,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 574,
+		"Min": 172,
+		"Q": 5,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 688,
+		"Min": 206,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 757,
+		"Min": 227,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 826,
+		"Min": 248,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 895,
+		"Min": 269,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 1033,
+		"Min": 310,
+		"Q": 5,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1170,
+		"Min": 351,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 1287,
+		"Min": 386,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 1405,
+		"Min": 422,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 1522,
+		"Min": 457,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 1756,
+		"Min": 527,
+		"Q": 5,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1873,
+		"Min": 562,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 2060,
+		"Min": 618,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 2247,
+		"Min": 674,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 2435,
+		"Min": 731,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 5,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 2996,
+		"Min": 899,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 3296,
+		"Min": 989,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 3596,
+		"Min": 1079,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 3895,
+		"Min": 1169,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 4944,
+		"Min": 1483,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 5393,
+		"Min": 1618,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 5843,
+		"Min": 1753,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 5,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 7416,
+		"Min": 2225,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 8090,
+		"Min": 2427,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 8764,
+		"Min": 2629,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 5,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 9438,
+		"Min": 2831,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 10382,
+		"Min": 3115,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 11326,
+		"Min": 3398,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 12270,
+		"Min": 3681,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 14158,
+		"Min": 4247,
+		"Q": 5,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 12270,
+		"Min": 3681,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 13497,
+		"Min": 4049,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 14724,
+		"Min": 4417,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 15951,
+		"Min": 4785,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 5,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 19037,
+		"Min": 5711,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 20369,
+		"Min": 6111,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 21794,
+		"Min": 6538,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 23321,
+		"Min": 6996,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 24953,
+		"Min": 7486,
+		"Q": 5,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 26261,
+		"Min": 7878,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 28623,
+		"Min": 8587,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 31201,
+		"Min": 9360,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 34010,
+		"Min": 10203,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 37070,
+		"Min": 11121,
+		"Q": 5,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 38961,
+		"Min": 11688,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 42469,
+		"Min": 12741,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 46292,
+		"Min": 13888,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 50458,
+		"Min": 15137,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 54999,
+		"Min": 16500,
+		"Q": 5,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 57730,
+		"Min": 17319,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 62927,
+		"Min": 18878,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 68591,
+		"Min": 20577,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 74763,
+		"Min": 22429,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 81491,
+		"Min": 24447,
+		"Q": 5,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 85406,
+		"Min": 25622,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 93094,
+		"Min": 27928,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 101470,
+		"Min": 30441,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 110602,
+		"Min": 33181,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 120558,
+		"Min": 36167,
+		"Q": 5,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 126153,
+		"Min": 37846,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 137507,
+		"Min": 41252,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 149882,
+		"Min": 44965,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 163373,
+		"Min": 49012,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 178074,
+		"Min": 53422,
+		"Q": 5,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 186011,
+		"Min": 55803,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 202752,
+		"Min": 60826,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 220998,
+		"Min": 66299,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 240888,
+		"Min": 72266,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 262567,
+		"Min": 78770,
+		"Q": 5,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 273756,
+		"Min": 82127,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 298394,
+		"Min": 89518,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 325248,
+		"Min": 97574,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 354519,
+		"Min": 106356,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 386426,
+		"Min": 115928,
+		"Q": 5,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 402058,
+		"Min": 120617,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 438244,
+		"Min": 131473,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 477686,
+		"Min": 143306,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 520679,
+		"Min": 156204,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 567539,
+		"Min": 170262,
+		"Q": 5,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 589159,
+		"Min": 176748,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 642184,
+		"Min": 192655,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 699979,
+		"Min": 209994,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 762975,
+		"Min": 228893,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 831641,
+		"Min": 249492,
+		"Q": 5,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Q": 6
+	},
+	{
+		"AttrId": 1,
+		"Q": 6
+	},
+	{
+		"AttrId": 1,
+		"Level": 1,
+		"Max": 3020,
+		"Min": 906,
+		"Q": 6
+	},
+	{
+		"AttrId": 1,
+		"Level": 20,
+		"Max": 4530,
+		"Min": 1359,
+		"Q": 6
+	},
+	{
+		"AttrId": 1,
+		"Max": 6040,
+		"Min": 1812,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 6643,
+		"Min": 1993,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 7247,
+		"Min": 2174,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 7851,
+		"Min": 2355,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 9059,
+		"Min": 2718,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 11475,
+		"Min": 3443,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 12623,
+		"Min": 3787,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 13770,
+		"Min": 4131,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 14917,
+		"Min": 4475,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 17212,
+		"Min": 5164,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 20655,
+		"Min": 6197,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 22720,
+		"Min": 6816,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 24786,
+		"Min": 7436,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 26851,
+		"Min": 8055,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 30982,
+		"Min": 9295,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 35113,
+		"Min": 10534,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 38625,
+		"Min": 11588,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 42136,
+		"Min": 12641,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 45647,
+		"Min": 13694,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 52670,
+		"Min": 15801,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 56181,
+		"Min": 16854,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 61800,
+		"Min": 18540,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 67418,
+		"Min": 20225,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 73036,
+		"Min": 21911,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 84272,
+		"Min": 25282,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 89890,
+		"Min": 26967,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 98879,
+		"Min": 29664,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 107868,
+		"Min": 32360,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 116857,
+		"Min": 35057,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 134835,
+		"Min": 40451,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 134835,
+		"Min": 40451,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 148319,
+		"Min": 44496,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 161802,
+		"Min": 48541,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 175286,
+		"Min": 52586,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 202253,
+		"Min": 60676,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 202253,
+		"Min": 60676,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 222478,
+		"Min": 66743,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 242703,
+		"Min": 72811,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 262929,
+		"Min": 78879,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 303379,
+		"Min": 91014,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 283154,
+		"Min": 84946,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 311469,
+		"Min": 93441,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 339785,
+		"Min": 101936,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 368100,
+		"Min": 110430,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 424731,
+		"Min": 127419,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 368100,
+		"Min": 110430,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 404910,
+		"Min": 121473,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 441720,
+		"Min": 132516,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 478530,
+		"Min": 143559,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 552150,
+		"Min": 165645,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 571101,
+		"Min": 171330,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 611066,
+		"Min": 183320,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 653805,
+		"Min": 196142,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 699643,
+		"Min": 209893,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 748581,
+		"Min": 224574,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 787815,
+		"Min": 236345,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 858690,
+		"Min": 257607,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 936023,
+		"Min": 280807,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 1020285,
+		"Min": 306086,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 1112108,
+		"Min": 333632,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 1168830,
+		"Min": 350649,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 1274079,
+		"Min": 382224,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 1388745,
+		"Min": 416624,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 1513738,
+		"Min": 454121,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 1649970,
+		"Min": 494991,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 1731893,
+		"Min": 519568,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 1887795,
+		"Min": 566339,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 2057738,
+		"Min": 617321,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 2242890,
+		"Min": 672867,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 2444715,
+		"Min": 733415,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 2562188,
+		"Min": 768656,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 2792813,
+		"Min": 837844,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 3044109,
+		"Min": 913233,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 3318047,
+		"Min": 995414,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 3616734,
+		"Min": 1085020,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 3784590,
+		"Min": 1135377,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 4125195,
+		"Min": 1237559,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 4496445,
+		"Min": 1348934,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 4901175,
+		"Min": 1470353,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 5342220,
+		"Min": 1602666,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 5580332,
+		"Min": 1674100,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 6082566,
+		"Min": 1824770,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 6629951,
+		"Min": 1988985,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 7226629,
+		"Min": 2167989,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 7876997,
+		"Min": 2363099,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 8212669,
+		"Min": 2463801,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 8951828,
+		"Min": 2685548,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 9757440,
+		"Min": 2927232,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 10635570,
+		"Min": 3190671,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 11592776,
+		"Min": 3477833,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 12061744,
+		"Min": 3618523,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 13147313,
+		"Min": 3944194,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 14330571,
+		"Min": 4299171,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 15620378,
+		"Min": 4686113,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 17026183,
+		"Min": 5107855,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 1,
+		"Max": 17674763,
+		"Min": 5302429,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 1,
+		"Max": 19265513,
+		"Min": 5779654,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 1,
+		"Max": 20999363,
+		"Min": 6299809,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 1,
+		"Max": 22889250,
+		"Min": 6866775,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 1,
+		"Max": 24949238,
+		"Min": 7484771,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Q": 6
+	},
+	{
+		"AttrId": 2,
+		"Q": 6
+	},
+	{
+		"AttrId": 2,
+		"Level": 1,
+		"Max": 604,
+		"Min": 181,
+		"Q": 6
+	},
+	{
+		"AttrId": 2,
+		"Level": 20,
+		"Max": 906,
+		"Min": 272,
+		"Q": 6
+	},
+	{
+		"AttrId": 2,
+		"Max": 1208,
+		"Min": 362,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1329,
+		"Min": 399,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1449,
+		"Min": 435,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1570,
+		"Min": 471,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1812,
+		"Min": 544,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 2295,
+		"Min": 689,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 2525,
+		"Min": 758,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 2754,
+		"Min": 826,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 2983,
+		"Min": 895,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 3442,
+		"Min": 1033,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 4131,
+		"Min": 1239,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 4544,
+		"Min": 1363,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 4957,
+		"Min": 1487,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 5370,
+		"Min": 1611,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 6196,
+		"Min": 1859,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 7023,
+		"Min": 2107,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 7725,
+		"Min": 2318,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 8427,
+		"Min": 2528,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 9129,
+		"Min": 2739,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 10534,
+		"Min": 3160,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 11236,
+		"Min": 3371,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 12360,
+		"Min": 3708,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 14607,
+		"Min": 4382,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 16854,
+		"Min": 5056,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 17978,
+		"Min": 5393,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 19776,
+		"Min": 5933,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 21574,
+		"Min": 6472,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 23371,
+		"Min": 7011,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 26967,
+		"Min": 8090,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 26967,
+		"Min": 8090,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 29664,
+		"Min": 8899,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 32360,
+		"Min": 9708,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 35057,
+		"Min": 10517,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 40451,
+		"Min": 12135,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 40451,
+		"Min": 12135,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 44496,
+		"Min": 13349,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 48541,
+		"Min": 14562,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 52586,
+		"Min": 15776,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 60676,
+		"Min": 18203,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 56631,
+		"Min": 16989,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 62294,
+		"Min": 18688,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 67957,
+		"Min": 20387,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 73620,
+		"Min": 22086,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 84946,
+		"Min": 25484,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 73620,
+		"Min": 22086,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 80982,
+		"Min": 24295,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 88344,
+		"Min": 26503,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 95706,
+		"Min": 28712,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 110430,
+		"Min": 33129,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 114220,
+		"Min": 34266,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 122213,
+		"Min": 36664,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 130761,
+		"Min": 39228,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 139929,
+		"Min": 41979,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 149716,
+		"Min": 44915,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 157563,
+		"Min": 47269,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 171738,
+		"Min": 51521,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 187205,
+		"Min": 56162,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 204057,
+		"Min": 61217,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 222422,
+		"Min": 66727,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 233766,
+		"Min": 70130,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 254816,
+		"Min": 76445,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 277749,
+		"Min": 83325,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 302748,
+		"Min": 90824,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 329994,
+		"Min": 98998,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 346379,
+		"Min": 103914,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 377559,
+		"Min": 113268,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 411548,
+		"Min": 123464,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 448578,
+		"Min": 134573,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 488943,
+		"Min": 146683,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 512438,
+		"Min": 153731,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 558563,
+		"Min": 167569,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 608822,
+		"Min": 182647,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 663609,
+		"Min": 199083,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 723347,
+		"Min": 217004,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 756918,
+		"Min": 227075,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 825039,
+		"Min": 247512,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 899289,
+		"Min": 269787,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 980235,
+		"Min": 294071,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1068444,
+		"Min": 320533,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 1116066,
+		"Min": 334820,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1216513,
+		"Min": 364954,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1325990,
+		"Min": 397797,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 1445326,
+		"Min": 433598,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 1575399,
+		"Min": 472620,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 1642534,
+		"Min": 492760,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 1790366,
+		"Min": 537110,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 1951488,
+		"Min": 585446,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 2127114,
+		"Min": 638134,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 2318555,
+		"Min": 695567,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 2412349,
+		"Min": 723705,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 2629463,
+		"Min": 788839,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 2866114,
+		"Min": 859834,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 3124076,
+		"Min": 937223,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 3405237,
+		"Min": 1021571,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 2,
+		"Max": 3534953,
+		"Min": 1060486,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 2,
+		"Max": 3853103,
+		"Min": 1155931,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 2,
+		"Max": 4199873,
+		"Min": 1259962,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 2,
+		"Max": 4577850,
+		"Min": 1373355,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 2,
+		"Max": 4989848,
+		"Min": 1496954,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Q": 6
+	},
+	{
+		"AttrId": 3,
+		"Q": 6
+	},
+	{
+		"AttrId": 3,
+		"Level": 1,
+		"Max": 302,
+		"Min": 91,
+		"Q": 6
+	},
+	{
+		"AttrId": 3,
+		"Level": 20,
+		"Max": 453,
+		"Min": 136,
+		"Q": 6
+	},
+	{
+		"AttrId": 3,
+		"Max": 604,
+		"Min": 181,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 664,
+		"Min": 199,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 725,
+		"Min": 218,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 785,
+		"Min": 236,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 906,
+		"Min": 272,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1148,
+		"Min": 344,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 1262,
+		"Min": 379,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1492,
+		"Min": 448,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1721,
+		"Min": 516,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 2272,
+		"Min": 682,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 2479,
+		"Min": 744,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 2685,
+		"Min": 806,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 3098,
+		"Min": 929,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 3862,
+		"Min": 1159,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 4214,
+		"Min": 1264,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 4565,
+		"Min": 1370,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 5267,
+		"Min": 1580,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 6180,
+		"Min": 1854,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 7304,
+		"Min": 2191,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 8427,
+		"Min": 2528,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 22248,
+		"Min": 6674,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 24270,
+		"Min": 7281,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 26293,
+		"Min": 7888,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 30338,
+		"Min": 9101,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 31147,
+		"Min": 9344,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 33978,
+		"Min": 10193,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 42473,
+		"Min": 12742,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 40491,
+		"Min": 12147,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 44172,
+		"Min": 13252,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 47853,
+		"Min": 14356,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 55215,
+		"Min": 16565,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 57110,
+		"Min": 17133,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 61107,
+		"Min": 18332,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 65381,
+		"Min": 19614,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 69964,
+		"Min": 20989,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 74858,
+		"Min": 22457,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 78782,
+		"Min": 23635,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 85869,
+		"Min": 25761,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 93602,
+		"Min": 28081,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 102029,
+		"Min": 30609,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 111211,
+		"Min": 33363,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 116883,
+		"Min": 35065,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 127408,
+		"Min": 38222,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 138875,
+		"Min": 41663,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 151374,
+		"Min": 45412,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 164997,
+		"Min": 49499,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 173189,
+		"Min": 51957,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 188780,
+		"Min": 56634,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 205774,
+		"Min": 61732,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 224289,
+		"Min": 67287,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 244472,
+		"Min": 73342,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 256219,
+		"Min": 76866,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 279281,
+		"Min": 83784,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 304411,
+		"Min": 91323,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 331805,
+		"Min": 99542,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 361673,
+		"Min": 108502,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 378459,
+		"Min": 113538,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 412520,
+		"Min": 123756,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 449645,
+		"Min": 134894,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 490118,
+		"Min": 147035,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 534222,
+		"Min": 160267,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 558033,
+		"Min": 167410,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 608257,
+		"Min": 182477,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 662995,
+		"Min": 198899,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 722663,
+		"Min": 216799,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 787700,
+		"Min": 236310,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 821267,
+		"Min": 246380,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 895183,
+		"Min": 268555,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 975744,
+		"Min": 292723,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1063557,
+		"Min": 319067,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1159278,
+		"Min": 347783,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1206174,
+		"Min": 361852,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 1314731,
+		"Min": 394419,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 1433057,
+		"Min": 429917,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 1562038,
+		"Min": 468611,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 1702618,
+		"Min": 510785,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 3,
+		"Max": 1767476,
+		"Min": 530243,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 3,
+		"Max": 1926551,
+		"Min": 577965,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 3,
+		"Max": 2099936,
+		"Min": 629981,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 3,
+		"Max": 2288925,
+		"Min": 686678,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 3,
+		"Max": 2494924,
+		"Min": 748477,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Q": 6
+	},
+	{
+		"AttrId": 9,
+		"Q": 6
+	},
+	{
+		"AttrId": 9,
+		"Level": 1,
+		"Max": 302,
+		"Min": 91,
+		"Q": 6
+	},
+	{
+		"AttrId": 9,
+		"Level": 20,
+		"Max": 453,
+		"Min": 136,
+		"Q": 6
+	},
+	{
+		"AttrId": 9,
+		"Max": 604,
+		"Min": 181,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 664,
+		"Min": 199,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 725,
+		"Min": 218,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 785,
+		"Min": 236,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 906,
+		"Min": 272,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1148,
+		"Min": 344,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 1262,
+		"Min": 379,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1492,
+		"Min": 448,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1721,
+		"Min": 516,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 2272,
+		"Min": 682,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 2479,
+		"Min": 744,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 2685,
+		"Min": 806,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 3098,
+		"Min": 929,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 3862,
+		"Min": 1159,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 4214,
+		"Min": 1264,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 4565,
+		"Min": 1370,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 5267,
+		"Min": 1580,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 6180,
+		"Min": 1854,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 7304,
+		"Min": 2191,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 8427,
+		"Min": 2528,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 22248,
+		"Min": 6674,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 24270,
+		"Min": 7281,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 26293,
+		"Min": 7888,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 30338,
+		"Min": 9101,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 31147,
+		"Min": 9344,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 33978,
+		"Min": 10193,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 42473,
+		"Min": 12742,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 40491,
+		"Min": 12147,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 44172,
+		"Min": 13252,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 47853,
+		"Min": 14356,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 55215,
+		"Min": 16565,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 57110,
+		"Min": 17133,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 61107,
+		"Min": 18332,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 65381,
+		"Min": 19614,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 69964,
+		"Min": 20989,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 74858,
+		"Min": 22457,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 78782,
+		"Min": 23635,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 85869,
+		"Min": 25761,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 93602,
+		"Min": 28081,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 102029,
+		"Min": 30609,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 111211,
+		"Min": 33363,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 116883,
+		"Min": 35065,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 127408,
+		"Min": 38222,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 138875,
+		"Min": 41663,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 151374,
+		"Min": 45412,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 164997,
+		"Min": 49499,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 173189,
+		"Min": 51957,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 188780,
+		"Min": 56634,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 205774,
+		"Min": 61732,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 224289,
+		"Min": 67287,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 244472,
+		"Min": 73342,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 256219,
+		"Min": 76866,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 279281,
+		"Min": 83784,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 304411,
+		"Min": 91323,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 331805,
+		"Min": 99542,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 361673,
+		"Min": 108502,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 378459,
+		"Min": 113538,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 412520,
+		"Min": 123756,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 449645,
+		"Min": 134894,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 490118,
+		"Min": 147035,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 534222,
+		"Min": 160267,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 558033,
+		"Min": 167410,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 608257,
+		"Min": 182477,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 662995,
+		"Min": 198899,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 722663,
+		"Min": 216799,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 787700,
+		"Min": 236310,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 821267,
+		"Min": 246380,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 895183,
+		"Min": 268555,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 975744,
+		"Min": 292723,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1063557,
+		"Min": 319067,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1159278,
+		"Min": 347783,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1206174,
+		"Min": 361852,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 1314731,
+		"Min": 394419,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 1433057,
+		"Min": 429917,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 1562038,
+		"Min": 468611,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 1702618,
+		"Min": 510785,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 9,
+		"Max": 1767476,
+		"Min": 530243,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 9,
+		"Max": 1926551,
+		"Min": 577965,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 9,
+		"Max": 2099936,
+		"Min": 629981,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 9,
+		"Max": 2288925,
+		"Min": 686678,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 9,
+		"Max": 2494924,
+		"Min": 748477,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Q": 6
+	},
+	{
+		"AttrId": 10,
+		"Q": 6
+	},
+	{
+		"AttrId": 10,
+		"Level": 1,
+		"Max": 151,
+		"Min": 45,
+		"Q": 6
+	},
+	{
+		"AttrId": 10,
+		"Level": 20,
+		"Max": 226,
+		"Min": 68,
+		"Q": 6
+	},
+	{
+		"AttrId": 10,
+		"Max": 302,
+		"Min": 91,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 332,
+		"Min": 100,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 362,
+		"Min": 109,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 393,
+		"Min": 118,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 453,
+		"Min": 136,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 574,
+		"Min": 172,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 631,
+		"Min": 189,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 688,
+		"Min": 206,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 746,
+		"Min": 224,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 861,
+		"Min": 258,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1033,
+		"Min": 310,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 1136,
+		"Min": 341,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 1239,
+		"Min": 372,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 1343,
+		"Min": 403,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 1549,
+		"Min": 465,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 1756,
+		"Min": 527,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 1931,
+		"Min": 579,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 2107,
+		"Min": 632,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 2282,
+		"Min": 685,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 2634,
+		"Min": 790,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 3090,
+		"Min": 927,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 3371,
+		"Min": 1011,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 3652,
+		"Min": 1096,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 4214,
+		"Min": 1264,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 4944,
+		"Min": 1483,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 5393,
+		"Min": 1618,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 5843,
+		"Min": 1753,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 7416,
+		"Min": 2225,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 8090,
+		"Min": 2427,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 8764,
+		"Min": 2629,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 11124,
+		"Min": 3337,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 12135,
+		"Min": 3641,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 13146,
+		"Min": 3944,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 15169,
+		"Min": 4551,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 14158,
+		"Min": 4247,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 15573,
+		"Min": 4672,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 16989,
+		"Min": 5097,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 21237,
+		"Min": 6371,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 20246,
+		"Min": 6074,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 22086,
+		"Min": 6626,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 23927,
+		"Min": 7178,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 27608,
+		"Min": 8282,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 28555,
+		"Min": 8567,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 30553,
+		"Min": 9166,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 32690,
+		"Min": 9807,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 34982,
+		"Min": 10495,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 37429,
+		"Min": 11229,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 39391,
+		"Min": 11817,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 42935,
+		"Min": 12881,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 46801,
+		"Min": 14040,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 51014,
+		"Min": 15304,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 55605,
+		"Min": 16682,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 58442,
+		"Min": 17533,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 63704,
+		"Min": 19111,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 69437,
+		"Min": 20831,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 75687,
+		"Min": 22706,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 82499,
+		"Min": 24750,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 86595,
+		"Min": 25979,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 94390,
+		"Min": 28317,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 102887,
+		"Min": 30866,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 112145,
+		"Min": 33644,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 122236,
+		"Min": 36671,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 128109,
+		"Min": 38433,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 139641,
+		"Min": 41892,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 152205,
+		"Min": 45662,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 165902,
+		"Min": 49771,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 180837,
+		"Min": 54251,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 189230,
+		"Min": 56769,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 206260,
+		"Min": 61878,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 224822,
+		"Min": 67447,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 245059,
+		"Min": 73518,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 267111,
+		"Min": 80133,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 279017,
+		"Min": 83705,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 304128,
+		"Min": 91238,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 331498,
+		"Min": 99449,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 361331,
+		"Min": 108399,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 393850,
+		"Min": 118155,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 410633,
+		"Min": 123190,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 447591,
+		"Min": 134277,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 487872,
+		"Min": 146362,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 531779,
+		"Min": 159534,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 579639,
+		"Min": 173892,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 603087,
+		"Min": 180926,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 657366,
+		"Min": 197210,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 716529,
+		"Min": 214959,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 781019,
+		"Min": 234306,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 851309,
+		"Min": 255393,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 10,
+		"Max": 883738,
+		"Min": 265121,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 10,
+		"Max": 963276,
+		"Min": 288983,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 10,
+		"Max": 1049968,
+		"Min": 314990,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 10,
+		"Max": 1144463,
+		"Min": 343339,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 10,
+		"Max": 1247462,
+		"Min": 374239,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Q": 6
+	},
+	{
+		"AttrId": 11,
+		"Q": 6
+	},
+	{
+		"AttrId": 11,
+		"Level": 1,
+		"Max": 302,
+		"Min": 91,
+		"Q": 6
+	},
+	{
+		"AttrId": 11,
+		"Level": 20,
+		"Max": 453,
+		"Min": 136,
+		"Q": 6
+	},
+	{
+		"AttrId": 11,
+		"Max": 604,
+		"Min": 181,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 664,
+		"Min": 199,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 725,
+		"Min": 218,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 785,
+		"Min": 236,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 906,
+		"Min": 272,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1148,
+		"Min": 344,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 1262,
+		"Min": 379,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 1377,
+		"Min": 413,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1492,
+		"Min": 448,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1721,
+		"Min": 516,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 2065,
+		"Min": 620,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 2272,
+		"Min": 682,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 2479,
+		"Min": 744,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 2685,
+		"Min": 806,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 3098,
+		"Min": 929,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 3511,
+		"Min": 1053,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 3862,
+		"Min": 1159,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 4214,
+		"Min": 1264,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 4565,
+		"Min": 1370,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 5267,
+		"Min": 1580,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 5618,
+		"Min": 1685,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 6180,
+		"Min": 1854,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 7304,
+		"Min": 2191,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 8427,
+		"Min": 2528,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 8989,
+		"Min": 2697,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 9888,
+		"Min": 2966,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 10787,
+		"Min": 3236,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 11686,
+		"Min": 3506,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 13484,
+		"Min": 4045,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 14832,
+		"Min": 4450,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 16180,
+		"Min": 4854,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 17529,
+		"Min": 5259,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 20225,
+		"Min": 6068,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 22248,
+		"Min": 6674,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 24270,
+		"Min": 7281,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 26293,
+		"Min": 7888,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 30338,
+		"Min": 9101,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 28315,
+		"Min": 8495,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 31147,
+		"Min": 9344,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 33978,
+		"Min": 10193,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 42473,
+		"Min": 12742,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 36810,
+		"Min": 11043,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 40491,
+		"Min": 12147,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 44172,
+		"Min": 13252,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 47853,
+		"Min": 14356,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 55215,
+		"Min": 16565,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 57110,
+		"Min": 17133,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 61107,
+		"Min": 18332,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 65381,
+		"Min": 19614,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 69964,
+		"Min": 20989,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 74858,
+		"Min": 22457,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 78782,
+		"Min": 23635,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 85869,
+		"Min": 25761,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 93602,
+		"Min": 28081,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 102029,
+		"Min": 30609,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 111211,
+		"Min": 33363,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 116883,
+		"Min": 35065,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 127408,
+		"Min": 38222,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 138875,
+		"Min": 41663,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 151374,
+		"Min": 45412,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 164997,
+		"Min": 49499,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 173189,
+		"Min": 51957,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 188780,
+		"Min": 56634,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 205774,
+		"Min": 61732,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 224289,
+		"Min": 67287,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 244472,
+		"Min": 73342,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 256219,
+		"Min": 76866,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 279281,
+		"Min": 83784,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 304411,
+		"Min": 91323,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 331805,
+		"Min": 99542,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 361673,
+		"Min": 108502,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 378459,
+		"Min": 113538,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 412520,
+		"Min": 123756,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 449645,
+		"Min": 134894,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 490118,
+		"Min": 147035,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 534222,
+		"Min": 160267,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 558033,
+		"Min": 167410,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 608257,
+		"Min": 182477,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 662995,
+		"Min": 198899,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 722663,
+		"Min": 216799,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 787700,
+		"Min": 236310,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 821267,
+		"Min": 246380,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 895183,
+		"Min": 268555,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 975744,
+		"Min": 292723,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1063557,
+		"Min": 319067,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1159278,
+		"Min": 347783,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1206174,
+		"Min": 361852,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 1314731,
+		"Min": 394419,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 1433057,
+		"Min": 429917,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 1562038,
+		"Min": 468611,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 1702618,
+		"Min": 510785,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 11,
+		"Max": 1767476,
+		"Min": 530243,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 11,
+		"Max": 1926551,
+		"Min": 577965,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 11,
+		"Max": 2099936,
+		"Min": 629981,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 11,
+		"Max": 2288925,
+		"Min": 686678,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 11,
+		"Max": 2494924,
+		"Min": 748477,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Q": 6
+	},
+	{
+		"AttrId": 12,
+		"Q": 6
+	},
+	{
+		"AttrId": 12,
+		"Level": 1,
+		"Max": 151,
+		"Min": 45,
+		"Q": 6
+	},
+	{
+		"AttrId": 12,
+		"Level": 20,
+		"Max": 226,
+		"Min": 68,
+		"Q": 6
+	},
+	{
+		"AttrId": 12,
+		"Max": 302,
+		"Min": 91,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 332,
+		"Min": 100,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 362,
+		"Min": 109,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 393,
+		"Min": 118,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 453,
+		"Min": 136,
+		"Q": 6,
+		"Reborn": 1,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 574,
+		"Min": 172,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 631,
+		"Min": 189,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 688,
+		"Min": 206,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 746,
+		"Min": 224,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 861,
+		"Min": 258,
+		"Q": 6,
+		"Reborn": 2,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1033,
+		"Min": 310,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 1136,
+		"Min": 341,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 1239,
+		"Min": 372,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 1343,
+		"Min": 403,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 1549,
+		"Min": 465,
+		"Q": 6,
+		"Reborn": 3,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 1756,
+		"Min": 527,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 1931,
+		"Min": 579,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 2107,
+		"Min": 632,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 2282,
+		"Min": 685,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 2634,
+		"Min": 790,
+		"Q": 6,
+		"Reborn": 4,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 2809,
+		"Min": 843,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 3090,
+		"Min": 927,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 3371,
+		"Min": 1011,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 3652,
+		"Min": 1096,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 4214,
+		"Min": 1264,
+		"Q": 6,
+		"Reborn": 5,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 4495,
+		"Min": 1349,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 4944,
+		"Min": 1483,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 5393,
+		"Min": 1618,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 5843,
+		"Min": 1753,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 6,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 6742,
+		"Min": 2023,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 7416,
+		"Min": 2225,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 8090,
+		"Min": 2427,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 8764,
+		"Min": 2629,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 6,
+		"Reborn": 7,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 10113,
+		"Min": 3034,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 11124,
+		"Min": 3337,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 12135,
+		"Min": 3641,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 13146,
+		"Min": 3944,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 15169,
+		"Min": 4551,
+		"Q": 6,
+		"Reborn": 8,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 14158,
+		"Min": 4247,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 15573,
+		"Min": 4672,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 16989,
+		"Min": 5097,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 21237,
+		"Min": 6371,
+		"Q": 6,
+		"Reborn": 9,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 18405,
+		"Min": 5522,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 20246,
+		"Min": 6074,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 22086,
+		"Min": 6626,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 23927,
+		"Min": 7178,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 27608,
+		"Min": 8282,
+		"Q": 6,
+		"Reborn": 10,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 28555,
+		"Min": 8567,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 30553,
+		"Min": 9166,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 32690,
+		"Min": 9807,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 34982,
+		"Min": 10495,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 37429,
+		"Min": 11229,
+		"Q": 6,
+		"Reborn": 11,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 39391,
+		"Min": 11817,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 42935,
+		"Min": 12881,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 46801,
+		"Min": 14040,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 51014,
+		"Min": 15304,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 55605,
+		"Min": 16682,
+		"Q": 6,
+		"Reborn": 12,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 58442,
+		"Min": 17533,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 63704,
+		"Min": 19111,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 69437,
+		"Min": 20831,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 75687,
+		"Min": 22706,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 82499,
+		"Min": 24750,
+		"Q": 6,
+		"Reborn": 13,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 86595,
+		"Min": 25979,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 94390,
+		"Min": 28317,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 102887,
+		"Min": 30866,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 112145,
+		"Min": 33644,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 122236,
+		"Min": 36671,
+		"Q": 6,
+		"Reborn": 14,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 128109,
+		"Min": 38433,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 139641,
+		"Min": 41892,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 152205,
+		"Min": 45662,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 165902,
+		"Min": 49771,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 180837,
+		"Min": 54251,
+		"Q": 6,
+		"Reborn": 15,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 189230,
+		"Min": 56769,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 206260,
+		"Min": 61878,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 224822,
+		"Min": 67447,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 245059,
+		"Min": 73518,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 267111,
+		"Min": 80133,
+		"Q": 6,
+		"Reborn": 16,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 279017,
+		"Min": 83705,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 304128,
+		"Min": 91238,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 331498,
+		"Min": 99449,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 361331,
+		"Min": 108399,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 393850,
+		"Min": 118155,
+		"Q": 6,
+		"Reborn": 17,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 410633,
+		"Min": 123190,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 447591,
+		"Min": 134277,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 487872,
+		"Min": 146362,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 531779,
+		"Min": 159534,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 579639,
+		"Min": 173892,
+		"Q": 6,
+		"Reborn": 18,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 603087,
+		"Min": 180926,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 657366,
+		"Min": 197210,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 716529,
+		"Min": 214959,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 781019,
+		"Min": 234306,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 851309,
+		"Min": 255393,
+		"Q": 6,
+		"Reborn": 19,
+		"RepNum": 5
+	},
+	{
+		"AttrId": 12,
+		"Max": 883738,
+		"Min": 265121,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 1
+	},
+	{
+		"AttrId": 12,
+		"Max": 963276,
+		"Min": 288983,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 2
+	},
+	{
+		"AttrId": 12,
+		"Max": 1049968,
+		"Min": 314990,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 3
+	},
+	{
+		"AttrId": 12,
+		"Max": 1144463,
+		"Min": 343339,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 4
+	},
+	{
+		"AttrId": 12,
+		"Max": 1247462,
+		"Min": 374239,
+		"Q": 6,
+		"Reborn": 20,
+		"RepNum": 5
+	}
+]

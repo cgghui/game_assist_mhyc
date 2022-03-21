@@ -1,0 +1,81 @@
+[
+	{
+		"BeDropId": 1483,
+		"BossId": 1,
+		"Fx": 6,
+		"MonsterId": 6800,
+		"MonsterX": 9,
+		"MonsterY": 54,
+		"RefreshId": 37131,
+		"StageId": 1
+	},
+	{
+		"BeDropId": 1483,
+		"BossId": 2,
+		"Fx": 6,
+		"MonsterId": 6801,
+		"MonsterX": 11,
+		"MonsterY": 24,
+		"RefreshId": 37132,
+		"StageId": 1
+	},
+	{
+		"BeDropId": 1483,
+		"BossId": 3,
+		"Fx": 4,
+		"MonsterId": 6802,
+		"MonsterX": 43,
+		"MonsterY": 20,
+		"RefreshId": 37133,
+		"StageId": 1
+	},
+	{
+		"BeDropId": 1483,
+		"BossId": 4,
+		"Fx": 4,
+		"MonsterId": 6803,
+		"MonsterX": 73,
+		"MonsterY": 24,
+		"RefreshId": 37134,
+		"StageId": 1
+	},
+	{
+		"BeDropId": 1483,
+		"BossId": 5,
+		"Fx": 6,
+		"MonsterId": 6804,
+		"MonsterX": 73,
+		"MonsterY": 59,
+		"RefreshId": 37135,
+		"StageId": 1
+	},
+	{
+		"BeDropId": 1483,
+		"BossId": 6,
+		"Fx": 6,
+		"MonsterId": 6805,
+		"MonsterX": 52,
+		"MonsterY": 71,
+		"RefreshId": 37136,
+		"StageId": 1
+	},
+	{
+		"BossId": 1,
+		"Fx": 4,
+		"MonsterId": 6806,
+		"MonsterX": 42,
+		"MonsterY": 42,
+		"RefreshId": 37137,
+		"StageId": 2
+	},
+	{
+		"BossId": 1,
+		"Fx": 4,
+		"KillDropId": 1506,
+		"MonsterId": 6807,
+		"MonsterX": 42,
+		"MonsterY": 42,
+		"RefreshId": 37138,
+		"StageId": 3
+	}
+]

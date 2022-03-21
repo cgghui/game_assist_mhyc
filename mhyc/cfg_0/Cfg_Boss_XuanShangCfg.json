@@ -1,0 +1,15 @@
+[
+	{
+		"BossLimitTime": 600,
+		"ExchangeItemID": 271,
+		"FamilySkillDesc": "稀有掉率+10%",
+		"FunID": 11056,
+		"KillTimesLimitID": 10045,
+		"MaxFreeFightTimes": 5,
+		"MaxFreeRefreshTimes": 2,
+		"QualityMaxCost": "2:300",
+		"QualityUpCost": "2:100",
+		"TeamSkillID": 6,
+		"TeamSkillLevel": 1
+	}
+]

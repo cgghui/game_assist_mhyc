@@ -1,0 +1,68 @@
+[
+	{
+		"Cmd": 11132,
+		"CounterType": 10654,
+		"Id": 1,
+		"ItemId": 201,
+		"Name": "今日结缘双方均完成2次仙缘副本",
+		"Order": 1,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 2,
+		"Type": 32
+	},
+	{
+		"Cmd": 11151,
+		"CounterType": 10631,
+		"Id": 2,
+		"ItemId": 201,
+		"Name": "今日结缘双方均完成2次材料副本",
+		"Order": 2,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 2,
+		"Type": 32
+	},
+	{
+		"Cmd": 11050,
+		"CounterType": 10601,
+		"Id": 3,
+		"ItemId": 201,
+		"Name": "今日结缘双方均完成2次个人BOSS",
+		"Order": 3,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 2,
+		"Type": 32
+	},
+	{
+		"Cmd": 814,
+		"CounterType": 10570,
+		"Id": 4,
+		"ItemId": 201,
+		"Name": "今日结缘双方均护送2次神女",
+		"Order": 4,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 2,
+		"Type": 32
+	},
+	{
+		"Cmd": 72,
+		"CounterType": 10400,
+		"Id": 5,
+		"ItemId": 201,
+		"Name": "今日结缘双方均挑战2次竞技场",
+		"Order": 5,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 2,
+		"Type": 32
+	},
+	{
+		"Cmd": 12,
+		"CounterType": 11325,
+		"Id": 6,
+		"ItemId": 201,
+		"Name": "今日结缘双方均吞噬1次宠物",
+		"Order": 6,
+		"Prize": "2021:20|2005:20|2006:20",
+		"TargetCount": 1,
+		"Type": 32
+	}
+]

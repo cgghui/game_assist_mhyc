@@ -1,0 +1,38 @@
+[
+	{
+		"CfgKey": "YJFBPowerMax",
+		"CfgValue": "150"
+	},
+	{
+		"CfgKey": "YJFBPowerRestoreSecond",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "YJFBPowerRestorePower",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "YJFBPowerExchangeCostItemId",
+		"CfgValue": "3003"
+	},
+	{
+		"CfgKey": "YJFBPowerExchangeCostItemNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "YJFBPowerExchangeAddPower",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "YJFBWareHouseId",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "YJFBRedPowerPercent",
+		"CfgValue": "7"
+	},
+	{
+		"CfgKey": "YJFBAutoUserJuShenDanPercent",
+		"CfgValue": "30"
+	}
+]

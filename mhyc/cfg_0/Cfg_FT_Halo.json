@@ -1,0 +1,17 @@
+[
+	{
+		"PeopleNum": 2,
+		"SkillId": 8121,
+		"SkillName": "PVP伤害增加"
+	},
+	{
+		"PeopleNum": 3,
+		"SkillId": 8122,
+		"SkillName": "命中增加"
+	},
+	{
+		"PeopleNum": 4,
+		"SkillId": 8123,
+		"SkillName": "暴击伤害增加"
+	}
+]

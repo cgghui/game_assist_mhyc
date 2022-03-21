@@ -1,0 +1,939 @@
+[
+	{
+		"FuncId": 159,
+		"Level": 1,
+		"Modelling": 1101,
+		"Number": 1
+	},
+	{
+		"FuncId": 159,
+		"Level": 2,
+		"Modelling": 1102,
+		"MultiCost": "1:30",
+		"Number": 2,
+		"Prize": "2250301:6"
+	},
+	{
+		"FuncId": 159,
+		"Level": 3,
+		"Modelling": 1103,
+		"MultiCost": "1:30",
+		"Number": 3,
+		"Prize": "2250301:15"
+	},
+	{
+		"FuncId": 159,
+		"Level": 4,
+		"Modelling": 1104,
+		"MultiCost": "1:30",
+		"Number": 4,
+		"Prize": "2250301:30"
+	},
+	{
+		"FuncId": 159,
+		"Level": 5,
+		"Modelling": 1105,
+		"MultiCost": "1:30",
+		"Number": 5,
+		"Prize": "2250301:60"
+	},
+	{
+		"FuncId": 159,
+		"Level": 6,
+		"Modelling": 1106,
+		"MultiCost": "1:30",
+		"Number": 6,
+		"Prize": "2250301:80"
+	},
+	{
+		"FuncId": 159,
+		"Level": 7,
+		"Modelling": 1107,
+		"MultiCost": "1:30",
+		"Number": 7,
+		"Prize": "2250301:100"
+	},
+	{
+		"FuncId": 159,
+		"Level": 8,
+		"Modelling": 1108,
+		"MultiCost": "1:30",
+		"Number": 8,
+		"Prize": "2250301:120"
+	},
+	{
+		"FuncId": 159,
+		"Level": 9,
+		"Modelling": 1109,
+		"MultiCost": "1:30",
+		"Number": 9,
+		"Prize": "2250301:130"
+	},
+	{
+		"FuncId": 159,
+		"Level": 10,
+		"Modelling": 1110,
+		"MultiCost": "1:30",
+		"Number": 10,
+		"Prize": "2250301:150"
+	},
+	{
+		"FuncId": 158,
+		"Level": 1,
+		"Modelling": 1201,
+		"Number": 11
+	},
+	{
+		"FuncId": 158,
+		"Level": 2,
+		"Modelling": 1202,
+		"MultiCost": "1:30",
+		"Number": 12,
+		"Prize": "2250101:6"
+	},
+	{
+		"FuncId": 158,
+		"Level": 3,
+		"Modelling": 1203,
+		"MultiCost": "1:30",
+		"Number": 13,
+		"Prize": "2250101:15"
+	},
+	{
+		"FuncId": 158,
+		"Level": 4,
+		"Modelling": 1204,
+		"MultiCost": "1:30",
+		"Number": 14,
+		"Prize": "2250101:30"
+	},
+	{
+		"FuncId": 158,
+		"Level": 5,
+		"Modelling": 1205,
+		"MultiCost": "1:30",
+		"Number": 15,
+		"Prize": "2250101:60"
+	},
+	{
+		"FuncId": 158,
+		"Level": 6,
+		"Modelling": 1206,
+		"MultiCost": "1:30",
+		"Number": 16,
+		"Prize": "2250101:80"
+	},
+	{
+		"FuncId": 158,
+		"Level": 7,
+		"Modelling": 1207,
+		"MultiCost": "1:30",
+		"Number": 17,
+		"Prize": "2250101:100"
+	},
+	{
+		"FuncId": 158,
+		"Level": 8,
+		"Modelling": 1208,
+		"MultiCost": "1:30",
+		"Number": 18,
+		"Prize": "2250101:120"
+	},
+	{
+		"FuncId": 158,
+		"Level": 9,
+		"Modelling": 1209,
+		"MultiCost": "1:30",
+		"Number": 19,
+		"Prize": "2250101:130"
+	},
+	{
+		"FuncId": 158,
+		"Level": 10,
+		"Modelling": 1210,
+		"MultiCost": "1:30",
+		"Number": 20,
+		"Prize": "2250101:150"
+	},
+	{
+		"FuncId": 157,
+		"Level": 1,
+		"Modelling": 4141,
+		"Number": 21
+	},
+	{
+		"FuncId": 157,
+		"Level": 2,
+		"Modelling": 4142,
+		"MultiCost": "1:30",
+		"Number": 22,
+		"Prize": "2250201:6"
+	},
+	{
+		"FuncId": 157,
+		"Level": 3,
+		"Modelling": 4143,
+		"MultiCost": "1:30",
+		"Number": 23,
+		"Prize": "2250201:15"
+	},
+	{
+		"FuncId": 157,
+		"Level": 4,
+		"Modelling": 4144,
+		"MultiCost": "1:30",
+		"Number": 24,
+		"Prize": "2250201:30"
+	},
+	{
+		"FuncId": 157,
+		"Level": 5,
+		"Modelling": 4145,
+		"MultiCost": "1:30",
+		"Number": 25,
+		"Prize": "2250201:60"
+	},
+	{
+		"FuncId": 157,
+		"Level": 6,
+		"Modelling": 4146,
+		"MultiCost": "1:30",
+		"Number": 26,
+		"Prize": "2250201:80"
+	},
+	{
+		"FuncId": 157,
+		"Level": 7,
+		"Modelling": 4147,
+		"MultiCost": "1:30",
+		"Number": 27,
+		"Prize": "2250201:100"
+	},
+	{
+		"FuncId": 157,
+		"Level": 8,
+		"Modelling": 4148,
+		"MultiCost": "1:30",
+		"Number": 28,
+		"Prize": "2250201:120"
+	},
+	{
+		"FuncId": 157,
+		"Level": 9,
+		"Modelling": 4149,
+		"MultiCost": "1:30",
+		"Number": 29,
+		"Prize": "2250201:130"
+	},
+	{
+		"FuncId": 157,
+		"Level": 10,
+		"Modelling": 4150,
+		"MultiCost": "1:30",
+		"Number": 30,
+		"Prize": "2250201:150"
+	},
+	{
+		"FuncId": 156,
+		"Level": 1,
+		"Modelling": 6001,
+		"Number": 31
+	},
+	{
+		"FuncId": 156,
+		"Level": 2,
+		"Modelling": 6002,
+		"MultiCost": "1:30",
+		"Number": 32,
+		"Prize": "2250401:6"
+	},
+	{
+		"FuncId": 156,
+		"Level": 3,
+		"Modelling": 6003,
+		"MultiCost": "1:30",
+		"Number": 33,
+		"Prize": "2250401:15"
+	},
+	{
+		"FuncId": 156,
+		"Level": 4,
+		"Modelling": 6004,
+		"MultiCost": "1:30",
+		"Number": 34,
+		"Prize": "2250401:30"
+	},
+	{
+		"FuncId": 156,
+		"Level": 5,
+		"Modelling": 6005,
+		"MultiCost": "1:30",
+		"Number": 35,
+		"Prize": "2250401:60"
+	},
+	{
+		"FuncId": 156,
+		"Level": 6,
+		"Modelling": 6006,
+		"MultiCost": "1:30",
+		"Number": 36,
+		"Prize": "2250401:80"
+	},
+	{
+		"FuncId": 156,
+		"Level": 7,
+		"Modelling": 6007,
+		"MultiCost": "1:30",
+		"Number": 37,
+		"Prize": "2250401:100"
+	},
+	{
+		"FuncId": 156,
+		"Level": 8,
+		"Modelling": 6008,
+		"MultiCost": "1:30",
+		"Number": 38,
+		"Prize": "2250401:120"
+	},
+	{
+		"FuncId": 156,
+		"Level": 9,
+		"Modelling": 6009,
+		"MultiCost": "1:30",
+		"Number": 39,
+		"Prize": "2250401:130"
+	},
+	{
+		"FuncId": 156,
+		"Level": 10,
+		"Modelling": 6010,
+		"MultiCost": "1:30",
+		"Number": 40,
+		"Prize": "2250401:150"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 1,
+		"Modelling": 1,
+		"Number": 41
+	},
+	{
+		"FuncId": 11163,
+		"Level": 2,
+		"Modelling": 2,
+		"MultiCost": "1:30",
+		"Number": 42,
+		"Prize": "2250501:6"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 3,
+		"Modelling": 3,
+		"MultiCost": "1:30",
+		"Number": 43,
+		"Prize": "2250501:15"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 4,
+		"Modelling": 4,
+		"MultiCost": "1:30",
+		"Number": 44,
+		"Prize": "2250501:30"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 5,
+		"Modelling": 5,
+		"MultiCost": "1:30",
+		"Number": 45,
+		"Prize": "2250501:60"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 6,
+		"Modelling": 6,
+		"MultiCost": "1:30",
+		"Number": 46,
+		"Prize": "2250501:80"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 7,
+		"Modelling": 7,
+		"MultiCost": "1:30",
+		"Number": 47,
+		"Prize": "2250501:100"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 8,
+		"Modelling": 8,
+		"MultiCost": "1:30",
+		"Number": 48,
+		"Prize": "2250501:120"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 9,
+		"Modelling": 9,
+		"MultiCost": "1:30",
+		"Number": 49,
+		"Prize": "2250501:130"
+	},
+	{
+		"FuncId": 11163,
+		"Level": 10,
+		"Modelling": 10,
+		"MultiCost": "1:30",
+		"Number": 50,
+		"Prize": "2250501:150"
+	},
+	{
+		"FuncId": 27,
+		"Level": 1,
+		"Modelling": 1,
+		"MultiCost": "1:30",
+		"Number": 61
+	},
+	{
+		"FuncId": 27,
+		"Level": 2,
+		"Modelling": 2,
+		"MultiCost": "1:30",
+		"Number": 62,
+		"Prize": "2250601:6"
+	},
+	{
+		"FuncId": 27,
+		"Level": 3,
+		"Modelling": 3,
+		"MultiCost": "1:30",
+		"Number": 63,
+		"Prize": "2250601:15"
+	},
+	{
+		"FuncId": 27,
+		"Level": 4,
+		"Modelling": 4,
+		"MultiCost": "1:30",
+		"Number": 64,
+		"Prize": "2250601:30"
+	},
+	{
+		"FuncId": 27,
+		"Level": 5,
+		"Modelling": 5,
+		"MultiCost": "1:30",
+		"Number": 65,
+		"Prize": "2250601:60"
+	},
+	{
+		"FuncId": 27,
+		"Level": 6,
+		"Modelling": 6,
+		"MultiCost": "1:30",
+		"Number": 66,
+		"Prize": "2250601:80"
+	},
+	{
+		"FuncId": 27,
+		"Level": 7,
+		"Modelling": 7,
+		"MultiCost": "1:30",
+		"Number": 67,
+		"Prize": "2250601:100"
+	},
+	{
+		"FuncId": 27,
+		"Level": 8,
+		"Modelling": 8,
+		"MultiCost": "1:30",
+		"Number": 68,
+		"Prize": "2250601:120"
+	},
+	{
+		"FuncId": 27,
+		"Level": 9,
+		"Modelling": 9,
+		"MultiCost": "1:30",
+		"Number": 69,
+		"Prize": "2250601:130"
+	},
+	{
+		"FuncId": 27,
+		"Level": 10,
+		"Modelling": 10,
+		"MultiCost": "1:30",
+		"Number": 70,
+		"Prize": "2250601:150"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 1,
+		"Modelling": 2401,
+		"Number": 81
+	},
+	{
+		"FuncId": 11161,
+		"Level": 2,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 82,
+		"Prize": "2030201:10"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 3,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 83,
+		"Prize": "2030201:20"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 4,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 84,
+		"Prize": "2030201:30"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 5,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 85,
+		"Prize": "2030201:40"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 6,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 86,
+		"Prize": "2030201:50"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 7,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 87,
+		"Prize": "2030201:60"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 8,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 88,
+		"Prize": "2030201:70"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 9,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 89,
+		"Prize": "2030201:80"
+	},
+	{
+		"FuncId": 11161,
+		"Level": 10,
+		"Modelling": 2401,
+		"MultiCost": "1:30",
+		"Number": 90,
+		"Prize": "2030201:90"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 1,
+		"Modelling": 5001,
+		"Number": 101
+	},
+	{
+		"FuncId": 11162,
+		"Level": 2,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 102,
+		"Prize": "2030401:10"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 3,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 103,
+		"Prize": "2030401:20"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 4,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 104,
+		"Prize": "2030401:30"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 5,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 105,
+		"Prize": "2030401:40"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 6,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 106,
+		"Prize": "2030401:50"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 7,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 107,
+		"Prize": "2030401:60"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 8,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 108,
+		"Prize": "2030401:70"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 9,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 109,
+		"Prize": "2030401:80"
+	},
+	{
+		"FuncId": 11162,
+		"Level": 10,
+		"Modelling": 5001,
+		"MultiCost": "1:30",
+		"Number": 110,
+		"Prize": "2030401:90"
+	},
+	{
+		"FuncId": 201,
+		"Level": 1,
+		"Modelling": 7001,
+		"Number": 111
+	},
+	{
+		"FuncId": 201,
+		"Level": 2,
+		"Modelling": 7002,
+		"MultiCost": "1:30",
+		"Number": 112,
+		"Prize": "2251101:6"
+	},
+	{
+		"FuncId": 201,
+		"Level": 3,
+		"Modelling": 7003,
+		"MultiCost": "1:30",
+		"Number": 113,
+		"Prize": "2251101:15"
+	},
+	{
+		"FuncId": 201,
+		"Level": 4,
+		"Modelling": 7004,
+		"MultiCost": "1:30",
+		"Number": 114,
+		"Prize": "2251101:30"
+	},
+	{
+		"FuncId": 201,
+		"Level": 5,
+		"Modelling": 7005,
+		"MultiCost": "1:30",
+		"Number": 115,
+		"Prize": "2251101:60"
+	},
+	{
+		"FuncId": 201,
+		"Level": 6,
+		"Modelling": 7006,
+		"MultiCost": "1:30",
+		"Number": 116,
+		"Prize": "2251101:80"
+	},
+	{
+		"FuncId": 201,
+		"Level": 7,
+		"Modelling": 7007,
+		"MultiCost": "1:30",
+		"Number": 117,
+		"Prize": "2251101:100"
+	},
+	{
+		"FuncId": 201,
+		"Level": 8,
+		"Modelling": 7008,
+		"MultiCost": "1:30",
+		"Number": 118,
+		"Prize": "2251101:120"
+	},
+	{
+		"FuncId": 201,
+		"Level": 9,
+		"Modelling": 7009,
+		"MultiCost": "1:30",
+		"Number": 119,
+		"Prize": "2251101:130"
+	},
+	{
+		"FuncId": 201,
+		"Level": 10,
+		"Modelling": 7010,
+		"MultiCost": "1:30",
+		"Number": 120,
+		"Prize": "2251101:150"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 1,
+		"Modelling": 7101,
+		"Number": 121
+	},
+	{
+		"FuncId": 11166,
+		"Level": 2,
+		"Modelling": 7102,
+		"MultiCost": "1:30",
+		"Number": 122,
+		"Prize": "2251201:6"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 3,
+		"Modelling": 7103,
+		"MultiCost": "1:30",
+		"Number": 123,
+		"Prize": "2251201:15"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 4,
+		"Modelling": 7104,
+		"MultiCost": "1:30",
+		"Number": 124,
+		"Prize": "2251201:30"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 5,
+		"Modelling": 7105,
+		"MultiCost": "1:30",
+		"Number": 125,
+		"Prize": "2251201:60"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 6,
+		"Modelling": 7106,
+		"MultiCost": "1:30",
+		"Number": 126,
+		"Prize": "2251201:80"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 7,
+		"Modelling": 7107,
+		"MultiCost": "1:30",
+		"Number": 127,
+		"Prize": "2251201:100"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 8,
+		"Modelling": 7108,
+		"MultiCost": "1:30",
+		"Number": 128,
+		"Prize": "2251201:120"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 9,
+		"Modelling": 7109,
+		"MultiCost": "1:30",
+		"Number": 129,
+		"Prize": "2251201:130"
+	},
+	{
+		"FuncId": 11166,
+		"Level": 10,
+		"Modelling": 7110,
+		"MultiCost": "1:30",
+		"Number": 130,
+		"Prize": "2251201:150"
+	},
+	{
+		"FuncId": 210,
+		"Level": 1,
+		"Modelling": 7201,
+		"Number": 131
+	},
+	{
+		"FuncId": 210,
+		"Level": 2,
+		"Modelling": 7202,
+		"MultiCost": "1:30",
+		"Number": 132,
+		"Prize": "2251301:6"
+	},
+	{
+		"FuncId": 210,
+		"Level": 3,
+		"Modelling": 7203,
+		"MultiCost": "1:30",
+		"Number": 133,
+		"Prize": "2251301:15"
+	},
+	{
+		"FuncId": 210,
+		"Level": 4,
+		"Modelling": 7204,
+		"MultiCost": "1:30",
+		"Number": 134,
+		"Prize": "2251301:30"
+	},
+	{
+		"FuncId": 210,
+		"Level": 5,
+		"Modelling": 7205,
+		"MultiCost": "1:30",
+		"Number": 135,
+		"Prize": "2251301:60"
+	},
+	{
+		"FuncId": 210,
+		"Level": 6,
+		"Modelling": 7206,
+		"MultiCost": "1:30",
+		"Number": 136,
+		"Prize": "2251301:80"
+	},
+	{
+		"FuncId": 210,
+		"Level": 7,
+		"Modelling": 7207,
+		"MultiCost": "1:30",
+		"Number": 137,
+		"Prize": "2251301:100"
+	},
+	{
+		"FuncId": 210,
+		"Level": 8,
+		"Modelling": 7208,
+		"MultiCost": "1:30",
+		"Number": 138,
+		"Prize": "2251301:120"
+	},
+	{
+		"FuncId": 210,
+		"Level": 9,
+		"Modelling": 7209,
+		"MultiCost": "1:30",
+		"Number": 139,
+		"Prize": "2251301:130"
+	},
+	{
+		"FuncId": 210,
+		"Level": 10,
+		"Modelling": 7210,
+		"MultiCost": "1:30",
+		"Number": 140,
+		"Prize": "2251301:150"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 1,
+		"Modelling": 6001,
+		"Number": 141
+	},
+	{
+		"FuncId": 15021,
+		"Level": 2,
+		"Modelling": 6002,
+		"MultiCost": "1:30",
+		"Number": 142,
+		"Prize": "2251401:6"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 3,
+		"Modelling": 6003,
+		"MultiCost": "1:30",
+		"Number": 143,
+		"Prize": "2251401:15"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 4,
+		"Modelling": 6004,
+		"MultiCost": "1:30",
+		"Number": 144,
+		"Prize": "2251401:30"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 5,
+		"Modelling": 6005,
+		"MultiCost": "1:30",
+		"Number": 145,
+		"Prize": "2251401:60"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 6,
+		"Modelling": 6006,
+		"MultiCost": "1:30",
+		"Number": 146,
+		"Prize": "2251401:80"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 7,
+		"Modelling": 6007,
+		"MultiCost": "1:30",
+		"Number": 147,
+		"Prize": "2251401:100"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 8,
+		"Modelling": 6008,
+		"MultiCost": "1:30",
+		"Number": 148,
+		"Prize": "2251401:120"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 9,
+		"Modelling": 6009,
+		"MultiCost": "1:30",
+		"Number": 149,
+		"Prize": "2251401:130"
+	},
+	{
+		"FuncId": 15021,
+		"Level": 10,
+		"Modelling": 6010,
+		"MultiCost": "1:30",
+		"Number": 150,
+		"Prize": "2251401:150"
+	}
+]

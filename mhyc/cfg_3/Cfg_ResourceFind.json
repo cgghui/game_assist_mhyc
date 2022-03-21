@@ -1,0 +1,177 @@
+[
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "坐骑副本",
+		"FuncId": 159,
+		"HalfCostId": 14,
+		"Id": 1,
+		"Param": 1,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "宝石副本",
+		"FuncId": 11037,
+		"HalfCostId": 14,
+		"Id": 2,
+		"Param": 2,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "战神副本",
+		"FuncId": 11161,
+		"HalfCostId": 14,
+		"Id": 3,
+		"Param": 3,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "天仙副本",
+		"FuncId": 24,
+		"HalfCostId": 14,
+		"Id": 4,
+		"Param": 4,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "羽翼副本",
+		"FuncId": 158,
+		"HalfCostId": 14,
+		"Id": 5,
+		"Param": 5,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "灵气副本",
+		"FuncId": 11151,
+		"HalfCostId": 14,
+		"Id": 6,
+		"Param": 6,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "战骑副本",
+		"FuncId": 11162,
+		"HalfCostId": 14,
+		"Id": 7,
+		"Param": 7,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "光武副本",
+		"FuncId": 157,
+		"HalfCostId": 14,
+		"Id": 8,
+		"Param": 8,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "仙阶副本",
+		"FuncId": 27,
+		"HalfCostId": 14,
+		"Id": 9,
+		"Param": 9,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "法宝副本",
+		"FuncId": 156,
+		"HalfCostId": 14,
+		"Id": 10,
+		"Param": 10,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "神阶副本",
+		"FuncId": 11163,
+		"HalfCostId": 14,
+		"Id": 11,
+		"Param": 11,
+		"Type": 1
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "金币试炼",
+		"FuncId": 11152,
+		"HalfCostId": 14,
+		"Id": 51,
+		"Param": 2,
+		"Type": 2
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "经验试炼",
+		"FuncId": 11152,
+		"HalfCostId": 14,
+		"Id": 52,
+		"Param": 1,
+		"Type": 2
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "悬赏boss",
+		"FuncId": 11056,
+		"HalfCostId": 14,
+		"Id": 63,
+		"Type": 3
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "跑商",
+		"FuncId": 11182,
+		"HalfCostId": 14,
+		"Id": 91,
+		"Type": 4
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "王者争霸",
+		"FuncId": 74,
+		"HalfCostId": 14,
+		"Id": 101,
+		"Type": 5
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "竞技场",
+		"FuncId": 72,
+		"HalfCostId": 14,
+		"Id": 111,
+		"Type": 6
+	},
+	{
+		"CostItemId": 2,
+		"CostItemNum": 100,
+		"Des": "护送神女",
+		"FuncId": 814,
+		"HalfCostId": 14,
+		"Id": 131,
+		"Type": 7
+	}
+]

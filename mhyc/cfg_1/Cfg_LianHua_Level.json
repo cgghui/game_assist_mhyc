@@ -1,0 +1,502 @@
+[
+	{
+		"AttrId": 2400001,
+		"Level": 1,
+		"NeedExp": 10000
+	},
+	{
+		"AttrId": 2400002,
+		"Level": 2,
+		"NeedExp": 20000
+	},
+	{
+		"AttrId": 2400003,
+		"Level": 3,
+		"NeedExp": 30000
+	},
+	{
+		"AttrId": 2400004,
+		"Level": 4,
+		"NeedExp": 40000
+	},
+	{
+		"AttrId": 2400005,
+		"Level": 5,
+		"NeedExp": 50000
+	},
+	{
+		"AttrId": 2400006,
+		"Level": 6,
+		"NeedExp": 60000
+	},
+	{
+		"AttrId": 2400007,
+		"Level": 7,
+		"NeedExp": 70000
+	},
+	{
+		"AttrId": 2400008,
+		"Level": 8,
+		"NeedExp": 80000
+	},
+	{
+		"AttrId": 2400009,
+		"Level": 9,
+		"NeedExp": 90000
+	},
+	{
+		"AttrId": 2400010,
+		"Level": 10,
+		"NeedExp": 100000
+	},
+	{
+		"AttrId": 2400011,
+		"Level": 11,
+		"NeedExp": 120000
+	},
+	{
+		"AttrId": 2400012,
+		"Level": 12,
+		"NeedExp": 140000
+	},
+	{
+		"AttrId": 2400013,
+		"Level": 13,
+		"NeedExp": 160000
+	},
+	{
+		"AttrId": 2400014,
+		"Level": 14,
+		"NeedExp": 180000
+	},
+	{
+		"AttrId": 2400015,
+		"Level": 15,
+		"NeedExp": 200000
+	},
+	{
+		"AttrId": 2400016,
+		"Level": 16,
+		"NeedExp": 220000
+	},
+	{
+		"AttrId": 2400017,
+		"Level": 17,
+		"NeedExp": 240000
+	},
+	{
+		"AttrId": 2400018,
+		"Level": 18,
+		"NeedExp": 260000
+	},
+	{
+		"AttrId": 2400019,
+		"Level": 19,
+		"NeedExp": 280000
+	},
+	{
+		"AttrId": 2400020,
+		"Level": 20,
+		"NeedExp": 300000
+	},
+	{
+		"AttrId": 2400021,
+		"Level": 21,
+		"NeedExp": 330000
+	},
+	{
+		"AttrId": 2400022,
+		"Level": 22,
+		"NeedExp": 360000
+	},
+	{
+		"AttrId": 2400023,
+		"Level": 23,
+		"NeedExp": 390000
+	},
+	{
+		"AttrId": 2400024,
+		"Level": 24,
+		"NeedExp": 420000
+	},
+	{
+		"AttrId": 2400025,
+		"Level": 25,
+		"NeedExp": 450000
+	},
+	{
+		"AttrId": 2400026,
+		"Level": 26,
+		"NeedExp": 480000
+	},
+	{
+		"AttrId": 2400027,
+		"Level": 27,
+		"NeedExp": 510000
+	},
+	{
+		"AttrId": 2400028,
+		"Level": 28,
+		"NeedExp": 540000
+	},
+	{
+		"AttrId": 2400029,
+		"Level": 29,
+		"NeedExp": 570000
+	},
+	{
+		"AttrId": 2400030,
+		"Level": 30,
+		"NeedExp": 600000
+	},
+	{
+		"AttrId": 2400031,
+		"Level": 31,
+		"NeedExp": 640000
+	},
+	{
+		"AttrId": 2400032,
+		"Level": 32,
+		"NeedExp": 680000
+	},
+	{
+		"AttrId": 2400033,
+		"Level": 33,
+		"NeedExp": 720000
+	},
+	{
+		"AttrId": 2400034,
+		"Level": 34,
+		"NeedExp": 760000
+	},
+	{
+		"AttrId": 2400035,
+		"Level": 35,
+		"NeedExp": 800000
+	},
+	{
+		"AttrId": 2400036,
+		"Level": 36,
+		"NeedExp": 840000
+	},
+	{
+		"AttrId": 2400037,
+		"Level": 37,
+		"NeedExp": 880000
+	},
+	{
+		"AttrId": 2400038,
+		"Level": 38,
+		"NeedExp": 920000
+	},
+	{
+		"AttrId": 2400039,
+		"Level": 39,
+		"NeedExp": 960000
+	},
+	{
+		"AttrId": 2400040,
+		"Level": 40,
+		"NeedExp": 1000000
+	},
+	{
+		"AttrId": 2400041,
+		"Level": 41,
+		"NeedExp": 1050000
+	},
+	{
+		"AttrId": 2400042,
+		"Level": 42,
+		"NeedExp": 1100000
+	},
+	{
+		"AttrId": 2400043,
+		"Level": 43,
+		"NeedExp": 1150000
+	},
+	{
+		"AttrId": 2400044,
+		"Level": 44,
+		"NeedExp": 1200000
+	},
+	{
+		"AttrId": 2400045,
+		"Level": 45,
+		"NeedExp": 1250000
+	},
+	{
+		"AttrId": 2400046,
+		"Level": 46,
+		"NeedExp": 1300000
+	},
+	{
+		"AttrId": 2400047,
+		"Level": 47,
+		"NeedExp": 1350000
+	},
+	{
+		"AttrId": 2400048,
+		"Level": 48,
+		"NeedExp": 1400000
+	},
+	{
+		"AttrId": 2400049,
+		"Level": 49,
+		"NeedExp": 1450000
+	},
+	{
+		"AttrId": 2400050,
+		"Level": 50,
+		"NeedExp": 1500000
+	},
+	{
+		"AttrId": 2400051,
+		"Level": 51,
+		"NeedExp": 1560000
+	},
+	{
+		"AttrId": 2400052,
+		"Level": 52,
+		"NeedExp": 1620000
+	},
+	{
+		"AttrId": 2400053,
+		"Level": 53,
+		"NeedExp": 1680000
+	},
+	{
+		"AttrId": 2400054,
+		"Level": 54,
+		"NeedExp": 1740000
+	},
+	{
+		"AttrId": 2400055,
+		"Level": 55,
+		"NeedExp": 1800000
+	},
+	{
+		"AttrId": 2400056,
+		"Level": 56,
+		"NeedExp": 1860000
+	},
+	{
+		"AttrId": 2400057,
+		"Level": 57,
+		"NeedExp": 1920000
+	},
+	{
+		"AttrId": 2400058,
+		"Level": 58,
+		"NeedExp": 1980000
+	},
+	{
+		"AttrId": 2400059,
+		"Level": 59,
+		"NeedExp": 2040000
+	},
+	{
+		"AttrId": 2400060,
+		"Level": 60,
+		"NeedExp": 2100000
+	},
+	{
+		"AttrId": 2400061,
+		"Level": 61,
+		"NeedExp": 2170000
+	},
+	{
+		"AttrId": 2400062,
+		"Level": 62,
+		"NeedExp": 2240000
+	},
+	{
+		"AttrId": 2400063,
+		"Level": 63,
+		"NeedExp": 2310000
+	},
+	{
+		"AttrId": 2400064,
+		"Level": 64,
+		"NeedExp": 2380000
+	},
+	{
+		"AttrId": 2400065,
+		"Level": 65,
+		"NeedExp": 2450000
+	},
+	{
+		"AttrId": 2400066,
+		"Level": 66,
+		"NeedExp": 2520000
+	},
+	{
+		"AttrId": 2400067,
+		"Level": 67,
+		"NeedExp": 2590000
+	},
+	{
+		"AttrId": 2400068,
+		"Level": 68,
+		"NeedExp": 2660000
+	},
+	{
+		"AttrId": 2400069,
+		"Level": 69,
+		"NeedExp": 2730000
+	},
+	{
+		"AttrId": 2400070,
+		"Level": 70,
+		"NeedExp": 2800000
+	},
+	{
+		"AttrId": 2400071,
+		"Level": 71,
+		"NeedExp": 2880000
+	},
+	{
+		"AttrId": 2400072,
+		"Level": 72,
+		"NeedExp": 2960000
+	},
+	{
+		"AttrId": 2400073,
+		"Level": 73,
+		"NeedExp": 3040000
+	},
+	{
+		"AttrId": 2400074,
+		"Level": 74,
+		"NeedExp": 3120000
+	},
+	{
+		"AttrId": 2400075,
+		"Level": 75,
+		"NeedExp": 3200000
+	},
+	{
+		"AttrId": 2400076,
+		"Level": 76,
+		"NeedExp": 3280000
+	},
+	{
+		"AttrId": 2400077,
+		"Level": 77,
+		"NeedExp": 3360000
+	},
+	{
+		"AttrId": 2400078,
+		"Level": 78,
+		"NeedExp": 3440000
+	},
+	{
+		"AttrId": 2400079,
+		"Level": 79,
+		"NeedExp": 3520000
+	},
+	{
+		"AttrId": 2400080,
+		"Level": 80,
+		"NeedExp": 3600000
+	},
+	{
+		"AttrId": 2400081,
+		"Level": 81,
+		"NeedExp": 3690000
+	},
+	{
+		"AttrId": 2400082,
+		"Level": 82,
+		"NeedExp": 3780000
+	},
+	{
+		"AttrId": 2400083,
+		"Level": 83,
+		"NeedExp": 3870000
+	},
+	{
+		"AttrId": 2400084,
+		"Level": 84,
+		"NeedExp": 3960000
+	},
+	{
+		"AttrId": 2400085,
+		"Level": 85,
+		"NeedExp": 4050000
+	},
+	{
+		"AttrId": 2400086,
+		"Level": 86,
+		"NeedExp": 4140000
+	},
+	{
+		"AttrId": 2400087,
+		"Level": 87,
+		"NeedExp": 4230000
+	},
+	{
+		"AttrId": 2400088,
+		"Level": 88,
+		"NeedExp": 4320000
+	},
+	{
+		"AttrId": 2400089,
+		"Level": 89,
+		"NeedExp": 4410000
+	},
+	{
+		"AttrId": 2400090,
+		"Level": 90,
+		"NeedExp": 4500000
+	},
+	{
+		"AttrId": 2400091,
+		"Level": 91,
+		"NeedExp": 4600000
+	},
+	{
+		"AttrId": 2400092,
+		"Level": 92,
+		"NeedExp": 4700000
+	},
+	{
+		"AttrId": 2400093,
+		"Level": 93,
+		"NeedExp": 4800000
+	},
+	{
+		"AttrId": 2400094,
+		"Level": 94,
+		"NeedExp": 4900000
+	},
+	{
+		"AttrId": 2400095,
+		"Level": 95,
+		"NeedExp": 5000000
+	},
+	{
+		"AttrId": 2400096,
+		"Level": 96,
+		"NeedExp": 5100000
+	},
+	{
+		"AttrId": 2400097,
+		"Level": 97,
+		"NeedExp": 5200000
+	},
+	{
+		"AttrId": 2400098,
+		"Level": 98,
+		"NeedExp": 5300000
+	},
+	{
+		"AttrId": 2400099,
+		"Level": 99,
+		"NeedExp": 5400000
+	},
+	{
+		"AttrId": 2400100,
+		"Level": 100,
+		"NeedExp": 5500000
+	}
+]

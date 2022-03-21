@@ -1,0 +1,62 @@
+[
+	{
+		"AttrPresent": 20000,
+		"SkillLevel": 2,
+		"Star": 1,
+		"StarUpItemNum": 1
+	},
+	{
+		"AttrPresent": 30000,
+		"SkillLevel": 2,
+		"Star": 2,
+		"StarUpItemNum": 2
+	},
+	{
+		"AttrPresent": 40000,
+		"SkillLevel": 3,
+		"Star": 3,
+		"StarUpItemNum": 3
+	},
+	{
+		"AttrPresent": 50000,
+		"SkillLevel": 3,
+		"Star": 4,
+		"StarUpItemNum": 4
+	},
+	{
+		"AttrPresent": 60000,
+		"SkillLevel": 4,
+		"Star": 5,
+		"StarUpItemNum": 5
+	},
+	{
+		"AttrPresent": 70000,
+		"SkillLevel": 4,
+		"Star": 6,
+		"StarUpItemNum": 6
+	},
+	{
+		"AttrPresent": 80000,
+		"SkillLevel": 5,
+		"Star": 7,
+		"StarUpItemNum": 7
+	},
+	{
+		"AttrPresent": 90000,
+		"SkillLevel": 5,
+		"Star": 8,
+		"StarUpItemNum": 8
+	},
+	{
+		"AttrPresent": 100000,
+		"SkillLevel": 6,
+		"Star": 9,
+		"StarUpItemNum": 9
+	},
+	{
+		"AttrPresent": 110000,
+		"SkillLevel": 6,
+		"Star": 10,
+		"StarUpItemNum": 10
+	}
+]

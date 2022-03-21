@@ -1,0 +1,42 @@
+[
+	{
+		"SkillLockMax": 1,
+		"SkillMax": 4,
+		"Type": 1
+	},
+	{
+		"Increase": 1000,
+		"Prob": 10000,
+		"SkillLockMax": 1,
+		"SkillMax": 6,
+		"Type": 2
+	},
+	{
+		"Increase": 3000,
+		"Prob": 100,
+		"SkillLockMax": 2,
+		"SkillMax": 8,
+		"Type": 3
+	},
+	{
+		"SkillLockMax": 1,
+		"SkillMax": 10,
+		"Type": 4
+	},
+	{
+		"Increase": 2000,
+		"Prob": 50,
+		"ProbInc": 1600,
+		"SkillLockMax": 2,
+		"SkillMax": 12,
+		"Type": 5
+	},
+	{
+		"Increase": 5000,
+		"Prob": 10,
+		"ProbInc": 320,
+		"SkillLockMax": 3,
+		"SkillMax": 12,
+		"Type": 6
+	}
+]

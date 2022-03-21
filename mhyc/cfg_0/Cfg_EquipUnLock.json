@@ -1,0 +1,913 @@
+[
+	{
+		"FuncId": 28,
+		"Name": "武器",
+		"Pos": 1
+	},
+	{
+		"ContionId": 25202,
+		"FuncId": 28,
+		"Name": "头饰",
+		"Pos": 2
+	},
+	{
+		"ContionId": 25203,
+		"FuncId": 28,
+		"Name": "衣甲",
+		"Pos": 3
+	},
+	{
+		"ContionId": 25204,
+		"FuncId": 28,
+		"Name": "腰带",
+		"Pos": 4
+	},
+	{
+		"ContionId": 25205,
+		"FuncId": 28,
+		"Name": "裙甲",
+		"Pos": 5
+	},
+	{
+		"ContionId": 25206,
+		"FuncId": 28,
+		"Name": "靴子",
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 1,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 1,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 1,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 1,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 1,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 1,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 1,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 1,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 1,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 1,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 2,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 2,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 2,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 2,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 2,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 2,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 2,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 2,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 2,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 2,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 3,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 3,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 3,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 3,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 3,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 3,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 3,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 3,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 3,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 3,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 4,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 4,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 4,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 4,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 4,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 4,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 4,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 4,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 4,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 4,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 5,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 5,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 5,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 5,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 5,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 5,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 5,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 5,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 5,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 5,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 6,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 6,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 6,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 6,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 6,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 6,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 6,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 6,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 6,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 6,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 7,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 7,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 7,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 7,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 7,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 7,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 7,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 7,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 7,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 7,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 8,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 8,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 8,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 8,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 8,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 8,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 8,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 8,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 8,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 8,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 9,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 9,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 9,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 9,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 9,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 9,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 9,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 9,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 9,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 9,
+		"Pos": 10
+	},
+	{
+		"FuncId": 14104,
+		"Name": "剑",
+		"ObjId": 10,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14104,
+		"Name": "冠",
+		"ObjId": 10,
+		"Pos": 6
+	},
+	{
+		"FuncId": 14104,
+		"Name": "链",
+		"ObjId": 10,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14104,
+		"Name": "袍",
+		"ObjId": 10,
+		"Pos": 7
+	},
+	{
+		"FuncId": 14104,
+		"Name": "肩",
+		"ObjId": 10,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14104,
+		"Name": "带",
+		"ObjId": 10,
+		"Pos": 8
+	},
+	{
+		"FuncId": 14104,
+		"Name": "腕",
+		"ObjId": 10,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14104,
+		"Name": "戒",
+		"ObjId": 10,
+		"Pos": 5
+	},
+	{
+		"FuncId": 14104,
+		"Name": "裤",
+		"ObjId": 10,
+		"Pos": 9
+	},
+	{
+		"FuncId": 14104,
+		"Name": "靴",
+		"ObjId": 10,
+		"Pos": 10
+	},
+	{
+		"FuncId": 15001,
+		"Name": "首",
+		"Pos": 1
+	},
+	{
+		"FuncId": 15001,
+		"Name": "躯",
+		"Pos": 2
+	},
+	{
+		"FuncId": 15001,
+		"Name": "臂",
+		"Pos": 3
+	},
+	{
+		"FuncId": 15001,
+		"Name": "手",
+		"Pos": 4
+	},
+	{
+		"FuncId": 15001,
+		"Name": "腿",
+		"Pos": 5
+	},
+	{
+		"FuncId": 15001,
+		"Name": "足",
+		"Pos": 6
+	},
+	{
+		"FuncId": 14302,
+		"Name": "面",
+		"Pos": 1
+	},
+	{
+		"FuncId": 14302,
+		"Name": "眼",
+		"Pos": 2
+	},
+	{
+		"FuncId": 14302,
+		"Name": "心",
+		"Pos": 3
+	},
+	{
+		"FuncId": 14302,
+		"Name": "印",
+		"Pos": 4
+	},
+	{
+		"FuncId": 14302,
+		"Name": "带",
+		"Pos": 5
+	},
+	{
+		"FuncId": 14302,
+		"Name": "盾",
+		"Pos": 6
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 1,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 1,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 1,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 1,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 2,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 2,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 2,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 2,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 3,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 3,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 3,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 3,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 4,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 4,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 4,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 4,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 5,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 5,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 5,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 5,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 6,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 6,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 6,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 6,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 7,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 7,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 7,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 7,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 8,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 8,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 8,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 8,
+		"Pos": 4
+	},
+	{
+		"FuncId": 14115,
+		"Name": "剑",
+		"ObjId": 9,
+		"Pos": 1
+	},
+	{
+		"FuncId": 14115,
+		"Name": "衣",
+		"ObjId": 9,
+		"Pos": 2
+	},
+	{
+		"FuncId": 14115,
+		"Name": "裤",
+		"ObjId": 9,
+		"Pos": 3
+	},
+	{
+		"FuncId": 14115,
+		"Name": "鞋",
+		"ObjId": 9,
+		"Pos": 4
+	}
+]

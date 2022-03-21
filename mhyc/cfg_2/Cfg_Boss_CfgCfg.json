@@ -1,0 +1,54 @@
+[
+	{
+		"CfgKey": "PersonalBossSweepVipLevel",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "MultiBossTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "MultiBossAddTimes",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "MultiBossInterval",
+		"CfgValue": "7200"
+	},
+	{
+		"CfgKey": "MultiBossBuyLimitId",
+		"CfgValue": "10003"
+	},
+	{
+		"CfgKey": "MultiBossBuyNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "TreatAutoVal",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "AutoFightMinVip",
+		"CfgValue": "16"
+	},
+	{
+		"CfgKey": "XldDayEntrustMaxTimes",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "XsdXsdDayFightTimes",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "XsdXmdDayFightTime",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "BossHomeTempBagMaxN",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "MiJingBossWareHouseId",
+		"CfgValue": "3"
+	}
+]

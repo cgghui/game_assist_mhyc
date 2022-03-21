@@ -1,0 +1,50 @@
+[
+	{
+		"DropId": 981,
+		"Event": 1,
+		"GroupId": 1,
+		"Id": 1
+	},
+	{
+		"DropId": 982,
+		"Event": 2,
+		"GroupId": 1,
+		"Id": 2
+	},
+	{
+		"DropId": 983,
+		"Event": 4,
+		"GroupId": 1,
+		"Id": 3
+	},
+	{
+		"DropId": 984,
+		"Event": 6,
+		"GroupId": 1,
+		"Id": 4
+	},
+	{
+		"DropId": 981,
+		"Event": 1,
+		"GroupId": 2,
+		"Id": 5
+	},
+	{
+		"DropId": 982,
+		"Event": 2,
+		"GroupId": 2,
+		"Id": 6
+	},
+	{
+		"DropId": 983,
+		"Event": 4,
+		"GroupId": 2,
+		"Id": 7
+	},
+	{
+		"DropId": 984,
+		"Event": 6,
+		"GroupId": 2,
+		"Id": 8
+	}
+]

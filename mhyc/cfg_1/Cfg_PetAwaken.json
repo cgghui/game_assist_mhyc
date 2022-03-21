@@ -1,0 +1,51 @@
+[
+	{
+		"AnimId": "5801",
+		"BackCost": "1:100",
+		"BackReturn": 1,
+		"Cost": "1:1",
+		"Star": 1
+	},
+	{
+		"AnimId": "5802",
+		"BackCost": "1:300",
+		"BackReturn": 1,
+		"Cost": "2:2",
+		"Star": 2
+	},
+	{
+		"AnimId": "5803",
+		"BackCost": "2020073:1",
+		"BackReturn": 1,
+		"Cost": "11:1|2:2",
+		"Star": 3
+	},
+	{
+		"AnimId": "5804",
+		"BackCost": "2020072:1",
+		"BackReturn": 1,
+		"Cost": "22:1|2:1",
+		"Star": 4
+	},
+	{
+		"AnimId": "5805",
+		"BackCost": "2020071:1",
+		"BackReturn": 1,
+		"Cost": "13:1|22:1|21:1",
+		"Star": 5
+	},
+	{
+		"AnimId": "5805",
+		"BackCost": "2020070:1",
+		"BackReturn": 1,
+		"Cost": "23:1|1:3",
+		"Star": 6
+	},
+	{
+		"AnimId": "5805",
+		"BackCost": "2020069:1",
+		"BackReturn": 1,
+		"Cost": "15:1|24:1|1:2",
+		"Star": 7
+	}
+]

@@ -1,0 +1,1922 @@
+[
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e宠物圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e宠物圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e宠物圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 1,
+		"SkillId": 10201,
+		"SkillLv": 40,
+		"SuitId": 80506
+	},
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e天仙圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e天仙圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e天仙圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 2,
+		"SkillId": 10202,
+		"SkillLv": 40,
+		"SuitId": 80506
+	},
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e战神圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e战神圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e战神圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 3,
+		"SkillId": 10203,
+		"SkillLv": 40,
+		"SuitId": 80506
+	},
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e仙童圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e仙童圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e仙童圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 4,
+		"SkillId": 10204,
+		"SkillLv": 40,
+		"SuitId": 80506
+	},
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e偃甲圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e偃甲圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e偃甲圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 5,
+		"SkillId": 10205,
+		"SkillLv": 40,
+		"SuitId": 80506
+	},
+	{
+		"Attr1": 1000,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升10%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 1,
+		"SuitId": 10106
+	},
+	{
+		"Attr1": 1200,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升12%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 2,
+		"SuitId": 10206
+	},
+	{
+		"Attr1": 1400,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升14%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 3,
+		"SuitId": 10306
+	},
+	{
+		"Attr1": 1600,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升16%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 4,
+		"SuitId": 10406
+	},
+	{
+		"Attr1": 1800,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升18%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 5,
+		"SuitId": 10506
+	},
+	{
+		"Attr1": 2000,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升20%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 6,
+		"SuitId": 20106
+	},
+	{
+		"Attr1": 2200,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升22%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 7,
+		"SuitId": 20206
+	},
+	{
+		"Attr1": 2400,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升24%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 8,
+		"SuitId": 20306
+	},
+	{
+		"Attr1": 2600,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升26%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 9,
+		"SuitId": 20406
+	},
+	{
+		"Attr1": 2800,
+		"Description": "\u003ccolor=#fa72f8\u003e英雄圣痕总战力提升28%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 10,
+		"SuitId": 20506
+	},
+	{
+		"Attr1": 3000,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升30%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 11,
+		"SuitId": 30106
+	},
+	{
+		"Attr1": 3200,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升32%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 12,
+		"SuitId": 30206
+	},
+	{
+		"Attr1": 3400,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升34%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 13,
+		"SuitId": 30306
+	},
+	{
+		"Attr1": 3600,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升36%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 14,
+		"SuitId": 30406
+	},
+	{
+		"Attr1": 3800,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升38%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 15,
+		"SuitId": 30506
+	},
+	{
+		"Attr1": 4000,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升40%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 16,
+		"SuitId": 40106
+	},
+	{
+		"Attr1": 4200,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升42%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 17,
+		"SuitId": 40206
+	},
+	{
+		"Attr1": 4400,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升44%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 18,
+		"SuitId": 40306
+	},
+	{
+		"Attr1": 4600,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升46%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 19,
+		"SuitId": 40406
+	},
+	{
+		"Attr1": 4800,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升48%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 20,
+		"SuitId": 40506
+	},
+	{
+		"Attr1": 5000,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升50%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 21,
+		"SuitId": 50106
+	},
+	{
+		"Attr1": 5200,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升52%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 22,
+		"SuitId": 50206
+	},
+	{
+		"Attr1": 5400,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升54%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 23,
+		"SuitId": 50306
+	},
+	{
+		"Attr1": 5600,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升56%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 24,
+		"SuitId": 50406
+	},
+	{
+		"Attr1": 5800,
+		"Description": "\u003ccolor=#ff4242\u003e英雄圣痕总战力提升58%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 25,
+		"SuitId": 50506
+	},
+	{
+		"Attr1": 6000,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升60%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 26,
+		"SuitId": 60106
+	},
+	{
+		"Attr1": 6200,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升62%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 27,
+		"SuitId": 60206
+	},
+	{
+		"Attr1": 6400,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升64%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 28,
+		"SuitId": 60306
+	},
+	{
+		"Attr1": 6600,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升66%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 29,
+		"SuitId": 60406
+	},
+	{
+		"Attr1": 6800,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升68%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 30,
+		"SuitId": 60506
+	},
+	{
+		"Attr1": 7000,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升70%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 31,
+		"SuitId": 70106
+	},
+	{
+		"Attr1": 7200,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升72%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 32,
+		"SuitId": 70206
+	},
+	{
+		"Attr1": 7400,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升74%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 33,
+		"SuitId": 70306
+	},
+	{
+		"Attr1": 7600,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升76%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 34,
+		"SuitId": 70406
+	},
+	{
+		"Attr1": 7800,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升78%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 35,
+		"SuitId": 70506
+	},
+	{
+		"Attr1": 8000,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升80%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 36,
+		"SuitId": 80106
+	},
+	{
+		"Attr1": 8200,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升82%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 37,
+		"SuitId": 80206
+	},
+	{
+		"Attr1": 8400,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升84%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 38,
+		"SuitId": 80306
+	},
+	{
+		"Attr1": 8600,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升86%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 39,
+		"SuitId": 80406
+	},
+	{
+		"Attr1": 8800,
+		"Description": "\u003ccolor=#f3f049\u003e英雄圣痕总战力提升88%\u003c/c\u003e",
+		"Id": 6,
+		"SkillId": 10206,
+		"SkillLv": 40,
+		"SuitId": 80506
+	}
+]

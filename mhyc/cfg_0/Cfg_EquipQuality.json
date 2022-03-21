@@ -1,0 +1,1730 @@
+[
+	{
+		"CostEquipId": 901018101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902018101,
+		"ObjId": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901018102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902018102,
+		"ObjId": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901018103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902018103,
+		"ObjId": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901018104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902018104,
+		"ObjId": 1,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901028101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902028101,
+		"ObjId": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901028102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902028102,
+		"ObjId": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901028103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902028103,
+		"ObjId": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901028104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902028104,
+		"ObjId": 3,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901038101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902038101,
+		"ObjId": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901038102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902038102,
+		"ObjId": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901038103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902038103,
+		"ObjId": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901038104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902038104,
+		"ObjId": 2,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901048101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902048101,
+		"ObjId": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901048102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902048102,
+		"ObjId": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901048103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902048103,
+		"ObjId": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901048104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902048104,
+		"ObjId": 4,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901058101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902058101,
+		"ObjId": 6,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901058102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902058102,
+		"ObjId": 6,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901058103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902058103,
+		"ObjId": 6,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901058104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902058104,
+		"ObjId": 6,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901068101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902068101,
+		"ObjId": 5,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901068102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902068102,
+		"ObjId": 5,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901068103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902068103,
+		"ObjId": 5,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901068104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902068104,
+		"ObjId": 5,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901078101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902078101,
+		"ObjId": 7,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901078102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902078102,
+		"ObjId": 7,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901078103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902078103,
+		"ObjId": 7,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901078104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902078104,
+		"ObjId": 7,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901088101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902088101,
+		"ObjId": 9,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901088102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902088102,
+		"ObjId": 9,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901088103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902088103,
+		"ObjId": 9,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901088104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902088104,
+		"ObjId": 9,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901098101,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902098101,
+		"ObjId": 8,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901098102,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902098102,
+		"ObjId": 8,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901098103,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902098103,
+		"ObjId": 8,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 901098104,
+		"CostItem": "2080451:20|2200831:40|3:20000000",
+		"FuncId": 14115,
+		"ItemId": 902098104,
+		"ObjId": 8,
+		"StrengthSLev": 50
+	},
+	{
+		"CostEquipId": 902018101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903018101,
+		"ObjId": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902018102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903018102,
+		"ObjId": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902018103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903018103,
+		"ObjId": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902018104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903018104,
+		"ObjId": 1,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902028101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903028101,
+		"ObjId": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902028102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903028102,
+		"ObjId": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902028103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903028103,
+		"ObjId": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902028104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903028104,
+		"ObjId": 3,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902038101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903038101,
+		"ObjId": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902038102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903038102,
+		"ObjId": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902038103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903038103,
+		"ObjId": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902038104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903038104,
+		"ObjId": 2,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902048101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903048101,
+		"ObjId": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902048102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903048102,
+		"ObjId": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902048103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903048103,
+		"ObjId": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902048104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903048104,
+		"ObjId": 4,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902058101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903058101,
+		"ObjId": 6,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902058102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903058102,
+		"ObjId": 6,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902058103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903058103,
+		"ObjId": 6,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902058104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903058104,
+		"ObjId": 6,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902068101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903068101,
+		"ObjId": 5,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902068102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903068102,
+		"ObjId": 5,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902068103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903068103,
+		"ObjId": 5,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902068104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903068104,
+		"ObjId": 5,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902078101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903078101,
+		"ObjId": 7,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902078102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903078102,
+		"ObjId": 7,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902078103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903078103,
+		"ObjId": 7,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902078104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903078104,
+		"ObjId": 7,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902088101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903088101,
+		"ObjId": 9,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902088102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903088102,
+		"ObjId": 9,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902088103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903088103,
+		"ObjId": 9,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902088104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903088104,
+		"ObjId": 9,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902098101,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903098101,
+		"ObjId": 8,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902098102,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903098102,
+		"ObjId": 8,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902098103,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903098103,
+		"ObjId": 8,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 902098104,
+		"CostItem": "2080451:40|2200831:80|3:40000000",
+		"FuncId": 14115,
+		"ItemId": 903098104,
+		"ObjId": 8,
+		"StrengthSLev": 100
+	},
+	{
+		"CostEquipId": 903018101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904018101,
+		"ObjId": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903018102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904018102,
+		"ObjId": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903018103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904018103,
+		"ObjId": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903018104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904018104,
+		"ObjId": 1,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903028101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904028101,
+		"ObjId": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903028102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904028102,
+		"ObjId": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903028103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904028103,
+		"ObjId": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903028104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904028104,
+		"ObjId": 3,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903038101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904038101,
+		"ObjId": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903038102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904038102,
+		"ObjId": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903038103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904038103,
+		"ObjId": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903038104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904038104,
+		"ObjId": 2,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903048101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904048101,
+		"ObjId": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903048102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904048102,
+		"ObjId": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903048103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904048103,
+		"ObjId": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903048104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904048104,
+		"ObjId": 4,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903058101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904058101,
+		"ObjId": 6,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903058102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904058102,
+		"ObjId": 6,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903058103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904058103,
+		"ObjId": 6,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903058104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904058104,
+		"ObjId": 6,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903068101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904068101,
+		"ObjId": 5,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903068102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904068102,
+		"ObjId": 5,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903068103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904068103,
+		"ObjId": 5,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903068104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904068104,
+		"ObjId": 5,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903078101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904078101,
+		"ObjId": 7,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903078102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904078102,
+		"ObjId": 7,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903078103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904078103,
+		"ObjId": 7,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903078104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904078104,
+		"ObjId": 7,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903088101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904088101,
+		"ObjId": 9,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903088102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904088102,
+		"ObjId": 9,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903088103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904088103,
+		"ObjId": 9,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903088104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904088104,
+		"ObjId": 9,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903098101,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904098101,
+		"ObjId": 8,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903098102,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904098102,
+		"ObjId": 8,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903098103,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904098103,
+		"ObjId": 8,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 903098104,
+		"CostItem": "2080451:80|2200831:160|3:80000000",
+		"FuncId": 14115,
+		"ItemId": 904098104,
+		"ObjId": 8,
+		"StrengthSLev": 150
+	},
+	{
+		"CostEquipId": 904018101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905018101,
+		"ObjId": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904018102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905018102,
+		"ObjId": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904018103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905018103,
+		"ObjId": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904018104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905018104,
+		"ObjId": 1,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904028101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905028101,
+		"ObjId": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904028102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905028102,
+		"ObjId": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904028103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905028103,
+		"ObjId": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904028104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905028104,
+		"ObjId": 3,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904038101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905038101,
+		"ObjId": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904038102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905038102,
+		"ObjId": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904038103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905038103,
+		"ObjId": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904038104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905038104,
+		"ObjId": 2,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904048101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905048101,
+		"ObjId": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904048102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905048102,
+		"ObjId": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904048103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905048103,
+		"ObjId": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904048104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905048104,
+		"ObjId": 4,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904058101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905058101,
+		"ObjId": 6,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904058102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905058102,
+		"ObjId": 6,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904058103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905058103,
+		"ObjId": 6,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904058104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905058104,
+		"ObjId": 6,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904068101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905068101,
+		"ObjId": 5,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904068102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905068102,
+		"ObjId": 5,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904068103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905068103,
+		"ObjId": 5,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904068104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905068104,
+		"ObjId": 5,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904078101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905078101,
+		"ObjId": 7,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904078102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905078102,
+		"ObjId": 7,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904078103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905078103,
+		"ObjId": 7,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904078104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905078104,
+		"ObjId": 7,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904088101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905088101,
+		"ObjId": 9,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904088102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905088102,
+		"ObjId": 9,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904088103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905088103,
+		"ObjId": 9,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904088104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905088104,
+		"ObjId": 9,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904098101,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905098101,
+		"ObjId": 8,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904098102,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905098102,
+		"ObjId": 8,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904098103,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905098103,
+		"ObjId": 8,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 904098104,
+		"CostItem": "2080452:10|2080451:160|2200831:320|3:160000000",
+		"FuncId": 14115,
+		"ItemId": 905098104,
+		"ObjId": 8,
+		"StrengthSLev": 200
+	},
+	{
+		"CostEquipId": 905018101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906018101,
+		"ObjId": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905018102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906018102,
+		"ObjId": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905018103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906018103,
+		"ObjId": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905018104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906018104,
+		"ObjId": 1,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905028101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906028101,
+		"ObjId": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905028102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906028102,
+		"ObjId": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905028103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906028103,
+		"ObjId": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905028104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906028104,
+		"ObjId": 3,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905038101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906038101,
+		"ObjId": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905038102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906038102,
+		"ObjId": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905038103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906038103,
+		"ObjId": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905038104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906038104,
+		"ObjId": 2,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905048101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906048101,
+		"ObjId": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905048102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906048102,
+		"ObjId": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905048103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906048103,
+		"ObjId": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905048104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906048104,
+		"ObjId": 4,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905058101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906058101,
+		"ObjId": 6,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905058102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906058102,
+		"ObjId": 6,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905058103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906058103,
+		"ObjId": 6,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905058104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906058104,
+		"ObjId": 6,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905068101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906068101,
+		"ObjId": 5,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905068102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906068102,
+		"ObjId": 5,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905068103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906068103,
+		"ObjId": 5,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905068104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906068104,
+		"ObjId": 5,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905078101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906078101,
+		"ObjId": 7,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905078102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906078102,
+		"ObjId": 7,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905078103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906078103,
+		"ObjId": 7,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905078104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906078104,
+		"ObjId": 7,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905088101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906088101,
+		"ObjId": 9,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905088102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906088102,
+		"ObjId": 9,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905088103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906088103,
+		"ObjId": 9,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905088104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906088104,
+		"ObjId": 9,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905098101,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906098101,
+		"ObjId": 8,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905098102,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906098102,
+		"ObjId": 8,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905098103,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906098103,
+		"ObjId": 8,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 905098104,
+		"CostItem": "2080452:20|2080451:320|2200831:640|3:320000000",
+		"FuncId": 14115,
+		"ItemId": 906098104,
+		"ObjId": 8,
+		"StrengthSLev": 250
+	},
+	{
+		"CostEquipId": 906018101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907018101,
+		"ObjId": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906018102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907018102,
+		"ObjId": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906018103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907018103,
+		"ObjId": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906018104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907018104,
+		"ObjId": 1,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906028101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907028101,
+		"ObjId": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906028102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907028102,
+		"ObjId": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906028103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907028103,
+		"ObjId": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906028104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907028104,
+		"ObjId": 3,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906038101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907038101,
+		"ObjId": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906038102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907038102,
+		"ObjId": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906038103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907038103,
+		"ObjId": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906038104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907038104,
+		"ObjId": 2,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906048101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907048101,
+		"ObjId": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906048102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907048102,
+		"ObjId": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906048103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907048103,
+		"ObjId": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906048104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907048104,
+		"ObjId": 4,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906058101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907058101,
+		"ObjId": 6,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906058102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907058102,
+		"ObjId": 6,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906058103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907058103,
+		"ObjId": 6,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906058104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907058104,
+		"ObjId": 6,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906068101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907068101,
+		"ObjId": 5,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906068102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907068102,
+		"ObjId": 5,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906068103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907068103,
+		"ObjId": 5,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906068104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907068104,
+		"ObjId": 5,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906078101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907078101,
+		"ObjId": 7,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906078102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907078102,
+		"ObjId": 7,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906078103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907078103,
+		"ObjId": 7,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906078104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907078104,
+		"ObjId": 7,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906088101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907088101,
+		"ObjId": 9,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906088102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907088102,
+		"ObjId": 9,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906088103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907088103,
+		"ObjId": 9,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906088104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907088104,
+		"ObjId": 9,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906098101,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907098101,
+		"ObjId": 8,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906098102,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907098102,
+		"ObjId": 8,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906098103,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907098103,
+		"ObjId": 8,
+		"StrengthSLev": 300
+	},
+	{
+		"CostEquipId": 906098104,
+		"CostItem": "2080452:40|2080451:640|2200831:1280|3:640000000",
+		"FuncId": 14115,
+		"ItemId": 907098104,
+		"ObjId": 8,
+		"StrengthSLev": 300
+	}
+]

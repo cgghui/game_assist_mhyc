@@ -1,0 +1,109 @@
+[
+	{
+		"Des": "创角界面w",
+		"Name": "BJ_daiji_01",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 1,
+		"Name": "tiangong",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 2,
+		"Name": "BJ_daiji_01",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 3,
+		"Name": "tiangong",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 4,
+		"Name": "BJ_daiji_01",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "战斗音乐",
+		"Id": 5,
+		"Name": "BJ_zhandou_02",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "战斗音乐",
+		"Id": 6,
+		"Name": "BJ_zhandou_02",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "战斗音乐",
+		"Id": 7,
+		"Name": "BJ_zhandou_02",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "战斗音乐",
+		"Id": 8,
+		"Name": "BJ_zhandou_02",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "战斗背景音乐",
+		"Id": 9,
+		"Name": "BJ_zhandou_02",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "神域背景音乐",
+		"Id": 10,
+		"Name": "BJ_shenyu_01",
+		"Vol": "0.2"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 11,
+		"Name": "BJ_daiji_Boss",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 12,
+		"Name": "tian_ting",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 13,
+		"Name": "long_gong",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 14,
+		"Name": "jingji1",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 15,
+		"Name": "yijie1",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 16,
+		"Name": "lingshouyuan1",
+		"Vol": "0.5"
+	},
+	{
+		"Des": "场景背景音乐",
+		"Id": 17,
+		"Name": "SY_diantang",
+		"Vol": "0.5"
+	}
+]

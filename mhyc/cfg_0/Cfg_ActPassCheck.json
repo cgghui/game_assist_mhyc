@@ -1,0 +1,14 @@
+[
+	{
+		"ActId": 1101,
+		"ActTaskId": 1102,
+		"AddBuyInternal": 100,
+		"AddBuyMax": 100,
+		"AddBuyRate": 100,
+		"BuyMax": 80,
+		"ExpBox": 200,
+		"GoodsId": 901,
+		"Loop": 81,
+		"SessionInternal": 28
+	}
+]

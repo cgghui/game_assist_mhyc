@@ -1,0 +1,196 @@
+[
+	{
+		"AnimId": "4040",
+		"ID": 1,
+		"ResType": "horse",
+		"Scale": 100
+	},
+	{
+		"AnimId": "4236",
+		"ID": 2,
+		"ResType": "wing",
+		"Scale": 65
+	},
+	{
+		"AnimId": "4237",
+		"ID": 3,
+		"ResType": "wing",
+		"Scale": 70
+	},
+	{
+		"AnimId": "4238",
+		"ID": 4,
+		"ResType": "wing",
+		"Scale": 60
+	},
+	{
+		"AnimId": "4239",
+		"ID": 5,
+		"ResType": "wing",
+		"Scale": 70
+	},
+	{
+		"AnimId": "4240",
+		"ID": 6,
+		"ResType": "wing",
+		"Scale": 65
+	},
+	{
+		"AnimId": "4242",
+		"ID": 7,
+		"ResType": "wing",
+		"Scale": 70
+	},
+	{
+		"AnimId": "4243",
+		"ID": 8,
+		"ResType": "wing",
+		"Scale": 90
+	},
+	{
+		"AnimId": "4246",
+		"ID": 9,
+		"ResType": "wing",
+		"Scale": 85
+	},
+	{
+		"AnimId": "4247",
+		"ID": 10,
+		"ResType": "wing",
+		"Scale": 85
+	},
+	{
+		"AnimId": "4253",
+		"ID": 11,
+		"ResType": "wing",
+		"Scale": 80
+	},
+	{
+		"AnimId": "1057",
+		"ID": 12,
+		"ResType": "pet",
+		"Scale": 95
+	},
+	{
+		"AnimId": "1059",
+		"ID": 13,
+		"ResType": "pet",
+		"Scale": 80
+	},
+	{
+		"AnimId": "1063",
+		"ID": 14,
+		"ResType": "pet",
+		"Scale": 90
+	},
+	{
+		"AnimId": "1066",
+		"ID": 15,
+		"ResType": "pet",
+		"Scale": 90
+	},
+	{
+		"AnimId": "1067",
+		"ID": 16,
+		"ResType": "pet",
+		"Scale": 90
+	},
+	{
+		"AnimId": "1071",
+		"ID": 17,
+		"ResType": "pet",
+		"Scale": 85
+	},
+	{
+		"AnimId": "1317",
+		"ID": 18,
+		"ResType": "pet",
+		"Scale": 75
+	},
+	{
+		"AnimId": "1801",
+		"ID": 19,
+		"ResType": "pet",
+		"Scale": 75
+	},
+	{
+		"AnimId": "2034",
+		"ID": 20,
+		"ResType": "pet",
+		"Scale": 85
+	},
+	{
+		"AnimId": "2209",
+		"ID": 21,
+		"ResType": "pet",
+		"Scale": 85
+	},
+	{
+		"AnimId": "1802",
+		"ID": 22,
+		"ResType": "skill_effect",
+		"Scale": 50
+	},
+	{
+		"AnimId": "1803",
+		"ID": 23,
+		"ResType": "skill_effect",
+		"Scale": 50
+	},
+	{
+		"AnimId": "5017s",
+		"ID": 24,
+		"ResType": "skill_effect",
+		"Scale": 80
+	},
+	{
+		"AnimId": "5018",
+		"ID": 25,
+		"ResType": "skill_effect",
+		"Scale": 80
+	},
+	{
+		"AnimId": "15002s",
+		"ID": 26,
+		"ResType": "skill_effect",
+		"Scale": 80
+	},
+	{
+		"AnimId": "15003",
+		"ID": 27,
+		"ResType": "skill_effect",
+		"Scale": 80
+	},
+	{
+		"AnimId": "15005",
+		"ID": 28,
+		"ResType": "skill_effect",
+		"Scale": 80
+	},
+	{
+		"AnimId": "15006",
+		"ID": 29,
+		"ResType": "skill_effect",
+		"Scale": 60
+	},
+	{
+		"AnimId": "15008s",
+		"ID": 30,
+		"ResType": "skill_effect",
+		"Scale": 75
+	},
+	{
+		"AnimId": "50001",
+		"ID": 31,
+		"NoActLiist": "[\"s\"]",
+		"ResType": "dragon",
+		"Scale": 80
+	},
+	{
+		"AnimId": "51001",
+		"ID": 32,
+		"NoActLiist": "[\"s\"]",
+		"ResType": "dragon",
+		"Scale": 80
+	}
+]

@@ -1,0 +1,107 @@
+[
+	{
+		"Id": 1,
+		"TaskDuration": 3600,
+		"TaskStar": 1
+	},
+	{
+		"Id": 2,
+		"TaskDuration": 2700,
+		"TaskStar": 1
+	},
+	{
+		"Id": 3,
+		"TaskDuration": 1800,
+		"TaskStar": 1
+	},
+	{
+		"Id": 4,
+		"TaskDuration": 4200,
+		"TaskStar": 2
+	},
+	{
+		"Id": 5,
+		"TaskDuration": 3300,
+		"TaskStar": 2
+	},
+	{
+		"Id": 6,
+		"TaskDuration": 2400,
+		"TaskStar": 2
+	},
+	{
+		"Id": 7,
+		"TaskDuration": 4800,
+		"TaskStar": 3
+	},
+	{
+		"Id": 8,
+		"TaskDuration": 3900,
+		"TaskStar": 3
+	},
+	{
+		"Id": 9,
+		"TaskDuration": 3000,
+		"TaskStar": 3
+	},
+	{
+		"Id": 10,
+		"TaskDuration": 5400,
+		"TaskStar": 4
+	},
+	{
+		"Id": 11,
+		"TaskDuration": 4500,
+		"TaskStar": 4
+	},
+	{
+		"Id": 12,
+		"TaskDuration": 3600,
+		"TaskStar": 4
+	},
+	{
+		"Id": 13,
+		"TaskDuration": 6000,
+		"TaskStar": 5
+	},
+	{
+		"Id": 14,
+		"TaskDuration": 5100,
+		"TaskStar": 5
+	},
+	{
+		"Id": 15,
+		"TaskDuration": 4200,
+		"TaskStar": 5
+	},
+	{
+		"Id": 16,
+		"TaskDuration": 6600,
+		"TaskStar": 6
+	},
+	{
+		"Id": 17,
+		"TaskDuration": 5700,
+		"TaskStar": 6
+	},
+	{
+		"Id": 18,
+		"TaskDuration": 4800,
+		"TaskStar": 6
+	},
+	{
+		"Id": 19,
+		"TaskDuration": 7200,
+		"TaskStar": 7
+	},
+	{
+		"Id": 20,
+		"TaskDuration": 6300,
+		"TaskStar": 7
+	},
+	{
+		"Id": 21,
+		"TaskDuration": 5400,
+		"TaskStar": 7
+	}
+]

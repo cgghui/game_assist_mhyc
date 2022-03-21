@@ -1,0 +1,86 @@
+[
+	{
+		"HomeId": 1,
+		"MapId": 2051,
+		"RebornLevel": 1,
+		"ShowLabel": "一层"
+	},
+	{
+		"HomeId": 2,
+		"MapId": 2052,
+		"RebornLevel": 2,
+		"ShowLabel": "二层"
+	},
+	{
+		"HomeId": 3,
+		"MapId": 2053,
+		"RebornLevel": 3,
+		"ShowLabel": "三层"
+	},
+	{
+		"HomeId": 4,
+		"MapId": 2054,
+		"RebornLevel": 4,
+		"ShowLabel": "四层"
+	},
+	{
+		"HomeId": 5,
+		"MapId": 2055,
+		"RebornLevel": 5,
+		"ShowLabel": "五层"
+	},
+	{
+		"HomeId": 6,
+		"MapId": 2056,
+		"RebornLevel": 6,
+		"ShowLabel": "六层"
+	},
+	{
+		"HomeId": 7,
+		"MapId": 2057,
+		"RebornLevel": 7,
+		"ShowLabel": "七层"
+	},
+	{
+		"HomeId": 8,
+		"MapId": 2058,
+		"RebornLevel": 8,
+		"ShowLabel": "八层"
+	},
+	{
+		"HomeId": 9,
+		"MapId": 2059,
+		"RebornLevel": 9,
+		"ShowLabel": "九层"
+	},
+	{
+		"HomeId": 10,
+		"MapId": 2060,
+		"RebornLevel": 10,
+		"ShowLabel": "十层"
+	},
+	{
+		"HomeId": 11,
+		"MapId": 2061,
+		"RebornLevel": 11,
+		"ShowLabel": "十一层"
+	},
+	{
+		"HomeId": 12,
+		"MapId": 2062,
+		"RebornLevel": 12,
+		"ShowLabel": "十二层"
+	},
+	{
+		"HomeId": 13,
+		"MapId": 2063,
+		"RebornLevel": 13,
+		"ShowLabel": "十三层"
+	},
+	{
+		"HomeId": 14,
+		"MapId": 2064,
+		"RebornLevel": 14,
+		"ShowLabel": "十四层"
+	}
+]

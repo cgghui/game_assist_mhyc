@@ -1,0 +1,502 @@
+[
+	{
+		"AttrId": 2801001,
+		"Level": 1,
+		"NeedItem": "2310001:1"
+	},
+	{
+		"AttrId": 2801002,
+		"Level": 2,
+		"NeedItem": "2310001:3"
+	},
+	{
+		"AttrId": 2801003,
+		"Level": 3,
+		"NeedItem": "2310001:5"
+	},
+	{
+		"AttrId": 2801004,
+		"Level": 4,
+		"NeedItem": "2310001:7"
+	},
+	{
+		"AttrId": 2801005,
+		"Level": 5,
+		"NeedItem": "2310001:9"
+	},
+	{
+		"AttrId": 2801006,
+		"Level": 6,
+		"NeedItem": "2310001:11"
+	},
+	{
+		"AttrId": 2801007,
+		"Level": 7,
+		"NeedItem": "2310001:13"
+	},
+	{
+		"AttrId": 2801008,
+		"Level": 8,
+		"NeedItem": "2310001:15"
+	},
+	{
+		"AttrId": 2801009,
+		"Level": 9,
+		"NeedItem": "2310001:17"
+	},
+	{
+		"AttrId": 2801010,
+		"Level": 10,
+		"NeedItem": "2310001:19"
+	},
+	{
+		"AttrId": 2801011,
+		"Level": 11,
+		"NeedItem": "2310001:22"
+	},
+	{
+		"AttrId": 2801012,
+		"Level": 12,
+		"NeedItem": "2310001:25"
+	},
+	{
+		"AttrId": 2801013,
+		"Level": 13,
+		"NeedItem": "2310001:28"
+	},
+	{
+		"AttrId": 2801014,
+		"Level": 14,
+		"NeedItem": "2310001:31"
+	},
+	{
+		"AttrId": 2801015,
+		"Level": 15,
+		"NeedItem": "2310001:34"
+	},
+	{
+		"AttrId": 2801016,
+		"Level": 16,
+		"NeedItem": "2310001:37"
+	},
+	{
+		"AttrId": 2801017,
+		"Level": 17,
+		"NeedItem": "2310001:40"
+	},
+	{
+		"AttrId": 2801018,
+		"Level": 18,
+		"NeedItem": "2310001:43"
+	},
+	{
+		"AttrId": 2801019,
+		"Level": 19,
+		"NeedItem": "2310001:46"
+	},
+	{
+		"AttrId": 2801020,
+		"Level": 20,
+		"NeedItem": "2310001:49"
+	},
+	{
+		"AttrId": 2801021,
+		"Level": 21,
+		"NeedItem": "2310001:53"
+	},
+	{
+		"AttrId": 2801022,
+		"Level": 22,
+		"NeedItem": "2310001:57"
+	},
+	{
+		"AttrId": 2801023,
+		"Level": 23,
+		"NeedItem": "2310001:61"
+	},
+	{
+		"AttrId": 2801024,
+		"Level": 24,
+		"NeedItem": "2310001:65"
+	},
+	{
+		"AttrId": 2801025,
+		"Level": 25,
+		"NeedItem": "2310001:69"
+	},
+	{
+		"AttrId": 2801026,
+		"Level": 26,
+		"NeedItem": "2310001:73"
+	},
+	{
+		"AttrId": 2801027,
+		"Level": 27,
+		"NeedItem": "2310001:77"
+	},
+	{
+		"AttrId": 2801028,
+		"Level": 28,
+		"NeedItem": "2310001:81"
+	},
+	{
+		"AttrId": 2801029,
+		"Level": 29,
+		"NeedItem": "2310001:85"
+	},
+	{
+		"AttrId": 2801030,
+		"Level": 30,
+		"NeedItem": "2310001:89"
+	},
+	{
+		"AttrId": 2801031,
+		"Level": 31,
+		"NeedItem": "2310001:94"
+	},
+	{
+		"AttrId": 2801032,
+		"Level": 32,
+		"NeedItem": "2310001:99"
+	},
+	{
+		"AttrId": 2801033,
+		"Level": 33,
+		"NeedItem": "2310001:104"
+	},
+	{
+		"AttrId": 2801034,
+		"Level": 34,
+		"NeedItem": "2310001:109"
+	},
+	{
+		"AttrId": 2801035,
+		"Level": 35,
+		"NeedItem": "2310001:114"
+	},
+	{
+		"AttrId": 2801036,
+		"Level": 36,
+		"NeedItem": "2310001:119"
+	},
+	{
+		"AttrId": 2801037,
+		"Level": 37,
+		"NeedItem": "2310001:124"
+	},
+	{
+		"AttrId": 2801038,
+		"Level": 38,
+		"NeedItem": "2310001:129"
+	},
+	{
+		"AttrId": 2801039,
+		"Level": 39,
+		"NeedItem": "2310001:134"
+	},
+	{
+		"AttrId": 2801040,
+		"Level": 40,
+		"NeedItem": "2310001:139"
+	},
+	{
+		"AttrId": 2801041,
+		"Level": 41,
+		"NeedItem": "2310001:145"
+	},
+	{
+		"AttrId": 2801042,
+		"Level": 42,
+		"NeedItem": "2310001:151"
+	},
+	{
+		"AttrId": 2801043,
+		"Level": 43,
+		"NeedItem": "2310001:157"
+	},
+	{
+		"AttrId": 2801044,
+		"Level": 44,
+		"NeedItem": "2310001:163"
+	},
+	{
+		"AttrId": 2801045,
+		"Level": 45,
+		"NeedItem": "2310001:169"
+	},
+	{
+		"AttrId": 2801046,
+		"Level": 46,
+		"NeedItem": "2310001:175"
+	},
+	{
+		"AttrId": 2801047,
+		"Level": 47,
+		"NeedItem": "2310001:181"
+	},
+	{
+		"AttrId": 2801048,
+		"Level": 48,
+		"NeedItem": "2310001:187"
+	},
+	{
+		"AttrId": 2801049,
+		"Level": 49,
+		"NeedItem": "2310001:193"
+	},
+	{
+		"AttrId": 2801050,
+		"Level": 50,
+		"NeedItem": "2310001:199"
+	},
+	{
+		"AttrId": 2801051,
+		"Level": 51,
+		"NeedItem": "2310001:206"
+	},
+	{
+		"AttrId": 2801052,
+		"Level": 52,
+		"NeedItem": "2310001:213"
+	},
+	{
+		"AttrId": 2801053,
+		"Level": 53,
+		"NeedItem": "2310001:220"
+	},
+	{
+		"AttrId": 2801054,
+		"Level": 54,
+		"NeedItem": "2310001:227"
+	},
+	{
+		"AttrId": 2801055,
+		"Level": 55,
+		"NeedItem": "2310001:234"
+	},
+	{
+		"AttrId": 2801056,
+		"Level": 56,
+		"NeedItem": "2310001:241"
+	},
+	{
+		"AttrId": 2801057,
+		"Level": 57,
+		"NeedItem": "2310001:248"
+	},
+	{
+		"AttrId": 2801058,
+		"Level": 58,
+		"NeedItem": "2310001:255"
+	},
+	{
+		"AttrId": 2801059,
+		"Level": 59,
+		"NeedItem": "2310001:262"
+	},
+	{
+		"AttrId": 2801060,
+		"Level": 60,
+		"NeedItem": "2310001:269"
+	},
+	{
+		"AttrId": 2801061,
+		"Level": 61,
+		"NeedItem": "2310001:277"
+	},
+	{
+		"AttrId": 2801062,
+		"Level": 62,
+		"NeedItem": "2310001:285"
+	},
+	{
+		"AttrId": 2801063,
+		"Level": 63,
+		"NeedItem": "2310001:293"
+	},
+	{
+		"AttrId": 2801064,
+		"Level": 64,
+		"NeedItem": "2310001:301"
+	},
+	{
+		"AttrId": 2801065,
+		"Level": 65,
+		"NeedItem": "2310001:309"
+	},
+	{
+		"AttrId": 2801066,
+		"Level": 66,
+		"NeedItem": "2310001:317"
+	},
+	{
+		"AttrId": 2801067,
+		"Level": 67,
+		"NeedItem": "2310001:325"
+	},
+	{
+		"AttrId": 2801068,
+		"Level": 68,
+		"NeedItem": "2310001:333"
+	},
+	{
+		"AttrId": 2801069,
+		"Level": 69,
+		"NeedItem": "2310001:341"
+	},
+	{
+		"AttrId": 2801070,
+		"Level": 70,
+		"NeedItem": "2310001:349"
+	},
+	{
+		"AttrId": 2801071,
+		"Level": 71,
+		"NeedItem": "2310001:358"
+	},
+	{
+		"AttrId": 2801072,
+		"Level": 72,
+		"NeedItem": "2310001:367"
+	},
+	{
+		"AttrId": 2801073,
+		"Level": 73,
+		"NeedItem": "2310001:376"
+	},
+	{
+		"AttrId": 2801074,
+		"Level": 74,
+		"NeedItem": "2310001:385"
+	},
+	{
+		"AttrId": 2801075,
+		"Level": 75,
+		"NeedItem": "2310001:394"
+	},
+	{
+		"AttrId": 2801076,
+		"Level": 76,
+		"NeedItem": "2310001:403"
+	},
+	{
+		"AttrId": 2801077,
+		"Level": 77,
+		"NeedItem": "2310001:412"
+	},
+	{
+		"AttrId": 2801078,
+		"Level": 78,
+		"NeedItem": "2310001:421"
+	},
+	{
+		"AttrId": 2801079,
+		"Level": 79,
+		"NeedItem": "2310001:430"
+	},
+	{
+		"AttrId": 2801080,
+		"Level": 80,
+		"NeedItem": "2310001:439"
+	},
+	{
+		"AttrId": 2801081,
+		"Level": 81,
+		"NeedItem": "2310001:449"
+	},
+	{
+		"AttrId": 2801082,
+		"Level": 82,
+		"NeedItem": "2310001:459"
+	},
+	{
+		"AttrId": 2801083,
+		"Level": 83,
+		"NeedItem": "2310001:469"
+	},
+	{
+		"AttrId": 2801084,
+		"Level": 84,
+		"NeedItem": "2310001:479"
+	},
+	{
+		"AttrId": 2801085,
+		"Level": 85,
+		"NeedItem": "2310001:489"
+	},
+	{
+		"AttrId": 2801086,
+		"Level": 86,
+		"NeedItem": "2310001:499"
+	},
+	{
+		"AttrId": 2801087,
+		"Level": 87,
+		"NeedItem": "2310001:509"
+	},
+	{
+		"AttrId": 2801088,
+		"Level": 88,
+		"NeedItem": "2310001:519"
+	},
+	{
+		"AttrId": 2801089,
+		"Level": 89,
+		"NeedItem": "2310001:529"
+	},
+	{
+		"AttrId": 2801090,
+		"Level": 90,
+		"NeedItem": "2310001:539"
+	},
+	{
+		"AttrId": 2801091,
+		"Level": 91,
+		"NeedItem": "2310001:550"
+	},
+	{
+		"AttrId": 2801092,
+		"Level": 92,
+		"NeedItem": "2310001:561"
+	},
+	{
+		"AttrId": 2801093,
+		"Level": 93,
+		"NeedItem": "2310001:572"
+	},
+	{
+		"AttrId": 2801094,
+		"Level": 94,
+		"NeedItem": "2310001:583"
+	},
+	{
+		"AttrId": 2801095,
+		"Level": 95,
+		"NeedItem": "2310001:594"
+	},
+	{
+		"AttrId": 2801096,
+		"Level": 96,
+		"NeedItem": "2310001:605"
+	},
+	{
+		"AttrId": 2801097,
+		"Level": 97,
+		"NeedItem": "2310001:616"
+	},
+	{
+		"AttrId": 2801098,
+		"Level": 98,
+		"NeedItem": "2310001:627"
+	},
+	{
+		"AttrId": 2801099,
+		"Level": 99,
+		"NeedItem": "2310001:638"
+	},
+	{
+		"AttrId": 2801100,
+		"Level": 100,
+		"NeedItem": "2310001:649"
+	}
+]

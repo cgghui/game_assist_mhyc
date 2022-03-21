@@ -1,0 +1,542 @@
+[
+	{
+		"Id": 1,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10106,
+		"SkillId": 10101,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 1,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10106,
+		"SkillId": 10101,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 1,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10106,
+		"SkillId": 10101,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 1,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10106,
+		"SkillId": 10101,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 1,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10107,
+		"SkillId": 10102,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 1,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10107,
+		"SkillId": 10102,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 1,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10107,
+		"SkillId": 10102,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 1,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10108,
+		"SkillId": 10103,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 1,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10108,
+		"SkillId": 10103,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 1,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10108,
+		"SkillId": 10103,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	},
+	{
+		"Id": 2,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10116,
+		"SkillId": 10111,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 2,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10116,
+		"SkillId": 10111,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 2,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10116,
+		"SkillId": 10111,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 2,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10116,
+		"SkillId": 10111,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 2,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10117,
+		"SkillId": 10112,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 2,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10117,
+		"SkillId": 10112,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 2,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10117,
+		"SkillId": 10112,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 2,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10118,
+		"SkillId": 10113,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 2,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10118,
+		"SkillId": 10113,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 2,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10118,
+		"SkillId": 10113,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	},
+	{
+		"Id": 3,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10126,
+		"SkillId": 10121,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 3,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10126,
+		"SkillId": 10121,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 3,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10126,
+		"SkillId": 10121,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 3,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10126,
+		"SkillId": 10121,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 3,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10127,
+		"SkillId": 10122,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 3,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10127,
+		"SkillId": 10122,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 3,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10127,
+		"SkillId": 10122,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 3,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10128,
+		"SkillId": 10123,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 3,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10128,
+		"SkillId": 10123,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 3,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10128,
+		"SkillId": 10123,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	},
+	{
+		"Id": 4,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10136,
+		"SkillId": 10131,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 4,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10136,
+		"SkillId": 10131,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 4,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10136,
+		"SkillId": 10131,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 4,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10136,
+		"SkillId": 10131,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 4,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10137,
+		"SkillId": 10132,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 4,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10137,
+		"SkillId": 10132,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 4,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10137,
+		"SkillId": 10132,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 4,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10138,
+		"SkillId": 10133,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 4,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10138,
+		"SkillId": 10133,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 4,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10138,
+		"SkillId": 10133,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	},
+	{
+		"Id": 5,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10146,
+		"SkillId": 10141,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 5,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10146,
+		"SkillId": 10141,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 5,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10146,
+		"SkillId": 10141,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 5,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10146,
+		"SkillId": 10141,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 5,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10147,
+		"SkillId": 10142,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 5,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10147,
+		"SkillId": 10142,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 5,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10147,
+		"SkillId": 10142,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 5,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10148,
+		"SkillId": 10143,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 5,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10148,
+		"SkillId": 10143,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 5,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10148,
+		"SkillId": 10143,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	},
+	{
+		"Id": 6,
+		"Level": 1,
+		"Part": 1,
+		"ShenYuSkillId": 10156,
+		"SkillId": 10151,
+		"SkillName": "圣痕技能1",
+		"Unlock": 2
+	},
+	{
+		"Id": 6,
+		"Level": 2,
+		"Part": 1,
+		"ShenYuSkillId": 10156,
+		"SkillId": 10151,
+		"SkillName": "圣痕技能1",
+		"Unlock": 5
+	},
+	{
+		"Id": 6,
+		"Level": 3,
+		"Part": 1,
+		"ShenYuSkillId": 10156,
+		"SkillId": 10151,
+		"SkillName": "圣痕技能1",
+		"Unlock": 8
+	},
+	{
+		"Id": 6,
+		"Level": 4,
+		"Part": 1,
+		"ShenYuSkillId": 10156,
+		"SkillId": 10151,
+		"SkillName": "圣痕技能1",
+		"Unlock": 11
+	},
+	{
+		"Id": 6,
+		"Level": 1,
+		"Part": 2,
+		"ShenYuSkillId": 10157,
+		"SkillId": 10152,
+		"SkillName": "圣痕技能2",
+		"Unlock": 3
+	},
+	{
+		"Id": 6,
+		"Level": 2,
+		"Part": 2,
+		"ShenYuSkillId": 10157,
+		"SkillId": 10152,
+		"SkillName": "圣痕技能2",
+		"Unlock": 6
+	},
+	{
+		"Id": 6,
+		"Level": 3,
+		"Part": 2,
+		"ShenYuSkillId": 10157,
+		"SkillId": 10152,
+		"SkillName": "圣痕技能2",
+		"Unlock": 9
+	},
+	{
+		"Id": 6,
+		"Level": 1,
+		"Part": 3,
+		"ShenYuSkillId": 10158,
+		"SkillId": 10153,
+		"SkillName": "圣痕技能3",
+		"Unlock": 4
+	},
+	{
+		"Id": 6,
+		"Level": 2,
+		"Part": 3,
+		"ShenYuSkillId": 10158,
+		"SkillId": 10153,
+		"SkillName": "圣痕技能3",
+		"Unlock": 7
+	},
+	{
+		"Id": 6,
+		"Level": 3,
+		"Part": 3,
+		"ShenYuSkillId": 10158,
+		"SkillId": 10153,
+		"SkillName": "圣痕技能3",
+		"Unlock": 10
+	}
+]

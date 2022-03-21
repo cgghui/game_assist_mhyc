@@ -1,0 +1,18 @@
+[
+	{
+		"EquipToItem": 100,
+		"Quality": 1
+	},
+	{
+		"EquipToItem": 200,
+		"Quality": 2
+	},
+	{
+		"EquipToItem": 300,
+		"Quality": 3
+	},
+	{
+		"EquipToItem": 400,
+		"Quality": 4
+	}
+]

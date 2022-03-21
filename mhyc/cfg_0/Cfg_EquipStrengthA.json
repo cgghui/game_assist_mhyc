@@ -1,0 +1,7002 @@
+[
+	{
+		"AddAttrId": 402001,
+		"BaseAttrId": 400001,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402002,
+		"BaseAttrId": 400002,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402003,
+		"BaseAttrId": 400003,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402004,
+		"BaseAttrId": 400004,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402005,
+		"BaseAttrId": 400005,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402006,
+		"BaseAttrId": 400006,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402007,
+		"BaseAttrId": 400007,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402008,
+		"BaseAttrId": 400008,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402009,
+		"BaseAttrId": 400009,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402010,
+		"BaseAttrId": 400010,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402011,
+		"BaseAttrId": 400011,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402012,
+		"BaseAttrId": 400012,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402013,
+		"BaseAttrId": 400013,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402014,
+		"BaseAttrId": 400014,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402015,
+		"BaseAttrId": 400015,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402016,
+		"BaseAttrId": 400016,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402017,
+		"BaseAttrId": 400017,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402018,
+		"BaseAttrId": 400018,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402019,
+		"BaseAttrId": 400019,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402020,
+		"BaseAttrId": 400020,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402021,
+		"BaseAttrId": 400021,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402022,
+		"BaseAttrId": 400022,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402023,
+		"BaseAttrId": 400023,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402024,
+		"BaseAttrId": 400024,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402025,
+		"BaseAttrId": 400025,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402026,
+		"BaseAttrId": 400026,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402027,
+		"BaseAttrId": 400027,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402028,
+		"BaseAttrId": 400028,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402029,
+		"BaseAttrId": 400029,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402030,
+		"BaseAttrId": 400030,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402031,
+		"BaseAttrId": 400031,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402032,
+		"BaseAttrId": 400032,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402033,
+		"BaseAttrId": 400033,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402034,
+		"BaseAttrId": 400034,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402035,
+		"BaseAttrId": 400035,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402036,
+		"BaseAttrId": 400036,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402037,
+		"BaseAttrId": 400037,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402038,
+		"BaseAttrId": 400038,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402039,
+		"BaseAttrId": 400039,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402040,
+		"BaseAttrId": 400040,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402041,
+		"BaseAttrId": 400041,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402042,
+		"BaseAttrId": 400042,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402043,
+		"BaseAttrId": 400043,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402044,
+		"BaseAttrId": 400044,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402045,
+		"BaseAttrId": 400045,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402046,
+		"BaseAttrId": 400046,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402047,
+		"BaseAttrId": 400047,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402048,
+		"BaseAttrId": 400048,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402049,
+		"BaseAttrId": 400049,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402050,
+		"BaseAttrId": 400050,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402051,
+		"BaseAttrId": 400051,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402052,
+		"BaseAttrId": 400052,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402053,
+		"BaseAttrId": 400053,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402054,
+		"BaseAttrId": 400054,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402055,
+		"BaseAttrId": 400055,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402056,
+		"BaseAttrId": 400056,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402057,
+		"BaseAttrId": 400057,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402058,
+		"BaseAttrId": 400058,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402059,
+		"BaseAttrId": 400059,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402060,
+		"BaseAttrId": 400060,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402061,
+		"BaseAttrId": 400061,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402062,
+		"BaseAttrId": 400062,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402063,
+		"BaseAttrId": 400063,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402064,
+		"BaseAttrId": 400064,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402065,
+		"BaseAttrId": 400065,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402066,
+		"BaseAttrId": 400066,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402067,
+		"BaseAttrId": 400067,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402068,
+		"BaseAttrId": 400068,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402069,
+		"BaseAttrId": 400069,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402070,
+		"BaseAttrId": 400070,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402071,
+		"BaseAttrId": 400071,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402072,
+		"BaseAttrId": 400072,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402073,
+		"BaseAttrId": 400073,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402074,
+		"BaseAttrId": 400074,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402075,
+		"BaseAttrId": 400075,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402076,
+		"BaseAttrId": 400076,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402077,
+		"BaseAttrId": 400077,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402078,
+		"BaseAttrId": 400078,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402079,
+		"BaseAttrId": 400079,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402080,
+		"BaseAttrId": 400080,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402081,
+		"BaseAttrId": 400081,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402082,
+		"BaseAttrId": 400082,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402083,
+		"BaseAttrId": 400083,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402084,
+		"BaseAttrId": 400084,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402085,
+		"BaseAttrId": 400085,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402086,
+		"BaseAttrId": 400086,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402087,
+		"BaseAttrId": 400087,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402088,
+		"BaseAttrId": 400088,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402089,
+		"BaseAttrId": 400089,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402090,
+		"BaseAttrId": 400090,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402091,
+		"BaseAttrId": 400091,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402092,
+		"BaseAttrId": 400092,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402093,
+		"BaseAttrId": 400093,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402094,
+		"BaseAttrId": 400094,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402095,
+		"BaseAttrId": 400095,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402096,
+		"BaseAttrId": 400096,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402097,
+		"BaseAttrId": 400097,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402098,
+		"BaseAttrId": 400098,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402099,
+		"BaseAttrId": 400099,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402100,
+		"BaseAttrId": 400100,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 1
+	},
+	{
+		"AddAttrId": 402501,
+		"BaseAttrId": 400501,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402502,
+		"BaseAttrId": 400502,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402503,
+		"BaseAttrId": 400503,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402504,
+		"BaseAttrId": 400504,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402505,
+		"BaseAttrId": 400505,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402506,
+		"BaseAttrId": 400506,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402507,
+		"BaseAttrId": 400507,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402508,
+		"BaseAttrId": 400508,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402509,
+		"BaseAttrId": 400509,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402510,
+		"BaseAttrId": 400510,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402511,
+		"BaseAttrId": 400511,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402512,
+		"BaseAttrId": 400512,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402513,
+		"BaseAttrId": 400513,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402514,
+		"BaseAttrId": 400514,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402515,
+		"BaseAttrId": 400515,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402516,
+		"BaseAttrId": 400516,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402517,
+		"BaseAttrId": 400517,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402518,
+		"BaseAttrId": 400518,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402519,
+		"BaseAttrId": 400519,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402520,
+		"BaseAttrId": 400520,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402521,
+		"BaseAttrId": 400521,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402522,
+		"BaseAttrId": 400522,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402523,
+		"BaseAttrId": 400523,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402524,
+		"BaseAttrId": 400524,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402525,
+		"BaseAttrId": 400525,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402526,
+		"BaseAttrId": 400526,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402527,
+		"BaseAttrId": 400527,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402528,
+		"BaseAttrId": 400528,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402529,
+		"BaseAttrId": 400529,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402530,
+		"BaseAttrId": 400530,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402531,
+		"BaseAttrId": 400531,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402532,
+		"BaseAttrId": 400532,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402533,
+		"BaseAttrId": 400533,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402534,
+		"BaseAttrId": 400534,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402535,
+		"BaseAttrId": 400535,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402536,
+		"BaseAttrId": 400536,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402537,
+		"BaseAttrId": 400537,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402538,
+		"BaseAttrId": 400538,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402539,
+		"BaseAttrId": 400539,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402540,
+		"BaseAttrId": 400540,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402541,
+		"BaseAttrId": 400541,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402542,
+		"BaseAttrId": 400542,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402543,
+		"BaseAttrId": 400543,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402544,
+		"BaseAttrId": 400544,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402545,
+		"BaseAttrId": 400545,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402546,
+		"BaseAttrId": 400546,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402547,
+		"BaseAttrId": 400547,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402548,
+		"BaseAttrId": 400548,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402549,
+		"BaseAttrId": 400549,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402550,
+		"BaseAttrId": 400550,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402551,
+		"BaseAttrId": 400551,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402552,
+		"BaseAttrId": 400552,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402553,
+		"BaseAttrId": 400553,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402554,
+		"BaseAttrId": 400554,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402555,
+		"BaseAttrId": 400555,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402556,
+		"BaseAttrId": 400556,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402557,
+		"BaseAttrId": 400557,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402558,
+		"BaseAttrId": 400558,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402559,
+		"BaseAttrId": 400559,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402560,
+		"BaseAttrId": 400560,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402561,
+		"BaseAttrId": 400561,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402562,
+		"BaseAttrId": 400562,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402563,
+		"BaseAttrId": 400563,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402564,
+		"BaseAttrId": 400564,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402565,
+		"BaseAttrId": 400565,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402566,
+		"BaseAttrId": 400566,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402567,
+		"BaseAttrId": 400567,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402568,
+		"BaseAttrId": 400568,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402569,
+		"BaseAttrId": 400569,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402570,
+		"BaseAttrId": 400570,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402571,
+		"BaseAttrId": 400571,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402572,
+		"BaseAttrId": 400572,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402573,
+		"BaseAttrId": 400573,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402574,
+		"BaseAttrId": 400574,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402575,
+		"BaseAttrId": 400575,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402576,
+		"BaseAttrId": 400576,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402577,
+		"BaseAttrId": 400577,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402578,
+		"BaseAttrId": 400578,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402579,
+		"BaseAttrId": 400579,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402580,
+		"BaseAttrId": 400580,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402581,
+		"BaseAttrId": 400581,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402582,
+		"BaseAttrId": 400582,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402583,
+		"BaseAttrId": 400583,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402584,
+		"BaseAttrId": 400584,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402585,
+		"BaseAttrId": 400585,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402586,
+		"BaseAttrId": 400586,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402587,
+		"BaseAttrId": 400587,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402588,
+		"BaseAttrId": 400588,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402589,
+		"BaseAttrId": 400589,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402590,
+		"BaseAttrId": 400590,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402591,
+		"BaseAttrId": 400591,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402592,
+		"BaseAttrId": 400592,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402593,
+		"BaseAttrId": 400593,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402594,
+		"BaseAttrId": 400594,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402595,
+		"BaseAttrId": 400595,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402596,
+		"BaseAttrId": 400596,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402597,
+		"BaseAttrId": 400597,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402598,
+		"BaseAttrId": 400598,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402599,
+		"BaseAttrId": 400599,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402600,
+		"BaseAttrId": 400600,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 2
+	},
+	{
+		"AddAttrId": 402201,
+		"BaseAttrId": 400201,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402202,
+		"BaseAttrId": 400202,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402203,
+		"BaseAttrId": 400203,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402204,
+		"BaseAttrId": 400204,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402205,
+		"BaseAttrId": 400205,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402206,
+		"BaseAttrId": 400206,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402207,
+		"BaseAttrId": 400207,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402208,
+		"BaseAttrId": 400208,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402209,
+		"BaseAttrId": 400209,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402210,
+		"BaseAttrId": 400210,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402211,
+		"BaseAttrId": 400211,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402212,
+		"BaseAttrId": 400212,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402213,
+		"BaseAttrId": 400213,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402214,
+		"BaseAttrId": 400214,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402215,
+		"BaseAttrId": 400215,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402216,
+		"BaseAttrId": 400216,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402217,
+		"BaseAttrId": 400217,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402218,
+		"BaseAttrId": 400218,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402219,
+		"BaseAttrId": 400219,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402220,
+		"BaseAttrId": 400220,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402221,
+		"BaseAttrId": 400221,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402222,
+		"BaseAttrId": 400222,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402223,
+		"BaseAttrId": 400223,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402224,
+		"BaseAttrId": 400224,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402225,
+		"BaseAttrId": 400225,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402226,
+		"BaseAttrId": 400226,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402227,
+		"BaseAttrId": 400227,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402228,
+		"BaseAttrId": 400228,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402229,
+		"BaseAttrId": 400229,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402230,
+		"BaseAttrId": 400230,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402231,
+		"BaseAttrId": 400231,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402232,
+		"BaseAttrId": 400232,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402233,
+		"BaseAttrId": 400233,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402234,
+		"BaseAttrId": 400234,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402235,
+		"BaseAttrId": 400235,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402236,
+		"BaseAttrId": 400236,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402237,
+		"BaseAttrId": 400237,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402238,
+		"BaseAttrId": 400238,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402239,
+		"BaseAttrId": 400239,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402240,
+		"BaseAttrId": 400240,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402241,
+		"BaseAttrId": 400241,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402242,
+		"BaseAttrId": 400242,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402243,
+		"BaseAttrId": 400243,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402244,
+		"BaseAttrId": 400244,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402245,
+		"BaseAttrId": 400245,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402246,
+		"BaseAttrId": 400246,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402247,
+		"BaseAttrId": 400247,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402248,
+		"BaseAttrId": 400248,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402249,
+		"BaseAttrId": 400249,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402250,
+		"BaseAttrId": 400250,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402251,
+		"BaseAttrId": 400251,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402252,
+		"BaseAttrId": 400252,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402253,
+		"BaseAttrId": 400253,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402254,
+		"BaseAttrId": 400254,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402255,
+		"BaseAttrId": 400255,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402256,
+		"BaseAttrId": 400256,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402257,
+		"BaseAttrId": 400257,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402258,
+		"BaseAttrId": 400258,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402259,
+		"BaseAttrId": 400259,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402260,
+		"BaseAttrId": 400260,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402261,
+		"BaseAttrId": 400261,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402262,
+		"BaseAttrId": 400262,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402263,
+		"BaseAttrId": 400263,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402264,
+		"BaseAttrId": 400264,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402265,
+		"BaseAttrId": 400265,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402266,
+		"BaseAttrId": 400266,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402267,
+		"BaseAttrId": 400267,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402268,
+		"BaseAttrId": 400268,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402269,
+		"BaseAttrId": 400269,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402270,
+		"BaseAttrId": 400270,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402271,
+		"BaseAttrId": 400271,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402272,
+		"BaseAttrId": 400272,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402273,
+		"BaseAttrId": 400273,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402274,
+		"BaseAttrId": 400274,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402275,
+		"BaseAttrId": 400275,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402276,
+		"BaseAttrId": 400276,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402277,
+		"BaseAttrId": 400277,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402278,
+		"BaseAttrId": 400278,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402279,
+		"BaseAttrId": 400279,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402280,
+		"BaseAttrId": 400280,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402281,
+		"BaseAttrId": 400281,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402282,
+		"BaseAttrId": 400282,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402283,
+		"BaseAttrId": 400283,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402284,
+		"BaseAttrId": 400284,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402285,
+		"BaseAttrId": 400285,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402286,
+		"BaseAttrId": 400286,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402287,
+		"BaseAttrId": 400287,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402288,
+		"BaseAttrId": 400288,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402289,
+		"BaseAttrId": 400289,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402290,
+		"BaseAttrId": 400290,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402291,
+		"BaseAttrId": 400291,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402292,
+		"BaseAttrId": 400292,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402293,
+		"BaseAttrId": 400293,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402294,
+		"BaseAttrId": 400294,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402295,
+		"BaseAttrId": 400295,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402296,
+		"BaseAttrId": 400296,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402297,
+		"BaseAttrId": 400297,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402298,
+		"BaseAttrId": 400298,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402299,
+		"BaseAttrId": 400299,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402300,
+		"BaseAttrId": 400300,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 3
+	},
+	{
+		"AddAttrId": 402001,
+		"BaseAttrId": 400001,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402002,
+		"BaseAttrId": 400002,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402003,
+		"BaseAttrId": 400003,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402004,
+		"BaseAttrId": 400004,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402005,
+		"BaseAttrId": 400005,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402006,
+		"BaseAttrId": 400006,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402007,
+		"BaseAttrId": 400007,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402008,
+		"BaseAttrId": 400008,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402009,
+		"BaseAttrId": 400009,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402010,
+		"BaseAttrId": 400010,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402011,
+		"BaseAttrId": 400011,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402012,
+		"BaseAttrId": 400012,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402013,
+		"BaseAttrId": 400013,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402014,
+		"BaseAttrId": 400014,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402015,
+		"BaseAttrId": 400015,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402016,
+		"BaseAttrId": 400016,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402017,
+		"BaseAttrId": 400017,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402018,
+		"BaseAttrId": 400018,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402019,
+		"BaseAttrId": 400019,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402020,
+		"BaseAttrId": 400020,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402021,
+		"BaseAttrId": 400021,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402022,
+		"BaseAttrId": 400022,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402023,
+		"BaseAttrId": 400023,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402024,
+		"BaseAttrId": 400024,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402025,
+		"BaseAttrId": 400025,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402026,
+		"BaseAttrId": 400026,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402027,
+		"BaseAttrId": 400027,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402028,
+		"BaseAttrId": 400028,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402029,
+		"BaseAttrId": 400029,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402030,
+		"BaseAttrId": 400030,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402031,
+		"BaseAttrId": 400031,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402032,
+		"BaseAttrId": 400032,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402033,
+		"BaseAttrId": 400033,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402034,
+		"BaseAttrId": 400034,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402035,
+		"BaseAttrId": 400035,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402036,
+		"BaseAttrId": 400036,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402037,
+		"BaseAttrId": 400037,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402038,
+		"BaseAttrId": 400038,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402039,
+		"BaseAttrId": 400039,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402040,
+		"BaseAttrId": 400040,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402041,
+		"BaseAttrId": 400041,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402042,
+		"BaseAttrId": 400042,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402043,
+		"BaseAttrId": 400043,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402044,
+		"BaseAttrId": 400044,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402045,
+		"BaseAttrId": 400045,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402046,
+		"BaseAttrId": 400046,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402047,
+		"BaseAttrId": 400047,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402048,
+		"BaseAttrId": 400048,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402049,
+		"BaseAttrId": 400049,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402050,
+		"BaseAttrId": 400050,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402051,
+		"BaseAttrId": 400051,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402052,
+		"BaseAttrId": 400052,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402053,
+		"BaseAttrId": 400053,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402054,
+		"BaseAttrId": 400054,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402055,
+		"BaseAttrId": 400055,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402056,
+		"BaseAttrId": 400056,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402057,
+		"BaseAttrId": 400057,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402058,
+		"BaseAttrId": 400058,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402059,
+		"BaseAttrId": 400059,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402060,
+		"BaseAttrId": 400060,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402061,
+		"BaseAttrId": 400061,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402062,
+		"BaseAttrId": 400062,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402063,
+		"BaseAttrId": 400063,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402064,
+		"BaseAttrId": 400064,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402065,
+		"BaseAttrId": 400065,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402066,
+		"BaseAttrId": 400066,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402067,
+		"BaseAttrId": 400067,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402068,
+		"BaseAttrId": 400068,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402069,
+		"BaseAttrId": 400069,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402070,
+		"BaseAttrId": 400070,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402071,
+		"BaseAttrId": 400071,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402072,
+		"BaseAttrId": 400072,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402073,
+		"BaseAttrId": 400073,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402074,
+		"BaseAttrId": 400074,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402075,
+		"BaseAttrId": 400075,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402076,
+		"BaseAttrId": 400076,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402077,
+		"BaseAttrId": 400077,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402078,
+		"BaseAttrId": 400078,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402079,
+		"BaseAttrId": 400079,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402080,
+		"BaseAttrId": 400080,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402081,
+		"BaseAttrId": 400081,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402082,
+		"BaseAttrId": 400082,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402083,
+		"BaseAttrId": 400083,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402084,
+		"BaseAttrId": 400084,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402085,
+		"BaseAttrId": 400085,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402086,
+		"BaseAttrId": 400086,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402087,
+		"BaseAttrId": 400087,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402088,
+		"BaseAttrId": 400088,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402089,
+		"BaseAttrId": 400089,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402090,
+		"BaseAttrId": 400090,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402091,
+		"BaseAttrId": 400091,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402092,
+		"BaseAttrId": 400092,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402093,
+		"BaseAttrId": 400093,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402094,
+		"BaseAttrId": 400094,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402095,
+		"BaseAttrId": 400095,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402096,
+		"BaseAttrId": 400096,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402097,
+		"BaseAttrId": 400097,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402098,
+		"BaseAttrId": 400098,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402099,
+		"BaseAttrId": 400099,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402100,
+		"BaseAttrId": 400100,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 4
+	},
+	{
+		"AddAttrId": 402001,
+		"BaseAttrId": 400001,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402002,
+		"BaseAttrId": 400002,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402003,
+		"BaseAttrId": 400003,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402004,
+		"BaseAttrId": 400004,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402005,
+		"BaseAttrId": 400005,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402006,
+		"BaseAttrId": 400006,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402007,
+		"BaseAttrId": 400007,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402008,
+		"BaseAttrId": 400008,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402009,
+		"BaseAttrId": 400009,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402010,
+		"BaseAttrId": 400010,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402011,
+		"BaseAttrId": 400011,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402012,
+		"BaseAttrId": 400012,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402013,
+		"BaseAttrId": 400013,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402014,
+		"BaseAttrId": 400014,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402015,
+		"BaseAttrId": 400015,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402016,
+		"BaseAttrId": 400016,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402017,
+		"BaseAttrId": 400017,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402018,
+		"BaseAttrId": 400018,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402019,
+		"BaseAttrId": 400019,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402020,
+		"BaseAttrId": 400020,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402021,
+		"BaseAttrId": 400021,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402022,
+		"BaseAttrId": 400022,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402023,
+		"BaseAttrId": 400023,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402024,
+		"BaseAttrId": 400024,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402025,
+		"BaseAttrId": 400025,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402026,
+		"BaseAttrId": 400026,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402027,
+		"BaseAttrId": 400027,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402028,
+		"BaseAttrId": 400028,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402029,
+		"BaseAttrId": 400029,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402030,
+		"BaseAttrId": 400030,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402031,
+		"BaseAttrId": 400031,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402032,
+		"BaseAttrId": 400032,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402033,
+		"BaseAttrId": 400033,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402034,
+		"BaseAttrId": 400034,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402035,
+		"BaseAttrId": 400035,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402036,
+		"BaseAttrId": 400036,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402037,
+		"BaseAttrId": 400037,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402038,
+		"BaseAttrId": 400038,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402039,
+		"BaseAttrId": 400039,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402040,
+		"BaseAttrId": 400040,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402041,
+		"BaseAttrId": 400041,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402042,
+		"BaseAttrId": 400042,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402043,
+		"BaseAttrId": 400043,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402044,
+		"BaseAttrId": 400044,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402045,
+		"BaseAttrId": 400045,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402046,
+		"BaseAttrId": 400046,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402047,
+		"BaseAttrId": 400047,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402048,
+		"BaseAttrId": 400048,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402049,
+		"BaseAttrId": 400049,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402050,
+		"BaseAttrId": 400050,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402051,
+		"BaseAttrId": 400051,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402052,
+		"BaseAttrId": 400052,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402053,
+		"BaseAttrId": 400053,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402054,
+		"BaseAttrId": 400054,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402055,
+		"BaseAttrId": 400055,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402056,
+		"BaseAttrId": 400056,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402057,
+		"BaseAttrId": 400057,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402058,
+		"BaseAttrId": 400058,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402059,
+		"BaseAttrId": 400059,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402060,
+		"BaseAttrId": 400060,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402061,
+		"BaseAttrId": 400061,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402062,
+		"BaseAttrId": 400062,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402063,
+		"BaseAttrId": 400063,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402064,
+		"BaseAttrId": 400064,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402065,
+		"BaseAttrId": 400065,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402066,
+		"BaseAttrId": 400066,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402067,
+		"BaseAttrId": 400067,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402068,
+		"BaseAttrId": 400068,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402069,
+		"BaseAttrId": 400069,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402070,
+		"BaseAttrId": 400070,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402071,
+		"BaseAttrId": 400071,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402072,
+		"BaseAttrId": 400072,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402073,
+		"BaseAttrId": 400073,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402074,
+		"BaseAttrId": 400074,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402075,
+		"BaseAttrId": 400075,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402076,
+		"BaseAttrId": 400076,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402077,
+		"BaseAttrId": 400077,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402078,
+		"BaseAttrId": 400078,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402079,
+		"BaseAttrId": 400079,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402080,
+		"BaseAttrId": 400080,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402081,
+		"BaseAttrId": 400081,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402082,
+		"BaseAttrId": 400082,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402083,
+		"BaseAttrId": 400083,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402084,
+		"BaseAttrId": 400084,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402085,
+		"BaseAttrId": 400085,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402086,
+		"BaseAttrId": 400086,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402087,
+		"BaseAttrId": 400087,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402088,
+		"BaseAttrId": 400088,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402089,
+		"BaseAttrId": 400089,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402090,
+		"BaseAttrId": 400090,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402091,
+		"BaseAttrId": 400091,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402092,
+		"BaseAttrId": 400092,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402093,
+		"BaseAttrId": 400093,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402094,
+		"BaseAttrId": 400094,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402095,
+		"BaseAttrId": 400095,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402096,
+		"BaseAttrId": 400096,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402097,
+		"BaseAttrId": 400097,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402098,
+		"BaseAttrId": 400098,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402099,
+		"BaseAttrId": 400099,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402100,
+		"BaseAttrId": 400100,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 5
+	},
+	{
+		"AddAttrId": 402501,
+		"BaseAttrId": 400501,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402502,
+		"BaseAttrId": 400502,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402503,
+		"BaseAttrId": 400503,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402504,
+		"BaseAttrId": 400504,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402505,
+		"BaseAttrId": 400505,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402506,
+		"BaseAttrId": 400506,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402507,
+		"BaseAttrId": 400507,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402508,
+		"BaseAttrId": 400508,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402509,
+		"BaseAttrId": 400509,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402510,
+		"BaseAttrId": 400510,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402511,
+		"BaseAttrId": 400511,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402512,
+		"BaseAttrId": 400512,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402513,
+		"BaseAttrId": 400513,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402514,
+		"BaseAttrId": 400514,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402515,
+		"BaseAttrId": 400515,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402516,
+		"BaseAttrId": 400516,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402517,
+		"BaseAttrId": 400517,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402518,
+		"BaseAttrId": 400518,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402519,
+		"BaseAttrId": 400519,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402520,
+		"BaseAttrId": 400520,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402521,
+		"BaseAttrId": 400521,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402522,
+		"BaseAttrId": 400522,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402523,
+		"BaseAttrId": 400523,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402524,
+		"BaseAttrId": 400524,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402525,
+		"BaseAttrId": 400525,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402526,
+		"BaseAttrId": 400526,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402527,
+		"BaseAttrId": 400527,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402528,
+		"BaseAttrId": 400528,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402529,
+		"BaseAttrId": 400529,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402530,
+		"BaseAttrId": 400530,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402531,
+		"BaseAttrId": 400531,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402532,
+		"BaseAttrId": 400532,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402533,
+		"BaseAttrId": 400533,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402534,
+		"BaseAttrId": 400534,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402535,
+		"BaseAttrId": 400535,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402536,
+		"BaseAttrId": 400536,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402537,
+		"BaseAttrId": 400537,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402538,
+		"BaseAttrId": 400538,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402539,
+		"BaseAttrId": 400539,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402540,
+		"BaseAttrId": 400540,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402541,
+		"BaseAttrId": 400541,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402542,
+		"BaseAttrId": 400542,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402543,
+		"BaseAttrId": 400543,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402544,
+		"BaseAttrId": 400544,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402545,
+		"BaseAttrId": 400545,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402546,
+		"BaseAttrId": 400546,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402547,
+		"BaseAttrId": 400547,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402548,
+		"BaseAttrId": 400548,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402549,
+		"BaseAttrId": 400549,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402550,
+		"BaseAttrId": 400550,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402551,
+		"BaseAttrId": 400551,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402552,
+		"BaseAttrId": 400552,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402553,
+		"BaseAttrId": 400553,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402554,
+		"BaseAttrId": 400554,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402555,
+		"BaseAttrId": 400555,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402556,
+		"BaseAttrId": 400556,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402557,
+		"BaseAttrId": 400557,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402558,
+		"BaseAttrId": 400558,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402559,
+		"BaseAttrId": 400559,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402560,
+		"BaseAttrId": 400560,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402561,
+		"BaseAttrId": 400561,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402562,
+		"BaseAttrId": 400562,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402563,
+		"BaseAttrId": 400563,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402564,
+		"BaseAttrId": 400564,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402565,
+		"BaseAttrId": 400565,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402566,
+		"BaseAttrId": 400566,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402567,
+		"BaseAttrId": 400567,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402568,
+		"BaseAttrId": 400568,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402569,
+		"BaseAttrId": 400569,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402570,
+		"BaseAttrId": 400570,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402571,
+		"BaseAttrId": 400571,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402572,
+		"BaseAttrId": 400572,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402573,
+		"BaseAttrId": 400573,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402574,
+		"BaseAttrId": 400574,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402575,
+		"BaseAttrId": 400575,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402576,
+		"BaseAttrId": 400576,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402577,
+		"BaseAttrId": 400577,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402578,
+		"BaseAttrId": 400578,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402579,
+		"BaseAttrId": 400579,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402580,
+		"BaseAttrId": 400580,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402581,
+		"BaseAttrId": 400581,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402582,
+		"BaseAttrId": 400582,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402583,
+		"BaseAttrId": 400583,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402584,
+		"BaseAttrId": 400584,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402585,
+		"BaseAttrId": 400585,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402586,
+		"BaseAttrId": 400586,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402587,
+		"BaseAttrId": 400587,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402588,
+		"BaseAttrId": 400588,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402589,
+		"BaseAttrId": 400589,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402590,
+		"BaseAttrId": 400590,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402591,
+		"BaseAttrId": 400591,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402592,
+		"BaseAttrId": 400592,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402593,
+		"BaseAttrId": 400593,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402594,
+		"BaseAttrId": 400594,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402595,
+		"BaseAttrId": 400595,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402596,
+		"BaseAttrId": 400596,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402597,
+		"BaseAttrId": 400597,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402598,
+		"BaseAttrId": 400598,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402599,
+		"BaseAttrId": 400599,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402600,
+		"BaseAttrId": 400600,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 6
+	},
+	{
+		"AddAttrId": 402701,
+		"BaseAttrId": 400701,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402702,
+		"BaseAttrId": 400702,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402703,
+		"BaseAttrId": 400703,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402704,
+		"BaseAttrId": 400704,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402705,
+		"BaseAttrId": 400705,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402706,
+		"BaseAttrId": 400706,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402707,
+		"BaseAttrId": 400707,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402708,
+		"BaseAttrId": 400708,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402709,
+		"BaseAttrId": 400709,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402710,
+		"BaseAttrId": 400710,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402711,
+		"BaseAttrId": 400711,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402712,
+		"BaseAttrId": 400712,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402713,
+		"BaseAttrId": 400713,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402714,
+		"BaseAttrId": 400714,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402715,
+		"BaseAttrId": 400715,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402716,
+		"BaseAttrId": 400716,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402717,
+		"BaseAttrId": 400717,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402718,
+		"BaseAttrId": 400718,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402719,
+		"BaseAttrId": 400719,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402720,
+		"BaseAttrId": 400720,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402721,
+		"BaseAttrId": 400721,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402722,
+		"BaseAttrId": 400722,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402723,
+		"BaseAttrId": 400723,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402724,
+		"BaseAttrId": 400724,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402725,
+		"BaseAttrId": 400725,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402726,
+		"BaseAttrId": 400726,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402727,
+		"BaseAttrId": 400727,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402728,
+		"BaseAttrId": 400728,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402729,
+		"BaseAttrId": 400729,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402730,
+		"BaseAttrId": 400730,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402731,
+		"BaseAttrId": 400731,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402732,
+		"BaseAttrId": 400732,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402733,
+		"BaseAttrId": 400733,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402734,
+		"BaseAttrId": 400734,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402735,
+		"BaseAttrId": 400735,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402736,
+		"BaseAttrId": 400736,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402737,
+		"BaseAttrId": 400737,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402738,
+		"BaseAttrId": 400738,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402739,
+		"BaseAttrId": 400739,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402740,
+		"BaseAttrId": 400740,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402741,
+		"BaseAttrId": 400741,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402742,
+		"BaseAttrId": 400742,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402743,
+		"BaseAttrId": 400743,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402744,
+		"BaseAttrId": 400744,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402745,
+		"BaseAttrId": 400745,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402746,
+		"BaseAttrId": 400746,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402747,
+		"BaseAttrId": 400747,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402748,
+		"BaseAttrId": 400748,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402749,
+		"BaseAttrId": 400749,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402750,
+		"BaseAttrId": 400750,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402751,
+		"BaseAttrId": 400751,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402752,
+		"BaseAttrId": 400752,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402753,
+		"BaseAttrId": 400753,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402754,
+		"BaseAttrId": 400754,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402755,
+		"BaseAttrId": 400755,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402756,
+		"BaseAttrId": 400756,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402757,
+		"BaseAttrId": 400757,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402758,
+		"BaseAttrId": 400758,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402759,
+		"BaseAttrId": 400759,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402760,
+		"BaseAttrId": 400760,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402761,
+		"BaseAttrId": 400761,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402762,
+		"BaseAttrId": 400762,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402763,
+		"BaseAttrId": 400763,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402764,
+		"BaseAttrId": 400764,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402765,
+		"BaseAttrId": 400765,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402766,
+		"BaseAttrId": 400766,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402767,
+		"BaseAttrId": 400767,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402768,
+		"BaseAttrId": 400768,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402769,
+		"BaseAttrId": 400769,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402770,
+		"BaseAttrId": 400770,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402771,
+		"BaseAttrId": 400771,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402772,
+		"BaseAttrId": 400772,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402773,
+		"BaseAttrId": 400773,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402774,
+		"BaseAttrId": 400774,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402775,
+		"BaseAttrId": 400775,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402776,
+		"BaseAttrId": 400776,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402777,
+		"BaseAttrId": 400777,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402778,
+		"BaseAttrId": 400778,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402779,
+		"BaseAttrId": 400779,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402780,
+		"BaseAttrId": 400780,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402781,
+		"BaseAttrId": 400781,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402782,
+		"BaseAttrId": 400782,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402783,
+		"BaseAttrId": 400783,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402784,
+		"BaseAttrId": 400784,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402785,
+		"BaseAttrId": 400785,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402786,
+		"BaseAttrId": 400786,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402787,
+		"BaseAttrId": 400787,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402788,
+		"BaseAttrId": 400788,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402789,
+		"BaseAttrId": 400789,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402790,
+		"BaseAttrId": 400790,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402791,
+		"BaseAttrId": 400791,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402792,
+		"BaseAttrId": 400792,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402793,
+		"BaseAttrId": 400793,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402794,
+		"BaseAttrId": 400794,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402795,
+		"BaseAttrId": 400795,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402796,
+		"BaseAttrId": 400796,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402797,
+		"BaseAttrId": 400797,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402798,
+		"BaseAttrId": 400798,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402799,
+		"BaseAttrId": 400799,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402800,
+		"BaseAttrId": 400800,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 7
+	},
+	{
+		"AddAttrId": 402501,
+		"BaseAttrId": 400501,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402502,
+		"BaseAttrId": 400502,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402503,
+		"BaseAttrId": 400503,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402504,
+		"BaseAttrId": 400504,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402505,
+		"BaseAttrId": 400505,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402506,
+		"BaseAttrId": 400506,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402507,
+		"BaseAttrId": 400507,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402508,
+		"BaseAttrId": 400508,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402509,
+		"BaseAttrId": 400509,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402510,
+		"BaseAttrId": 400510,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402511,
+		"BaseAttrId": 400511,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402512,
+		"BaseAttrId": 400512,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402513,
+		"BaseAttrId": 400513,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402514,
+		"BaseAttrId": 400514,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402515,
+		"BaseAttrId": 400515,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402516,
+		"BaseAttrId": 400516,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402517,
+		"BaseAttrId": 400517,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402518,
+		"BaseAttrId": 400518,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402519,
+		"BaseAttrId": 400519,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402520,
+		"BaseAttrId": 400520,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402521,
+		"BaseAttrId": 400521,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402522,
+		"BaseAttrId": 400522,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402523,
+		"BaseAttrId": 400523,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402524,
+		"BaseAttrId": 400524,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402525,
+		"BaseAttrId": 400525,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402526,
+		"BaseAttrId": 400526,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402527,
+		"BaseAttrId": 400527,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402528,
+		"BaseAttrId": 400528,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402529,
+		"BaseAttrId": 400529,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402530,
+		"BaseAttrId": 400530,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402531,
+		"BaseAttrId": 400531,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402532,
+		"BaseAttrId": 400532,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402533,
+		"BaseAttrId": 400533,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402534,
+		"BaseAttrId": 400534,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402535,
+		"BaseAttrId": 400535,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402536,
+		"BaseAttrId": 400536,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402537,
+		"BaseAttrId": 400537,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402538,
+		"BaseAttrId": 400538,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402539,
+		"BaseAttrId": 400539,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402540,
+		"BaseAttrId": 400540,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402541,
+		"BaseAttrId": 400541,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402542,
+		"BaseAttrId": 400542,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402543,
+		"BaseAttrId": 400543,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402544,
+		"BaseAttrId": 400544,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402545,
+		"BaseAttrId": 400545,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402546,
+		"BaseAttrId": 400546,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402547,
+		"BaseAttrId": 400547,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402548,
+		"BaseAttrId": 400548,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402549,
+		"BaseAttrId": 400549,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402550,
+		"BaseAttrId": 400550,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402551,
+		"BaseAttrId": 400551,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402552,
+		"BaseAttrId": 400552,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402553,
+		"BaseAttrId": 400553,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402554,
+		"BaseAttrId": 400554,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402555,
+		"BaseAttrId": 400555,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402556,
+		"BaseAttrId": 400556,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402557,
+		"BaseAttrId": 400557,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402558,
+		"BaseAttrId": 400558,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402559,
+		"BaseAttrId": 400559,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402560,
+		"BaseAttrId": 400560,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402561,
+		"BaseAttrId": 400561,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402562,
+		"BaseAttrId": 400562,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402563,
+		"BaseAttrId": 400563,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402564,
+		"BaseAttrId": 400564,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402565,
+		"BaseAttrId": 400565,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402566,
+		"BaseAttrId": 400566,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402567,
+		"BaseAttrId": 400567,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402568,
+		"BaseAttrId": 400568,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402569,
+		"BaseAttrId": 400569,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402570,
+		"BaseAttrId": 400570,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402571,
+		"BaseAttrId": 400571,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402572,
+		"BaseAttrId": 400572,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402573,
+		"BaseAttrId": 400573,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402574,
+		"BaseAttrId": 400574,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402575,
+		"BaseAttrId": 400575,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402576,
+		"BaseAttrId": 400576,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402577,
+		"BaseAttrId": 400577,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402578,
+		"BaseAttrId": 400578,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402579,
+		"BaseAttrId": 400579,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402580,
+		"BaseAttrId": 400580,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402581,
+		"BaseAttrId": 400581,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402582,
+		"BaseAttrId": 400582,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402583,
+		"BaseAttrId": 400583,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402584,
+		"BaseAttrId": 400584,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402585,
+		"BaseAttrId": 400585,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402586,
+		"BaseAttrId": 400586,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402587,
+		"BaseAttrId": 400587,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402588,
+		"BaseAttrId": 400588,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402589,
+		"BaseAttrId": 400589,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402590,
+		"BaseAttrId": 400590,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402591,
+		"BaseAttrId": 400591,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402592,
+		"BaseAttrId": 400592,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402593,
+		"BaseAttrId": 400593,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402594,
+		"BaseAttrId": 400594,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402595,
+		"BaseAttrId": 400595,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402596,
+		"BaseAttrId": 400596,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402597,
+		"BaseAttrId": 400597,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402598,
+		"BaseAttrId": 400598,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402599,
+		"BaseAttrId": 400599,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402600,
+		"BaseAttrId": 400600,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 8
+	},
+	{
+		"AddAttrId": 402201,
+		"BaseAttrId": 400201,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402202,
+		"BaseAttrId": 400202,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402203,
+		"BaseAttrId": 400203,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402204,
+		"BaseAttrId": 400204,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402205,
+		"BaseAttrId": 400205,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402206,
+		"BaseAttrId": 400206,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402207,
+		"BaseAttrId": 400207,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402208,
+		"BaseAttrId": 400208,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402209,
+		"BaseAttrId": 400209,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402210,
+		"BaseAttrId": 400210,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402211,
+		"BaseAttrId": 400211,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402212,
+		"BaseAttrId": 400212,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402213,
+		"BaseAttrId": 400213,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402214,
+		"BaseAttrId": 400214,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402215,
+		"BaseAttrId": 400215,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402216,
+		"BaseAttrId": 400216,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402217,
+		"BaseAttrId": 400217,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402218,
+		"BaseAttrId": 400218,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402219,
+		"BaseAttrId": 400219,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402220,
+		"BaseAttrId": 400220,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402221,
+		"BaseAttrId": 400221,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402222,
+		"BaseAttrId": 400222,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402223,
+		"BaseAttrId": 400223,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402224,
+		"BaseAttrId": 400224,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402225,
+		"BaseAttrId": 400225,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402226,
+		"BaseAttrId": 400226,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402227,
+		"BaseAttrId": 400227,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402228,
+		"BaseAttrId": 400228,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402229,
+		"BaseAttrId": 400229,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402230,
+		"BaseAttrId": 400230,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402231,
+		"BaseAttrId": 400231,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402232,
+		"BaseAttrId": 400232,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402233,
+		"BaseAttrId": 400233,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402234,
+		"BaseAttrId": 400234,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402235,
+		"BaseAttrId": 400235,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402236,
+		"BaseAttrId": 400236,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402237,
+		"BaseAttrId": 400237,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402238,
+		"BaseAttrId": 400238,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402239,
+		"BaseAttrId": 400239,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402240,
+		"BaseAttrId": 400240,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402241,
+		"BaseAttrId": 400241,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402242,
+		"BaseAttrId": 400242,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402243,
+		"BaseAttrId": 400243,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402244,
+		"BaseAttrId": 400244,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402245,
+		"BaseAttrId": 400245,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402246,
+		"BaseAttrId": 400246,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402247,
+		"BaseAttrId": 400247,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402248,
+		"BaseAttrId": 400248,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402249,
+		"BaseAttrId": 400249,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402250,
+		"BaseAttrId": 400250,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402251,
+		"BaseAttrId": 400251,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402252,
+		"BaseAttrId": 400252,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402253,
+		"BaseAttrId": 400253,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402254,
+		"BaseAttrId": 400254,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402255,
+		"BaseAttrId": 400255,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402256,
+		"BaseAttrId": 400256,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402257,
+		"BaseAttrId": 400257,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402258,
+		"BaseAttrId": 400258,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402259,
+		"BaseAttrId": 400259,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402260,
+		"BaseAttrId": 400260,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402261,
+		"BaseAttrId": 400261,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402262,
+		"BaseAttrId": 400262,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402263,
+		"BaseAttrId": 400263,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402264,
+		"BaseAttrId": 400264,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402265,
+		"BaseAttrId": 400265,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402266,
+		"BaseAttrId": 400266,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402267,
+		"BaseAttrId": 400267,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402268,
+		"BaseAttrId": 400268,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402269,
+		"BaseAttrId": 400269,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402270,
+		"BaseAttrId": 400270,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402271,
+		"BaseAttrId": 400271,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402272,
+		"BaseAttrId": 400272,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402273,
+		"BaseAttrId": 400273,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402274,
+		"BaseAttrId": 400274,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402275,
+		"BaseAttrId": 400275,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402276,
+		"BaseAttrId": 400276,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402277,
+		"BaseAttrId": 400277,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402278,
+		"BaseAttrId": 400278,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402279,
+		"BaseAttrId": 400279,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402280,
+		"BaseAttrId": 400280,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402281,
+		"BaseAttrId": 400281,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402282,
+		"BaseAttrId": 400282,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402283,
+		"BaseAttrId": 400283,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402284,
+		"BaseAttrId": 400284,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402285,
+		"BaseAttrId": 400285,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402286,
+		"BaseAttrId": 400286,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402287,
+		"BaseAttrId": 400287,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402288,
+		"BaseAttrId": 400288,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402289,
+		"BaseAttrId": 400289,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402290,
+		"BaseAttrId": 400290,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402291,
+		"BaseAttrId": 400291,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402292,
+		"BaseAttrId": 400292,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402293,
+		"BaseAttrId": 400293,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402294,
+		"BaseAttrId": 400294,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402295,
+		"BaseAttrId": 400295,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402296,
+		"BaseAttrId": 400296,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402297,
+		"BaseAttrId": 400297,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402298,
+		"BaseAttrId": 400298,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402299,
+		"BaseAttrId": 400299,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402300,
+		"BaseAttrId": 400300,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 9
+	},
+	{
+		"AddAttrId": 402501,
+		"BaseAttrId": 400501,
+		"LevelMax": 10,
+		"LevelMin": 1,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402502,
+		"BaseAttrId": 400502,
+		"LevelMax": 20,
+		"LevelMin": 11,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402503,
+		"BaseAttrId": 400503,
+		"LevelMax": 30,
+		"LevelMin": 21,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402504,
+		"BaseAttrId": 400504,
+		"LevelMax": 40,
+		"LevelMin": 31,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402505,
+		"BaseAttrId": 400505,
+		"LevelMax": 50,
+		"LevelMin": 41,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402506,
+		"BaseAttrId": 400506,
+		"LevelMax": 60,
+		"LevelMin": 51,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402507,
+		"BaseAttrId": 400507,
+		"LevelMax": 70,
+		"LevelMin": 61,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402508,
+		"BaseAttrId": 400508,
+		"LevelMax": 80,
+		"LevelMin": 71,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402509,
+		"BaseAttrId": 400509,
+		"LevelMax": 90,
+		"LevelMin": 81,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402510,
+		"BaseAttrId": 400510,
+		"LevelMax": 100,
+		"LevelMin": 91,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402511,
+		"BaseAttrId": 400511,
+		"LevelMax": 110,
+		"LevelMin": 101,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402512,
+		"BaseAttrId": 400512,
+		"LevelMax": 120,
+		"LevelMin": 111,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402513,
+		"BaseAttrId": 400513,
+		"LevelMax": 130,
+		"LevelMin": 121,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402514,
+		"BaseAttrId": 400514,
+		"LevelMax": 140,
+		"LevelMin": 131,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402515,
+		"BaseAttrId": 400515,
+		"LevelMax": 150,
+		"LevelMin": 141,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402516,
+		"BaseAttrId": 400516,
+		"LevelMax": 160,
+		"LevelMin": 151,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402517,
+		"BaseAttrId": 400517,
+		"LevelMax": 170,
+		"LevelMin": 161,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402518,
+		"BaseAttrId": 400518,
+		"LevelMax": 180,
+		"LevelMin": 171,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402519,
+		"BaseAttrId": 400519,
+		"LevelMax": 190,
+		"LevelMin": 181,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402520,
+		"BaseAttrId": 400520,
+		"LevelMax": 200,
+		"LevelMin": 191,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402521,
+		"BaseAttrId": 400521,
+		"LevelMax": 210,
+		"LevelMin": 201,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402522,
+		"BaseAttrId": 400522,
+		"LevelMax": 220,
+		"LevelMin": 211,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402523,
+		"BaseAttrId": 400523,
+		"LevelMax": 230,
+		"LevelMin": 221,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402524,
+		"BaseAttrId": 400524,
+		"LevelMax": 240,
+		"LevelMin": 231,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402525,
+		"BaseAttrId": 400525,
+		"LevelMax": 250,
+		"LevelMin": 241,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402526,
+		"BaseAttrId": 400526,
+		"LevelMax": 260,
+		"LevelMin": 251,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402527,
+		"BaseAttrId": 400527,
+		"LevelMax": 270,
+		"LevelMin": 261,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402528,
+		"BaseAttrId": 400528,
+		"LevelMax": 280,
+		"LevelMin": 271,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402529,
+		"BaseAttrId": 400529,
+		"LevelMax": 290,
+		"LevelMin": 281,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402530,
+		"BaseAttrId": 400530,
+		"LevelMax": 300,
+		"LevelMin": 291,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402531,
+		"BaseAttrId": 400531,
+		"LevelMax": 310,
+		"LevelMin": 301,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402532,
+		"BaseAttrId": 400532,
+		"LevelMax": 320,
+		"LevelMin": 311,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402533,
+		"BaseAttrId": 400533,
+		"LevelMax": 330,
+		"LevelMin": 321,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402534,
+		"BaseAttrId": 400534,
+		"LevelMax": 340,
+		"LevelMin": 331,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402535,
+		"BaseAttrId": 400535,
+		"LevelMax": 350,
+		"LevelMin": 341,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402536,
+		"BaseAttrId": 400536,
+		"LevelMax": 360,
+		"LevelMin": 351,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402537,
+		"BaseAttrId": 400537,
+		"LevelMax": 370,
+		"LevelMin": 361,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402538,
+		"BaseAttrId": 400538,
+		"LevelMax": 380,
+		"LevelMin": 371,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402539,
+		"BaseAttrId": 400539,
+		"LevelMax": 390,
+		"LevelMin": 381,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402540,
+		"BaseAttrId": 400540,
+		"LevelMax": 400,
+		"LevelMin": 391,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402541,
+		"BaseAttrId": 400541,
+		"LevelMax": 410,
+		"LevelMin": 401,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402542,
+		"BaseAttrId": 400542,
+		"LevelMax": 420,
+		"LevelMin": 411,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402543,
+		"BaseAttrId": 400543,
+		"LevelMax": 430,
+		"LevelMin": 421,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402544,
+		"BaseAttrId": 400544,
+		"LevelMax": 440,
+		"LevelMin": 431,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402545,
+		"BaseAttrId": 400545,
+		"LevelMax": 450,
+		"LevelMin": 441,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402546,
+		"BaseAttrId": 400546,
+		"LevelMax": 460,
+		"LevelMin": 451,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402547,
+		"BaseAttrId": 400547,
+		"LevelMax": 470,
+		"LevelMin": 461,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402548,
+		"BaseAttrId": 400548,
+		"LevelMax": 480,
+		"LevelMin": 471,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402549,
+		"BaseAttrId": 400549,
+		"LevelMax": 490,
+		"LevelMin": 481,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402550,
+		"BaseAttrId": 400550,
+		"LevelMax": 500,
+		"LevelMin": 491,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402551,
+		"BaseAttrId": 400551,
+		"LevelMax": 510,
+		"LevelMin": 501,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402552,
+		"BaseAttrId": 400552,
+		"LevelMax": 520,
+		"LevelMin": 511,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402553,
+		"BaseAttrId": 400553,
+		"LevelMax": 530,
+		"LevelMin": 521,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402554,
+		"BaseAttrId": 400554,
+		"LevelMax": 540,
+		"LevelMin": 531,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402555,
+		"BaseAttrId": 400555,
+		"LevelMax": 550,
+		"LevelMin": 541,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402556,
+		"BaseAttrId": 400556,
+		"LevelMax": 560,
+		"LevelMin": 551,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402557,
+		"BaseAttrId": 400557,
+		"LevelMax": 570,
+		"LevelMin": 561,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402558,
+		"BaseAttrId": 400558,
+		"LevelMax": 580,
+		"LevelMin": 571,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402559,
+		"BaseAttrId": 400559,
+		"LevelMax": 590,
+		"LevelMin": 581,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402560,
+		"BaseAttrId": 400560,
+		"LevelMax": 600,
+		"LevelMin": 591,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402561,
+		"BaseAttrId": 400561,
+		"LevelMax": 610,
+		"LevelMin": 601,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402562,
+		"BaseAttrId": 400562,
+		"LevelMax": 620,
+		"LevelMin": 611,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402563,
+		"BaseAttrId": 400563,
+		"LevelMax": 630,
+		"LevelMin": 621,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402564,
+		"BaseAttrId": 400564,
+		"LevelMax": 640,
+		"LevelMin": 631,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402565,
+		"BaseAttrId": 400565,
+		"LevelMax": 650,
+		"LevelMin": 641,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402566,
+		"BaseAttrId": 400566,
+		"LevelMax": 660,
+		"LevelMin": 651,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402567,
+		"BaseAttrId": 400567,
+		"LevelMax": 670,
+		"LevelMin": 661,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402568,
+		"BaseAttrId": 400568,
+		"LevelMax": 680,
+		"LevelMin": 671,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402569,
+		"BaseAttrId": 400569,
+		"LevelMax": 690,
+		"LevelMin": 681,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402570,
+		"BaseAttrId": 400570,
+		"LevelMax": 700,
+		"LevelMin": 691,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402571,
+		"BaseAttrId": 400571,
+		"LevelMax": 710,
+		"LevelMin": 701,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402572,
+		"BaseAttrId": 400572,
+		"LevelMax": 720,
+		"LevelMin": 711,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402573,
+		"BaseAttrId": 400573,
+		"LevelMax": 730,
+		"LevelMin": 721,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402574,
+		"BaseAttrId": 400574,
+		"LevelMax": 740,
+		"LevelMin": 731,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402575,
+		"BaseAttrId": 400575,
+		"LevelMax": 750,
+		"LevelMin": 741,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402576,
+		"BaseAttrId": 400576,
+		"LevelMax": 760,
+		"LevelMin": 751,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402577,
+		"BaseAttrId": 400577,
+		"LevelMax": 770,
+		"LevelMin": 761,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402578,
+		"BaseAttrId": 400578,
+		"LevelMax": 780,
+		"LevelMin": 771,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402579,
+		"BaseAttrId": 400579,
+		"LevelMax": 790,
+		"LevelMin": 781,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402580,
+		"BaseAttrId": 400580,
+		"LevelMax": 800,
+		"LevelMin": 791,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402581,
+		"BaseAttrId": 400581,
+		"LevelMax": 810,
+		"LevelMin": 801,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402582,
+		"BaseAttrId": 400582,
+		"LevelMax": 820,
+		"LevelMin": 811,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402583,
+		"BaseAttrId": 400583,
+		"LevelMax": 830,
+		"LevelMin": 821,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402584,
+		"BaseAttrId": 400584,
+		"LevelMax": 840,
+		"LevelMin": 831,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402585,
+		"BaseAttrId": 400585,
+		"LevelMax": 850,
+		"LevelMin": 841,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402586,
+		"BaseAttrId": 400586,
+		"LevelMax": 860,
+		"LevelMin": 851,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402587,
+		"BaseAttrId": 400587,
+		"LevelMax": 870,
+		"LevelMin": 861,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402588,
+		"BaseAttrId": 400588,
+		"LevelMax": 880,
+		"LevelMin": 871,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402589,
+		"BaseAttrId": 400589,
+		"LevelMax": 890,
+		"LevelMin": 881,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402590,
+		"BaseAttrId": 400590,
+		"LevelMax": 900,
+		"LevelMin": 891,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402591,
+		"BaseAttrId": 400591,
+		"LevelMax": 910,
+		"LevelMin": 901,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402592,
+		"BaseAttrId": 400592,
+		"LevelMax": 920,
+		"LevelMin": 911,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402593,
+		"BaseAttrId": 400593,
+		"LevelMax": 930,
+		"LevelMin": 921,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402594,
+		"BaseAttrId": 400594,
+		"LevelMax": 940,
+		"LevelMin": 931,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402595,
+		"BaseAttrId": 400595,
+		"LevelMax": 950,
+		"LevelMin": 941,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402596,
+		"BaseAttrId": 400596,
+		"LevelMax": 960,
+		"LevelMin": 951,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402597,
+		"BaseAttrId": 400597,
+		"LevelMax": 970,
+		"LevelMin": 961,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402598,
+		"BaseAttrId": 400598,
+		"LevelMax": 980,
+		"LevelMin": 971,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402599,
+		"BaseAttrId": 400599,
+		"LevelMax": 990,
+		"LevelMin": 981,
+		"Pos": 10
+	},
+	{
+		"AddAttrId": 402600,
+		"BaseAttrId": 400600,
+		"LevelMax": 1000,
+		"LevelMin": 991,
+		"Pos": 10
+	}
+]

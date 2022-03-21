@@ -1,0 +1,49 @@
+[
+	{
+		"Id": 1,
+		"LimitCoreType": "1"
+	},
+	{
+		"Id": 2,
+		"LimitCoreType": "2"
+	},
+	{
+		"Id": 3,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 4,
+		"LimitConditionId": 25302,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 5,
+		"LimitConditionId": 25304,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 6,
+		"LimitConditionId": 25307,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 7,
+		"LimitConditionId": 25311,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 8,
+		"LimitConditionId": 25316,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 9,
+		"LimitConditionId": 25322,
+		"LimitCoreType": "3"
+	},
+	{
+		"Id": 10,
+		"LimitConditionId": 25329,
+		"LimitCoreType": "3"
+	}
+]

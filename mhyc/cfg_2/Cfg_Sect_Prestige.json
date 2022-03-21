@@ -1,0 +1,352 @@
+[
+	{
+		"AttrId": 3001,
+		"Items": "2:20|7:1000",
+		"Level": 1,
+		"Prestige": 1000,
+		"Title": 1
+	},
+	{
+		"AttrId": 3002,
+		"Items": "2:40|7:2000",
+		"Level": 2,
+		"Prestige": 2000,
+		"Title": 2
+	},
+	{
+		"AttrId": 3003,
+		"Items": "2:60|7:3000",
+		"Level": 3,
+		"Prestige": 5000,
+		"Title": 3
+	},
+	{
+		"AttrId": 3004,
+		"Items": "2:80|7:4000",
+		"Level": 4,
+		"Prestige": 10000,
+		"Title": 4
+	},
+	{
+		"AttrId": 3005,
+		"Items": "2:100|7:5000",
+		"Level": 5,
+		"Prestige": 15000,
+		"Title": 5
+	},
+	{
+		"AttrId": 3006,
+		"Items": "2:120|7:6000",
+		"Level": 6,
+		"Prestige": 20000,
+		"Title": 6
+	},
+	{
+		"AttrId": 3007,
+		"Items": "2:140|7:7000",
+		"Level": 7,
+		"Prestige": 25000,
+		"Title": 7
+	},
+	{
+		"AttrId": 3008,
+		"Items": "2:160|7:8000",
+		"Level": 8,
+		"Prestige": 30000,
+		"Title": 8
+	},
+	{
+		"AttrId": 3009,
+		"Items": "2:180|7:9000",
+		"Level": 9,
+		"Prestige": 35000,
+		"Title": 9
+	},
+	{
+		"AttrId": 3010,
+		"Items": "2:200|7:10000",
+		"Level": 10,
+		"Prestige": 40000,
+		"Title": 10
+	},
+	{
+		"AttrId": 3011,
+		"Items": "2:220|7:11000",
+		"Level": 11,
+		"Prestige": 45000,
+		"Title": 11
+	},
+	{
+		"AttrId": 3012,
+		"Items": "2:240|7:12000",
+		"Level": 12,
+		"Prestige": 50000,
+		"Title": 12
+	},
+	{
+		"AttrId": 3013,
+		"Items": "2:260|7:13000",
+		"Level": 13,
+		"Prestige": 60000,
+		"Title": 13
+	},
+	{
+		"AttrId": 3014,
+		"Items": "2:280|7:14000",
+		"Level": 14,
+		"Prestige": 70000,
+		"Title": 14
+	},
+	{
+		"AttrId": 3015,
+		"Items": "2:300|7:15000",
+		"Level": 15,
+		"Prestige": 80000,
+		"Title": 15
+	},
+	{
+		"AttrId": 3016,
+		"Items": "2:320|7:16000",
+		"Level": 16,
+		"Prestige": 90000,
+		"Title": 16
+	},
+	{
+		"AttrId": 3017,
+		"Items": "2:340|7:17000",
+		"Level": 17,
+		"Prestige": 100000,
+		"Title": 17
+	},
+	{
+		"AttrId": 3018,
+		"Items": "2:360|7:18000",
+		"Level": 18,
+		"Prestige": 110000,
+		"Title": 18
+	},
+	{
+		"AttrId": 3019,
+		"Items": "2:380|7:19000",
+		"Level": 19,
+		"Prestige": 120000,
+		"Title": 19
+	},
+	{
+		"AttrId": 3020,
+		"Items": "2:400|7:20000",
+		"Level": 20,
+		"Prestige": 130000,
+		"Title": 20
+	},
+	{
+		"AttrId": 3021,
+		"Items": "2:420|7:21000",
+		"Level": 21,
+		"Prestige": 150000,
+		"Title": 21
+	},
+	{
+		"AttrId": 3022,
+		"Items": "2:440|7:22000",
+		"Level": 22,
+		"Prestige": 170000,
+		"Title": 22
+	},
+	{
+		"AttrId": 3023,
+		"Items": "2:460|7:23000",
+		"Level": 23,
+		"Prestige": 190000,
+		"Title": 23
+	},
+	{
+		"AttrId": 3024,
+		"Items": "2:480|7:24000",
+		"Level": 24,
+		"Prestige": 210000,
+		"Title": 24
+	},
+	{
+		"AttrId": 3025,
+		"Items": "2:500|7:25000",
+		"Level": 25,
+		"Prestige": 230000,
+		"Title": 25
+	},
+	{
+		"AttrId": 3026,
+		"Items": "2:520|7:26000",
+		"Level": 26,
+		"Prestige": 250000,
+		"Title": 26
+	},
+	{
+		"AttrId": 3027,
+		"Items": "2:540|7:27000",
+		"Level": 27,
+		"Prestige": 270000,
+		"Title": 27
+	},
+	{
+		"AttrId": 3028,
+		"Items": "2:560|7:28000",
+		"Level": 28,
+		"Prestige": 300000,
+		"Title": 28
+	},
+	{
+		"AttrId": 3029,
+		"Items": "2:580|7:29000",
+		"Level": 29,
+		"Prestige": 330000,
+		"Title": 29
+	},
+	{
+		"AttrId": 3030,
+		"Items": "2:600|7:30000",
+		"Level": 30,
+		"Prestige": 360000,
+		"Title": 30
+	},
+	{
+		"AttrId": 3031,
+		"Items": "2:620|7:31000",
+		"Level": 31,
+		"Prestige": 400000,
+		"Title": 31
+	},
+	{
+		"AttrId": 3032,
+		"Items": "2:640|7:32000",
+		"Level": 32,
+		"Prestige": 440000,
+		"Title": 32
+	},
+	{
+		"AttrId": 3033,
+		"Items": "2:660|7:33000",
+		"Level": 33,
+		"Prestige": 480000,
+		"Title": 33
+	},
+	{
+		"AttrId": 3034,
+		"Items": "2:680|7:34000",
+		"Level": 34,
+		"Prestige": 520000,
+		"Title": 34
+	},
+	{
+		"AttrId": 3035,
+		"Items": "2:700|7:35000",
+		"Level": 35,
+		"Prestige": 560000,
+		"Title": 35
+	},
+	{
+		"AttrId": 3036,
+		"Items": "2:720|7:36000",
+		"Level": 36,
+		"Prestige": 600000,
+		"Title": 36
+	},
+	{
+		"AttrId": 3037,
+		"Items": "2:740|7:37000",
+		"Level": 37,
+		"Prestige": 650000,
+		"Title": 37
+	},
+	{
+		"AttrId": 3038,
+		"Items": "2:760|7:38000",
+		"Level": 38,
+		"Prestige": 700000,
+		"Title": 38
+	},
+	{
+		"AttrId": 3039,
+		"Items": "2:780|7:39000",
+		"Level": 39,
+		"Prestige": 750000,
+		"Title": 39
+	},
+	{
+		"AttrId": 3040,
+		"Items": "2:800|7:40000",
+		"Level": 40,
+		"Prestige": 800000,
+		"Title": 40
+	},
+	{
+		"AttrId": 3041,
+		"Items": "2:820|7:41000",
+		"Level": 41,
+		"Prestige": 900000,
+		"Title": 41
+	},
+	{
+		"AttrId": 3042,
+		"Items": "2:840|7:42000",
+		"Level": 42,
+		"Prestige": 1000000,
+		"Title": 42
+	},
+	{
+		"AttrId": 3043,
+		"Items": "2:860|7:43000",
+		"Level": 43,
+		"Prestige": 1200000,
+		"Title": 43
+	},
+	{
+		"AttrId": 3044,
+		"Items": "2:880|7:44000",
+		"Level": 44,
+		"Prestige": 1500000,
+		"Title": 44
+	},
+	{
+		"AttrId": 3045,
+		"Items": "2:900|7:45000",
+		"Level": 45,
+		"Prestige": 1800000,
+		"Title": 45
+	},
+	{
+		"AttrId": 3046,
+		"Items": "2:920|7:46000",
+		"Level": 46,
+		"Prestige": 2100000,
+		"Title": 46
+	},
+	{
+		"AttrId": 3047,
+		"Items": "2:940|7:47000",
+		"Level": 47,
+		"Prestige": 2400000,
+		"Title": 47
+	},
+	{
+		"AttrId": 3048,
+		"Items": "2:960|7:48000",
+		"Level": 48,
+		"Prestige": 2700000,
+		"Title": 48
+	},
+	{
+		"AttrId": 3049,
+		"Items": "2:980|7:49000",
+		"Level": 49,
+		"Prestige": 3000000,
+		"Title": 49
+	},
+	{
+		"AttrId": 3050,
+		"Items": "2:1000|7:50000",
+		"Level": 50,
+		"Prestige": 3500000,
+		"Title": 50
+	}
+]

@@ -1,0 +1,793 @@
+[
+	{
+		"Color": 5,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 7
+	},
+	{
+		"Color": 3,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 5009,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 4,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 6001,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 7003,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 5,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 5001,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 3,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 1116103,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 4,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 1117202,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 3,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 1500100,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 5,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 1,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 5,
+		"Id": 1,
+		"Name": "苍灵阵",
+		"PId": 1,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 5,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 6
+	},
+	{
+		"Color": 3,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 5008,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 6002,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 7003,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 5,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 5002,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 4,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 1116105,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 4,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 1118202,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 4,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 1500101,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 2,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 5,
+		"Id": 2,
+		"Name": "赤宫阵",
+		"PId": 2,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 5,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 1
+	},
+	{
+		"Color": 3,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 5005,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 4,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 6009,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 7003,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 5,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 5003,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 4,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 1116104,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 5,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 1117204,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 3,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 1500100,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 2,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 5,
+		"Id": 3,
+		"Name": "丧门阵",
+		"PId": 3,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 5,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 2
+	},
+	{
+		"Color": 4,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 5002,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 4,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 6003,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 7003,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 5,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 5004,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 5,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 1116107,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 5,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 1118203,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 4,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 1500101,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 2,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 6,
+		"Id": 4,
+		"Name": "墨甲阵",
+		"PId": 4,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 5,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 5
+	},
+	{
+		"Color": 3,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 5001,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 6007,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 7003,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 6,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 6001,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 6,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 1116106,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 5,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 1117203,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 3,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 1500100,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 2,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 5,
+		"Id": 5,
+		"Name": "玉兽阵",
+		"PId": 3,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 3
+	},
+	{
+		"Color": 4,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 6010,
+		"PType": 1,
+		"Pos": 1
+	},
+	{
+		"Color": 4,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 6005,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 4,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 7002,
+		"PType": 1,
+		"Pos": 3
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 6003,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 1116102,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 1117205,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 5,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 1500102,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 3,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 6,
+		"Id": 6,
+		"Name": "青龙神君",
+		"PId": 4,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 6,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 8
+	},
+	{
+		"Color": 5,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 6012,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 6002,
+		"PType": 1,
+		"Pos": 2
+	},
+	{
+		"Color": 7,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 7002,
+		"PType": 1,
+		"Param1": 7,
+		"Pos": 3
+	},
+	{
+		"Color": 6,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 6004,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 6,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 1116108,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 7,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 1117206,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 5,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 1500102,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 7,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 5,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 6,
+		"Id": 7,
+		"Name": "朱雀神君",
+		"PId": 5,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 16
+	},
+	{
+		"Color": 5,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 6009,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 6003,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 2
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 7001,
+		"PType": 1,
+		"Param1": 7,
+		"Pos": 3
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 7001,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 1116109,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 1117207,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 6,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 1500103,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 3,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 7,
+		"Id": 8,
+		"Name": "白虎神君",
+		"PId": 7,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 7,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 14
+	},
+	{
+		"Color": 5,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 6004,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 6008,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 2
+	},
+	{
+		"Color": 7,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 7003,
+		"PType": 1,
+		"Param1": 7,
+		"Pos": 3
+	},
+	{
+		"Color": 7,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 7002,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 6,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 1116102,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 6,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 1118206,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 5,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 1500102,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 6,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 2,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 6,
+		"Id": 9,
+		"Name": "玄武神君",
+		"PId": 6,
+		"PType": 7,
+		"Pos": 9
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 17
+	},
+	{
+		"Color": 5,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 6011,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 1
+	},
+	{
+		"Color": 5,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 6013,
+		"PType": 1,
+		"Param1": 5,
+		"Pos": 2
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 7006,
+		"PType": 1,
+		"Param1": 7,
+		"Pos": 3
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 7001,
+		"PType": 2,
+		"Pos": 4
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 1116110,
+		"PType": 3,
+		"Pos": 5
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 1118207,
+		"PType": 4,
+		"Pos": 6
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 1500104,
+		"PType": 5,
+		"Pos": 7
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 4,
+		"PType": 6,
+		"Pos": 8
+	},
+	{
+		"Color": 7,
+		"Id": 10,
+		"Name": "麒麟神君",
+		"PId": 8,
+		"PType": 7,
+		"Pos": 9
+	}
+]

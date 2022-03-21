@@ -1,0 +1,170 @@
+[
+	{
+		"Event": 1,
+		"Id": 1,
+		"Quality": 1,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 8000
+	},
+	{
+		"Event": 1,
+		"Id": 2,
+		"Quality": 2,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 6000
+	},
+	{
+		"Event": 1,
+		"Id": 3,
+		"Quality": 2,
+		"Rarity": 2,
+		"Type": 1,
+		"Weight": 5000
+	},
+	{
+		"Event": 1,
+		"Id": 4,
+		"Quality": 3,
+		"Rarity": 3,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 1,
+		"Id": 5,
+		"Quality": 4,
+		"Rarity": 4,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 2,
+		"Id": 6,
+		"Quality": 1,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 8000
+	},
+	{
+		"Event": 2,
+		"Id": 7,
+		"Quality": 2,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 6000
+	},
+	{
+		"Event": 2,
+		"Id": 8,
+		"Quality": 2,
+		"Rarity": 2,
+		"Type": 1,
+		"Weight": 5000
+	},
+	{
+		"Event": 2,
+		"Id": 9,
+		"Quality": 3,
+		"Rarity": 3,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 2,
+		"Id": 10,
+		"Quality": 4,
+		"Rarity": 4,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 3,
+		"Id": 11,
+		"Quality": 1,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 5500
+	},
+	{
+		"Event": 3,
+		"Id": 12,
+		"Quality": 2,
+		"Rarity": 1,
+		"Type": 1,
+		"Weight": 5500
+	},
+	{
+		"Event": 3,
+		"Id": 13,
+		"Quality": 2,
+		"Rarity": 2,
+		"Type": 1,
+		"Weight": 2000
+	},
+	{
+		"Event": 3,
+		"Id": 14,
+		"Quality": 3,
+		"Rarity": 3,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 3,
+		"Id": 15,
+		"Quality": 4,
+		"Rarity": 4,
+		"Type": 1,
+		"Weight": 1000
+	},
+	{
+		"Event": 4,
+		"Id": 16,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 4,
+		"Weight": 500
+	},
+	{
+		"Event": 4,
+		"Id": 17,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 5,
+		"Weight": 500
+	},
+	{
+		"Event": 4,
+		"Id": 18,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 6,
+		"Weight": 500
+	},
+	{
+		"Event": 6,
+		"Id": 19,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 4,
+		"Weight": 500
+	},
+	{
+		"Event": 6,
+		"Id": 20,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 5,
+		"Weight": 500
+	},
+	{
+		"Event": 6,
+		"Id": 21,
+		"Quality": 4,
+		"Rarity": 5,
+		"Type": 6,
+		"Weight": 500
+	}
+]

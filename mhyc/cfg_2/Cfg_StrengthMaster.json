@@ -1,0 +1,156 @@
+[
+	{
+		"Attr": 2675001,
+		"CountLimit": 2,
+		"FuncId": 28,
+		"Lev": 1,
+		"LevelLimit": 10
+	},
+	{
+		"Attr": 2675002,
+		"CountLimit": 2,
+		"FuncId": 28,
+		"Lev": 2,
+		"LevelLimit": 20
+	},
+	{
+		"Attr": 2675003,
+		"CountLimit": 2,
+		"FuncId": 28,
+		"Lev": 3,
+		"LevelLimit": 30
+	},
+	{
+		"Attr": 2675004,
+		"CountLimit": 4,
+		"FuncId": 28,
+		"Lev": 4,
+		"LevelLimit": 30
+	},
+	{
+		"Attr": 2675005,
+		"CountLimit": 4,
+		"FuncId": 28,
+		"Lev": 5,
+		"LevelLimit": 40
+	},
+	{
+		"Attr": 2675006,
+		"CountLimit": 4,
+		"FuncId": 28,
+		"Lev": 6,
+		"LevelLimit": 50
+	},
+	{
+		"Attr": 2675007,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 7,
+		"LevelLimit": 50
+	},
+	{
+		"Attr": 2675008,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 8,
+		"LevelLimit": 60
+	},
+	{
+		"Attr": 2675009,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 9,
+		"LevelLimit": 70
+	},
+	{
+		"Attr": 2675010,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 10,
+		"LevelLimit": 80
+	},
+	{
+		"Attr": 2675011,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 11,
+		"LevelLimit": 90
+	},
+	{
+		"Attr": 2675012,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 12,
+		"LevelLimit": 100
+	},
+	{
+		"Attr": 2675013,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 13,
+		"LevelLimit": 110
+	},
+	{
+		"Attr": 2675014,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 14,
+		"LevelLimit": 120
+	},
+	{
+		"Attr": 2675015,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 15,
+		"LevelLimit": 130
+	},
+	{
+		"Attr": 2675016,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 16,
+		"LevelLimit": 140
+	},
+	{
+		"Attr": 2675017,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 17,
+		"LevelLimit": 150
+	},
+	{
+		"Attr": 2675018,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 18,
+		"LevelLimit": 160
+	},
+	{
+		"Attr": 2675019,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 19,
+		"LevelLimit": 170
+	},
+	{
+		"Attr": 2675020,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 20,
+		"LevelLimit": 180
+	},
+	{
+		"Attr": 2675021,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 21,
+		"LevelLimit": 190
+	},
+	{
+		"Attr": 2675022,
+		"CountLimit": 6,
+		"FuncId": 28,
+		"Lev": 22,
+		"LevelLimit": 200
+	}
+]

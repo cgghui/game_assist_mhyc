@@ -1,0 +1,32 @@
+[
+	{
+		"Effect": 5,
+		"Explain": "每支降低目标飞剑5%耐久度",
+		"ItemId": 961,
+		"Name": "羽箭"
+	},
+	{
+		"Effect": 10,
+		"Explain": "每个提高飞剑速度10%，持续一段时间。生效时间可叠加",
+		"ItemId": 962,
+		"Name": "强化",
+		"Times": 5,
+		"TimesLimit": 500
+	},
+	{
+		"Effect": 10,
+		"Explain": "每个降低目标飞剑10%速度，持续一段时间。生效时间可叠加",
+		"ItemId": 963,
+		"Name": "瘴气",
+		"Times": 5,
+		"TimesLimit": 500
+	},
+	{
+		"Effect": 10,
+		"Explain": "己方飞剑免疫羽箭和瘴气攻击，持续一段时间。生效时间可叠加",
+		"ItemId": 964,
+		"Name": "护盾",
+		"Times": 5,
+		"TimesLimit": 500
+	}
+]

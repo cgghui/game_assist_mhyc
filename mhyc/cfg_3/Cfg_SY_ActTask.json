@@ -1,0 +1,2312 @@
+[
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1001101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1001102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1001103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1001104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1001105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1001106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1001107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10011
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1003101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1003102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1003103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1003104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1003105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1003106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1003107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1003108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1003109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1003110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1003111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1003112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1003113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1003114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1003113,
+		"TargetCount": 18888,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1003115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1003114,
+		"TargetCount": 26888,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1003116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1003115,
+		"TargetCount": 32888,
+		"Type": 10031
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1011101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1011102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1011103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1011104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1011105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1011106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1011107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10111
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1013101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1013102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1013103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1013104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1013105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1013106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1013107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1013108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1013109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1013110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1013111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1013112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1013113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1013114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1013113,
+		"TargetCount": 18888,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1013115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1013114,
+		"TargetCount": 26888,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1013116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1013115,
+		"TargetCount": 32888,
+		"Type": 10131
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1021101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1021102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1021103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1021104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1021105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1021106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1021107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10211
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1023101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1023102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1023103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1023104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1023105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1023106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1023107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1023108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1023109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1023110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1023111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1023112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1023113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1023114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1023113,
+		"TargetCount": 18888,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1023115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1023114,
+		"TargetCount": 26888,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1023116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1023115,
+		"TargetCount": 32888,
+		"Type": 10231
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1031101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1031102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1031103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1031104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1031105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1031106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1031107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10311
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1033101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1033102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1033103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1033104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1033105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1033106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1033107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1033108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1033109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1033110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1033111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1033112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1033113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1033114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1033113,
+		"TargetCount": 18888,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1033115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1033114,
+		"TargetCount": 26888,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1033116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1033115,
+		"TargetCount": 32888,
+		"Type": 10331
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1041101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1041102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1041103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1041104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1041105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1041106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1041107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10411
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1043101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1043102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1043103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1043104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1043105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1043106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1043107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1043108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1043109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1043110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1043111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1043112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1043113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1043114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1043113,
+		"TargetCount": 18888,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1043115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1043114,
+		"TargetCount": 26888,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1043116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1043115,
+		"TargetCount": 32888,
+		"Type": 10431
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1051101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1051102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1051103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1051104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1051105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1051106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1051107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10511
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1053101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1053102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1053103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1053104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1053105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1053106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1053107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1053108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1053109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1053110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1053111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1053112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1053113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1053114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1053113,
+		"TargetCount": 18888,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1053115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1053114,
+		"TargetCount": 26888,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1053116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1053115,
+		"TargetCount": 32888,
+		"Type": 10531
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1061101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1061102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1061103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1061104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1061105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1061106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1061107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10611
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1063101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1063102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1063103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1063104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1063105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1063106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1063107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1063108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1063109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1063110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1063111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1063112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1063113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1063114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1063113,
+		"TargetCount": 18888,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1063115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1063114,
+		"TargetCount": 26888,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1063116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1063115,
+		"TargetCount": 32888,
+		"Type": 10631
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1071101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1071102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1071103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1071104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1071105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1071106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1071107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10711
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1073101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1073102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1073103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1073104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1073105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1073106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1073107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1073108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1073109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1073110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1073111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1073112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1073113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1073114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1073113,
+		"TargetCount": 18888,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1073115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1073114,
+		"TargetCount": 26888,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1073116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1073115,
+		"TargetCount": 32888,
+		"Type": 10731
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1081101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1081102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1081103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1081104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1081105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1081106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1081107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10811
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1083101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1083102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1083103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1083104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1083105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1083106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1083107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1083108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1083109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1083110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1083111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1083112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1083113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1083114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1083113,
+		"TargetCount": 18888,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1083115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1083114,
+		"TargetCount": 26888,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1083116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1083115,
+		"TargetCount": 32888,
+		"Type": 10831
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1091101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1091102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1091103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1091104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1091105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1091106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1091107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 10911
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1093101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1093102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1093103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1093104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1093105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1093106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1093107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1093108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1093109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1093110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1093111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1093112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1093113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1093114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1093113,
+		"TargetCount": 18888,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1093115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1093114,
+		"TargetCount": 26888,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1093116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1093115,
+		"TargetCount": 32888,
+		"Type": 10931
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 421,
+		"Id": 1101101,
+		"Name": "累计登录1天",
+		"Order": 1,
+		"TargetCount": 1,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 422,
+		"Id": 1101102,
+		"Name": "累计登录2天",
+		"Order": 2,
+		"TargetCount": 2,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 423,
+		"Id": 1101103,
+		"Name": "累计登录3天",
+		"Order": 3,
+		"TargetCount": 3,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 424,
+		"Id": 1101104,
+		"Name": "累计登录4天",
+		"Order": 4,
+		"TargetCount": 4,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 425,
+		"Id": 1101105,
+		"Name": "累计登录5天",
+		"Order": 5,
+		"TargetCount": 5,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 426,
+		"Id": 1101106,
+		"Name": "累计登录6天",
+		"Order": 6,
+		"TargetCount": 6,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10401,
+		"GroupPrize": 427,
+		"Id": 1101107,
+		"Name": "累计登录7天",
+		"Order": 7,
+		"TargetCount": 7,
+		"Type": 11011
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 441,
+		"Id": 1103101,
+		"Name": "累计充值18元",
+		"Order": 1,
+		"TargetCount": 18,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 442,
+		"Id": 1103102,
+		"Name": "累计充值48元",
+		"Order": 2,
+		"TargetCount": 48,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 443,
+		"Id": 1103103,
+		"Name": "累计充值98元",
+		"Order": 3,
+		"TargetCount": 98,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 444,
+		"Id": 1103104,
+		"Name": "累计充值158元",
+		"Order": 4,
+		"TargetCount": 158,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 445,
+		"Id": 1103105,
+		"Name": "累计充值258元",
+		"Order": 5,
+		"TargetCount": 258,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 446,
+		"Id": 1103106,
+		"Name": "累计充值408元",
+		"Order": 6,
+		"TargetCount": 408,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 447,
+		"Id": 1103107,
+		"Name": "累计充值688元",
+		"Order": 7,
+		"TargetCount": 688,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 448,
+		"Id": 1103108,
+		"Name": "累计充值1088元",
+		"Order": 8,
+		"TargetCount": 1088,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 449,
+		"Id": 1103109,
+		"Name": "累计充值1888元",
+		"Order": 9,
+		"TargetCount": 1888,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 450,
+		"Id": 1103110,
+		"Name": "累计充值3488元",
+		"Order": 10,
+		"TargetCount": 3488,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 451,
+		"Id": 1103111,
+		"Name": "累计充值5488元",
+		"Order": 11,
+		"TargetCount": 5488,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 452,
+		"Id": 1103112,
+		"Name": "累计充值8888元",
+		"Order": 12,
+		"TargetCount": 8888,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 453,
+		"Id": 1103113,
+		"Name": "累计充值13488元",
+		"Order": 13,
+		"TargetCount": 13488,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 454,
+		"Id": 1103114,
+		"Name": "累计充值18888元",
+		"Order": 14,
+		"ShowCond": 1103113,
+		"TargetCount": 18888,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 455,
+		"Id": 1103115,
+		"Name": "累计充值26888元",
+		"Order": 15,
+		"ShowCond": 1103114,
+		"TargetCount": 26888,
+		"Type": 11031
+	},
+	{
+		"CounterType": 10501,
+		"GroupPrize": 456,
+		"Id": 1103116,
+		"Name": "累计充值32888元",
+		"Order": 16,
+		"ShowCond": 1103115,
+		"TargetCount": 32888,
+		"Type": 11031
+	}
+]

@@ -1,0 +1,128 @@
+[
+	{
+		"Event": 1,
+		"FuirstRewards": 21,
+		"Id": 1,
+		"Rank": "[1,1]"
+	},
+	{
+		"Event": 1,
+		"FuirstRewards": 22,
+		"Id": 2,
+		"Rank": "[2,2]"
+	},
+	{
+		"Event": 1,
+		"FuirstRewards": 23,
+		"Id": 3,
+		"Rank": "[3,3]"
+	},
+	{
+		"Event": 1,
+		"FuirstRewards": 24,
+		"Id": 4,
+		"Rank": "[4,10]"
+	},
+	{
+		"Event": 1,
+		"FuirstRewards": 25,
+		"Id": 5,
+		"Rank": "[11,50]"
+	},
+	{
+		"Event": 1,
+		"FuirstRewards": 26,
+		"Id": 6,
+		"Rank": "[51,0]"
+	},
+	{
+		"Event": 2,
+		"FuirstRewards": 41,
+		"Id": 11,
+		"Rank": "[1,1]"
+	},
+	{
+		"Event": 2,
+		"FuirstRewards": 42,
+		"Id": 12,
+		"Rank": "[2,3]"
+	},
+	{
+		"Event": 2,
+		"FuirstRewards": 43,
+		"Id": 13,
+		"Rank": "[4,10]"
+	},
+	{
+		"Event": 2,
+		"FuirstRewards": 44,
+		"Id": 14,
+		"Rank": "[11,0]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 31,
+		"Id": 21,
+		"Rank": "[1,1]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 32,
+		"Id": 22,
+		"Rank": "[2,2]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 33,
+		"Id": 23,
+		"Rank": "[3,3]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 34,
+		"Id": 24,
+		"Rank": "[4,10]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 35,
+		"Id": 25,
+		"Rank": "[11,50]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 36,
+		"Id": 26,
+		"Rank": "[51,100]"
+	},
+	{
+		"Event": 3,
+		"FuirstRewards": 37,
+		"Id": 27,
+		"Rank": "[101,0]"
+	},
+	{
+		"Event": 4,
+		"FuirstRewards": 51,
+		"Id": 31,
+		"Rank": "[1,1]"
+	},
+	{
+		"Event": 4,
+		"FuirstRewards": 52,
+		"Id": 32,
+		"Rank": "[2,2]"
+	},
+	{
+		"Event": 4,
+		"FuirstRewards": 53,
+		"Id": 33,
+		"Rank": "[3,3]"
+	},
+	{
+		"Event": 4,
+		"FuirstRewards": 54,
+		"Id": 34,
+		"Rank": "[4,4]"
+	}
+]

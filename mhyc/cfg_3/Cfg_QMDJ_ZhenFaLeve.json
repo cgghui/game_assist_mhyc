@@ -1,0 +1,10002 @@
+[
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 1,
+		"LevItemId": 2090001,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "苍灵阵"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 2,
+		"LevItemId": 2090002,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "赤宫阵"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 3,
+		"LevItemId": 2090003,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "丧门阵"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 4,
+		"LevItemId": 2090004,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "墨甲阵"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 5,
+		"LevItemId": 2090005,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "玉兽阵"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 6,
+		"LevItemId": 2090011,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "青龙神君"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 7,
+		"LevItemId": 2090012,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "朱雀神君"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 8,
+		"LevItemId": 2090013,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "白虎神君"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 9,
+		"LevItemId": 2090014,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "玄武神君"
+	},
+	{
+		"AttrId": 3705001,
+		"AttrPresent": 100,
+		"EatDrugMax": 100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 1,
+		"Level": 1,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705002,
+		"AttrPresent": 150,
+		"EatDrugMax": 200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 2,
+		"Level": 2,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705003,
+		"AttrPresent": 200,
+		"EatDrugMax": 300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 3,
+		"Level": 3,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705004,
+		"AttrPresent": 250,
+		"EatDrugMax": 400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 4,
+		"Level": 4,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705005,
+		"AttrPresent": 300,
+		"EatDrugMax": 500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 5,
+		"Level": 5,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705006,
+		"AttrPresent": 350,
+		"EatDrugMax": 600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 6,
+		"Level": 6,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705007,
+		"AttrPresent": 400,
+		"EatDrugMax": 700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 7,
+		"Level": 7,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705008,
+		"AttrPresent": 450,
+		"EatDrugMax": 800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 8,
+		"Level": 8,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705009,
+		"AttrPresent": 500,
+		"EatDrugMax": 900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 9,
+		"Level": 9,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705010,
+		"AttrPresent": 540,
+		"EatDrugMax": 1000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 10,
+		"Level": 10,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705011,
+		"AttrPresent": 580,
+		"EatDrugMax": 1100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 11,
+		"Level": 11,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705012,
+		"AttrPresent": 620,
+		"EatDrugMax": 1200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 12,
+		"Level": 12,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705013,
+		"AttrPresent": 660,
+		"EatDrugMax": 1300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 13,
+		"Level": 13,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705014,
+		"AttrPresent": 700,
+		"EatDrugMax": 1400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 14,
+		"Level": 14,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705015,
+		"AttrPresent": 740,
+		"EatDrugMax": 1500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 15,
+		"Level": 15,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705016,
+		"AttrPresent": 780,
+		"EatDrugMax": 1600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 16,
+		"Level": 16,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705017,
+		"AttrPresent": 820,
+		"EatDrugMax": 1700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 17,
+		"Level": 17,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705018,
+		"AttrPresent": 860,
+		"EatDrugMax": 1800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 18,
+		"Level": 18,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705019,
+		"AttrPresent": 900,
+		"EatDrugMax": 1900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 19,
+		"Level": 19,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705020,
+		"AttrPresent": 940,
+		"EatDrugMax": 2000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 20,
+		"Level": 20,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705021,
+		"AttrPresent": 970,
+		"EatDrugMax": 2100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 21,
+		"Level": 21,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705022,
+		"AttrPresent": 1000,
+		"EatDrugMax": 2200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 22,
+		"Level": 22,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705023,
+		"AttrPresent": 1030,
+		"EatDrugMax": 2300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 23,
+		"Level": 23,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705024,
+		"AttrPresent": 1060,
+		"EatDrugMax": 2400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 24,
+		"Level": 24,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705025,
+		"AttrPresent": 1090,
+		"EatDrugMax": 2500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 25,
+		"Level": 25,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705026,
+		"AttrPresent": 1120,
+		"EatDrugMax": 2600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 26,
+		"Level": 26,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705027,
+		"AttrPresent": 1150,
+		"EatDrugMax": 2700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 27,
+		"Level": 27,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705028,
+		"AttrPresent": 1180,
+		"EatDrugMax": 2800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 28,
+		"Level": 28,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705029,
+		"AttrPresent": 1210,
+		"EatDrugMax": 2900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 29,
+		"Level": 29,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705030,
+		"AttrPresent": 1240,
+		"EatDrugMax": 3000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 30,
+		"Level": 30,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705031,
+		"AttrPresent": 1260,
+		"EatDrugMax": 3100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 31,
+		"Level": 31,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705032,
+		"AttrPresent": 1280,
+		"EatDrugMax": 3200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 32,
+		"Level": 32,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705033,
+		"AttrPresent": 1300,
+		"EatDrugMax": 3300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 33,
+		"Level": 33,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705034,
+		"AttrPresent": 1320,
+		"EatDrugMax": 3400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 34,
+		"Level": 34,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705035,
+		"AttrPresent": 1340,
+		"EatDrugMax": 3500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 35,
+		"Level": 35,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705036,
+		"AttrPresent": 1360,
+		"EatDrugMax": 3600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 36,
+		"Level": 36,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705037,
+		"AttrPresent": 1380,
+		"EatDrugMax": 3700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 37,
+		"Level": 37,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705038,
+		"AttrPresent": 1400,
+		"EatDrugMax": 3800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 38,
+		"Level": 38,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705039,
+		"AttrPresent": 1420,
+		"EatDrugMax": 3900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 39,
+		"Level": 39,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705040,
+		"AttrPresent": 1440,
+		"EatDrugMax": 4000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 40,
+		"Level": 40,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705041,
+		"AttrPresent": 1450,
+		"EatDrugMax": 4100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 41,
+		"Level": 41,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705042,
+		"AttrPresent": 1460,
+		"EatDrugMax": 4200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 42,
+		"Level": 42,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705043,
+		"AttrPresent": 1470,
+		"EatDrugMax": 4300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 43,
+		"Level": 43,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705044,
+		"AttrPresent": 1480,
+		"EatDrugMax": 4400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 44,
+		"Level": 44,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705045,
+		"AttrPresent": 1490,
+		"EatDrugMax": 4500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 45,
+		"Level": 45,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705046,
+		"AttrPresent": 1500,
+		"EatDrugMax": 4600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 46,
+		"Level": 46,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705047,
+		"AttrPresent": 1510,
+		"EatDrugMax": 4700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 47,
+		"Level": 47,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705048,
+		"AttrPresent": 1520,
+		"EatDrugMax": 4800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 48,
+		"Level": 48,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705049,
+		"AttrPresent": 1530,
+		"EatDrugMax": 4900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 49,
+		"Level": 49,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705050,
+		"AttrPresent": 1540,
+		"EatDrugMax": 5000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 50,
+		"Level": 50,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705051,
+		"AttrPresent": 1550,
+		"EatDrugMax": 5100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 51,
+		"Level": 51,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705052,
+		"AttrPresent": 1560,
+		"EatDrugMax": 5200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 52,
+		"Level": 52,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705053,
+		"AttrPresent": 1570,
+		"EatDrugMax": 5300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 53,
+		"Level": 53,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705054,
+		"AttrPresent": 1580,
+		"EatDrugMax": 5400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 54,
+		"Level": 54,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705055,
+		"AttrPresent": 1590,
+		"EatDrugMax": 5500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 55,
+		"Level": 55,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705056,
+		"AttrPresent": 1600,
+		"EatDrugMax": 5600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 56,
+		"Level": 56,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705057,
+		"AttrPresent": 1610,
+		"EatDrugMax": 5700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 57,
+		"Level": 57,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705058,
+		"AttrPresent": 1620,
+		"EatDrugMax": 5800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 58,
+		"Level": 58,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705059,
+		"AttrPresent": 1630,
+		"EatDrugMax": 5900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 59,
+		"Level": 59,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705060,
+		"AttrPresent": 1640,
+		"EatDrugMax": 6000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 60,
+		"Level": 60,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705061,
+		"AttrPresent": 1650,
+		"EatDrugMax": 6100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 61,
+		"Level": 61,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705062,
+		"AttrPresent": 1660,
+		"EatDrugMax": 6200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 62,
+		"Level": 62,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705063,
+		"AttrPresent": 1670,
+		"EatDrugMax": 6300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 63,
+		"Level": 63,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705064,
+		"AttrPresent": 1680,
+		"EatDrugMax": 6400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 64,
+		"Level": 64,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705065,
+		"AttrPresent": 1690,
+		"EatDrugMax": 6500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 65,
+		"Level": 65,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705066,
+		"AttrPresent": 1700,
+		"EatDrugMax": 6600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 66,
+		"Level": 66,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705067,
+		"AttrPresent": 1710,
+		"EatDrugMax": 6700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 67,
+		"Level": 67,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705068,
+		"AttrPresent": 1720,
+		"EatDrugMax": 6800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 68,
+		"Level": 68,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705069,
+		"AttrPresent": 1730,
+		"EatDrugMax": 6900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 69,
+		"Level": 69,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705070,
+		"AttrPresent": 1740,
+		"EatDrugMax": 7000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 70,
+		"Level": 70,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705071,
+		"AttrPresent": 1750,
+		"EatDrugMax": 7100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 71,
+		"Level": 71,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705072,
+		"AttrPresent": 1760,
+		"EatDrugMax": 7200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 72,
+		"Level": 72,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705073,
+		"AttrPresent": 1770,
+		"EatDrugMax": 7300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 73,
+		"Level": 73,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705074,
+		"AttrPresent": 1780,
+		"EatDrugMax": 7400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 74,
+		"Level": 74,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705075,
+		"AttrPresent": 1790,
+		"EatDrugMax": 7500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 75,
+		"Level": 75,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705076,
+		"AttrPresent": 1800,
+		"EatDrugMax": 7600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 76,
+		"Level": 76,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705077,
+		"AttrPresent": 1810,
+		"EatDrugMax": 7700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 77,
+		"Level": 77,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705078,
+		"AttrPresent": 1820,
+		"EatDrugMax": 7800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 78,
+		"Level": 78,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705079,
+		"AttrPresent": 1830,
+		"EatDrugMax": 7900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 79,
+		"Level": 79,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705080,
+		"AttrPresent": 1840,
+		"EatDrugMax": 8000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 80,
+		"Level": 80,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705081,
+		"AttrPresent": 1850,
+		"EatDrugMax": 8100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 81,
+		"Level": 81,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705082,
+		"AttrPresent": 1860,
+		"EatDrugMax": 8200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 82,
+		"Level": 82,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705083,
+		"AttrPresent": 1870,
+		"EatDrugMax": 8300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 83,
+		"Level": 83,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705084,
+		"AttrPresent": 1880,
+		"EatDrugMax": 8400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 84,
+		"Level": 84,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705085,
+		"AttrPresent": 1890,
+		"EatDrugMax": 8500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 85,
+		"Level": 85,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705086,
+		"AttrPresent": 1900,
+		"EatDrugMax": 8600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 86,
+		"Level": 86,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705087,
+		"AttrPresent": 1910,
+		"EatDrugMax": 8700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 87,
+		"Level": 87,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705088,
+		"AttrPresent": 1920,
+		"EatDrugMax": 8800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 88,
+		"Level": 88,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705089,
+		"AttrPresent": 1930,
+		"EatDrugMax": 8900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 89,
+		"Level": 89,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705090,
+		"AttrPresent": 1940,
+		"EatDrugMax": 9000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 90,
+		"Level": 90,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705091,
+		"AttrPresent": 1950,
+		"EatDrugMax": 9100,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 91,
+		"Level": 91,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705092,
+		"AttrPresent": 1960,
+		"EatDrugMax": 9200,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 92,
+		"Level": 92,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705093,
+		"AttrPresent": 1970,
+		"EatDrugMax": 9300,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 93,
+		"Level": 93,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705094,
+		"AttrPresent": 1980,
+		"EatDrugMax": 9400,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 94,
+		"Level": 94,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705095,
+		"AttrPresent": 1990,
+		"EatDrugMax": 9500,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 95,
+		"Level": 95,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705096,
+		"AttrPresent": 2000,
+		"EatDrugMax": 9600,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 96,
+		"Level": 96,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705097,
+		"AttrPresent": 2010,
+		"EatDrugMax": 9700,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 97,
+		"Level": 97,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705098,
+		"AttrPresent": 2020,
+		"EatDrugMax": 9800,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 98,
+		"Level": 98,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705099,
+		"AttrPresent": 2030,
+		"EatDrugMax": 9900,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 99,
+		"Level": 99,
+		"Name": "麒麟神君"
+	},
+	{
+		"AttrId": 3705100,
+		"AttrPresent": 2040,
+		"EatDrugMax": 10000,
+		"Id": 10,
+		"LevItemId": 2090015,
+		"LevItemNum": 100,
+		"Level": 100,
+		"Name": "麒麟神君"
+	}
+]

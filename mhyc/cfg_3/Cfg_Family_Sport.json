@@ -1,0 +1,282 @@
+[
+	{
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward1": "9:1000|2310001:200",
+		"Reward2": "9:900|2310001:150",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 2,
+		"MinNum": 2,
+		"Reward1": "9:900|2310001:180",
+		"Reward2": "9:800|2310001:130",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 3,
+		"MinNum": 3,
+		"Reward1": "9:800|2310001:160",
+		"Reward2": "9:700|2310001:110",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 4,
+		"MinNum": 4,
+		"Reward1": "9:700|2310001:140",
+		"Reward2": "9:600|2310001:90",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 5,
+		"MinNum": 5,
+		"Reward1": "9:600|2310001:120",
+		"Reward2": "9:500|2310001:70",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 10,
+		"MinNum": 6,
+		"Reward1": "9:500|2310001:100",
+		"Reward2": "9:400|2310001:50",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward1": "9:400|2310001:80",
+		"Reward2": "9:300|2310001:30",
+		"WorldLevelMax": 250,
+		"WorldLevelMin": 1
+	},
+	{
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward1": "9:1000|2310001:250",
+		"Reward2": "9:900|2310001:200",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 2,
+		"MinNum": 2,
+		"Reward1": "9:900|2310001:230",
+		"Reward2": "9:800|2310001:180",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 3,
+		"MinNum": 3,
+		"Reward1": "9:800|2310001:210",
+		"Reward2": "9:700|2310001:160",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 4,
+		"MinNum": 4,
+		"Reward1": "9:700|2310001:190",
+		"Reward2": "9:600|2310001:140",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 5,
+		"MinNum": 5,
+		"Reward1": "9:600|2310001:170",
+		"Reward2": "9:500|2310001:120",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 10,
+		"MinNum": 6,
+		"Reward1": "9:500|2310001:150",
+		"Reward2": "9:400|2310001:100",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward1": "9:400|2310001:130",
+		"Reward2": "9:300|2310001:80",
+		"WorldLevelMax": 350,
+		"WorldLevelMin": 251
+	},
+	{
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward1": "9:1000|2310001:300",
+		"Reward2": "9:900|2310001:250",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 2,
+		"MinNum": 2,
+		"Reward1": "9:900|2310001:280",
+		"Reward2": "9:800|2310001:230",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 3,
+		"MinNum": 3,
+		"Reward1": "9:800|2310001:260",
+		"Reward2": "9:700|2310001:210",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 4,
+		"MinNum": 4,
+		"Reward1": "9:700|2310001:240",
+		"Reward2": "9:600|2310001:190",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 5,
+		"MinNum": 5,
+		"Reward1": "9:600|2310001:220",
+		"Reward2": "9:500|2310001:170",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 10,
+		"MinNum": 6,
+		"Reward1": "9:500|2310001:200",
+		"Reward2": "9:400|2310001:150",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward1": "9:400|2310001:180",
+		"Reward2": "9:300|2310001:130",
+		"WorldLevelMax": 450,
+		"WorldLevelMin": 351
+	},
+	{
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward1": "9:1000|2310001:350",
+		"Reward2": "9:900|2310001:300",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 2,
+		"MinNum": 2,
+		"Reward1": "9:900|2310001:330",
+		"Reward2": "9:800|2310001:280",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 3,
+		"MinNum": 3,
+		"Reward1": "9:800|2310001:310",
+		"Reward2": "9:700|2310001:260",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 4,
+		"MinNum": 4,
+		"Reward1": "9:700|2310001:290",
+		"Reward2": "9:600|2310001:240",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 5,
+		"MinNum": 5,
+		"Reward1": "9:600|2310001:270",
+		"Reward2": "9:500|2310001:220",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 10,
+		"MinNum": 6,
+		"Reward1": "9:500|2310001:250",
+		"Reward2": "9:400|2310001:200",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward1": "9:400|2310001:230",
+		"Reward2": "9:300|2310001:180",
+		"WorldLevelMax": 550,
+		"WorldLevelMin": 451
+	},
+	{
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward1": "9:1000|2310001:400",
+		"Reward2": "9:900|2310001:350",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 2,
+		"MinNum": 2,
+		"Reward1": "9:900|2310001:380",
+		"Reward2": "9:800|2310001:330",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 3,
+		"MinNum": 3,
+		"Reward1": "9:800|2310001:360",
+		"Reward2": "9:700|2310001:310",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 4,
+		"MinNum": 4,
+		"Reward1": "9:700|2310001:340",
+		"Reward2": "9:600|2310001:290",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 5,
+		"MinNum": 5,
+		"Reward1": "9:600|2310001:320",
+		"Reward2": "9:500|2310001:270",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 10,
+		"MinNum": 6,
+		"Reward1": "9:500|2310001:300",
+		"Reward2": "9:400|2310001:250",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	},
+	{
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward1": "9:400|2310001:280",
+		"Reward2": "9:300|2310001:230",
+		"WorldLevelMax": 1000,
+		"WorldLevelMin": 551
+	}
+]

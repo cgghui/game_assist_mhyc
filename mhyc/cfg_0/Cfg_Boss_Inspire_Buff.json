@@ -1,0 +1,22 @@
+[
+	{
+		"AddValue": 50,
+		"Id": 1,
+		"InspireState": 1,
+		"SecondsLimit": 900
+	},
+	{
+		"AddValue": 100,
+		"Id": 2,
+		"InspireState": 2,
+		"Second": 300,
+		"SecondsLimit": 900
+	},
+	{
+		"AddValue": 200,
+		"Id": 3,
+		"InspireState": 3,
+		"Second": 600,
+		"SecondsLimit": 900
+	}
+]

@@ -1,0 +1,1578 @@
+[
+	{
+		"LimitId": 10001,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 10002,
+		"VipFreeTimes": "1|1|1|1|1|1|1|2|2|2|2|2|2|2|3|3|3|3|3|3|3"
+	},
+	{
+		"BuyValue": 1,
+		"CoinId": 1001,
+		"LimitId": 10003,
+		"VipBuyTimes": "0|0|0|1|1|1|1|2|2|2|3|3|4|4|5|5|6|6|7|7|7|7|7|7|7|7|7|7|7|7"
+	},
+	{
+		"Coin": 50,
+		"Coin_Type": 1,
+		"LimitId": 10004,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10005,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 10006,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 10011,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10012,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 10013,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 10014,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 10015,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 10016,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 10017,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10018,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 10019,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 10020,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 10021,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 10022,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 10023,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 10024,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 10025,
+		"MaxTimes": 15
+	},
+	{
+		"LimitId": 10026,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 10027,
+		"MaxTimes": 25
+	},
+	{
+		"LimitId": 10028,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 10029,
+		"MaxTimes": 80
+	},
+	{
+		"LimitId": 10030,
+		"MaxTimes": 100
+	},
+	{
+		"LimitId": 10031,
+		"MaxTimes": 150
+	},
+	{
+		"LimitId": 10032,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 10033,
+		"MaxTimes": 1500
+	},
+	{
+		"BuyValue": 1,
+		"Coin": 100,
+		"Coin_Type": 1,
+		"LimitId": 10034,
+		"VipBuyTimes": "0|0|0|1|1|1|1|2|2|2|3|3|4|4|5|5|6|6|7|7"
+	},
+	{
+		"LimitId": 10035,
+		"MaxTimes": 40
+	},
+	{
+		"LimitId": 10036,
+		"MaxTimes": 35
+	},
+	{
+		"LimitId": 10041,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10042,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10043,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10044,
+		"MaxTimes": 3
+	},
+	{
+		"CoinId": 1002,
+		"LimitId": 10045,
+		"MaxTimes": 5,
+		"VipBuyTimes": "0|0|0|1|1|1|1|2|2|2|3|3|4|4|5|5|6|6|7|7|8|8|9|9|10|10|10|10|10|10"
+	},
+	{
+		"LimitId": 10046,
+		"MaxTimes": 8
+	},
+	{
+		"LimitId": 10047,
+		"MaxTimes": 7
+	},
+	{
+		"LimitId": 10051,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 10101,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10102,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 10103,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 10104,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 10201,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 10202,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 10203,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 10204,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 10205,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 10206,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 10207,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 10208,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 20001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 30001,
+		"VipFreeTimes": "1|2|3|4|5|7|9|11|13|15|17|19|21|23|25|27|29|31|33|35|35|35|35|35|35|35|35|35|35|35"
+	},
+	{
+		"LimitId": 30002,
+		"VipFreeTimes": "0|0|0|0|0|0|1|1|1|1|1|1|1|1|1|1|1|1|1|1|"
+	},
+	{
+		"Coin": 500,
+		"Coin_Add": 500,
+		"Coin_Type": 1,
+		"LimitId": 30003,
+		"MaxTimes": 1,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|1|1|1|1|2|2|2|2|2|2|2"
+	},
+	{
+		"Coin": 100,
+		"Coin_Add": 20,
+		"Coin_Type": 2,
+		"LimitId": 30004,
+		"VipBuyTimes": "0|1|1|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|23|23|23|23|23|23"
+	},
+	{
+		"BuyValue": 3,
+		"Coin": 50,
+		"Coin_Type": 1,
+		"LimitId": 30005,
+		"VipBuyTimes": "0|0|0|1|1|1|1|2|2|2|3|3|4|4|5|5|6|6|7|7"
+	},
+	{
+		"Coin": 150,
+		"Coin_Type": 1,
+		"LimitId": 30006,
+		"MaxTimes": 1,
+		"VipBuyTimes": "0|0|0|0|1|1|1|2|2|2|2|3|3|3|3|3|4|4|4|4|4|4|4|4|4|4|4|4|4|4"
+	},
+	{
+		"Coin": 500,
+		"Coin_Type": 1,
+		"LimitId": 30007,
+		"MaxTimes": 10,
+		"VipBuyTimes": "0|0|0|0|0|0|0|1|2|3|4|5|7|9|11|13|15|17|19|21"
+	},
+	{
+		"LimitId": 30008,
+		"MaxTimes": 5,
+		"VipFreeTimes": "10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105"
+	},
+	{
+		"LimitId": 30009,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|10|20|40|60|80|100|150|200|300|400|500|600"
+	},
+	{
+		"LimitId": 30010,
+		"VipFreeTimes": "0|0|0|0|0|20|50|70|90|120|150|180|220|260|300|350|400|450|500|600"
+	},
+	{
+		"Coin": 100,
+		"Coin_Add": 100,
+		"Coin_Type": 2,
+		"LimitId": 30011,
+		"MaxTimes": 10,
+		"VipBuyTimes": "0|1|1|1|1|1|1|2|2|2|3|3|3|3|3|4|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"LimitId": 31001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 31002,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 32001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 32002,
+		"MaxTimes": 1
+	},
+	{
+		"CoinId": 1003,
+		"LimitId": 33001,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1004,
+		"LimitId": 33002,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2"
+	},
+	{
+		"CoinId": 1005,
+		"LimitId": 33003,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2|2"
+	},
+	{
+		"CoinId": 1006,
+		"LimitId": 33101,
+		"MaxTimes": 2,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3"
+	},
+	{
+		"CoinId": 1007,
+		"LimitId": 33102,
+		"MaxTimes": 2,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3"
+	},
+	{
+		"CoinId": 1012,
+		"LimitId": 33103,
+		"MaxTimes": 2,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3"
+	},
+	{
+		"CoinId": 1013,
+		"LimitId": 33104,
+		"MaxTimes": 2,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|3|3|3|3|3|3"
+	},
+	{
+		"LimitId": 34001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 34002,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 40001,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 40002,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 40003,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 40005,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 40006,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 40010,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 40011,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 60001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 60002,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 60003,
+		"MaxTimes": 20
+	},
+	{
+		"BuyValue": 1,
+		"Coin": 480,
+		"Coin_Type": 1,
+		"LimitId": 60004,
+		"MaxTimes": 10,
+		"VipBuyTimes": "0|0|0|0|0|0|1|1|1|2|2|2|3|3|3|4|4|4|5|6",
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0"
+	},
+	{
+		"LimitId": 70001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70002,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70003,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70004,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70005,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70006,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70007,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70008,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70009,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70010,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70011,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70012,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70013,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70051,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70052,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70053,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70054,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70055,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70056,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70057,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70058,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70059,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70060,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70061,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70062,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70063,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 70101,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70102,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70103,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70104,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70105,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70106,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70107,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70108,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70109,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70110,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70111,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70151,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70152,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70153,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70154,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70155,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70156,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70157,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70201,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70202,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70203,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70204,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70205,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70206,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70211,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 70212,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 80001,
+		"MaxTimes": 40
+	},
+	{
+		"Coin": 100,
+		"Coin_Type": 1,
+		"LimitId": 70213,
+		"MaxTimes": 12
+	},
+	{
+		"LimitId": 80101,
+		"MaxTimes": 15
+	},
+	{
+		"LimitId": 80102,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 80103,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 80104,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 80105,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 80106,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 80107,
+		"MaxTimes": 100
+	},
+	{
+		"LimitId": 81001,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81002,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81003,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81004,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81005,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81006,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81021,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81022,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81023,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81024,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81025,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81026,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81041,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81042,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81043,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81044,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81045,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81046,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81061,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81062,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81063,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81064,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81065,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81066,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81081,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81082,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81083,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81084,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81085,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81086,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81101,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81102,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81103,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81104,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81105,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81106,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81121,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81122,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81123,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81124,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81125,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81126,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81141,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81142,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81143,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81144,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81145,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81146,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81161,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81162,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81163,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81164,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81165,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81166,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81181,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81182,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81183,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81184,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81185,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81186,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 81301,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 81302,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 81303,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 81304,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 81305,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 81306,
+		"MaxTimes": 9
+	},
+	{
+		"LimitId": 81331,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 82001,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 82002,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 82003,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 82004,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 82005,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 82006,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 82007,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 82008,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 82009,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 82010,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 82101,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 82102,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 83001,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 83002,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 83003,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 83004,
+		"MaxTimes": 60
+	},
+	{
+		"LimitId": 83005,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 83006,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 83007,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 83008,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 83009,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 83010,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 83011,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 83012,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 83101,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83102,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83103,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83104,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83105,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83106,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83107,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83108,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83109,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83110,
+		"VipFreeTimes": "5|5|5|5|5|5|5|5|5|5|15|20|25|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30|30"
+	},
+	{
+		"LimitId": 83201,
+		"MaxTimes": 1
+	},
+	{
+		"Coin": 50,
+		"Coin_Add": 50,
+		"Coin_Type": 1,
+		"LimitId": 90001,
+		"MaxTimes": 3,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|2|3|3|3|3|3|3|3|3|3|3"
+	},
+	{
+		"CoinId": 1008,
+		"LimitId": 90002,
+		"VipBuyTimes": "1|1|1|1|1|2|2|2|2|3|3|3|3|4|4|4|4|5|5|5|5|6|6|6|7|7|7|7|7|7"
+	},
+	{
+		"LimitId": 90101,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 90102,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 90103,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 90104,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 90105,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 90106,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 90107,
+		"MaxTimes": 40
+	},
+	{
+		"LimitId": 90108,
+		"MaxTimes": 100
+	},
+	{
+		"LimitId": 90109,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 90201,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90202,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 90203,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 90204,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 90205,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 90206,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 90207,
+		"MaxTimes": 100
+	},
+	{
+		"LimitId": 90301,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 90302,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 90303,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 90304,
+		"MaxTimes": 80
+	},
+	{
+		"LimitId": 90305,
+		"MaxTimes": 150
+	},
+	{
+		"LimitId": 90306,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90307,
+		"MaxTimes": 20
+	},
+	{
+		"LimitId": 90308,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 90309,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 90310,
+		"MaxTimes": 100
+	},
+	{
+		"LimitId": 90311,
+		"MaxTimes": 200
+	},
+	{
+		"LimitId": 90312,
+		"MaxTimes": 6
+	},
+	{
+		"LimitId": 90313,
+		"MaxTimes": 12
+	},
+	{
+		"LimitId": 90314,
+		"MaxTimes": 45
+	},
+	{
+		"LimitId": 90315,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 90316,
+		"MaxTimes": 40
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90401,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90402,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90403,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90404,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90405,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90406,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1009,
+		"LimitId": 90407,
+		"MaxTimes": 2,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1010,
+		"LimitId": 90451,
+		"MaxTimes": 3,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"CoinId": 1010,
+		"LimitId": 90452,
+		"MaxTimes": 3,
+		"VipBuyTimes": "1|1|1|1|1|1|1|1|1|1|2|2|2|3|3|3|4|4|4|5|5|5|5|5|5|5|5|5|5|5"
+	},
+	{
+		"LimitId": 90501,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 90502,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 90601,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90602,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90603,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90604,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90605,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90606,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90607,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90611,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90612,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90613,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90614,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90615,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90616,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90617,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 90701,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90702,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90703,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90704,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90705,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90706,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90707,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90708,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90709,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90710,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90711,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 90712,
+		"MaxTimes": 10,
+		"VipFreeTimes": "0|0|0|0|0|0|0|0|0|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|75|75|75|75|75|80|80|80|80|80"
+	},
+	{
+		"LimitId": 100001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 100002,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 100101,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 100102,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 100103,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 100104,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 100105,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 100106,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 100107,
+		"MaxTimes": 100
+	},
+	{
+		"BuyValue": 1,
+		"CoinId": 1011,
+		"LimitId": 100201,
+		"VipBuyTimes": "0|0|0|0|0|0|0|0|0|1|1|1|1|1|2|2|2|2|2|3|3|3|4|4|5|5|5|5|5|5"
+	},
+	{
+		"Coin": 100,
+		"Coin_Type": 1,
+		"LimitId": 100301,
+		"MaxTimes": 30
+	},
+	{
+		"Coin": 2000,
+		"Coin_Type": 2,
+		"LimitId": 100302,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 101001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 101011,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 101012,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 101031,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 101032,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 101033,
+		"MaxTimes": 800
+	},
+	{
+		"LimitId": 101034,
+		"MaxTimes": 600
+	},
+	{
+		"LimitId": 101035,
+		"MaxTimes": 300
+	},
+	{
+		"LimitId": 101051,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 101052,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 101053,
+		"MaxTimes": 800
+	},
+	{
+		"LimitId": 101054,
+		"MaxTimes": 600
+	},
+	{
+		"LimitId": 101055,
+		"MaxTimes": 300
+	},
+	{
+		"LimitId": 102001,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 102002,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 102003,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 102004,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 102005,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 102101,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 102102,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 102103,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 102104,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 102105,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 102201,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 102202,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 102203,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 102204,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 102205,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 102301,
+		"MaxTimes": 1
+	},
+	{
+		"LimitId": 102302,
+		"MaxTimes": 2
+	},
+	{
+		"LimitId": 102303,
+		"MaxTimes": 3
+	},
+	{
+		"LimitId": 102304,
+		"MaxTimes": 4
+	},
+	{
+		"LimitId": 102305,
+		"MaxTimes": 5
+	},
+	{
+		"LimitId": 102306,
+		"MaxTimes": 10
+	},
+	{
+		"LimitId": 102307,
+		"MaxTimes": 30
+	},
+	{
+		"LimitId": 102308,
+		"MaxTimes": 50
+	},
+	{
+		"LimitId": 102309,
+		"MaxTimes": 100
+	}
+]

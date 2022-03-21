@@ -1,0 +1,57 @@
+[
+	{
+		"BuildStone1": "1:1",
+		"BuildStone2": "0:0",
+		"ExcAttrStone": "0:0",
+		"PrefBuildStone": "0:0",
+		"Star": 1,
+		"StarStone1": "0:0",
+		"StarStone2": "0:0",
+		"Tatter1": "1:1",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "2:2",
+		"BuildStone2": "0:0",
+		"ExcAttrStone": "0:0",
+		"PrefBuildStone": "0:1",
+		"Star": 2,
+		"StarStone1": "0:0",
+		"StarStone2": "0:0",
+		"Tatter1": "5:5",
+		"Tatter2": "0:0"
+	},
+	{
+		"BuildStone1": "2:2",
+		"BuildStone2": "1:1",
+		"ExcAttrStone": "0:0",
+		"PrefBuildStone": "1:1",
+		"Star": 3,
+		"StarStone1": "0:0",
+		"StarStone2": "0:0",
+		"Tatter1": "5:5",
+		"Tatter2": "2:2"
+	},
+	{
+		"BuildStone1": "0:0",
+		"BuildStone2": "4:4",
+		"ExcAttrStone": "0:0",
+		"PrefBuildStone": "1:3",
+		"Star": 4,
+		"StarStone1": "0:0",
+		"StarStone2": "0:0",
+		"Tatter1": "0:0",
+		"Tatter2": "9:9"
+	},
+	{
+		"BuildStone1": "0:0",
+		"BuildStone2": "12:12",
+		"ExcAttrStone": "0:0",
+		"PrefBuildStone": "2:5",
+		"Star": 5,
+		"StarStone1": "2:2",
+		"StarStone2": "0:0",
+		"Tatter1": "0:0",
+		"Tatter2": "27:27"
+	}
+]

@@ -1,0 +1,212 @@
+[
+	{
+		"AttrId": 2210002,
+		"Id": 1,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 1
+	},
+	{
+		"AttrId": 2210003,
+		"Id": 2,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 1
+	},
+	{
+		"AttrId": 2210004,
+		"Id": 3,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 1
+	},
+	{
+		"AttrId": 2210005,
+		"Id": 4,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 2
+	},
+	{
+		"AttrId": 2210006,
+		"Id": 5,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 2
+	},
+	{
+		"AttrId": 2210007,
+		"Id": 6,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 2
+	},
+	{
+		"AttrId": 2210008,
+		"Id": 7,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 3
+	},
+	{
+		"AttrId": 2210009,
+		"Id": 8,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 3
+	},
+	{
+		"AttrId": 2210010,
+		"Id": 9,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 3
+	},
+	{
+		"AttrId": 2210011,
+		"Id": 10,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 4
+	},
+	{
+		"AttrId": 2210012,
+		"Id": 11,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 4
+	},
+	{
+		"AttrId": 2210013,
+		"Id": 12,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 4
+	},
+	{
+		"AttrId": 2210014,
+		"Id": 13,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 5
+	},
+	{
+		"AttrId": 2210015,
+		"Id": 14,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 5
+	},
+	{
+		"AttrId": 2210016,
+		"Id": 15,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 5
+	},
+	{
+		"AttrId": 2210017,
+		"Id": 16,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 6
+	},
+	{
+		"AttrId": 2210018,
+		"Id": 17,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 6
+	},
+	{
+		"AttrId": 2210019,
+		"Id": 18,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 6
+	},
+	{
+		"AttrId": 2210020,
+		"Id": 19,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 7
+	},
+	{
+		"AttrId": 2210021,
+		"Id": 20,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 7
+	},
+	{
+		"AttrId": 2210022,
+		"Id": 21,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 7
+	},
+	{
+		"AttrId": 2210023,
+		"Id": 22,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 8
+	},
+	{
+		"AttrId": 2210024,
+		"Id": 23,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 8
+	},
+	{
+		"AttrId": 2210025,
+		"Id": 24,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 8
+	},
+	{
+		"AttrId": 2210026,
+		"Id": 25,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 9
+	},
+	{
+		"AttrId": 2210027,
+		"Id": 26,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 9
+	},
+	{
+		"AttrId": 2210028,
+		"Id": 27,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 9
+	},
+	{
+		"AttrId": 2210029,
+		"Id": 28,
+		"Name": "转生达到",
+		"TargetB": 1,
+		"TargetReborn": 10
+	},
+	{
+		"AttrId": 2210030,
+		"Id": 29,
+		"Name": "转生达到",
+		"TargetB": 2,
+		"TargetReborn": 10
+	},
+	{
+		"AttrId": 2210031,
+		"Id": 30,
+		"Name": "转生达到",
+		"TargetB": 4,
+		"TargetReborn": 10
+	}
+]

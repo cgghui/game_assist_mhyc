@@ -1,0 +1,6365 @@
+[
+	{
+		"Level1": 1,
+		"Level2": "8000:1",
+		"Level3": "8001:1",
+		"Level4": "8002:1",
+		"Level5": "8003:1",
+		"Star": 1
+	},
+	{
+		"Level1": 2,
+		"Level2": "8000:2",
+		"Level3": "8001:2",
+		"Level4": "8002:2",
+		"Level5": "8003:2",
+		"Star": 2
+	},
+	{
+		"Level1": 3,
+		"Level2": "8000:3",
+		"Level3": "8001:3",
+		"Level4": "8002:3",
+		"Level5": "8003:3",
+		"Star": 3
+	},
+	{
+		"Level1": 4,
+		"Level2": "8000:4",
+		"Level3": "8001:4",
+		"Level4": "8002:4",
+		"Level5": "8003:4",
+		"Star": 4
+	},
+	{
+		"Level1": 5,
+		"Level2": "8000:5",
+		"Level3": "8001:5",
+		"Level4": "8002:5",
+		"Level5": "8003:5",
+		"Star": 5
+	},
+	{
+		"Level1": 6,
+		"Level2": "8000:6",
+		"Level3": "8001:6",
+		"Level4": "8002:6",
+		"Level5": "8003:6",
+		"Star": 6
+	},
+	{
+		"Level1": 7,
+		"Level2": "8000:7",
+		"Level3": "8001:7",
+		"Level4": "8002:7",
+		"Level5": "8003:7",
+		"Star": 7
+	},
+	{
+		"Level1": 8,
+		"Level2": "8000:8",
+		"Level3": "8001:8",
+		"Level4": "8002:8",
+		"Level5": "8003:8",
+		"Star": 8
+	},
+	{
+		"Level1": 9,
+		"Level2": "8000:9",
+		"Level3": "8001:9",
+		"Level4": "8002:9",
+		"Level5": "8003:9",
+		"Star": 9
+	},
+	{
+		"Level1": 10,
+		"Level2": "8000:10",
+		"Level3": "8001:10",
+		"Level4": "8002:10",
+		"Level5": "8003:10",
+		"Star": 10
+	},
+	{
+		"Level1": 11,
+		"Level2": "8000:11",
+		"Level3": "8001:11",
+		"Level4": "8002:11",
+		"Level5": "8003:11",
+		"Star": 11
+	},
+	{
+		"Level1": 12,
+		"Level2": "8000:12",
+		"Level3": "8001:12",
+		"Level4": "8002:12",
+		"Level5": "8003:12",
+		"Star": 12
+	},
+	{
+		"Level1": 13,
+		"Level2": "8000:13",
+		"Level3": "8001:13",
+		"Level4": "8002:13",
+		"Level5": "8003:13",
+		"Star": 13
+	},
+	{
+		"Level1": 14,
+		"Level2": "8000:14",
+		"Level3": "8001:14",
+		"Level4": "8002:14",
+		"Level5": "8003:14",
+		"Star": 14
+	},
+	{
+		"Level1": 15,
+		"Level2": "8000:15",
+		"Level3": "8001:15",
+		"Level4": "8002:15",
+		"Level5": "8003:15",
+		"Star": 15
+	},
+	{
+		"Level1": 16,
+		"Level2": "8000:16",
+		"Level3": "8001:16",
+		"Level4": "8002:16",
+		"Level5": "8003:16",
+		"Star": 16
+	},
+	{
+		"Level1": 17,
+		"Level2": "8000:17",
+		"Level3": "8001:17",
+		"Level4": "8002:17",
+		"Level5": "8003:17",
+		"Star": 17
+	},
+	{
+		"Level1": 18,
+		"Level2": "8000:18",
+		"Level3": "8001:18",
+		"Level4": "8002:18",
+		"Level5": "8003:18",
+		"Star": 18
+	},
+	{
+		"Level1": 19,
+		"Level2": "8000:19",
+		"Level3": "8001:19",
+		"Level4": "8002:19",
+		"Level5": "8003:19",
+		"Star": 19
+	},
+	{
+		"Level1": 20,
+		"Level2": "8000:20",
+		"Level3": "8001:20",
+		"Level4": "8002:20",
+		"Level5": "8003:20",
+		"Star": 20
+	},
+	{
+		"Level1": 21,
+		"Level2": "8000:21",
+		"Level3": "8001:21",
+		"Level4": "8002:21",
+		"Level5": "8003:21",
+		"Star": 21
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 22,
+		"Level2": "8000:22",
+		"Level3": "8001:22",
+		"Level4": "8002:22",
+		"Level5": "8003:22",
+		"Star": 1
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 23,
+		"Level2": "8000:23",
+		"Level3": "8001:23",
+		"Level4": "8002:23",
+		"Level5": "8003:23",
+		"Star": 2
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 24,
+		"Level2": "8000:24",
+		"Level3": "8001:24",
+		"Level4": "8002:24",
+		"Level5": "8003:24",
+		"Star": 3
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 25,
+		"Level2": "8000:25",
+		"Level3": "8001:25",
+		"Level4": "8002:25",
+		"Level5": "8003:25",
+		"Star": 4
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 26,
+		"Level2": "8000:26",
+		"Level3": "8001:26",
+		"Level4": "8002:26",
+		"Level5": "8003:26",
+		"Star": 5
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 27,
+		"Level2": "8000:27",
+		"Level3": "8001:27",
+		"Level4": "8002:27",
+		"Level5": "8003:27",
+		"Star": 6
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 28,
+		"Level2": "8000:28",
+		"Level3": "8001:28",
+		"Level4": "8002:28",
+		"Level5": "8003:28",
+		"Star": 7
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 29,
+		"Level2": "8000:29",
+		"Level3": "8001:29",
+		"Level4": "8002:29",
+		"Level5": "8003:29",
+		"Star": 8
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 30,
+		"Level2": "8000:30",
+		"Level3": "8001:30",
+		"Level4": "8002:30",
+		"Level5": "8003:30",
+		"Star": 9
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 31,
+		"Level2": "8000:31",
+		"Level3": "8001:31",
+		"Level4": "8002:31",
+		"Level5": "8003:31",
+		"Star": 10
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 32,
+		"Level2": "8000:32",
+		"Level3": "8001:32",
+		"Level4": "8002:32",
+		"Level5": "8003:32",
+		"Star": 11
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 33,
+		"Level2": "8000:33",
+		"Level3": "8001:33",
+		"Level4": "8002:33",
+		"Level5": "8003:33",
+		"Star": 12
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 34,
+		"Level2": "8000:34",
+		"Level3": "8001:34",
+		"Level4": "8002:34",
+		"Level5": "8003:34",
+		"Star": 13
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 35,
+		"Level2": "8000:35",
+		"Level3": "8001:35",
+		"Level4": "8002:35",
+		"Level5": "8003:35",
+		"Star": 14
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 36,
+		"Level2": "8000:36",
+		"Level3": "8001:36",
+		"Level4": "8002:36",
+		"Level5": "8003:36",
+		"Star": 15
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 37,
+		"Level2": "8000:37",
+		"Level3": "8001:37",
+		"Level4": "8002:37",
+		"Level5": "8003:37",
+		"Star": 16
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 38,
+		"Level2": "8000:38",
+		"Level3": "8001:38",
+		"Level4": "8002:38",
+		"Level5": "8003:38",
+		"Star": 17
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 39,
+		"Level2": "8000:39",
+		"Level3": "8001:39",
+		"Level4": "8002:39",
+		"Level5": "8003:39",
+		"Star": 18
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 40,
+		"Level2": "8000:40",
+		"Level3": "8001:40",
+		"Level4": "8002:40",
+		"Level5": "8003:40",
+		"Star": 19
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 41,
+		"Level2": "8000:41",
+		"Level3": "8001:41",
+		"Level4": "8002:41",
+		"Level5": "8003:41",
+		"Star": 20
+	},
+	{
+		"GCGrade": 1,
+		"Level1": 42,
+		"Level2": "8000:42",
+		"Level3": "8001:42",
+		"Level4": "8002:42",
+		"Level5": "8003:42",
+		"Star": 21
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 43,
+		"Level2": "8000:43",
+		"Level3": "8001:43",
+		"Level4": "8002:43",
+		"Level5": "8003:43",
+		"Star": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 44,
+		"Level2": "8000:44",
+		"Level3": "8001:44",
+		"Level4": "8002:44",
+		"Level5": "8003:44",
+		"Star": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 45,
+		"Level2": "8000:45",
+		"Level3": "8001:45",
+		"Level4": "8002:45",
+		"Level5": "8003:45",
+		"Star": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 46,
+		"Level2": "8000:46",
+		"Level3": "8001:46",
+		"Level4": "8002:46",
+		"Level5": "8003:46",
+		"Star": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 47,
+		"Level2": "8000:47",
+		"Level3": "8001:47",
+		"Level4": "8002:47",
+		"Level5": "8003:47",
+		"Star": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 48,
+		"Level2": "8000:48",
+		"Level3": "8001:48",
+		"Level4": "8002:48",
+		"Level5": "8003:48",
+		"Star": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 49,
+		"Level2": "8000:49",
+		"Level3": "8001:49",
+		"Level4": "8002:49",
+		"Level5": "8003:49",
+		"Star": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 50,
+		"Level2": "8000:50",
+		"Level3": "8001:50",
+		"Level4": "8002:50",
+		"Level5": "8003:50",
+		"Star": 8
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 51,
+		"Level2": "8000:51",
+		"Level3": "8001:51",
+		"Level4": "8002:51",
+		"Level5": "8003:51",
+		"Star": 9
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 52,
+		"Level2": "8000:52",
+		"Level3": "8001:52",
+		"Level4": "8002:52",
+		"Level5": "8003:52",
+		"Star": 10
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 53,
+		"Level2": "8000:53",
+		"Level3": "8001:53",
+		"Level4": "8002:53",
+		"Level5": "8003:53",
+		"Star": 11
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 54,
+		"Level2": "8000:54",
+		"Level3": "8001:54",
+		"Level4": "8002:54",
+		"Level5": "8003:54",
+		"Star": 12
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 55,
+		"Level2": "8000:55",
+		"Level3": "8001:55",
+		"Level4": "8002:55",
+		"Level5": "8003:55",
+		"Star": 13
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 56,
+		"Level2": "8000:56",
+		"Level3": "8001:56",
+		"Level4": "8002:56",
+		"Level5": "8003:56",
+		"Star": 14
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 57,
+		"Level2": "8000:57",
+		"Level3": "8001:57",
+		"Level4": "8002:57",
+		"Level5": "8003:57",
+		"Star": 15
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 58,
+		"Level2": "8000:58",
+		"Level3": "8001:58",
+		"Level4": "8002:58",
+		"Level5": "8003:58",
+		"Star": 16
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 59,
+		"Level2": "8000:59",
+		"Level3": "8001:59",
+		"Level4": "8002:59",
+		"Level5": "8003:59",
+		"Star": 17
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 60,
+		"Level2": "8000:60",
+		"Level3": "8001:60",
+		"Level4": "8002:60",
+		"Level5": "8003:60",
+		"Star": 18
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 61,
+		"Level2": "8000:61",
+		"Level3": "8001:61",
+		"Level4": "8002:61",
+		"Level5": "8003:61",
+		"Star": 19
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 62,
+		"Level2": "8000:62",
+		"Level3": "8001:62",
+		"Level4": "8002:62",
+		"Level5": "8003:62",
+		"Star": 20
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 1,
+		"Level1": 63,
+		"Level2": "8000:63",
+		"Level3": "8001:63",
+		"Level4": "8002:63",
+		"Level5": "8003:63",
+		"Star": 21
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 64,
+		"Level2": "8000:64",
+		"Level3": "8001:64",
+		"Level4": "8002:64",
+		"Level5": "8003:64",
+		"Star": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 65,
+		"Level2": "8000:65",
+		"Level3": "8001:65",
+		"Level4": "8002:65",
+		"Level5": "8003:65",
+		"Star": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 66,
+		"Level2": "8000:66",
+		"Level3": "8001:66",
+		"Level4": "8002:66",
+		"Level5": "8003:66",
+		"Star": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 67,
+		"Level2": "8000:67",
+		"Level3": "8001:67",
+		"Level4": "8002:67",
+		"Level5": "8003:67",
+		"Star": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 68,
+		"Level2": "8000:68",
+		"Level3": "8001:68",
+		"Level4": "8002:68",
+		"Level5": "8003:68",
+		"Star": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 69,
+		"Level2": "8000:69",
+		"Level3": "8001:69",
+		"Level4": "8002:69",
+		"Level5": "8003:69",
+		"Star": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 70,
+		"Level2": "8000:70",
+		"Level3": "8001:70",
+		"Level4": "8002:70",
+		"Level5": "8003:70",
+		"Star": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 71,
+		"Level2": "8000:71",
+		"Level3": "8001:71",
+		"Level4": "8002:71",
+		"Level5": "8003:71",
+		"Star": 8
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 72,
+		"Level2": "8000:72",
+		"Level3": "8001:72",
+		"Level4": "8002:72",
+		"Level5": "8003:72",
+		"Star": 9
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 73,
+		"Level2": "8000:73",
+		"Level3": "8001:73",
+		"Level4": "8002:73",
+		"Level5": "8003:73",
+		"Star": 10
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 74,
+		"Level2": "8000:74",
+		"Level3": "8001:74",
+		"Level4": "8002:74",
+		"Level5": "8003:74",
+		"Star": 11
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 75,
+		"Level2": "8000:75",
+		"Level3": "8001:75",
+		"Level4": "8002:75",
+		"Level5": "8003:75",
+		"Star": 12
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 76,
+		"Level2": "8000:76",
+		"Level3": "8001:76",
+		"Level4": "8002:76",
+		"Level5": "8003:76",
+		"Star": 13
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 77,
+		"Level2": "8000:77",
+		"Level3": "8001:77",
+		"Level4": "8002:77",
+		"Level5": "8003:77",
+		"Star": 14
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 78,
+		"Level2": "8000:78",
+		"Level3": "8001:78",
+		"Level4": "8002:78",
+		"Level5": "8003:78",
+		"Star": 15
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 79,
+		"Level2": "8000:79",
+		"Level3": "8001:79",
+		"Level4": "8002:79",
+		"Level5": "8003:79",
+		"Star": 16
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 80,
+		"Level2": "8000:80",
+		"Level3": "8001:80",
+		"Level4": "8002:80",
+		"Level5": "8003:80",
+		"Star": 17
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 81,
+		"Level2": "8000:81",
+		"Level3": "8001:81",
+		"Level4": "8002:81",
+		"Level5": "8003:81",
+		"Star": 18
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 82,
+		"Level2": "8000:82",
+		"Level3": "8001:82",
+		"Level4": "8002:82",
+		"Level5": "8003:82",
+		"Star": 19
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 83,
+		"Level2": "8000:83",
+		"Level3": "8001:83",
+		"Level4": "8002:83",
+		"Level5": "8003:83",
+		"Star": 20
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 2,
+		"Level1": 84,
+		"Level2": "8000:84",
+		"Level3": "8001:84",
+		"Level4": "8002:84",
+		"Level5": "8003:84",
+		"Star": 21
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 85,
+		"Level2": "8000:85",
+		"Level3": "8001:85",
+		"Level4": "8002:85",
+		"Level5": "8003:85",
+		"Star": 1
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 86,
+		"Level2": "8000:86",
+		"Level3": "8001:86",
+		"Level4": "8002:86",
+		"Level5": "8003:86",
+		"Star": 2
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 87,
+		"Level2": "8000:87",
+		"Level3": "8001:87",
+		"Level4": "8002:87",
+		"Level5": "8003:87",
+		"Star": 3
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 88,
+		"Level2": "8000:88",
+		"Level3": "8001:88",
+		"Level4": "8002:88",
+		"Level5": "8003:88",
+		"Star": 4
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 89,
+		"Level2": "8000:89",
+		"Level3": "8001:89",
+		"Level4": "8002:89",
+		"Level5": "8003:89",
+		"Star": 5
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 90,
+		"Level2": "8000:90",
+		"Level3": "8001:90",
+		"Level4": "8002:90",
+		"Level5": "8003:90",
+		"Star": 6
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 91,
+		"Level2": "8000:91",
+		"Level3": "8001:91",
+		"Level4": "8002:91",
+		"Level5": "8003:91",
+		"Star": 7
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 92,
+		"Level2": "8000:92",
+		"Level3": "8001:92",
+		"Level4": "8002:92",
+		"Level5": "8003:92",
+		"Star": 8
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 93,
+		"Level2": "8000:93",
+		"Level3": "8001:93",
+		"Level4": "8002:93",
+		"Level5": "8003:93",
+		"Star": 9
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 94,
+		"Level2": "8000:94",
+		"Level3": "8001:94",
+		"Level4": "8002:94",
+		"Level5": "8003:94",
+		"Star": 10
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 95,
+		"Level2": "8000:95",
+		"Level3": "8001:95",
+		"Level4": "8002:95",
+		"Level5": "8003:95",
+		"Star": 11
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 96,
+		"Level2": "8000:96",
+		"Level3": "8001:96",
+		"Level4": "8002:96",
+		"Level5": "8003:96",
+		"Star": 12
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 97,
+		"Level2": "8000:97",
+		"Level3": "8001:97",
+		"Level4": "8002:97",
+		"Level5": "8003:97",
+		"Star": 13
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 98,
+		"Level2": "8000:98",
+		"Level3": "8001:98",
+		"Level4": "8002:98",
+		"Level5": "8003:98",
+		"Star": 14
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 99,
+		"Level2": "8000:99",
+		"Level3": "8001:99",
+		"Level4": "8002:99",
+		"Level5": "8003:99",
+		"Star": 15
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 100,
+		"Level2": "8000:100",
+		"Level3": "8001:100",
+		"Level4": "8002:100",
+		"Level5": "8003:100",
+		"Star": 16
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 101,
+		"Level2": "8000:101",
+		"Level3": "8001:101",
+		"Level4": "8002:101",
+		"Level5": "8003:101",
+		"Star": 17
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 102,
+		"Level2": "8000:102",
+		"Level3": "8001:102",
+		"Level4": "8002:102",
+		"Level5": "8003:102",
+		"Star": 18
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 103,
+		"Level2": "8000:103",
+		"Level3": "8001:103",
+		"Level4": "8002:103",
+		"Level5": "8003:103",
+		"Star": 19
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 104,
+		"Level2": "8000:104",
+		"Level3": "8001:104",
+		"Level4": "8002:104",
+		"Level5": "8003:104",
+		"Star": 20
+	},
+	{
+		"GCGrade": 1,
+		"GCLevel": 3,
+		"Level1": 105,
+		"Level2": "8000:105",
+		"Level3": "8001:105",
+		"Level4": "8002:105",
+		"Level5": "8003:105",
+		"Star": 21
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 106,
+		"Level2": "8000:106",
+		"Level3": "8001:106",
+		"Level4": "8002:106",
+		"Level5": "8003:106",
+		"Star": 1
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 107,
+		"Level2": "8000:107",
+		"Level3": "8001:107",
+		"Level4": "8002:107",
+		"Level5": "8003:107",
+		"Star": 2
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 108,
+		"Level2": "8000:108",
+		"Level3": "8001:108",
+		"Level4": "8002:108",
+		"Level5": "8003:108",
+		"Star": 3
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 109,
+		"Level2": "8000:109",
+		"Level3": "8001:109",
+		"Level4": "8002:109",
+		"Level5": "8003:109",
+		"Star": 4
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 110,
+		"Level2": "8000:110",
+		"Level3": "8001:110",
+		"Level4": "8002:110",
+		"Level5": "8003:110",
+		"Star": 5
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 111,
+		"Level2": "8000:111",
+		"Level3": "8001:111",
+		"Level4": "8002:111",
+		"Level5": "8003:111",
+		"Star": 6
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 112,
+		"Level2": "8000:112",
+		"Level3": "8001:112",
+		"Level4": "8002:112",
+		"Level5": "8003:112",
+		"Star": 7
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 113,
+		"Level2": "8000:113",
+		"Level3": "8001:113",
+		"Level4": "8002:113",
+		"Level5": "8003:113",
+		"Star": 8
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 114,
+		"Level2": "8000:114",
+		"Level3": "8001:114",
+		"Level4": "8002:114",
+		"Level5": "8003:114",
+		"Star": 9
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 115,
+		"Level2": "8000:115",
+		"Level3": "8001:115",
+		"Level4": "8002:115",
+		"Level5": "8003:115",
+		"Star": 10
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 116,
+		"Level2": "8000:116",
+		"Level3": "8001:116",
+		"Level4": "8002:116",
+		"Level5": "8003:116",
+		"Star": 11
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 117,
+		"Level2": "8000:117",
+		"Level3": "8001:117",
+		"Level4": "8002:117",
+		"Level5": "8003:117",
+		"Star": 12
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 118,
+		"Level2": "8000:118",
+		"Level3": "8001:118",
+		"Level4": "8002:118",
+		"Level5": "8003:118",
+		"Star": 13
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 119,
+		"Level2": "8000:119",
+		"Level3": "8001:119",
+		"Level4": "8002:119",
+		"Level5": "8003:119",
+		"Star": 14
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 120,
+		"Level2": "8000:120",
+		"Level3": "8001:120",
+		"Level4": "8002:120",
+		"Level5": "8003:120",
+		"Star": 15
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 121,
+		"Level2": "8000:121",
+		"Level3": "8001:121",
+		"Level4": "8002:121",
+		"Level5": "8003:121",
+		"Star": 16
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 122,
+		"Level2": "8000:122",
+		"Level3": "8001:122",
+		"Level4": "8002:122",
+		"Level5": "8003:122",
+		"Star": 17
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 123,
+		"Level2": "8000:123",
+		"Level3": "8001:123",
+		"Level4": "8002:123",
+		"Level5": "8003:123",
+		"Star": 18
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 124,
+		"Level2": "8000:124",
+		"Level3": "8001:124",
+		"Level4": "8002:124",
+		"Level5": "8003:124",
+		"Star": 19
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 125,
+		"Level2": "8000:125",
+		"Level3": "8001:125",
+		"Level4": "8002:125",
+		"Level5": "8003:125",
+		"Star": 20
+	},
+	{
+		"GCGrade": 2,
+		"Level1": 126,
+		"Level2": "8000:126",
+		"Level3": "8001:126",
+		"Level4": "8002:126",
+		"Level5": "8003:126",
+		"Star": 21
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 127,
+		"Level2": "8000:127",
+		"Level3": "8001:127",
+		"Level4": "8002:127",
+		"Level5": "8003:127",
+		"Star": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 128,
+		"Level2": "8000:128",
+		"Level3": "8001:128",
+		"Level4": "8002:128",
+		"Level5": "8003:128",
+		"Star": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 129,
+		"Level2": "8000:129",
+		"Level3": "8001:129",
+		"Level4": "8002:129",
+		"Level5": "8003:129",
+		"Star": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 130,
+		"Level2": "8000:130",
+		"Level3": "8001:130",
+		"Level4": "8002:130",
+		"Level5": "8003:130",
+		"Star": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 131,
+		"Level2": "8000:131",
+		"Level3": "8001:131",
+		"Level4": "8002:131",
+		"Level5": "8003:131",
+		"Star": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 132,
+		"Level2": "8000:132",
+		"Level3": "8001:132",
+		"Level4": "8002:132",
+		"Level5": "8003:132",
+		"Star": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 133,
+		"Level2": "8000:133",
+		"Level3": "8001:133",
+		"Level4": "8002:133",
+		"Level5": "8003:133",
+		"Star": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 134,
+		"Level2": "8000:134",
+		"Level3": "8001:134",
+		"Level4": "8002:134",
+		"Level5": "8003:134",
+		"Star": 8
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 135,
+		"Level2": "8000:135",
+		"Level3": "8001:135",
+		"Level4": "8002:135",
+		"Level5": "8003:135",
+		"Star": 9
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 136,
+		"Level2": "8000:136",
+		"Level3": "8001:136",
+		"Level4": "8002:136",
+		"Level5": "8003:136",
+		"Star": 10
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 137,
+		"Level2": "8000:137",
+		"Level3": "8001:137",
+		"Level4": "8002:137",
+		"Level5": "8003:137",
+		"Star": 11
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 138,
+		"Level2": "8000:138",
+		"Level3": "8001:138",
+		"Level4": "8002:138",
+		"Level5": "8003:138",
+		"Star": 12
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 139,
+		"Level2": "8000:139",
+		"Level3": "8001:139",
+		"Level4": "8002:139",
+		"Level5": "8003:139",
+		"Star": 13
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 140,
+		"Level2": "8000:140",
+		"Level3": "8001:140",
+		"Level4": "8002:140",
+		"Level5": "8003:140",
+		"Star": 14
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 141,
+		"Level2": "8000:141",
+		"Level3": "8001:141",
+		"Level4": "8002:141",
+		"Level5": "8003:141",
+		"Star": 15
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 142,
+		"Level2": "8000:142",
+		"Level3": "8001:142",
+		"Level4": "8002:142",
+		"Level5": "8003:142",
+		"Star": 16
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 143,
+		"Level2": "8000:143",
+		"Level3": "8001:143",
+		"Level4": "8002:143",
+		"Level5": "8003:143",
+		"Star": 17
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 144,
+		"Level2": "8000:144",
+		"Level3": "8001:144",
+		"Level4": "8002:144",
+		"Level5": "8003:144",
+		"Star": 18
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 145,
+		"Level2": "8000:145",
+		"Level3": "8001:145",
+		"Level4": "8002:145",
+		"Level5": "8003:145",
+		"Star": 19
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 146,
+		"Level2": "8000:146",
+		"Level3": "8001:146",
+		"Level4": "8002:146",
+		"Level5": "8003:146",
+		"Star": 20
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 1,
+		"Level1": 147,
+		"Level2": "8000:147",
+		"Level3": "8001:147",
+		"Level4": "8002:147",
+		"Level5": "8003:147",
+		"Star": 21
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 148,
+		"Level2": "8000:148",
+		"Level3": "8001:148",
+		"Level4": "8002:148",
+		"Level5": "8003:148",
+		"Star": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 149,
+		"Level2": "8000:149",
+		"Level3": "8001:149",
+		"Level4": "8002:149",
+		"Level5": "8003:149",
+		"Star": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 150,
+		"Level2": "8000:150",
+		"Level3": "8001:150",
+		"Level4": "8002:150",
+		"Level5": "8003:150",
+		"Star": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 151,
+		"Level2": "8000:151",
+		"Level3": "8001:151",
+		"Level4": "8002:151",
+		"Level5": "8003:151",
+		"Star": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 152,
+		"Level2": "8000:152",
+		"Level3": "8001:152",
+		"Level4": "8002:152",
+		"Level5": "8003:152",
+		"Star": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 153,
+		"Level2": "8000:153",
+		"Level3": "8001:153",
+		"Level4": "8002:153",
+		"Level5": "8003:153",
+		"Star": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 154,
+		"Level2": "8000:154",
+		"Level3": "8001:154",
+		"Level4": "8002:154",
+		"Level5": "8003:154",
+		"Star": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 155,
+		"Level2": "8000:155",
+		"Level3": "8001:155",
+		"Level4": "8002:155",
+		"Level5": "8003:155",
+		"Star": 8
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 156,
+		"Level2": "8000:156",
+		"Level3": "8001:156",
+		"Level4": "8002:156",
+		"Level5": "8003:156",
+		"Star": 9
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 157,
+		"Level2": "8000:157",
+		"Level3": "8001:157",
+		"Level4": "8002:157",
+		"Level5": "8003:157",
+		"Star": 10
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 158,
+		"Level2": "8000:158",
+		"Level3": "8001:158",
+		"Level4": "8002:158",
+		"Level5": "8003:158",
+		"Star": 11
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 159,
+		"Level2": "8000:159",
+		"Level3": "8001:159",
+		"Level4": "8002:159",
+		"Level5": "8003:159",
+		"Star": 12
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 160,
+		"Level2": "8000:160",
+		"Level3": "8001:160",
+		"Level4": "8002:160",
+		"Level5": "8003:160",
+		"Star": 13
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 161,
+		"Level2": "8000:161",
+		"Level3": "8001:161",
+		"Level4": "8002:161",
+		"Level5": "8003:161",
+		"Star": 14
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 162,
+		"Level2": "8000:162",
+		"Level3": "8001:162",
+		"Level4": "8002:162",
+		"Level5": "8003:162",
+		"Star": 15
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 163,
+		"Level2": "8000:163",
+		"Level3": "8001:163",
+		"Level4": "8002:163",
+		"Level5": "8003:163",
+		"Star": 16
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 164,
+		"Level2": "8000:164",
+		"Level3": "8001:164",
+		"Level4": "8002:164",
+		"Level5": "8003:164",
+		"Star": 17
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 165,
+		"Level2": "8000:165",
+		"Level3": "8001:165",
+		"Level4": "8002:165",
+		"Level5": "8003:165",
+		"Star": 18
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 166,
+		"Level2": "8000:166",
+		"Level3": "8001:166",
+		"Level4": "8002:166",
+		"Level5": "8003:166",
+		"Star": 19
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 167,
+		"Level2": "8000:167",
+		"Level3": "8001:167",
+		"Level4": "8002:167",
+		"Level5": "8003:167",
+		"Star": 20
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 2,
+		"Level1": 168,
+		"Level2": "8000:168",
+		"Level3": "8001:168",
+		"Level4": "8002:168",
+		"Level5": "8003:168",
+		"Star": 21
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 169,
+		"Level2": "8000:169",
+		"Level3": "8001:169",
+		"Level4": "8002:169",
+		"Level5": "8003:169",
+		"Star": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 170,
+		"Level2": "8000:170",
+		"Level3": "8001:170",
+		"Level4": "8002:170",
+		"Level5": "8003:170",
+		"Star": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 171,
+		"Level2": "8000:171",
+		"Level3": "8001:171",
+		"Level4": "8002:171",
+		"Level5": "8003:171",
+		"Star": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 172,
+		"Level2": "8000:172",
+		"Level3": "8001:172",
+		"Level4": "8002:172",
+		"Level5": "8003:172",
+		"Star": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 173,
+		"Level2": "8000:173",
+		"Level3": "8001:173",
+		"Level4": "8002:173",
+		"Level5": "8003:173",
+		"Star": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 174,
+		"Level2": "8000:174",
+		"Level3": "8001:174",
+		"Level4": "8002:174",
+		"Level5": "8003:174",
+		"Star": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 175,
+		"Level2": "8000:175",
+		"Level3": "8001:175",
+		"Level4": "8002:175",
+		"Level5": "8003:175",
+		"Star": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 176,
+		"Level2": "8000:176",
+		"Level3": "8001:176",
+		"Level4": "8002:176",
+		"Level5": "8003:176",
+		"Star": 8
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 177,
+		"Level2": "8000:177",
+		"Level3": "8001:177",
+		"Level4": "8002:177",
+		"Level5": "8003:177",
+		"Star": 9
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 178,
+		"Level2": "8000:178",
+		"Level3": "8001:178",
+		"Level4": "8002:178",
+		"Level5": "8003:178",
+		"Star": 10
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 179,
+		"Level2": "8000:179",
+		"Level3": "8001:179",
+		"Level4": "8002:179",
+		"Level5": "8003:179",
+		"Star": 11
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 180,
+		"Level2": "8000:180",
+		"Level3": "8001:180",
+		"Level4": "8002:180",
+		"Level5": "8003:180",
+		"Star": 12
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 181,
+		"Level2": "8000:181",
+		"Level3": "8001:181",
+		"Level4": "8002:181",
+		"Level5": "8003:181",
+		"Star": 13
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 182,
+		"Level2": "8000:182",
+		"Level3": "8001:182",
+		"Level4": "8002:182",
+		"Level5": "8003:182",
+		"Star": 14
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 183,
+		"Level2": "8000:183",
+		"Level3": "8001:183",
+		"Level4": "8002:183",
+		"Level5": "8003:183",
+		"Star": 15
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 184,
+		"Level2": "8000:184",
+		"Level3": "8001:184",
+		"Level4": "8002:184",
+		"Level5": "8003:184",
+		"Star": 16
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 185,
+		"Level2": "8000:185",
+		"Level3": "8001:185",
+		"Level4": "8002:185",
+		"Level5": "8003:185",
+		"Star": 17
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 186,
+		"Level2": "8000:186",
+		"Level3": "8001:186",
+		"Level4": "8002:186",
+		"Level5": "8003:186",
+		"Star": 18
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 187,
+		"Level2": "8000:187",
+		"Level3": "8001:187",
+		"Level4": "8002:187",
+		"Level5": "8003:187",
+		"Star": 19
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 188,
+		"Level2": "8000:188",
+		"Level3": "8001:188",
+		"Level4": "8002:188",
+		"Level5": "8003:188",
+		"Star": 20
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 3,
+		"Level1": 189,
+		"Level2": "8000:189",
+		"Level3": "8001:189",
+		"Level4": "8002:189",
+		"Level5": "8003:189",
+		"Star": 21
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 190,
+		"Level2": "8000:190",
+		"Level3": "8001:190",
+		"Level4": "8002:190",
+		"Level5": "8003:190",
+		"Star": 1
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 191,
+		"Level2": "8000:191",
+		"Level3": "8001:191",
+		"Level4": "8002:191",
+		"Level5": "8003:191",
+		"Star": 2
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 192,
+		"Level2": "8000:192",
+		"Level3": "8001:192",
+		"Level4": "8002:192",
+		"Level5": "8003:192",
+		"Star": 3
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 193,
+		"Level2": "8000:193",
+		"Level3": "8001:193",
+		"Level4": "8002:193",
+		"Level5": "8003:193",
+		"Star": 4
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 194,
+		"Level2": "8000:194",
+		"Level3": "8001:194",
+		"Level4": "8002:194",
+		"Level5": "8003:194",
+		"Star": 5
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 195,
+		"Level2": "8000:195",
+		"Level3": "8001:195",
+		"Level4": "8002:195",
+		"Level5": "8003:195",
+		"Star": 6
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 196,
+		"Level2": "8000:196",
+		"Level3": "8001:196",
+		"Level4": "8002:196",
+		"Level5": "8003:196",
+		"Star": 7
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 197,
+		"Level2": "8000:197",
+		"Level3": "8001:197",
+		"Level4": "8002:197",
+		"Level5": "8003:197",
+		"Star": 8
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 198,
+		"Level2": "8000:198",
+		"Level3": "8001:198",
+		"Level4": "8002:198",
+		"Level5": "8003:198",
+		"Star": 9
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 199,
+		"Level2": "8000:199",
+		"Level3": "8001:199",
+		"Level4": "8002:199",
+		"Level5": "8003:199",
+		"Star": 10
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 200,
+		"Level2": "8000:200",
+		"Level3": "8001:200",
+		"Level4": "8002:200",
+		"Level5": "8003:200",
+		"Star": 11
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 201,
+		"Level2": "8000:201",
+		"Level3": "8001:201",
+		"Level4": "8002:201",
+		"Level5": "8003:201",
+		"Star": 12
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 202,
+		"Level2": "8000:202",
+		"Level3": "8001:202",
+		"Level4": "8002:202",
+		"Level5": "8003:202",
+		"Star": 13
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 203,
+		"Level2": "8000:203",
+		"Level3": "8001:203",
+		"Level4": "8002:203",
+		"Level5": "8003:203",
+		"Star": 14
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 204,
+		"Level2": "8000:204",
+		"Level3": "8001:204",
+		"Level4": "8002:204",
+		"Level5": "8003:204",
+		"Star": 15
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 205,
+		"Level2": "8000:205",
+		"Level3": "8001:205",
+		"Level4": "8002:205",
+		"Level5": "8003:205",
+		"Star": 16
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 206,
+		"Level2": "8000:206",
+		"Level3": "8001:206",
+		"Level4": "8002:206",
+		"Level5": "8003:206",
+		"Star": 17
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 207,
+		"Level2": "8000:207",
+		"Level3": "8001:207",
+		"Level4": "8002:207",
+		"Level5": "8003:207",
+		"Star": 18
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 208,
+		"Level2": "8000:208",
+		"Level3": "8001:208",
+		"Level4": "8002:208",
+		"Level5": "8003:208",
+		"Star": 19
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 209,
+		"Level2": "8000:209",
+		"Level3": "8001:209",
+		"Level4": "8002:209",
+		"Level5": "8003:209",
+		"Star": 20
+	},
+	{
+		"GCGrade": 2,
+		"GCLevel": 4,
+		"Level1": 210,
+		"Level2": "8000:210",
+		"Level3": "8001:210",
+		"Level4": "8002:210",
+		"Level5": "8003:210",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 211,
+		"Level2": "8000:211",
+		"Level3": "8001:211",
+		"Level4": "8002:211",
+		"Level5": "8003:211",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 212,
+		"Level2": "8000:212",
+		"Level3": "8001:212",
+		"Level4": "8002:212",
+		"Level5": "8003:212",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 213,
+		"Level2": "8000:213",
+		"Level3": "8001:213",
+		"Level4": "8002:213",
+		"Level5": "8003:213",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 214,
+		"Level2": "8000:214",
+		"Level3": "8001:214",
+		"Level4": "8002:214",
+		"Level5": "8003:214",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 215,
+		"Level2": "8000:215",
+		"Level3": "8001:215",
+		"Level4": "8002:215",
+		"Level5": "8003:215",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 216,
+		"Level2": "8000:216",
+		"Level3": "8001:216",
+		"Level4": "8002:216",
+		"Level5": "8003:216",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 217,
+		"Level2": "8000:217",
+		"Level3": "8001:217",
+		"Level4": "8002:217",
+		"Level5": "8003:217",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 218,
+		"Level2": "8000:218",
+		"Level3": "8001:218",
+		"Level4": "8002:218",
+		"Level5": "8003:218",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 219,
+		"Level2": "8000:219",
+		"Level3": "8001:219",
+		"Level4": "8002:219",
+		"Level5": "8003:219",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 220,
+		"Level2": "8000:220",
+		"Level3": "8001:220",
+		"Level4": "8002:220",
+		"Level5": "8003:220",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 221,
+		"Level2": "8000:221",
+		"Level3": "8001:221",
+		"Level4": "8002:221",
+		"Level5": "8003:221",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 222,
+		"Level2": "8000:222",
+		"Level3": "8001:222",
+		"Level4": "8002:222",
+		"Level5": "8003:222",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 223,
+		"Level2": "8000:223",
+		"Level3": "8001:223",
+		"Level4": "8002:223",
+		"Level5": "8003:223",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 224,
+		"Level2": "8000:224",
+		"Level3": "8001:224",
+		"Level4": "8002:224",
+		"Level5": "8003:224",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 225,
+		"Level2": "8000:225",
+		"Level3": "8001:225",
+		"Level4": "8002:225",
+		"Level5": "8003:225",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 226,
+		"Level2": "8000:226",
+		"Level3": "8001:226",
+		"Level4": "8002:226",
+		"Level5": "8003:226",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 227,
+		"Level2": "8000:227",
+		"Level3": "8001:227",
+		"Level4": "8002:227",
+		"Level5": "8003:227",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 228,
+		"Level2": "8000:228",
+		"Level3": "8001:228",
+		"Level4": "8002:228",
+		"Level5": "8003:228",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 229,
+		"Level2": "8000:229",
+		"Level3": "8001:229",
+		"Level4": "8002:229",
+		"Level5": "8003:229",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 230,
+		"Level2": "8000:230",
+		"Level3": "8001:230",
+		"Level4": "8002:230",
+		"Level5": "8003:230",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"Level1": 231,
+		"Level2": "8000:231",
+		"Level3": "8001:231",
+		"Level4": "8002:231",
+		"Level5": "8003:231",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 232,
+		"Level2": "8000:232",
+		"Level3": "8001:232",
+		"Level4": "8002:232",
+		"Level5": "8003:232",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 233,
+		"Level2": "8000:233",
+		"Level3": "8001:233",
+		"Level4": "8002:233",
+		"Level5": "8003:233",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 234,
+		"Level2": "8000:234",
+		"Level3": "8001:234",
+		"Level4": "8002:234",
+		"Level5": "8003:234",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 235,
+		"Level2": "8000:235",
+		"Level3": "8001:235",
+		"Level4": "8002:235",
+		"Level5": "8003:235",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 236,
+		"Level2": "8000:236",
+		"Level3": "8001:236",
+		"Level4": "8002:236",
+		"Level5": "8003:236",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 237,
+		"Level2": "8000:237",
+		"Level3": "8001:237",
+		"Level4": "8002:237",
+		"Level5": "8003:237",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 238,
+		"Level2": "8000:238",
+		"Level3": "8001:238",
+		"Level4": "8002:238",
+		"Level5": "8003:238",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 239,
+		"Level2": "8000:239",
+		"Level3": "8001:239",
+		"Level4": "8002:239",
+		"Level5": "8003:239",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 240,
+		"Level2": "8000:240",
+		"Level3": "8001:240",
+		"Level4": "8002:240",
+		"Level5": "8003:240",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 241,
+		"Level2": "8000:241",
+		"Level3": "8001:241",
+		"Level4": "8002:241",
+		"Level5": "8003:241",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 242,
+		"Level2": "8000:242",
+		"Level3": "8001:242",
+		"Level4": "8002:242",
+		"Level5": "8003:242",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 243,
+		"Level2": "8000:243",
+		"Level3": "8001:243",
+		"Level4": "8002:243",
+		"Level5": "8003:243",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 244,
+		"Level2": "8000:244",
+		"Level3": "8001:244",
+		"Level4": "8002:244",
+		"Level5": "8003:244",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 245,
+		"Level2": "8000:245",
+		"Level3": "8001:245",
+		"Level4": "8002:245",
+		"Level5": "8003:245",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 246,
+		"Level2": "8000:246",
+		"Level3": "8001:246",
+		"Level4": "8002:246",
+		"Level5": "8003:246",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 247,
+		"Level2": "8000:247",
+		"Level3": "8001:247",
+		"Level4": "8002:247",
+		"Level5": "8003:247",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 248,
+		"Level2": "8000:248",
+		"Level3": "8001:248",
+		"Level4": "8002:248",
+		"Level5": "8003:248",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 249,
+		"Level2": "8000:249",
+		"Level3": "8001:249",
+		"Level4": "8002:249",
+		"Level5": "8003:249",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 250,
+		"Level2": "8000:250",
+		"Level3": "8001:250",
+		"Level4": "8002:250",
+		"Level5": "8003:250",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 251,
+		"Level2": "8000:251",
+		"Level3": "8001:251",
+		"Level4": "8002:251",
+		"Level5": "8003:251",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 1,
+		"Level1": 252,
+		"Level2": "8000:252",
+		"Level3": "8001:252",
+		"Level4": "8002:252",
+		"Level5": "8003:252",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 253,
+		"Level2": "8000:253",
+		"Level3": "8001:253",
+		"Level4": "8002:253",
+		"Level5": "8003:253",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 254,
+		"Level2": "8000:254",
+		"Level3": "8001:254",
+		"Level4": "8002:254",
+		"Level5": "8003:254",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 255,
+		"Level2": "8000:255",
+		"Level3": "8001:255",
+		"Level4": "8002:255",
+		"Level5": "8003:255",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 256,
+		"Level2": "8000:256",
+		"Level3": "8001:256",
+		"Level4": "8002:256",
+		"Level5": "8003:256",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 257,
+		"Level2": "8000:257",
+		"Level3": "8001:257",
+		"Level4": "8002:257",
+		"Level5": "8003:257",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 258,
+		"Level2": "8000:258",
+		"Level3": "8001:258",
+		"Level4": "8002:258",
+		"Level5": "8003:258",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 259,
+		"Level2": "8000:259",
+		"Level3": "8001:259",
+		"Level4": "8002:259",
+		"Level5": "8003:259",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 260,
+		"Level2": "8000:260",
+		"Level3": "8001:260",
+		"Level4": "8002:260",
+		"Level5": "8003:260",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 261,
+		"Level2": "8000:261",
+		"Level3": "8001:261",
+		"Level4": "8002:261",
+		"Level5": "8003:261",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 262,
+		"Level2": "8000:262",
+		"Level3": "8001:262",
+		"Level4": "8002:262",
+		"Level5": "8003:262",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 263,
+		"Level2": "8000:263",
+		"Level3": "8001:263",
+		"Level4": "8002:263",
+		"Level5": "8003:263",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 264,
+		"Level2": "8000:264",
+		"Level3": "8001:264",
+		"Level4": "8002:264",
+		"Level5": "8003:264",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 265,
+		"Level2": "8000:265",
+		"Level3": "8001:265",
+		"Level4": "8002:265",
+		"Level5": "8003:265",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 266,
+		"Level2": "8000:266",
+		"Level3": "8001:266",
+		"Level4": "8002:266",
+		"Level5": "8003:266",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 267,
+		"Level2": "8000:267",
+		"Level3": "8001:267",
+		"Level4": "8002:267",
+		"Level5": "8003:267",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 268,
+		"Level2": "8000:268",
+		"Level3": "8001:268",
+		"Level4": "8002:268",
+		"Level5": "8003:268",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 269,
+		"Level2": "8000:269",
+		"Level3": "8001:269",
+		"Level4": "8002:269",
+		"Level5": "8003:269",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 270,
+		"Level2": "8000:270",
+		"Level3": "8001:270",
+		"Level4": "8002:270",
+		"Level5": "8003:270",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 271,
+		"Level2": "8000:271",
+		"Level3": "8001:271",
+		"Level4": "8002:271",
+		"Level5": "8003:271",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 272,
+		"Level2": "8000:272",
+		"Level3": "8001:272",
+		"Level4": "8002:272",
+		"Level5": "8003:272",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 2,
+		"Level1": 273,
+		"Level2": "8000:273",
+		"Level3": "8001:273",
+		"Level4": "8002:273",
+		"Level5": "8003:273",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 274,
+		"Level2": "8000:274",
+		"Level3": "8001:274",
+		"Level4": "8002:274",
+		"Level5": "8003:274",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 275,
+		"Level2": "8000:275",
+		"Level3": "8001:275",
+		"Level4": "8002:275",
+		"Level5": "8003:275",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 276,
+		"Level2": "8000:276",
+		"Level3": "8001:276",
+		"Level4": "8002:276",
+		"Level5": "8003:276",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 277,
+		"Level2": "8000:277",
+		"Level3": "8001:277",
+		"Level4": "8002:277",
+		"Level5": "8003:277",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 278,
+		"Level2": "8000:278",
+		"Level3": "8001:278",
+		"Level4": "8002:278",
+		"Level5": "8003:278",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 279,
+		"Level2": "8000:279",
+		"Level3": "8001:279",
+		"Level4": "8002:279",
+		"Level5": "8003:279",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 280,
+		"Level2": "8000:280",
+		"Level3": "8001:280",
+		"Level4": "8002:280",
+		"Level5": "8003:280",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 281,
+		"Level2": "8000:281",
+		"Level3": "8001:281",
+		"Level4": "8002:281",
+		"Level5": "8003:281",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 282,
+		"Level2": "8000:282",
+		"Level3": "8001:282",
+		"Level4": "8002:282",
+		"Level5": "8003:282",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 283,
+		"Level2": "8000:283",
+		"Level3": "8001:283",
+		"Level4": "8002:283",
+		"Level5": "8003:283",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 284,
+		"Level2": "8000:284",
+		"Level3": "8001:284",
+		"Level4": "8002:284",
+		"Level5": "8003:284",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 285,
+		"Level2": "8000:285",
+		"Level3": "8001:285",
+		"Level4": "8002:285",
+		"Level5": "8003:285",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 286,
+		"Level2": "8000:286",
+		"Level3": "8001:286",
+		"Level4": "8002:286",
+		"Level5": "8003:286",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 287,
+		"Level2": "8000:287",
+		"Level3": "8001:287",
+		"Level4": "8002:287",
+		"Level5": "8003:287",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 288,
+		"Level2": "8000:288",
+		"Level3": "8001:288",
+		"Level4": "8002:288",
+		"Level5": "8003:288",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 289,
+		"Level2": "8000:289",
+		"Level3": "8001:289",
+		"Level4": "8002:289",
+		"Level5": "8003:289",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 290,
+		"Level2": "8000:290",
+		"Level3": "8001:290",
+		"Level4": "8002:290",
+		"Level5": "8003:290",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 291,
+		"Level2": "8000:291",
+		"Level3": "8001:291",
+		"Level4": "8002:291",
+		"Level5": "8003:291",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 292,
+		"Level2": "8000:292",
+		"Level3": "8001:292",
+		"Level4": "8002:292",
+		"Level5": "8003:292",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 293,
+		"Level2": "8000:293",
+		"Level3": "8001:293",
+		"Level4": "8002:293",
+		"Level5": "8003:293",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 3,
+		"Level1": 294,
+		"Level2": "8000:294",
+		"Level3": "8001:294",
+		"Level4": "8002:294",
+		"Level5": "8003:294",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 295,
+		"Level2": "8000:295",
+		"Level3": "8001:295",
+		"Level4": "8002:295",
+		"Level5": "8003:295",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 296,
+		"Level2": "8000:296",
+		"Level3": "8001:296",
+		"Level4": "8002:296",
+		"Level5": "8003:296",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 297,
+		"Level2": "8000:297",
+		"Level3": "8001:297",
+		"Level4": "8002:297",
+		"Level5": "8003:297",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 298,
+		"Level2": "8000:298",
+		"Level3": "8001:298",
+		"Level4": "8002:298",
+		"Level5": "8003:298",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 299,
+		"Level2": "8000:299",
+		"Level3": "8001:299",
+		"Level4": "8002:299",
+		"Level5": "8003:299",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 300,
+		"Level2": "8000:300",
+		"Level3": "8001:300",
+		"Level4": "8002:300",
+		"Level5": "8003:300",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 301,
+		"Level2": "8000:301",
+		"Level3": "8001:301",
+		"Level4": "8002:301",
+		"Level5": "8003:301",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 302,
+		"Level2": "8000:302",
+		"Level3": "8001:302",
+		"Level4": "8002:302",
+		"Level5": "8003:302",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 303,
+		"Level2": "8000:303",
+		"Level3": "8001:303",
+		"Level4": "8002:303",
+		"Level5": "8003:303",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 304,
+		"Level2": "8000:304",
+		"Level3": "8001:304",
+		"Level4": "8002:304",
+		"Level5": "8003:304",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 305,
+		"Level2": "8000:305",
+		"Level3": "8001:305",
+		"Level4": "8002:305",
+		"Level5": "8003:305",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 306,
+		"Level2": "8000:306",
+		"Level3": "8001:306",
+		"Level4": "8002:306",
+		"Level5": "8003:306",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 307,
+		"Level2": "8000:307",
+		"Level3": "8001:307",
+		"Level4": "8002:307",
+		"Level5": "8003:307",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 308,
+		"Level2": "8000:308",
+		"Level3": "8001:308",
+		"Level4": "8002:308",
+		"Level5": "8003:308",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 309,
+		"Level2": "8000:309",
+		"Level3": "8001:309",
+		"Level4": "8002:309",
+		"Level5": "8003:309",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 310,
+		"Level2": "8000:310",
+		"Level3": "8001:310",
+		"Level4": "8002:310",
+		"Level5": "8003:310",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 311,
+		"Level2": "8000:311",
+		"Level3": "8001:311",
+		"Level4": "8002:311",
+		"Level5": "8003:311",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 312,
+		"Level2": "8000:312",
+		"Level3": "8001:312",
+		"Level4": "8002:312",
+		"Level5": "8003:312",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 313,
+		"Level2": "8000:313",
+		"Level3": "8001:313",
+		"Level4": "8002:313",
+		"Level5": "8003:313",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 314,
+		"Level2": "8000:314",
+		"Level3": "8001:314",
+		"Level4": "8002:314",
+		"Level5": "8003:314",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 4,
+		"Level1": 315,
+		"Level2": "8000:315",
+		"Level3": "8001:315",
+		"Level4": "8002:315",
+		"Level5": "8003:315",
+		"Star": 21
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 316,
+		"Level2": "8000:316",
+		"Level3": "8001:316",
+		"Level4": "8002:316",
+		"Level5": "8003:316",
+		"Star": 1
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 317,
+		"Level2": "8000:317",
+		"Level3": "8001:317",
+		"Level4": "8002:317",
+		"Level5": "8003:317",
+		"Star": 2
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 318,
+		"Level2": "8000:318",
+		"Level3": "8001:318",
+		"Level4": "8002:318",
+		"Level5": "8003:318",
+		"Star": 3
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 319,
+		"Level2": "8000:319",
+		"Level3": "8001:319",
+		"Level4": "8002:319",
+		"Level5": "8003:319",
+		"Star": 4
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 320,
+		"Level2": "8000:320",
+		"Level3": "8001:320",
+		"Level4": "8002:320",
+		"Level5": "8003:320",
+		"Star": 5
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 321,
+		"Level2": "8000:321",
+		"Level3": "8001:321",
+		"Level4": "8002:321",
+		"Level5": "8003:321",
+		"Star": 6
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 322,
+		"Level2": "8000:322",
+		"Level3": "8001:322",
+		"Level4": "8002:322",
+		"Level5": "8003:322",
+		"Star": 7
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 323,
+		"Level2": "8000:323",
+		"Level3": "8001:323",
+		"Level4": "8002:323",
+		"Level5": "8003:323",
+		"Star": 8
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 324,
+		"Level2": "8000:324",
+		"Level3": "8001:324",
+		"Level4": "8002:324",
+		"Level5": "8003:324",
+		"Star": 9
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 325,
+		"Level2": "8000:325",
+		"Level3": "8001:325",
+		"Level4": "8002:325",
+		"Level5": "8003:325",
+		"Star": 10
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 326,
+		"Level2": "8000:326",
+		"Level3": "8001:326",
+		"Level4": "8002:326",
+		"Level5": "8003:326",
+		"Star": 11
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 327,
+		"Level2": "8000:327",
+		"Level3": "8001:327",
+		"Level4": "8002:327",
+		"Level5": "8003:327",
+		"Star": 12
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 328,
+		"Level2": "8000:328",
+		"Level3": "8001:328",
+		"Level4": "8002:328",
+		"Level5": "8003:328",
+		"Star": 13
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 329,
+		"Level2": "8000:329",
+		"Level3": "8001:329",
+		"Level4": "8002:329",
+		"Level5": "8003:329",
+		"Star": 14
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 330,
+		"Level2": "8000:330",
+		"Level3": "8001:330",
+		"Level4": "8002:330",
+		"Level5": "8003:330",
+		"Star": 15
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 331,
+		"Level2": "8000:331",
+		"Level3": "8001:331",
+		"Level4": "8002:331",
+		"Level5": "8003:331",
+		"Star": 16
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 332,
+		"Level2": "8000:332",
+		"Level3": "8001:332",
+		"Level4": "8002:332",
+		"Level5": "8003:332",
+		"Star": 17
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 333,
+		"Level2": "8000:333",
+		"Level3": "8001:333",
+		"Level4": "8002:333",
+		"Level5": "8003:333",
+		"Star": 18
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 334,
+		"Level2": "8000:334",
+		"Level3": "8001:334",
+		"Level4": "8002:334",
+		"Level5": "8003:334",
+		"Star": 19
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 335,
+		"Level2": "8000:335",
+		"Level3": "8001:335",
+		"Level4": "8002:335",
+		"Level5": "8003:335",
+		"Star": 20
+	},
+	{
+		"GCGrade": 3,
+		"GCLevel": 5,
+		"Level1": 336,
+		"Level2": "8000:336",
+		"Level3": "8001:336",
+		"Level4": "8002:336",
+		"Level5": "8003:336",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 337,
+		"Level2": "8000:337",
+		"Level3": "8001:337",
+		"Level4": "8002:337",
+		"Level5": "8003:337",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 338,
+		"Level2": "8000:338",
+		"Level3": "8001:338",
+		"Level4": "8002:338",
+		"Level5": "8003:338",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 339,
+		"Level2": "8000:339",
+		"Level3": "8001:339",
+		"Level4": "8002:339",
+		"Level5": "8003:339",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 340,
+		"Level2": "8000:340",
+		"Level3": "8001:340",
+		"Level4": "8002:340",
+		"Level5": "8003:340",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 341,
+		"Level2": "8000:341",
+		"Level3": "8001:341",
+		"Level4": "8002:341",
+		"Level5": "8003:341",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 342,
+		"Level2": "8000:342",
+		"Level3": "8001:342",
+		"Level4": "8002:342",
+		"Level5": "8003:342",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 343,
+		"Level2": "8000:343",
+		"Level3": "8001:343",
+		"Level4": "8002:343",
+		"Level5": "8003:343",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 344,
+		"Level2": "8000:344",
+		"Level3": "8001:344",
+		"Level4": "8002:344",
+		"Level5": "8003:344",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 345,
+		"Level2": "8000:345",
+		"Level3": "8001:345",
+		"Level4": "8002:345",
+		"Level5": "8003:345",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 346,
+		"Level2": "8000:346",
+		"Level3": "8001:346",
+		"Level4": "8002:346",
+		"Level5": "8003:346",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 347,
+		"Level2": "8000:347",
+		"Level3": "8001:347",
+		"Level4": "8002:347",
+		"Level5": "8003:347",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 348,
+		"Level2": "8000:348",
+		"Level3": "8001:348",
+		"Level4": "8002:348",
+		"Level5": "8003:348",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 349,
+		"Level2": "8000:349",
+		"Level3": "8001:349",
+		"Level4": "8002:349",
+		"Level5": "8003:349",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 350,
+		"Level2": "8000:350",
+		"Level3": "8001:350",
+		"Level4": "8002:350",
+		"Level5": "8003:350",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 351,
+		"Level2": "8000:351",
+		"Level3": "8001:351",
+		"Level4": "8002:351",
+		"Level5": "8003:351",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 352,
+		"Level2": "8000:352",
+		"Level3": "8001:352",
+		"Level4": "8002:352",
+		"Level5": "8003:352",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 353,
+		"Level2": "8000:353",
+		"Level3": "8001:353",
+		"Level4": "8002:353",
+		"Level5": "8003:353",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 354,
+		"Level2": "8000:354",
+		"Level3": "8001:354",
+		"Level4": "8002:354",
+		"Level5": "8003:354",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 355,
+		"Level2": "8000:355",
+		"Level3": "8001:355",
+		"Level4": "8002:355",
+		"Level5": "8003:355",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 356,
+		"Level2": "8000:356",
+		"Level3": "8001:356",
+		"Level4": "8002:356",
+		"Level5": "8003:356",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"Level1": 357,
+		"Level2": "8000:357",
+		"Level3": "8001:357",
+		"Level4": "8002:357",
+		"Level5": "8003:357",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 358,
+		"Level2": "8000:358",
+		"Level3": "8001:358",
+		"Level4": "8002:358",
+		"Level5": "8003:358",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 359,
+		"Level2": "8000:359",
+		"Level3": "8001:359",
+		"Level4": "8002:359",
+		"Level5": "8003:359",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 360,
+		"Level2": "8000:360",
+		"Level3": "8001:360",
+		"Level4": "8002:360",
+		"Level5": "8003:360",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 361,
+		"Level2": "8000:361",
+		"Level3": "8001:361",
+		"Level4": "8002:361",
+		"Level5": "8003:361",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 362,
+		"Level2": "8000:362",
+		"Level3": "8001:362",
+		"Level4": "8002:362",
+		"Level5": "8003:362",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 363,
+		"Level2": "8000:363",
+		"Level3": "8001:363",
+		"Level4": "8002:363",
+		"Level5": "8003:363",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 364,
+		"Level2": "8000:364",
+		"Level3": "8001:364",
+		"Level4": "8002:364",
+		"Level5": "8003:364",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 365,
+		"Level2": "8000:365",
+		"Level3": "8001:365",
+		"Level4": "8002:365",
+		"Level5": "8003:365",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 366,
+		"Level2": "8000:366",
+		"Level3": "8001:366",
+		"Level4": "8002:366",
+		"Level5": "8003:366",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 367,
+		"Level2": "8000:367",
+		"Level3": "8001:367",
+		"Level4": "8002:367",
+		"Level5": "8003:367",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 368,
+		"Level2": "8000:368",
+		"Level3": "8001:368",
+		"Level4": "8002:368",
+		"Level5": "8003:368",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 369,
+		"Level2": "8000:369",
+		"Level3": "8001:369",
+		"Level4": "8002:369",
+		"Level5": "8003:369",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 370,
+		"Level2": "8000:370",
+		"Level3": "8001:370",
+		"Level4": "8002:370",
+		"Level5": "8003:370",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 371,
+		"Level2": "8000:371",
+		"Level3": "8001:371",
+		"Level4": "8002:371",
+		"Level5": "8003:371",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 372,
+		"Level2": "8000:372",
+		"Level3": "8001:372",
+		"Level4": "8002:372",
+		"Level5": "8003:372",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 373,
+		"Level2": "8000:373",
+		"Level3": "8001:373",
+		"Level4": "8002:373",
+		"Level5": "8003:373",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 374,
+		"Level2": "8000:374",
+		"Level3": "8001:374",
+		"Level4": "8002:374",
+		"Level5": "8003:374",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 375,
+		"Level2": "8000:375",
+		"Level3": "8001:375",
+		"Level4": "8002:375",
+		"Level5": "8003:375",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 376,
+		"Level2": "8000:376",
+		"Level3": "8001:376",
+		"Level4": "8002:376",
+		"Level5": "8003:376",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 377,
+		"Level2": "8000:377",
+		"Level3": "8001:377",
+		"Level4": "8002:377",
+		"Level5": "8003:377",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 1,
+		"Level1": 378,
+		"Level2": "8000:378",
+		"Level3": "8001:378",
+		"Level4": "8002:378",
+		"Level5": "8003:378",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 379,
+		"Level2": "8000:379",
+		"Level3": "8001:379",
+		"Level4": "8002:379",
+		"Level5": "8003:379",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 380,
+		"Level2": "8000:380",
+		"Level3": "8001:380",
+		"Level4": "8002:380",
+		"Level5": "8003:380",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 381,
+		"Level2": "8000:381",
+		"Level3": "8001:381",
+		"Level4": "8002:381",
+		"Level5": "8003:381",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 382,
+		"Level2": "8000:382",
+		"Level3": "8001:382",
+		"Level4": "8002:382",
+		"Level5": "8003:382",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 383,
+		"Level2": "8000:383",
+		"Level3": "8001:383",
+		"Level4": "8002:383",
+		"Level5": "8003:383",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 384,
+		"Level2": "8000:384",
+		"Level3": "8001:384",
+		"Level4": "8002:384",
+		"Level5": "8003:384",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 385,
+		"Level2": "8000:385",
+		"Level3": "8001:385",
+		"Level4": "8002:385",
+		"Level5": "8003:385",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 386,
+		"Level2": "8000:386",
+		"Level3": "8001:386",
+		"Level4": "8002:386",
+		"Level5": "8003:386",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 387,
+		"Level2": "8000:387",
+		"Level3": "8001:387",
+		"Level4": "8002:387",
+		"Level5": "8003:387",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 388,
+		"Level2": "8000:388",
+		"Level3": "8001:388",
+		"Level4": "8002:388",
+		"Level5": "8003:388",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 389,
+		"Level2": "8000:389",
+		"Level3": "8001:389",
+		"Level4": "8002:389",
+		"Level5": "8003:389",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 390,
+		"Level2": "8000:390",
+		"Level3": "8001:390",
+		"Level4": "8002:390",
+		"Level5": "8003:390",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 391,
+		"Level2": "8000:391",
+		"Level3": "8001:391",
+		"Level4": "8002:391",
+		"Level5": "8003:391",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 392,
+		"Level2": "8000:392",
+		"Level3": "8001:392",
+		"Level4": "8002:392",
+		"Level5": "8003:392",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 393,
+		"Level2": "8000:393",
+		"Level3": "8001:393",
+		"Level4": "8002:393",
+		"Level5": "8003:393",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 394,
+		"Level2": "8000:394",
+		"Level3": "8001:394",
+		"Level4": "8002:394",
+		"Level5": "8003:394",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 395,
+		"Level2": "8000:395",
+		"Level3": "8001:395",
+		"Level4": "8002:395",
+		"Level5": "8003:395",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 396,
+		"Level2": "8000:396",
+		"Level3": "8001:396",
+		"Level4": "8002:396",
+		"Level5": "8003:396",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 397,
+		"Level2": "8000:397",
+		"Level3": "8001:397",
+		"Level4": "8002:397",
+		"Level5": "8003:397",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 398,
+		"Level2": "8000:398",
+		"Level3": "8001:398",
+		"Level4": "8002:398",
+		"Level5": "8003:398",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 2,
+		"Level1": 399,
+		"Level2": "8000:399",
+		"Level3": "8001:399",
+		"Level4": "8002:399",
+		"Level5": "8003:399",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 400,
+		"Level2": "8000:400",
+		"Level3": "8001:400",
+		"Level4": "8002:400",
+		"Level5": "8003:400",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 401,
+		"Level2": "8000:401",
+		"Level3": "8001:401",
+		"Level4": "8002:401",
+		"Level5": "8003:401",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 402,
+		"Level2": "8000:402",
+		"Level3": "8001:402",
+		"Level4": "8002:402",
+		"Level5": "8003:402",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 403,
+		"Level2": "8000:403",
+		"Level3": "8001:403",
+		"Level4": "8002:403",
+		"Level5": "8003:403",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 404,
+		"Level2": "8000:404",
+		"Level3": "8001:404",
+		"Level4": "8002:404",
+		"Level5": "8003:404",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 405,
+		"Level2": "8000:405",
+		"Level3": "8001:405",
+		"Level4": "8002:405",
+		"Level5": "8003:405",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 406,
+		"Level2": "8000:406",
+		"Level3": "8001:406",
+		"Level4": "8002:406",
+		"Level5": "8003:406",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 407,
+		"Level2": "8000:407",
+		"Level3": "8001:407",
+		"Level4": "8002:407",
+		"Level5": "8003:407",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 408,
+		"Level2": "8000:408",
+		"Level3": "8001:408",
+		"Level4": "8002:408",
+		"Level5": "8003:408",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 409,
+		"Level2": "8000:409",
+		"Level3": "8001:409",
+		"Level4": "8002:409",
+		"Level5": "8003:409",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 410,
+		"Level2": "8000:410",
+		"Level3": "8001:410",
+		"Level4": "8002:410",
+		"Level5": "8003:410",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 411,
+		"Level2": "8000:411",
+		"Level3": "8001:411",
+		"Level4": "8002:411",
+		"Level5": "8003:411",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 412,
+		"Level2": "8000:412",
+		"Level3": "8001:412",
+		"Level4": "8002:412",
+		"Level5": "8003:412",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 413,
+		"Level2": "8000:413",
+		"Level3": "8001:413",
+		"Level4": "8002:413",
+		"Level5": "8003:413",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 414,
+		"Level2": "8000:414",
+		"Level3": "8001:414",
+		"Level4": "8002:414",
+		"Level5": "8003:414",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 415,
+		"Level2": "8000:415",
+		"Level3": "8001:415",
+		"Level4": "8002:415",
+		"Level5": "8003:415",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 416,
+		"Level2": "8000:416",
+		"Level3": "8001:416",
+		"Level4": "8002:416",
+		"Level5": "8003:416",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 417,
+		"Level2": "8000:417",
+		"Level3": "8001:417",
+		"Level4": "8002:417",
+		"Level5": "8003:417",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 418,
+		"Level2": "8000:418",
+		"Level3": "8001:418",
+		"Level4": "8002:418",
+		"Level5": "8003:418",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 419,
+		"Level2": "8000:419",
+		"Level3": "8001:419",
+		"Level4": "8002:419",
+		"Level5": "8003:419",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 3,
+		"Level1": 420,
+		"Level2": "8000:420",
+		"Level3": "8001:420",
+		"Level4": "8002:420",
+		"Level5": "8003:420",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 421,
+		"Level2": "8000:421",
+		"Level3": "8001:421",
+		"Level4": "8002:421",
+		"Level5": "8003:421",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 422,
+		"Level2": "8000:422",
+		"Level3": "8001:422",
+		"Level4": "8002:422",
+		"Level5": "8003:422",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 423,
+		"Level2": "8000:423",
+		"Level3": "8001:423",
+		"Level4": "8002:423",
+		"Level5": "8003:423",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 424,
+		"Level2": "8000:424",
+		"Level3": "8001:424",
+		"Level4": "8002:424",
+		"Level5": "8003:424",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 425,
+		"Level2": "8000:425",
+		"Level3": "8001:425",
+		"Level4": "8002:425",
+		"Level5": "8003:425",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 426,
+		"Level2": "8000:426",
+		"Level3": "8001:426",
+		"Level4": "8002:426",
+		"Level5": "8003:426",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 427,
+		"Level2": "8000:427",
+		"Level3": "8001:427",
+		"Level4": "8002:427",
+		"Level5": "8003:427",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 428,
+		"Level2": "8000:428",
+		"Level3": "8001:428",
+		"Level4": "8002:428",
+		"Level5": "8003:428",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 429,
+		"Level2": "8000:429",
+		"Level3": "8001:429",
+		"Level4": "8002:429",
+		"Level5": "8003:429",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 430,
+		"Level2": "8000:430",
+		"Level3": "8001:430",
+		"Level4": "8002:430",
+		"Level5": "8003:430",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 431,
+		"Level2": "8000:431",
+		"Level3": "8001:431",
+		"Level4": "8002:431",
+		"Level5": "8003:431",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 432,
+		"Level2": "8000:432",
+		"Level3": "8001:432",
+		"Level4": "8002:432",
+		"Level5": "8003:432",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 433,
+		"Level2": "8000:433",
+		"Level3": "8001:433",
+		"Level4": "8002:433",
+		"Level5": "8003:433",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 434,
+		"Level2": "8000:434",
+		"Level3": "8001:434",
+		"Level4": "8002:434",
+		"Level5": "8003:434",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 435,
+		"Level2": "8000:435",
+		"Level3": "8001:435",
+		"Level4": "8002:435",
+		"Level5": "8003:435",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 436,
+		"Level2": "8000:436",
+		"Level3": "8001:436",
+		"Level4": "8002:436",
+		"Level5": "8003:436",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 437,
+		"Level2": "8000:437",
+		"Level3": "8001:437",
+		"Level4": "8002:437",
+		"Level5": "8003:437",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 438,
+		"Level2": "8000:438",
+		"Level3": "8001:438",
+		"Level4": "8002:438",
+		"Level5": "8003:438",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 439,
+		"Level2": "8000:439",
+		"Level3": "8001:439",
+		"Level4": "8002:439",
+		"Level5": "8003:439",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 440,
+		"Level2": "8000:440",
+		"Level3": "8001:440",
+		"Level4": "8002:440",
+		"Level5": "8003:440",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 4,
+		"Level1": 441,
+		"Level2": "8000:441",
+		"Level3": "8001:441",
+		"Level4": "8002:441",
+		"Level5": "8003:441",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 442,
+		"Level2": "8000:442",
+		"Level3": "8001:442",
+		"Level4": "8002:442",
+		"Level5": "8003:442",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 443,
+		"Level2": "8000:443",
+		"Level3": "8001:443",
+		"Level4": "8002:443",
+		"Level5": "8003:443",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 444,
+		"Level2": "8000:444",
+		"Level3": "8001:444",
+		"Level4": "8002:444",
+		"Level5": "8003:444",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 445,
+		"Level2": "8000:445",
+		"Level3": "8001:445",
+		"Level4": "8002:445",
+		"Level5": "8003:445",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 446,
+		"Level2": "8000:446",
+		"Level3": "8001:446",
+		"Level4": "8002:446",
+		"Level5": "8003:446",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 447,
+		"Level2": "8000:447",
+		"Level3": "8001:447",
+		"Level4": "8002:447",
+		"Level5": "8003:447",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 448,
+		"Level2": "8000:448",
+		"Level3": "8001:448",
+		"Level4": "8002:448",
+		"Level5": "8003:448",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 449,
+		"Level2": "8000:449",
+		"Level3": "8001:449",
+		"Level4": "8002:449",
+		"Level5": "8003:449",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 450,
+		"Level2": "8000:450",
+		"Level3": "8001:450",
+		"Level4": "8002:450",
+		"Level5": "8003:450",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 451,
+		"Level2": "8000:451",
+		"Level3": "8001:451",
+		"Level4": "8002:451",
+		"Level5": "8003:451",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 452,
+		"Level2": "8000:452",
+		"Level3": "8001:452",
+		"Level4": "8002:452",
+		"Level5": "8003:452",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 453,
+		"Level2": "8000:453",
+		"Level3": "8001:453",
+		"Level4": "8002:453",
+		"Level5": "8003:453",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 454,
+		"Level2": "8000:454",
+		"Level3": "8001:454",
+		"Level4": "8002:454",
+		"Level5": "8003:454",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 455,
+		"Level2": "8000:455",
+		"Level3": "8001:455",
+		"Level4": "8002:455",
+		"Level5": "8003:455",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 456,
+		"Level2": "8000:456",
+		"Level3": "8001:456",
+		"Level4": "8002:456",
+		"Level5": "8003:456",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 457,
+		"Level2": "8000:457",
+		"Level3": "8001:457",
+		"Level4": "8002:457",
+		"Level5": "8003:457",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 458,
+		"Level2": "8000:458",
+		"Level3": "8001:458",
+		"Level4": "8002:458",
+		"Level5": "8003:458",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 459,
+		"Level2": "8000:459",
+		"Level3": "8001:459",
+		"Level4": "8002:459",
+		"Level5": "8003:459",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 460,
+		"Level2": "8000:460",
+		"Level3": "8001:460",
+		"Level4": "8002:460",
+		"Level5": "8003:460",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 461,
+		"Level2": "8000:461",
+		"Level3": "8001:461",
+		"Level4": "8002:461",
+		"Level5": "8003:461",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 5,
+		"Level1": 462,
+		"Level2": "8000:462",
+		"Level3": "8001:462",
+		"Level4": "8002:462",
+		"Level5": "8003:462",
+		"Star": 21
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 463,
+		"Level2": "8000:463",
+		"Level3": "8001:463",
+		"Level4": "8002:463",
+		"Level5": "8003:463",
+		"Star": 1
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 464,
+		"Level2": "8000:464",
+		"Level3": "8001:464",
+		"Level4": "8002:464",
+		"Level5": "8003:464",
+		"Star": 2
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 465,
+		"Level2": "8000:465",
+		"Level3": "8001:465",
+		"Level4": "8002:465",
+		"Level5": "8003:465",
+		"Star": 3
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 466,
+		"Level2": "8000:466",
+		"Level3": "8001:466",
+		"Level4": "8002:466",
+		"Level5": "8003:466",
+		"Star": 4
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 467,
+		"Level2": "8000:467",
+		"Level3": "8001:467",
+		"Level4": "8002:467",
+		"Level5": "8003:467",
+		"Star": 5
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 468,
+		"Level2": "8000:468",
+		"Level3": "8001:468",
+		"Level4": "8002:468",
+		"Level5": "8003:468",
+		"Star": 6
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 469,
+		"Level2": "8000:469",
+		"Level3": "8001:469",
+		"Level4": "8002:469",
+		"Level5": "8003:469",
+		"Star": 7
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 470,
+		"Level2": "8000:470",
+		"Level3": "8001:470",
+		"Level4": "8002:470",
+		"Level5": "8003:470",
+		"Star": 8
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 471,
+		"Level2": "8000:471",
+		"Level3": "8001:471",
+		"Level4": "8002:471",
+		"Level5": "8003:471",
+		"Star": 9
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 472,
+		"Level2": "8000:472",
+		"Level3": "8001:472",
+		"Level4": "8002:472",
+		"Level5": "8003:472",
+		"Star": 10
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 473,
+		"Level2": "8000:473",
+		"Level3": "8001:473",
+		"Level4": "8002:473",
+		"Level5": "8003:473",
+		"Star": 11
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 474,
+		"Level2": "8000:474",
+		"Level3": "8001:474",
+		"Level4": "8002:474",
+		"Level5": "8003:474",
+		"Star": 12
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 475,
+		"Level2": "8000:475",
+		"Level3": "8001:475",
+		"Level4": "8002:475",
+		"Level5": "8003:475",
+		"Star": 13
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 476,
+		"Level2": "8000:476",
+		"Level3": "8001:476",
+		"Level4": "8002:476",
+		"Level5": "8003:476",
+		"Star": 14
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 477,
+		"Level2": "8000:477",
+		"Level3": "8001:477",
+		"Level4": "8002:477",
+		"Level5": "8003:477",
+		"Star": 15
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 478,
+		"Level2": "8000:478",
+		"Level3": "8001:478",
+		"Level4": "8002:478",
+		"Level5": "8003:478",
+		"Star": 16
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 479,
+		"Level2": "8000:479",
+		"Level3": "8001:479",
+		"Level4": "8002:479",
+		"Level5": "8003:479",
+		"Star": 17
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 480,
+		"Level2": "8000:480",
+		"Level3": "8001:480",
+		"Level4": "8002:480",
+		"Level5": "8003:480",
+		"Star": 18
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 481,
+		"Level2": "8000:481",
+		"Level3": "8001:481",
+		"Level4": "8002:481",
+		"Level5": "8003:481",
+		"Star": 19
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 482,
+		"Level2": "8000:482",
+		"Level3": "8001:482",
+		"Level4": "8002:482",
+		"Level5": "8003:482",
+		"Star": 20
+	},
+	{
+		"GCGrade": 4,
+		"GCLevel": 6,
+		"Level1": 483,
+		"Level2": "8000:483",
+		"Level3": "8001:483",
+		"Level4": "8002:483",
+		"Level5": "8003:483",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 484,
+		"Level2": "8000:484",
+		"Level3": "8001:484",
+		"Level4": "8002:484",
+		"Level5": "8003:484",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 485,
+		"Level2": "8000:485",
+		"Level3": "8001:485",
+		"Level4": "8002:485",
+		"Level5": "8003:485",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 486,
+		"Level2": "8000:486",
+		"Level3": "8001:486",
+		"Level4": "8002:486",
+		"Level5": "8003:486",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 487,
+		"Level2": "8000:487",
+		"Level3": "8001:487",
+		"Level4": "8002:487",
+		"Level5": "8003:487",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 488,
+		"Level2": "8000:488",
+		"Level3": "8001:488",
+		"Level4": "8002:488",
+		"Level5": "8003:488",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 489,
+		"Level2": "8000:489",
+		"Level3": "8001:489",
+		"Level4": "8002:489",
+		"Level5": "8003:489",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 490,
+		"Level2": "8000:490",
+		"Level3": "8001:490",
+		"Level4": "8002:490",
+		"Level5": "8003:490",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 491,
+		"Level2": "8000:491",
+		"Level3": "8001:491",
+		"Level4": "8002:491",
+		"Level5": "8003:491",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 492,
+		"Level2": "8000:492",
+		"Level3": "8001:492",
+		"Level4": "8002:492",
+		"Level5": "8003:492",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 493,
+		"Level2": "8000:493",
+		"Level3": "8001:493",
+		"Level4": "8002:493",
+		"Level5": "8003:493",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 494,
+		"Level2": "8000:494",
+		"Level3": "8001:494",
+		"Level4": "8002:494",
+		"Level5": "8003:494",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 495,
+		"Level2": "8000:495",
+		"Level3": "8001:495",
+		"Level4": "8002:495",
+		"Level5": "8003:495",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 496,
+		"Level2": "8000:496",
+		"Level3": "8001:496",
+		"Level4": "8002:496",
+		"Level5": "8003:496",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 497,
+		"Level2": "8000:497",
+		"Level3": "8001:497",
+		"Level4": "8002:497",
+		"Level5": "8003:497",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 498,
+		"Level2": "8000:498",
+		"Level3": "8001:498",
+		"Level4": "8002:498",
+		"Level5": "8003:498",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 499,
+		"Level2": "8000:499",
+		"Level3": "8001:499",
+		"Level4": "8002:499",
+		"Level5": "8003:499",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 500,
+		"Level2": "8000:500",
+		"Level3": "8001:500",
+		"Level4": "8002:500",
+		"Level5": "8003:500",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 501,
+		"Level2": "8000:501",
+		"Level3": "8001:501",
+		"Level4": "8002:501",
+		"Level5": "8003:501",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 502,
+		"Level2": "8000:502",
+		"Level3": "8001:502",
+		"Level4": "8002:502",
+		"Level5": "8003:502",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 503,
+		"Level2": "8000:503",
+		"Level3": "8001:503",
+		"Level4": "8002:503",
+		"Level5": "8003:503",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"Level1": 504,
+		"Level2": "8000:504",
+		"Level3": "8001:504",
+		"Level4": "8002:504",
+		"Level5": "8003:504",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 505,
+		"Level2": "8000:505",
+		"Level3": "8001:505",
+		"Level4": "8002:505",
+		"Level5": "8003:505",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 506,
+		"Level2": "8000:506",
+		"Level3": "8001:506",
+		"Level4": "8002:506",
+		"Level5": "8003:506",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 507,
+		"Level2": "8000:507",
+		"Level3": "8001:507",
+		"Level4": "8002:507",
+		"Level5": "8003:507",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 508,
+		"Level2": "8000:508",
+		"Level3": "8001:508",
+		"Level4": "8002:508",
+		"Level5": "8003:508",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 509,
+		"Level2": "8000:509",
+		"Level3": "8001:509",
+		"Level4": "8002:509",
+		"Level5": "8003:509",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 510,
+		"Level2": "8000:510",
+		"Level3": "8001:510",
+		"Level4": "8002:510",
+		"Level5": "8003:510",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 511,
+		"Level2": "8000:511",
+		"Level3": "8001:511",
+		"Level4": "8002:511",
+		"Level5": "8003:511",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 512,
+		"Level2": "8000:512",
+		"Level3": "8001:512",
+		"Level4": "8002:512",
+		"Level5": "8003:512",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 513,
+		"Level2": "8000:513",
+		"Level3": "8001:513",
+		"Level4": "8002:513",
+		"Level5": "8003:513",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 514,
+		"Level2": "8000:514",
+		"Level3": "8001:514",
+		"Level4": "8002:514",
+		"Level5": "8003:514",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 515,
+		"Level2": "8000:515",
+		"Level3": "8001:515",
+		"Level4": "8002:515",
+		"Level5": "8003:515",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 516,
+		"Level2": "8000:516",
+		"Level3": "8001:516",
+		"Level4": "8002:516",
+		"Level5": "8003:516",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 517,
+		"Level2": "8000:517",
+		"Level3": "8001:517",
+		"Level4": "8002:517",
+		"Level5": "8003:517",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 518,
+		"Level2": "8000:518",
+		"Level3": "8001:518",
+		"Level4": "8002:518",
+		"Level5": "8003:518",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 519,
+		"Level2": "8000:519",
+		"Level3": "8001:519",
+		"Level4": "8002:519",
+		"Level5": "8003:519",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 520,
+		"Level2": "8000:520",
+		"Level3": "8001:520",
+		"Level4": "8002:520",
+		"Level5": "8003:520",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 521,
+		"Level2": "8000:521",
+		"Level3": "8001:521",
+		"Level4": "8002:521",
+		"Level5": "8003:521",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 522,
+		"Level2": "8000:522",
+		"Level3": "8001:522",
+		"Level4": "8002:522",
+		"Level5": "8003:522",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 523,
+		"Level2": "8000:523",
+		"Level3": "8001:523",
+		"Level4": "8002:523",
+		"Level5": "8003:523",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 524,
+		"Level2": "8000:524",
+		"Level3": "8001:524",
+		"Level4": "8002:524",
+		"Level5": "8003:524",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 1,
+		"Level1": 525,
+		"Level2": "8000:525",
+		"Level3": "8001:525",
+		"Level4": "8002:525",
+		"Level5": "8003:525",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 526,
+		"Level2": "8000:526",
+		"Level3": "8001:526",
+		"Level4": "8002:526",
+		"Level5": "8003:526",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 527,
+		"Level2": "8000:527",
+		"Level3": "8001:527",
+		"Level4": "8002:527",
+		"Level5": "8003:527",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 528,
+		"Level2": "8000:528",
+		"Level3": "8001:528",
+		"Level4": "8002:528",
+		"Level5": "8003:528",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 529,
+		"Level2": "8000:529",
+		"Level3": "8001:529",
+		"Level4": "8002:529",
+		"Level5": "8003:529",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 530,
+		"Level2": "8000:530",
+		"Level3": "8001:530",
+		"Level4": "8002:530",
+		"Level5": "8003:530",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 531,
+		"Level2": "8000:531",
+		"Level3": "8001:531",
+		"Level4": "8002:531",
+		"Level5": "8003:531",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 532,
+		"Level2": "8000:532",
+		"Level3": "8001:532",
+		"Level4": "8002:532",
+		"Level5": "8003:532",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 533,
+		"Level2": "8000:533",
+		"Level3": "8001:533",
+		"Level4": "8002:533",
+		"Level5": "8003:533",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 534,
+		"Level2": "8000:534",
+		"Level3": "8001:534",
+		"Level4": "8002:534",
+		"Level5": "8003:534",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 535,
+		"Level2": "8000:535",
+		"Level3": "8001:535",
+		"Level4": "8002:535",
+		"Level5": "8003:535",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 536,
+		"Level2": "8000:536",
+		"Level3": "8001:536",
+		"Level4": "8002:536",
+		"Level5": "8003:536",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 537,
+		"Level2": "8000:537",
+		"Level3": "8001:537",
+		"Level4": "8002:537",
+		"Level5": "8003:537",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 538,
+		"Level2": "8000:538",
+		"Level3": "8001:538",
+		"Level4": "8002:538",
+		"Level5": "8003:538",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 539,
+		"Level2": "8000:539",
+		"Level3": "8001:539",
+		"Level4": "8002:539",
+		"Level5": "8003:539",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 540,
+		"Level2": "8000:540",
+		"Level3": "8001:540",
+		"Level4": "8002:540",
+		"Level5": "8003:540",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 541,
+		"Level2": "8000:541",
+		"Level3": "8001:541",
+		"Level4": "8002:541",
+		"Level5": "8003:541",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 542,
+		"Level2": "8000:542",
+		"Level3": "8001:542",
+		"Level4": "8002:542",
+		"Level5": "8003:542",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 543,
+		"Level2": "8000:543",
+		"Level3": "8001:543",
+		"Level4": "8002:543",
+		"Level5": "8003:543",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 544,
+		"Level2": "8000:544",
+		"Level3": "8001:544",
+		"Level4": "8002:544",
+		"Level5": "8003:544",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 545,
+		"Level2": "8000:545",
+		"Level3": "8001:545",
+		"Level4": "8002:545",
+		"Level5": "8003:545",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 2,
+		"Level1": 546,
+		"Level2": "8000:546",
+		"Level3": "8001:546",
+		"Level4": "8002:546",
+		"Level5": "8003:546",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 547,
+		"Level2": "8000:547",
+		"Level3": "8001:547",
+		"Level4": "8002:547",
+		"Level5": "8003:547",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 548,
+		"Level2": "8000:548",
+		"Level3": "8001:548",
+		"Level4": "8002:548",
+		"Level5": "8003:548",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 549,
+		"Level2": "8000:549",
+		"Level3": "8001:549",
+		"Level4": "8002:549",
+		"Level5": "8003:549",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 550,
+		"Level2": "8000:550",
+		"Level3": "8001:550",
+		"Level4": "8002:550",
+		"Level5": "8003:550",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 551,
+		"Level2": "8000:551",
+		"Level3": "8001:551",
+		"Level4": "8002:551",
+		"Level5": "8003:551",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 552,
+		"Level2": "8000:552",
+		"Level3": "8001:552",
+		"Level4": "8002:552",
+		"Level5": "8003:552",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 553,
+		"Level2": "8000:553",
+		"Level3": "8001:553",
+		"Level4": "8002:553",
+		"Level5": "8003:553",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 554,
+		"Level2": "8000:554",
+		"Level3": "8001:554",
+		"Level4": "8002:554",
+		"Level5": "8003:554",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 555,
+		"Level2": "8000:555",
+		"Level3": "8001:555",
+		"Level4": "8002:555",
+		"Level5": "8003:555",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 556,
+		"Level2": "8000:556",
+		"Level3": "8001:556",
+		"Level4": "8002:556",
+		"Level5": "8003:556",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 557,
+		"Level2": "8000:557",
+		"Level3": "8001:557",
+		"Level4": "8002:557",
+		"Level5": "8003:557",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 558,
+		"Level2": "8000:558",
+		"Level3": "8001:558",
+		"Level4": "8002:558",
+		"Level5": "8003:558",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 559,
+		"Level2": "8000:559",
+		"Level3": "8001:559",
+		"Level4": "8002:559",
+		"Level5": "8003:559",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 560,
+		"Level2": "8000:560",
+		"Level3": "8001:560",
+		"Level4": "8002:560",
+		"Level5": "8003:560",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 561,
+		"Level2": "8000:561",
+		"Level3": "8001:561",
+		"Level4": "8002:561",
+		"Level5": "8003:561",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 562,
+		"Level2": "8000:562",
+		"Level3": "8001:562",
+		"Level4": "8002:562",
+		"Level5": "8003:562",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 563,
+		"Level2": "8000:563",
+		"Level3": "8001:563",
+		"Level4": "8002:563",
+		"Level5": "8003:563",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 564,
+		"Level2": "8000:564",
+		"Level3": "8001:564",
+		"Level4": "8002:564",
+		"Level5": "8003:564",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 565,
+		"Level2": "8000:565",
+		"Level3": "8001:565",
+		"Level4": "8002:565",
+		"Level5": "8003:565",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 566,
+		"Level2": "8000:566",
+		"Level3": "8001:566",
+		"Level4": "8002:566",
+		"Level5": "8003:566",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 3,
+		"Level1": 567,
+		"Level2": "8000:567",
+		"Level3": "8001:567",
+		"Level4": "8002:567",
+		"Level5": "8003:567",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 568,
+		"Level2": "8000:568",
+		"Level3": "8001:568",
+		"Level4": "8002:568",
+		"Level5": "8003:568",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 569,
+		"Level2": "8000:569",
+		"Level3": "8001:569",
+		"Level4": "8002:569",
+		"Level5": "8003:569",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 570,
+		"Level2": "8000:570",
+		"Level3": "8001:570",
+		"Level4": "8002:570",
+		"Level5": "8003:570",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 571,
+		"Level2": "8000:571",
+		"Level3": "8001:571",
+		"Level4": "8002:571",
+		"Level5": "8003:571",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 572,
+		"Level2": "8000:572",
+		"Level3": "8001:572",
+		"Level4": "8002:572",
+		"Level5": "8003:572",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 573,
+		"Level2": "8000:573",
+		"Level3": "8001:573",
+		"Level4": "8002:573",
+		"Level5": "8003:573",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 574,
+		"Level2": "8000:574",
+		"Level3": "8001:574",
+		"Level4": "8002:574",
+		"Level5": "8003:574",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 575,
+		"Level2": "8000:575",
+		"Level3": "8001:575",
+		"Level4": "8002:575",
+		"Level5": "8003:575",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 576,
+		"Level2": "8000:576",
+		"Level3": "8001:576",
+		"Level4": "8002:576",
+		"Level5": "8003:576",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 577,
+		"Level2": "8000:577",
+		"Level3": "8001:577",
+		"Level4": "8002:577",
+		"Level5": "8003:577",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 578,
+		"Level2": "8000:578",
+		"Level3": "8001:578",
+		"Level4": "8002:578",
+		"Level5": "8003:578",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 579,
+		"Level2": "8000:579",
+		"Level3": "8001:579",
+		"Level4": "8002:579",
+		"Level5": "8003:579",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 580,
+		"Level2": "8000:580",
+		"Level3": "8001:580",
+		"Level4": "8002:580",
+		"Level5": "8003:580",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 581,
+		"Level2": "8000:581",
+		"Level3": "8001:581",
+		"Level4": "8002:581",
+		"Level5": "8003:581",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 582,
+		"Level2": "8000:582",
+		"Level3": "8001:582",
+		"Level4": "8002:582",
+		"Level5": "8003:582",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 583,
+		"Level2": "8000:583",
+		"Level3": "8001:583",
+		"Level4": "8002:583",
+		"Level5": "8003:583",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 584,
+		"Level2": "8000:584",
+		"Level3": "8001:584",
+		"Level4": "8002:584",
+		"Level5": "8003:584",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 585,
+		"Level2": "8000:585",
+		"Level3": "8001:585",
+		"Level4": "8002:585",
+		"Level5": "8003:585",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 586,
+		"Level2": "8000:586",
+		"Level3": "8001:586",
+		"Level4": "8002:586",
+		"Level5": "8003:586",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 587,
+		"Level2": "8000:587",
+		"Level3": "8001:587",
+		"Level4": "8002:587",
+		"Level5": "8003:587",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 4,
+		"Level1": 588,
+		"Level2": "8000:588",
+		"Level3": "8001:588",
+		"Level4": "8002:588",
+		"Level5": "8003:588",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 589,
+		"Level2": "8000:589",
+		"Level3": "8001:589",
+		"Level4": "8002:589",
+		"Level5": "8003:589",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 590,
+		"Level2": "8000:590",
+		"Level3": "8001:590",
+		"Level4": "8002:590",
+		"Level5": "8003:590",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 591,
+		"Level2": "8000:591",
+		"Level3": "8001:591",
+		"Level4": "8002:591",
+		"Level5": "8003:591",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 592,
+		"Level2": "8000:592",
+		"Level3": "8001:592",
+		"Level4": "8002:592",
+		"Level5": "8003:592",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 593,
+		"Level2": "8000:593",
+		"Level3": "8001:593",
+		"Level4": "8002:593",
+		"Level5": "8003:593",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 594,
+		"Level2": "8000:594",
+		"Level3": "8001:594",
+		"Level4": "8002:594",
+		"Level5": "8003:594",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 595,
+		"Level2": "8000:595",
+		"Level3": "8001:595",
+		"Level4": "8002:595",
+		"Level5": "8003:595",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 596,
+		"Level2": "8000:596",
+		"Level3": "8001:596",
+		"Level4": "8002:596",
+		"Level5": "8003:596",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 597,
+		"Level2": "8000:597",
+		"Level3": "8001:597",
+		"Level4": "8002:597",
+		"Level5": "8003:597",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 598,
+		"Level2": "8000:598",
+		"Level3": "8001:598",
+		"Level4": "8002:598",
+		"Level5": "8003:598",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 599,
+		"Level2": "8000:599",
+		"Level3": "8001:599",
+		"Level4": "8002:599",
+		"Level5": "8003:599",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 600,
+		"Level2": "8000:600",
+		"Level3": "8001:600",
+		"Level4": "8002:600",
+		"Level5": "8003:600",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 601,
+		"Level2": "8000:601",
+		"Level3": "8001:601",
+		"Level4": "8002:601",
+		"Level5": "8003:601",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 602,
+		"Level2": "8000:602",
+		"Level3": "8001:602",
+		"Level4": "8002:602",
+		"Level5": "8003:602",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 603,
+		"Level2": "8000:603",
+		"Level3": "8001:603",
+		"Level4": "8002:603",
+		"Level5": "8003:603",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 604,
+		"Level2": "8000:604",
+		"Level3": "8001:604",
+		"Level4": "8002:604",
+		"Level5": "8003:604",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 605,
+		"Level2": "8000:605",
+		"Level3": "8001:605",
+		"Level4": "8002:605",
+		"Level5": "8003:605",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 606,
+		"Level2": "8000:606",
+		"Level3": "8001:606",
+		"Level4": "8002:606",
+		"Level5": "8003:606",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 607,
+		"Level2": "8000:607",
+		"Level3": "8001:607",
+		"Level4": "8002:607",
+		"Level5": "8003:607",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 608,
+		"Level2": "8000:608",
+		"Level3": "8001:608",
+		"Level4": "8002:608",
+		"Level5": "8003:608",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 5,
+		"Level1": 609,
+		"Level2": "8000:609",
+		"Level3": "8001:609",
+		"Level4": "8002:609",
+		"Level5": "8003:609",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 610,
+		"Level2": "8000:610",
+		"Level3": "8001:610",
+		"Level4": "8002:610",
+		"Level5": "8003:610",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 611,
+		"Level2": "8000:611",
+		"Level3": "8001:611",
+		"Level4": "8002:611",
+		"Level5": "8003:611",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 612,
+		"Level2": "8000:612",
+		"Level3": "8001:612",
+		"Level4": "8002:612",
+		"Level5": "8003:612",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 613,
+		"Level2": "8000:613",
+		"Level3": "8001:613",
+		"Level4": "8002:613",
+		"Level5": "8003:613",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 614,
+		"Level2": "8000:614",
+		"Level3": "8001:614",
+		"Level4": "8002:614",
+		"Level5": "8003:614",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 615,
+		"Level2": "8000:615",
+		"Level3": "8001:615",
+		"Level4": "8002:615",
+		"Level5": "8003:615",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 616,
+		"Level2": "8000:616",
+		"Level3": "8001:616",
+		"Level4": "8002:616",
+		"Level5": "8003:616",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 617,
+		"Level2": "8000:617",
+		"Level3": "8001:617",
+		"Level4": "8002:617",
+		"Level5": "8003:617",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 618,
+		"Level2": "8000:618",
+		"Level3": "8001:618",
+		"Level4": "8002:618",
+		"Level5": "8003:618",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 619,
+		"Level2": "8000:619",
+		"Level3": "8001:619",
+		"Level4": "8002:619",
+		"Level5": "8003:619",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 620,
+		"Level2": "8000:620",
+		"Level3": "8001:620",
+		"Level4": "8002:620",
+		"Level5": "8003:620",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 621,
+		"Level2": "8000:621",
+		"Level3": "8001:621",
+		"Level4": "8002:621",
+		"Level5": "8003:621",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 622,
+		"Level2": "8000:622",
+		"Level3": "8001:622",
+		"Level4": "8002:622",
+		"Level5": "8003:622",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 623,
+		"Level2": "8000:623",
+		"Level3": "8001:623",
+		"Level4": "8002:623",
+		"Level5": "8003:623",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 624,
+		"Level2": "8000:624",
+		"Level3": "8001:624",
+		"Level4": "8002:624",
+		"Level5": "8003:624",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 625,
+		"Level2": "8000:625",
+		"Level3": "8001:625",
+		"Level4": "8002:625",
+		"Level5": "8003:625",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 626,
+		"Level2": "8000:626",
+		"Level3": "8001:626",
+		"Level4": "8002:626",
+		"Level5": "8003:626",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 627,
+		"Level2": "8000:627",
+		"Level3": "8001:627",
+		"Level4": "8002:627",
+		"Level5": "8003:627",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 628,
+		"Level2": "8000:628",
+		"Level3": "8001:628",
+		"Level4": "8002:628",
+		"Level5": "8003:628",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 629,
+		"Level2": "8000:629",
+		"Level3": "8001:629",
+		"Level4": "8002:629",
+		"Level5": "8003:629",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 6,
+		"Level1": 630,
+		"Level2": "8000:630",
+		"Level3": "8001:630",
+		"Level4": "8002:630",
+		"Level5": "8003:630",
+		"Star": 21
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 631,
+		"Level2": "8000:631",
+		"Level3": "8001:631",
+		"Level4": "8002:631",
+		"Level5": "8003:631",
+		"Star": 1
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 632,
+		"Level2": "8000:632",
+		"Level3": "8001:632",
+		"Level4": "8002:632",
+		"Level5": "8003:632",
+		"Star": 2
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 633,
+		"Level2": "8000:633",
+		"Level3": "8001:633",
+		"Level4": "8002:633",
+		"Level5": "8003:633",
+		"Star": 3
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 634,
+		"Level2": "8000:634",
+		"Level3": "8001:634",
+		"Level4": "8002:634",
+		"Level5": "8003:634",
+		"Star": 4
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 635,
+		"Level2": "8000:635",
+		"Level3": "8001:635",
+		"Level4": "8002:635",
+		"Level5": "8003:635",
+		"Star": 5
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 636,
+		"Level2": "8000:636",
+		"Level3": "8001:636",
+		"Level4": "8002:636",
+		"Level5": "8003:636",
+		"Star": 6
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 637,
+		"Level2": "8000:637",
+		"Level3": "8001:637",
+		"Level4": "8002:637",
+		"Level5": "8003:637",
+		"Star": 7
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 638,
+		"Level2": "8000:638",
+		"Level3": "8001:638",
+		"Level4": "8002:638",
+		"Level5": "8003:638",
+		"Star": 8
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 639,
+		"Level2": "8000:639",
+		"Level3": "8001:639",
+		"Level4": "8002:639",
+		"Level5": "8003:639",
+		"Star": 9
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 640,
+		"Level2": "8000:640",
+		"Level3": "8001:640",
+		"Level4": "8002:640",
+		"Level5": "8003:640",
+		"Star": 10
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 641,
+		"Level2": "8000:641",
+		"Level3": "8001:641",
+		"Level4": "8002:641",
+		"Level5": "8003:641",
+		"Star": 11
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 642,
+		"Level2": "8000:642",
+		"Level3": "8001:642",
+		"Level4": "8002:642",
+		"Level5": "8003:642",
+		"Star": 12
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 643,
+		"Level2": "8000:643",
+		"Level3": "8001:643",
+		"Level4": "8002:643",
+		"Level5": "8003:643",
+		"Star": 13
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 644,
+		"Level2": "8000:644",
+		"Level3": "8001:644",
+		"Level4": "8002:644",
+		"Level5": "8003:644",
+		"Star": 14
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 645,
+		"Level2": "8000:645",
+		"Level3": "8001:645",
+		"Level4": "8002:645",
+		"Level5": "8003:645",
+		"Star": 15
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 646,
+		"Level2": "8000:646",
+		"Level3": "8001:646",
+		"Level4": "8002:646",
+		"Level5": "8003:646",
+		"Star": 16
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 647,
+		"Level2": "8000:647",
+		"Level3": "8001:647",
+		"Level4": "8002:647",
+		"Level5": "8003:647",
+		"Star": 17
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 648,
+		"Level2": "8000:648",
+		"Level3": "8001:648",
+		"Level4": "8002:648",
+		"Level5": "8003:648",
+		"Star": 18
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 649,
+		"Level2": "8000:649",
+		"Level3": "8001:649",
+		"Level4": "8002:649",
+		"Level5": "8003:649",
+		"Star": 19
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 650,
+		"Level2": "8000:650",
+		"Level3": "8001:650",
+		"Level4": "8002:650",
+		"Level5": "8003:650",
+		"Star": 20
+	},
+	{
+		"GCGrade": 5,
+		"GCLevel": 7,
+		"Level1": 651,
+		"Level2": "8000:651",
+		"Level3": "8001:651",
+		"Level4": "8002:651",
+		"Level5": "8003:651",
+		"Star": 21
+	}
+]

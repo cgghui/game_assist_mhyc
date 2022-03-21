@@ -1,0 +1,46 @@
+[
+	{
+		"AttrId": 2900501,
+		"BgIconId": "img_xy_cheng",
+		"Class": 1,
+		"CostItemId": 5016001,
+		"LimitCount": 1200,
+		"Name": "金银花",
+		"NameStr": "font_jinyinhua",
+		"PicId": "5016001",
+		"Type": 1
+	},
+	{
+		"AttrId": 2900502,
+		"BgIconId": "img_xy_cheng",
+		"Class": 1,
+		"CostItemId": 5016002,
+		"LimitCount": 1200,
+		"Name": "天山雪莲",
+		"NameStr": "font_tianshanxuelian",
+		"PicId": "5016002",
+		"Type": 2
+	},
+	{
+		"AttrId": 2900503,
+		"BgIconId": "img_xy_cheng",
+		"Class": 1,
+		"CostItemId": 5016003,
+		"LimitCount": 1200,
+		"Name": "千年人参",
+		"NameStr": "font_qiannianrenshen",
+		"PicId": "5016003",
+		"Type": 3
+	},
+	{
+		"AttrId": 2900504,
+		"BgIconId": "img_xy_cheng",
+		"Class": 1,
+		"CostItemId": 5016004,
+		"LimitCount": 1200,
+		"Name": "万年灵芝",
+		"NameStr": "font_wannianlingzhi",
+		"PicId": "5016004",
+		"Type": 4
+	}
+]

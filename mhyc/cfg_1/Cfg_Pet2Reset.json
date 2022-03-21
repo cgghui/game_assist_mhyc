@@ -1,0 +1,22 @@
+[
+	{
+		"NeedItem": "2:1000",
+		"Rarity": 1
+	},
+	{
+		"NeedItem": "2:2000",
+		"Rarity": 2
+	},
+	{
+		"NeedItem": "2:5000",
+		"Rarity": 3
+	},
+	{
+		"NeedItem": "1:500",
+		"Rarity": 4
+	},
+	{
+		"NeedItem": "2010007:1",
+		"Rarity": 5
+	}
+]

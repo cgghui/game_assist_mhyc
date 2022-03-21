@@ -1,0 +1,50 @@
+[
+	{
+		"Act_Name": "宗主争夺",
+		"Func_Type": 11005,
+		"Id": 1,
+		"Prize_Name": "获胜宗主",
+		"Reward": "1:10000|2020302:1|2010007:1",
+		"Reward_Type": 1
+	},
+	{
+		"Act_Name": "宗主争夺",
+		"Func_Type": 11005,
+		"Id": 2,
+		"Prize_Name": "参与宗主",
+		"Reward": "1:300",
+		"Reward_Type": 2
+	},
+	{
+		"Act_Name": "家族领地战",
+		"Func_Type": 818,
+		"Id": 3,
+		"Prize_Name": "获胜家族",
+		"Reward": "1:1000|794:1|2252101:1",
+		"Reward_Type": 1
+	},
+	{
+		"Act_Name": "家族领地战",
+		"Func_Type": 818,
+		"Id": 4,
+		"Prize_Name": "参与家族",
+		"Reward": "1:300",
+		"Reward_Type": 2
+	},
+	{
+		"Act_Name": "仙宗城战",
+		"Func_Type": 14106,
+		"Id": 5,
+		"Prize_Name": "获胜仙宗",
+		"Reward": "1:1000|352:3|505:10",
+		"Reward_Type": 1
+	},
+	{
+		"Act_Name": "仙宗城战",
+		"Func_Type": 14106,
+		"Id": 6,
+		"Prize_Name": "参与仙宗",
+		"Reward": "1:300",
+		"Reward_Type": 2
+	}
+]

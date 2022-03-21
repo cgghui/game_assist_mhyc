@@ -1,0 +1,90 @@
+[
+	{
+		"Desc": "万妖压城，仙人指路",
+		"Id": 1,
+		"Max_Level": 100,
+		"Name": "仙人指路",
+		"Sect_level": 1,
+		"SkillBeginId": 601,
+		"SkillIcon": "630001",
+		"SkillIncId": 601,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "化刚为柔，消锋折锐",
+		"Id": 2,
+		"Max_Level": 100,
+		"Name": "仙风护体",
+		"Sect_level": 2,
+		"SkillBeginId": 602,
+		"SkillIcon": "630002",
+		"SkillIncId": 602,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "天之道，损有余而补不足",
+		"Id": 3,
+		"Max_Level": 100,
+		"Name": "精气汇聚",
+		"Sect_level": 3,
+		"SkillBeginId": 603,
+		"SkillIcon": "630003",
+		"SkillIncId": 603,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "醉仙望月步，无形胜有形",
+		"Id": 4,
+		"Max_Level": 100,
+		"Name": "无形仙体",
+		"Sect_level": 4,
+		"SkillBeginId": 604,
+		"SkillIcon": "630004",
+		"SkillIncId": 604,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "天罡战气，太极无极",
+		"Id": 5,
+		"Max_Level": 100,
+		"Name": "太极战意",
+		"Sect_level": 5,
+		"SkillBeginId": 605,
+		"SkillIcon": "630005",
+		"SkillIncId": 605,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "阴阳化形，变幻莫测",
+		"Id": 6,
+		"Max_Level": 100,
+		"Name": "两仪化形",
+		"Sect_level": 6,
+		"SkillBeginId": 606,
+		"SkillIcon": "630006",
+		"SkillIncId": 606,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "四象神引，气海澎湃",
+		"Id": 7,
+		"Max_Level": 100,
+		"Name": "四象真气",
+		"Sect_level": 7,
+		"SkillBeginId": 607,
+		"SkillIcon": "630007",
+		"SkillIncId": 607,
+		"Skill_Type": 1
+	},
+	{
+		"Desc": "八卦洞玄，化生万物",
+		"Id": 8,
+		"Max_Level": 100,
+		"Name": "八卦神功",
+		"Sect_level": 8,
+		"SkillBeginId": 608,
+		"SkillIcon": "630008",
+		"SkillIncId": 608,
+		"Skill_Type": 1
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"Decs": "坐骑",
+		"ForgePill": 2250301,
+		"ForgePillAdd": 10,
+		"MindPill": 2250302,
+		"SoulPill": 2250303,
+		"SoulPillAdd": 10,
+		"TongLingPill": 2250306,
+		"Type": 159
+	},
+	{
+		"Decs": "翅膀",
+		"ForgePill": 2250101,
+		"ForgePillAdd": 10,
+		"MindPill": 2250102,
+		"SoulPill": 2250103,
+		"SoulPillAdd": 10,
+		"Type": 158
+	},
+	{
+		"Decs": "神兵",
+		"ForgePill": 2250201,
+		"ForgePillAdd": 10,
+		"MindPill": 2250202,
+		"SoulPill": 2250203,
+		"SoulPillAdd": 10,
+		"Type": 157
+	},
+	{
+		"Decs": "法宝",
+		"ForgePill": 2250401,
+		"ForgePillAdd": 10,
+		"MindPill": 2250402,
+		"SoulPill": 2250403,
+		"SoulPillAdd": 10,
+		"Type": 156
+	},
+	{
+		"Decs": "战神",
+		"ForgePill": 2030201,
+		"ForgePillAdd": 10,
+		"MindPill": 2030202,
+		"SoulPillAdd": 10,
+		"Type": 11161
+	},
+	{
+		"Decs": "灵兽",
+		"ForgePill": 2030401,
+		"ForgePillAdd": 10,
+		"MindPill": 2030402,
+		"SoulPillAdd": 10,
+		"Type": 11162
+	},
+	{
+		"Decs": "神阶",
+		"ForgePill": 2250501,
+		"ForgePillAdd": 10,
+		"MindPill": 2250502,
+		"Type": 11163
+	},
+	{
+		"Decs": "仙阶",
+		"ForgePill": 2250601,
+		"ForgePillAdd": 10,
+		"MindPill": 2250602,
+		"Type": 27
+	},
+	{
+		"Decs": "法宝",
+		"ForgePill": 2250301,
+		"ForgePillAdd": 10,
+		"MindPill": 2250302,
+		"SoulPill": 2250303,
+		"SoulPillAdd": 10,
+		"Type": 155
+	},
+	{
+		"Decs": "兽灵",
+		"ForgePill": 2251101,
+		"ForgePillAdd": 10,
+		"MindPill": 2251102,
+		"SoulPill": 2251103,
+		"SoulPillAdd": 10,
+		"Type": 201
+	},
+	{
+		"Decs": "战神宝宝",
+		"ForgePill": 2251201,
+		"ForgePillAdd": 10,
+		"MindPill": 2251202,
+		"SoulPill": 2251203,
+		"SoulPillAdd": 10,
+		"Type": 11166
+	},
+	{
+		"Decs": "法器",
+		"ForgePill": 2251301,
+		"ForgePillAdd": 10,
+		"MindPill": 2251302,
+		"SoulPill": 2251303,
+		"SoulPillAdd": 10,
+		"Type": 210
+	},
+	{
+		"Decs": "兵卫",
+		"ForgePill": 2251401,
+		"ForgePillAdd": 10,
+		"MindPill": 2251402,
+		"SoulPill": 2251403,
+		"SoulPillAdd": 10,
+		"Type": 15021
+	}
+]

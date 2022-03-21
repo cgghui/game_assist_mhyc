@@ -1,0 +1,666 @@
+[
+	{
+		"HunShiItemID": 2200221,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 1
+	},
+	{
+		"AttrId": 662002001,
+		"HunShiItemID": 2200221,
+		"Level": 1,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 2
+	},
+	{
+		"AttrId": 662002002,
+		"HunShiItemID": 2200221,
+		"Level": 2,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 3
+	},
+	{
+		"AttrId": 662002003,
+		"HunShiItemID": 2200221,
+		"Level": 3,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 4
+	},
+	{
+		"AttrId": 662002004,
+		"HunShiItemID": 2200221,
+		"Level": 4,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 5
+	},
+	{
+		"AttrId": 662002005,
+		"HunShiItemID": 2200221,
+		"Level": 5,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 6
+	},
+	{
+		"AttrId": 662002006,
+		"HunShiItemID": 2200221,
+		"Level": 6,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 7
+	},
+	{
+		"AttrId": 662002007,
+		"HunShiItemID": 2200221,
+		"Level": 7,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 8
+	},
+	{
+		"AttrId": 662002008,
+		"HunShiItemID": 2200221,
+		"Level": 8,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 9
+	},
+	{
+		"AttrId": 662002009,
+		"HunShiItemID": 2200221,
+		"Level": 9,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 10
+	},
+	{
+		"AttrId": 662002010,
+		"HunShiItemID": 2200221,
+		"Level": 10,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 11
+	},
+	{
+		"AttrId": 662002011,
+		"HunShiItemID": 2200221,
+		"Level": 11,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 12
+	},
+	{
+		"AttrId": 662002012,
+		"HunShiItemID": 2200221,
+		"Level": 12,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 13
+	},
+	{
+		"AttrId": 662002013,
+		"HunShiItemID": 2200221,
+		"Level": 13,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 14
+	},
+	{
+		"AttrId": 662002014,
+		"HunShiItemID": 2200221,
+		"Level": 14,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 15
+	},
+	{
+		"AttrId": 662002015,
+		"HunShiItemID": 2200221,
+		"Level": 15,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 16
+	},
+	{
+		"AttrId": 662002016,
+		"HunShiItemID": 2200221,
+		"Level": 16,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 17
+	},
+	{
+		"AttrId": 662002017,
+		"HunShiItemID": 2200221,
+		"Level": 17,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 18
+	},
+	{
+		"AttrId": 662002018,
+		"HunShiItemID": 2200221,
+		"Level": 18,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 19
+	},
+	{
+		"AttrId": 662002019,
+		"HunShiItemID": 2200221,
+		"Level": 19,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": 20
+	},
+	{
+		"AttrId": 662002020,
+		"HunShiItemID": 2200221,
+		"Level": 20,
+		"MingHunID": 1,
+		"MingHunName": "凡魂",
+		"NeedHunShi": -1
+	},
+	{
+		"HunShiItemID": 2200222,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 1
+	},
+	{
+		"AttrId": 662002101,
+		"HunShiItemID": 2200222,
+		"Level": 1,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 2
+	},
+	{
+		"AttrId": 662002102,
+		"HunShiItemID": 2200222,
+		"Level": 2,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 3
+	},
+	{
+		"AttrId": 662002103,
+		"HunShiItemID": 2200222,
+		"Level": 3,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 4
+	},
+	{
+		"AttrId": 662002104,
+		"HunShiItemID": 2200222,
+		"Level": 4,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 5
+	},
+	{
+		"AttrId": 662002105,
+		"HunShiItemID": 2200222,
+		"Level": 5,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 6
+	},
+	{
+		"AttrId": 662002106,
+		"HunShiItemID": 2200222,
+		"Level": 6,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 7
+	},
+	{
+		"AttrId": 662002107,
+		"HunShiItemID": 2200222,
+		"Level": 7,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 8
+	},
+	{
+		"AttrId": 662002108,
+		"HunShiItemID": 2200222,
+		"Level": 8,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 9
+	},
+	{
+		"AttrId": 662002109,
+		"HunShiItemID": 2200222,
+		"Level": 9,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 10
+	},
+	{
+		"AttrId": 662002110,
+		"HunShiItemID": 2200222,
+		"Level": 10,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 11
+	},
+	{
+		"AttrId": 662002111,
+		"HunShiItemID": 2200222,
+		"Level": 11,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 12
+	},
+	{
+		"AttrId": 662002112,
+		"HunShiItemID": 2200222,
+		"Level": 12,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 13
+	},
+	{
+		"AttrId": 662002113,
+		"HunShiItemID": 2200222,
+		"Level": 13,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 14
+	},
+	{
+		"AttrId": 662002114,
+		"HunShiItemID": 2200222,
+		"Level": 14,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 15
+	},
+	{
+		"AttrId": 662002115,
+		"HunShiItemID": 2200222,
+		"Level": 15,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 16
+	},
+	{
+		"AttrId": 662002116,
+		"HunShiItemID": 2200222,
+		"Level": 16,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 17
+	},
+	{
+		"AttrId": 662002117,
+		"HunShiItemID": 2200222,
+		"Level": 17,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 18
+	},
+	{
+		"AttrId": 662002118,
+		"HunShiItemID": 2200222,
+		"Level": 18,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 19
+	},
+	{
+		"AttrId": 662002119,
+		"HunShiItemID": 2200222,
+		"Level": 19,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": 20
+	},
+	{
+		"AttrId": 662002120,
+		"HunShiItemID": 2200222,
+		"Level": 20,
+		"MingHunID": 2,
+		"MingHunName": "灵魂",
+		"NeedHunShi": -1
+	},
+	{
+		"HunShiItemID": 2200223,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 1
+	},
+	{
+		"AttrId": 662002201,
+		"HunShiItemID": 2200223,
+		"Level": 1,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 2
+	},
+	{
+		"AttrId": 662002202,
+		"HunShiItemID": 2200223,
+		"Level": 2,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 3
+	},
+	{
+		"AttrId": 662002203,
+		"HunShiItemID": 2200223,
+		"Level": 3,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 4
+	},
+	{
+		"AttrId": 662002204,
+		"HunShiItemID": 2200223,
+		"Level": 4,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 5
+	},
+	{
+		"AttrId": 662002205,
+		"HunShiItemID": 2200223,
+		"Level": 5,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 6
+	},
+	{
+		"AttrId": 662002206,
+		"HunShiItemID": 2200223,
+		"Level": 6,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 7
+	},
+	{
+		"AttrId": 662002207,
+		"HunShiItemID": 2200223,
+		"Level": 7,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 8
+	},
+	{
+		"AttrId": 662002208,
+		"HunShiItemID": 2200223,
+		"Level": 8,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 9
+	},
+	{
+		"AttrId": 662002209,
+		"HunShiItemID": 2200223,
+		"Level": 9,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 10
+	},
+	{
+		"AttrId": 662002210,
+		"HunShiItemID": 2200223,
+		"Level": 10,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 11
+	},
+	{
+		"AttrId": 662002211,
+		"HunShiItemID": 2200223,
+		"Level": 11,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 12
+	},
+	{
+		"AttrId": 662002212,
+		"HunShiItemID": 2200223,
+		"Level": 12,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 13
+	},
+	{
+		"AttrId": 662002213,
+		"HunShiItemID": 2200223,
+		"Level": 13,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 14
+	},
+	{
+		"AttrId": 662002214,
+		"HunShiItemID": 2200223,
+		"Level": 14,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 15
+	},
+	{
+		"AttrId": 662002215,
+		"HunShiItemID": 2200223,
+		"Level": 15,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 16
+	},
+	{
+		"AttrId": 662002216,
+		"HunShiItemID": 2200223,
+		"Level": 16,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 17
+	},
+	{
+		"AttrId": 662002217,
+		"HunShiItemID": 2200223,
+		"Level": 17,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 18
+	},
+	{
+		"AttrId": 662002218,
+		"HunShiItemID": 2200223,
+		"Level": 18,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 19
+	},
+	{
+		"AttrId": 662002219,
+		"HunShiItemID": 2200223,
+		"Level": 19,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": 20
+	},
+	{
+		"AttrId": 662002220,
+		"HunShiItemID": 2200223,
+		"Level": 20,
+		"MingHunID": 3,
+		"MingHunName": "仙魂",
+		"NeedHunShi": -1
+	},
+	{
+		"HunShiItemID": 2200224,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 1
+	},
+	{
+		"AttrId": 662002301,
+		"HunShiItemID": 2200224,
+		"Level": 1,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 2
+	},
+	{
+		"AttrId": 662002302,
+		"HunShiItemID": 2200224,
+		"Level": 2,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 3
+	},
+	{
+		"AttrId": 662002303,
+		"HunShiItemID": 2200224,
+		"Level": 3,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 4
+	},
+	{
+		"AttrId": 662002304,
+		"HunShiItemID": 2200224,
+		"Level": 4,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 5
+	},
+	{
+		"AttrId": 662002305,
+		"HunShiItemID": 2200224,
+		"Level": 5,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 6
+	},
+	{
+		"AttrId": 662002306,
+		"HunShiItemID": 2200224,
+		"Level": 6,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 7
+	},
+	{
+		"AttrId": 662002307,
+		"HunShiItemID": 2200224,
+		"Level": 7,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 8
+	},
+	{
+		"AttrId": 662002308,
+		"HunShiItemID": 2200224,
+		"Level": 8,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 9
+	},
+	{
+		"AttrId": 662002309,
+		"HunShiItemID": 2200224,
+		"Level": 9,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 10
+	},
+	{
+		"AttrId": 662002310,
+		"HunShiItemID": 2200224,
+		"Level": 10,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 11
+	},
+	{
+		"AttrId": 662002311,
+		"HunShiItemID": 2200224,
+		"Level": 11,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 12
+	},
+	{
+		"AttrId": 662002312,
+		"HunShiItemID": 2200224,
+		"Level": 12,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 13
+	},
+	{
+		"AttrId": 662002313,
+		"HunShiItemID": 2200224,
+		"Level": 13,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 14
+	},
+	{
+		"AttrId": 662002314,
+		"HunShiItemID": 2200224,
+		"Level": 14,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 15
+	},
+	{
+		"AttrId": 662002315,
+		"HunShiItemID": 2200224,
+		"Level": 15,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 16
+	},
+	{
+		"AttrId": 662002316,
+		"HunShiItemID": 2200224,
+		"Level": 16,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 17
+	},
+	{
+		"AttrId": 662002317,
+		"HunShiItemID": 2200224,
+		"Level": 17,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 18
+	},
+	{
+		"AttrId": 662002318,
+		"HunShiItemID": 2200224,
+		"Level": 18,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 19
+	},
+	{
+		"AttrId": 662002319,
+		"HunShiItemID": 2200224,
+		"Level": 19,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": 20
+	},
+	{
+		"AttrId": 662002320,
+		"HunShiItemID": 2200224,
+		"Level": 20,
+		"MingHunID": 4,
+		"MingHunName": "神魂",
+		"NeedHunShi": -1
+	}
+]

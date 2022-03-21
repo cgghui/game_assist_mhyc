@@ -1,0 +1,12 @@
+[
+	{
+		"CfgKey": "FirstRechargeInvestCountHour",
+		"CfgValue": "24",
+		"STRING": "首冲投资开启后统计充值时间（单位小时）"
+	},
+	{
+		"CfgKey": "FirstRechargeInvestPrizeDay",
+		"CfgValue": "8",
+		"STRING": "首冲投资开启第几天可以领奖（单位天）"
+	}
+]

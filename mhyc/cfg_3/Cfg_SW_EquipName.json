@@ -1,0 +1,38 @@
+[
+	{
+		"EquipPart": 1,
+		"Id": 2510101,
+		"Name": "面",
+		"PicID": "18001"
+	},
+	{
+		"EquipPart": 2,
+		"Id": 2520101,
+		"Name": "眼",
+		"PicID": "18011"
+	},
+	{
+		"EquipPart": 3,
+		"Id": 2530101,
+		"Name": "心",
+		"PicID": "18021"
+	},
+	{
+		"EquipPart": 4,
+		"Id": 2540101,
+		"Name": "印",
+		"PicID": "18031"
+	},
+	{
+		"EquipPart": 5,
+		"Id": 2550101,
+		"Name": "带",
+		"PicID": "18041"
+	},
+	{
+		"EquipPart": 6,
+		"Id": 2560101,
+		"Name": "盾",
+		"PicID": "18051"
+	}
+]

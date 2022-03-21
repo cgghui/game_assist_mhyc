@@ -1,0 +1,348 @@
+[
+	{
+		"BasePrize": 151,
+		"Desc": "阵营个人排行",
+		"ID": 1,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 152,
+		"Desc": "阵营个人排行",
+		"ID": 2,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 153,
+		"Desc": "阵营个人排行",
+		"ID": 3,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 154,
+		"Desc": "阵营个人排行",
+		"ID": 4,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 155,
+		"Desc": "阵营个人排行",
+		"ID": 5,
+		"RankMax": 50,
+		"RankMin": 11,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 156,
+		"Desc": "阵营个人排行",
+		"ID": 6,
+		"RankMin": 51,
+		"RankType": 1
+	},
+	{
+		"BasePrize": 161,
+		"Desc": "阵营仙宗排行",
+		"ID": 11,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 2
+	},
+	{
+		"BasePrize": 162,
+		"Desc": "阵营仙宗排行",
+		"ID": 12,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 2
+	},
+	{
+		"BasePrize": 163,
+		"Desc": "阵营仙宗排行",
+		"ID": 13,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 2
+	},
+	{
+		"BasePrize": 164,
+		"Desc": "阵营仙宗排行",
+		"ID": 14,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 2
+	},
+	{
+		"BasePrize": 165,
+		"Desc": "阵营仙宗排行",
+		"ID": 15,
+		"RankMin": 11,
+		"RankType": 2
+	},
+	{
+		"BasePrize": 171,
+		"Desc": "神域个人排行",
+		"ID": 21,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 172,
+		"Desc": "神域个人排行",
+		"ID": 22,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 173,
+		"Desc": "神域个人排行",
+		"ID": 23,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 174,
+		"Desc": "神域个人排行",
+		"ID": 24,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 175,
+		"Desc": "神域个人排行",
+		"ID": 25,
+		"RankMax": 50,
+		"RankMin": 11,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 176,
+		"Desc": "神域个人排行",
+		"ID": 26,
+		"RankMax": 100,
+		"RankMin": 51,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 177,
+		"Desc": "神域个人排行",
+		"ID": 27,
+		"RankMin": 101,
+		"RankType": 3
+	},
+	{
+		"BasePrize": 181,
+		"Desc": "神域阵营排行",
+		"ID": 31,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 4
+	},
+	{
+		"BasePrize": 182,
+		"Desc": "神域阵营排行",
+		"ID": 32,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 4
+	},
+	{
+		"BasePrize": 183,
+		"Desc": "神域阵营排行",
+		"ID": 33,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 4
+	},
+	{
+		"BasePrize": 184,
+		"Desc": "神域阵营排行",
+		"ID": 34,
+		"RankMax": 4,
+		"RankMin": 4,
+		"RankType": 4
+	},
+	{
+		"BasePrize": 151,
+		"Desc": "阵营个人排行",
+		"ID": 35,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 152,
+		"Desc": "阵营个人排行",
+		"ID": 36,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 153,
+		"Desc": "阵营个人排行",
+		"ID": 37,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 154,
+		"Desc": "阵营个人排行",
+		"ID": 41,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 155,
+		"Desc": "阵营个人排行",
+		"ID": 42,
+		"RankMax": 50,
+		"RankMin": 11,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 156,
+		"Desc": "阵营个人排行",
+		"ID": 43,
+		"RankMin": 51,
+		"RankType": 5
+	},
+	{
+		"BasePrize": 161,
+		"Desc": "阵营仙宗排行",
+		"ID": 44,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 6
+	},
+	{
+		"BasePrize": 162,
+		"Desc": "阵营仙宗排行",
+		"ID": 45,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 6
+	},
+	{
+		"BasePrize": 163,
+		"Desc": "阵营仙宗排行",
+		"ID": 46,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 6
+	},
+	{
+		"BasePrize": 164,
+		"Desc": "阵营仙宗排行",
+		"ID": 47,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 6
+	},
+	{
+		"BasePrize": 165,
+		"Desc": "阵营仙宗排行",
+		"ID": 51,
+		"RankMin": 11,
+		"RankType": 6
+	},
+	{
+		"BasePrize": 171,
+		"Desc": "神域个人排行",
+		"ID": 52,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 172,
+		"Desc": "神域个人排行",
+		"ID": 53,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 173,
+		"Desc": "神域个人排行",
+		"ID": 54,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 174,
+		"Desc": "神域个人排行",
+		"ID": 55,
+		"RankMax": 10,
+		"RankMin": 4,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 175,
+		"Desc": "神域个人排行",
+		"ID": 56,
+		"RankMax": 50,
+		"RankMin": 11,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 176,
+		"Desc": "神域个人排行",
+		"ID": 57,
+		"RankMax": 100,
+		"RankMin": 51,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 177,
+		"Desc": "神域个人排行",
+		"ID": 61,
+		"RankMin": 101,
+		"RankType": 7
+	},
+	{
+		"BasePrize": 181,
+		"Desc": "神域阵营排行",
+		"ID": 62,
+		"RankMax": 1,
+		"RankMin": 1,
+		"RankType": 8
+	},
+	{
+		"BasePrize": 182,
+		"Desc": "神域阵营排行",
+		"ID": 63,
+		"RankMax": 2,
+		"RankMin": 2,
+		"RankType": 8
+	},
+	{
+		"BasePrize": 183,
+		"Desc": "神域阵营排行",
+		"ID": 64,
+		"RankMax": 3,
+		"RankMin": 3,
+		"RankType": 8
+	},
+	{
+		"BasePrize": 184,
+		"Desc": "神域阵营排行",
+		"ID": 65,
+		"RankMax": 4,
+		"RankMin": 4,
+		"RankType": 8
+	}
+]

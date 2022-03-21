@@ -1,0 +1,151 @@
+[
+	{
+		"BossId": 90,
+		"DropId": 20031,
+		"Id": 1,
+		"IntervalTime": 300,
+		"NeedVipLevel": 1,
+		"ShowLabel": "未转生",
+		"ShowPrize": "640001020:1|2251005:1|2200101:2:10"
+	},
+	{
+		"BossId": 539,
+		"DropId": 20032,
+		"Id": 2,
+		"IntervalTime": 300,
+		"NeedLevel": 1,
+		"NeedVipLevel": 7,
+		"ShowLabel": "一转",
+		"ShowPrize": "650101002:1|2251005:1|2200101:2:20"
+	},
+	{
+		"BossId": 168,
+		"DropId": 20033,
+		"Id": 3,
+		"IntervalTime": 300,
+		"NeedLevel": 2,
+		"NeedVipLevel": 8,
+		"ShowLabel": "二转",
+		"ShowPrize": "650201002:1|2251005:1|2200101:2:30"
+	},
+	{
+		"BossId": 542,
+		"DropId": 20034,
+		"Id": 4,
+		"IntervalTime": 300,
+		"NeedLevel": 3,
+		"NeedVipLevel": 9,
+		"ShowLabel": "三转",
+		"ShowPrize": "650301002:1|2251005:1|2200101:2:40"
+	},
+	{
+		"BossId": 563,
+		"DropId": 20035,
+		"Id": 5,
+		"IntervalTime": 300,
+		"NeedLevel": 4,
+		"NeedVipLevel": 10,
+		"ShowLabel": "四转",
+		"ShowPrize": "650401002:1|2251005:1|2200101:2:50"
+	},
+	{
+		"BossId": 545,
+		"DropId": 20036,
+		"Id": 6,
+		"IntervalTime": 300,
+		"NeedLevel": 5,
+		"NeedVipLevel": 11,
+		"ShowLabel": "五转",
+		"ShowPrize": "650501002:1|2251005:1|2200101:2:60"
+	},
+	{
+		"BossId": 162,
+		"DropId": 20037,
+		"Id": 7,
+		"IntervalTime": 300,
+		"NeedLevel": 6,
+		"NeedVipLevel": 12,
+		"ShowLabel": "六转",
+		"ShowPrize": "650601002:1|2251005:1|2200101:2:70"
+	},
+	{
+		"BossId": 548,
+		"DropId": 20038,
+		"Id": 8,
+		"IntervalTime": 300,
+		"NeedLevel": 7,
+		"NeedVipLevel": 13,
+		"ShowLabel": "七转",
+		"ShowPrize": "650701002:1|2251005:1|2200101:2:80"
+	},
+	{
+		"BossId": 150,
+		"DropId": 20039,
+		"Id": 9,
+		"IntervalTime": 300,
+		"NeedLevel": 8,
+		"NeedVipLevel": 14,
+		"ShowLabel": "八转",
+		"ShowPrize": "650801002:1|2251005:1|2200101:2:90"
+	},
+	{
+		"BossId": 551,
+		"DropId": 20040,
+		"Id": 10,
+		"IntervalTime": 300,
+		"NeedLevel": 9,
+		"NeedVipLevel": 15,
+		"ShowLabel": "九转",
+		"ShowPrize": "650901002:1|2251005:1|2200101:2:100"
+	},
+	{
+		"BossId": 536,
+		"DropId": 20041,
+		"Id": 11,
+		"IntervalTime": 300,
+		"NeedLevel": 10,
+		"NeedVipLevel": 16,
+		"ShowLabel": "十转",
+		"ShowPrize": "651001002:1|2251005:1|2200101:2:150"
+	},
+	{
+		"BossId": 512,
+		"DropId": 20042,
+		"Id": 12,
+		"IntervalTime": 300,
+		"NeedLevel": 11,
+		"NeedVipLevel": 17,
+		"ShowLabel": "十一转",
+		"ShowPrize": "651101002:1|2251005:1|2200101:2:150"
+	},
+	{
+		"BossId": 524,
+		"DropId": 20043,
+		"Id": 13,
+		"IntervalTime": 300,
+		"NeedLevel": 12,
+		"NeedVipLevel": 18,
+		"ShowLabel": "十二转",
+		"ShowPrize": "651201002:1|2251005:1|2200101:2:150"
+	},
+	{
+		"BossId": 593,
+		"DropId": 20044,
+		"Id": 14,
+		"IntervalTime": 300,
+		"NeedLevel": 13,
+		"NeedVipLevel": 18,
+		"ShowLabel": "十三转",
+		"ShowPrize": "651301002:1|2251005:1|2200101:2:150"
+	},
+	{
+		"BossId": 575,
+		"DropId": 20045,
+		"Id": 15,
+		"IntervalTime": 300,
+		"NeedLevel": 14,
+		"NeedVipLevel": 18,
+		"ShowLabel": "十四转",
+		"ShowPrize": "651401002:1|2251005:1|2200101:2:150"
+	}
+]

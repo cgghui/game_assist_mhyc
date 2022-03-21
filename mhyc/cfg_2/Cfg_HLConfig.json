@@ -1,0 +1,46 @@
+[
+	{
+		"CfgKey": "ResetHLPowerTime",
+		"CfgValue": "06:00"
+	},
+	{
+		"CfgKey": "ReduceHLPowerCD",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "ReduceHLPowerVal",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "HLPowerMax",
+		"CfgValue": "150"
+	},
+	{
+		"CfgKey": "ReduceHLPowerFightVal",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "HLLevelItemPerExp",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "BuyPowerCostItemId",
+		"CfgValue": "3002"
+	},
+	{
+		"CfgKey": "BuyPowerCostNum",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "PowerPillInc",
+		"CfgValue": "50"
+	},
+	{
+		"CfgKey": "KickOut",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "HLLevelUpItemSource",
+		"CfgValue": "627"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"CfgKey": "HelperCheckInternal",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "HelperLimitDay",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "HelperLogCount",
+		"CfgValue": "200"
+	}
+]

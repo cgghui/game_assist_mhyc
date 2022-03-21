@@ -1,0 +1,62 @@
+[
+	{
+		"CfgKey": "FTPageNum",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "MembersLimit",
+		"CfgValue": "4"
+	},
+	{
+		"CfgKey": "ModifyNameCDHours",
+		"CfgValue": "72"
+	},
+	{
+		"CfgKey": "FTCreateNameL",
+		"CfgValue": "6"
+	},
+	{
+		"CfgKey": "FTDeclarationL",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "FTCreateVIP",
+		"CfgValue": "14"
+	},
+	{
+		"CfgKey": "FTCreateCoin",
+		"CfgValue": "1:200"
+	},
+	{
+		"CfgKey": "FTOfflineDel",
+		"CfgValue": "7"
+	},
+	{
+		"CfgKey": "FTAccuse",
+		"CfgValue": "72"
+	},
+	{
+		"CfgKey": "FTAccuseTime",
+		"CfgValue": "24"
+	},
+	{
+		"CfgKey": "FTApplyNum",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "FTApplyedNum",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "FTInviteOffTime",
+		"CfgValue": "12"
+	},
+	{
+		"CfgKey": "JoinFTMinFv",
+		"CfgValue": "10000000"
+	},
+	{
+		"CfgKey": "FTApplyTime",
+		"CfgValue": "12"
+	}
+]

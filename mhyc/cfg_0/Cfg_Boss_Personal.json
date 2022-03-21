@@ -1,0 +1,129 @@
+[
+	{
+		"BossId": 536,
+		"ExtCond": 1,
+		"Id": 1,
+		"IntervalTime": 300,
+		"ShowLabel": "特权",
+		"ShowPrize": "321:2|2200831:2|2200101:2:100"
+	},
+	{
+		"BossId": 138,
+		"Id": 2,
+		"IntervalTime": 300,
+		"ShowLabel": "未转生",
+		"ShowPrize": "640001020:1|640002020:1|2200101:2:10"
+	},
+	{
+		"BossId": 90,
+		"Id": 3,
+		"IntervalTime": 300,
+		"NeedLevel": 1,
+		"ShowLabel": "一转",
+		"ShowPrize": "650101000:1|650102000:1|2200101:2:20"
+	},
+	{
+		"BossId": 81,
+		"Id": 4,
+		"IntervalTime": 300,
+		"NeedLevel": 2,
+		"ShowLabel": "二转",
+		"ShowPrize": "650201000:1|650202000:1|2200101:2:30"
+	},
+	{
+		"BossId": 54,
+		"Id": 5,
+		"IntervalTime": 300,
+		"NeedLevel": 3,
+		"ShowLabel": "三转",
+		"ShowPrize": "650301000:1|650302000:1|2200101:2:40"
+	},
+	{
+		"BossId": 168,
+		"Id": 6,
+		"IntervalTime": 300,
+		"NeedLevel": 4,
+		"ShowLabel": "四转",
+		"ShowPrize": "650401000:1|650402000:1|2200101:2:50"
+	},
+	{
+		"BossId": 174,
+		"Id": 7,
+		"IntervalTime": 300,
+		"NeedLevel": 5,
+		"ShowLabel": "五转",
+		"ShowPrize": "650501000:1|650502000:1|2200101:2:60"
+	},
+	{
+		"BossId": 96,
+		"Id": 8,
+		"IntervalTime": 300,
+		"NeedLevel": 6,
+		"ShowLabel": "六转",
+		"ShowPrize": "650601000:1|650602000:1|2200101:2:70"
+	},
+	{
+		"BossId": 563,
+		"Id": 9,
+		"IntervalTime": 300,
+		"NeedLevel": 7,
+		"ShowLabel": "七转",
+		"ShowPrize": "650701000:1|650702000:1|2200101:2:80"
+	},
+	{
+		"BossId": 189,
+		"Id": 10,
+		"IntervalTime": 300,
+		"NeedLevel": 8,
+		"ShowLabel": "八转",
+		"ShowPrize": "650801000:1|650802000:1|2200101:2:90"
+	},
+	{
+		"BossId": 162,
+		"Id": 11,
+		"IntervalTime": 300,
+		"NeedLevel": 9,
+		"ShowLabel": "九转",
+		"ShowPrize": "650901000:1|650902000:1|2200101:2:100"
+	},
+	{
+		"BossId": 150,
+		"Id": 12,
+		"IntervalTime": 300,
+		"NeedLevel": 10,
+		"ShowLabel": "十转",
+		"ShowPrize": "651001000:1|651002000:1|2200101:2:150"
+	},
+	{
+		"BossId": 551,
+		"Id": 13,
+		"IntervalTime": 300,
+		"NeedLevel": 11,
+		"ShowLabel": "十一转",
+		"ShowPrize": "651101000:1|651102000:1|2200101:2:150"
+	},
+	{
+		"BossId": 536,
+		"Id": 14,
+		"IntervalTime": 300,
+		"NeedLevel": 12,
+		"ShowLabel": "十二转",
+		"ShowPrize": "651201000:1|651202000:1|2200101:2:150"
+	},
+	{
+		"BossId": 575,
+		"Id": 15,
+		"IntervalTime": 300,
+		"NeedLevel": 13,
+		"ShowLabel": "十三转",
+		"ShowPrize": "651301000:1|651302000:1|2200101:2:150"
+	},
+	{
+		"BossId": 584,
+		"Id": 16,
+		"IntervalTime": 300,
+		"NeedLevel": 14,
+		"ShowLabel": "十四转",
+		"ShowPrize": "651401000:1|651402000:1|2200101:2:150"
+	}
+]

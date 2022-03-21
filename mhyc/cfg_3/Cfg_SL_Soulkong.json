@@ -1,0 +1,23 @@
+[
+	{
+		"LimitType": 1,
+		"PosId": 1,
+		"PosOdd": 800,
+		"SkinOdd": "1700003:200|1700004:100|1700010:400|1700006:600"
+	},
+	{
+		"LimitType": 2,
+		"PosId": 2,
+		"PosOdd": 100,
+		"SkinOdd": "1700002:50|1700008:100|1700005:200",
+		"SoulQuality": 4
+	},
+	{
+		"LimitType": 3,
+		"PosId": 3,
+		"PosOdd": 5000,
+		"SkinOdd": "1700007:500|1700009:4000",
+		"SoulLev": 9,
+		"SoulQuality": 4
+	}
+]

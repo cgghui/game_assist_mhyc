@@ -1,0 +1,277 @@
+[
+	{
+		"CfgKey": "SectReName",
+		"CfgValue": "1:100"
+	},
+	{
+		"CfgKey": "SectReSymbol",
+		"CfgValue": "2:1000"
+	},
+	{
+		"CfgKey": "SectNameFormat",
+		"CfgValue": "仙宗"
+	},
+	{
+		"CfgKey": "SectMaxLevel",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "SectSkillMasterMaxLevel",
+		"CfgValue": "20"
+	},
+	{
+		"CfgKey": "SectPrivilege",
+		"CfgValue": "25001|1:9999|2:123|3:123"
+	},
+	{
+		"CfgKey": "SectFirstStageEndTime",
+		"CfgValue": "22:00"
+	},
+	{
+		"CfgKey": "SectSecondStageStartTime",
+		"CfgValue": "22:10"
+	},
+	{
+		"CfgKey": "SectOverTime",
+		"CfgValue": "23:00"
+	},
+	{
+		"CfgKey": "SectFightCD",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "SectSecondStageBattleTime",
+		"CfgValue": "5|25|45"
+	},
+	{
+		"CfgKey": "MaxGodAnimalNum",
+		"CfgValue": "35"
+	},
+	{
+		"CfgKey": "GodAnimalInviteNeedNum",
+		"CfgValue": "2:500"
+	},
+	{
+		"CfgKey": "ImmortalMountainChanllegeInterve",
+		"CfgValue": "1800"
+	},
+	{
+		"CfgKey": "ClearImmortalMountainChanllegeCD",
+		"CfgValue": "1:100"
+	},
+	{
+		"CfgKey": "ImmortalMountainSendReward",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "PastureIsChangePets",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "PastureChangeTime",
+		"CfgValue": "5|18:00"
+	},
+	{
+		"CfgKey": "PastureRefreshPoint",
+		"CfgValue": "30:32|42:28|54:30|60:35|62:39|56:48|47:51|35:49|28:44|24:37|12:34|38:20|68:41|65:50|34:58|21:20|27:28|57:50|44:22|23:45"
+	},
+	{
+		"CfgKey": "PastureRefreshPointPublic",
+		"CfgValue": "31:33|31:44|57:33"
+	},
+	{
+		"CfgKey": "GodAnimalMaxFightTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "GodAnimalMaxFightCD",
+		"CfgValue": "30"
+	},
+	{
+		"CfgKey": "GodAnimalTimestamp",
+		"CfgValue": "1800"
+	},
+	{
+		"CfgKey": "GodAnimalCollapseAddMax",
+		"CfgValue": "7200"
+	},
+	{
+		"CfgKey": "GodAnimalCollapseTimestamp",
+		"CfgValue": "1800"
+	},
+	{
+		"CfgKey": "GodAnimalMaxGroup",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "TriggerGodAnimalAngerProb",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "ZooCatchClosePanelTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ZooTipClosePanelTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ZooReportTimes",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "ZooFightReadyTimes",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "GodAnimalCollapse3",
+		"CfgValue": "1000"
+	},
+	{
+		"CfgKey": "GodAnimalCollapse4",
+		"CfgValue": "300"
+	},
+	{
+		"CfgKey": "GodAnimalCollapse5",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "GodAnimalCatch1",
+		"CfgValue": "5000"
+	},
+	{
+		"CfgKey": "GodAnimalCatch2",
+		"CfgValue": "5000"
+	},
+	{
+		"CfgKey": "GodAnimalCatch3",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "GodAnimalCatch4",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "GodAnimalCatch5",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "FirstCatchTypeLimit",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "FirstCatchQualityLimit",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "FirstCatchRarityLimit",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "VirtuousRewardTypeLimit",
+		"CfgValue": "1"
+	},
+	{
+		"CfgKey": "VirtuousRewardQualityLimit",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "VirtuousRewardRarityLimit",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "SectFightLimit",
+		"CfgValue": "350000"
+	},
+	{
+		"CfgKey": "ClearSectAnimalFightBossCD",
+		"CfgValue": "2:100"
+	},
+	{
+		"CfgKey": "CatchPetNoticeRarity",
+		"CfgValue": "2"
+	},
+	{
+		"CfgKey": "CatchPetNoticeCrossRarity",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "CatchPetTipsRarity",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "CatchPeTipsCrossRarity",
+		"CfgValue": "0"
+	},
+	{
+		"CfgKey": "CatchPetRecordMax",
+		"CfgValue": "10"
+	},
+	{
+		"CfgKey": "CatchPetRecordRarity",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "AnimalNoticeForeInstType"
+	},
+	{
+		"CfgKey": "CrossPastureTrapPoint",
+		"CfgValue": "28:135|23:144|14:149|23:154|35:143|47:136|22:163|38:153|48:149|53:143|64:139|34:170|47:160|58:153|42:175|49:169|60:164|77:152|60:175|78:162"
+	},
+	{
+		"CfgKey": "BossBoxDropPoint",
+		"CfgValue": "25:29|21:34|24:40|30:44|37:48|43:50|49:48|57:45|62:38|62:32|57:29|48:25|42:24|35:25|19:28|29:22|38:20|46:20|55:23|67:34|64:42|57:50|38:53|30:50|23:45|17:40|16:34|27:35|54:40|41:29|36:41|33:31"
+	},
+	{
+		"CfgKey": "OpenBoxTimestamp",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "CrossPastureSeizePetPoint",
+		"CfgValue": "15:74|15:81|14:85|16:91|16:99|15:103|16:109|16:117|20:69|22:73|20:80|22:86|21:92|22:98|21:103|22:111|21:115|26:69|26:75|28:80|28:85|28:91|28:99|27:105|27:109|28:117|32:67|34:74|34:81|34:86|33:92|32:98|34:103|33:109|32:117|40:67|40:74|39:79|39:85|38:91|38:98|38:105|39:110|38:115|46:68|45:74|46:79|45:85|45:93|44:98|46:105|44:110|45:115|52:69|52:75|52:79|52:85|50:92|50:98|51:104|52:110|52:116|56:69|57:74|56:81|57:87|57:91|57:99|57:104|57:109|57:116|64:69|63:75|64:80|62:85|63:91|63:97|62:103|64:110|64:116"
+	},
+	{
+		"CfgKey": "PickUpPetTimestamp",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "CrossBossFightReward",
+		"CfgValue": "2010003:1|504:1"
+	},
+	{
+		"CfgKey": "CrossBossKillDropReward",
+		"CfgValue": "506:1|505:1|501:1|502:1"
+	},
+	{
+		"CfgKey": "CrossTJBossGetReward",
+		"CfgValue": "2020706:1|2021654:1|2021657:1|2021658:1|2021601:1|2021605:1|2021608:1|2021609:1|2021551:1|2010003:1"
+	},
+	{
+		"CfgKey": "CountDownOfDropReward",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "FightValueCompare",
+		"CfgValue": "5000"
+	},
+	{
+		"CfgKey": "ReleaseTimeCD",
+		"CfgValue": "5"
+	},
+	{
+		"CfgKey": "CrossBossFightAreaPosY",
+		"CfgValue": "65|130"
+	},
+	{
+		"CfgKey": "CrossBossMaxFightCD",
+		"CfgValue": "60"
+	},
+	{
+		"CfgKey": "ClearCrossFightBossCD",
+		"CfgValue": "2:100"
+	},
+	{
+		"CfgKey": "CrossYJYMGetReward",
+		"CfgValue": "2020704:1|2020705:1|506:1|2020702:1|2020701:1|502:1|1:50"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"Quality": 5,
+		"Star": 1
+	},
+	{
+		"Quality": 5,
+		"Star": 2
+	},
+	{
+		"Quality": 5,
+		"Star": 3,
+		"Up": 1
+	},
+	{
+		"Quality": 5,
+		"Star": 4,
+		"Up": 1
+	},
+	{
+		"Quality": 5,
+		"Star": 5,
+		"Up": 1
+	}
+]

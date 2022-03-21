@@ -1,0 +1,26 @@
+[
+	{
+		"Content": "溢出的材料可以给我吞噬哦~",
+		"Right": 50,
+		"State": 1,
+		"Time": 5
+	},
+	{
+		"Content": "吞金吞金，革故鼎新~",
+		"Right": 50,
+		"State": 1,
+		"Time": 5
+	},
+	{
+		"Content": "哈哈正是我喜欢的材料~",
+		"Right": 50,
+		"State": 2,
+		"Time": 5
+	},
+	{
+		"Content": "看在你长得好看的份上，我就帮你吸点金~",
+		"Right": 50,
+		"State": 2,
+		"Time": 5
+	}
+]

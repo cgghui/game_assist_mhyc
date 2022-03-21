@@ -1,0 +1,1452 @@
+[
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320201:100",
+		"ItemId": 907017101
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320202:100",
+		"ItemId": 907017102
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320203:100",
+		"ItemId": 907017103
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320204:100",
+		"ItemId": 907017104
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320205:100",
+		"ItemId": 907017105
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320206:100",
+		"ItemId": 907017106
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320207:100",
+		"ItemId": 907017107
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320208:100",
+		"ItemId": 907017108
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320209:100",
+		"ItemId": 907017109
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320210:100",
+		"ItemId": 907017110
+	},
+	{
+		"CostItem": "907017101:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320201:200",
+		"ItemId": 907027101
+	},
+	{
+		"CostItem": "907017102:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320202:200",
+		"ItemId": 907027102
+	},
+	{
+		"CostItem": "907017103:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320203:200",
+		"ItemId": 907027103
+	},
+	{
+		"CostItem": "907017104:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320204:200",
+		"ItemId": 907027104
+	},
+	{
+		"CostItem": "907017105:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320205:200",
+		"ItemId": 907027105
+	},
+	{
+		"CostItem": "907017106:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320206:200",
+		"ItemId": 907027106
+	},
+	{
+		"CostItem": "907017107:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320207:200",
+		"ItemId": 907027107
+	},
+	{
+		"CostItem": "907017108:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320208:200",
+		"ItemId": 907027108
+	},
+	{
+		"CostItem": "907017109:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320209:200",
+		"ItemId": 907027109
+	},
+	{
+		"CostItem": "907017110:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320210:200",
+		"ItemId": 907027110
+	},
+	{
+		"CostItem": "907027101:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320201:300",
+		"ItemId": 907037101
+	},
+	{
+		"CostItem": "907027102:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320202:300",
+		"ItemId": 907037102
+	},
+	{
+		"CostItem": "907027103:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320203:300",
+		"ItemId": 907037103
+	},
+	{
+		"CostItem": "907027104:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320204:300",
+		"ItemId": 907037104
+	},
+	{
+		"CostItem": "907027105:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320205:300",
+		"ItemId": 907037105
+	},
+	{
+		"CostItem": "907027106:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320206:300",
+		"ItemId": 907037106
+	},
+	{
+		"CostItem": "907027107:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320207:300",
+		"ItemId": 907037107
+	},
+	{
+		"CostItem": "907027108:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320208:300",
+		"ItemId": 907037108
+	},
+	{
+		"CostItem": "907027109:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320209:300",
+		"ItemId": 907037109
+	},
+	{
+		"CostItem": "907027110:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320210:300",
+		"ItemId": 907037110
+	},
+	{
+		"CostItem": "907037101:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320201:400",
+		"ItemId": 907047101
+	},
+	{
+		"CostItem": "907037102:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320202:400",
+		"ItemId": 907047102
+	},
+	{
+		"CostItem": "907037103:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320203:400",
+		"ItemId": 907047103
+	},
+	{
+		"CostItem": "907037104:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320204:400",
+		"ItemId": 907047104
+	},
+	{
+		"CostItem": "907037105:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320205:400",
+		"ItemId": 907047105
+	},
+	{
+		"CostItem": "907037106:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320206:400",
+		"ItemId": 907047106
+	},
+	{
+		"CostItem": "907037107:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320207:400",
+		"ItemId": 907047107
+	},
+	{
+		"CostItem": "907037108:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320208:400",
+		"ItemId": 907047108
+	},
+	{
+		"CostItem": "907037109:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320209:400",
+		"ItemId": 907047109
+	},
+	{
+		"CostItem": "907037110:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320210:400",
+		"ItemId": 907047110
+	},
+	{
+		"CostItem": "907047101:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320201:500",
+		"ItemId": 907057101
+	},
+	{
+		"CostItem": "907047102:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320202:500",
+		"ItemId": 907057102
+	},
+	{
+		"CostItem": "907047103:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320203:500",
+		"ItemId": 907057103
+	},
+	{
+		"CostItem": "907047104:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320204:500",
+		"ItemId": 907057104
+	},
+	{
+		"CostItem": "907047105:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320205:500",
+		"ItemId": 907057105
+	},
+	{
+		"CostItem": "907047106:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320206:500",
+		"ItemId": 907057106
+	},
+	{
+		"CostItem": "907047107:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320207:500",
+		"ItemId": 907057107
+	},
+	{
+		"CostItem": "907047108:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320208:500",
+		"ItemId": 907057108
+	},
+	{
+		"CostItem": "907047109:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320209:500",
+		"ItemId": 907057109
+	},
+	{
+		"CostItem": "907047110:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320210:500",
+		"ItemId": 907057110
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320211:100",
+		"ItemId": 907017201
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320212:100",
+		"ItemId": 907017202
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320213:100",
+		"ItemId": 907017203
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320214:100",
+		"ItemId": 907017204
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320215:100",
+		"ItemId": 907017205
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320216:100",
+		"ItemId": 907017206
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320217:100",
+		"ItemId": 907017207
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320218:100",
+		"ItemId": 907017208
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320219:100",
+		"ItemId": 907017209
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320220:100",
+		"ItemId": 907017210
+	},
+	{
+		"CostItem": "907017201:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320211:200",
+		"ItemId": 907027201
+	},
+	{
+		"CostItem": "907017202:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320212:200",
+		"ItemId": 907027202
+	},
+	{
+		"CostItem": "907017203:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320213:200",
+		"ItemId": 907027203
+	},
+	{
+		"CostItem": "907017204:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320214:200",
+		"ItemId": 907027204
+	},
+	{
+		"CostItem": "907017205:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320215:200",
+		"ItemId": 907027205
+	},
+	{
+		"CostItem": "907017206:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320216:200",
+		"ItemId": 907027206
+	},
+	{
+		"CostItem": "907017207:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320217:200",
+		"ItemId": 907027207
+	},
+	{
+		"CostItem": "907017208:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320218:200",
+		"ItemId": 907027208
+	},
+	{
+		"CostItem": "907017209:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320219:200",
+		"ItemId": 907027209
+	},
+	{
+		"CostItem": "907017210:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320220:200",
+		"ItemId": 907027210
+	},
+	{
+		"CostItem": "907027201:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320211:300",
+		"ItemId": 907037201
+	},
+	{
+		"CostItem": "907027202:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320212:300",
+		"ItemId": 907037202
+	},
+	{
+		"CostItem": "907027203:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320213:300",
+		"ItemId": 907037203
+	},
+	{
+		"CostItem": "907027204:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320214:300",
+		"ItemId": 907037204
+	},
+	{
+		"CostItem": "907027205:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320215:300",
+		"ItemId": 907037205
+	},
+	{
+		"CostItem": "907027206:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320216:300",
+		"ItemId": 907037206
+	},
+	{
+		"CostItem": "907027207:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320217:300",
+		"ItemId": 907037207
+	},
+	{
+		"CostItem": "907027208:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320218:300",
+		"ItemId": 907037208
+	},
+	{
+		"CostItem": "907027209:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320219:300",
+		"ItemId": 907037209
+	},
+	{
+		"CostItem": "907027210:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320220:300",
+		"ItemId": 907037210
+	},
+	{
+		"CostItem": "907037201:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320211:400",
+		"ItemId": 907047201
+	},
+	{
+		"CostItem": "907037202:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320212:400",
+		"ItemId": 907047202
+	},
+	{
+		"CostItem": "907037203:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320213:400",
+		"ItemId": 907047203
+	},
+	{
+		"CostItem": "907037204:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320214:400",
+		"ItemId": 907047204
+	},
+	{
+		"CostItem": "907037205:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320215:400",
+		"ItemId": 907047205
+	},
+	{
+		"CostItem": "907037206:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320216:400",
+		"ItemId": 907047206
+	},
+	{
+		"CostItem": "907037207:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320217:400",
+		"ItemId": 907047207
+	},
+	{
+		"CostItem": "907037208:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320218:400",
+		"ItemId": 907047208
+	},
+	{
+		"CostItem": "907037209:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320219:400",
+		"ItemId": 907047209
+	},
+	{
+		"CostItem": "907037210:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320220:400",
+		"ItemId": 907047210
+	},
+	{
+		"CostItem": "907047201:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320211:500",
+		"ItemId": 907057201
+	},
+	{
+		"CostItem": "907047202:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320212:500",
+		"ItemId": 907057202
+	},
+	{
+		"CostItem": "907047203:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320213:500",
+		"ItemId": 907057203
+	},
+	{
+		"CostItem": "907047204:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320214:500",
+		"ItemId": 907057204
+	},
+	{
+		"CostItem": "907047205:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320215:500",
+		"ItemId": 907057205
+	},
+	{
+		"CostItem": "907047206:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320216:500",
+		"ItemId": 907057206
+	},
+	{
+		"CostItem": "907047207:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320217:500",
+		"ItemId": 907057207
+	},
+	{
+		"CostItem": "907047208:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320218:500",
+		"ItemId": 907057208
+	},
+	{
+		"CostItem": "907047209:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320219:500",
+		"ItemId": 907057209
+	},
+	{
+		"CostItem": "907047210:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320220:500",
+		"ItemId": 907057210
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320221:100",
+		"ItemId": 907017301
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320222:100",
+		"ItemId": 907017302
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320223:100",
+		"ItemId": 907017303
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320224:100",
+		"ItemId": 907017304
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320225:100",
+		"ItemId": 907017305
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320226:100",
+		"ItemId": 907017306
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320227:100",
+		"ItemId": 907017307
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320228:100",
+		"ItemId": 907017308
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320229:100",
+		"ItemId": 907017309
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320230:100",
+		"ItemId": 907017310
+	},
+	{
+		"CostItem": "907017301:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320221:200",
+		"ItemId": 907027301
+	},
+	{
+		"CostItem": "907017302:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320222:200",
+		"ItemId": 907027302
+	},
+	{
+		"CostItem": "907017303:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320223:200",
+		"ItemId": 907027303
+	},
+	{
+		"CostItem": "907017304:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320224:200",
+		"ItemId": 907027304
+	},
+	{
+		"CostItem": "907017305:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320225:200",
+		"ItemId": 907027305
+	},
+	{
+		"CostItem": "907017306:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320226:200",
+		"ItemId": 907027306
+	},
+	{
+		"CostItem": "907017307:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320227:200",
+		"ItemId": 907027307
+	},
+	{
+		"CostItem": "907017308:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320228:200",
+		"ItemId": 907027308
+	},
+	{
+		"CostItem": "907017309:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320229:200",
+		"ItemId": 907027309
+	},
+	{
+		"CostItem": "907017310:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320230:200",
+		"ItemId": 907027310
+	},
+	{
+		"CostItem": "907027301:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320221:300",
+		"ItemId": 907037301
+	},
+	{
+		"CostItem": "907027302:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320222:300",
+		"ItemId": 907037302
+	},
+	{
+		"CostItem": "907027303:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320223:300",
+		"ItemId": 907037303
+	},
+	{
+		"CostItem": "907027304:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320224:300",
+		"ItemId": 907037304
+	},
+	{
+		"CostItem": "907027305:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320225:300",
+		"ItemId": 907037305
+	},
+	{
+		"CostItem": "907027306:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320226:300",
+		"ItemId": 907037306
+	},
+	{
+		"CostItem": "907027307:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320227:300",
+		"ItemId": 907037307
+	},
+	{
+		"CostItem": "907027308:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320228:300",
+		"ItemId": 907037308
+	},
+	{
+		"CostItem": "907027309:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320229:300",
+		"ItemId": 907037309
+	},
+	{
+		"CostItem": "907027310:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320230:300",
+		"ItemId": 907037310
+	},
+	{
+		"CostItem": "907037301:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320221:400",
+		"ItemId": 907047301
+	},
+	{
+		"CostItem": "907037302:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320222:400",
+		"ItemId": 907047302
+	},
+	{
+		"CostItem": "907037303:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320223:400",
+		"ItemId": 907047303
+	},
+	{
+		"CostItem": "907037304:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320224:400",
+		"ItemId": 907047304
+	},
+	{
+		"CostItem": "907037305:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320225:400",
+		"ItemId": 907047305
+	},
+	{
+		"CostItem": "907037306:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320226:400",
+		"ItemId": 907047306
+	},
+	{
+		"CostItem": "907037307:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320227:400",
+		"ItemId": 907047307
+	},
+	{
+		"CostItem": "907037308:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320228:400",
+		"ItemId": 907047308
+	},
+	{
+		"CostItem": "907037309:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320229:400",
+		"ItemId": 907047309
+	},
+	{
+		"CostItem": "907037310:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320230:400",
+		"ItemId": 907047310
+	},
+	{
+		"CostItem": "907047301:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320221:500",
+		"ItemId": 907057301
+	},
+	{
+		"CostItem": "907047302:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320222:500",
+		"ItemId": 907057302
+	},
+	{
+		"CostItem": "907047303:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320223:500",
+		"ItemId": 907057303
+	},
+	{
+		"CostItem": "907047304:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320224:500",
+		"ItemId": 907057304
+	},
+	{
+		"CostItem": "907047305:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320225:500",
+		"ItemId": 907057305
+	},
+	{
+		"CostItem": "907047306:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320226:500",
+		"ItemId": 907057306
+	},
+	{
+		"CostItem": "907047307:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320227:500",
+		"ItemId": 907057307
+	},
+	{
+		"CostItem": "907047308:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320228:500",
+		"ItemId": 907057308
+	},
+	{
+		"CostItem": "907047309:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320229:500",
+		"ItemId": 907057309
+	},
+	{
+		"CostItem": "907047310:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320230:500",
+		"ItemId": 907057310
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320231:100",
+		"ItemId": 907017401
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320232:100",
+		"ItemId": 907017402
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320233:100",
+		"ItemId": 907017403
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320234:100",
+		"ItemId": 907017404
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320235:100",
+		"ItemId": 907017405
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320236:100",
+		"ItemId": 907017406
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320237:100",
+		"ItemId": 907017407
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320238:100",
+		"ItemId": 907017408
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320239:100",
+		"ItemId": 907017409
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320240:100",
+		"ItemId": 907017410
+	},
+	{
+		"CostItem": "907017401:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320231:200",
+		"ItemId": 907027401
+	},
+	{
+		"CostItem": "907017402:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320232:200",
+		"ItemId": 907027402
+	},
+	{
+		"CostItem": "907017403:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320233:200",
+		"ItemId": 907027403
+	},
+	{
+		"CostItem": "907017404:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320234:200",
+		"ItemId": 907027404
+	},
+	{
+		"CostItem": "907017405:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320235:200",
+		"ItemId": 907027405
+	},
+	{
+		"CostItem": "907017406:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320236:200",
+		"ItemId": 907027406
+	},
+	{
+		"CostItem": "907017407:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320237:200",
+		"ItemId": 907027407
+	},
+	{
+		"CostItem": "907017408:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320238:200",
+		"ItemId": 907027408
+	},
+	{
+		"CostItem": "907017409:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320239:200",
+		"ItemId": 907027409
+	},
+	{
+		"CostItem": "907017410:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320240:200",
+		"ItemId": 907027410
+	},
+	{
+		"CostItem": "907027401:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320231:300",
+		"ItemId": 907037401
+	},
+	{
+		"CostItem": "907027402:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320232:300",
+		"ItemId": 907037402
+	},
+	{
+		"CostItem": "907027403:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320233:300",
+		"ItemId": 907037403
+	},
+	{
+		"CostItem": "907027404:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320234:300",
+		"ItemId": 907037404
+	},
+	{
+		"CostItem": "907027405:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320235:300",
+		"ItemId": 907037405
+	},
+	{
+		"CostItem": "907027406:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320236:300",
+		"ItemId": 907037406
+	},
+	{
+		"CostItem": "907027407:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320237:300",
+		"ItemId": 907037407
+	},
+	{
+		"CostItem": "907027408:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320238:300",
+		"ItemId": 907037408
+	},
+	{
+		"CostItem": "907027409:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320239:300",
+		"ItemId": 907037409
+	},
+	{
+		"CostItem": "907027410:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320240:300",
+		"ItemId": 907037410
+	},
+	{
+		"CostItem": "907037401:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320231:400",
+		"ItemId": 907047401
+	},
+	{
+		"CostItem": "907037402:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320232:400",
+		"ItemId": 907047402
+	},
+	{
+		"CostItem": "907037403:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320233:400",
+		"ItemId": 907047403
+	},
+	{
+		"CostItem": "907037404:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320234:400",
+		"ItemId": 907047404
+	},
+	{
+		"CostItem": "907037405:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320235:400",
+		"ItemId": 907047405
+	},
+	{
+		"CostItem": "907037406:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320236:400",
+		"ItemId": 907047406
+	},
+	{
+		"CostItem": "907037407:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320237:400",
+		"ItemId": 907047407
+	},
+	{
+		"CostItem": "907037408:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320238:400",
+		"ItemId": 907047408
+	},
+	{
+		"CostItem": "907037409:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320239:400",
+		"ItemId": 907047409
+	},
+	{
+		"CostItem": "907037410:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320240:400",
+		"ItemId": 907047410
+	},
+	{
+		"CostItem": "907047401:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320231:500",
+		"ItemId": 907057401
+	},
+	{
+		"CostItem": "907047402:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320232:500",
+		"ItemId": 907057402
+	},
+	{
+		"CostItem": "907047403:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320233:500",
+		"ItemId": 907057403
+	},
+	{
+		"CostItem": "907047404:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320234:500",
+		"ItemId": 907057404
+	},
+	{
+		"CostItem": "907047405:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320235:500",
+		"ItemId": 907057405
+	},
+	{
+		"CostItem": "907047406:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320236:500",
+		"ItemId": 907057406
+	},
+	{
+		"CostItem": "907047407:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320237:500",
+		"ItemId": 907057407
+	},
+	{
+		"CostItem": "907047408:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320238:500",
+		"ItemId": 907057408
+	},
+	{
+		"CostItem": "907047409:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320239:500",
+		"ItemId": 907057409
+	},
+	{
+		"CostItem": "907047410:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320240:500",
+		"ItemId": 907057410
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320241:100",
+		"ItemId": 907017501
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320242:100",
+		"ItemId": 907017502
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320243:100",
+		"ItemId": 907017503
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320244:100",
+		"ItemId": 907017504
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320245:100",
+		"ItemId": 907017505
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320246:100",
+		"ItemId": 907017506
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320247:100",
+		"ItemId": 907017507
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320248:100",
+		"ItemId": 907017508
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320249:100",
+		"ItemId": 907017509
+	},
+	{
+		"CostType": 1,
+		"ExtraCostItem": "2320250:100",
+		"ItemId": 907017510
+	},
+	{
+		"CostItem": "907017501:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320241:200",
+		"ItemId": 907027501
+	},
+	{
+		"CostItem": "907017502:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320242:200",
+		"ItemId": 907027502
+	},
+	{
+		"CostItem": "907017503:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320243:200",
+		"ItemId": 907027503
+	},
+	{
+		"CostItem": "907017504:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320244:200",
+		"ItemId": 907027504
+	},
+	{
+		"CostItem": "907017505:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320245:200",
+		"ItemId": 907027505
+	},
+	{
+		"CostItem": "907017506:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320246:200",
+		"ItemId": 907027506
+	},
+	{
+		"CostItem": "907017507:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320247:200",
+		"ItemId": 907027507
+	},
+	{
+		"CostItem": "907017508:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320248:200",
+		"ItemId": 907027508
+	},
+	{
+		"CostItem": "907017509:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320249:200",
+		"ItemId": 907027509
+	},
+	{
+		"CostItem": "907017510:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320250:200",
+		"ItemId": 907027510
+	},
+	{
+		"CostItem": "907027501:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320241:300",
+		"ItemId": 907037501
+	},
+	{
+		"CostItem": "907027502:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320242:300",
+		"ItemId": 907037502
+	},
+	{
+		"CostItem": "907027503:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320243:300",
+		"ItemId": 907037503
+	},
+	{
+		"CostItem": "907027504:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320244:300",
+		"ItemId": 907037504
+	},
+	{
+		"CostItem": "907027505:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320245:300",
+		"ItemId": 907037505
+	},
+	{
+		"CostItem": "907027506:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320246:300",
+		"ItemId": 907037506
+	},
+	{
+		"CostItem": "907027507:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320247:300",
+		"ItemId": 907037507
+	},
+	{
+		"CostItem": "907027508:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320248:300",
+		"ItemId": 907037508
+	},
+	{
+		"CostItem": "907027509:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320249:300",
+		"ItemId": 907037509
+	},
+	{
+		"CostItem": "907027510:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320250:300",
+		"ItemId": 907037510
+	},
+	{
+		"CostItem": "907037501:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320241:400",
+		"ItemId": 907047501
+	},
+	{
+		"CostItem": "907037502:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320242:400",
+		"ItemId": 907047502
+	},
+	{
+		"CostItem": "907037503:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320243:400",
+		"ItemId": 907047503
+	},
+	{
+		"CostItem": "907037504:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320244:400",
+		"ItemId": 907047504
+	},
+	{
+		"CostItem": "907037505:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320245:400",
+		"ItemId": 907047505
+	},
+	{
+		"CostItem": "907037506:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320246:400",
+		"ItemId": 907047506
+	},
+	{
+		"CostItem": "907037507:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320247:400",
+		"ItemId": 907047507
+	},
+	{
+		"CostItem": "907037508:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320248:400",
+		"ItemId": 907047508
+	},
+	{
+		"CostItem": "907037509:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320249:400",
+		"ItemId": 907047509
+	},
+	{
+		"CostItem": "907037510:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320250:400",
+		"ItemId": 907047510
+	},
+	{
+		"CostItem": "907047501:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320241:500",
+		"ItemId": 907057501
+	},
+	{
+		"CostItem": "907047502:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320242:500",
+		"ItemId": 907057502
+	},
+	{
+		"CostItem": "907047503:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320243:500",
+		"ItemId": 907057503
+	},
+	{
+		"CostItem": "907047504:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320244:500",
+		"ItemId": 907057504
+	},
+	{
+		"CostItem": "907047505:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320245:500",
+		"ItemId": 907057505
+	},
+	{
+		"CostItem": "907047506:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320246:500",
+		"ItemId": 907057506
+	},
+	{
+		"CostItem": "907047507:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320247:500",
+		"ItemId": 907057507
+	},
+	{
+		"CostItem": "907047508:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320248:500",
+		"ItemId": 907057508
+	},
+	{
+		"CostItem": "907047509:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320249:500",
+		"ItemId": 907057509
+	},
+	{
+		"CostItem": "907047510:3",
+		"CostType": 2,
+		"ExtraCostItem": "2320250:500",
+		"ItemId": 907057510
+	}
+]

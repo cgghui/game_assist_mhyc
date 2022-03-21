@@ -1,0 +1,83 @@
+[
+	{
+		"ActId": 601,
+		"Desc": "登录返利",
+		"Name": "登录返利",
+		"NeedItemId": 2,
+		"NeedItemNum": 3000,
+		"RebateItems": "2:30000",
+		"Times": 10
+	},
+	{
+		"ActId": 602,
+		"Desc": "闯关返利",
+		"Name": "闯关返利",
+		"NeedItemId": 1,
+		"NeedItemNum": 250,
+		"RebateItems": "1:5000",
+		"Times": 20
+	},
+	{
+		"ActId": 603,
+		"Desc": "成长返利",
+		"Name": "成长返利",
+		"NeedItemNum": 30,
+		"RebateItems": "2:150000|1:15000",
+		"Times": 100,
+		"UseYuan": 1
+	},
+	{
+		"ActId": 611,
+		"Desc": "登录返利2期",
+		"Name": "登录返利",
+		"NeedItemId": 2,
+		"NeedItemNum": 30000,
+		"RebateItems": "2:300000",
+		"Times": 10
+	},
+	{
+		"ActId": 612,
+		"Desc": "闯关返利2期",
+		"Name": "闯关返利",
+		"NeedItemId": 1,
+		"NeedItemNum": 500,
+		"RebateItems": "1:10000",
+		"Times": 20
+	},
+	{
+		"ActId": 613,
+		"Desc": "成长返利2期",
+		"Name": "成长返利",
+		"NeedItemNum": 198,
+		"RebateItems": "2:792000|1:39600",
+		"Times": 60,
+		"UseYuan": 1
+	},
+	{
+		"ActId": 616,
+		"Desc": "登录返利3期",
+		"Name": "登录返利",
+		"NeedItemNum": 60,
+		"RebateItems": "1:18000",
+		"Times": 30,
+		"UseYuan": 1
+	},
+	{
+		"ActId": 617,
+		"Desc": "登录返利3期",
+		"Name": "闯关返利",
+		"NeedItemNum": 98,
+		"RebateItems": "1:49000",
+		"Times": 50,
+		"UseYuan": 1
+	},
+	{
+		"ActId": 618,
+		"Desc": "登录返利3期",
+		"Name": "成长返利",
+		"NeedItemNum": 198,
+		"RebateItems": "2:990000|1:99000",
+		"Times": 100,
+		"UseYuan": 1
+	}
+]

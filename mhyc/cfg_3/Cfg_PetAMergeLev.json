@@ -1,0 +1,152 @@
+[
+	{
+		"AttrPresent": 500,
+		"Id": 1,
+		"Lev": 1
+	},
+	{
+		"AttrPresent": 1000,
+		"Id": 2,
+		"Lev": 2
+	},
+	{
+		"AttrPresent": 1500,
+		"Id": 3,
+		"Lev": 3
+	},
+	{
+		"AttrPresent": 2000,
+		"Id": 4,
+		"Lev": 4
+	},
+	{
+		"AttrPresent": 2500,
+		"Id": 5,
+		"Lev": 5
+	},
+	{
+		"AttrPresent": 3000,
+		"Id": 6,
+		"Lev": 6
+	},
+	{
+		"AttrPresent": 3500,
+		"Id": 7,
+		"Lev": 7
+	},
+	{
+		"AttrPresent": 4000,
+		"Id": 8,
+		"Lev": 8
+	},
+	{
+		"AttrPresent": 4500,
+		"Id": 9,
+		"Lev": 9
+	},
+	{
+		"AttrPresent": 5000,
+		"Id": 10,
+		"Lev": 10
+	},
+	{
+		"AttrPresent": 5500,
+		"Id": 11,
+		"Lev": 11
+	},
+	{
+		"AttrPresent": 6000,
+		"Id": 12,
+		"Lev": 12
+	},
+	{
+		"AttrPresent": 6500,
+		"Id": 13,
+		"Lev": 13
+	},
+	{
+		"AttrPresent": 7000,
+		"Id": 14,
+		"Lev": 14
+	},
+	{
+		"AttrPresent": 7500,
+		"Id": 15,
+		"Lev": 15
+	},
+	{
+		"AttrPresent": 8000,
+		"Id": 16,
+		"Lev": 16
+	},
+	{
+		"AttrPresent": 8500,
+		"Id": 17,
+		"Lev": 17
+	},
+	{
+		"AttrPresent": 9000,
+		"Id": 18,
+		"Lev": 18
+	},
+	{
+		"AttrPresent": 9500,
+		"Id": 19,
+		"Lev": 19
+	},
+	{
+		"AttrPresent": 10000,
+		"Id": 20,
+		"Lev": 20
+	},
+	{
+		"AttrPresent": 10500,
+		"Id": 21,
+		"Lev": 21
+	},
+	{
+		"AttrPresent": 11000,
+		"Id": 22,
+		"Lev": 22
+	},
+	{
+		"AttrPresent": 11500,
+		"Id": 23,
+		"Lev": 23
+	},
+	{
+		"AttrPresent": 12000,
+		"Id": 24,
+		"Lev": 24
+	},
+	{
+		"AttrPresent": 12500,
+		"Id": 25,
+		"Lev": 25
+	},
+	{
+		"AttrPresent": 13000,
+		"Id": 26,
+		"Lev": 26
+	},
+	{
+		"AttrPresent": 13500,
+		"Id": 27,
+		"Lev": 27
+	},
+	{
+		"AttrPresent": 14000,
+		"Id": 28,
+		"Lev": 28
+	},
+	{
+		"AttrPresent": 14500,
+		"Id": 29,
+		"Lev": 29
+	},
+	{
+		"AttrPresent": 15000,
+		"Id": 30,
+		"Lev": 30
+	}
+]

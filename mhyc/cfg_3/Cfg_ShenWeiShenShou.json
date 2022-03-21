@@ -1,0 +1,27 @@
+[
+	{
+		"HPPercent": 20,
+		"Id": 1,
+		"Prize": 221
+	},
+	{
+		"HPPercent": 40,
+		"Id": 2,
+		"Prize": 222
+	},
+	{
+		"HPPercent": 60,
+		"Id": 3,
+		"Prize": 223
+	},
+	{
+		"HPPercent": 80,
+		"Id": 4,
+		"Prize": 224
+	},
+	{
+		"HPPercent": 100,
+		"Id": 5,
+		"Prize": 225
+	}
+]

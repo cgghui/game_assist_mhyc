@@ -1,0 +1,14 @@
+[
+	{
+		"CollectCD": 30,
+		"MaxTimes": 3,
+		"MonsterId": 6551,
+		"XsdId": 1
+	},
+	{
+		"CollectCD": 30,
+		"MaxTimes": 3,
+		"MonsterId": 6552,
+		"XsdId": 2
+	}
+]

@@ -1,0 +1,141 @@
+[
+	{
+		"Count": 5,
+		"Id": 1,
+		"MaxNum": 10,
+		"Type": 1
+	},
+	{
+		"Count": 10,
+		"Id": 2,
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Type": 1
+	},
+	{
+		"Count": 15,
+		"Id": 3,
+		"MaxNum": 30,
+		"MinNum": 21,
+		"Type": 1
+	},
+	{
+		"Count": 20,
+		"Id": 4,
+		"MaxNum": 40,
+		"MinNum": 31,
+		"Type": 1
+	},
+	{
+		"Count": 25,
+		"Id": 5,
+		"MaxNum": 50,
+		"MinNum": 41,
+		"Type": 1
+	},
+	{
+		"Count": 30,
+		"Id": 6,
+		"MaxNum": 60,
+		"MinNum": 51,
+		"Type": 1
+	},
+	{
+		"Count": 35,
+		"Id": 7,
+		"MaxNum": 70,
+		"MinNum": 61,
+		"Type": 1
+	},
+	{
+		"Count": 40,
+		"Id": 8,
+		"MaxNum": 80,
+		"MinNum": 71,
+		"Type": 1
+	},
+	{
+		"Count": 45,
+		"Id": 9,
+		"MaxNum": 90,
+		"MinNum": 81,
+		"Type": 1
+	},
+	{
+		"Count": 50,
+		"Id": 10,
+		"MaxNum": 1000,
+		"MinNum": 91,
+		"Type": 1
+	},
+	{
+		"Id": 21,
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward": 411,
+		"Type": 2
+	},
+	{
+		"Id": 22,
+		"MaxNum": 3,
+		"MinNum": 2,
+		"Reward": 412,
+		"Type": 2
+	},
+	{
+		"Id": 23,
+		"MaxNum": 10,
+		"MinNum": 4,
+		"Reward": 413,
+		"Type": 2
+	},
+	{
+		"Id": 24,
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward": 414,
+		"Type": 2
+	},
+	{
+		"Id": 25,
+		"MaxNum": 50,
+		"MinNum": 21,
+		"Reward": 415,
+		"Type": 2
+	},
+	{
+		"Id": 31,
+		"MaxNum": 1,
+		"MinNum": 1,
+		"Reward": 421,
+		"Type": 3
+	},
+	{
+		"Id": 32,
+		"MaxNum": 3,
+		"MinNum": 2,
+		"Reward": 422,
+		"Type": 3
+	},
+	{
+		"Id": 33,
+		"MaxNum": 10,
+		"MinNum": 4,
+		"Reward": 423,
+		"Type": 3
+	},
+	{
+		"Id": 34,
+		"MaxNum": 20,
+		"MinNum": 11,
+		"Reward": 424,
+		"Type": 3
+	},
+	{
+		"Id": 35,
+		"MaxNum": 50,
+		"MinNum": 21,
+		"Reward": 425,
+		"Type": 3
+	}
+]

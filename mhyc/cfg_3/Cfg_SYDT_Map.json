@@ -1,0 +1,222 @@
+[
+	{
+		"Coordinate": "[1202,1453]",
+		"Direction": 3,
+		"FindLocation": "[[43,47],[42,44],[40,42]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_rongyao",
+		"ID": 1,
+		"RankTitle": "荣耀赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/rongyao",
+		"Title": "荣耀赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_rongyao"
+	},
+	{
+		"Coordinate": "[1945,1108]",
+		"Direction": 3,
+		"FindLocation": "[[55,38],[58,40],[62,40]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_rongyao",
+		"ID": 2,
+		"RankTitle": "荣耀赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/rongyao",
+		"Title": "荣耀赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_rongyao"
+	},
+	{
+		"Coordinate": "[1653,1657]",
+		"Direction": 3,
+		"FindLocation": "[[57,54],[54,57],[57,51]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_xinghuo",
+		"ID": 3,
+		"RankTitle": "星火赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/xinghuo",
+		"Title": "星火赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_xinghuo"
+	},
+	{
+		"Coordinate": "[2353,1311]",
+		"Direction": 3,
+		"FindLocation": "[[68,44],[71,46],[75,46]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_qiji",
+		"ID": 4,
+		"RankTitle": "奇迹赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/qiji",
+		"Title": "奇迹赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_qiji"
+	},
+	{
+		"Coordinate": "[2465,2056]",
+		"Direction": 3,
+		"FindLocation": "[[82,66],[82,64],[80,62]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_anye",
+		"ID": 5,
+		"RankTitle": "暗夜赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/anye",
+		"Title": "暗夜赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_anye"
+	},
+	{
+		"Coordinate": "[3146,1702]",
+		"Direction": 3,
+		"FindLocation": "[[93,56],[96,58],[100,58]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_hundun",
+		"ID": 6,
+		"RankTitle": "混沌赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/hundun",
+		"Title": "混沌赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_hundun"
+	},
+	{
+		"Coordinate": "[3063,2496]",
+		"Direction": 3,
+		"FindLocation": "[[101,80],[99,84],[93,84]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_xianxing",
+		"ID": 7,
+		"RankTitle": "先行赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/xianxing",
+		"Title": "先行赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_xianxing"
+	},
+	{
+		"Coordinate": "[3937,2051]",
+		"Direction": 3,
+		"FindLocation": "[[118,68],[122,70],[127,69]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_langchao",
+		"ID": 8,
+		"RankTitle": "浪潮赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/langchao",
+		"Title": "浪潮赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_langchao"
+	},
+	{
+		"Coordinate": "[329,2097]",
+		"Direction": 3,
+		"FindLocation": "[[15,67],[14,64],[11,61]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_wujian",
+		"ID": 9,
+		"RankTitle": "无间赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/wujian",
+		"Title": "无间赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_wujian"
+	},
+	{
+		"Coordinate": "[794,1681]",
+		"Direction": 3,
+		"FindLocation": "[[20,57],[23,58],[27,58]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_xiuluo",
+		"ID": 10,
+		"RankTitle": "修罗赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/xiuluo",
+		"Title": "修罗赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_xiuluo"
+	},
+	{
+		"Coordinate": "[832,2352]",
+		"Direction": 3,
+		"FindLocation": "[[31,76],[31,73],[29,71]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_lianyu",
+		"ID": 11,
+		"RankTitle": "炼狱赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/lianyu",
+		"Title": "炼狱赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_lianyu"
+	},
+	{
+		"Coordinate": "[1211,1901]",
+		"Direction": 3,
+		"FindLocation": "[[33,63],[37,64],[42,63]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_yongjie",
+		"ID": 12,
+		"RankTitle": "永劫赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/yongjie",
+		"Title": "永劫赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_yongjie"
+	},
+	{
+		"Coordinate": "[1346,2624]",
+		"Direction": 3,
+		"FindLocation": "[[47,81],[45,79],[43,79]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_poxiao",
+		"ID": 13,
+		"RankTitle": "破晓赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/poxiao",
+		"Title": "破晓赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_poxiao"
+	},
+	{
+		"Coordinate": "[1992,2280]",
+		"Direction": 3,
+		"FindLocation": "[[57,75],[60,77],[64,76]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_shuguang",
+		"ID": 14,
+		"RankTitle": "曙光赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/shuguang",
+		"Title": "曙光赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_shuguang"
+	},
+	{
+		"Coordinate": "[2476,847]",
+		"Direction": 3,
+		"FindLocation": "[[82,29],[82,26],[80,24]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_liming",
+		"ID": 15,
+		"RankTitle": "黎明赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/liming",
+		"Title": "黎明赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_liming"
+	},
+	{
+		"Coordinate": "[3160,673]",
+		"Direction": 3,
+		"FindLocation": "[[94,24],[97,26],[101,26]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_liefeng",
+		"ID": 16,
+		"RankTitle": "烈风赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/liefeng",
+		"Title": "烈风赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_liefeng"
+	},
+	{
+		"Coordinate": "[2842,1058]",
+		"Direction": 3,
+		"FindLocation": "[[94,35],[91,38],[93,32]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_nuhuo",
+		"ID": 17,
+		"RankTitle": "怒火赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/nuhuo",
+		"Title": "怒火赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_nuhuo"
+	},
+	{
+		"Coordinate": "[3532,1372]",
+		"Direction": 3,
+		"FindLocation": "[[115,44],[115,42],[113,40]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_kuanglei",
+		"ID": 18,
+		"RankTitle": "狂雷赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/kuanglei",
+		"Title": "狂雷赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_kuanglei"
+	},
+	{
+		"Coordinate": "[3578,896]",
+		"Direction": 3,
+		"FindLocation": "[[107,31],[111,33],[115,33]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_xiuluo",
+		"ID": 19,
+		"RankTitle": "第19赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/xiuluo",
+		"Title": "第19赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_xiuluo"
+	},
+	{
+		"Coordinate": "[3998,1103]",
+		"Direction": 3,
+		"FindLocation": "[[120,37],[124,40],[128,39]]",
+		"FirstTitle": "i/m/newAct/shenYu/font_xiuluo",
+		"ID": 20,
+		"RankTitle": "第20赛季",
+		"SYBZTitle": "i/m/newAct/shenYu/xiuluo",
+		"Title": "第20赛季神王",
+		"UITitle": "i/m/newAct/honrFm/font_xiuluo"
+	}
+]

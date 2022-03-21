@@ -1,0 +1,128 @@
+[
+	{
+		"Id": 1,
+		"TaskExp": 100,
+		"TaskPrize": "2400101:1",
+		"TaskStar": 1
+	},
+	{
+		"Id": 2,
+		"TaskExp": 150,
+		"TaskPrize": "2400102:1",
+		"TaskStar": 1
+	},
+	{
+		"Id": 3,
+		"TaskExp": 200,
+		"TaskPrize": "2400103:1",
+		"TaskStar": 1
+	},
+	{
+		"Id": 4,
+		"TaskExp": 100,
+		"TaskPrize": "2400111:1",
+		"TaskStar": 2
+	},
+	{
+		"Id": 5,
+		"TaskExp": 150,
+		"TaskPrize": "2400112:1",
+		"TaskStar": 2
+	},
+	{
+		"Id": 6,
+		"TaskExp": 200,
+		"TaskPrize": "2400113:1",
+		"TaskStar": 2
+	},
+	{
+		"Id": 7,
+		"TaskExp": 100,
+		"TaskPrize": "2400121:1",
+		"TaskStar": 3
+	},
+	{
+		"Id": 8,
+		"TaskExp": 150,
+		"TaskPrize": "2400122:1",
+		"TaskStar": 3
+	},
+	{
+		"Id": 9,
+		"TaskExp": 200,
+		"TaskPrize": "2400123:1",
+		"TaskStar": 3
+	},
+	{
+		"Id": 10,
+		"TaskExp": 100,
+		"TaskPrize": "2400131:1",
+		"TaskStar": 4
+	},
+	{
+		"Id": 11,
+		"TaskExp": 150,
+		"TaskPrize": "2400132:1",
+		"TaskStar": 4
+	},
+	{
+		"Id": 12,
+		"TaskExp": 200,
+		"TaskPrize": "2400133:1",
+		"TaskStar": 4
+	},
+	{
+		"Id": 13,
+		"TaskExp": 100,
+		"TaskPrize": "2400141:1",
+		"TaskStar": 5
+	},
+	{
+		"Id": 14,
+		"TaskExp": 150,
+		"TaskPrize": "2400142:1",
+		"TaskStar": 5
+	},
+	{
+		"Id": 15,
+		"TaskExp": 200,
+		"TaskPrize": "2400143:1",
+		"TaskStar": 5
+	},
+	{
+		"Id": 16,
+		"TaskExp": 100,
+		"TaskPrize": "2400151:1",
+		"TaskStar": 6
+	},
+	{
+		"Id": 17,
+		"TaskExp": 150,
+		"TaskPrize": "2400152:1",
+		"TaskStar": 6
+	},
+	{
+		"Id": 18,
+		"TaskExp": 200,
+		"TaskPrize": "2400153:1",
+		"TaskStar": 6
+	},
+	{
+		"Id": 19,
+		"TaskExp": 100,
+		"TaskPrize": "2400161:1",
+		"TaskStar": 7
+	},
+	{
+		"Id": 20,
+		"TaskExp": 150,
+		"TaskPrize": "2400162:1",
+		"TaskStar": 7
+	},
+	{
+		"Id": 21,
+		"TaskExp": 200,
+		"TaskPrize": "2400163:1",
+		"TaskStar": 7
+	}
+]

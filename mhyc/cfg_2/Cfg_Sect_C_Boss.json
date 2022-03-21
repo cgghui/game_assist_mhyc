@@ -1,0 +1,38 @@
+[
+	{
+		"BossId": 150,
+		"BoxItemId": 2401061,
+		"Fx": 4,
+		"Id": 1,
+		"MonsterId": 6601,
+		"MonsterX": 44,
+		"MonsterY": 37,
+		"RefreshId": 121,
+		"RewardId": 402,
+		"Times": 5
+	},
+	{
+		"BossId": 551,
+		"BoxItemId": 2401061,
+		"Fx": 4,
+		"Id": 2,
+		"MonsterId": 6601,
+		"MonsterX": 44,
+		"MonsterY": 37,
+		"RefreshId": 122,
+		"RewardId": 402,
+		"Times": 5
+	},
+	{
+		"BossId": 536,
+		"BoxItemId": 2401061,
+		"Fx": 4,
+		"Id": 3,
+		"MonsterId": 6601,
+		"MonsterX": 44,
+		"MonsterY": 37,
+		"RefreshId": 123,
+		"RewardId": 402,
+		"Times": 5
+	}
+]

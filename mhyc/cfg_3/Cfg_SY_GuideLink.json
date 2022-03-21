@@ -1,0 +1,471 @@
+[
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10001,
+		"Direct": 2,
+		"NextID": 10002,
+		"TaskId": 1,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10002,
+		"Direct": 1,
+		"TaskId": 1,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 2101,
+		"ClientFuncId": 10011,
+		"Direct": 3,
+		"NextID": 10012,
+		"TaskId": 2,
+		"TipsContent": "点击行动值"
+	},
+	{
+		"ButtonID": 2102,
+		"ClientFuncId": 10012,
+		"Direct": 1,
+		"NextID": 10013,
+		"Ren": 2,
+		"TaskId": 2,
+		"TipsContent": "使用行动丹可恢复行动值"
+	},
+	{
+		"ButtonID": 2103,
+		"ClientFuncId": 10013,
+		"Direct": 2,
+		"TaskId": 2,
+		"TipsContent": "点击关闭"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10101,
+		"Direct": 2,
+		"NextID": 10102,
+		"TaskId": 3,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10102,
+		"Direct": 1,
+		"TaskId": 3,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10201,
+		"Direct": 2,
+		"NextID": 10202,
+		"TaskId": 4,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10202,
+		"Direct": 1,
+		"TaskId": 4,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10301,
+		"Direct": 2,
+		"NextID": 10302,
+		"TaskId": 5,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10302,
+		"Direct": 1,
+		"TaskId": 5,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1101,
+		"ClientFuncId": 10401,
+		"Direct": 2,
+		"NextID": 10402,
+		"TaskId": 6,
+		"TipsContent": "点击商店"
+	},
+	{
+		"ButtonID": 1102,
+		"ClientFuncId": 10402,
+		"Direct": 1,
+		"NextID": 10403,
+		"Ren": 1,
+		"TaskId": 6,
+		"TipsContent": "合理选购道具和BUFF\\n能让神域大计事半功倍哦！"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 10403,
+		"Direct": 2,
+		"TaskId": 6,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10501,
+		"Direct": 2,
+		"NextID": 10502,
+		"TaskId": 7,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10502,
+		"Direct": 1,
+		"TaskId": 7,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1301,
+		"ClientFuncId": 10601,
+		"Direct": 3,
+		"NextID": 10602,
+		"TaskId": 8,
+		"TipsContent": "点击地图"
+	},
+	{
+		"ButtonID": 1302,
+		"ClientFuncId": 10602,
+		"Direct": 1,
+		"NextID": 10603,
+		"Ren": 1,
+		"TaskId": 8,
+		"TipsContent": "灵活运用小地图\\n攻城略地快人一步！"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 10603,
+		"Direct": 2,
+		"TaskId": 8,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1401,
+		"ClientFuncId": 10701,
+		"Direct": 3,
+		"NextID": 10702,
+		"TaskId": 9,
+		"TipsContent": "点击神坛信息"
+	},
+	{
+		"ButtonID": 1402,
+		"ClientFuncId": 10702,
+		"Direct": 4,
+		"NextID": 10703,
+		"Ren": 3,
+		"TaskId": 9,
+		"TipsContent": "查看已占领的神坛位置"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 10703,
+		"Direct": 2,
+		"TaskId": 9,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 10801,
+		"Direct": 2,
+		"NextID": 10802,
+		"TaskId": 10,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 10802,
+		"Direct": 1,
+		"TaskId": 10,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1501,
+		"ClientFuncId": 10901,
+		"Direct": 2,
+		"NextID": 10902,
+		"TaskId": 11,
+		"TipsContent": "点击赛季"
+	},
+	{
+		"ButtonID": 1502,
+		"ClientFuncId": 10902,
+		"Direct": 1,
+		"NextID": 10904,
+		"Ren": 3,
+		"TaskId": 11,
+		"TipsContent": "这里可以查看\\n当前赛季的时间和进度"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 10904,
+		"Direct": 2,
+		"TaskId": 11,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1601,
+		"ClientFuncId": 11001,
+		"Direct": 2,
+		"NextID": 11002,
+		"TaskId": 12,
+		"TipsContent": "点击排行"
+	},
+	{
+		"ButtonID": 1602,
+		"ClientFuncId": 11002,
+		"Direct": 1,
+		"NextID": 11003,
+		"Ren": 1,
+		"TaskId": 12,
+		"TipsContent": "本阵营个人战功排行"
+	},
+	{
+		"ButtonID": 1603,
+		"ClientFuncId": 11003,
+		"Direct": 1,
+		"NextID": 11004,
+		"Ren": 1,
+		"TaskId": 12,
+		"TipsContent": "同阵营仙宗战功排行"
+	},
+	{
+		"ButtonID": 1604,
+		"ClientFuncId": 11004,
+		"Direct": 1,
+		"NextID": 11005,
+		"Ren": 1,
+		"TaskId": 12,
+		"TipsContent": "全神域个人战功排行"
+	},
+	{
+		"ButtonID": 1605,
+		"ClientFuncId": 11005,
+		"Direct": 1,
+		"NextID": 11006,
+		"Ren": 1,
+		"TaskId": 12,
+		"TipsContent": "全神域4个阵营战功排行"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 11006,
+		"Direct": 2,
+		"TaskId": 12,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 11101,
+		"Direct": 2,
+		"NextID": 11102,
+		"TaskId": 13,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 11102,
+		"Direct": 1,
+		"TaskId": 13,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 1701,
+		"ClientFuncId": 11201,
+		"Direct": 2,
+		"NextID": 11202,
+		"TaskId": 14,
+		"TipsContent": "点击活动"
+	},
+	{
+		"ButtonID": 1702,
+		"ClientFuncId": 11202,
+		"Direct": 1,
+		"NextID": 11203,
+		"Ren": 1,
+		"TaskId": 14,
+		"TipsContent": "注意限时副本的开启时间哦"
+	},
+	{
+		"ButtonID": 1703,
+		"ClientFuncId": 11203,
+		"Direct": 2,
+		"NextID": 11204,
+		"Ren": 1,
+		"TaskId": 14,
+		"TipsContent": "限时副本中完成成就任务\\n可领取丰厚奖励"
+	},
+	{
+		"ButtonID": 1801,
+		"ClientFuncId": 11204,
+		"Direct": 2,
+		"NextID": 11205,
+		"TaskId": 14,
+		"TipsContent": "点击关闭"
+	},
+	{
+		"ButtonID": 1704,
+		"ClientFuncId": 11205,
+		"Direct": 2,
+		"NextID": 11206,
+		"Ren": 1,
+		"TaskId": 14,
+		"TipsContent": "限时副本比拼积分，\\n争夺专属大奖"
+	},
+	{
+		"ButtonID": 1801,
+		"ClientFuncId": 11206,
+		"Direct": 2,
+		"NextID": 11207,
+		"TaskId": 14,
+		"TipsContent": "点击关闭"
+	},
+	{
+		"ButtonID": 1705,
+		"ClientFuncId": 11207,
+		"Direct": 1,
+		"NextID": 11208,
+		"Ren": 1,
+		"TaskId": 14,
+		"TipsContent": "记得准时参与活动哦！"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 11208,
+		"Direct": 2,
+		"TaskId": 14,
+		"TipsContent": "点击返回"
+	},
+	{
+		"ButtonID": 1901,
+		"ClientFuncId": 11301,
+		"Direct": 2,
+		"NextID": 11302,
+		"TaskId": 15,
+		"TipsContent": "点击殿堂"
+	},
+	{
+		"ButtonID": 1902,
+		"ClientFuncId": 11302,
+		"Direct": 1,
+		"NextID": 11303,
+		"Ren": 1,
+		"TaskId": 15,
+		"TipsContent": "前往殿堂\\n一睹神王风采！"
+	},
+	{
+		"ButtonID": 2001,
+		"ClientFuncId": 11303,
+		"Direct": 1,
+		"TaskId": 15,
+		"TipsContent": "点击确定"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 11401,
+		"Direct": 2,
+		"NextID": 11402,
+		"TaskId": 16,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 11402,
+		"Direct": 1,
+		"TaskId": 16,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 2101,
+		"ClientFuncId": 11501,
+		"Direct": 3,
+		"NextID": 11502,
+		"TaskId": 17,
+		"TipsContent": "点击行动值"
+	},
+	{
+		"ButtonID": 2102,
+		"ClientFuncId": 11502,
+		"Direct": 1,
+		"NextID": 11503,
+		"Ren": 2,
+		"TaskId": 17,
+		"TipsContent": "使用行动丹可恢复行动值"
+	},
+	{
+		"ButtonID": 2103,
+		"ClientFuncId": 11503,
+		"Direct": 2,
+		"TaskId": 17,
+		"TipsContent": "点击关闭"
+	},
+	{
+		"ButtonID": 1001,
+		"ClientFuncId": 11601,
+		"Direct": 2,
+		"NextID": 11602,
+		"TaskId": 18,
+		"TipsContent": "点击神位"
+	},
+	{
+		"ButtonID": 1002,
+		"ClientFuncId": 11602,
+		"Direct": 1,
+		"TaskId": 18,
+		"TipsContent": "请完成神位任务"
+	},
+	{
+		"ButtonID": 2201,
+		"ClientFuncId": 11701,
+		"Direct": 2,
+		"NextID": 11702,
+		"TaskId": 19,
+		"TipsContent": "点击神域指南"
+	},
+	{
+		"ButtonID": 2202,
+		"ClientFuncId": 11702,
+		"Direct": 3,
+		"NextID": 11703,
+		"Ren": 3,
+		"TaskId": 19,
+		"TipsContent": "神域的基础玩法介绍\\n滑动到最下方可领奖哦"
+	},
+	{
+		"ButtonID": 2203,
+		"ClientFuncId": 11703,
+		"Direct": 3,
+		"NextID": 11704,
+		"TaskId": 19,
+		"TipsContent": "归墟之境玩法介绍"
+	},
+	{
+		"ButtonID": 2204,
+		"ClientFuncId": 11704,
+		"Direct": 3,
+		"NextID": 11705,
+		"TaskId": 19,
+		"TipsContent": "内域玩法介绍"
+	},
+	{
+		"ButtonID": 2205,
+		"ClientFuncId": 11705,
+		"Direct": 3,
+		"NextID": 11706,
+		"TaskId": 19,
+		"TipsContent": "云顶天宫玩法介绍"
+	},
+	{
+		"ButtonID": 1201,
+		"ClientFuncId": 11706,
+		"Direct": 2,
+		"TaskId": 19,
+		"TipsContent": "点击返回"
+	}
+]

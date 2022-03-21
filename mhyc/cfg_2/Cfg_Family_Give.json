@@ -1,0 +1,48 @@
+[
+	{
+		"GetItem": "9:30",
+		"ItemDesc": "捐20仙玉得20繁荣度,30家族币",
+		"ItemId": 1,
+		"ItemNum": 20,
+		"LimitTimesId": 90501,
+		"Value": 20
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐100元宝得10繁荣度,10家族币",
+		"ItemId": 2,
+		"ItemNum": 100,
+		"LimitTimesId": 90502,
+		"Value": 10
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐1个得10繁荣度,10家族币",
+		"ItemId": 2100002,
+		"Value": 10
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐1个得20繁荣度,10家族币",
+		"ItemId": 2100003,
+		"Value": 20
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐1个得30繁荣度,10家族币",
+		"ItemId": 2100004,
+		"Value": 30
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐1个得40繁荣度,10家族币",
+		"ItemId": 2100005,
+		"Value": 40
+	},
+	{
+		"GetItem": "9:10",
+		"ItemDesc": "捐1个得50繁荣度,10家族币",
+		"ItemId": 2100006,
+		"Value": 50
+	}
+]

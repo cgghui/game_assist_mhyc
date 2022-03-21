@@ -1,0 +1,1582 @@
+[
+	{
+		"Icon": 642013,
+		"Id": 1,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "家族经验",
+		"Quality": 1,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Icon": 642014,
+		"Id": 2,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "家族金币",
+		"Quality": 1,
+		"Type": "23",
+		"Value": "200"
+	},
+	{
+		"Icon": 642013,
+		"Id": 1,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "家族经验",
+		"Quality": 2,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Icon": 642014,
+		"Id": 2,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "家族金币",
+		"Quality": 2,
+		"Type": "23",
+		"Value": "400"
+	},
+	{
+		"Icon": 642013,
+		"Id": 1,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "家族经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Icon": 642014,
+		"Id": 2,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "家族金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "600"
+	},
+	{
+		"Icon": 642013,
+		"Id": 1,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "家族经验",
+		"Quality": 4,
+		"Type": "13",
+		"Value": "700"
+	},
+	{
+		"Icon": 642014,
+		"Id": 2,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "家族金币",
+		"Quality": 4,
+		"Type": "23",
+		"Value": "800"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642013,
+		"Id": 1,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "家族经验",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "900"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642014,
+		"Id": 2,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "家族金币",
+		"Quality": 5,
+		"Type": "23",
+		"Value": "1000"
+	},
+	{
+		"Circle": 7,
+		"Icon": 642001,
+		"Id": 101,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 7,
+		"Name": "宗主光环",
+		"Quality": 7,
+		"Type": "11",
+		"Value": "2000"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642002,
+		"Id": 102,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 6,
+		"Name": "惜败宗主光环",
+		"Quality": 6,
+		"Type": "11",
+		"Value": "1500"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642003,
+		"Id": 103,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 6,
+		"Name": "尊者光环",
+		"Quality": 6,
+		"Type": "11",
+		"Value": "1500"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642004,
+		"Id": 104,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 5,
+		"Name": "长老光环",
+		"Quality": 5,
+		"Type": "11",
+		"Value": "1000"
+	},
+	{
+		"Icon": 642005,
+		"Id": 105,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 4,
+		"Name": "护法光环",
+		"Quality": 4,
+		"Type": "11",
+		"Value": "500"
+	},
+	{
+		"Icon": 642015,
+		"Id": 301,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "房屋BUFF",
+		"Quality": 1,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Icon": 642015,
+		"Id": 302,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "房屋BUFF",
+		"Quality": 2,
+		"Type": "13",
+		"Value": "1000"
+	},
+	{
+		"Icon": 642015,
+		"Id": 303,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "房屋BUFF",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "1500"
+	},
+	{
+		"Icon": 642012,
+		"Id": 501,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 1,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Icon": 642012,
+		"Id": 502,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 1,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Icon": 642012,
+		"Id": 503,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 1,
+		"Type": "13",
+		"Value": "600"
+	},
+	{
+		"Icon": 642012,
+		"Id": 504,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 2,
+		"Type": "13",
+		"Value": "800"
+	},
+	{
+		"Icon": 642012,
+		"Id": 505,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 2,
+		"Type": "13",
+		"Value": "1000"
+	},
+	{
+		"Icon": 642012,
+		"Id": 506,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 2,
+		"Type": "13",
+		"Value": "1200"
+	},
+	{
+		"Icon": 642012,
+		"Id": 507,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "1400"
+	},
+	{
+		"Icon": 642012,
+		"Id": 508,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "1600"
+	},
+	{
+		"Icon": 642012,
+		"Id": 509,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "1800"
+	},
+	{
+		"Icon": 642012,
+		"Id": 510,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 4,
+		"Type": "13",
+		"Value": "2000"
+	},
+	{
+		"Icon": 642012,
+		"Id": 511,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 4,
+		"Type": "13",
+		"Value": "2200"
+	},
+	{
+		"Icon": 642012,
+		"Id": 512,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 4,
+		"Type": "13",
+		"Value": "2400"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642012,
+		"Id": 513,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "2600"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642012,
+		"Id": 514,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "2800"
+	},
+	{
+		"Circle": 5,
+		"Icon": 642012,
+		"Id": 515,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "3000"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642012,
+		"Id": 516,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 6,
+		"Type": "13",
+		"Value": "3200"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642012,
+		"Id": 517,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 6,
+		"Type": "13",
+		"Value": "3400"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642012,
+		"Id": 518,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "境界光环",
+		"Quality": 6,
+		"Type": "13",
+		"Value": "3600"
+	},
+	{
+		"Circle": 6,
+		"Icon": 642006,
+		"Id": 601,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "主角光环",
+		"Quality": 6,
+		"Type": "33|13|23",
+		"Value": "10000|2000|2000"
+	},
+	{
+		"Icon": 642007,
+		"Id": 610,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "点金手",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Icon": 642007,
+		"Id": 610,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "点金手",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "200"
+	},
+	{
+		"Icon": 642007,
+		"Id": 610,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "点金手",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "300"
+	},
+	{
+		"Icon": 642007,
+		"Id": 610,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "点金手",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "400"
+	},
+	{
+		"Icon": 642007,
+		"Id": 610,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "点金手",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "500"
+	},
+	{
+		"Icon": 642008,
+		"Id": 611,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "远古记忆",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Icon": 642008,
+		"Id": 611,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "远古记忆",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Icon": 642008,
+		"Id": 611,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "远古记忆",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Icon": 642008,
+		"Id": 611,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "远古记忆",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Icon": 642008,
+		"Id": 611,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "远古记忆",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Icon": 642009,
+		"Id": 612,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "探宝",
+		"Quality": 3,
+		"Type": "33",
+		"Value": "100"
+	},
+	{
+		"Icon": 642009,
+		"Id": 612,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "探宝",
+		"Quality": 3,
+		"Type": "33",
+		"Value": "150"
+	},
+	{
+		"Icon": 642009,
+		"Id": 612,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "探宝",
+		"Quality": 3,
+		"Type": "33",
+		"Value": "200"
+	},
+	{
+		"Icon": 642009,
+		"Id": 612,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "探宝",
+		"Quality": 3,
+		"Type": "33",
+		"Value": "250"
+	},
+	{
+		"Icon": 642009,
+		"Id": 612,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "探宝",
+		"Quality": 3,
+		"Type": "33",
+		"Value": "300"
+	},
+	{
+		"Circle": 7,
+		"Icon": 632002,
+		"Id": 650,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力1",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Icon": 632002,
+		"Id": 651,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力2",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Icon": 632002,
+		"Id": 652,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力3",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Icon": 632002,
+		"Id": 653,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力4",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Icon": 632002,
+		"Id": 654,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力5",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Icon": 632002,
+		"Id": 655,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力6",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "600"
+	},
+	{
+		"Icon": 632002,
+		"Id": 656,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力7",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "700"
+	},
+	{
+		"Icon": 632002,
+		"Id": 657,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力8",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "800"
+	},
+	{
+		"Icon": 632002,
+		"Id": 658,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力9",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "900"
+	},
+	{
+		"Icon": 632002,
+		"Id": 659,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力10",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632005,
+		"Id": 660,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力1",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Icon": 632005,
+		"Id": 661,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力2",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "200"
+	},
+	{
+		"Icon": 632005,
+		"Id": 662,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力3",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "300"
+	},
+	{
+		"Icon": 632005,
+		"Id": 663,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力4",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "400"
+	},
+	{
+		"Icon": 632005,
+		"Id": 664,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力5",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "500"
+	},
+	{
+		"Icon": 632005,
+		"Id": 665,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力6",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "600"
+	},
+	{
+		"Icon": 632005,
+		"Id": 666,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力7",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "700"
+	},
+	{
+		"Icon": 632005,
+		"Id": 667,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力8",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "800"
+	},
+	{
+		"Icon": 632005,
+		"Id": 668,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力9",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "900"
+	},
+	{
+		"Icon": 632005,
+		"Id": 669,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力10",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632006,
+		"Id": 670,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力1",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "100"
+	},
+	{
+		"Icon": 632006,
+		"Id": 671,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力2",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "200"
+	},
+	{
+		"Icon": 632006,
+		"Id": 672,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力3",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "300"
+	},
+	{
+		"Icon": 632006,
+		"Id": 673,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力4",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "400"
+	},
+	{
+		"Icon": 632006,
+		"Id": 674,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力5",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "500"
+	},
+	{
+		"Icon": 632006,
+		"Id": 675,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力6",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "600"
+	},
+	{
+		"Icon": 632006,
+		"Id": 676,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力7",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "700"
+	},
+	{
+		"Icon": 632006,
+		"Id": 677,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力8",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "800"
+	},
+	{
+		"Icon": 632006,
+		"Id": 678,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力9",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "900"
+	},
+	{
+		"Icon": 632006,
+		"Id": 679,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力10",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 680,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力1",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "100"
+	},
+	{
+		"Icon": 632007,
+		"Id": 681,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力2",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "200"
+	},
+	{
+		"Icon": 632007,
+		"Id": 682,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力3",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "300"
+	},
+	{
+		"Icon": 632007,
+		"Id": 683,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力4",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "400"
+	},
+	{
+		"Icon": 632007,
+		"Id": 684,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力5",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "500"
+	},
+	{
+		"Icon": 632007,
+		"Id": 685,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力6",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "600"
+	},
+	{
+		"Icon": 632007,
+		"Id": 686,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力7",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "700"
+	},
+	{
+		"Icon": 632007,
+		"Id": 687,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力8",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "800"
+	},
+	{
+		"Icon": 632007,
+		"Id": 688,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力9",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "900"
+	},
+	{
+		"Icon": 632007,
+		"Id": 689,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力10",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "1000"
+	},
+	{
+		"Icon": 642010,
+		"Id": 690,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "招财猫BUFF",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632002,
+		"Id": 691,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "智慧之力1",
+		"Quality": 7,
+		"Type": "13",
+		"Value": "50"
+	},
+	{
+		"Icon": 632005,
+		"Id": 692,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "财富之力1",
+		"Quality": 7,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Icon": 632006,
+		"Id": 693,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "命运之力1",
+		"Quality": 7,
+		"Type": "33",
+		"Value": "50"
+	},
+	{
+		"Icon": 632007,
+		"Id": 694,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "名利之力1",
+		"Quality": 7,
+		"Type": "41",
+		"Value": "50"
+	},
+	{
+		"Icon": 632007,
+		"Id": 700,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "世界等级BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "2000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 700,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "世界等级BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "5000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 700,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "世界等级BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "10000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 700,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "世界等级BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "15000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 700,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "世界等级BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "20000"
+	},
+	{
+		"Icon": 642011,
+		"Id": 701,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "守护精灵BUFF",
+		"Quality": 5,
+		"Type": "15",
+		"Value": "2000"
+	},
+	{
+		"Icon": 642016,
+		"Id": 702,
+		"Level": 1,
+		"Name": "一梦敦煌",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Icon": 642016,
+		"Id": 702,
+		"Level": 2,
+		"Name": "一梦敦煌",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Icon": 642016,
+		"Id": 702,
+		"Level": 3,
+		"Name": "一梦敦煌",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Icon": 642016,
+		"Id": 702,
+		"Level": 4,
+		"Name": "一梦敦煌",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Icon": 642016,
+		"Id": 702,
+		"Level": 5,
+		"Name": "一梦敦煌",
+		"Quality": 5,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Icon": 632007,
+		"Id": 710,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "奋斗BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "3000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 710,
+		"IsShowBuff": 1,
+		"Level": 2,
+		"Name": "奋斗BUFF",
+		"Quality": 6,
+		"Type": "15",
+		"Value": "10000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 710,
+		"IsShowBuff": 1,
+		"Level": 3,
+		"Name": "奋斗BUFF",
+		"Quality": 7,
+		"Type": "15",
+		"Value": "25000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 710,
+		"IsShowBuff": 1,
+		"Level": 4,
+		"Name": "奋斗BUFF",
+		"Quality": 7,
+		"Type": "15",
+		"Value": "40000"
+	},
+	{
+		"Icon": 632007,
+		"Id": 710,
+		"IsShowBuff": 1,
+		"Level": 5,
+		"Name": "奋斗BUFF",
+		"Quality": 7,
+		"Type": "15",
+		"Value": "60000"
+	},
+	{
+		"Icon": 621002,
+		"Id": 801,
+		"Level": 1,
+		"Name": "周卡增幅",
+		"Quality": 7,
+		"Type": "51",
+		"Value": "10000"
+	},
+	{
+		"Icon": 621002,
+		"Id": 802,
+		"Level": 1,
+		"Name": "月卡增幅",
+		"Quality": 7,
+		"Type": "52",
+		"Value": "10000"
+	},
+	{
+		"Icon": 621002,
+		"Id": 803,
+		"Level": 1,
+		"Name": "至尊卡增幅",
+		"Quality": 7,
+		"Type": "53",
+		"Value": "10000"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 901,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 902,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 911,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 912,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 915,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 916,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "200"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 919,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 920,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "300"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 923,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 924,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "400"
+	},
+	{
+		"Id": 1011,
+		"Level": 1,
+		"Name": "坐骑皮肤基础战力加成",
+		"Type": "101",
+		"Value": "1000"
+	},
+	{
+		"Id": 1021,
+		"Level": 1,
+		"Name": "羽翼皮肤基础战力加成",
+		"Type": "102",
+		"Value": "1000"
+	},
+	{
+		"Id": 1031,
+		"Level": 1,
+		"Name": "光武皮肤基础战力加成",
+		"Type": "103",
+		"Value": "1000"
+	},
+	{
+		"Id": 1041,
+		"Level": 1,
+		"Name": "法宝皮肤基础战力加成",
+		"Type": "104",
+		"Value": "1000"
+	},
+	{
+		"Id": 1051,
+		"Level": 1,
+		"Name": "战神皮肤基础战力加成",
+		"Type": "105",
+		"Value": "1000"
+	},
+	{
+		"Id": 1061,
+		"Level": 1,
+		"Name": "战骑皮肤基础战力加成",
+		"Type": "106",
+		"Value": "1000"
+	},
+	{
+		"Id": 1511,
+		"Level": 1,
+		"Name": "时装皮肤基础战力加成",
+		"Type": "151",
+		"Value": "1000"
+	},
+	{
+		"Id": 1521,
+		"Level": 1,
+		"Name": "称号皮肤基础战力加成",
+		"Type": "152",
+		"Value": "1000"
+	},
+	{
+		"Id": 1012,
+		"Level": 1,
+		"Name": "坐骑皮肤基础战力加成",
+		"Type": "101",
+		"Value": "500"
+	},
+	{
+		"Id": 1022,
+		"Level": 1,
+		"Name": "羽翼皮肤基础战力加成",
+		"Type": "102",
+		"Value": "500"
+	},
+	{
+		"Id": 1032,
+		"Level": 1,
+		"Name": "光武皮肤基础战力加成",
+		"Type": "103",
+		"Value": "500"
+	},
+	{
+		"Id": 1042,
+		"Level": 1,
+		"Name": "法宝皮肤基础战力加成",
+		"Type": "104",
+		"Value": "500"
+	},
+	{
+		"Id": 1052,
+		"Level": 1,
+		"Name": "战神皮肤基础战力加成",
+		"Type": "105",
+		"Value": "500"
+	},
+	{
+		"Id": 1062,
+		"Level": 1,
+		"Name": "战骑皮肤基础战力加成",
+		"Type": "106",
+		"Value": "500"
+	},
+	{
+		"Id": 1512,
+		"Level": 1,
+		"Name": "时装皮肤基础战力加成",
+		"Type": "151",
+		"Value": "500"
+	},
+	{
+		"Id": 1522,
+		"Level": 1,
+		"Name": "称号皮肤基础战力加成",
+		"Type": "152",
+		"Value": "500"
+	},
+	{
+		"Icon": 632002,
+		"Id": 1601,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "仙宗城战BUFF-攻击加成",
+		"Time": 480,
+		"Type": "70",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632005,
+		"Id": 1602,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "仙宗城战BUFF-防御加成",
+		"Time": 480,
+		"Type": "71",
+		"Value": "1000"
+	},
+	{
+		"Icon": 632006,
+		"Id": 1603,
+		"IsShowBuff": 1,
+		"Level": 1,
+		"Name": "仙宗城战BUFF-血量加成",
+		"Time": 480,
+		"Type": "72",
+		"Value": "1000"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1701,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1702,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1711,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "100"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1712,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "100"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1715,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "200"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1716,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "200"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1719,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "300"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1720,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "300"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1723,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "400"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1724,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "400"
+	},
+	{
+		"Group": 1,
+		"Icon": 632007,
+		"Id": 1727,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机经验",
+		"Quality": 3,
+		"Type": "13",
+		"Value": "500"
+	},
+	{
+		"Group": 2,
+		"Icon": 642007,
+		"Id": 1728,
+		"IsShowBuff": 1,
+		"IsShowLv": 1,
+		"Level": 1,
+		"Name": "挂机金币",
+		"Quality": 3,
+		"Type": "23",
+		"Value": "500"
+	}
+]

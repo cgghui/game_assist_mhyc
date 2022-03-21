@@ -1,0 +1,14 @@
+[
+	{
+		"CfgKey": "EquipForgeFree",
+		"CfgValue": "3"
+	},
+	{
+		"CfgKey": "EquipForgeCoin",
+		"CfgValue": "100"
+	},
+	{
+		"CfgKey": "EquipForgeStone",
+		"CfgValue": "10"
+	}
+]
