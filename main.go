@@ -42,15 +42,18 @@ func main() {
 			}
 		}()
 
+		go cli.EnterAnimalPark()
+		go cli.Mail()
+		go cli.AFK()
+		go cli.JJC()
+
 		wg := &sync.WaitGroup{}
 		wg.Add(2)
 
 		action := []func(){
 
 			func() {
-				go cli.EnterAnimalPark()
-				go cli.Mail()
-				cli.AFK()
+
 			},
 
 			func() {
