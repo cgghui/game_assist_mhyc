@@ -30,11 +30,15 @@ func main() {
 	mhyc.CLI = cli
 
 	go func() {
-
 		<-mhyc.RoleLoadWait
+		_ = cli.UserBag()
+		<-mhyc.UserBagWait
 		go func() {
 			for {
-				<-mhyc.RoleLoadWait
+				select {
+				case <-mhyc.UserBagWait:
+				case <-mhyc.RoleLoadWait:
+				}
 			}
 		}()
 
@@ -42,6 +46,12 @@ func main() {
 		wg.Add(2)
 
 		action := []func(){
+
+			func() {
+				go cli.EnterAnimalPark()
+				go cli.Mail()
+				cli.AFK()
+			},
 
 			func() {
 				//_ = cli.HuanLingList()
@@ -57,8 +67,6 @@ func main() {
 				//_ = cli.YJInfo()
 				//_ = cli.SLGetData()
 				//_ = cli.NewStory()
-				_ = cli.EnterAnimalPark()
-				//_ = cli.UserBag()
 				//_ = cli.StagePrize()
 				//_ = cli.RoleInfo()
 				//_ = cli.LoginEnd()

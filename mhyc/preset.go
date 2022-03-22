@@ -14,6 +14,9 @@ var DefineMailListActivity = &C2SMailList{MailType: 1} // 活动邮件列表
 var DefineGetMailAttachOrdinary = &C2SGetMailAttach{MailId: -1, MailType: 0} // 普通邮件附件 一键领取
 var DefineGetMailAttachActivity = &C2SGetMailAttach{MailId: -1, MailType: 1} // 活动邮件附件 一键领取
 
+var DefineDelMailOrdinary = &C2SDelMail{MailId: 0, MailType: 0} // 普通邮件 删除已读
+var DefineDelMailActivity = &C2SDelMail{MailId: 0, MailType: 1} // 活动邮件 删除已读
+
 var DefineGiftRechargeEveryDay = &C2SActGiftNewReceive{Gid: 311, Aid: 301} // 充值->1元秒杀->每日礼
 
 var DefineRespectL = &C2SRespect{Type: 0} // 排名—>本区榜->膜拜

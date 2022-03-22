@@ -31,18 +31,6 @@ type Connect struct {
 	m         *sync.Mutex
 }
 
-type chanList struct {
-	StageFight          chan *S2CStageFight
-	GetHistoryTaskPrize chan *S2CGetHistoryTaskPrize
-	StageDraw           chan *S2CStageDraw
-}
-
-var ChanBox = chanList{
-	StageFight:          make(chan *S2CStageFight),
-	GetHistoryTaskPrize: make(chan *S2CGetHistoryTaskPrize),
-	StageDraw:           make(chan *S2CStageDraw),
-}
-
 func (c *Client) Connect() (*Connect, error) {
 	param := url.Values{}
 	param.Add("channel_id", channelID)
@@ -117,24 +105,6 @@ func (c *Connect) Ping() error {
 		return err
 	}
 	return c.send(22, body)
-}
-
-// MailList 邮件列表
-func (c *Connect) MailList(act *C2SMailList) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(440, body)
-}
-
-// GetMailAttach 领取邮件附件
-func (c *Connect) GetMailAttach(act *C2SGetMailAttach) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(444, body)
 }
 
 // ActGiftNewReceive 充值->1元秒杀->每日礼
@@ -261,15 +231,6 @@ func (c *Connect) GetTaskPrize(act *C2SGetTaskPrize) error {
 	return c.send(703, body)
 }
 
-// GetAFKPrize 挂机收益
-func (c *Connect) GetAFKPrize() error {
-	body, err := proto.Marshal(&C2SGetAFKPrize{})
-	if err != nil {
-		return err
-	}
-	return c.send(22155, body)
-}
-
 // BossPersonalSweep Boss - 本服BOSS - 个人BOSS 一键扫荡
 func (c *Connect) BossPersonalSweep() error {
 	body, err := proto.Marshal(&C2SBossPersonalSweep{})
@@ -360,33 +321,6 @@ func (c *Connect) NewStory() error {
 	return c.send(36, body)
 }
 
-// SearchPet 寻找宠物
-func (c *Connect) SearchPet(act *C2SSearchPet) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(19077, body)
-}
-
-// EnterAnimalPark 寻找宠物
-func (c *Connect) EnterAnimalPark() error {
-	body, err := proto.Marshal(&C2SEnterAnimalPark{})
-	if err != nil {
-		return err
-	}
-	return c.send(19073, body)
-}
-
-// AnimalParkGO 抓捕宠物
-func (c *Connect) AnimalParkGO(act *C2SAnimalParkGO) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(19085, body)
-}
-
 // UserBag 背包
 func (c *Connect) UserBag() error {
 	body, err := proto.Marshal(&C2SUserBag{})
@@ -439,23 +373,6 @@ func (c *Connect) GetActTask(act *C2SGetActTask) error {
 	return c.send(12151, body)
 }
 
-// AFKBuyTimes 通过购买获取挂机奖励
-func (c *Connect) AFKBuyTimes() error {
-	body, err := proto.Marshal(&C2SAFKBuyTimes{})
-	if err != nil {
-		return err
-	}
-	return c.send(22153, body)
-}
-
-func (c *Connect) AFKGetBuyInfo() error {
-	body, err := proto.Marshal(&C2SAFKGetBuyInfo{})
-	if err != nil {
-		return err
-	}
-	return c.send(22151, body)
-}
-
 // AllWeddingToken 仙缘信息
 func (c *Connect) AllWeddingToken() error {
 	body, err := proto.Marshal(&C2SAllWeddingToken{})
@@ -502,11 +419,12 @@ func (c *Connect) ClimbingTowerFight(act *C2SClimbingTowerFight) error {
 
 func (c *Connect) send(code int, body []byte) error {
 	var err error
+	idx := uint16(RandInt64(0, 65536))
 	buf := bytes.NewBuffer([]byte{})
-	if err = binary.Write(buf, binary.BigEndian, int16(RandInt64(0, 65536))); err != nil {
+	if err = binary.Write(buf, binary.BigEndian, idx); err != nil {
 		return err
 	}
-	if err = binary.Write(buf, binary.BigEndian, int16(code)); err != nil {
+	if err = binary.Write(buf, binary.BigEndian, uint16(code)); err != nil {
 		return err
 	}
 	buf.Write(body)

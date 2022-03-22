@@ -9,6 +9,7 @@ import (
 )
 
 var RoleLoadWait = make(chan struct{})
+var UserBagWait = make(chan struct{})
 
 var CLI *Connect
 
@@ -24,18 +25,17 @@ var PCK = map[uint16]Handle{
 	59:    &S2CMonsterEnterMap{},
 	60:    &S2CMonsterLeaveMap{},
 	100:   &S2CPrizeReport{},
+	101:   &S2CBattlefieldReport{},
 	104:   &S2CStageFight{},
 	110:   &S2CStagePrize{},
 	119:   &S2CStageDraw{},
 	137:   &S2CGetVipDayGift{},
 	403:   &S2CNewChatMsg{},
 	433:   &S2CShopBuy{},
-	441:   &S2CMailList{},
-	445:   &S2CGetMailAttach{},
-	446:   &S2CNewMail{},
 	501:   &S2CUserBag{},
 	520:   &S2CBagChange{},
 	524:   &ItemFly{},
+	575:   &S2CAutoMeltGain{},
 	605:   &S2CBossPersonalSweep{},
 	704:   &S2CGetTaskPrize{},
 	714:   &S2CGetHistoryTaskPrize{},
@@ -47,13 +47,8 @@ var PCK = map[uint16]Handle{
 	12012: &S2CActGiftNewReceive{},
 	12152: &S2CGetActTask{},
 	15030: &S2CHomeBossInfo{},
-	19074: &S2CEnterAnimalPark{},
-	19078: &S2CSearchPet{},
-	19086: &S2CAnimalParkGO{},
 	21001: &S2CRedState{},
 	22013: &S2CRealmTask{},
-	22152: &S2CAFKGetBuyInfo{},
-	22156: &S2CGetAFKPrize{},
 	22303: &S2CSign{},
 	22406: &S2CLifeCardDayPrize{},
 	22572: &S2CClimbingTowerEnter{},
@@ -77,6 +72,16 @@ var PCK = map[uint16]Handle{
 
 type Handle interface {
 	Message([]byte)
+}
+
+func (x *S2CAutoMeltGain) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][AutoMeltGain] items=%v", x.Items)
+}
+
+func (x *S2CBattlefieldReport) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][BattlefieldReport] win=%v report=%v", x.Win, x)
 }
 
 func (x *S2CClimbingTowerFight) Message(data []byte) {
@@ -161,11 +166,18 @@ func (x *S2CMultiBossInfo) Message(data []byte) {
 }
 
 func (x *ItemFly) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ItemFly] %v", err)
-		return
+	_ = proto.Unmarshal(data, x)
+	for _, item := range x.Item {
+		var dat *ItemData
+		if val, ok := UserBag.Load(item.IId); ok {
+			dat = val.(*ItemData)
+		} else {
+			dat = &ItemData{}
+		}
+		dat.N = dat.N + item.N
+		UserBag.Store(item.IId, dat)
 	}
-	log.Printf("recv: [ItemFly] %v", x)
+	log.Printf("[S][ItemFly] %v", x)
 	return
 }
 
@@ -184,15 +196,6 @@ func (x *S2CZSStateInfo) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [ZSStateInfo] %v", x)
-	return
-}
-
-func (x *S2CAFKGetBuyInfo) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [AFKGetBuyInfo] %v", err)
-		return
-	}
-	log.Printf("recv: [AFKGetBuyInfo] %v", x)
 	return
 }
 
@@ -264,45 +267,14 @@ func (x *S2CStagePrize) Message(data []byte) {
 
 func (x *S2CUserBag) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [CUserBag] %v", err)
+		log.Printf("[501][CUserBag] %v", err)
 		return
 	}
-	log.Printf("recv: [CUserBag] %v", x)
-	return
-}
-
-func (x *S2CEnterAnimalPark) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[19074][EnterAnimalPark] %v", err)
-		return
+	for _, item := range x.Bag.Items {
+		UserBag.Store(item.IId, item)
 	}
-	_ = CLI.SearchPet(SearchPet500)
-	for _, pet := range x.Pet {
-		_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: pet.Id, X: pet.PointX, Y: pet.PointY})
-	}
-	log.Printf("[19074][EnterAnimalPark] %v", x)
-	return
-}
-
-func (x *S2CSearchPet) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[19078][SearchPet] %v", err)
-		return
-	}
-	log.Printf("[19078][SearchPet] tag=%v pet=%v puff=%v", x.Tag, x.Pet, x.Buff)
-	if x.Tag == 0 {
-		_ = CLI.SearchPet(SearchPet500)
-	}
-	_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: x.Pet.Id, X: x.Pet.PointX, Y: x.Pet.PointY})
-	return
-}
-
-func (x *S2CAnimalParkGO) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[19086][AnimalParkGO] %v", err)
-		return
-	}
-	log.Printf("[19086][AnimalParkGO] tag=%v times=%v", x.Tag, x.Times)
+	log.Printf("[501][CUserBag] %v", x)
+	UserBagWait <- struct{}{}
 	return
 }
 
@@ -414,15 +386,6 @@ func (x *S2CBossPersonalSweep) Message(data []byte) {
 	return
 }
 
-func (x *S2CGetAFKPrize) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetAFKPrize] %v", err)
-		return
-	}
-	log.Printf("recv: [GetAFKPrize] %v", x)
-	return
-}
-
 func (x *S2CGetTaskPrize) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [GetTaskPrize] %v", err)
@@ -469,7 +432,6 @@ func (x *S2CStageDraw) Message(data []byte) {
 		log.Printf("recv: [StageDraw] %v", err)
 		return
 	}
-	ChanBox.StageDraw <- x
 	return
 }
 
@@ -570,39 +532,6 @@ func (x *S2CNewChatMsg) Message(data []byte) {
 	return
 }
 
-func (x *S2CMailList) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [MailList] %v", err)
-		return
-	}
-	if len(x.MailList) == 0 {
-		return
-	}
-	if x.MailList[0].IsReceive == 1 && x.MailList[0].IsRead == 1 {
-		_ = CLI.GetMailAttach(DefineGetMailAttachOrdinary)
-		_ = CLI.GetMailAttach(DefineGetMailAttachActivity)
-	}
-	return
-}
-
-func (x *S2CGetMailAttach) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetMailAttach] %v", err)
-		return
-	}
-	log.Printf("GetMailAttach: %d", x.Tag)
-	return
-}
-
-func (x *S2CNewMail) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [NewMail] %v", err)
-		return
-	}
-	log.Println("NewMail")
-	return
-}
-
 func (x *S2CRoleTask) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [RoleTask] %v", err)
@@ -653,7 +582,6 @@ func (x *S2CStageFight) Message(data []byte) {
 		log.Printf("recv: [StageFight] %v", err)
 		return
 	}
-	ChanBox.StageFight <- x
 	return
 }
 
@@ -671,6 +599,5 @@ func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
 		log.Printf("recv: [GetHistoryTaskPrize] %v", err)
 		return
 	}
-	ChanBox.GetHistoryTaskPrize <- x
 	return
 }

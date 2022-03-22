@@ -4,6 +4,7 @@ import "sync"
 
 type RoleVal interface{}
 
+var UserBag = &sync.Map{}
 var RoleInfo = &sync.Map{}
 
 var AttrType = map[int32]string{
