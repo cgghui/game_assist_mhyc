@@ -9,7 +9,6 @@ import (
 )
 
 var RoleLoadWait = make(chan struct{})
-var UserBagWait = make(chan struct{})
 
 var CLI *Connect
 
@@ -22,23 +21,18 @@ var PCK = map[uint16]Handle{
 	37:    &S2CNewStory{},
 	48:    &S2CRoleTask{},
 	51:    &S2CChangeMap{},
+	54:    &S2CPlayerMove{},
 	59:    &S2CMonsterEnterMap{},
 	60:    &S2CMonsterLeaveMap{},
-	100:   &S2CPrizeReport{},
-	101:   &S2CBattlefieldReport{},
-	104:   &S2CStageFight{},
-	110:   &S2CStagePrize{},
-	119:   &S2CStageDraw{},
+	66:    &S2CCheckFight{},
 	137:   &S2CGetVipDayGift{},
+	155:   &S2CRoutePath{},
 	403:   &S2CNewChatMsg{},
 	433:   &S2CShopBuy{},
-	501:   &S2CUserBag{},
-	520:   &S2CBagChange{},
 	524:   &ItemFly{},
 	575:   &S2CAutoMeltGain{},
 	605:   &S2CBossPersonalSweep{},
 	704:   &S2CGetTaskPrize{},
-	714:   &S2CGetHistoryTaskPrize{},
 	1001:  &S2CServerTime{},
 	1111:  &S2CMultiBossInfo{},
 	1542:  &S2CGetActTimestamp{},
@@ -47,6 +41,7 @@ var PCK = map[uint16]Handle{
 	12012: &S2CActGiftNewReceive{},
 	12152: &S2CGetActTask{},
 	15030: &S2CHomeBossInfo{},
+	19060: &S2CSectIMSeizeReward{},
 	21001: &S2CRedState{},
 	22013: &S2CRealmTask{},
 	22303: &S2CSign{},
@@ -74,14 +69,29 @@ type Handle interface {
 	Message([]byte)
 }
 
+func (x *S2CSectIMSeizeReward) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][SectIMSeizeReward] tag=%v %v", x.Tag, x)
+}
+
+func (x *S2CCheckFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][CheckFight] tag=%v next_time=%v", x.Tag, x.NextTime)
+}
+
+func (x *S2CRoutePath) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RoutePath] tag=%v map_id=%v point=%v", x.Tag, x.MapId, x.Points)
+}
+
+func (x *S2CPlayerMove) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][PlayerMove] userid=%v p=%v", x.UserId, x.P)
+}
+
 func (x *S2CAutoMeltGain) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][AutoMeltGain] items=%v", x.Items)
-}
-
-func (x *S2CBattlefieldReport) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BattlefieldReport] win=%v report=%v", x.Win, x)
 }
 
 func (x *S2CClimbingTowerFight) Message(data []byte) {
@@ -169,24 +179,15 @@ func (x *ItemFly) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	for _, item := range x.Item {
 		var dat *ItemData
-		if val, ok := UserBag.Load(item.IId); ok {
-			dat = val.(*ItemData)
+		if val, ok := UserBag.Get(item.IId, 0); ok {
+			dat = val
 		} else {
 			dat = &ItemData{}
 		}
 		dat.N = dat.N + item.N
-		UserBag.Store(item.IId, dat)
+		UserBag.Set(item.IId, dat)
 	}
 	log.Printf("[S][ItemFly] %v", x)
-	return
-}
-
-func (x *S2CBagChange) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [BagChange] %v", err)
-		return
-	}
-	log.Printf("recv: [BagChange] %v", x)
 	return
 }
 
@@ -253,28 +254,6 @@ func (x *S2CGetActXunBaoInfo) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [GetActXunBaoInfo] %v", x)
-	return
-}
-
-func (x *S2CStagePrize) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [StagePrize] %v", err)
-		return
-	}
-	log.Printf("recv: [StagePrize] %v", x)
-	return
-}
-
-func (x *S2CUserBag) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[501][CUserBag] %v", err)
-		return
-	}
-	for _, item := range x.Bag.Items {
-		UserBag.Store(item.IId, item)
-	}
-	log.Printf("[501][CUserBag] %v", x)
-	UserBagWait <- struct{}{}
 	return
 }
 
@@ -427,14 +406,6 @@ func (x *S2CHuanLingList) Message(data []byte) {
 	return
 }
 
-func (x *S2CStageDraw) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [StageDraw] %v", err)
-		return
-	}
-	return
-}
-
 // Message S2CLogin 登录
 func (x *S2CLogin) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
@@ -487,12 +458,8 @@ func (x *Pong) Message(data []byte) {
 }
 
 func (x *S2CChangeMap) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ChangeMap] %v", err)
-		return
-	}
-	log.Printf("ChangeMap: id=%d x=%d y=%d", x.MapId, x.X, x.Y)
-	return
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][ChangeMap] id=%d x=%d y=%d", x.MapId, x.X, x.Y)
 }
 
 func (x *S2CActGiftNewReceive) Message(data []byte) {
@@ -574,30 +541,5 @@ func (x *S2CSign) Message(data []byte) {
 		return
 	}
 	log.Printf("Sign: tag=%d", x.Tag)
-	return
-}
-
-func (x *S2CStageFight) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [StageFight] %v", err)
-		return
-	}
-	return
-}
-
-func (x *S2CPrizeReport) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [PrizeReport] %v", err)
-		return
-	}
-	log.Printf("PrizeReport: %v", x)
-	return
-}
-
-func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetHistoryTaskPrize] %v", err)
-		return
-	}
 	return
 }

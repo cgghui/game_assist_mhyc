@@ -1,47 +1,66 @@
 package mhyc
 
 import (
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
 func init() {
-	PCK[20002] = &S2CFamilyInfo{}
 	PCK[27358] = &S2CFamilyJJCJoin{}
 	PCK[27363] = &S2CFamilyJJCFight{}
 }
 
-var jjcThread = make(chan interface{})
-var jjcAction = make(chan struct{})
+var familyJJCThread = make(chan interface{})
+var familyJJCAction = make(chan struct{})
 
-// JJC 竞技
-func (c *Connect) JJC() {
+// FamilyJJC 竞技
+// [RoleInfo] FamilyJJC_TimesLeft 剩余次数
+// [RoleInfo] FamilyJJC_Times	  使用次数
+// [RoleInfo] FamilyJJC_Score	  积分
+func (c *Connect) FamilyJJC() {
 	go func() {
-		jjcAction <- struct{}{}
+		familyJJCAction <- struct{}{}
 		t := time.NewTimer(time.Minute)
 		for range t.C {
-			jjcAction <- struct{}{}
+			familyJJCAction <- struct{}{}
 			t.Reset(10 * time.Minute)
 		}
 	}()
-	for range jjcAction {
-		_ = c.familyJJCJoin()
-		join := (<-jjcThread).(*S2CFamilyJJCJoin)
-		fmt.Println(join)
-		_ = c.familyJJCFight(join)
-		fight := (<-jjcThread).(*S2CFamilyJJCFight)
-		fmt.Println(fight)
-	}
-}
+	run := func(val interface{}) {
+		switch ret := val.(type) {
+		case *S2CFamilyJJCJoin:
+			if ret.Tag == 0 {
+				_ = c.familyJJCFight(ret)
+				return
+			}
+			if ret.Tag == 17003 {
+				time.AfterFunc(time.Second, func() {
+					familyJJCAction <- struct{}{}
+				})
+				return
+			}
+			// end
+			if ret.Tag == 57606 {
 
-func (c *Connect) familyInfo() error {
-	body, err := proto.Marshal(&C2SFamilyInfo{FuncType: 0})
-	if err != nil {
-		return err
+			}
+		case *S2CFamilyJJCFight:
+			familyJJCAction <- struct{}{}
+		}
 	}
-	return c.send(20001, body)
+	for {
+		select {
+		case <-familyJJCAction:
+			if val, ok := RoleInfo.Load("FamilyJJC_Times"); ok {
+				if n, y := val.(int64); y && n >= 10 {
+					break
+				}
+			}
+			_ = c.familyJJCJoin()
+		case val := <-familyJJCThread:
+			go run(val)
+		}
+	}
 }
 
 func (c *Connect) familyJJCJoin() error {
@@ -69,17 +88,17 @@ func (c *Connect) familyJJCFight(act *S2CFamilyJJCJoin) error {
 func (x *S2CFamilyInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyInfo] tag=%v", x.Tag)
-	jjcThread <- x
+	familyJJCThread <- x
 }
 
 func (x *S2CFamilyJJCJoin) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyJJCJoin] tag=%v", x.Tag)
-	jjcThread <- x
+	familyJJCThread <- x
 }
 
 func (x *S2CFamilyJJCFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyJJCFight] tag=%v", x.Tag)
-	jjcThread <- x
+	familyJJCThread <- x
 }

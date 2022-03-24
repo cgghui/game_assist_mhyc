@@ -22,20 +22,35 @@ func (c *Connect) AFK() {
 		t := time.NewTimer(time.Minute)
 		for range t.C {
 			afkAction <- struct{}{}
-			t.Reset(10 * time.Minute)
+			t.Reset(RandMillisecond(60, 120))
 		}
 	}()
-	for range afkAction {
-		for {
-			_ = c.afkGetBuyInfo()
-			if r := (<-afkThread).(*S2CAFKGetBuyInfo); r.Coin > 0 {
-				break
+	run := func(val interface{}) {
+		switch afk := val.(type) {
+		case *S2CAFKGetBuyInfo:
+			{
+				_ = c.getAFKPrize()
+				if afk.Coin <= 0 {
+					_ = c.afkBuyTimes()
+				}
 			}
-			_ = c.afkBuyTimes()
-			<-afkThread
+		case *S2CAFKBuyTimes:
+			{
+				afkAction <- struct{}{}
+			}
+		case *S2CGetAFKPrize:
+			{
+				return
+			}
 		}
-		_ = c.getAFKPrize()
-		<-afkThread
+	}
+	for {
+		select {
+		case <-afkAction:
+			_ = c.afkGetBuyInfo()
+		case val := <-afkThread:
+			go run(val)
+		}
 	}
 }
 

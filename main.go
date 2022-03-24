@@ -7,8 +7,6 @@ import (
 	"log"
 	"os"
 	"os/signal"
-	"sync"
-	"time"
 )
 
 func init() {
@@ -31,181 +29,146 @@ func main() {
 
 	go func() {
 		<-mhyc.RoleLoadWait
-		_ = cli.UserBag()
-		<-mhyc.UserBagWait
+		go cli.Bag()
+		<-mhyc.UserBagFirstWait
 		go func() {
 			for {
 				select {
-				case <-mhyc.UserBagWait:
 				case <-mhyc.RoleLoadWait:
+				case <-mhyc.UserBagFirstWait:
 				}
 			}
 		}()
 
+		//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
+		//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
+		//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
+		//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
+		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
+		//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
+		//_ = cli.EverydaySign()                                     // 每日签到
+		//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
+
+		//t := time.NewTimer(time.Second)
+		//run := func() {
+		//	for range t.C {
+		//		_ = cli.StageFight()
+		//		t.Reset(time.Second)
+		//	}
+		//}
+		//run()
+		//
 		go cli.EnterAnimalPark()
 		go cli.Mail()
 		go cli.AFK()
-		go cli.JJC()
+		go cli.FamilyJJC()
 
-		wg := &sync.WaitGroup{}
-		wg.Add(2)
+		cli.StageFight()
 
-		action := []func(){
-
-			func() {
-
-			},
-
-			func() {
-				//_ = cli.HuanLingList()
-				//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 14})
-				//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 15})
-				//_ = cli.GetPetAMergeInfo()
-				//_ = cli.GetAllEquipData()
-				//_ = cli.PlayerPractice()
-				//_ = cli.GetEquipData(&mhyc.C2SGetEquipData{FuncId: 15001, ObjId: 0})
-				//_ = cli.Beasts()
-				//_ = cli.GetHeroList()
-				//_ = cli.GetAlienData()
-				//_ = cli.YJInfo()
-				//_ = cli.SLGetData()
-				//_ = cli.NewStory()
-				//_ = cli.StagePrize()
-				//_ = cli.RoleInfo()
-				//_ = cli.LoginEnd()
-				//_ = cli.GetActTask(mhyc.DefineGetActTask11002)
-				//_ = cli.AFKGetBuyInfo()
-				//_ = cli.WeddingInsInvite()
-				//_ = cli.ClimbingTowerEnter(mhyc.DefineClimbingTowerEnter5)
-				//_ = cli.GetActXunBaoInfo(mhyc.DefineXunBaoInfo501)
-				//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
-				//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
-				//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
-				//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
-				//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
-				//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
-				//_ = cli.EverydaySign()                                     // 每日签到
-				//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
-			},
-
-			//func() {
-			//	go func() {
-			//		t := time.NewTimer(time.Second)
-			//		for range t.C {
-			//			_ = cli.MailList(mhyc.DefineMailListOrdinary) // 普通邮件
-			//			_ = cli.MailList(mhyc.DefineMailListActivity) // 活动邮件
-			//			t.Reset(time.Second)
-			//		}
-			//	}()
-			//},
-			//
-			//func() {
-			//	go func() {
-			//		t := time.NewTimer(time.Second)
-			//		for range t.C {
-			//			_ = cli.RealmTask() // 修仙 - 境界 任务
-			//			t.Reset(time.Second)
-			//		}
-			//	}()
-			//},
-			////
-			//// 挂机奖励
-			//func() {
-			//	go func() {
-			//		t := time.NewTimer(time.Second)
-			//		for range t.C {
-			//			_ = cli.GetAFKPrize()
-			//			t.Reset(time.Hour)
-			//		}
-			//	}()
-			//},
-			//
-			//func() {
-			//	t := time.NewTimer(time.Second)
-			//	run := func() {
-			//		for range t.C {
-			//			_ = cli.StageFight()
-			//			recv := <-mhyc.ChanBox.StageFight
-			//			log.Printf("[闯关] tag=%v win=%v", recv.Tag, recv.Win)
-			//			if recv.Tag == 31 || recv.Tag == 9012 {
-			//				wg.Done()
-			//				wg.Done()
-			//				break
-			//			}
-			//			t.Reset(time.Second)
-			//		}
-			//	}
-			//	go run()
-			//},
-			//
-			//func() {
-			//	t := time.NewTimer(100 * time.Millisecond)
-			//	run := func() {
-			//		for range t.C {
-			//			_ = cli.GetHistoryTaskPrize()
-			//			recv := <-mhyc.ChanBox.GetHistoryTaskPrize
-			//			log.Printf("[主线奖励] tag=%v %v", recv.Tag, recv)
-			//			if recv.Tag == 5043 {
-			//				break
-			//			}
-			//			t.Reset(100 * time.Millisecond)
-			//		}
-			//	}
-			//	go func() {
-			//		for {
-			//			wg.Wait()
-			//			run()
-			//		}
-			//	}()
-			//},
-			//
-			//func() {
-			//	t := time.NewTimer(100 * time.Millisecond)
-			//	run := func() {
-			//		for range t.C {
-			//			_ = cli.GetStageDraw()
-			//			recv := <-mhyc.ChanBox.StageDraw
-			//			log.Printf("[幸运转盘] tag=%v %v", recv.Tag, recv)
-			//			if recv.Tag != 0 {
-			//				break
-			//			}
-			//			t.Reset(100 * time.Millisecond)
-			//		}
-			//	}
-			//	go func() {
-			//		for {
-			//			wg.Wait()
-			//			run()
-			//		}
-			//	}()
-			//},
-
-			//func() {
-			//	go func() {
-			//		for {
-			//			_ = cli.GetHistoryTaskPrize()
-			//		}
-			//	}()
-			//},
-		}
-
-		i := 0
-		t := time.NewTimer(time.Second)
-		for range t.C {
-			action[i]()
-			i++
-			if i >= len(action) {
-				t.Stop()
-				return
-			}
-			t.Reset(time.Second)
-		}
+		//wg := &sync.WaitGroup{}
+		//wg.Add(2)
+		//
+		//action := []func(){
+		//
+		//	func() {
+		//
+		//	},
+		//
+		//	func() {
+		//		//_ = cli.HuanLingList()
+		//		//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 14})
+		//		//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 15})
+		//		//_ = cli.GetPetAMergeInfo()
+		//		//_ = cli.GetAllEquipData()
+		//		//_ = cli.PlayerPractice()
+		//		//_ = cli.GetEquipData(&mhyc.C2SGetEquipData{FuncId: 15001, ObjId: 0})
+		//		//_ = cli.Beasts()
+		//		//_ = cli.GetHeroList()
+		//		//_ = cli.GetAlienData()
+		//		//_ = cli.YJInfo()
+		//		//_ = cli.SLGetData()
+		//		//_ = cli.NewStory()
+		//		//_ = cli.StagePrize()
+		//		//_ = cli.RoleInfo()
+		//		//_ = cli.LoginEnd()
+		//		//_ = cli.GetActTask(mhyc.DefineGetActTask11002)
+		//		//_ = cli.AFKGetBuyInfo()
+		//		//_ = cli.WeddingInsInvite()
+		//		//_ = cli.ClimbingTowerEnter(mhyc.DefineClimbingTowerEnter5)
+		//		//_ = cli.GetActXunBaoInfo(mhyc.DefineXunBaoInfo501)
+		//		//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
+		//		//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
+		//		//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
+		//		//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
+		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
+		//		//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
+		//		//_ = cli.EverydaySign()                                     // 每日签到
+		//		//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
+		//	},
+		//
+		//	//func() {
+		//	//	go func() {
+		//	//		t := time.NewTimer(time.Second)
+		//	//		for range t.C {
+		//	//			_ = cli.RealmTask() // 修仙 - 境界 任务
+		//	//			t.Reset(time.Second)
+		//	//		}
+		//	//	}()
+		//	//},
+		//	//func() {
+		//	//	t := time.NewTimer(100 * time.Millisecond)
+		//	//	run := func() {
+		//	//		for range t.C {
+		//	//			_ = cli.GetHistoryTaskPrize()
+		//	//			recv := <-mhyc.ChanBox.GetHistoryTaskPrize
+		//	//			log.Printf("[主线奖励] tag=%v %v", recv.Tag, recv)
+		//	//			if recv.Tag == 5043 {
+		//	//				break
+		//	//			}
+		//	//			t.Reset(100 * time.Millisecond)
+		//	//		}
+		//	//	}
+		//	//	go func() {
+		//	//		for {
+		//	//			wg.Wait()
+		//	//			run()
+		//	//		}
+		//	//	}()
+		//	//},
+		//	//
+		//
+		//	//func() {
+		//	//	go func() {
+		//	//		for {
+		//	//			_ = cli.GetHistoryTaskPrize()
+		//	//		}
+		//	//	}()
+		//	//},
+		//}
+		//
+		//i := 0
+		//t := time.NewTimer(time.Second)
+		//for range t.C {
+		//	action[i]()
+		//	i++
+		//	if i >= len(action) {
+		//		t.Stop()
+		//		return
+		//	}
+		//	t.Reset(time.Second)
+		//}
 	}()
 
 	go func() {

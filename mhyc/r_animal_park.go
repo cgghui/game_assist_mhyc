@@ -29,67 +29,87 @@ var animalParkAction = make(chan struct{})
 func (c *Connect) EnterAnimalPark() {
 	go func() {
 		animalParkAction <- struct{}{}
-		t := time.NewTimer(15 * time.Minute)
+		t := time.NewTimer(10 * time.Minute)
 		for range t.C {
 			animalParkAction <- struct{}{}
-			t.Reset(15 * time.Minute)
+			t.Reset(RandMillisecond(300, 900)) // 5 ~ 15 分钟
 		}
 	}()
-	var err error
-	for range animalParkAction {
-		if err = c.enterAnimalPark(); err != nil {
-			log.Printf("[C]EnterAnimalPark Err: %v", err)
-			continue
-		}
-		ap := (<-animalParkThread).(*S2CEnterAnimalPark)
-		if ap.Pet != nil {
-			for _, pet := range ap.Pet {
-				_ = c.animalParkGO(&C2SAnimalParkGO{PetId: pet.Id, X: pet.PointX, Y: pet.PointY})
-				<-animalParkThread
-			}
-		}
-		var items = make(map[int32]*ItemData)
-		var n = int64(0)
-		if item, ok := UserBag.Load(ItemPet500); ok {
-			items[ItemPet500] = item.(*ItemData)
-			n += items[ItemPet500].N
-		}
-		if item, ok := UserBag.Load(ItemPet501); ok {
-			items[ItemPet501] = item.(*ItemData)
-			n += items[ItemPet501].N
-		}
-		if item, ok := UserBag.Load(ItemPet502); ok {
-			items[ItemPet502] = item.(*ItemData)
-			n += items[ItemPet502].N
-		}
-		if n > 200 {
-			isBuff := false
-			for _, buff := range ap.Buff {
-				if buff.BuffId == 2 {
-					isBuff = true
-					break
-				}
-			}
-			if !isBuff {
-				if item, ok := UserBag.Load(ItemPet503); ok {
-					v := item.(*ItemData)
-					if v.N > 0 {
-						_ = c.searchPet(&C2SSearchPet{ItemId: ItemPet503})
-						<-animalParkThread
+	ArrestWait := make(chan struct{})
+	SearchWait := make(chan *S2CSearchPet)
+	run := func(val interface{}) {
+		switch ret := val.(type) {
+		case *S2CEnterAnimalPark:
+			{
+				if ret.Pet != nil {
+					for _, pet := range ret.Pet {
+						_ = c.animalParkGO(&C2SAnimalParkGO{PetId: pet.Id, X: pet.PointX, Y: pet.PointY})
+						<-ArrestWait
 					}
 				}
-			}
-			for id, item := range items {
-				for i := 0; i < int(item.N); i++ {
-					_ = c.searchPet(&C2SSearchPet{ItemId: id})
-					r := (<-animalParkThread).(*S2CSearchPet)
-					_ = c.animalParkGO(&C2SAnimalParkGO{PetId: r.Pet.Id, X: r.Pet.PointX, Y: r.Pet.PointY})
-					<-animalParkThread
+				var items = make(map[int32]*ItemData)
+				var n = int64(0)
+				if item, ok := UserBag.Get(ItemPet500, time.Second); ok {
+					items[ItemPet500] = item
+					n += items[ItemPet500].N
 				}
+				if item, ok := UserBag.Get(ItemPet501, time.Second); ok {
+					items[ItemPet501] = item
+					n += items[ItemPet501].N
+				}
+				if item, ok := UserBag.Get(ItemPet502, time.Second); ok {
+					items[ItemPet502] = item
+					n += items[ItemPet502].N
+				}
+				if n > 200 {
+					// 检测是否需要使用buff
+					isBuff := false
+					for _, buff := range ret.Buff {
+						if buff.BuffId == 2 {
+							isBuff = true
+							break
+						}
+					}
+					// 使用【金铲子】buff
+					if !isBuff {
+						if item, ok := UserBag.Get(ItemPet503, time.Second); ok {
+							v := item
+							if v.N > 0 {
+								_ = c.searchPet(&C2SSearchPet{ItemId: ItemPet503})
+								<-SearchWait
+							}
+						}
+					}
+					for id, item := range items {
+						for i := 0; i < int(item.N); i++ {
+							_ = c.searchPet(&C2SSearchPet{ItemId: id})
+							r := <-SearchWait
+							_ = c.animalParkGO(&C2SAnimalParkGO{PetId: r.Pet.Id, X: r.Pet.PointX, Y: r.Pet.PointY})
+							<-ArrestWait
+						}
+					}
+				}
+				_ = c.leaveAnimalPark()
 			}
+		case *S2CAnimalParkGO:
+			{
+				ArrestWait <- struct{}{}
+			}
+		case *S2CSearchPet:
+			{
+				SearchWait <- ret
+			}
+		case *S2CLeaveAnimalPark:
+			return
 		}
-		_ = c.leaveAnimalPark()
-		<-animalParkThread
+	}
+	for {
+		select {
+		case <-animalParkAction:
+			_ = c.enterAnimalPark()
+		case val := <-animalParkThread:
+			go run(val)
+		}
 	}
 }
 

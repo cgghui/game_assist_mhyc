@@ -107,6 +107,61 @@ func (c *Connect) Ping() error {
 	return c.send(22, body)
 }
 
+func (c *Connect) GetBattlePrize() error {
+	body, err := proto.Marshal(&C2SGetBattlePrize{})
+	if err != nil {
+		return err
+	}
+	return c.send(523, body)
+}
+
+func (c *Connect) FightContinue() error {
+	body, err := proto.Marshal(&C2SFightContinue{})
+	if err != nil {
+		return err
+	}
+	return c.send(135, body)
+}
+
+func (c *Connect) EndFight(r *S2CBattlefieldReport) error {
+	body, err := proto.Marshal(&C2SEndFight{Idx: r.Idx})
+	if err != nil {
+		return err
+	}
+	return c.send(102, body)
+}
+
+func (c *Connect) CheckFight() error {
+	body, err := proto.Marshal(&C2SCheckFight{})
+	if err != nil {
+		return err
+	}
+	return c.send(65, body)
+}
+
+// RoutePath 主页 走来走去
+func (c *Connect) RoutePath() error {
+	body, err := proto.Marshal(&C2SRoutePath{
+		MapId: 33,
+		FX:    int32(RandInt64(1, 255)),
+		FY:    int32(RandInt64(1, 255)),
+		TX:    int32(RandInt64(1, 255)),
+		TY:    int32(RandInt64(1, 255)),
+	})
+	if err != nil {
+		return err
+	}
+	return c.send(154, body)
+}
+
+func (c *Connect) ChangeMap(m *C2SChangeMap) error {
+	body, err := proto.Marshal(m)
+	if err != nil {
+		return err
+	}
+	return c.send(50, body)
+}
+
 // ActGiftNewReceive 充值->1元秒杀->每日礼
 func (c *Connect) ActGiftNewReceive(act *C2SActGiftNewReceive) error {
 	body, err := proto.Marshal(act)
@@ -159,33 +214,6 @@ func (c *Connect) EverydaySign() error {
 		return err
 	}
 	return c.send(22302, body)
-}
-
-// StageFight 闯关
-func (c *Connect) StageFight() error {
-	body, err := proto.Marshal(DefineStageFight)
-	if err != nil {
-		return err
-	}
-	return c.send(103, body)
-}
-
-// GetHistoryTaskPrize 主线任务奖励
-func (c *Connect) GetHistoryTaskPrize() error {
-	body, err := proto.Marshal(DefineGetHistoryTaskPrize)
-	if err != nil {
-		return err
-	}
-	return c.send(713, body)
-}
-
-// GetStageDraw 闯关 幸运转盘
-func (c *Connect) GetStageDraw() error {
-	body, err := proto.Marshal(DefineStageDraw)
-	if err != nil {
-		return err
-	}
-	return c.send(118, body)
 }
 
 func (c *Connect) HuanLingList() error {
@@ -319,24 +347,6 @@ func (c *Connect) NewStory() error {
 		return err
 	}
 	return c.send(36, body)
-}
-
-// UserBag 背包
-func (c *Connect) UserBag() error {
-	body, err := proto.Marshal(&C2SUserBag{})
-	if err != nil {
-		return err
-	}
-	return c.send(500, body)
-}
-
-// StagePrize ?
-func (c *Connect) StagePrize() error {
-	body, err := proto.Marshal(&C2SStagePrize{})
-	if err != nil {
-		return err
-	}
-	return c.send(115, body)
 }
 
 // RoleInfo ?

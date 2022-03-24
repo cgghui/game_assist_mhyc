@@ -4,6 +4,7 @@ import (
 	"crypto/rand"
 	"math"
 	"math/big"
+	"time"
 )
 
 const UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
@@ -61,6 +62,8 @@ var SearchPet500 = &C2SSearchPet{ItemId: 500} // 寻找宠物 - 初级
 var DefineClimbingTowerEnter5 = &C2SClimbingTowerEnter{TowerType: 5} // 副本 - 爬塔 - 剑魂塔 - 进入
 var DefineClimbingTowerFight5 = &C2SClimbingTowerFight{TowerType: 5} // 副本 - 爬塔 - 剑魂塔 - 战斗
 
+var DefineChangeMap33 = &C2SChangeMap{MapId: 33} // 切换地图 主图
+
 func RandInt64(min, max int64) int64 {
 	if min < 0 {
 		f64Min := math.Abs(float64(min))
@@ -70,4 +73,10 @@ func RandInt64(min, max int64) int64 {
 	}
 	result, _ := rand.Int(rand.Reader, big.NewInt(max-min+1))
 	return min + result.Int64()
+}
+
+func RandMillisecond(min, max int64) time.Duration {
+	min *= 1000
+	max *= 1000
+	return time.Duration(RandInt64(min, max)) * time.Millisecond
 }
