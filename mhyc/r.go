@@ -1,20 +1,15 @@
 package mhyc
 
 import (
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
-	"os"
 	"time"
 )
 
-var RoleLoadWait = make(chan struct{})
-
 var CLI *Connect
 
-var PCK = map[uint16]Handle{
+var PCK = map[uint16]HandleMessage{
 	2:     &S2CLogin{},
-	3:     &S2CRoleInfo{},
 	12:    &S2CNotice{},
 	14:    &S2CRespect{},
 	23:    &Pong{},
@@ -65,7 +60,7 @@ var PCK = map[uint16]Handle{
 	55102: &S2CZSStateInfo{},
 }
 
-type Handle interface {
+type HandleMessage interface {
 	Message([]byte)
 }
 
@@ -179,7 +174,7 @@ func (x *ItemFly) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	for _, item := range x.Item {
 		var dat *ItemData
-		if val, ok := UserBag.Get(item.IId, 0); ok {
+		if val := UserBag.Get(item.IId); val != nil {
 			dat = val
 		} else {
 			dat = &ItemData{}
@@ -417,34 +412,6 @@ func (x *S2CLogin) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [Login] 登录成功 用户ID: %d", x.UserId)
-	return
-}
-
-var RIF, _ = os.OpenFile("./role_info_"+time.Now().Format("2006.01.02")+".txt", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0666)
-
-// Message S2CRoleInfo 角色信息
-func (x *S2CRoleInfo) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [RoleInfo] %v", err)
-		return
-	}
-	for _, a := range x.A {
-		if _, ok := AttrType[a.K]; !ok {
-			continue
-		}
-		log.Printf("[RoleInfo] %s\t%v", AttrType[a.K], a.V)
-		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[a.K], a.V))
-		RoleInfo.Store(AttrType[a.K], a.V)
-	}
-	for _, b := range x.B {
-		if _, ok := AttrType[b.K]; !ok {
-			continue
-		}
-		log.Printf("[RoleInfo] %s\t%v", AttrType[b.K], b.V)
-		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[b.K], b.V))
-		RoleInfo.Store(AttrType[b.K], b.V)
-	}
-	RoleLoadWait <- struct{}{}
 	return
 }
 

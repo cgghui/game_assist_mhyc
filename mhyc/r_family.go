@@ -6,64 +6,53 @@ import (
 	"time"
 )
 
-func init() {
-	PCK[27358] = &S2CFamilyJJCJoin{}
-	PCK[27363] = &S2CFamilyJJCFight{}
-}
-
-var familyJJCThread = make(chan interface{})
-var familyJJCAction = make(chan struct{})
-
 // FamilyJJC 竞技
 // [RoleInfo] FamilyJJC_TimesLeft 剩余次数
 // [RoleInfo] FamilyJJC_Times	  使用次数
 // [RoleInfo] FamilyJJC_Score	  积分
-func (c *Connect) FamilyJJC() {
-	go func() {
-		familyJJCAction <- struct{}{}
-		t := time.NewTimer(time.Minute)
-		for range t.C {
-			familyJJCAction <- struct{}{}
-			t.Reset(10 * time.Minute)
-		}
-	}()
-	run := func(val interface{}) {
-		switch ret := val.(type) {
-		case *S2CFamilyJJCJoin:
-			if ret.Tag == 0 {
-				_ = c.familyJJCFight(ret)
-				return
-			}
-			if ret.Tag == 17003 {
-				time.AfterFunc(time.Second, func() {
-					familyJJCAction <- struct{}{}
-				})
-				return
-			}
-			// end
-			if ret.Tag == 57606 {
-
-			}
-		case *S2CFamilyJJCFight:
-			familyJJCAction <- struct{}{}
-		}
-	}
-	for {
-		select {
-		case <-familyJJCAction:
-			if val, ok := RoleInfo.Load("FamilyJJC_Times"); ok {
-				if n, y := val.(int64); y && n >= 10 {
+func FamilyJJC() {
+	t := time.NewTimer(ms10)
+	for range t.C {
+		// 战斗
+		for {
+			if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
+				if val.Int64() >= 10 {
 					break
 				}
 			}
-			_ = c.familyJJCJoin()
-		case val := <-familyJJCThread:
-			go run(val)
+			ret := &S2CFamilyJJCJoin{}
+			Receive.Action(CLI.FamilyJJCJoin)
+			_ = Receive.Wait(27358, ret, s3)
+			if ret.Tag == 0 {
+				go func() {
+					_ = CLI.FamilyJJCFight(ret)
+				}()
+				_ = Receive.Wait(27363, &S2CFamilyJJCFight{}, s3)
+				time.Sleep(time.Second)
+				continue
+			}
+			if ret.Tag == 17003 {
+				time.Sleep(time.Second)
+				continue
+			}
+			// end
+			if ret.Tag == 57606 {
+				break
+			}
 		}
+		// 领取奖励
+		for i := 0; i < 4; i++ {
+			go func(i int) {
+				_ = CLI.FamilyJJCRecieveAward(int32(i))
+			}(i)
+			_ = Receive.Wait(27356, &S2CFamilyJJCRecieveAward{}, s3)
+		}
+		//
+		t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 	}
 }
 
-func (c *Connect) familyJJCJoin() error {
+func (c *Connect) FamilyJJCJoin() error {
 	body, err := proto.Marshal(&C2SFamilyJJCJoin{})
 	if err != nil {
 		return err
@@ -71,7 +60,15 @@ func (c *Connect) familyJJCJoin() error {
 	return c.send(27357, body)
 }
 
-func (c *Connect) familyJJCFight(act *S2CFamilyJJCJoin) error {
+func (c *Connect) FamilyJJCRecieveAward(id int32) error {
+	body, err := proto.Marshal(&C2SFamilyJJCRecieveAward{Id: id})
+	if err != nil {
+		return err
+	}
+	return c.send(27355, body)
+}
+
+func (c *Connect) FamilyJJCFight(act *S2CFamilyJJCJoin) error {
 	dat := C2SFamilyJJCFight{
 		UserId: make([]int64, 0, 0),
 	}
@@ -88,17 +85,19 @@ func (c *Connect) familyJJCFight(act *S2CFamilyJJCJoin) error {
 func (x *S2CFamilyInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyInfo] tag=%v", x.Tag)
-	familyJJCThread <- x
 }
 
 func (x *S2CFamilyJJCJoin) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyJJCJoin] tag=%v", x.Tag)
-	familyJJCThread <- x
 }
 
 func (x *S2CFamilyJJCFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyJJCFight] tag=%v", x.Tag)
-	familyJJCThread <- x
+}
+
+func (x *S2CFamilyJJCRecieveAward) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][FamilyJJCRecieveAward] tag=%v", x.Tag)
 }

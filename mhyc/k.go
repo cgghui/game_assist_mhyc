@@ -1,11 +1,5 @@
 package mhyc
 
-import "sync"
-
-type RoleVal interface{}
-
-var RoleInfo = &sync.Map{}
-
 var AttrType = map[int32]string{
 	1:     "Hp",
 	2:     "Atk",

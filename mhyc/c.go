@@ -123,14 +123,6 @@ func (c *Connect) FightContinue() error {
 	return c.send(135, body)
 }
 
-func (c *Connect) EndFight(r *S2CBattlefieldReport) error {
-	body, err := proto.Marshal(&C2SEndFight{Idx: r.Idx})
-	if err != nil {
-		return err
-	}
-	return c.send(102, body)
-}
-
 func (c *Connect) CheckFight() error {
 	body, err := proto.Marshal(&C2SCheckFight{})
 	if err != nil {
@@ -347,15 +339,6 @@ func (c *Connect) NewStory() error {
 		return err
 	}
 	return c.send(36, body)
-}
-
-// RoleInfo ?
-func (c *Connect) RoleInfo() error {
-	body, err := proto.Marshal(&C2SRoleInfo{})
-	if err != nil {
-		return err
-	}
-	return c.send(49, body)
 }
 
 // LoginEnd ?

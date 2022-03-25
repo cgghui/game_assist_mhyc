@@ -28,16 +28,35 @@ func main() {
 	mhyc.CLI = cli
 
 	go func() {
-		<-mhyc.RoleLoadWait
-		go cli.Bag()
-		<-mhyc.UserBagFirstWait
-		go func() {
-			for {
-				select {
-				case <-mhyc.RoleLoadWait:
-				case <-mhyc.UserBagFirstWait:
+
+		// 角色信息
+		func() {
+			info := &mhyc.S2CRoleInfo{}
+			_ = mhyc.Receive.Wait(3, info)
+			go func() {
+				for {
+					_ = mhyc.Receive.Wait(3, info)
 				}
-			}
+			}()
+			go func() {
+				for {
+					r := &mhyc.S2CBattlefieldReport{}
+					_ = mhyc.Receive.Wait(101, r)
+					_ = cli.EndFight(r)
+				}
+			}()
+		}()
+
+		// 用户背包
+		func() {
+			info := &mhyc.S2CUserBag{}
+			mhyc.Receive.Action(cli.UserBag)
+			_ = mhyc.Receive.Wait(501, info)
+			go func() {
+				for {
+					_ = mhyc.Receive.Wait(501, info)
+				}
+			}()
 		}()
 
 		//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
@@ -64,12 +83,11 @@ func main() {
 		//}
 		//run()
 		//
-		go cli.EnterAnimalPark()
-		go cli.Mail()
-		go cli.AFK()
-		go cli.FamilyJJC()
-
-		cli.StageFight()
+		go mhyc.Mail()
+		go mhyc.AFK()
+		go mhyc.StageFight()
+		go mhyc.FamilyJJC()
+		go mhyc.EnterAnimalPark()
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)
@@ -102,20 +120,6 @@ func main() {
 		//		//_ = cli.WeddingInsInvite()
 		//		//_ = cli.ClimbingTowerEnter(mhyc.DefineClimbingTowerEnter5)
 		//		//_ = cli.GetActXunBaoInfo(mhyc.DefineXunBaoInfo501)
-		//		//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
-		//		//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
-		//		//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
-		//		//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
-		//		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
-		//		//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
-		//		//_ = cli.EverydaySign()                                     // 每日签到
-		//		//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
 		//	},
 		//
 		//	//func() {
@@ -184,11 +188,12 @@ func main() {
 				log.Printf("recv: %v", err)
 				continue
 			}
-			if _, ok := mhyc.PCK[id]; !ok {
-				log.Printf("recv: id[%d] manage func non-existent", id)
-				continue
-			}
-			go mhyc.PCK[id].Message(message[4:])
+			mhyc.Receive.Notify(id, message[4:])
+			//if _, ok := mhyc.PCK[id]; !ok {
+			//	log.Printf("recv: id[%d] manage func non-existent", id)
+			//	continue
+			//}
+			//go mhyc.PCK[id].Message(message[4:])
 		}
 	}()
 

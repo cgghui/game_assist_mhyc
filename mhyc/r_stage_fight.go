@@ -6,66 +6,49 @@ import (
 	"time"
 )
 
-func init() {
-	PCK[101] = &S2CBattlefieldReport{}
-	PCK[104] = &S2CStageFight{}
-	PCK[119] = &S2CStageDraw{}
-	PCK[714] = &S2CGetHistoryTaskPrize{}
-}
-
-var stageFightThread = make(chan interface{})
-var stageFightAction = make(chan struct{})
-
-// StageFight 闯关
-func (c *Connect) StageFight() {
-	time.Sleep(time.Second * 3)
+func StageFight() {
 	go func() {
-		stageFightAction <- struct{}{}
-		t := time.NewTimer(time.Minute)
+		t := time.NewTimer(ms100)
 		for range t.C {
-			stageFightAction <- struct{}{}
-			t.Reset(RandMillisecond(60, 120))
+			h := &S2CGetHistoryTaskPrize{}
+			Receive.Action(CLI.GetHistoryTaskPrize)
+			if _ = Receive.Wait(714, h, s3); h.Tag == 0 {
+				t.Reset(ms500)
+				continue
+			}
+			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 		}
 	}()
-	run := func(val interface{}) {
-		switch ret := val.(type) {
-		case *S2CStageFight:
-			{
-				//sdt, ok := RoleInfo.Load("StageDrawTimes")
-				//fmt.Println(sdt, ok)
-				if ret.Tag == 31 {
-					_ = c.getStageDraw()
-				}
+	tc := time.NewTimer(ms100)
+	tm := time.NewTimer(ms500)
+	for range tc.C {
+		for range tm.C {
+			Receive.Action(CLI.StageFight)
+			f := &S2CStageFight{}
+			if _ = Receive.Wait(104, f, s3); f.Tag == 31 {
+				break
 			}
-		case *S2CBattlefieldReport:
-			if ret.Win == 1 {
-				_ = c.EndFight(ret)
-				stageFightAction <- struct{}{}
+			if f.Tag == 0 {
+				_ = Receive.Wait(101, &S2CBattlefieldReport{}, s3)
 			}
-		case *S2CStageDraw:
-			if ret.Tag == 0 {
-				_ = c.getStageDraw()
-				return
-			}
-			_ = c.getHistoryTaskPrize()
-		case *S2CGetHistoryTaskPrize:
-			if ret.Tag == 0 {
-				_ = c.getHistoryTaskPrize()
-			}
+			tm.Reset(ms500)
 		}
-	}
-	for {
-		select {
-		case <-stageFightAction:
-			_ = c.stageFight()
-		case val := <-stageFightThread:
-			go run(val)
+		tm.Reset(ms100)
+		for range tm.C {
+			r := &S2CStageDraw{}
+			Receive.Action(CLI.GetStageDraw)
+			if _ = Receive.Wait(119, r, s3); r.Tag == 0 {
+				tm.Reset(ms100)
+				continue
+			}
+			break
 		}
+		tc.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 	}
 }
 
-// stageFight 闯关 - 开始
-func (c *Connect) stageFight() error {
+// StageFight 闯关 - 开始
+func (c *Connect) StageFight() error {
 	body, err := proto.Marshal(DefineStageFight)
 	if err != nil {
 		return err
@@ -73,8 +56,8 @@ func (c *Connect) stageFight() error {
 	return c.send(103, body)
 }
 
-// getStageDraw 闯关 幸运转盘
-func (c *Connect) getStageDraw() error {
+// GetStageDraw 闯关 幸运转盘
+func (c *Connect) GetStageDraw() error {
 	body, err := proto.Marshal(DefineStageDraw)
 	if err != nil {
 		return err
@@ -82,8 +65,8 @@ func (c *Connect) getStageDraw() error {
 	return c.send(118, body)
 }
 
-// getHistoryTaskPrize 主线任务奖励
-func (c *Connect) getHistoryTaskPrize() error {
+// GetHistoryTaskPrize 主线任务奖励
+func (c *Connect) GetHistoryTaskPrize() error {
 	body, err := proto.Marshal(DefineGetHistoryTaskPrize)
 	if err != nil {
 		return err
@@ -94,23 +77,14 @@ func (c *Connect) getHistoryTaskPrize() error {
 func (x *S2CStageFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][StagePrize] tag=%v win=%v", x.Tag, x.Win)
-	stageFightThread <- x
-}
-
-func (x *S2CBattlefieldReport) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BattlefieldReport] win=%v idx=%v", x.Win, x.Idx)
-	stageFightThread <- x
 }
 
 func (x *S2CStageDraw) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][CStageDraw] tag=%v id=%v", x.Tag, x.Id)
-	stageFightThread <- x
 }
 
 func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][GetHistoryTaskPrize] tag=%v raw=%v", x.Tag, x)
-	stageFightThread <- x
 }
