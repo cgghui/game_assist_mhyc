@@ -25,22 +25,6 @@ var DefineRespectG = &C2SRespect{Type: 1} // 排名—>跨服榜->膜拜
 
 var DefineVipDayGift = &C2SGetVipDayGift{} // SVIP 每日礼包
 
-var DefineXunBaoDraw501 = &C2SActXunBaoDraw{ActId: 501, Type: 1, AutoBuy: 0} // 寻宝 -> 天仙寻宝
-var DefineXunBaoDraw502 = &C2SActXunBaoDraw{ActId: 502, Type: 1, AutoBuy: 0} // 寻宝 -> 宠物寻宝
-var DefineXunBaoDraw503 = &C2SActXunBaoDraw{ActId: 503, Type: 1, AutoBuy: 0} // 寻宝 -> 技能寻宝
-var DefineXunBaoDraw504 = &C2SActXunBaoDraw{ActId: 504, Type: 1, AutoBuy: 0} // 寻宝 -> 灯神寻宝
-var DefineXunBaoDraw505 = &C2SActXunBaoDraw{ActId: 505, Type: 1, AutoBuy: 0} // 寻宝 -> 图鉴寻宝
-var DefineXunBaoDraw506 = &C2SActXunBaoDraw{ActId: 506, Type: 1, AutoBuy: 0} // 寻宝 -> 材料寻宝
-var DefineXunBaoDraw507 = &C2SActXunBaoDraw{ActId: 507, Type: 1, AutoBuy: 0} // 寻宝 -> 皮肤寻宝
-
-var DefineXunBaoInfo501 = &C2SGetActXunBaoInfo{ActId: 501} // 寻宝 -> 天仙寻宝
-var DefineXunBaoInfo502 = &C2SGetActXunBaoInfo{ActId: 502} // 寻宝 -> 宠物寻宝
-var DefineXunBaoInfo503 = &C2SGetActXunBaoInfo{ActId: 503} // 寻宝 -> 技能寻宝
-var DefineXunBaoInfo504 = &C2SGetActXunBaoInfo{ActId: 504} // 寻宝 -> 灯神寻宝
-var DefineXunBaoInfo505 = &C2SGetActXunBaoInfo{ActId: 505} // 寻宝 -> 图鉴寻宝
-var DefineXunBaoInfo506 = &C2SGetActXunBaoInfo{ActId: 506} // 寻宝 -> 材料寻宝
-var DefineXunBaoInfo507 = &C2SGetActXunBaoInfo{ActId: 507} // 寻宝 -> 皮肤寻宝
-
 var DefineGetActTask11002 = &C2SGetActTask{ActId: 11002} // 每日福利 -> 在线奖励
 
 var DefineLifeCardDayPrize = &C2SLifeCardDayPrize{} // 特权卡 -> 至尊卡

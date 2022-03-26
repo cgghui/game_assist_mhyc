@@ -17,14 +17,28 @@ func (c *Connect) UserBag() error {
 	return c.send(500, body)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CUserBag) ID() uint16 {
+	return 501
+}
+
 func (x *S2CUserBag) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("[S][UserBag] err=%v", err)
 		return
 	}
-	for _, item := range x.Bag.Items {
-		UserBag.Set(item.IId, item)
+	if x.Bag.Items != nil {
+		for _, item := range x.Bag.Items {
+			UserBag.Set(item.IId, item)
+		}
 	}
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CBagChange) ID() uint16 {
+	return 520
 }
 
 func (x *S2CBagChange) Message(data []byte) {
@@ -36,6 +50,31 @@ func (x *S2CBagChange) Message(data []byte) {
 		UserBag.Set(item.Item.IId, item.Item)
 	}
 }
+
+////////////////////////////////////////////////////////////
+
+func (x *ItemFly) ID() uint16 {
+	return 524
+}
+
+// Message ItemFly 524
+func (x *ItemFly) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	for _, item := range x.Item {
+		var dat *ItemData
+		if val := UserBag.Get(item.IId); val != nil {
+			dat = val
+		} else {
+			dat = &ItemData{}
+		}
+		dat.N = dat.N + item.N
+		UserBag.Set(item.IId, dat)
+	}
+	log.Printf("[S][ItemFly] %v", x)
+	return
+}
+
+////////////////////////////////////////////////////////////
 
 var UserBag = &userBag{
 	s: &sync.Map{},
@@ -64,7 +103,9 @@ const ms10 = 10 * time.Millisecond
 const ms100 = 100 * time.Millisecond
 const ms500 = 500 * time.Millisecond
 const s3 = 3 * time.Second
+const s10 = 10 * time.Second
 const s30 = 30 * time.Second
+const h24 = 24 * time.Hour
 
 func (u *userBag) Wait(id int32, timeout time.Duration) *ItemData {
 	var err error
@@ -77,7 +118,7 @@ func (u *userBag) Wait(id int32, timeout time.Duration) *ItemData {
 			return nil
 		case <-tm.C:
 			_ = CLI.UserBag()
-			if err = Receive.WaitWithContext(ctx, 501, &S2CUserBag{}); err != nil {
+			if err = Receive.WaitWithContext(ctx, &S2CUserBag{}); err != nil {
 				return nil
 			}
 			ret, ok := u.s.Load(id)

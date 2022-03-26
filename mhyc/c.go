@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"github.com/gorilla/websocket"
 	"google.golang.org/protobuf/proto"
+	"log"
 	"net/http"
 	"net/url"
 	"strconv"
@@ -82,6 +83,7 @@ func (c *Client) Connect() (*Connect, error) {
 		t := time.NewTicker(3 * time.Second)
 		for range t.C {
 			_ = ret.Ping()
+			log.Printf("[C][Ping]")
 		}
 	}()
 	return &ret, nil
@@ -154,60 +156,6 @@ func (c *Connect) ChangeMap(m *C2SChangeMap) error {
 	return c.send(50, body)
 }
 
-// ActGiftNewReceive 充值->1元秒杀->每日礼
-func (c *Connect) ActGiftNewReceive(act *C2SActGiftNewReceive) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(12011, body)
-}
-
-// Respect 排名->膜拜
-func (c *Connect) Respect(act *C2SRespect) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(13, body)
-}
-
-// GetVipDayGift 每日礼包
-func (c *Connect) GetVipDayGift() error {
-	body, err := proto.Marshal(DefineVipDayGift)
-	if err != nil {
-		return err
-	}
-	return c.send(136, body)
-}
-
-// XunBaoDraw 寻宝
-func (c *Connect) XunBaoDraw(act *C2SActXunBaoDraw) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(11035, body)
-}
-
-// LifeCardDayPrize 特权卡 -> 至尊卡
-func (c *Connect) LifeCardDayPrize() error {
-	body, err := proto.Marshal(DefineLifeCardDayPrize)
-	if err != nil {
-		return err
-	}
-	return c.send(22405, body)
-}
-
-// EverydaySign 每日签到
-func (c *Connect) EverydaySign() error {
-	body, err := proto.Marshal(DefineSign)
-	if err != nil {
-		return err
-	}
-	return c.send(22302, body)
-}
-
 func (c *Connect) HuanLingList() error {
 	body, err := proto.Marshal(&C2SHuanLingList{})
 	if err != nil {
@@ -240,15 +188,6 @@ func (c *Connect) RealmTask() error {
 		return err
 	}
 	return c.send(22012, body)
-}
-
-// GetTaskPrize 修仙 - 境界 领取任务奖励
-func (c *Connect) GetTaskPrize(act *C2SGetTaskPrize) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(703, body)
 }
 
 // BossPersonalSweep Boss - 本服BOSS - 个人BOSS 一键扫荡
@@ -356,14 +295,6 @@ func (c *Connect) GetActXunBaoInfo(act *C2SGetActXunBaoInfo) error {
 		return err
 	}
 	return c.send(11031, body)
-}
-
-func (c *Connect) GetActTask(act *C2SGetActTask) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(12151, body)
 }
 
 // AllWeddingToken 仙缘信息

@@ -13,7 +13,6 @@ func init() {
 }
 
 func main() {
-
 	var err error
 	var session *mhyc.Client
 	session, err = mhyc.NewClient("66c9351a98e6809c52a1e36a13af3917", "19c3e57e2544f42b30b21104d24b2a94")
@@ -32,17 +31,27 @@ func main() {
 		// 角色信息
 		func() {
 			info := &mhyc.S2CRoleInfo{}
-			_ = mhyc.Receive.Wait(3, info)
+			_ = mhyc.Receive.Wait(info)
 			go func() {
-				for {
-					_ = mhyc.Receive.Wait(3, info)
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
+				for data := range channel.Wait() {
+					info.Message(data)
 				}
 			}()
 			go func() {
-				for {
-					r := &mhyc.S2CBattlefieldReport{}
-					_ = mhyc.Receive.Wait(101, r)
-					_ = cli.EndFight(r)
+				var obj *mhyc.S2CBattlefieldReport
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
+				for data := range channel.Wait() {
+					obj = &mhyc.S2CBattlefieldReport{}
+					obj.Message(data)
+					_ = cli.EndFight(obj)
+				}
+			}()
+			go func() {
+				pong := &mhyc.Pong{}
+				channel := mhyc.Receive.CreateChannel(pong)
+				for range channel.Wait() {
+					pong.Message(nil)
 				}
 			}()
 		}()
@@ -51,28 +60,26 @@ func main() {
 		func() {
 			info := &mhyc.S2CUserBag{}
 			mhyc.Receive.Action(cli.UserBag)
-			_ = mhyc.Receive.Wait(501, info)
+			_ = mhyc.Receive.Wait(info)
 			go func() {
-				for {
-					_ = mhyc.Receive.Wait(501, info)
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
+				for data := range channel.Wait() {
+					info.Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CBagChange{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
+				for data := range channel.Wait() {
+					(&mhyc.ItemFly{}).Message(data)
 				}
 			}()
 		}()
-
-		//_ = cli.ActGiftNewReceive(mhyc.DefineGiftRechargeEveryDay) // 充值->1元秒杀->每日礼
-		//_ = cli.Respect(mhyc.DefineRespectL)                       // 排名—>本区榜->膜拜
-		//_ = cli.Respect(mhyc.DefineRespectG)                       // 排名—>跨服榜->膜拜
-		//_ = cli.GetVipDayGift()                                    // SVIP 每日礼包
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw501)               // 寻宝 -> 天仙寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw502)               // 寻宝 -> 宠物寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw503)               // 寻宝 -> 技能寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw504)               // 寻宝 -> 灯神寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw505)               // 寻宝 -> 图鉴寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw506)               // 寻宝 -> 材料寻宝
-		//_ = cli.XunBaoDraw(mhyc.DefineXunBaoDraw507)               // 寻宝 -> 皮肤寻宝
-		//_ = cli.LifeCardDayPrize()                                 // 特权卡 -> 至尊卡
-		//_ = cli.EverydaySign()                                     // 每日签到
-		//_ = cli.ShopBuy(mhyc.DefineShopBuyFree)                    // 商城购物 免费
 
 		//t := time.NewTimer(time.Second)
 		//run := func() {
@@ -83,6 +90,7 @@ func main() {
 		//}
 		//run()
 		//
+		go mhyc.Everyday()
 		go mhyc.Mail()
 		go mhyc.AFK()
 		go mhyc.StageFight()

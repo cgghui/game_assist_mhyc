@@ -12,7 +12,9 @@ import (
 // [RoleInfo] FamilyJJC_Score	  积分
 func FamilyJJC() {
 	t := time.NewTimer(ms10)
-	for range t.C {
+	f := func() {
+		Fight.Lock()
+		defer Fight.Unlock()
 		// 战斗
 		for {
 			if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
@@ -22,12 +24,12 @@ func FamilyJJC() {
 			}
 			ret := &S2CFamilyJJCJoin{}
 			Receive.Action(CLI.FamilyJJCJoin)
-			_ = Receive.Wait(27358, ret, s3)
+			_ = Receive.Wait(ret, s3)
 			if ret.Tag == 0 {
 				go func() {
 					_ = CLI.FamilyJJCFight(ret)
 				}()
-				_ = Receive.Wait(27363, &S2CFamilyJJCFight{}, s3)
+				_ = Receive.Wait(&S2CFamilyJJCFight{}, s3)
 				time.Sleep(time.Second)
 				continue
 			}
@@ -45,9 +47,11 @@ func FamilyJJC() {
 			go func(i int) {
 				_ = CLI.FamilyJJCRecieveAward(int32(i))
 			}(i)
-			_ = Receive.Wait(27356, &S2CFamilyJJCRecieveAward{}, s3)
+			_ = Receive.Wait(&S2CFamilyJJCRecieveAward{}, s3)
 		}
-		//
+	}
+	for range t.C {
+		f()
 		t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 	}
 }
@@ -82,9 +86,21 @@ func (c *Connect) FamilyJJCFight(act *S2CFamilyJJCJoin) error {
 	return c.send(27359, body)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CFamilyInfo) ID() uint16 {
+	return 20002
+}
+
 func (x *S2CFamilyInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyInfo] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CFamilyJJCJoin) ID() uint16 {
+	return 27358
 }
 
 func (x *S2CFamilyJJCJoin) Message(data []byte) {
@@ -92,9 +108,21 @@ func (x *S2CFamilyJJCJoin) Message(data []byte) {
 	log.Printf("[S][FamilyJJCJoin] tag=%v", x.Tag)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CFamilyJJCFight) ID() uint16 {
+	return 27363
+}
+
 func (x *S2CFamilyJJCFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][FamilyJJCFight] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CFamilyJJCRecieveAward) ID() uint16 {
+	return 27356
 }
 
 func (x *S2CFamilyJJCRecieveAward) Message(data []byte) {

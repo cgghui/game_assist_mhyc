@@ -21,6 +21,10 @@ type receiveMessage struct {
 	running bool
 }
 
+func (r *receiveMessage) Wait() <-chan []byte {
+	return r.wait
+}
+
 func (r *receiveMessage) Close() {
 	r.id = 0
 	r.running = false
@@ -53,16 +57,8 @@ func (r *receiveMessageBox) Action(act func() error) {
 	}(act)
 }
 
-func (r *receiveMessageBox) Wait(id uint16, call HandleMessage, timeout ...time.Duration) error {
-	if len(timeout) == 0 {
-		return r.WaitWithContext(nil, id, call)
-	}
-	ctx, cancel := context.WithTimeout(context.Background(), timeout[0])
-	defer cancel()
-	return r.WaitWithContext(ctx, id, call)
-}
-
-func (r *receiveMessageBox) WaitWithContext(ctx context.Context, id uint16, call HandleMessage) error {
+func (r *receiveMessageBox) CreateChannel(call HandleMessage) *receiveMessage {
+	id := call.ID()
 	var rm *receiveMessage
 	for _, w := range r.ls {
 		if !w.IsOpen() {
@@ -78,6 +74,20 @@ func (r *receiveMessageBox) WaitWithContext(ctx context.Context, id uint16, call
 		}
 		r.ls = append(r.ls, rm)
 	}
+	return rm
+}
+
+func (r *receiveMessageBox) Wait(call HandleMessage, timeout ...time.Duration) error {
+	if len(timeout) == 0 {
+		return r.WaitWithContext(nil, call)
+	}
+	ctx, cancel := context.WithTimeout(context.Background(), timeout[0])
+	defer cancel()
+	return r.WaitWithContext(ctx, call)
+}
+
+func (r *receiveMessageBox) WaitWithContext(ctx context.Context, call HandleMessage) error {
+	rm := r.CreateChannel(call)
 	defer rm.Close()
 	if ctx == nil {
 		call.Message(<-rm.wait)

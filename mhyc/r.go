@@ -3,64 +3,64 @@ package mhyc
 import (
 	"google.golang.org/protobuf/proto"
 	"log"
+	"sync"
 	"time"
 )
 
 var CLI *Connect
+var Fight = &sync.Mutex{}
 
-var PCK = map[uint16]HandleMessage{
-	2:     &S2CLogin{},
-	12:    &S2CNotice{},
-	14:    &S2CRespect{},
-	23:    &Pong{},
-	37:    &S2CNewStory{},
-	48:    &S2CRoleTask{},
-	51:    &S2CChangeMap{},
-	54:    &S2CPlayerMove{},
-	59:    &S2CMonsterEnterMap{},
-	60:    &S2CMonsterLeaveMap{},
-	66:    &S2CCheckFight{},
-	137:   &S2CGetVipDayGift{},
-	155:   &S2CRoutePath{},
-	403:   &S2CNewChatMsg{},
-	433:   &S2CShopBuy{},
-	524:   &ItemFly{},
-	575:   &S2CAutoMeltGain{},
-	605:   &S2CBossPersonalSweep{},
-	704:   &S2CGetTaskPrize{},
-	1001:  &S2CServerTime{},
-	1111:  &S2CMultiBossInfo{},
-	1542:  &S2CGetActTimestamp{},
-	11032: &S2CGetActXunBaoInfo{},
-	11036: &S2CActXunBaoDraw{},
-	12012: &S2CActGiftNewReceive{},
-	12152: &S2CGetActTask{},
-	15030: &S2CHomeBossInfo{},
-	19060: &S2CSectIMSeizeReward{},
-	21001: &S2CRedState{},
-	22013: &S2CRealmTask{},
-	22303: &S2CSign{},
-	22406: &S2CLifeCardDayPrize{},
-	22572: &S2CClimbingTowerEnter{},
-	22576: &S2CClimbingTowerFight{},
-	22628: &S2CWeddingInsInvite{},
-	22632: &S2CWeddingInsInviteAck{},
-	22641: &S2CWeddingInsReport{},
-	22731: &S2CGetPetAMergeInfo{},
-	23102: &S2CPlayerPractice{},
-	25796: &S2CBeasts{},
-	26232: &S2CXsdBossInfo{},
-	27002: &S2CGetAllEquipData{},
-	27004: &S2CGetEquipData{},
-	27152: &S2CHuanLingList{},
-	27802: &S2CGetHeroList{},
-	28602: &S2CGetAlienData{},
-	29504: &S2CSLGetData{},
-	52227: &S2CYJInfo{},
-	55102: &S2CZSStateInfo{},
-}
+//var PCK = map[uint16]HandleMessage{
+//	2:     &S2CLogin{},
+//	12:    &S2CNotice{},
+//	23:    &Pong{},
+//	37:    &S2CNewStory{},
+//	48:    &S2CRoleTask{},
+//	51:    &S2CChangeMap{},
+//	54:    &S2CPlayerMove{},
+//	59:    &S2CMonsterEnterMap{},
+//	60:    &S2CMonsterLeaveMap{},
+//	66:    &S2CCheckFight{},
+//	155:   &S2CRoutePath{},
+//	403:   &S2CNewChatMsg{},
+//	433:   &S2CShopBuy{},
+//	524:   &ItemFly{},
+//	575:   &S2CAutoMeltGain{},
+//	605:   &S2CBossPersonalSweep{},
+//	704:   &S2CGetTaskPrize{},
+//	1001:  &S2CServerTime{},
+//	1111:  &S2CMultiBossInfo{},
+//	1542:  &S2CGetActTimestamp{},
+//	11032: &S2CGetActXunBaoInfo{},
+//	12012: &S2CActGiftNewReceive{},
+//	12152: &S2CGetActTask{},
+//	15030: &S2CHomeBossInfo{},
+//	19060: &S2CSectIMSeizeReward{},
+//	21001: &S2CRedState{},
+//	22013: &S2CRealmTask{},
+//	22303: &S2CSign{},
+//	22406: &S2CLifeCardDayPrize{},
+//	22572: &S2CClimbingTowerEnter{},
+//	22576: &S2CClimbingTowerFight{},
+//	22628: &S2CWeddingInsInvite{},
+//	22632: &S2CWeddingInsInviteAck{},
+//	22641: &S2CWeddingInsReport{},
+//	22731: &S2CGetPetAMergeInfo{},
+//	23102: &S2CPlayerPractice{},
+//	25796: &S2CBeasts{},
+//	26232: &S2CXsdBossInfo{},
+//	27002: &S2CGetAllEquipData{},
+//	27004: &S2CGetEquipData{},
+//	27152: &S2CHuanLingList{},
+//	27802: &S2CGetHeroList{},
+//	28602: &S2CGetAlienData{},
+//	29504: &S2CSLGetData{},
+//	52227: &S2CYJInfo{},
+//	55102: &S2CZSStateInfo{},
+//}
 
 type HandleMessage interface {
+	ID() uint16
 	Message([]byte)
 }
 
@@ -170,22 +170,6 @@ func (x *S2CMultiBossInfo) Message(data []byte) {
 	return
 }
 
-func (x *ItemFly) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	for _, item := range x.Item {
-		var dat *ItemData
-		if val := UserBag.Get(item.IId); val != nil {
-			dat = val
-		} else {
-			dat = &ItemData{}
-		}
-		dat.N = dat.N + item.N
-		UserBag.Set(item.IId, dat)
-	}
-	log.Printf("[S][ItemFly] %v", x)
-	return
-}
-
 func (x *S2CZSStateInfo) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [ZSStateInfo] %v", err)
@@ -231,17 +215,17 @@ func (x *S2CNotice) Message(data []byte) {
 	return
 }
 
-func (x *S2CGetActTask) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetActTask] %v", err)
-		return
-	}
-	for _, t := range x.Task {
-		_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: t.Id})
-	}
-	log.Printf("recv: [GetActTask] %v", x)
-	return
-}
+//func (x *S2CGetActTask) Message(data []byte) {
+//	if err := proto.Unmarshal(data, x); err != nil {
+//		log.Printf("recv: [GetActTask] %v", err)
+//		return
+//	}
+//	for _, t := range x.Task {
+//		_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: t.Id})
+//	}
+//	log.Printf("recv: [GetActTask] %v", x)
+//	return
+//}
 
 func (x *S2CGetActXunBaoInfo) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
@@ -360,15 +344,6 @@ func (x *S2CBossPersonalSweep) Message(data []byte) {
 	return
 }
 
-func (x *S2CGetTaskPrize) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetTaskPrize] %v", err)
-		return
-	}
-	log.Printf("recv: [GetTaskPrize] %v", x)
-	return
-}
-
 func (x *S2CRealmTask) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [RealmTask] %v", err)
@@ -380,15 +355,6 @@ func (x *S2CRealmTask) Message(data []byte) {
 		}
 	}
 	//log.Printf("recv: [RealmTask] %v", x)
-	return
-}
-
-func (x *S2CShopBuy) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ShopBuy] %v", err)
-		return
-	}
-	log.Printf("recv: [ShopBuy] %v", x)
 	return
 }
 
@@ -415,36 +381,9 @@ func (x *S2CLogin) Message(data []byte) {
 	return
 }
 
-func (x *Pong) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [Pong] %v", err)
-		return
-	}
-	log.Println("Pong")
-	return
-}
-
 func (x *S2CChangeMap) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][ChangeMap] id=%d x=%d y=%d", x.MapId, x.X, x.Y)
-}
-
-func (x *S2CActGiftNewReceive) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ActGiftNewReceive] %v", err)
-		return
-	}
-	log.Printf("ActGiftNewReceive: tag=%d gid=%d aid=%d", x.Tag, x.Gid, x.Aid)
-	return
-}
-
-func (x *S2CRespect) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [Respect] %v", err)
-		return
-	}
-	log.Printf("Respect: tag=%d type=%d prize=%v", x.Tag, x.Type, x.Prize)
-	return
 }
 
 func (x *S2CServerTime) Message(data []byte) {
@@ -472,41 +411,5 @@ func (x *S2CRoleTask) Message(data []byte) {
 		return
 	}
 	log.Printf("[RoleTask] %v", x)
-	return
-}
-
-func (x *S2CGetVipDayGift) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [GetVipDayGift] %v", err)
-		return
-	}
-	log.Printf("GetVipDayGift: tag=%d", x.Tag)
-	return
-}
-
-func (x *S2CActXunBaoDraw) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ActXunBaoDraw] %v", err)
-		return
-	}
-	log.Printf("ActXunBaoDraw: tag=%d %v", x.Tag, x)
-	return
-}
-
-func (x *S2CLifeCardDayPrize) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [LifeCardDayPrize] %v", err)
-		return
-	}
-	log.Printf("LifeCardDayPrize: tag=%d", x.Tag)
-	return
-}
-
-func (x *S2CSign) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [Sign] %v", err)
-		return
-	}
-	log.Printf("Sign: tag=%d", x.Tag)
 	return
 }

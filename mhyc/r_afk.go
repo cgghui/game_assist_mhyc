@@ -13,19 +13,24 @@ func AFK() {
 		info := &S2CAFKGetBuyInfo{}
 		buyTimes := &S2CAFKBuyTimes{}
 		t := time.NewTimer(ms100)
-		for range t.C {
+		f := func() {
+			Fight.Lock()
+			defer Fight.Unlock()
 			for {
 				Receive.Action(CLI.AFKGetBuyInfo)
-				if err := Receive.Wait(22152, info, s3); err != nil {
+				if err := Receive.Wait(info, s3); err != nil {
 					continue
 				}
 				if info.Coin <= 0 {
 					Receive.Action(CLI.AFKBuyTimes)
-					_ = Receive.Wait(22154, buyTimes, s3)
+					_ = Receive.Wait(buyTimes, s3)
 					continue
 				}
-				break
+				return
 			}
+		}
+		for range t.C {
+			f()
 			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 		}
 	}()
@@ -34,7 +39,7 @@ func AFK() {
 	t := time.NewTimer(105 * time.Millisecond)
 	for range t.C {
 		Receive.Action(CLI.GetAFKPrize)
-		_ = Receive.Wait(22156, info, s3)
+		_ = Receive.Wait(info, s3)
 		t.Reset(RandMillisecond(60, 180)) // 1 ~ 3 分钟
 	}
 }
@@ -65,14 +70,32 @@ func (c *Connect) AFKBuyTimes() error {
 	return c.send(22153, body)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CAFKGetBuyInfo) ID() uint16 {
+	return 22152
+}
+
 func (x *S2CAFKGetBuyInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][AFKGetBuyInfo] %v", x)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CGetAFKPrize) ID() uint16 {
+	return 22156
+}
+
 func (x *S2CGetAFKPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][GetAFKPrize] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CAFKBuyTimes) ID() uint16 {
+	return 22154
 }
 
 func (x *S2CAFKBuyTimes) Message(data []byte) {

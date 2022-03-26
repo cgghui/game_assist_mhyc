@@ -15,18 +15,20 @@ const (
 
 func EnterAnimalPark() {
 	t := time.NewTimer(ms10)
-	for range t.C {
+	f := func() {
+		Fight.Lock()
+		defer Fight.Unlock()
 		ret := &S2CEnterAnimalPark{}
 		Receive.Action(CLI.EnterAnimalPark)
-		if err := Receive.Wait(19074, ret, s3); err != nil {
-			continue
+		if err := Receive.Wait(ret, s10); err != nil {
+			return
 		}
 		if ret.Pet != nil {
 			for _, pet := range ret.Pet {
 				go func(r *PasturePet) {
 					_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: r.Id, X: r.PointX, Y: r.PointY})
 				}(pet)
-				_ = Receive.Wait(19086, &S2CAnimalParkGO{}, s3)
+				_ = Receive.Wait(&S2CAnimalParkGO{}, s3)
 			}
 		}
 		var items = make(map[int32]*ItemData)
@@ -43,7 +45,7 @@ func EnterAnimalPark() {
 			items[ItemPet502] = item
 			n += items[ItemPet502].N
 		}
-		if n > 0 {
+		if n > 200 {
 			// 检测是否需要使用buff
 			isBuff := false
 			for _, buff := range ret.Buff {
@@ -60,7 +62,7 @@ func EnterAnimalPark() {
 						Receive.Action(func() error {
 							return CLI.SearchPet(&C2SSearchPet{ItemId: ItemPet503})
 						})
-						_ = Receive.Wait(19078, &S2CSearchPet{}, s3)
+						_ = Receive.Wait(&S2CSearchPet{}, s3)
 					}
 				}
 			}
@@ -71,7 +73,7 @@ func EnterAnimalPark() {
 					go func(id int32) {
 						_ = CLI.SearchPet(&C2SSearchPet{ItemId: id})
 					}(id)
-					_ = Receive.Wait(19078, r, s3)
+					_ = Receive.Wait(r, s3)
 					// a
 					if r.Pet == nil {
 						continue
@@ -79,12 +81,15 @@ func EnterAnimalPark() {
 					go func(r *S2CSearchPet) {
 						_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: r.Pet.Id, X: r.Pet.PointX, Y: r.Pet.PointY})
 					}(r)
-					_ = Receive.Wait(19086, &S2CAnimalParkGO{}, s3)
+					_ = Receive.Wait(&S2CAnimalParkGO{}, s3)
 				}
 			}
 		}
 		Receive.Action(CLI.LeaveAnimalPark)
-		_ = Receive.Wait(19076, &S2CLeaveAnimalPark{}, s3)
+		_ = Receive.Wait(&S2CLeaveAnimalPark{}, s3)
+	}
+	for range t.C {
+		f()
 		t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 	}
 }
@@ -125,9 +130,21 @@ func (c *Connect) AnimalParkGO(act *C2SAnimalParkGO) error {
 	return c.send(19085, body)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CEnterAnimalPark) ID() uint16 {
+	return 19074
+}
+
 func (x *S2CEnterAnimalPark) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][EnterAnimalPark] tag=%v pet=%v buff=%v", x.Tag, x.Pet, x.Buff)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CSearchPet) ID() uint16 {
+	return 19078
 }
 
 func (x *S2CSearchPet) Message(data []byte) {
@@ -135,9 +152,21 @@ func (x *S2CSearchPet) Message(data []byte) {
 	log.Printf("[S][SearchPet] tag=%v pet=%v buff=%v", x.Tag, x.Pet, x.Buff)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CAnimalParkGO) ID() uint16 {
+	return 19086
+}
+
 func (x *S2CAnimalParkGO) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][AnimalParkGO] tag=%v times=%v del_pets=%v", x.Tag, x.Times, x.DelPets)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CLeaveAnimalPark) ID() uint16 {
+	return 19076
 }
 
 func (x *S2CLeaveAnimalPark) Message(data []byte) {
@@ -145,9 +174,21 @@ func (x *S2CLeaveAnimalPark) Message(data []byte) {
 	log.Printf("[S][LeaveAnimalPark] tag=%v", x.Tag)
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CSearchRecord) ID() uint16 {
+	return 19079
+}
+
 func (x *S2CSearchRecord) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][SearchRecord] search_record=%v", x.SearchRecord)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CAnimalParkCatch) ID() uint16 {
+	return 19088
 }
 
 func (x *S2CAnimalParkCatch) Message(data []byte) {

@@ -10,6 +10,16 @@ import (
 	"time"
 )
 
+// WareHouseReceiveItem 将仓库内的物品转至背包
+// 5 寻找
+func (c *Connect) WareHouseReceiveItem(id int32) error {
+	body, err := proto.Marshal(&C2SWareHouseReceiveItem{WhId: id})
+	if err != nil {
+		return err
+	}
+	return c.send(27305, body)
+}
+
 // EndFight 结束战斗
 func (c *Connect) EndFight(r *S2CBattlefieldReport) error {
 	body, err := proto.Marshal(&C2SEndFight{Idx: r.Idx})
@@ -29,6 +39,12 @@ func (c *Connect) RoleInfo() error {
 }
 
 var RIF, _ = os.OpenFile("./role_info_"+time.Now().Format("2006.01.02")+".txt", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0666)
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CRoleInfo) ID() uint16 {
+	return 3
+}
 
 // Message S2CRoleInfo 角色信息
 func (x *S2CRoleInfo) Message(data []byte) {
@@ -55,11 +71,42 @@ func (x *S2CRoleInfo) Message(data []byte) {
 	return
 }
 
+////////////////////////////////////////////////////////////
+
+func (x *S2CBattlefieldReport) ID() uint16 {
+	return 101
+}
+
 // Message S2CBattlefieldReport Code:101
 func (x *S2CBattlefieldReport) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][BattlefieldReport] win=%v idx=%v", x.Win, x.Idx)
 }
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWareHouseReceiveItem) ID() uint16 {
+	return 27306
+}
+
+// Message S2CWareHouseReceiveItem Code:27306
+func (x *S2CWareHouseReceiveItem) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WareHouseReceiveItem] tag=%v wh_id=%v", x.Tag, x.WhId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *Pong) ID() uint16 {
+	return 23
+}
+
+// Message Pong Code:23
+func (x *Pong) Message(_ []byte) {
+	log.Printf("[S][Pong]")
+}
+
+////////////////////////////////////////////////////////////
 
 var RoleInfo = &roleInfo{
 	s: &sync.Map{},
@@ -71,11 +118,17 @@ type roleValue struct {
 	val interface{}
 }
 
-func (r roleValue) Int64() int64 {
+func (r *roleValue) Int64() int64 {
+	if r == nil {
+		return 0
+	}
 	return r.val.(int64)
 }
 
-func (r roleValue) String() string {
+func (r *roleValue) String() string {
+	if r == nil {
+		return ""
+	}
 	return r.val.(string)
 }
 
@@ -107,7 +160,7 @@ func (r *roleInfo) Wait(id int32, timeout time.Duration) *roleValue {
 			return nil
 		case <-tm.C:
 			_ = CLI.RoleInfo()
-			if err = Receive.WaitWithContext(ctx, 3, &S2CRoleInfo{}); err != nil {
+			if err = Receive.WaitWithContext(ctx, &S2CRoleInfo{}); err != nil {
 				return nil
 			}
 			ret, ok := r.s.Load(id)
