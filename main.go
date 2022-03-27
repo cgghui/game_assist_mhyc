@@ -1,5 +1,7 @@
 package main
 
+// 仙宗 仙殿 仙宗悬赏
+
 import (
 	"bytes"
 	"encoding/binary"
@@ -90,6 +92,7 @@ func main() {
 		//}
 		//run()
 		//
+		go mhyc.XianDian()
 		go mhyc.Everyday()
 		go mhyc.Mail()
 		go mhyc.AFK()

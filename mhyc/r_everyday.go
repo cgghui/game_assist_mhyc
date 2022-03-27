@@ -163,7 +163,7 @@ func Everyday() {
 			_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
 		}
 		// 特权卡 -> 至尊卡
-		if RoleInfo.Get("VipDayGift").Int64() == 0 {
+		if RoleInfo.Get("LifeCardDayPrize").Int64() == 0 {
 			Receive.Action(CLI.LifeCardDayPrize)
 			_ = Receive.Wait(&S2CLifeCardDayPrize{}, s3)
 		}
