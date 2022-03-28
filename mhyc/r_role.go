@@ -29,6 +29,15 @@ func (c *Connect) EndFight(r *S2CBattlefieldReport) error {
 	return c.send(102, body)
 }
 
+// StartFight 开始战斗
+func (c *Connect) StartFight(f *C2SStartFight) error {
+	body, err := proto.Marshal(f)
+	if err != nil {
+		return err
+	}
+	return c.send(61, body)
+}
+
 // RoleInfo 角色信息
 func (c *Connect) RoleInfo() error {
 	body, err := proto.Marshal(&C2SRoleInfo{})
@@ -93,6 +102,30 @@ func (x *S2CWareHouseReceiveItem) ID() uint16 {
 func (x *S2CWareHouseReceiveItem) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][WareHouseReceiveItem] tag=%v wh_id=%v", x.Tag, x.WhId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CStartFight) ID() uint16 {
+	return 62
+}
+
+// Message S2CStartFight Code:62
+func (x *S2CStartFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][StartFight] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMonsterEnterMap) ID() uint16 {
+	return 59
+}
+
+// Message S2CMonsterEnterMap Code:59
+func (x *S2CMonsterEnterMap) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MonsterEnterMap] id=%v", x.Id)
 }
 
 ////////////////////////////////////////////////////////////

@@ -92,7 +92,11 @@ func main() {
 		//}
 		//run()
 		//
-		go mhyc.XianDianSSSL()
+		//go mhyc.BossPersonal()
+		//go mhyc.BossVIP()
+		go mhyc.BossMulti()
+		//go mhyc.XianDianXDSW()
+		//go mhyc.XianDianSSSL()
 		//go mhyc.XianDianXDXS()
 		//go mhyc.Everyday()
 		//go mhyc.Mail()

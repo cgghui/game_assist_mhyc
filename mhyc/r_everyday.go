@@ -189,6 +189,11 @@ func Everyday() {
 			Receive.Action(CLI.Worship)
 			_ = Receive.Wait(&S2CWorship{}, s3)
 		}
+		// 仙宗 - 仙殿 - 仙宗声望 -> 每日奉碌
+		if RoleInfo.Get("SectPrestigeRecv").Int64() == 0 {
+			Receive.Action(CLI.SectPrestigeRecv)
+			_ = Receive.Wait(&S2CSectPrestigeRecv{}, s3)
+		}
 	}
 	for range t.C {
 		f()

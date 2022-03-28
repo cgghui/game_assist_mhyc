@@ -190,15 +190,6 @@ func (c *Connect) RealmTask() error {
 	return c.send(22012, body)
 }
 
-// BossPersonalSweep Boss - 本服BOSS - 个人BOSS 一键扫荡
-func (c *Connect) BossPersonalSweep() error {
-	body, err := proto.Marshal(&C2SBossPersonalSweep{})
-	if err != nil {
-		return err
-	}
-	return c.send(604, body)
-}
-
 func (c *Connect) GetPetAMergeInfo() error {
 	body, err := proto.Marshal(&C2SGetPetAMergeInfo{})
 	if err != nil {

@@ -30,17 +30,6 @@ func XianDianXDXS() {
 			}
 			LS = append(LS, tk.TaskTimestamp)
 		}
-		if PQ {
-			info := &S2CXZXSGetAllCanStartTask{}
-			Receive.Action(CLI.XZXSGetAllCanStartTask)
-			_ = Receive.Wait(info, s3)
-			if info.Tag == 0 && len(info.Data) > 0 {
-				go func() {
-					_ = CLI.XZXSOneKeyStartTask(info)
-				}()
-				_ = Receive.Wait(&S2CXZXSOneKeyStartTask{}, s30)
-			}
-		}
 		if len(LS) > 0 {
 			sort.Slice(LS, func(i, j int) bool {
 				return LS[i] > LS[j]
@@ -54,6 +43,17 @@ func XianDianXDXS() {
 				time.AfterFunc(ttm.Sub(cur), func() { _ = CLI.XZXSGetTaskPrize() })
 			}
 			_ = Receive.Wait(&S2CXZXSGetTaskPrize{}, 24*time.Hour)
+		}
+		if PQ {
+			info := &S2CXZXSGetAllCanStartTask{}
+			Receive.Action(CLI.XZXSGetAllCanStartTask)
+			_ = Receive.Wait(info, s3)
+			if info.Tag == 0 && len(info.Data) > 0 {
+				go func() {
+					_ = CLI.XZXSOneKeyStartTask(info)
+				}()
+				_ = Receive.Wait(&S2CXZXSOneKeyStartTask{}, s30)
+			}
 		}
 		return RandMillisecond(600, 900)
 	}

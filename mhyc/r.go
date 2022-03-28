@@ -112,15 +112,6 @@ func (x *S2CClimbingTowerEnter) Message(data []byte) {
 	return
 }
 
-func (x *S2CMonsterEnterMap) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[59][MonsterEnterMap] %v", err)
-		return
-	}
-	log.Printf("[59][MonsterEnterMap] %v", x)
-	return
-}
-
 func (x *S2CMonsterLeaveMap) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("[60][MonsterLeaveMap] %v", err)
@@ -332,15 +323,6 @@ func (x *S2CGetActTimestamp) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [GetActTimestamp] %v", x)
-	return
-}
-
-func (x *S2CBossPersonalSweep) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [BossPersonalSweep] %v", err)
-		return
-	}
-	log.Printf("recv: [BossPersonalSweep] %v", x)
 	return
 }
 

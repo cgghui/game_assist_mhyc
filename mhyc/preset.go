@@ -7,6 +7,8 @@ import (
 	"time"
 )
 
+const DataRoot = "D:\\go\\game_assist_mhyc\\mhyc"
+
 const UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
 
 var DefineMailListOrdinary = &C2SMailList{MailType: 0} // 普通邮件列表
@@ -72,4 +74,15 @@ func SelfWeekMonday(tm time.Time) time.Time {
 		offset = -6
 	}
 	return time.Date(tm.Year(), tm.Month(), tm.Day(), 0, 0, 0, 0, time.Local).AddDate(0, 0, offset)
+}
+
+// Tomorrow 指定日期的明天
+func Tomorrow(tm time.Time) time.Time {
+	return time.Date(tm.Year(), tm.Month(), tm.Day(), 0, 0, 0, 0, time.Local).AddDate(0, 0, 1)
+}
+
+// TomorrowDuration 指定日期的明天
+func TomorrowDuration(d time.Duration) time.Duration {
+	now := time.Now()
+	return Tomorrow(now).Add(d).Sub(now)
 }
