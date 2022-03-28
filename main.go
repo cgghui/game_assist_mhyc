@@ -32,53 +32,44 @@ func main() {
 
 		// 角色信息
 		func() {
-			info := &mhyc.S2CRoleInfo{}
-			_ = mhyc.Receive.Wait(info)
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
-				for data := range channel.Wait() {
-					info.Message(data)
-				}
-			}()
-			go func() {
-				var obj *mhyc.S2CBattlefieldReport
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
-				for data := range channel.Wait() {
-					obj = &mhyc.S2CBattlefieldReport{}
-					obj.Message(data)
-					_ = cli.EndFight(obj)
-				}
-			}()
-			go func() {
-				pong := &mhyc.Pong{}
-				channel := mhyc.Receive.CreateChannel(pong)
-				for range channel.Wait() {
-					pong.Message(nil)
-				}
-			}()
-		}()
-
-		// 用户背包
-		func() {
-			info := &mhyc.S2CUserBag{}
+			// role info
+			info := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
+			info.Call.Message(<-info.Wait())
+			// user bag
 			mhyc.Receive.Action(cli.UserBag)
-			_ = mhyc.Receive.Wait(info)
+			ubag := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
+			ubag.Call.Message(<-ubag.Wait())
+			//
+			bgcg := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
+			itfy := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
+			//
+			pong := mhyc.Receive.CreateChannel(&mhyc.Pong{})
+			task := mhyc.Receive.CreateChannel(&mhyc.S2CRoleTask{})
+			bfrp := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
+			srtm := mhyc.Receive.CreateChannel(&mhyc.S2CServerTime{})
+			redc := mhyc.Receive.CreateChannel(&mhyc.S2CRedState{})
 			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
-				for data := range channel.Wait() {
-					info.Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CBagChange{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
-				for data := range channel.Wait() {
-					(&mhyc.ItemFly{}).Message(data)
+				for {
+					select {
+					case data := <-info.Wait():
+						go (&mhyc.S2CRoleInfo{}).Message(data)
+					case data := <-ubag.Wait():
+						go (&mhyc.S2CUserBag{}).Message(data)
+					case data := <-bgcg.Wait():
+						go (&mhyc.S2CBagChange{}).Message(data)
+					case data := <-itfy.Wait():
+						go (&mhyc.ItemFly{}).Message(data)
+					case <-pong.Wait():
+						go (&mhyc.Pong{}).Message(nil)
+					case <-task.Wait():
+						go (&mhyc.S2CRoleTask{}).Message(nil)
+					case data := <-bfrp.Wait():
+						go (&mhyc.S2CBattlefieldReport{}).Message(data)
+					case <-srtm.Wait():
+						go (&mhyc.S2CServerTime{}).Message(nil)
+					case <-redc.Wait():
+						go (&mhyc.S2CRedState{}).Message(nil)
+					}
 				}
 			}()
 		}()

@@ -89,6 +89,7 @@ func (x *S2CBattlefieldReport) ID() uint16 {
 // Message S2CBattlefieldReport Code:101
 func (x *S2CBattlefieldReport) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
+	_ = CLI.EndFight(x)
 	log.Printf("[S][BattlefieldReport] win=%v idx=%v", x.Win, x.Idx)
 }
 
@@ -137,6 +138,42 @@ func (x *Pong) ID() uint16 {
 // Message Pong Code:23
 func (x *Pong) Message(_ []byte) {
 	log.Printf("[S][Pong]")
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CRoleTask) ID() uint16 {
+	return 48
+}
+
+// Message S2CRoleTask Code:48
+func (x *S2CRoleTask) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RoleTask] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CServerTime) ID() uint16 {
+	return 1001
+}
+
+func (x *S2CServerTime) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][ServerTime] %s", time.Unix(x.T, 0).Local().Format("2006-01-02 15:04:05"))
+	return
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CRedState) ID() uint16 {
+	return 21001
+}
+
+func (x *S2CRedState) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RedState] list=%v", x.List)
+	return
 }
 
 ////////////////////////////////////////////////////////////

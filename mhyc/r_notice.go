@@ -19,6 +19,7 @@ type receiveMessage struct {
 	wait    chan []byte
 	id      uint16
 	running bool
+	Call    HandleMessage
 }
 
 func (r *receiveMessage) Wait() <-chan []byte {
@@ -28,11 +29,13 @@ func (r *receiveMessage) Wait() <-chan []byte {
 func (r *receiveMessage) Close() {
 	r.id = 0
 	r.running = false
+	r.Call = nil
 }
 
-func (r *receiveMessage) Open(id uint16) *receiveMessage {
+func (r *receiveMessage) Open(id uint16, call HandleMessage) *receiveMessage {
 	r.id = id
 	r.running = true
+	r.Call = call
 	return r
 }
 
@@ -62,7 +65,7 @@ func (r *receiveMessageBox) CreateChannel(call HandleMessage) *receiveMessage {
 	var rm *receiveMessage
 	for _, w := range r.ls {
 		if !w.IsOpen() {
-			rm = w.Open(id)
+			rm = w.Open(id, call)
 			break
 		}
 	}
@@ -71,6 +74,7 @@ func (r *receiveMessageBox) CreateChannel(call HandleMessage) *receiveMessage {
 			wait:    make(chan []byte),
 			id:      id,
 			running: true,
+			Call:    call,
 		}
 		r.ls = append(r.ls, rm)
 	}

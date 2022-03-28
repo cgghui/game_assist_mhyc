@@ -1,7 +1,6 @@
 package mhyc
 
 import (
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
@@ -43,21 +42,70 @@ func BossVIP() {
 
 // BossMulti 多人BOSS
 func BossMulti() {
+	go func() {
+		lg := Receive.CreateChannel(&S2CMultiBossGetDamageLog{})
+		ls := Receive.CreateChannel(&S2CMultiBossLeaveScene{})
+		bi := Receive.CreateChannel(&S2CMultiBossInfo{})
+		for {
+			select {
+			case <-lg.Wait():
+				lg.Call.Message(nil)
+			case <-ls.Wait():
+				ls.Call.Message(nil)
+			case <-ls.Wait():
+				bi.Call.Message(nil)
+			}
+		}
+	}()
+	id := 8
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		if RoleInfo.Get("MultiBoss_Times").Int64() == 0 {
+			if RoleInfo.Get("MultiBoss_Add_Times").Int64() == 10 {
+				return TomorrowDuration(9 * time.Hour)
+			}
+			mn := time.Unix(RoleInfo.Get("MultiBoss_NextTime").Int64(), 0).Local().Add(time.Minute)
+			cur := time.Now()
+			if cur.Before(mn) {
+				return mn.Add(time.Minute).Sub(cur)
+			}
+		}
+		info := &S2CMultiBossInfo{}
+		Receive.Action(CLI.MultiBossInfo)
+		if err := Receive.Wait(info, s3); err != nil {
+			return ms500
+		}
+		for _, item := range info.Items {
+			if item.Id == int32(id) {
+				rt := time.Unix(item.ReliveTimestamp, 0).Local().Add(time.Minute)
+				cur := time.Now()
+				if cur.Before(rt) {
+					return rt.Add(time.Minute).Sub(cur)
+				}
+			}
+		}
 		go func() {
-			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: 8})
+			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: int32(id)})
+		}()
+		go func() {
+			_ = Receive.Wait(&S2CMultiBossJoinScene{}, s30)
 		}()
 		enter := &S2CMonsterEnterMap{}
 		_ = Receive.Wait(enter, s30)
-		_ = Receive.Wait(&S2CMultiBossJoinScene{}, s30)
-		fmt.Println()
-		//ret := &S2CStartFight{}
-		//go func() {
-		//	_ = CLI.StartFight(&C2SStartFight{Id: 315, Type: 8})
-		//}()
-		//_ = Receive.Wait(ret, s3)
-		return time.Hour
+		tc := time.NewTimer(0)
+		for range tc.C {
+			ret := &S2CStartFight{}
+			go func() {
+				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: int64(id)})
+			}()
+			_ = Receive.Wait(ret, s3)
+			if ret.Tag == 4022 {
+				tc.Stop()
+				break
+			}
+			tc.Reset(ms500)
+		}
+		return ms100
 	}
 	for range t.C {
 		t.Reset(f())
@@ -82,6 +130,15 @@ func (c *Connect) BossVipSweep() error {
 	return c.send(664, body)
 }
 
+// MultiBossPlayerInBoss Boss - 本服BOSS - 多人
+func (c *Connect) MultiBossPlayerInBoss() error {
+	body, err := proto.Marshal(&C2SMultiBossPlayerInBoss{})
+	if err != nil {
+		return err
+	}
+	return c.send(1125, body)
+}
+
 // MultiBossJoinScene Boss - 本服BOSS - 多人
 func (c *Connect) MultiBossJoinScene(i *C2SMultiBossJoinScene) error {
 	body, err := proto.Marshal(i)
@@ -90,6 +147,15 @@ func (c *Connect) MultiBossJoinScene(i *C2SMultiBossJoinScene) error {
 	}
 	log.Printf("[C][MultiBossJoinScene] id=%v", i.Id)
 	return c.send(1123, body)
+}
+
+// MultiBossInfo Boss - 本服BOSS - 多人 BOSS信息
+func (c *Connect) MultiBossInfo() error {
+	body, err := proto.Marshal(&C2SMultiBossInfo{})
+	if err != nil {
+		return err
+	}
+	return c.send(1130, body)
 }
 
 ////////////////////////////////////////////////////////////
@@ -126,4 +192,52 @@ func (x *S2CMultiBossJoinScene) ID() uint16 {
 func (x *S2CMultiBossJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][MultiBossJoinScene] tag=%v id=%v", x.Tag, x.Id)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMultiBossGetDamageLog) ID() uint16 {
+	return 1122
+}
+
+// Message S2CMultiBossGetDamageLog 1122
+func (x *S2CMultiBossGetDamageLog) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MultiBossGetDamageLog] boss_id=%v my_damage=%v boss_state=%v item=%v", x.BossId, x.MyDamage, x.BossState, x.Items)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMultiBossInfo) ID() uint16 {
+	return 1111
+}
+
+// Message S2CMultiBossInfo 1111
+func (x *S2CMultiBossInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MultiBossInfo] items=%v", x.Items)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMultiBossPlayerInBoss) ID() uint16 {
+	return 1126
+}
+
+// Message S2CMultiBossPlayerInBoss 1126
+func (x *S2CMultiBossPlayerInBoss) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MultiBossPlayerInBoss] boss_id=%v damage=%v damage_order=%v", x.BossId, x.Damage, x.DamageOrder)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMultiBossLeaveScene) ID() uint16 {
+	return 1128
+}
+
+// Message S2CMultiBossPlayerInBoss 1126
+func (x *S2CMultiBossLeaveScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MultiBossLeaveScene] tag=%v", x.Tag)
 }

@@ -4,7 +4,6 @@ import (
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sync"
-	"time"
 )
 
 var CLI *Connect
@@ -152,15 +151,6 @@ func (x *S2CWeddingInsInvite) Message(data []byte) {
 	_ = CLI.WeddingInsFight()
 }
 
-func (x *S2CMultiBossInfo) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [MultiBossInfo] %v", err)
-		return
-	}
-	log.Printf("recv: [MultiBossInfo] %v", x)
-	return
-}
-
 func (x *S2CZSStateInfo) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [ZSStateInfo] %v", err)
@@ -176,15 +166,6 @@ func (x *S2CXsdBossInfo) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [XsdBossInfo] %v", x)
-	return
-}
-
-func (x *S2CRedState) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [RedState] %v", err)
-		return
-	}
-	log.Printf("recv: [RedState] %v", x)
 	return
 }
 
@@ -368,30 +349,11 @@ func (x *S2CChangeMap) Message(data []byte) {
 	log.Printf("[S][ChangeMap] id=%d x=%d y=%d", x.MapId, x.X, x.Y)
 }
 
-func (x *S2CServerTime) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [ServerTime] %v", err)
-		return
-	}
-
-	log.Printf("ServerTime: %s", time.Unix(x.T, 0).Local().Format("2006-01-02 15:04:05"))
-	return
-}
-
 func (x *S2CNewChatMsg) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [NewChatMsg] %v", err)
 		return
 	}
 	log.Printf("NewChatMsg: [%s] %s", x.Chatmessage.SenderNick, x.Chatmessage.Content)
-	return
-}
-
-func (x *S2CRoleTask) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [RoleTask] %v", err)
-		return
-	}
-	log.Printf("[RoleTask] %v", x)
 	return
 }
