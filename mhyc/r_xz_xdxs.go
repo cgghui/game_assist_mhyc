@@ -1,5 +1,7 @@
 package mhyc
 
+// 仙宗 - 仙殿 - 仙宗悬赏
+
 import (
 	"google.golang.org/protobuf/proto"
 	"log"
@@ -7,8 +9,8 @@ import (
 	"time"
 )
 
-// XianDian 仙宗 - 仙殿
-func XianDian() {
+// XianDianXDXS - 仙殿 - 仙宗悬赏
+func XianDianXDXS() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
 		task := &S2CPlayerXZXS{}
@@ -32,11 +34,11 @@ func XianDian() {
 			info := &S2CXZXSGetAllCanStartTask{}
 			Receive.Action(CLI.XZXSGetAllCanStartTask)
 			_ = Receive.Wait(info, s3)
-			if info.Tag == 0 {
+			if info.Tag == 0 && len(info.Data) > 0 {
 				go func() {
 					_ = CLI.XZXSOneKeyStartTask(info)
 				}()
-				_ = Receive.Wait(&S2CXZXSOneKeyStartTask{}, s3)
+				_ = Receive.Wait(&S2CXZXSOneKeyStartTask{}, s30)
 			}
 		}
 		if len(LS) > 0 {
@@ -84,7 +86,7 @@ func (c *Connect) XZXSOneKeyStartTask(start *S2CXZXSGetAllCanStartTask) error {
 	if err != nil {
 		return err
 	}
-	return c.send(25407, body)
+	return c.send(25409, body)
 }
 
 // XZXSGetTaskPrize 仙宗 - 仙殿 - 仙宗悬赏 -> 一键领取奖励

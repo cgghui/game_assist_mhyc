@@ -185,8 +185,10 @@ func Everyday() {
 		}()
 		_ = Receive.Wait(&S2CShopBuy{}, s3)
 		// 膜拜 宗主
-		Receive.Action(CLI.Worship)
-		_ = Receive.Wait(&S2CWorship{}, s3)
+		if RoleInfo.Get("SectWorship").Int64() == 0 {
+			Receive.Action(CLI.Worship)
+			_ = Receive.Wait(&S2CWorship{}, s3)
+		}
 	}
 	for range t.C {
 		f()

@@ -92,13 +92,14 @@ func main() {
 		//}
 		//run()
 		//
-		go mhyc.XianDian()
-		go mhyc.Everyday()
-		go mhyc.Mail()
-		go mhyc.AFK()
-		go mhyc.StageFight()
-		go mhyc.FamilyJJC()
-		go mhyc.EnterAnimalPark()
+		go mhyc.XianDianSSSL()
+		//go mhyc.XianDianXDXS()
+		//go mhyc.Everyday()
+		//go mhyc.Mail()
+		//go mhyc.AFK()
+		//go mhyc.StageFight()
+		//go mhyc.FamilyJJC()
+		//go mhyc.EnterAnimalPark()
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)

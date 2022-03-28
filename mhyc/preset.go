@@ -64,3 +64,12 @@ func RandMillisecond(min, max int64) time.Duration {
 	max *= 1000
 	return time.Duration(RandInt64(min, max)) * time.Millisecond
 }
+
+// SelfWeekMonday 指定日期的周一
+func SelfWeekMonday(tm time.Time) time.Time {
+	offset := int(time.Monday - tm.Weekday())
+	if offset > 0 {
+		offset = -6
+	}
+	return time.Date(tm.Year(), tm.Month(), tm.Day(), 0, 0, 0, 0, time.Local).AddDate(0, 0, offset)
+}
