@@ -29,6 +29,7 @@ func (c *Connect) SectPrestigeRecv() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][SectPrestigeRecv]")
 	return c.send(19055, body)
 }
 
@@ -38,6 +39,7 @@ func (c *Connect) SectPrestigeLevelUp() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][SectPrestigeLevelUp]")
 	return c.send(19053, body)
 }
 

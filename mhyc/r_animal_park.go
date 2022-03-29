@@ -100,6 +100,7 @@ func (c *Connect) EnterAnimalPark() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][EnterAnimalPark]")
 	return c.send(19073, body)
 }
 
@@ -109,6 +110,7 @@ func (c *Connect) LeaveAnimalPark() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][LeaveAnimalPark]")
 	return c.send(19075, body)
 }
 
@@ -118,6 +120,7 @@ func (c *Connect) SearchPet(act *C2SSearchPet) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][SearchPet] item_id=%v", act.ItemId)
 	return c.send(19077, body)
 }
 
@@ -127,6 +130,7 @@ func (c *Connect) AnimalParkGO(act *C2SAnimalParkGO) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][AnimalParkGO] pet_id=%v x=%v y=%v", act.PetId, act.X, act.Y)
 	return c.send(19085, body)
 }
 

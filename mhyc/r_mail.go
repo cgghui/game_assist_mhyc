@@ -65,6 +65,7 @@ func (c *Connect) MailList(act *C2SMailList) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][MailList] mail_type=%v", act.MailType)
 	return c.send(440, body)
 }
 
@@ -74,6 +75,7 @@ func (c *Connect) GetMailAttach(act *C2SGetMailAttach) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][GetMailAttach] mail_id=%v mail_type=%v", act.MailId, act.MailType)
 	return c.send(444, body)
 }
 
@@ -83,6 +85,7 @@ func (c *Connect) DelMail(act *C2SDelMail) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][DelMail] mail_id=%v mail_type=%v", act.MailId, act.MailType)
 	return c.send(457, body)
 }
 

@@ -1,10 +1,14 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
+
+const BossMultiID = 8 // 多人BOSS
+const BossHomeID = 7  // 跨服 - BOSS之家 - 7层
 
 // BossPersonal 个人BOSS
 func BossPersonal() {
@@ -42,41 +46,43 @@ func BossVIP() {
 
 // BossMulti 多人BOSS
 func BossMulti() {
-	go func() {
-		lg := Receive.CreateChannel(&S2CMultiBossGetDamageLog{})
-		ls := Receive.CreateChannel(&S2CMultiBossLeaveScene{})
-		bi := Receive.CreateChannel(&S2CMultiBossInfo{})
-		for {
-			select {
-			case <-lg.Wait():
-				lg.Call.Message(nil)
-			case <-ls.Wait():
-				ls.Call.Message(nil)
-			case <-ls.Wait():
-				bi.Call.Message(nil)
-			}
-		}
-	}()
-	id := 8
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
+		// 检测是否有挑战次数
 		if RoleInfo.Get("MultiBoss_Times").Int64() == 0 {
+			// 无
 			if RoleInfo.Get("MultiBoss_Add_Times").Int64() == 10 {
-				return TomorrowDuration(9 * time.Hour)
+				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
+			// 有
 			mn := time.Unix(RoleInfo.Get("MultiBoss_NextTime").Int64(), 0).Local().Add(time.Minute)
 			cur := time.Now()
 			if cur.Before(mn) {
 				return mn.Add(time.Minute).Sub(cur)
 			}
 		}
+		// 监听相关消息
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+		listens := []HandleMessage{
+			&S2CMultiBossGetDamageLog{},
+			&S2CMultiBossLeaveScene{},
+			&S2CMultiBossInfo{},
+		}
+		for i := range listens {
+			go ListenMessage(ctx, listens[i])
+		}
+		// 获取BOSS信息
 		info := &S2CMultiBossInfo{}
 		Receive.Action(CLI.MultiBossInfo)
 		if err := Receive.Wait(info, s3); err != nil {
-			return ms500
+			return ms100
 		}
 		for _, item := range info.Items {
-			if item.Id == int32(id) {
+			// 检测BOSS是否在冷却
+			if item.Id == int32(BossMultiID) {
 				rt := time.Unix(item.ReliveTimestamp, 0).Local().Add(time.Minute)
 				cur := time.Now()
 				if cur.Before(rt) {
@@ -85,27 +91,148 @@ func BossMulti() {
 			}
 		}
 		go func() {
-			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: int32(id)})
+			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: int32(BossMultiID)})
 		}()
 		go func() {
 			_ = Receive.Wait(&S2CMultiBossJoinScene{}, s30)
 		}()
 		enter := &S2CMonsterEnterMap{}
 		_ = Receive.Wait(enter, s30)
+		// loop 战斗
 		tc := time.NewTimer(0)
+		defer tc.Stop()
 		for range tc.C {
 			ret := &S2CStartFight{}
 			go func() {
-				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: int64(id)})
+				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: int64(BossMultiID)})
 			}()
 			_ = Receive.Wait(ret, s3)
-			if ret.Tag == 4022 {
-				tc.Stop()
+			if ret.Tag == 4022 { // 逃跑
 				break
 			}
 			tc.Reset(ms500)
 		}
+		//
 		return ms100
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
+// XuanShangBoss 悬赏BOSS
+func XuanShangBoss() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
+		info := &S2CXuanShangBossInfo{}
+		Receive.Action(CLI.XuanShangBossInfo)
+		if err := Receive.Wait(info, s3); err != nil {
+			return ms100
+		}
+		// 没有挑战次数
+		if info.LeftKillTimes <= 0 {
+			Receive.Action(CLI.XuanShangBossScoreReward)
+			_ = Receive.Wait(&S2CXuanShangBossScoreReward{}, s3)
+			return TomorrowDuration(30600 * time.Second)
+		}
+		// BOSS级别小于3时，刷新BOSS级别
+		if info.XuanShangID <= 3 {
+			// 无刷新次数
+			if info.LeftFreeRefreshTimes <= 0 {
+				tt := time.Unix(info.NextFreeRefreshTimesTimeStamp, 0).Local().Add(s10)
+				cur := time.Now()
+				if cur.Before(tt) { // 等待刷新时间的到来
+					return tt.Sub(cur)
+				}
+				return ms500
+			}
+			// 有刷新次数
+			refresh := &S2CXuanShangBossRefresh{}
+			Receive.Action(CLI.XuanShangBossRefresh)
+			_ = Receive.Wait(refresh, s3)
+			if refresh.XuanShangID <= 3 { // 刷新后乃然低于3，退出重来
+				return ms100
+			}
+		}
+		// 接受悬赏
+		accept := &S2CXuanShangBossAccept{}
+		Receive.Action(CLI.XuanShangBossAccept)
+		if err := Receive.Wait(accept, s3); err != nil {
+			return ms100
+		}
+		// 进入战场
+		go func() {
+			_ = CLI.XuanShangBossJoinScene(accept.BossID)
+		}()
+		_ = Receive.Wait(&S2CXuanShangBossJoinScene{}, s3)
+		// 开始战斗
+		go func() {
+			_ = CLI.StartFight(&C2SStartFight{Id: accept.BossID, Type: 8})
+		}()
+		_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
+		//
+		return ms500
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
+func BossGlobal() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
+		Receive.Action(CLI.BossGlobalJoinActive)
+		info := &S2CJoinActive{}
+		if err := Receive.Wait(info, s3); err != nil {
+			return ms100
+		}
+		if info.Tag != 0 {
+			return time.Second
+		}
+		go func() {
+			_ = CLI.StartFight(&C2SStartFight{Id: 385, Type: 8})
+		}()
+		_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
+		return ms500
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
+func BossHome() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+		monster := make([]*S2CMonsterEnterMap, 0)
+		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			var r S2CMonsterEnterMap
+			_ = proto.Unmarshal(data, &r)
+			monster = append(monster, &r)
+		})
+		info := &S2CHomeBossInfo{}
+		Receive.Action(CLI.BossHomeJoinScene)
+		if err := Receive.Wait(info, s30); err != nil {
+			return ms100
+		}
+		for i := range monster {
+			for {
+				go func(i int) {
+					_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
+				}(i)
+				r := &S2CBattlefieldReport{}
+				_ = Receive.Wait(r, s3)
+				if r.Win != 0 {
+					break
+				}
+			}
+		}
+		return ms500
 	}
 	for range t.C {
 		t.Reset(f())
@@ -118,6 +245,7 @@ func (c *Connect) BossPersonalSweep() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][BossPersonalSweep]")
 	return c.send(604, body)
 }
 
@@ -127,6 +255,7 @@ func (c *Connect) BossVipSweep() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][BossVipSweep]")
 	return c.send(664, body)
 }
 
@@ -136,6 +265,7 @@ func (c *Connect) MultiBossPlayerInBoss() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][MultiBossPlayerInBoss]")
 	return c.send(1125, body)
 }
 
@@ -155,7 +285,72 @@ func (c *Connect) MultiBossInfo() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][MultiBossInfo]")
 	return c.send(1130, body)
+}
+
+// XuanShangBossInfo Boss - 本服BOSS - 悬赏BOSS
+func (c *Connect) XuanShangBossInfo() error {
+	body, err := proto.Marshal(&C2SXuanShangBossInfo{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XuanShangBossInfo]")
+	return c.send(12451, body)
+}
+
+func (c *Connect) XuanShangBossRefresh() error {
+	body, err := proto.Marshal(&C2SXuanShangBossRefresh{RefreshType: 0})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XuanShangBossRefresh]")
+	return c.send(12455, body)
+}
+
+func (c *Connect) XuanShangBossAccept() error {
+	body, err := proto.Marshal(&C2SXuanShangBossAccept{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XuanShangBossAccept]")
+	return c.send(12457, body)
+}
+
+func (c *Connect) XuanShangBossJoinScene(bossID int64) error {
+	body, err := proto.Marshal(&C2SXuanShangBossJoinScene{BossID: bossID})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][XuanShangBossJoinScene] boss_id=%v", bossID)
+	return c.send(12459, body)
+}
+
+func (c *Connect) XuanShangBossScoreReward() error {
+	body, err := proto.Marshal(&C2SXuanShangBossScoreReward{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XuanShangBossScoreReward]")
+	return c.send(12466, body)
+}
+
+func (c *Connect) BossHomeJoinScene() error {
+	body, err := proto.Marshal(&C2SBossHomeJoinScene{HomeId: BossHomeID})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][BossHomeJoinScene]")
+	return c.send(15031, body)
+}
+
+func (c *Connect) BossGlobalJoinActive() error {
+	body, err := proto.Marshal(&C2SJoinActive{AId: 2})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][GlobalJoinActive]")
+	return c.send(1507, body)
 }
 
 ////////////////////////////////////////////////////////////
@@ -240,4 +435,104 @@ func (x *S2CMultiBossLeaveScene) ID() uint16 {
 func (x *S2CMultiBossLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][MultiBossLeaveScene] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXuanShangBossInfo) ID() uint16 {
+	return 12452
+}
+
+// Message S2CXuanShangBossInfo 12452
+// LeftKillTimes 剩余讨伐次数
+// CurScore 当前积分
+// LeftFreeRefreshTimes 剩余免费刷新
+// NextFreeRefreshTimesTimeStamp 免费刷新品质（次数恢复）
+func (x *S2CXuanShangBossInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XuanShangBossInfo] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXuanShangBossRefresh) ID() uint16 {
+	return 12456
+}
+
+// Message S2CXuanShangBossRefresh 12456
+func (x *S2CXuanShangBossRefresh) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XuanShangBossRefresh] tag=%v xuan_shang_id=%v", x.Tag, x.XuanShangID)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXuanShangBossAccept) ID() uint16 {
+	return 12458
+}
+
+// Message S2CXuanShangBossAccept 12458
+func (x *S2CXuanShangBossAccept) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XuanShangBossRefresh] tag=%v boss_id=%v", x.Tag, x.BossID)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXuanShangBossJoinScene) ID() uint16 {
+	return 12460
+}
+
+// Message S2CXuanShangBossJoinScene 12460
+func (x *S2CXuanShangBossJoinScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XuanShangBossJoinScene] tag=%v boss_id=%v", x.Tag, x.BossID)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXuanShangBossScoreReward) ID() uint16 {
+	return 12467
+}
+
+// Message S2CXuanShangBossScoreReward 12467
+func (x *S2CXuanShangBossScoreReward) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XuanShangBossScoreReward] tag=%v score_reward=%v", x.Tag, x.ScoreRewardGet)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CBossHomeJoinScene) ID() uint16 {
+	return 15032
+}
+
+// Message S2CBossHomeJoinScene 15032
+func (x *S2CBossHomeJoinScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][BossHomeJoinScene] tag=%v home_id=%v", x.Tag, x.HomeId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CJoinActive) ID() uint16 {
+	return 1508
+}
+
+// Message S2CJoinActive 1508
+func (x *S2CJoinActive) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][JoinActive] tag=%v aid=%v", x.Tag, x.AId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CHomeBossInfo) ID() uint16 {
+	return 15030
+}
+
+// Message S2CHomeBossInfo 15030
+func (x *S2CHomeBossInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][HomeBossInfo] %v", x)
 }

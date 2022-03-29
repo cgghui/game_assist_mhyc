@@ -34,7 +34,7 @@ func StageFight() {
 			if f.Tag == 0 {
 				_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
 			}
-			tm.Reset(ms500)
+			tm.Reset(ms100)
 		}
 		// 幸运转盘
 		tm.Reset(ms100)
@@ -62,6 +62,7 @@ func (c *Connect) StageFight() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][StageFight]")
 	return c.send(103, body)
 }
 
@@ -71,6 +72,7 @@ func (c *Connect) GetStageDraw() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][GetStageDraw]")
 	return c.send(118, body)
 }
 
@@ -80,6 +82,7 @@ func (c *Connect) GetHistoryTaskPrize() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][GetHistoryTaskPrize]")
 	return c.send(713, body)
 }
 

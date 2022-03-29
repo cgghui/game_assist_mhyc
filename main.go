@@ -35,66 +35,80 @@ func main() {
 			// role info
 			info := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
 			info.Call.Message(<-info.Wait())
+			go func() {
+				for data := range info.Wait() {
+					(&mhyc.S2CRoleInfo{}).Message(data)
+				}
+			}()
 			// user bag
 			mhyc.Receive.Action(cli.UserBag)
 			ubag := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
 			ubag.Call.Message(<-ubag.Wait())
-			//
-			bgcg := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
-			itfy := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
-			//
-			pong := mhyc.Receive.CreateChannel(&mhyc.Pong{})
-			task := mhyc.Receive.CreateChannel(&mhyc.S2CRoleTask{})
-			bfrp := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
-			srtm := mhyc.Receive.CreateChannel(&mhyc.S2CServerTime{})
-			redc := mhyc.Receive.CreateChannel(&mhyc.S2CRedState{})
 			go func() {
-				for {
-					select {
-					case data := <-info.Wait():
-						go (&mhyc.S2CRoleInfo{}).Message(data)
-					case data := <-ubag.Wait():
-						go (&mhyc.S2CUserBag{}).Message(data)
-					case data := <-bgcg.Wait():
-						go (&mhyc.S2CBagChange{}).Message(data)
-					case data := <-itfy.Wait():
-						go (&mhyc.ItemFly{}).Message(data)
-					case <-pong.Wait():
-						go (&mhyc.Pong{}).Message(nil)
-					case <-task.Wait():
-						go (&mhyc.S2CRoleTask{}).Message(nil)
-					case data := <-bfrp.Wait():
-						go (&mhyc.S2CBattlefieldReport{}).Message(data)
-					case <-srtm.Wait():
-						go (&mhyc.S2CServerTime{}).Message(nil)
-					case <-redc.Wait():
-						go (&mhyc.S2CRedState{}).Message(nil)
-					}
+				for data := range ubag.Wait() {
+					(&mhyc.S2CUserBag{}).Message(data)
+				}
+			}()
+			//
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CBagChange{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
+				for data := range channel.Wait() {
+					(&mhyc.ItemFly{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.Pong{})
+				for range channel.Wait() {
+					(&mhyc.Pong{}).Message(nil)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRoleTask{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CRoleTask{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CBattlefieldReport{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CServerTime{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CServerTime{}).Message(data)
+				}
+			}()
+			go func() {
+				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRedState{})
+				for data := range channel.Wait() {
+					(&mhyc.S2CRedState{}).Message(data)
 				}
 			}()
 		}()
 
-		//t := time.NewTimer(time.Second)
-		//run := func() {
-		//	for range t.C {
-		//		_ = cli.StageFight()
-		//		t.Reset(time.Second)
-		//	}
-		//}
-		//run()
-		//
-		//go mhyc.BossPersonal()
-		//go mhyc.BossVIP()
-		go mhyc.BossMulti()
-		//go mhyc.XianDianXDSW()
-		//go mhyc.XianDianSSSL()
-		//go mhyc.XianDianXDXS()
 		//go mhyc.Everyday()
 		//go mhyc.Mail()
 		//go mhyc.AFK()
 		//go mhyc.StageFight()
 		//go mhyc.FamilyJJC()
 		//go mhyc.EnterAnimalPark()
+		//go mhyc.XianDianXDSW()
+		//go mhyc.XianDianSSSL()
+		//go mhyc.XianDianXDXS()
+		//go mhyc.BossPersonal()
+		//go mhyc.BossVIP()
+		//go mhyc.BossMulti()
+		//go mhyc.XuanShangBoss()
+		//go mhyc.BossGlobal()
+		go mhyc.BossHome()
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)

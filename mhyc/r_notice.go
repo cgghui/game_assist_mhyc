@@ -118,3 +118,39 @@ func (r *receiveMessageBox) Notify(id uint16, data []byte) {
 		log.Printf("receive: id[%d] manage func non-existent", id)
 	}
 }
+
+func ListenMessage(ctx context.Context, hm HandleMessage) {
+	channel := Receive.CreateChannel(hm)
+	defer channel.Close()
+	if ctx == nil {
+		for data := range channel.Wait() {
+			channel.Call.Message(data)
+		}
+	}
+	for {
+		select {
+		case data := <-channel.Wait():
+			channel.Call.Message(data)
+		case <-ctx.Done():
+			return
+		}
+	}
+}
+
+func ListenMessageCall(ctx context.Context, hm HandleMessage, call func(data []byte)) {
+	channel := Receive.CreateChannel(hm)
+	defer channel.Close()
+	if ctx == nil {
+		for data := range channel.Wait() {
+			call(data)
+		}
+	}
+	for {
+		select {
+		case data := <-channel.Wait():
+			call(data)
+		case <-ctx.Done():
+			return
+		}
+	}
+}

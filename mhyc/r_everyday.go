@@ -12,7 +12,7 @@ func Everyday() {
 	go func() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
-		f := func() {
+		f := func() time.Duration {
 			Fight.Lock()
 			defer Fight.Unlock()
 			task := &S2CGetActTask{}
@@ -32,13 +32,12 @@ func Everyday() {
 				}
 			}
 			if s == len(task.Task) {
-				t.Reset(time.Hour)
-			} else {
-				t.Reset(RandMillisecond(60, 120))
+				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
+			return RandMillisecond(60, 120)
 		}
 		for range t.C {
-			f()
+			t.Reset(f())
 		}
 	}()
 	// 等级大礼
@@ -102,7 +101,7 @@ func Everyday() {
 			if s == len(task.Task) {
 				return true
 			}
-			t.Reset(time.Hour)
+			t.Reset(TomorrowDuration(RandMillisecond(30000, 30600)))
 			return false
 		}
 		for range t.C {
@@ -112,7 +111,7 @@ func Everyday() {
 		}
 	}()
 	t := time.NewTimer(ms100)
-	f := func() {
+	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
 		// 充值->1元秒杀->每日礼
@@ -194,10 +193,10 @@ func Everyday() {
 			Receive.Action(CLI.SectPrestigeRecv)
 			_ = Receive.Wait(&S2CSectPrestigeRecv{}, s3)
 		}
+		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
 	for range t.C {
-		f()
-		t.Reset(RandMillisecond(60, 180)) // 1 ~ 3 分钟
+		t.Reset(f())
 	}
 }
 
@@ -207,6 +206,7 @@ func (c *Connect) ActGiftNewReceive(act *C2SActGiftNewReceive) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][ActGiftNewReceive] aid=%v gid=%v", act.Aid, act.Gid)
 	return c.send(12011, body)
 }
 
@@ -216,6 +216,7 @@ func (c *Connect) Worship() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][Worship]")
 	return c.send(19007, body)
 }
 
@@ -225,6 +226,7 @@ func (c *Connect) Respect(act *C2SRespect) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][Respect] type=%v", act.Type)
 	return c.send(13, body)
 }
 
@@ -234,6 +236,7 @@ func (c *Connect) GetVipDayGift() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][GetVipDayGift]")
 	return c.send(136, body)
 }
 
@@ -243,6 +246,7 @@ func (c *Connect) XunBaoDraw(act *C2SActXunBaoDraw) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][XunBaoDraw] act_id=%v type=%v auto_buy=%v", act.ActId, act.Type, act.AutoBuy)
 	return c.send(11035, body)
 }
 
@@ -252,6 +256,7 @@ func (c *Connect) GetActXunBaoData(act *C2SGetActXunBaoData) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][GetActXunBaoData] act_id=%v", act.ActId)
 	return c.send(11033, body)
 }
 
@@ -261,6 +266,7 @@ func (c *Connect) LifeCardDayPrize() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][LifeCardDayPrize]")
 	return c.send(22405, body)
 }
 
@@ -270,6 +276,7 @@ func (c *Connect) EverydaySign() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][EverydaySign]")
 	return c.send(22302, body)
 }
 
@@ -279,6 +286,7 @@ func (c *Connect) TotalSignPrize(id int32) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][TotalSignPrize] id=%v", id)
 	return c.send(22306, body)
 }
 
@@ -288,6 +296,7 @@ func (c *Connect) GetActTask(act *C2SGetActTask) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][GetActTask] act_id=%v", act.ActId)
 	return c.send(12151, body)
 }
 
@@ -297,6 +306,7 @@ func (c *Connect) GetTaskPrize(act *C2SGetTaskPrize) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][GetTaskPrize] task_id=%v", act.TaskId)
 	return c.send(703, body)
 }
 

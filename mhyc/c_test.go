@@ -49,14 +49,15 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("AVgEVwovCAgQ/8/bw/QCGP/P28P0Aii99oaSBjDl8YaSBkIM5Lq655Sf5peg5bi4SIug2xk=")
+	code, err := base64.StdEncoding.DecodeString("ANgAOwhnEEIYKCAVKIj7nkAwiPueQEgG")
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &S2CMultiBossInfo{}
+	var ma = &S2CMonsterEnterMap{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}
+	// type:8 id:385
 	t.Log(ma)
 }
 

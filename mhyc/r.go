@@ -169,15 +169,6 @@ func (x *S2CXsdBossInfo) Message(data []byte) {
 	return
 }
 
-func (x *S2CHomeBossInfo) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [HomeBossInfo] %v", err)
-		return
-	}
-	log.Printf("recv: [HomeBossInfo] %v", x)
-	return
-}
-
 func (x *S2CNotice) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [Notice] %v", err)

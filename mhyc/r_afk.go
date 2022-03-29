@@ -13,7 +13,7 @@ func AFK() {
 		info := &S2CAFKGetBuyInfo{}
 		buyTimes := &S2CAFKBuyTimes{}
 		t := time.NewTimer(ms100)
-		f := func() {
+		f := func() time.Duration {
 			Fight.Lock()
 			defer Fight.Unlock()
 			for {
@@ -26,17 +26,16 @@ func AFK() {
 					_ = Receive.Wait(buyTimes, s3)
 					continue
 				}
-				return
+				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
 		}
 		for range t.C {
-			f()
-			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+			t.Reset(f())
 		}
 	}()
 	// 定时领取挂机奖励
 	info := &S2CGetAFKPrize{}
-	t := time.NewTimer(105 * time.Millisecond)
+	t := time.NewTimer(ms100)
 	for range t.C {
 		Receive.Action(CLI.GetAFKPrize)
 		_ = Receive.Wait(info, s3)
@@ -49,6 +48,7 @@ func (c *Connect) AFKGetBuyInfo() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][AFKGetBuyInfo]")
 	return c.send(22151, body)
 }
 
@@ -58,6 +58,7 @@ func (c *Connect) GetAFKPrize() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][GetAFKPrize]")
 	return c.send(22155, body)
 }
 
@@ -67,6 +68,7 @@ func (c *Connect) AFKBuyTimes() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][AFKBuyTimes]")
 	return c.send(22153, body)
 }
 

@@ -39,6 +39,7 @@ func (c *Connect) SectGodAnimalData() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][SectGodAnimalData]")
 	return c.send(19043, body)
 }
 
@@ -47,6 +48,7 @@ func (c *Connect) ChallengeGodAnimal() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][ChallengeGodAnimal]")
 	return c.send(19045, body)
 }
 

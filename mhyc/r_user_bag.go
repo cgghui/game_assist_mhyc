@@ -14,6 +14,7 @@ func (c *Connect) UserBag() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][UserBag]")
 	return c.send(500, body)
 }
 

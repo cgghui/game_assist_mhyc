@@ -12,13 +12,15 @@ import (
 // [RoleInfo] FamilyJJC_Score	  积分
 func FamilyJJC() {
 	t := time.NewTimer(ms10)
-	f := func() {
+	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
 		// 战斗
+		isEnd := false
 		for {
 			if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
 				if val.Int64() >= 10 {
+					isEnd = true
 					break
 				}
 			}
@@ -39,6 +41,7 @@ func FamilyJJC() {
 			}
 			// end
 			if ret.Tag == 57606 {
+				isEnd = true
 				break
 			}
 		}
@@ -49,10 +52,13 @@ func FamilyJJC() {
 			}(i)
 			_ = Receive.Wait(&S2CFamilyJJCRecieveAward{}, s3)
 		}
+		if isEnd {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		return ms500
 	}
 	for range t.C {
-		f()
-		t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+		t.Reset(f())
 	}
 }
 
@@ -61,6 +67,7 @@ func (c *Connect) FamilyJJCJoin() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][FamilyJJCJoin]")
 	return c.send(27357, body)
 }
 
@@ -69,6 +76,7 @@ func (c *Connect) FamilyJJCRecieveAward(id int32) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][FamilyJJCRecieveAward] id=%v", id)
 	return c.send(27355, body)
 }
 
@@ -83,6 +91,7 @@ func (c *Connect) FamilyJJCFight(act *S2CFamilyJJCJoin) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][FamilyJJCRecieveAward] user=%v", dat.UserId)
 	return c.send(27359, body)
 }
 

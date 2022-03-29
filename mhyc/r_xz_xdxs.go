@@ -68,6 +68,7 @@ func (c *Connect) PlayerXZXS() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][C2SPlayerXZXS]")
 	return c.send(25401, body)
 }
 
@@ -77,6 +78,7 @@ func (c *Connect) XZXSGetAllCanStartTask() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][XZXSGetAllCanStartTask]")
 	return c.send(25407, body)
 }
 
@@ -86,6 +88,7 @@ func (c *Connect) XZXSOneKeyStartTask(start *S2CXZXSGetAllCanStartTask) error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][XZXSOneKeyStartTask]")
 	return c.send(25409, body)
 }
 
@@ -95,6 +98,7 @@ func (c *Connect) XZXSGetTaskPrize() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][XZXSGetTaskPrize]")
 	return c.send(25411, body)
 }
 

@@ -17,6 +17,7 @@ func (c *Connect) WareHouseReceiveItem(id int32) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][WareHouseReceiveItem] wh_id=%v", id)
 	return c.send(27305, body)
 }
 
@@ -26,6 +27,7 @@ func (c *Connect) EndFight(r *S2CBattlefieldReport) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][EndFight] idx=%v win=%v", r.Idx, r.Win)
 	return c.send(102, body)
 }
 
@@ -35,6 +37,7 @@ func (c *Connect) StartFight(f *C2SStartFight) error {
 	if err != nil {
 		return err
 	}
+	log.Printf("[C][StartFight] id=%v type=%v", f.Id, f.Type)
 	return c.send(61, body)
 }
 
@@ -44,6 +47,7 @@ func (c *Connect) RoleInfo() error {
 	if err != nil {
 		return err
 	}
+	log.Println("[C][RoleInfo]")
 	return c.send(49, body)
 }
 
