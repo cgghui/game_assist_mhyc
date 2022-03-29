@@ -104,6 +104,7 @@ const ms10 = 10 * time.Millisecond
 const ms100 = 100 * time.Millisecond
 const ms500 = 500 * time.Millisecond
 const s3 = 3 * time.Second
+const s6 = 6 * time.Second
 const s10 = 10 * time.Second
 const s30 = 30 * time.Second
 const h24 = 24 * time.Hour

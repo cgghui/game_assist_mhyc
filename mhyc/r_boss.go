@@ -4,6 +4,7 @@ import (
 	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
+	"sort"
 	"time"
 )
 
@@ -209,30 +210,83 @@ func BossHome() {
 	f := func() time.Duration {
 		ctx, cancel := context.WithCancel(context.Background())
 		defer cancel()
+		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
 		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
 			var r S2CMonsterEnterMap
 			_ = proto.Unmarshal(data, &r)
 			monster = append(monster, &r)
 		})
-		info := &S2CHomeBossInfo{}
+		// 怪信息
+		bossInfoChan := make(chan *S2CHomeBossInfo)
+		defer close(bossInfoChan)
+		go func() {
+			info := &S2CHomeBossInfo{}
+			if err := Receive.Wait(info, s3); err != nil {
+				bossInfoChan <- nil
+			} else {
+				bossInfoChan <- info
+			}
+		}()
+		join := &S2CBossHomeJoinScene{}
 		Receive.Action(CLI.BossHomeJoinScene)
-		if err := Receive.Wait(info, s30); err != nil {
-			return ms100
+		_ = Receive.Wait(join, s3)
+		bossInfo := <-bossInfoChan // 等待BOSS信息返回
+		// 挑战体力不足
+		if join.Tag == 4049 {
+			// 领取奖励，明天再战
+			Receive.Action(CLI.HomeBossReceiveTempBag)
+			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
+			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		// 地图内无怪时
+		// 尝试等待所有怪冷却后再战
+		if len(monster) == 0 {
+			if bossInfo == nil {
+				return ms500
+			}
+			var timeList = make([]int64, 0)
+			for _, info := range bossInfo.Items {
+				timeList = append(timeList, info.ReliveTimestamp)
+			}
+			sort.Slice(timeList, func(i, j int) bool {
+				return timeList[i] > timeList[j]
+			})
+			ttm := time.Unix(timeList[0], 0).Local()
+			cur := time.Now()
+			if cur.Before(ttm) {
+				return ttm.Add(time.Minute).Sub(cur)
+			}
+			return s30
+		}
+		// 打怪
 		for i := range monster {
 			for {
 				go func(i int) {
 					_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
 				}(i)
 				r := &S2CBattlefieldReport{}
-				_ = Receive.Wait(r, s3)
-				if r.Win != 0 {
+				if err := Receive.Wait(r, s6); err != nil { // 无战斗报告反馈
+					return ms100
+				}
+				if r.Win == 1 {
 					break
 				}
 			}
 		}
 		return ms500
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
+func BossXLD() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		Receive.Action(CLI.XLDBossSweep)
+		_ = Receive.Wait(&S2CXLDBossSweep{}, s3)
+		return s3
 	}
 	for range t.C {
 		t.Reset(f())
@@ -351,6 +405,24 @@ func (c *Connect) BossGlobalJoinActive() error {
 	}
 	log.Println("[C][GlobalJoinActive]")
 	return c.send(1507, body)
+}
+
+func (c *Connect) HomeBossReceiveTempBag() error {
+	body, err := proto.Marshal(&C2SHomeBossReceiveTempBag{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][HomeBossReceiveTempBag]")
+	return c.send(15041, body)
+}
+
+func (c *Connect) XLDBossSweep() error {
+	body, err := proto.Marshal(&C2SXLDBossSweep{Id: 1})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XLDBossSweep] XLD:1")
+	return c.send(26401, body)
 }
 
 ////////////////////////////////////////////////////////////
@@ -535,4 +607,28 @@ func (x *S2CHomeBossInfo) ID() uint16 {
 func (x *S2CHomeBossInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][HomeBossInfo] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CHomeBossReceiveTempBag) ID() uint16 {
+	return 15042
+}
+
+// Message S2CHomeBossReceiveTempBag 15042
+func (x *S2CHomeBossReceiveTempBag) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][HomeBossReceiveTempBag] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXLDBossSweep) ID() uint16 {
+	return 26402
+}
+
+// Message S2CXLDBossSweep 26206
+func (x *S2CXLDBossSweep) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XLDBossSweep] tag=%v", x.Tag)
 }

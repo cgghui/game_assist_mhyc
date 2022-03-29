@@ -108,7 +108,8 @@ func main() {
 		//go mhyc.BossMulti()
 		//go mhyc.XuanShangBoss()
 		//go mhyc.BossGlobal()
-		go mhyc.BossHome()
+		//go mhyc.BossHome()
+		go mhyc.BossXLD()
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)
