@@ -321,24 +321,6 @@ func (c *Connect) WeddingInsFight() error {
 	return c.send(22629, body)
 }
 
-// ClimbingTowerEnter 副本 - 爬塔 - 进入
-func (c *Connect) ClimbingTowerEnter(act *C2SClimbingTowerEnter) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(22571, body)
-}
-
-// ClimbingTowerFight 副本 - 爬塔 - 战斗
-func (c *Connect) ClimbingTowerFight(act *C2SClimbingTowerFight) error {
-	body, err := proto.Marshal(act)
-	if err != nil {
-		return err
-	}
-	return c.send(22575, body)
-}
-
 func (c *Connect) send(code int, body []byte) error {
 	var err error
 	idx := uint16(RandInt64(0, 65536))

@@ -88,29 +88,6 @@ func (x *S2CAutoMeltGain) Message(data []byte) {
 	log.Printf("[S][AutoMeltGain] items=%v", x.Items)
 }
 
-func (x *S2CClimbingTowerFight) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[22576][ClimbingTowerFight] err=%v", err)
-		return
-	}
-	log.Printf("[22576][ClimbingTowerFight] tag=%v TowerType=%v", x.Tag, x.TowerType)
-	_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: x.TowerType})
-	return
-}
-
-func (x *S2CClimbingTowerEnter) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[22572][ClimbingTowerEnter] err=%v", err)
-		return
-	}
-	log.Printf("[22572][ClimbingTowerEnter] tag=%v TowerType=%v", x.Tag, x.TowerType)
-	if x.Tag != 0 {
-		return
-	}
-	_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: x.TowerType})
-	return
-}
-
 func (x *S2CMonsterLeaveMap) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("[60][MonsterLeaveMap] %v", err)
