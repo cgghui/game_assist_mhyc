@@ -322,9 +322,9 @@ func BossXLD() {
 	}
 }
 
-func BossXSD() {
-	t := time.NewTimer(ms100)
-	f := func() time.Duration {
+func BossXSD(ctx context.Context) {
+	t1 := time.NewTimer(ms100)
+	f1 := func() time.Duration {
 		if RoleInfo.Get("XsdXsdDayFightTimes").Int64() <= 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
@@ -394,8 +394,21 @@ func BossXSD() {
 		}
 		return s3
 	}
-	for range t.C {
-		t.Reset(f())
+	t2 := time.NewTimer(ms100)
+	f2 := func() time.Duration {
+		return ms100
+	}
+	defer t1.Stop()
+	defer t2.Stop()
+	for {
+		select {
+		case <-t1.C:
+			t1.Reset(f1())
+		case <-t2.C:
+			t1.Reset(f2())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

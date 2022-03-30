@@ -108,7 +108,7 @@ func main() {
 		//go mhyc.BossGlobal()
 		go mhyc.BossHome()
 		go mhyc.BossXLD()
-		go mhyc.BossXSD()
+		go mhyc.BossXSD(ctx)
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)
