@@ -2,6 +2,7 @@ package mhyc
 
 import (
 	"bytes"
+	"context"
 	"encoding/binary"
 	"encoding/json"
 	"github.com/gorilla/websocket"
@@ -32,7 +33,7 @@ type Connect struct {
 	m         *sync.Mutex
 }
 
-func (c *Client) Connect() (*Connect, error) {
+func (c *Client) Connect(ctx context.Context) (*Connect, error) {
 	param := url.Values{}
 	param.Add("channel_id", channelID)
 	param.Add("token", c.Token)
@@ -73,17 +74,23 @@ func (c *Client) Connect() (*Connect, error) {
 		Fcm:          2,
 		LoginPf:      "h5",
 		CheckWordUrl: "",
-		CodeVersion:  30283,
-		ExcelVersion: 29812,
+		CodeVersion:  30670,
+		ExcelVersion: 30613,
 	})
 	if err != nil {
 		return nil, err
 	}
 	go func() {
 		t := time.NewTicker(3 * time.Second)
-		for range t.C {
-			_ = ret.Ping()
-			log.Printf("[C][Ping]")
+		for {
+			select {
+			case <-t.C:
+				_ = ret.Ping()
+				log.Printf("[C][Ping]")
+			case <-ctx.Done():
+				_ = ret.Close()
+				return
+			}
 		}
 	}()
 	return &ret, nil

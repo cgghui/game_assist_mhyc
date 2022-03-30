@@ -1,20 +1,19 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
 // Everyday 每日奖励
-func Everyday() {
+func Everyday(ctx context.Context) {
 	// 每日在线时长奖励
 	go func() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
 		f := func() time.Duration {
-			Fight.Lock()
-			defer Fight.Unlock()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11002})
@@ -36,8 +35,13 @@ func Everyday() {
 			}
 			return RandMillisecond(60, 120)
 		}
-		for range t.C {
-			t.Reset(f())
+		for {
+			select {
+			case <-t.C:
+				t.Reset(f())
+			case <-ctx.Done():
+				return
+			}
 		}
 	}()
 	// 等级大礼
@@ -45,8 +49,6 @@ func Everyday() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
 		f := func() bool {
-			Fight.Lock()
-			defer Fight.Unlock()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11011})
@@ -69,8 +71,13 @@ func Everyday() {
 			t.Reset(time.Hour)
 			return false
 		}
-		for range t.C {
-			if f() {
+		for {
+			select {
+			case <-t.C:
+				if f() {
+					return
+				}
+			case <-ctx.Done():
 				return
 			}
 		}
@@ -104,13 +111,19 @@ func Everyday() {
 			t.Reset(TomorrowDuration(RandMillisecond(30000, 30600)))
 			return false
 		}
-		for range t.C {
-			if f() {
+		for {
+			select {
+			case <-t.C:
+				if f() {
+					return
+				}
+			case <-ctx.Done():
 				return
 			}
 		}
 	}()
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
@@ -195,8 +208,13 @@ func Everyday() {
 		}
 		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

@@ -4,6 +4,7 @@ package main
 
 import (
 	"bytes"
+	"context"
 	"encoding/binary"
 	"github.com/cgghui/game_assist_mhyc/mhyc"
 	"log"
@@ -15,14 +16,18 @@ func init() {
 }
 
 func main() {
+
+	ctx, cancel := context.WithCancel(context.Background())
+	defer cancel()
+
 	var err error
 	var session *mhyc.Client
-	session, err = mhyc.NewClient("66c9351a98e6809c52a1e36a13af3917", "19c3e57e2544f42b30b21104d24b2a94")
+	session, err = mhyc.NewClient("549f82f51e9562594e5572e487585160", "19c3e57e2544f42b30b21104d24b2a94")
 	if err != nil {
 		log.Fatal("session:", err)
 	}
 	var cli *mhyc.Connect
-	if cli, err = session.Connect(); err != nil {
+	if cli, err = session.Connect(ctx); err != nil {
 		log.Fatal("connect:", err)
 	}
 
@@ -30,14 +35,22 @@ func main() {
 
 	go func() {
 
+		go mhyc.ListenMessage(ctx, &mhyc.Pong{})
+
 		// 角色信息
 		func() {
 			// role info
 			info := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
 			info.Call.Message(<-info.Wait())
 			go func() {
-				for data := range info.Wait() {
-					(&mhyc.S2CRoleInfo{}).Message(data)
+				defer info.Close()
+				for {
+					select {
+					case data := <-info.Wait():
+						(&mhyc.S2CRoleInfo{}).Message(data)
+					case <-ctx.Done():
+						return
+					}
 				}
 			}()
 			// user bag
@@ -45,71 +58,57 @@ func main() {
 			ubag := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
 			ubag.Call.Message(<-ubag.Wait())
 			go func() {
-				for data := range ubag.Wait() {
-					(&mhyc.S2CUserBag{}).Message(data)
+				defer ubag.Close()
+				for {
+					select {
+					case data := <-ubag.Wait():
+						(&mhyc.S2CUserBag{}).Message(data)
+					case <-ctx.Done():
+						return
+					}
 				}
 			}()
 			//
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBagChange{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CBagChange{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.ItemFly{})
-				for data := range channel.Wait() {
-					(&mhyc.ItemFly{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.Pong{})
-				for range channel.Wait() {
-					(&mhyc.Pong{}).Message(nil)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRoleTask{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CRoleTask{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CBattlefieldReport{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CBattlefieldReport{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CServerTime{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CServerTime{}).Message(data)
-				}
-			}()
-			go func() {
-				channel := mhyc.Receive.CreateChannel(&mhyc.S2CRedState{})
-				for data := range channel.Wait() {
-					(&mhyc.S2CRedState{}).Message(data)
-				}
-			}()
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
+				(&mhyc.S2CBagChange{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.ItemFly{}, func(data []byte) {
+				(&mhyc.ItemFly{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
+				(&mhyc.S2CRoleTask{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
+				(&mhyc.S2CBattlefieldReport{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CServerTime{}, func(data []byte) {
+				(&mhyc.S2CServerTime{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CRedState{}, func(data []byte) {
+				(&mhyc.S2CRedState{}).Message(data)
+			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CStartFight{}, func(data []byte) {
+				(&mhyc.S2CStartFight{}).Message(data)
+			})
 		}()
 
-		//go mhyc.Everyday()
-		//go mhyc.Mail()
-		//go mhyc.AFK()
-		//go mhyc.StageFight()
-		//go mhyc.FamilyJJC()
-		//go mhyc.EnterAnimalPark()
-		//go mhyc.XianDianXDSW()
-		//go mhyc.XianDianSSSL()
-		//go mhyc.XianDianXDXS()
-		//go mhyc.BossPersonal()
-		//go mhyc.BossVIP()
-		//go mhyc.BossMulti()
-		//go mhyc.XuanShangBoss()
+		go mhyc.Everyday(ctx)
+		go mhyc.Mail(ctx)
+		go mhyc.AFK()
+		go mhyc.StageFight()
+		go mhyc.FamilyJJC()
+		go mhyc.EnterAnimalPark()
+		go mhyc.XianDianXDSW()
+		go mhyc.XianDianSSSL()
+		go mhyc.XianDianXDXS()
+		go mhyc.BossPersonal()
+		go mhyc.BossVIP()
+		go mhyc.BossMulti()
+		go mhyc.XuanShangBoss()
 		//go mhyc.BossGlobal()
-		//go mhyc.BossHome()
+		go mhyc.BossHome()
 		go mhyc.BossXLD()
+		go mhyc.BossXSD()
 
 		//wg := &sync.WaitGroup{}
 		//wg.Add(2)
@@ -207,6 +206,7 @@ func main() {
 			var id uint16
 			err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
 			if err != nil {
+				cancel()
 				log.Printf("recv: %v", err)
 				continue
 			}

@@ -1,12 +1,13 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
-func Mail() {
+func Mail(ctx context.Context) {
 	f := func() {
 		list := &S2CMailList{}
 		// 普通邮件
@@ -45,17 +46,19 @@ func Mail() {
 		}
 	}
 	// 监听新邮件
-	go func() {
-		channel := Receive.CreateChannel(&S2CNewMail{})
-		for range channel.Wait() {
-			f()
-		}
-	}()
+	go ListenMessageCall(ctx, &S2CNewMail{}, func(_ []byte) {
+		f()
+	})
 	// 定时打开邮件
 	t := time.NewTimer(ms10)
-	for range t.C {
-		f()
-		t.Reset(RandMillisecond(300, 600)) // 5 ~ 10 分钟
+	for {
+		select {
+		case <-t.C:
+			f()
+			t.Reset(RandMillisecond(300, 600)) // 5 ~ 10 分钟
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

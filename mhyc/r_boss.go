@@ -2,6 +2,7 @@ package mhyc
 
 import (
 	"context"
+	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
@@ -107,7 +108,9 @@ func BossMulti() {
 			go func() {
 				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: int64(BossMultiID)})
 			}()
-			_ = Receive.Wait(ret, s3)
+			if err := Receive.Wait(ret, s3); err != nil {
+				return ms100
+			}
 			if ret.Tag == 4022 { // 逃跑
 				break
 			}
@@ -208,6 +211,12 @@ func BossGlobal() {
 func BossHome() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		if RoleInfo.Get("BossHome_BodyPower").Int64() < 10 {
+			// 领取奖励，明天再战
+			Receive.Action(CLI.HomeBossReceiveTempBag)
+			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
 		ctx, cancel := context.WithCancel(context.Background())
 		defer cancel()
 		// 地图怪
@@ -234,10 +243,7 @@ func BossHome() {
 		bossInfo := <-bossInfoChan // 等待BOSS信息返回
 		// 挑战体力不足
 		if join.Tag == 4049 {
-			// 领取奖励，明天再战
-			Receive.Action(CLI.HomeBossReceiveTempBag)
-			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return ms100
 		}
 		// 地图内无怪时
 		// 尝试等待所有怪冷却后再战
@@ -255,7 +261,7 @@ func BossHome() {
 			ttm := time.Unix(timeList[0], 0).Local()
 			cur := time.Now()
 			if cur.Before(ttm) {
-				return ttm.Add(time.Minute).Sub(cur)
+				return ttm.Add(s10).Sub(cur)
 			}
 			return s30
 		}
@@ -284,8 +290,108 @@ func BossHome() {
 func BossXLD() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		info := &S2CXLDBossInfo{}
+		Receive.Action(CLI.XLDBossInfo)
+		if err := Receive.Wait(info, s3); err != nil {
+			return ms100
+		}
+		var timeList = make([]int64, 0)
+		for _, item := range info.Items {
+			timeList = append(timeList, item.NT)
+		}
+		sort.Slice(timeList, func(i, j int) bool {
+			return timeList[i] > timeList[j]
+		})
+		ttm := time.Unix(timeList[0], 0).Local()
+		cur := time.Now()
+		if cur.Before(ttm) {
+			return ttm.Add(s10).Sub(cur)
+		}
+		bs := &S2CXLDBossSweep{}
 		Receive.Action(CLI.XLDBossSweep)
-		_ = Receive.Wait(&S2CXLDBossSweep{}, s3)
+		if err := Receive.Wait(bs, s3); err != nil {
+			return ms100
+		}
+		if bs.Tag == 57015 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		return time.Second
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
+func BossXSD() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		if RoleInfo.Get("XsdXsdDayFightTimes").Int64() <= 0 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+		// 地图怪
+		monster := make([]*S2CMonsterEnterMap, 0)
+		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			var r S2CMonsterEnterMap
+			_ = proto.Unmarshal(data, &r)
+			monster = append(monster, &r)
+		})
+		// 怪信息
+		bossInfoChan := make(chan *S2CXsdBossInfo)
+		defer close(bossInfoChan)
+		go func() {
+			info := &S2CXsdBossInfo{}
+			if err := Receive.Wait(info, s3); err != nil {
+				bossInfoChan <- nil
+			} else {
+				bossInfoChan <- info
+			}
+		}()
+		join := &S2CXsdBossJoinScene{}
+		go func() {
+			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 1})
+		}()
+		_ = Receive.Wait(join, s3)
+		boss := <-bossInfoChan // 等待BOSS信息返回
+		fmt.Println(boss)
+		// 打怪
+		if len(monster) > 0 {
+			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
+			var HP = make([]int64, 0)
+			for i := range monster {
+				HP = append(HP, monster[i].Hp)
+			}
+			sort.Slice(HP, func(i, j int) bool {
+				return HP[i] > HP[j]
+			})
+			for _, hp := range HP {
+				// 找到同等血量的怪
+				idx := -1
+				for i, m := range monster {
+					if m.Hp == hp {
+						idx = i
+						break
+					}
+				}
+				if idx == -1 {
+					continue
+				}
+				// 开打
+				for {
+					go func(i int) {
+						_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
+					}(idx)
+					r := &S2CBattlefieldReport{}
+					if err := Receive.Wait(r, s3); err != nil {
+						return ms100
+					}
+					if r.Win == 1 { // 斗报胜利
+						break
+					}
+				}
+			}
+		}
 		return s3
 	}
 	for range t.C {
@@ -422,7 +528,43 @@ func (c *Connect) XLDBossSweep() error {
 		return err
 	}
 	log.Println("[C][XLDBossSweep] XLD:1")
+	return c.send(26205, body)
+}
+
+func (c *Connect) DropItems(id int32) error {
+	body, err := proto.Marshal(&C2SGetDropItems{DropId: id})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][DropItemXLD] drop_id=%v", id)
 	return c.send(26401, body)
+}
+
+func (c *Connect) XLDBossInfo() error {
+	body, err := proto.Marshal(&C2SXLDBossInfo{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XLDBossInfo]")
+	return c.send(26201, body)
+}
+
+func (c *Connect) XsdBossJoinScene(join *C2SXsdBossJoinScene) error {
+	body, err := proto.Marshal(join)
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XsdBossJoinScene]")
+	return c.send(26233, body)
+}
+
+func (c *Connect) XsdCollect(collect *C2SXsdCollect) error {
+	body, err := proto.Marshal(collect)
+	if err != nil {
+		return err
+	}
+	log.Println("[C][XsdCollect]")
+	return c.send(26245, body)
 }
 
 ////////////////////////////////////////////////////////////
@@ -624,11 +766,71 @@ func (x *S2CHomeBossReceiveTempBag) Message(data []byte) {
 ////////////////////////////////////////////////////////////
 
 func (x *S2CXLDBossSweep) ID() uint16 {
-	return 26402
+	return 26206
 }
 
 // Message S2CXLDBossSweep 26206
 func (x *S2CXLDBossSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][XLDBossSweep] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CGetDropItems) ID() uint16 {
+	return 26402
+}
+
+// Message S2CGetDropItems 26402
+func (x *S2CGetDropItems) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XLDBossSweep] drop_id=%v items=%v", x.DropId, x.ItemData)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXLDBossInfo) ID() uint16 {
+	return 26202
+}
+
+// Message S2CXLDBossInfo 26202
+func (x *S2CXLDBossInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XLDBossInfo] items=%v", x.Items)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXsdBossJoinScene) ID() uint16 {
+	return 26234
+}
+
+// Message S2CXsdBossJoinScene 26234
+func (x *S2CXsdBossJoinScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XsdBossJoinScene] tag=%v xsd_id=%v boss_id=%v", x.Tag, x.XsdId, x.BossId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXsdBossInfo) ID() uint16 {
+	return 26232
+}
+
+// Message S2CXsdBossInfo 26232
+func (x *S2CXsdBossInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XsdBossInfo] items=%v", x.Items)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXsdCollect) ID() uint16 {
+	return 26246
+}
+
+// Message S2CXsdCollect 26246
+func (x *S2CXsdCollect) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XsdCollect] tag=%v %v", x.Tag, x)
 }
