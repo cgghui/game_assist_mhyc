@@ -340,7 +340,13 @@ func BossXSD() {
 	t1 := time.NewTimer(ms100)
 	f1 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 1})
+			}()
+			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+			Fight.Unlock()
+		}()
 		if RoleInfo.Get("XsdXsdDayFightTimes").Int64() <= 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
@@ -398,24 +404,83 @@ func BossXSD() {
 					go func(i int) {
 						_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
 					}(idx)
+					sfChan := make(chan *S2CStartFight)
+					go func() {
+						sf := &S2CStartFight{}
+						if err := Receive.Wait(sf, s3); err != nil {
+							sfChan <- nil
+						} else {
+							sfChan <- sf
+						}
+					}()
 					r := &S2CBattlefieldReport{}
-					if err := Receive.Wait(r, s3); err != nil {
-						return ms100
+					_ = Receive.Wait(r, s3)
+					if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
+						break
 					}
 					if r.Win == 1 { // 斗报胜利
 						break
 					}
+					time.Sleep(RandMillisecond(1, 3))
 				}
+				time.Sleep(RandMillisecond(1, 3))
 			}
 		}
 		return s3
 	}
 	t2 := time.NewTimer(ms100)
 	f2 := func() time.Duration {
+		Fight.Lock()
+		defer func() {
+			go func() {
+				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 1})
+			}()
+			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+			Fight.Unlock()
+		}()
 		if RoleInfo.Get("XsdXsdDayCollectTimes").Int64() <= 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			//return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
-
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+		// 地图怪
+		monster := make([]*S2CMonsterEnterMap, 0)
+		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			var r S2CMonsterEnterMap
+			_ = proto.Unmarshal(data, &r)
+			monster = append(monster, &r)
+		})
+		// 怪信息
+		bossInfoChan := make(chan *S2CXsdBossInfo)
+		defer close(bossInfoChan)
+		go func() {
+			info := &S2CXsdBossInfo{}
+			if err := Receive.Wait(info, s3); err != nil {
+				bossInfoChan <- nil
+			} else {
+				bossInfoChan <- info
+			}
+		}()
+		join := &S2CXsdBossJoinScene{}
+		go func() {
+			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 1})
+		}()
+		_ = Receive.Wait(join, s3)
+		boss := <-bossInfoChan // 等待BOSS信息返回
+		fmt.Println(boss)
+		//
+		go func() {
+			_ = CLI.DropItems(39051)
+		}()
+		item := &S2CGetDropItems{}
+		_ = Receive.Wait(item, s30)
+		//
+		go func() {
+			_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: 1, CollId: 7, CollAct: 0})
+		}()
+		c := &S2CXsdCollect{}
+		_ = Receive.Wait(c, s30)
+		fmt.Println(c)
 		return ms100
 	}
 	defer t1.Stop()
@@ -428,6 +493,172 @@ func BossXSD() {
 			t1.Reset(f2())
 		}
 	}
+}
+
+func BossXMD() {
+	t1 := time.NewTimer(ms100)
+	f1 := func() time.Duration {
+		Fight.Lock()
+		defer func() {
+			go func() {
+				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 2, BossId: 1})
+			}()
+			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+			Fight.Unlock()
+		}()
+		if RoleInfo.Get("XsdXmdDayFightTimes").Int64() <= 0 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+		// 地图怪
+		monster := make([]*S2CMonsterEnterMap, 0)
+		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			var r S2CMonsterEnterMap
+			_ = proto.Unmarshal(data, &r)
+			monster = append(monster, &r)
+		})
+		// 怪信息
+		bossInfoChan := make(chan *S2CXsdBossInfo)
+		defer close(bossInfoChan)
+		go func() {
+			info := &S2CXsdBossInfo{}
+			if err := Receive.Wait(info, s3); err != nil {
+				bossInfoChan <- nil
+			} else {
+				bossInfoChan <- info
+			}
+		}()
+		join := &S2CXsdBossJoinScene{}
+		go func() {
+			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 2, BossId: 1})
+		}()
+		_ = Receive.Wait(join, s3)
+		boss := <-bossInfoChan // 等待BOSS信息返回
+		fmt.Println(boss)
+		// 打怪
+		if len(monster) > 0 {
+			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
+			var HP = make([]int64, 0)
+			for i := range monster {
+				HP = append(HP, monster[i].Hp)
+			}
+			sort.Slice(HP, func(i, j int) bool {
+				return HP[i] > HP[j]
+			})
+			for _, hp := range HP {
+				// 找到同等血量的怪
+				idx := -1
+				for i, m := range monster {
+					if m.Hp == hp {
+						idx = i
+						break
+					}
+				}
+				if idx == -1 {
+					continue
+				}
+				// 开打
+				for {
+					go func(i int) {
+						_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
+					}(idx)
+					sfChan := make(chan *S2CStartFight)
+					go func() {
+						sf := &S2CStartFight{}
+						if err := Receive.Wait(sf, s3); err != nil {
+							sfChan <- nil
+						} else {
+							sfChan <- sf
+						}
+					}()
+					r := &S2CBattlefieldReport{}
+					_ = Receive.Wait(r, s3)
+					if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
+						break
+					}
+					if r.Win == 1 { // 斗报胜利
+						break
+					}
+					time.Sleep(RandMillisecond(1, 3))
+				}
+				time.Sleep(RandMillisecond(1, 3))
+			}
+		}
+		return s3
+	}
+	t2 := time.NewTimer(ms100)
+	f2 := func() time.Duration {
+		if RoleInfo.Get("XsdXmdDayCollectTimes").Int64() <= 0 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		return ms100
+	}
+	defer t1.Stop()
+	defer t2.Stop()
+	for {
+		select {
+		case <-t1.C:
+			t1.Reset(f1())
+		case <-t2.C:
+			t1.Reset(f2())
+		}
+	}
+}
+
+func BossHLTJ(ctx context.Context) {
+	t1 := time.NewTimer(ms100)
+	f1 := func() time.Duration {
+		Fight.Lock()
+		defer func() {
+			go func() {
+				_ = CLI.LeaveHLFB(&C2SLeaveHLFB{InsId: 1102})
+			}()
+			_ = Receive.Wait(&S2CLeaveHLFB{}, s3)
+			Fight.Unlock()
+		}()
+		go func() {
+			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: 1102, Type: 1})
+		}()
+		_ = Receive.Wait(&S2CEnterHLFB{}, s3)
+		return ms500
+	}
+	//
+	for {
+		select {
+		case <-t1.C:
+			t1.Reset(f1())
+		case <-ctx.Done():
+			return
+		}
+	}
+}
+
+func (c *Connect) EnterHLFB(s *C2SEnterHLFB) error {
+	body, err := proto.Marshal(s)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][EnterHLFB] ins_id=%v type=%v", s.InsId, s.Type)
+	return c.send(27133, body)
+}
+
+func (c *Connect) LeaveHLFB(s *C2SLeaveHLFB) error {
+	body, err := proto.Marshal(s)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][LeaveHLFB] ins_id=%v", s.InsId)
+	return c.send(27135, body)
+}
+
+func (c *Connect) XsdBossLeaveScene(s *C2SXsdBossLeaveScene) error {
+	body, err := proto.Marshal(s)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][XsdBossLeaveScene] xsd_id=%v boss_id=%v", s.XsdId, s.BossId)
+	return c.send(15033, body)
 }
 
 func (c *Connect) BossHomeLeaveScene() error {
@@ -778,18 +1009,6 @@ func (x *S2CBossHomeJoinScene) Message(data []byte) {
 
 ////////////////////////////////////////////////////////////
 
-func (x *S2CJoinActive) ID() uint16 {
-	return 1508
-}
-
-// Message S2CJoinActive 1508
-func (x *S2CJoinActive) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JoinActive] tag=%v aid=%v", x.Tag, x.AId)
-}
-
-////////////////////////////////////////////////////////////
-
 func (x *S2CHomeBossInfo) ID() uint16 {
 	return 15030
 }
@@ -894,4 +1113,40 @@ func (x *S2CBossHomeLeaveScene) ID() uint16 {
 func (x *S2CBossHomeLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][BossHomeLeaveScene] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CXsdBossLeaveScene) ID() uint16 {
+	return 26236
+}
+
+// Message S2CXsdBossLeaveScene 15034
+func (x *S2CXsdBossLeaveScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][XsdBossLeaveScene] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CEnterHLFB) ID() uint16 {
+	return 27134
+}
+
+// Message S2CEnterHLFB 27134
+func (x *S2CEnterHLFB) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][EnterHLFB] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CLeaveHLFB) ID() uint16 {
+	return 27136
+}
+
+// Message S2CLeaveHLFB 27136
+func (x *S2CLeaveHLFB) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][LeaveHLFB] tag=%v %v", x.Tag, x)
 }
