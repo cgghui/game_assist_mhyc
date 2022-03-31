@@ -9,8 +9,8 @@ import (
 	"time"
 )
 
-const BossMultiID = 8 // 多人BOSS
-const BossHomeID = 7  // 跨服 - BOSS之家 - 7层
+const BossMultiID = int32(8) // 多人BOSS 7转
+const BossHomeID = 7         // 跨服 - BOSS之家 - 7层
 
 // BossPersonal 个人BOSS
 func BossPersonal() {
@@ -51,7 +51,13 @@ func BossMulti() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.MultiBossLeaveScene(&C2SMultiBossLeaveScene{Id: BossMultiID})
+			}()
+			_ = Receive.Wait(&S2CMultiBossLeaveScene{}, s3)
+			Fight.Unlock()
+		}()
 		// 检测是否有挑战次数
 		if RoleInfo.Get("MultiBoss_Times").Int64() == 0 {
 			// 无
@@ -84,7 +90,7 @@ func BossMulti() {
 		}
 		for _, item := range info.Items {
 			// 检测BOSS是否在冷却
-			if item.Id == int32(BossMultiID) {
+			if item.Id == BossMultiID {
 				rt := time.Unix(item.ReliveTimestamp, 0).Local().Add(time.Minute)
 				cur := time.Now()
 				if cur.Before(rt) {
@@ -93,7 +99,7 @@ func BossMulti() {
 			}
 		}
 		go func() {
-			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: int32(BossMultiID)})
+			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: BossMultiID})
 		}()
 		go func() {
 			_ = Receive.Wait(&S2CMultiBossJoinScene{}, s30)
@@ -106,7 +112,7 @@ func BossMulti() {
 		for range tc.C {
 			ret := &S2CStartFight{}
 			go func() {
-				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: int64(BossMultiID)})
+				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: 8})
 			}()
 			if err := Receive.Wait(ret, s3); err != nil {
 				return ms100
@@ -211,6 +217,12 @@ func BossGlobal() {
 func BossHome() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		Fight.Lock()
+		defer func() {
+			Receive.Action(CLI.BossHomeLeaveScene)
+			_ = Receive.Wait(&S2CBossHomeLeaveScene{}, s3)
+			Fight.Unlock()
+		}()
 		if RoleInfo.Get("BossHome_BodyPower").Int64() < 10 {
 			// 领取奖励，明天再战
 			Receive.Action(CLI.HomeBossReceiveTempBag)
@@ -290,6 +302,8 @@ func BossHome() {
 func BossXLD() {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
 		info := &S2CXLDBossInfo{}
 		Receive.Action(CLI.XLDBossInfo)
 		if err := Receive.Wait(info, s3); err != nil {
@@ -325,6 +339,8 @@ func BossXLD() {
 func BossXSD() {
 	t1 := time.NewTimer(ms100)
 	f1 := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
 		if RoleInfo.Get("XsdXsdDayFightTimes").Int64() <= 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
@@ -414,6 +430,15 @@ func BossXSD() {
 	}
 }
 
+func (c *Connect) BossHomeLeaveScene() error {
+	body, err := proto.Marshal(&C2SBossHomeLeaveScene{HomeId: BossHomeID})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][BossHomeLeaveScene]")
+	return c.send(15033, body)
+}
+
 // BossPersonalSweep Boss - 本服BOSS - 个人BOSS 一键扫荡
 func (c *Connect) BossPersonalSweep() error {
 	body, err := proto.Marshal(&C2SBossPersonalSweep{})
@@ -452,6 +477,15 @@ func (c *Connect) MultiBossJoinScene(i *C2SMultiBossJoinScene) error {
 	}
 	log.Printf("[C][MultiBossJoinScene] id=%v", i.Id)
 	return c.send(1123, body)
+}
+
+func (c *Connect) MultiBossLeaveScene(i *C2SMultiBossLeaveScene) error {
+	body, err := proto.Marshal(i)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][MultiBossLeaveScene] id=%v", i.Id)
+	return c.send(1127, body)
 }
 
 // MultiBossInfo Boss - 本服BOSS - 多人 BOSS信息
@@ -848,4 +882,16 @@ func (x *S2CXsdCollect) ID() uint16 {
 func (x *S2CXsdCollect) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][XsdCollect] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CBossHomeLeaveScene) ID() uint16 {
+	return 15034
+}
+
+// Message S2CBossHomeLeaveScene 15034
+func (x *S2CBossHomeLeaveScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][BossHomeLeaveScene] tag=%v %v", x.Tag, x)
 }

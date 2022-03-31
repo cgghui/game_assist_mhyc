@@ -81,6 +81,9 @@ func main() {
 			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
 				(&mhyc.S2CBattlefieldReport{}).Message(data)
 			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
+				(&mhyc.S2CTeamInstanceGetReport{}).Message(data)
+			})
 			go mhyc.ListenMessageCall(ctx, &mhyc.S2CServerTime{}, func(data []byte) {
 				(&mhyc.S2CServerTime{}).Message(data)
 			})
@@ -103,98 +106,13 @@ func main() {
 		//go mhyc.XianDianXDXS()
 		//go mhyc.BossPersonal()
 		//go mhyc.BossVIP()
-		//go mhyc.BossMulti()
+		go mhyc.BossMulti()
 		//go mhyc.XuanShangBoss()
 		////go mhyc.BossGlobal()
 		//go mhyc.BossHome()
 		//go mhyc.BossXLD()
 		//go mhyc.BossXSD()
 		go mhyc.FuBen(ctx)
-
-		//wg := &sync.WaitGroup{}
-		//wg.Add(2)
-		//
-		//action := []func(){
-		//
-		//	func() {
-		//
-		//	},
-		//
-		//	func() {
-		//		//_ = cli.HuanLingList()
-		//		//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 14})
-		//		//_ = cli.GetActTimestamp(&mhyc.C2SGetActTimestamp{ActId: 15})
-		//		//_ = cli.GetPetAMergeInfo()
-		//		//_ = cli.GetAllEquipData()
-		//		//_ = cli.PlayerPractice()
-		//		//_ = cli.GetEquipData(&mhyc.C2SGetEquipData{FuncId: 15001, ObjId: 0})
-		//		//_ = cli.Beasts()
-		//		//_ = cli.GetHeroList()
-		//		//_ = cli.GetAlienData()
-		//		//_ = cli.YJInfo()
-		//		//_ = cli.SLGetData()
-		//		//_ = cli.NewStory()
-		//		//_ = cli.StagePrize()
-		//		//_ = cli.RoleInfo()
-		//		//_ = cli.LoginEnd()
-		//		//_ = cli.GetActTask(mhyc.DefineGetActTask11002)
-		//		//_ = cli.AFKGetBuyInfo()
-		//		//_ = cli.WeddingInsInvite()
-		//		//_ = cli.ClimbingTowerEnter(mhyc.DefineClimbingTowerEnter5)
-		//		//_ = cli.GetActXunBaoInfo(mhyc.DefineXunBaoInfo501)
-		//	},
-		//
-		//	//func() {
-		//	//	go func() {
-		//	//		t := time.NewTimer(time.Second)
-		//	//		for range t.C {
-		//	//			_ = cli.RealmTask() // 修仙 - 境界 任务
-		//	//			t.Reset(time.Second)
-		//	//		}
-		//	//	}()
-		//	//},
-		//	//func() {
-		//	//	t := time.NewTimer(100 * time.Millisecond)
-		//	//	run := func() {
-		//	//		for range t.C {
-		//	//			_ = cli.GetHistoryTaskPrize()
-		//	//			recv := <-mhyc.ChanBox.GetHistoryTaskPrize
-		//	//			log.Printf("[主线奖励] tag=%v %v", recv.Tag, recv)
-		//	//			if recv.Tag == 5043 {
-		//	//				break
-		//	//			}
-		//	//			t.Reset(100 * time.Millisecond)
-		//	//		}
-		//	//	}
-		//	//	go func() {
-		//	//		for {
-		//	//			wg.Wait()
-		//	//			run()
-		//	//		}
-		//	//	}()
-		//	//},
-		//	//
-		//
-		//	//func() {
-		//	//	go func() {
-		//	//		for {
-		//	//			_ = cli.GetHistoryTaskPrize()
-		//	//		}
-		//	//	}()
-		//	//},
-		//}
-		//
-		//i := 0
-		//t := time.NewTimer(time.Second)
-		//for range t.C {
-		//	action[i]()
-		//	i++
-		//	if i >= len(action) {
-		//		t.Stop()
-		//		return
-		//	}
-		//	t.Reset(time.Second)
-		//}
 	}()
 
 	go func() {
