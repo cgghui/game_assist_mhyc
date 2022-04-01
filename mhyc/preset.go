@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-const DataRoot = "H:\\WorkGo\\game_assist_mhyc\\mhyc"
+const DataRoot = "D:\\go\\game_assist_mhyc\\mhyc"
 
 const UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
 

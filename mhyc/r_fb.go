@@ -278,38 +278,38 @@ func FuBen(ctx context.Context) {
 		fmt.Println(report)
 		return ms100
 	}
-	// 组队 宠物装备 未开启 TODO: 需要纠正id
-	//t9 := time.NewTimer(ms100)
-	//defer t9.Stop()
-	//f9 := func() time.Duration {
-	//	id := int32(243)
-	//	Fight.Lock()
-	//	defer Fight.Unlock()
-	//	matching := &S2CTeamInstanceMatching{}
-	//	go func() {
-	//		_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
-	//	}()
-	//	if err := Receive.Wait(matching, s3); err != nil {
-	//		return ms500
-	//	}
-	//	if matching.Tag != 0 {
-	//		return TomorrowDuration(RandMillisecond(30000, 30600))
-	//	}
-	//	go func() {
-	//		user := make([]int64, 0)
-	//		for _, player := range matching.Players {
-	//			user = append(user, player.UserId)
-	//		}
-	//		_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
-	//	}()
-	//	report := &S2CTeamInstanceGetReport{}
-	//	_ = Receive.Wait(report, s3)
-	//	go func() {
-	//		_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
-	//	}()
-	//	_ = Receive.Wait(report, s3)
-	//	return ms100
-	//}
+	// 组队 宠物装备
+	t9 := time.NewTimer(ms100)
+	defer t9.Stop()
+	f9 := func() time.Duration {
+		id := int32(340)
+		Fight.Lock()
+		defer Fight.Unlock()
+		matching := &S2CTeamInstanceMatching{}
+		go func() {
+			_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
+		}()
+		if err := Receive.Wait(matching, s3); err != nil {
+			return ms500
+		}
+		if matching.Tag != 0 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
+		}
+		go func() {
+			user := make([]int64, 0)
+			for _, player := range matching.Players {
+				user = append(user, player.UserId)
+			}
+			_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
+		}()
+		report := &S2CTeamInstanceGetReport{}
+		_ = Receive.Wait(report, s3)
+		go func() {
+			_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
+		}()
+		_ = Receive.Wait(report, s3)
+		return ms100
+	}
 	// 组队 星图
 	t10 := time.NewTimer(ms100)
 	defer t10.Stop()
@@ -413,8 +413,8 @@ func FuBen(ctx context.Context) {
 			t7.Reset(f7())
 		case <-t8.C:
 			t8.Reset(f8())
-		//case <-t9.C:
-		//	t9.Reset(f9())
+		case <-t9.C:
+			t9.Reset(f9())
 		case <-t10.C:
 			t10.Reset(f10())
 		case <-t11.C:

@@ -10,8 +10,10 @@ import (
 	"time"
 )
 
+////////////////////////////////////////////////////////////
+
 // WareHouseReceiveItem 将仓库内的物品转至背包
-// 5 寻找
+// 5 寻宝
 func (c *Connect) WareHouseReceiveItem(id int32) error {
 	body, err := proto.Marshal(&C2SWareHouseReceiveItem{WhId: id})
 	if err != nil {
@@ -47,7 +49,7 @@ func (c *Connect) RoleInfo() error {
 	if err != nil {
 		return err
 	}
-	log.Println("[C][RoleInfo]")
+	log.Println("[C][角色信息] >>>")
 	return c.send(49, body)
 }
 
@@ -62,14 +64,14 @@ func (x *S2CRoleInfo) ID() uint16 {
 // Message S2CRoleInfo 角色信息
 func (x *S2CRoleInfo) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[S][RoleInfo] %v", err)
+		log.Printf("[S][角色信息] %v", err)
 		return
 	}
 	for _, a := range x.A {
 		if _, ok := AttrType[a.K]; !ok {
 			continue
 		}
-		log.Printf("[S][RoleInfo] %s\t%v", AttrType[a.K], a.V)
+		log.Printf("[S][角色信息] %s\t%v", AttrType[a.K], a.V)
 		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[a.K], a.V))
 		RoleInfo.Set(AttrType[a.K], a.V)
 	}
@@ -77,7 +79,7 @@ func (x *S2CRoleInfo) Message(data []byte) {
 		if _, ok := AttrType[b.K]; !ok {
 			continue
 		}
-		log.Printf("[S][RoleInfo] %s\t%v", AttrType[b.K], b.V)
+		log.Printf("[S][角色信息] %s\t%v", AttrType[b.K], b.V)
 		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[b.K], b.V))
 		RoleInfo.Set(AttrType[b.K], b.V)
 	}
@@ -177,6 +179,30 @@ func (x *S2CRedState) ID() uint16 {
 func (x *S2CRedState) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][RedState] list=%v", x.List)
+	return
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CNotice) ID() uint16 {
+	return 12
+}
+
+func (x *S2CNotice) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][Notice] %v", x)
+	return
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CNewChatMsg) ID() uint16 {
+	return 403
+}
+
+func (x *S2CNewChatMsg) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][NewChatMsg] [%s] %s", x.Chatmessage.SenderNick, x.Chatmessage.Content)
 	return
 }
 

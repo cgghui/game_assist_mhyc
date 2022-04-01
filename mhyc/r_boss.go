@@ -117,7 +117,7 @@ func BossMulti() {
 			if err := Receive.Wait(ret, s3); err != nil {
 				return ms100
 			}
-			if ret.Tag == 4022 { // 逃跑
+			if ret.Tag == 4022 || ret.Tag == 17002 { // 逃跑
 				break
 			}
 			tc.Reset(ms500)
@@ -354,11 +354,7 @@ func BossXSD() {
 		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
-			var r S2CMonsterEnterMap
-			_ = proto.Unmarshal(data, &r)
-			monster = append(monster, &r)
-		})
+		go monsterEnterMap(ctx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CXsdBossInfo)
 		defer close(bossInfoChan)
@@ -375,8 +371,7 @@ func BossXSD() {
 			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 1})
 		}()
 		_ = Receive.Wait(join, s3)
-		boss := <-bossInfoChan // 等待BOSS信息返回
-		fmt.Println(boss)
+		<-bossInfoChan // 等待BOSS信息返回
 		// 打怪
 		if len(monster) > 0 {
 			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
@@ -433,29 +428,25 @@ func BossXSD() {
 		Fight.Lock()
 		defer func() {
 			go func() {
-				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 1})
+				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 7})
 			}()
 			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
 			Fight.Unlock()
 		}()
-		if RoleInfo.Get("XsdXsdDayCollectTimes").Int64() <= 0 {
-			//return TomorrowDuration(RandMillisecond(30000, 30600))
+		if RoleInfo.Get("XsdXsdDayCollectTimes").Int64() >= 3 {
+			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
 		ctx, cancel := context.WithCancel(context.Background())
 		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
-			var r S2CMonsterEnterMap
-			_ = proto.Unmarshal(data, &r)
-			monster = append(monster, &r)
-		})
+		go monsterEnterMap(ctx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CXsdBossInfo)
 		defer close(bossInfoChan)
 		go func() {
 			info := &S2CXsdBossInfo{}
-			if err := Receive.Wait(info, s3); err != nil {
+			if err := Receive.Wait(info, s30); err != nil {
 				bossInfoChan <- nil
 			} else {
 				bossInfoChan <- info
@@ -463,34 +454,57 @@ func BossXSD() {
 		}()
 		join := &S2CXsdBossJoinScene{}
 		go func() {
-			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 1})
+			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 7})
 		}()
-		_ = Receive.Wait(join, s3)
-		boss := <-bossInfoChan // 等待BOSS信息返回
-		fmt.Println(boss)
+		_ = Receive.Wait(join, s30)
+		bossList := <-bossInfoChan
+		if bossList == nil {
+			return ms100
+		}
+		for _, boss := range bossList.Items {
+			if boss.BossId == 7 {
+				if boss.State != 0 || boss.ReliveTimestamp == 0 {
+					break
+				}
+				cur := time.Now()
+				brt := time.Unix(boss.ReliveTimestamp, 0).Local()
+				if cur.Before(brt) {
+					v := brt.Add(s6).Sub(cur)
+					log.Printf("[C][BOSS-凶神岛] 采集还需要等待：%s", v)
+					return v
+				}
+				break
+			}
+		}
 		//
-		go func() {
-			_ = CLI.DropItems(39051)
-		}()
-		item := &S2CGetDropItems{}
-		_ = Receive.Wait(item, s30)
+		//go func() {
+		//	_ = CLI.DropItems(39051)
+		//}()
+		//item := &S2CGetDropItems{}
+		//_ = Receive.Wait(item, s30)
 		//
 		go func() {
 			_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: 1, CollId: 7, CollAct: 0})
 		}()
-		c := &S2CXsdCollect{}
-		_ = Receive.Wait(c, s30)
-		fmt.Println(c)
+		ListenMessageCall(ctx, &S2CXsdCollect{}, func(data []byte) {
+			c := &S2CXsdCollect{}
+			c.Message(data)
+			if c.Tag == 0 && c.XsdId == 1 && c.CollId == 7 && c.CollState == 1 {
+				fmt.Println(c)
+			}
+			fmt.Println(c)
+		})
+
 		return ms100
 	}
-	defer t1.Stop()
-	defer t2.Stop()
+	//defer t1.Stop()
+	//defer t2.Stop()
 	for {
 		select {
 		case <-t1.C:
 			t1.Reset(f1())
 		case <-t2.C:
-			t1.Reset(f2())
+			t2.Reset(f2())
 		}
 	}
 }
@@ -513,11 +527,7 @@ func BossXMD() {
 		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
-			var r S2CMonsterEnterMap
-			_ = proto.Unmarshal(data, &r)
-			monster = append(monster, &r)
-		})
+		go monsterEnterMap(ctx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CXsdBossInfo)
 		defer close(bossInfoChan)
@@ -534,8 +544,7 @@ func BossXMD() {
 			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 2, BossId: 1})
 		}()
 		_ = Receive.Wait(join, s3)
-		boss := <-bossInfoChan // 等待BOSS信息返回
-		fmt.Println(boss)
+		<-bossInfoChan // 等待BOSS信息返回
 		// 打怪
 		if len(monster) > 0 {
 			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
@@ -609,6 +618,7 @@ func BossXMD() {
 func BossHLTJ(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	f1 := func() time.Duration {
+		insID := int32(1103)
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -618,9 +628,18 @@ func BossHLTJ(ctx context.Context) {
 			Fight.Unlock()
 		}()
 		go func() {
-			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: 1102, Type: 1})
+			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: insID, Type: 1})
 		}()
 		_ = Receive.Wait(&S2CEnterHLFB{}, s3)
+		// 组队
+		go func() {
+			_ = CLI.CreateTeam(&C2SCreateTeam{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(insID), Key4: 0})
+		}()
+		_ = Receive.Wait(&S2CCreateTeam{}, s3)
+		go func() {
+			_ = CLI.Teams(&C2STeams{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(insID), Key4: 0})
+		}()
+		_ = Receive.Wait(&S2CTeams{}, s3)
 		return ms500
 	}
 	//
@@ -632,6 +651,15 @@ func BossHLTJ(ctx context.Context) {
 			return
 		}
 	}
+}
+
+func monsterEnterMap(ctx context.Context, result *[]*S2CMonsterEnterMap) {
+	ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+		var enter S2CMonsterEnterMap
+		if err := proto.Unmarshal(data, &enter); err == nil {
+			*result = append(*result, &enter)
+		}
+	})
 }
 
 func (c *Connect) EnterHLFB(s *C2SEnterHLFB) error {

@@ -31,6 +31,10 @@ func StageFight() {
 			if _ = Receive.Wait(f, s3); f.Tag == 31 {
 				break
 			}
+			if f.Tag == 9012 {
+				tm.Reset(s30)
+				continue
+			}
 			if f.Tag == 0 {
 				_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
 			}

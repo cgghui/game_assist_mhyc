@@ -137,15 +137,6 @@ func (x *S2CZSStateInfo) Message(data []byte) {
 	return
 }
 
-func (x *S2CNotice) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [Notice] %v", err)
-		return
-	}
-	log.Printf("recv: [Notice] %v", x)
-	return
-}
-
 //func (x *S2CGetActTask) Message(data []byte) {
 //	if err := proto.Unmarshal(data, x); err != nil {
 //		log.Printf("recv: [GetActTask] %v", err)
@@ -306,13 +297,4 @@ func (x *S2CLogin) Message(data []byte) {
 func (x *S2CChangeMap) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][ChangeMap] id=%d x=%d y=%d", x.MapId, x.X, x.Y)
-}
-
-func (x *S2CNewChatMsg) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [NewChatMsg] %v", err)
-		return
-	}
-	log.Printf("NewChatMsg: [%s] %s", x.Chatmessage.SenderNick, x.Chatmessage.Content)
-	return
 }
