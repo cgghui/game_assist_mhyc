@@ -49,11 +49,11 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("ATFp5QikBBCvo+gZGAU=")
+	code, err := base64.StdEncoding.DecodeString("AMlkfhAFGjYIr6PoGRIG5aSn5bidGMUZIg01NDIwMTQxNV8yMjQ2KPbp6g4wlLXrDjiypJ9BQAFQ37qbkgYaOQjdlOMZEgzljYrmnprkv4rlk7IYxBkiDDU0MDE0MDQzXzUyMyj26eoOMIK26w448t70LVDp35uSBholCJzS5BkSBua0m+WEvxjEGSiI6eoOMMi26w44upqxHVDRzISSBiABKAIwCQ==")
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SInviteTeam{}
+	var ma = &S2CGetIllusionCanInviteList{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}

@@ -154,3 +154,13 @@ func ListenMessageCall(ctx context.Context, hm HandleMessage, call func(data []b
 		}
 	}
 }
+
+func ListenMessageCallEx(hm HandleMessage, call func(data []byte) bool) {
+	channel := Receive.CreateChannel(hm)
+	defer channel.Close()
+	for data := range channel.Wait() {
+		if !call(data) { // call is false
+			return
+		}
+	}
+}

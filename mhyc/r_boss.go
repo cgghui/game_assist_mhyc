@@ -2,7 +2,6 @@ package mhyc
 
 import (
 	"context"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
@@ -336,281 +335,190 @@ func BossXLD() {
 	}
 }
 
-func BossXSD() {
-	t1 := time.NewTimer(ms100)
-	f1 := func() time.Duration {
-		Fight.Lock()
-		defer func() {
-			go func() {
-				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 1})
-			}()
-			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
-			Fight.Unlock()
+// collectSC 采集仙草
+func collectSC(field string, xsdID, bossID int32) time.Duration {
+	Fight.Lock()
+	defer func() {
+		go func() {
+			_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: xsdID, BossId: bossID})
 		}()
-		if RoleInfo.Get("XsdXsdDayFightTimes").Int64() <= 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+		_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+		Fight.Unlock()
+	}()
+	// 采集次数不足
+	if RoleInfo.Get(field).Int64() >= 3 {
+		return TomorrowDuration(RandMillisecond(30000, 30600))
+	}
+	ctx, cancel := context.WithCancel(context.Background())
+	defer cancel()
+	// 地图怪
+	monster := make([]*S2CMonsterEnterMap, 0)
+	go monsterEnterMap(ctx, &monster)
+	// 怪信息
+	bossInfoChan := make(chan *S2CXsdBossInfo)
+	defer close(bossInfoChan)
+	go func() {
+		info := &S2CXsdBossInfo{}
+		if err := Receive.Wait(info, s30); err != nil {
+			bossInfoChan <- nil
+		} else {
+			bossInfoChan <- info
 		}
-		ctx, cancel := context.WithCancel(context.Background())
-		defer cancel()
-		// 地图怪
-		monster := make([]*S2CMonsterEnterMap, 0)
-		go monsterEnterMap(ctx, &monster)
-		// 怪信息
-		bossInfoChan := make(chan *S2CXsdBossInfo)
-		defer close(bossInfoChan)
-		go func() {
-			info := &S2CXsdBossInfo{}
-			if err := Receive.Wait(info, s3); err != nil {
-				bossInfoChan <- nil
-			} else {
-				bossInfoChan <- info
+	}()
+	// 进入场景
+	join := &S2CXsdBossJoinScene{}
+	go func() {
+		_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: xsdID, BossId: bossID})
+	}()
+	if err := Receive.Wait(join, s30); err != nil {
+		return ms100
+	}
+	bossList := <-bossInfoChan // BOSS
+	if bossList == nil {
+		return ms100
+	}
+	for _, boss := range bossList.Items {
+		if boss.BossId == bossID {
+			if boss.State != 0 || boss.ReliveTimestamp == 0 {
+				break
 			}
-		}()
-		join := &S2CXsdBossJoinScene{}
-		go func() {
-			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 1})
-		}()
-		_ = Receive.Wait(join, s3)
-		<-bossInfoChan // 等待BOSS信息返回
-		// 打怪
-		if len(monster) > 0 {
-			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
-			var HP = make([]int64, 0)
-			for i := range monster {
-				HP = append(HP, monster[i].Hp)
+			cur := time.Now()
+			brt := time.Unix(boss.ReliveTimestamp, 0).Local()
+			if cur.Before(brt) {
+				return brt.Add(s6).Sub(cur)
 			}
-			sort.Slice(HP, func(i, j int) bool {
-				return HP[i] > HP[j]
-			})
-			for _, hp := range HP {
-				// 找到同等血量的怪
-				idx := -1
-				for i, m := range monster {
-					if m.Hp == hp {
-						idx = i
-						break
-					}
+			break
+		}
+	}
+	// 采集仙草
+	go func() {
+		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 0})
+	}()
+	ListenMessageCallEx(&S2CXsdCollect{}, func(data []byte) bool {
+		c := &S2CXsdCollect{}
+		c.Message(data)
+		if c.Tag == 0 && c.XsdId == xsdID && c.CollId == bossID && c.CollState == 1 {
+			return true
+		}
+		// c.CollState == 1 已采
+		return false
+	})
+	return ms100
+}
+
+// bossBattleScene BOSS战斗场景
+func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
+	Fight.Lock()
+	defer func() {
+		go func() {
+			_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: xsdID, BossId: bossID})
+		}()
+		_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+		Fight.Unlock()
+	}()
+	if RoleInfo.Get(field).Int64() <= 0 {
+		return TomorrowDuration(RandMillisecond(30000, 30600))
+	}
+	ctx, cancel := context.WithCancel(context.Background())
+	defer cancel()
+	// 地图怪
+	monster := make([]*S2CMonsterEnterMap, 0)
+	go monsterEnterMap(ctx, &monster)
+	// 怪信息
+	bossInfoChan := make(chan *S2CXsdBossInfo)
+	defer close(bossInfoChan)
+	go func() {
+		info := &S2CXsdBossInfo{}
+		if err := Receive.Wait(info, s3); err != nil {
+			bossInfoChan <- nil
+		} else {
+			bossInfoChan <- info
+		}
+	}()
+	join := &S2CXsdBossJoinScene{}
+	go func() {
+		_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: xsdID, BossId: bossID})
+	}()
+	_ = Receive.Wait(join, s3)
+	<-bossInfoChan // 等待BOSS信息返回
+	// 打怪
+	if len(monster) > 0 {
+		// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
+		var HP = make([]int64, 0)
+		for i := range monster {
+			HP = append(HP, monster[i].Hp)
+		}
+		sort.Slice(HP, func(i, j int) bool {
+			return HP[i] > HP[j]
+		})
+		for _, hp := range HP {
+			// 找到同等血量的怪
+			idx := -1
+			for i, m := range monster {
+				if m.Hp == hp {
+					idx = i
+					break
 				}
-				if idx == -1 {
-					continue
+			}
+			if idx == -1 {
+				continue
+			}
+			// 开打
+			for {
+				go func(i int) {
+					_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
+				}(idx)
+				sfChan := make(chan *S2CStartFight)
+				go func() {
+					sf := &S2CStartFight{}
+					if err := Receive.Wait(sf, s3); err != nil {
+						sfChan <- nil
+					} else {
+						sfChan <- sf
+					}
+				}()
+				r := &S2CBattlefieldReport{}
+				_ = Receive.Wait(r, s3)
+				if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
+					break
 				}
-				// 开打
-				for {
-					go func(i int) {
-						_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
-					}(idx)
-					sfChan := make(chan *S2CStartFight)
-					go func() {
-						sf := &S2CStartFight{}
-						if err := Receive.Wait(sf, s3); err != nil {
-							sfChan <- nil
-						} else {
-							sfChan <- sf
-						}
-					}()
-					r := &S2CBattlefieldReport{}
-					_ = Receive.Wait(r, s3)
-					if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
-						break
-					}
-					if r.Win == 1 { // 斗报胜利
-						break
-					}
-					time.Sleep(RandMillisecond(1, 3))
+				if r.Win == 1 { // 斗报胜利
+					break
 				}
 				time.Sleep(RandMillisecond(1, 3))
 			}
+			time.Sleep(RandMillisecond(1, 3))
 		}
-		return s3
 	}
-	t2 := time.NewTimer(ms100)
-	f2 := func() time.Duration {
-		Fight.Lock()
-		defer func() {
-			go func() {
-				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 1, BossId: 7})
-			}()
-			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
-			Fight.Unlock()
-		}()
-		if RoleInfo.Get("XsdXsdDayCollectTimes").Int64() >= 3 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
-		ctx, cancel := context.WithCancel(context.Background())
-		defer cancel()
-		// 地图怪
-		monster := make([]*S2CMonsterEnterMap, 0)
-		go monsterEnterMap(ctx, &monster)
-		// 怪信息
-		bossInfoChan := make(chan *S2CXsdBossInfo)
-		defer close(bossInfoChan)
-		go func() {
-			info := &S2CXsdBossInfo{}
-			if err := Receive.Wait(info, s30); err != nil {
-				bossInfoChan <- nil
-			} else {
-				bossInfoChan <- info
-			}
-		}()
-		join := &S2CXsdBossJoinScene{}
-		go func() {
-			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 1, BossId: 7})
-		}()
-		_ = Receive.Wait(join, s30)
-		bossList := <-bossInfoChan
-		if bossList == nil {
-			return ms100
-		}
-		for _, boss := range bossList.Items {
-			if boss.BossId == 7 {
-				if boss.State != 0 || boss.ReliveTimestamp == 0 {
-					break
-				}
-				cur := time.Now()
-				brt := time.Unix(boss.ReliveTimestamp, 0).Local()
-				if cur.Before(brt) {
-					v := brt.Add(s6).Sub(cur)
-					log.Printf("[C][BOSS-凶神岛] 采集还需要等待：%s", v)
-					return v
-				}
-				break
-			}
-		}
-		//
-		//go func() {
-		//	_ = CLI.DropItems(39051)
-		//}()
-		//item := &S2CGetDropItems{}
-		//_ = Receive.Wait(item, s30)
-		//
-		go func() {
-			_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: 1, CollId: 7, CollAct: 0})
-		}()
-		ListenMessageCall(ctx, &S2CXsdCollect{}, func(data []byte) {
-			c := &S2CXsdCollect{}
-			c.Message(data)
-			if c.Tag == 0 && c.XsdId == 1 && c.CollId == 7 && c.CollState == 1 {
-				fmt.Println(c)
-			}
-			fmt.Println(c)
-		})
+	return s3
+}
 
-		return ms100
-	}
-	//defer t1.Stop()
-	//defer t2.Stop()
+func BossXSD() {
+	t1 := time.NewTimer(ms100)
+	t2 := time.NewTimer(ms100)
+	defer t1.Stop()
+	defer t2.Stop()
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(f1())
+			t1.Reset(bossBattleScene("XsdXsdDayFightTimes", 1, 1))
 		case <-t2.C:
-			t2.Reset(f2())
+			t2.Reset(collectSC("XsdXsdDayCollectTimes", 1, 7))
 		}
 	}
 }
 
 func BossXMD() {
 	t1 := time.NewTimer(ms100)
-	f1 := func() time.Duration {
-		Fight.Lock()
-		defer func() {
-			go func() {
-				_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: 2, BossId: 1})
-			}()
-			_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
-			Fight.Unlock()
-		}()
-		if RoleInfo.Get("XsdXmdDayFightTimes").Int64() <= 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
-		ctx, cancel := context.WithCancel(context.Background())
-		defer cancel()
-		// 地图怪
-		monster := make([]*S2CMonsterEnterMap, 0)
-		go monsterEnterMap(ctx, &monster)
-		// 怪信息
-		bossInfoChan := make(chan *S2CXsdBossInfo)
-		defer close(bossInfoChan)
-		go func() {
-			info := &S2CXsdBossInfo{}
-			if err := Receive.Wait(info, s3); err != nil {
-				bossInfoChan <- nil
-			} else {
-				bossInfoChan <- info
-			}
-		}()
-		join := &S2CXsdBossJoinScene{}
-		go func() {
-			_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: 2, BossId: 1})
-		}()
-		_ = Receive.Wait(join, s3)
-		<-bossInfoChan // 等待BOSS信息返回
-		// 打怪
-		if len(monster) > 0 {
-			// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
-			var HP = make([]int64, 0)
-			for i := range monster {
-				HP = append(HP, monster[i].Hp)
-			}
-			sort.Slice(HP, func(i, j int) bool {
-				return HP[i] > HP[j]
-			})
-			for _, hp := range HP {
-				// 找到同等血量的怪
-				idx := -1
-				for i, m := range monster {
-					if m.Hp == hp {
-						idx = i
-						break
-					}
-				}
-				if idx == -1 {
-					continue
-				}
-				// 开打
-				for {
-					go func(i int) {
-						_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
-					}(idx)
-					sfChan := make(chan *S2CStartFight)
-					go func() {
-						sf := &S2CStartFight{}
-						if err := Receive.Wait(sf, s3); err != nil {
-							sfChan <- nil
-						} else {
-							sfChan <- sf
-						}
-					}()
-					r := &S2CBattlefieldReport{}
-					_ = Receive.Wait(r, s3)
-					if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
-						break
-					}
-					if r.Win == 1 { // 斗报胜利
-						break
-					}
-					time.Sleep(RandMillisecond(1, 3))
-				}
-				time.Sleep(RandMillisecond(1, 3))
-			}
-		}
-		return s3
-	}
 	t2 := time.NewTimer(ms100)
-	f2 := func() time.Duration {
-		if RoleInfo.Get("XsdXmdDayCollectTimes").Int64() <= 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
-		return ms100
-	}
 	defer t1.Stop()
 	defer t2.Stop()
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(f1())
+			t1.Reset(bossBattleScene("XsdXmdDayFightTimes", 2, 1))
 		case <-t2.C:
-			t1.Reset(f2())
+			t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
 		}
 	}
 }
