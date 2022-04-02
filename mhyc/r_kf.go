@@ -12,11 +12,15 @@ func KuaFu(ctx context.Context) {
 	// 幻境
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
-	f1 := func() time.Duration {
+	// 11 2 1
+	f1 := func(IllusionType int32) time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			Receive.Action(CLI.IllusionDelTeam)
+			_ = Receive.Wait(&S2CIllusionDelTeam{}, s3)
+			Fight.Unlock()
+		}()
 		// 章
-		IllusionType := int32(2) // 11 2 1
 		go func() {
 			_ = CLI.IllusionData(IllusionType)
 		}()
@@ -32,7 +36,7 @@ func KuaFu(ctx context.Context) {
 			}
 		}
 		if ChapterData.ChapterId == 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return RandMillisecond(1800, 3600)
 		}
 		// 节
 		go func() {
@@ -58,31 +62,116 @@ func KuaFu(ctx context.Context) {
 			return ms100
 		}
 		//
-		SelfFV := RoleInfo.Get("FightValue").Int64()
-		for _, ir := range []int32{5, 1, 2, 3} {
-			go func() {
-				_ = CLI.GetIllusionCanInviteList(ir, &teamParam)
-			}()
-			userList := &S2CGetIllusionCanInviteList{}
-			if err := Receive.Wait(userList, s3); err != nil {
-				return ms100
+		cx, cancel := context.WithTimeout(ctx, s20) // 最大搜寻队友时间
+		defer cancel()
+		// 组成人员
+		ListenMessageCall(cx, &S2CIllusionMyTeam{}, func(data []byte) {
+			info := &S2CIllusionMyTeam{}
+			info.Message(data)
+			if len(info.Team.Users) >= 3 {
+				return
 			}
-			for _, user := range userList.Users {
-				if user.Fv > SelfFV {
-					go func(ir int32, uid int64) {
-						_ = CLI.IllusionTeamInviteUser(ir, uid)
-					}(ir, user.UserId)
+		})
+		// 邀人
+		go func() {
+			tc := time.NewTimer(ms100)
+			defer tc.Stop()
+			for {
+				select {
+				case <-tc.C:
+					MyFV := RoleInfo.Get("FightValue").Int64()
+					for _, ir := range []int32{1, 2, 3} {
+						go func() {
+							_ = CLI.GetIllusionCanInviteList(ir, &teamParam)
+						}()
+						userList := &S2CGetIllusionCanInviteList{}
+						if err := Receive.Wait(userList, s3); err != nil {
+							tc.Reset(ms500)
+							break
+						}
+						for _, user := range userList.Users {
+							if user.Fv > MyFV {
+								go func(ir int32, uid int64) {
+									_ = CLI.IllusionTeamInviteUser(ir, uid)
+								}(ir, user.UserId)
+							}
+						}
+						tc.Reset(time.Second * 62)
+					}
+				case <-cx.Done():
+					ir := int32(5)
+					go func() {
+						_ = CLI.GetIllusionCanInviteList(ir, &teamParam)
+					}()
+					userList := &S2CGetIllusionCanInviteList{}
+					if err := Receive.Wait(userList, s3); err != nil {
+						tc.Reset(ms500)
+						break
+					}
+					for _, user := range userList.Users {
+						go func(ir int32, uid int64) {
+							_ = CLI.IllusionTeamInviteUser(ir, uid)
+						}(ir, user.UserId)
+
+					}
+					return
 				}
 			}
-		}
-
-		return time.Second
+		}()
+		// 监听加入
+		ListenMessageCall(cx, &S2CIllusionTeamInvite{}, func(data []byte) {
+			ti := &S2CIllusionTeamInvite{}
+			ti.Message(data)
+			if ti.Tag == 56119 { // 拒绝
+				return
+			}
+		})
+		// 组队开战
+		func() {
+			n := 0
+			t := time.NewTimer(time.Second)
+			defer t.Stop()
+			for range t.C {
+				report := &S2CBattlefieldReport{}
+				rc := ListenMessageNotify(report, s3)
+				Receive.Action(CLI.IllusionFight)
+				fr := &S2CIllusionFight{}
+				_ = Receive.Wait(fr, s3)
+				<-rc
+				if fr.Tag == 0 && report.Win == 1 {
+					if fr.ChapterId >= 9 && fr.CheckPointId >= 9 {
+						return
+					}
+					n = 0
+					next := C2SIllusionTeamNextCheckPoint{IllusionType: IllusionType}
+					if fr.CheckPointId == 9 {
+						next.ChapterId = fr.ChapterId + 1
+						next.CheckPointId = 1
+					} else {
+						next.ChapterId = fr.ChapterId
+						next.CheckPointId = fr.CheckPointId + 1
+					}
+					go func() {
+						_ = CLI.IllusionTeamNextCheckPoint(&next)
+					}()
+					_ = Receive.Wait(&S2CIllusionTeamNextCheckPoint{}, s3)
+				}
+				if fr.Tag == 0 && report.Win == 0 && fr.RetStr == "" {
+					n++
+				}
+				if n >= 3 {
+					return
+				}
+				t.Reset(time.Second)
+			}
+		}()
+		return RandMillisecond(300, 600)
 	}
 
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(f1())
+			t1.Reset(f1(2))
 		case <-ctx.Done():
 			return
 		}
@@ -109,6 +198,97 @@ func (x *S2CIllusionChapterData) ID() uint16 {
 func (x *S2CIllusionChapterData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][IllusionChapterData] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+// IllusionDelTeam 离开组队
+func (c *Connect) IllusionDelTeam() error {
+	body, err := proto.Marshal(&C2SIllusionDelTeam{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][IllusionDelTeam]")
+	return c.send(25719, body)
+}
+
+func (x *S2CIllusionDelTeam) ID() uint16 {
+	return 25720
+}
+
+// Message S2CIllusionDelTeam Code:25720
+func (x *S2CIllusionDelTeam) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][IllusionDelTeam] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+// IllusionFight 组队开战
+func (c *Connect) IllusionFight() error {
+	body, err := proto.Marshal(&C2SIllusionFight{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][IllusionFight]")
+	return c.send(25721, body)
+}
+
+func (x *S2CIllusionFight) ID() uint16 {
+	return 25722
+}
+
+// Message S2CIllusionFight Code:25722
+func (x *S2CIllusionFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][IllusionFight] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+// IllusionTeamNextCheckPoint 组队下一章节
+func (c *Connect) IllusionTeamNextCheckPoint(next *C2SIllusionTeamNextCheckPoint) error {
+	body, err := proto.Marshal(next)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][IllusionTeamNextCheckPoint]")
+	return c.send(25733, body)
+}
+
+func (x *S2CIllusionTeamNextCheckPoint) ID() uint16 {
+	return 25734
+}
+
+// Message S2CIllusionTeamNextCheckPoint Code:25734
+func (x *S2CIllusionTeamNextCheckPoint) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][IllusionTeamNextCheckPoint] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+// IllusionMyTeam 我的组队
+func (c *Connect) IllusionMyTeam() error {
+	body, err := proto.Marshal(&C2SIllusionMyTeam{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][IllusionMyTeam]")
+	return c.send(25707, body)
+}
+
+func (x *S2CIllusionMyTeam) ID() uint16 {
+	return 25708
+}
+
+// Message S2CIllusionMyTeam Code:25708
+func (x *S2CIllusionMyTeam) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	if x.Team == nil {
+		return
+	}
+	log.Printf("[S][S2CIllusionMyTeam] team_id=%v user_len=%v", x.Team.TeamId, len(x.Team.Users))
 }
 
 ////////////////////////////////////////////////////////////

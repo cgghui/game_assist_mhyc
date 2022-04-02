@@ -14,6 +14,8 @@ func Everyday(ctx context.Context) {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
 		f := func() time.Duration {
+			Fight.Lock()
+			defer Fight.Unlock()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11002})
@@ -49,6 +51,8 @@ func Everyday(ctx context.Context) {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
 		f := func() bool {
+			Fight.Lock()
+			defer Fight.Unlock()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11011})

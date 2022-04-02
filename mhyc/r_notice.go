@@ -164,3 +164,13 @@ func ListenMessageCallEx(hm HandleMessage, call func(data []byte) bool) {
 		}
 	}
 }
+
+func ListenMessageNotify(call HandleMessage, timeout ...time.Duration) <-chan struct{} {
+	notify := make(chan struct{})
+	go func() {
+		_ = Receive.Wait(call, timeout...)
+		notify <- struct{}{}
+		close(notify)
+	}()
+	return notify
+}

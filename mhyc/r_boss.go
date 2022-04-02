@@ -266,6 +266,9 @@ func BossHome() {
 			for _, info := range bossInfo.Items {
 				timeList = append(timeList, info.ReliveTimestamp)
 			}
+			if len(timeList) == 0 {
+				return s60
+			}
 			sort.Slice(timeList, func(i, j int) bool {
 				return timeList[i] > timeList[j]
 			})
@@ -479,7 +482,7 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 				}()
 				r := &S2CBattlefieldReport{}
 				_ = Receive.Wait(r, s3)
-				if s := <-sfChan; s.Tag == 57006 { // 凶兽未解锁//
+				if s := <-sfChan; s.Tag == 57006 || s.Tag == 57005 { // 凶兽未解锁//
 					break
 				}
 				if r.Win == 1 { // 斗报胜利

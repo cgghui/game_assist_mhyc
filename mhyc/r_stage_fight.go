@@ -28,12 +28,8 @@ func StageFight() {
 		for range tm.C {
 			Receive.Action(CLI.StageFight)
 			f := &S2CStageFight{}
-			if _ = Receive.Wait(f, s3); f.Tag == 31 {
+			if _ = Receive.Wait(f, s3); f.Tag == 31 || f.Tag == 9012 {
 				break
-			}
-			if f.Tag == 9012 {
-				tm.Reset(s30)
-				continue
 			}
 			if f.Tag == 0 {
 				_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
