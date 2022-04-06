@@ -138,11 +138,6 @@ func main() {
 				continue
 			}
 			mhyc.Receive.Notify(id, message[4:])
-			//if _, ok := mhyc.PCK[id]; !ok {
-			//	log.Printf("recv: id[%d] manage func non-existent", id)
-			//	continue
-			//}
-			//go mhyc.PCK[id].Message(message[4:])
 		}
 	}()
 

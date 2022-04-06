@@ -49,11 +49,11 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("AMJkhQgBEAIYAiDnCw==")
+	code, err := base64.StdEncoding.DecodeString("AOgAPQjE0wMQCA==")
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SIllusionTeamNextCheckPoint{}
+	var ma = &C2SStartFight{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}
