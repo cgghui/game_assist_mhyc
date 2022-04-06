@@ -475,7 +475,7 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 				go func() {
 					sf := &S2CStartFight{}
 					if err := Receive.Wait(sf, s3); err != nil {
-						sfChan <- nil
+						sfChan <- sf
 					} else {
 						sfChan <- sf
 					}
