@@ -121,6 +121,7 @@ func main() {
 		//go mhyc.BossHLTJ(ctx)
 		go mhyc.FuBen(ctx)
 		go mhyc.KuaFu(ctx)
+		go mhyc.HuoDong(ctx)
 	}()
 
 	go func() {

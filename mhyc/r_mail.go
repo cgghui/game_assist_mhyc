@@ -22,6 +22,14 @@ func Mail(ctx context.Context) {
 				}()
 				_ = Receive.Wait(&S2CGetMailAttach{}, s3)
 			}
+			for _, mail := range list.MailList {
+				if mail.AttachInfo == nil && mail.AttachData == nil {
+					go func() {
+						_ = CLI.ReadMail(&C2SReadMail{MailId: mail.MailId, MailType: mail.MailType})
+					}()
+					_ = Receive.Wait(&S2CReadMail{}, s3)
+				}
+			}
 			go func() {
 				_ = CLI.DelMail(DefineDelMailOrdinary)
 			}()
@@ -82,6 +90,16 @@ func (c *Connect) GetMailAttach(act *C2SGetMailAttach) error {
 	return c.send(444, body)
 }
 
+// ReadMail 读邮件
+func (c *Connect) ReadMail(act *C2SReadMail) error {
+	body, err := proto.Marshal(act)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][ReadMail] mail_id=%v mail_type=%v", act.MailId, act.MailType)
+	return c.send(448, body)
+}
+
 // DelMail 删除已读邮件
 func (c *Connect) DelMail(act *C2SDelMail) error {
 	body, err := proto.Marshal(act)
@@ -137,5 +155,17 @@ func (x *S2CNewMail) ID() uint16 {
 func (x *S2CNewMail) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][NewMail]")
+	return
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CReadMail) ID() uint16 {
+	return 449
+}
+
+func (x *S2CReadMail) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][ReadMail]")
 	return
 }

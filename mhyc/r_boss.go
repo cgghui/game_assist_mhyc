@@ -8,8 +8,8 @@ import (
 	"time"
 )
 
-const BossMultiID = int32(8) // 多人BOSS 7转
-const BossHomeID = 7         // 跨服 - BOSS之家 - 7层
+const BossMultiID = int32(9) // 多人BOSS  转
+const BossHomeID = 8         // 跨服 - BOSS之家 - 7层
 
 // BossPersonal 个人BOSS
 func BossPersonal() {

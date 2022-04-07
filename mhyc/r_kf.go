@@ -23,24 +23,24 @@ func illusionSweep() time.Duration {
 }
 
 func yiJi() time.Duration {
-	Receive.Action(CLI.YiJiInfo)
-	var info S2CYiJiInfo
-	_ = Receive.Wait(&info, s3)
-	if len(info.Items) == 0 {
-		return time.Second
-	}
-	id := int32(0)
-	for _, item := range info.Items {
-		if item.BossState == 1 {
-			id = item.Id
-			break
-		}
-	}
-	// 进入
-	go func() {
-		_ = CLI.YiJiJoinScene(id)
-	}()
-	_ = Receive.Wait(&S2CYiJiJoinScene{}, s3)
+	//Receive.Action(CLI.YiJiInfo)
+	//var info S2CYiJiInfo
+	//_ = Receive.Wait(&info, s3)
+	//if len(info.Items) == 0 {
+	//	return time.Second
+	//}
+	//id := int32(0)
+	//for _, item := range info.Items {
+	//	if item.BossState == 1 {
+	//		id = item.Id
+	//		break
+	//	}
+	//}
+	//// 进入
+	//go func() {
+	//	_ = CLI.YiJiJoinScene(id)
+	//}()
+	//_ = Receive.Wait(&S2CYiJiJoinScene{}, s3)
 
 	return TomorrowDuration(RandMillisecond(30000, 30600))
 }

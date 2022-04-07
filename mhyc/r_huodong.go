@@ -7,23 +7,73 @@ import (
 	"time"
 )
 
+// actSbhsTime 双倍护送时间
+func actSbhsTime() time.Duration {
+	cur := time.Now()
+	actStartTime := []time.Time{
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 11, 30, 10, 0, time.Local),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 18, 30, 10, 0, time.Local),
+	}
+	for _, ast := range actStartTime {
+		if cur.Before(ast) {
+			return ast.Sub(cur)
+		}
+		if cur.Before(ast.Add(150 * time.Minute)) {
+			return 0
+		}
+	}
+	return TomorrowDuration(3 * time.Hour)
+}
+
+// actSbhs 双倍护送
+func actSbhs() time.Duration {
+	if td := actSbhsTime(); td != 0 {
+		return td
+	}
+	Receive.Action(CLI.GetWestExp)
+	var west S2CGetWestExp
+	if err := Receive.Wait(&west, s3); err != nil {
+		return ms500
+	}
+
+	return 0
+}
+
 // HuoDong 活动
 func HuoDong(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
-	f1 := func(IllusionType int32) time.Duration {
-
-		return RandMillisecond(300, 600)
-	}
 
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(f1(2))
+			t1.Reset(actSbhs())
 		case <-ctx.Done():
 			return
 		}
 	}
+}
+
+////////////////////////////////////////////////////////////
+
+// GetProtectPlayer 护送列表
+func (c *Connect) GetProtectPlayer() error {
+	body, err := proto.Marshal(&C2SGetProtectPlayer{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][C2SGetProtectPlayer] get_type=%v", 1)
+	return c.send(461, body)
+}
+
+func (x *S2CGetProtectPlayer) ID() uint16 {
+	return 462
+}
+
+// Message S2CGetProtectPlayer Code:462
+func (x *S2CGetProtectPlayer) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetProtectPlayer] list=%v", x.List)
 }
 
 ////////////////////////////////////////////////////////////
@@ -34,7 +84,7 @@ func (c *Connect) GetWestExp() error {
 	if err != nil {
 		return err
 	}
-	log.Printf("[C][C2SGetWestExp] get_type=%v", 0)
+	log.Printf("[C][GetWestExp] get_type=%v", 0)
 	return c.send(463, body)
 }
 
@@ -44,7 +94,7 @@ func (c *Connect) GetWestExpRef() error {
 	if err != nil {
 		return err
 	}
-	log.Printf("[C][C2SGetWestExp] get_type=%v", 1)
+	log.Printf("[C][GetWestExp] get_type=%v", 1)
 	return c.send(463, body)
 }
 
