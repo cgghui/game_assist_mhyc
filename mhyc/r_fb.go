@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
+	"strconv"
 	"time"
 )
 
@@ -47,7 +48,13 @@ func FuBen(ctx context.Context) {
 	defer t2.Stop()
 	f2 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 1})
+			}()
+			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			Fight.Unlock()
+		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 1})
@@ -70,10 +77,7 @@ func FuBen(ctx context.Context) {
 				break
 			}
 		}
-		go func() {
-			_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 1})
-		}()
-		_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+
 		return ms100
 	}
 	// 爬塔 天仙
@@ -81,7 +85,13 @@ func FuBen(ctx context.Context) {
 	defer t3.Stop()
 	f3 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 2})
+			}()
+			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			Fight.Unlock()
+		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 2})
@@ -104,10 +114,6 @@ func FuBen(ctx context.Context) {
 				break
 			}
 		}
-		go func() {
-			_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 2})
-		}()
-		_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
 		return ms100
 	}
 	// 爬塔 战神
@@ -115,7 +121,13 @@ func FuBen(ctx context.Context) {
 	defer t4.Stop()
 	f4 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 3})
+			}()
+			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			Fight.Unlock()
+		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 3})
@@ -138,10 +150,6 @@ func FuBen(ctx context.Context) {
 				break
 			}
 		}
-		go func() {
-			_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 3})
-		}()
-		_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
 		return ms100
 	}
 	// 爬塔 仙童
@@ -149,7 +157,13 @@ func FuBen(ctx context.Context) {
 	defer t5.Stop()
 	f5 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 4})
+			}()
+			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			Fight.Unlock()
+		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 4})
@@ -172,10 +186,6 @@ func FuBen(ctx context.Context) {
 				break
 			}
 		}
-		go func() {
-			_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 4})
-		}()
-		_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
 		return ms100
 	}
 	// 爬塔 剑魂
@@ -183,7 +193,13 @@ func FuBen(ctx context.Context) {
 	defer t6.Stop()
 	f6 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		defer func() {
+			go func() {
+				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 5})
+			}()
+			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			Fight.Unlock()
+		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 5})
@@ -206,10 +222,13 @@ func FuBen(ctx context.Context) {
 				break
 			}
 		}
-		go func() {
-			_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 5})
-		}()
-		_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+		// 分解
+		Receive.Action(CLI.SwordSoulResolveJH)
+		_ = Receive.Wait(&S2CSwordSoulResolve{}, s3)
+		// 每日奖励
+		Receive.Action(CLI.ClimbingTowerGetSwordSoulDayPrize)
+		_ = Receive.Wait(&S2CClimbingTowerGetSwordSoulDayPrize{}, s3)
+		//
 		return ms100
 	}
 	// 组队 灵气
@@ -342,8 +361,7 @@ func FuBen(ctx context.Context) {
 		_ = Receive.Wait(report, s3)
 		return ms100
 	}
-	//
-	// cp 1 2
+	// 仙林狩猎
 	t11 := time.NewTimer(ms100)
 	defer t11.Stop()
 	f11 := func() time.Duration {
@@ -394,7 +412,47 @@ func FuBen(ctx context.Context) {
 		_ = Receive.Wait(&S2CJungleHuntReset{}, s3)
 		return ms100
 	}
-	//
+	// 快捷挖宝
+	t12 := time.NewTimer(ms100)
+	defer t12.Stop()
+	f12 := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
+		go func() {
+			_ = CLI.DigTreasure10Times(1)
+		}()
+		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
+		go func() {
+			_ = CLI.DigTreasure10Times(2)
+		}()
+		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
+		go func() {
+			_ = CLI.DigTreasure10Times(3)
+		}()
+		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
+		return TomorrowDuration(RandMillisecond(30000, 30600))
+	}
+	// 秘境探险
+	t13 := time.NewTimer(ms10)
+	defer t13.Stop()
+	f13 := func() time.Duration {
+		Fight.Lock()
+		defer Fight.Unlock()
+		// 扫荡
+		Receive.Action(CLI.YJFBSweep)
+		_ = Receive.Wait(&S2CYJFBSweep{}, s3)
+		//
+		go func() {
+			_ = CLI.GetYJFBGuanQiaData(3, 2)
+		}()
+		data := &S2CGetYJFBGuanQiaData{}
+		for _, g := range data.Grids {
+			if g.State == 1 {
+
+			}
+		}
+		return TomorrowDuration(RandMillisecond(30000, 30600))
+	}
 	for {
 		select {
 		case <-t1.C:
@@ -419,6 +477,10 @@ func FuBen(ctx context.Context) {
 			t10.Reset(f10())
 		case <-t11.C:
 			t11.Reset(f11())
+		case <-t12.C:
+			t12.Reset(f12())
+		case <-t13.C:
+			t13.Reset(f13())
 		case <-ctx.Done():
 			return
 		}
@@ -710,4 +772,111 @@ func (x *S2CJungleHuntData) ID() uint16 {
 func (x *S2CJungleHuntData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][JungleHuntData] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) SwordSoulResolveJH() error {
+	id := strconv.FormatInt(RoleInfo.Get("UserId").Int64(), 10) + "_88030"
+	body, err := proto.Marshal(&C2SSwordSoulResolve{ItemIds: []string{id}})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][SwordSoulResolve] item_ids=%v", id)
+	return c.send(3205, body)
+}
+
+func (x *S2CSwordSoulResolve) ID() uint16 {
+	return 3206
+}
+
+// Message S2CSwordSoulResolve 3206
+func (x *S2CSwordSoulResolve) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][SwordSoulResolve] tag=%v item_ids=%v", x.Tag, x.ItemIds)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) ClimbingTowerGetSwordSoulDayPrize() error {
+	body, err := proto.Marshal(&C2SClimbingTowerGetSwordSoulDayPrize{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][ClimbingTowerGetSwordSoulDayPrize]")
+	return c.send(22581, body)
+}
+
+func (x *S2CClimbingTowerGetSwordSoulDayPrize) ID() uint16 {
+	return 22582
+}
+
+// Message S2CClimbingTowerGetSwordSoulDayPrize 22582
+func (x *S2CClimbingTowerGetSwordSoulDayPrize) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][SwordSoulResolve] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+// YJFBSweep 秘境探险
+func (c *Connect) YJFBSweep() error {
+	body, err := proto.Marshal(&C2SYJFBSweep{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][YJFBSweep]")
+	return c.send(27207, body)
+}
+
+func (x *S2CYJFBSweep) ID() uint16 {
+	return 27208
+}
+
+// Message S2CYJFBSweep 27208
+func (x *S2CYJFBSweep) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][YJFBSweep] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) DigTreasure10Times(id int32) error {
+	body, err := proto.Marshal(&C2SDigTreasure10Times{Id: id})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][DigTreasure10Times] id=%v", id)
+	return c.send(22513, body)
+}
+
+func (x *S2CDigTreasure10Times) ID() uint16 {
+	return 22514
+}
+
+// Message S2CDigTreasure10Times 22514
+func (x *S2CDigTreasure10Times) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][DigTreasure10Times] tag=%v id=%v list=%v", x.Tag, x.Id, x.List)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) GetYJFBGuanQiaData(fuBenId, guangQiaId int32) error {
+	body, err := proto.Marshal(&C2SGetYJFBGuanQiaData{FuBenId: fuBenId, GuanQiaId: guangQiaId})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][GetYJFBGuanQiaData] fu_ben_id=%v guang_qia_id=%v", fuBenId, guangQiaId)
+	return c.send(27201, body)
+}
+
+func (x *S2CGetYJFBGuanQiaData) ID() uint16 {
+	return 27202
+}
+
+// Message S2CGetYJFBGuanQiaData 27202
+func (x *S2CGetYJFBGuanQiaData) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetYJFBGuanQiaData] tag=%v %v", x.Tag, x)
 }

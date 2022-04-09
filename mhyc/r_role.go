@@ -88,6 +88,42 @@ func (x *S2CRoleInfo) Message(data []byte) {
 
 ////////////////////////////////////////////////////////////
 
+func (x *S2CChangeMap) ID() uint16 {
+	return 51
+}
+
+// Message S2CChangeMap Code:51
+func (x *S2CChangeMap) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][切换地图] tag=%v id=%d x=%d y=%d", x.Tag, x.MapId, x.X, x.Y)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CPlayerEnterMap) ID() uint16 {
+	return 57
+}
+
+// Message S2CPlayerEnterMap Code:57
+func (x *S2CPlayerEnterMap) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][玩家进入地图] user_id=%v x=%v y=%v", x.UserId, x.X, x.Y)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CPlayerLeaveMap) ID() uint16 {
+	return 58
+}
+
+// Message S2CPlayerEnterMap Code:58
+func (x *S2CPlayerLeaveMap) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][玩家离开地图] user_id=%v", x.UserId)
+}
+
+////////////////////////////////////////////////////////////
+
 func (x *S2CBattlefieldReport) ID() uint16 {
 	return 101
 }

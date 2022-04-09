@@ -293,8 +293,3 @@ func (x *S2CLogin) Message(data []byte) {
 	log.Printf("recv: [Login] 登录成功 用户ID: %d", x.UserId)
 	return
 }
-
-func (x *S2CChangeMap) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ChangeMap] id=%d x=%d y=%d", x.MapId, x.X, x.Y)
-}

@@ -8,8 +8,12 @@ import (
 	"time"
 )
 
-const BossMultiID = int32(9) // 多人BOSS  转
-const BossHomeID = 8         // 跨服 - BOSS之家 - 7层
+const BossMultiID = int32(9) // 多人BOSS
+const BossHomeID = 8         // 跨服 - BOSS之家
+
+// HltjID 1101 1102 1103 1104 1105
+// HltjID 1201 1202 1203 1204 1205
+const HltjID = int32(1204) // 幻灵天界
 
 // BossPersonal 个人BOSS
 func BossPersonal() {
@@ -222,21 +226,11 @@ func BossHome() {
 			_ = Receive.Wait(&S2CBossHomeLeaveScene{}, s3)
 			Fight.Unlock()
 		}()
-		if RoleInfo.Get("BossHome_BodyPower").Int64() < 10 {
-			// 领取奖励，明天再战
-			Receive.Action(CLI.HomeBossReceiveTempBag)
-			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
 		ctx, cancel := context.WithCancel(context.Background())
 		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go ListenMessageCall(ctx, &S2CMonsterEnterMap{}, func(data []byte) {
-			var r S2CMonsterEnterMap
-			_ = proto.Unmarshal(data, &r)
-			monster = append(monster, &r)
-		})
+		go monsterEnterMap(ctx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CHomeBossInfo)
 		defer close(bossInfoChan)
@@ -254,7 +248,10 @@ func BossHome() {
 		bossInfo := <-bossInfoChan // 等待BOSS信息返回
 		// 挑战体力不足
 		if join.Tag == 4049 {
-			return ms100
+			// 领取奖励，明天再战
+			Receive.Action(CLI.HomeBossReceiveTempBag)
+			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
+			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
 		// 地图内无怪时
 		// 尝试等待所有怪冷却后再战
@@ -388,7 +385,7 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 			cur := time.Now()
 			brt := time.Unix(boss.ReliveTimestamp, 0).Local()
 			if cur.Before(brt) {
-				return brt.Add(s6).Sub(cur)
+				return brt.Add(ms100).Sub(cur)
 			}
 			break
 		}
@@ -482,7 +479,7 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 				}()
 				r := &S2CBattlefieldReport{}
 				_ = Receive.Wait(r, s3)
-				if s := <-sfChan; s.Tag == 57006 || s.Tag == 57005 { // 凶兽未解锁//
+				if s := <-sfChan; s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
 					break
 				}
 				if r.Win == 1 { // 斗报胜利
@@ -527,31 +524,117 @@ func BossXMD() {
 }
 
 func BossHLTJ(ctx context.Context) {
-	t1 := time.NewTimer(ms100)
+	t1 := time.NewTimer(time.Second)
 	f1 := func() time.Duration {
-		insID := int32(1103)
 		Fight.Lock()
 		defer func() {
 			go func() {
-				_ = CLI.LeaveHLFB(&C2SLeaveHLFB{InsId: 1102})
+				_ = CLI.LeaveHLFB(&C2SLeaveHLFB{InsId: HltjID})
 			}()
 			_ = Receive.Wait(&S2CLeaveHLFB{}, s3)
 			Fight.Unlock()
 		}()
 		go func() {
-			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: insID, Type: 1})
+			_ = CLI.C2SGetHLBossList(HltjID)
+		}()
+		bossList := &S2CGetHLBossList{}
+		_ = Receive.Wait(bossList, s3)
+		// 进入场景
+		go func() {
+			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: HltjID, Type: 2})
 		}()
 		_ = Receive.Wait(&S2CEnterHLFB{}, s3)
 		// 组队
 		go func() {
-			_ = CLI.CreateTeam(&C2SCreateTeam{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(insID), Key4: 0})
+			_ = CLI.CreateTeam(&C2SCreateTeam{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(HltjID), Key4: 0})
 		}()
-		_ = Receive.Wait(&S2CCreateTeam{}, s3)
+		var ct S2CCreateTeam
+		_ = Receive.Wait(&ct, s3)
+		defer func() {
+			go func() {
+				_ = CLI.LeaveTeam(ct.Team.TeamId)
+			}()
+			_ = Receive.Wait(&S2CLeaveTeam{}, s3)
+		}()
 		go func() {
-			_ = CLI.Teams(&C2STeams{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(insID), Key4: 0})
+			_ = CLI.Teams(&C2STeams{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(HltjID), Key4: 0})
 		}()
 		_ = Receive.Wait(&S2CTeams{}, s3)
-		return ms500
+		go func() {
+			_ = CLI.InviteTeam(ct.Team.TeamId, 5)
+		}()
+		var teamInfo S2CTeamInfo // 等待成员加入
+		ListenMessageCallEx(&S2CTeamInfo{}, func(data []byte) bool {
+			teamInfo.Message(data)
+			return len(teamInfo.Players) < 3
+		})
+		// 120402
+		ReviveList := make([]int64, 0)
+		for _, hl := range bossList.HLBossList {
+			if hl.Revive == 0 {
+				continue
+			}
+			ReviveList = append(ReviveList, hl.Revive)
+		}
+		if len(ReviveList) == 4 {
+			sort.Slice(ReviveList, func(i, j int) bool {
+				return ReviveList[i] > ReviveList[j]
+			})
+			ttm := time.Unix(ReviveList[0], 0).Local()
+			cur := time.Now()
+			if cur.Before(ttm) {
+				return ttm.Add(ms100).Sub(cur)
+			}
+			return s60
+		}
+		tc := time.NewTimer(ms500)
+		defer tc.Stop()
+		PveChan := make(chan *S2CStartFightHLPVE)
+		defer close(PveChan)
+		i := 0
+		for range tc.C {
+			if i > len(bossList.HLBossList) {
+				break
+			}
+			boss := bossList.HLBossList[i]
+			if boss.Revive != 0 {
+				i++
+				tc.Reset(ms500)
+				continue
+			}
+			go func() {
+				go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
+					r := &S2CStartFightHLPVE{}
+					r.Message(data)
+					PveChan <- r
+					return false
+				})
+				_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
+			}()
+			r := &S2CBattlefieldReport{}
+			_ = Receive.Wait(r, s3)
+			p := <-PveChan
+			if p.Tag == 56713 { // 复活中
+				ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
+				cur := time.Now()
+				if cur.Before(ttm) {
+					return ttm.Add(time.Second).Sub(cur)
+				}
+				return s3
+			}
+			if p.Tag == 56714 {
+				go func() {
+					_ = CLI.WareHouseReceiveItem(2)
+				}()
+				_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+				return TomorrowDuration(RandMillisecond(30000, 30600))
+			}
+			if r.Win == 1 && p.Tag == 0 {
+				i++
+			}
+			tc.Reset(ms500)
+		}
+		return s60
 	}
 	//
 	for {
@@ -1088,4 +1171,46 @@ func (x *S2CLeaveHLFB) ID() uint16 {
 func (x *S2CLeaveHLFB) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][LeaveHLFB] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) StartFightHLPVE(s *C2SStartFightHLPVE) error {
+	body, err := proto.Marshal(s)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][StartFightHLPVE] ins_id=%v boss_id=%v", s.InsId, s.BossId)
+	return c.send(27137, body)
+}
+
+func (x *S2CStartFightHLPVE) ID() uint16 {
+	return 27138
+}
+
+// Message S2CStartFightHLPVE 27138
+func (x *S2CStartFightHLPVE) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][StartFightHLPVE] tag=%v tag_p=%v boss_id=%v", x.Tag, x.TagP, x.BossId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) C2SGetHLBossList(insID int32) error {
+	body, err := proto.Marshal(&C2SGetHLBossList{InsId: insID})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][GetHLBossList] ins_id=%v", insID)
+	return c.send(27131, body)
+}
+
+func (x *S2CGetHLBossList) ID() uint16 {
+	return 27132
+}
+
+// Message S2CGetHLBossList 27132
+func (x *S2CGetHLBossList) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetHLBossList] tag=%v hl_boss_list=%v", x.Tag, x.HLBossList)
 }

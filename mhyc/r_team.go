@@ -46,3 +46,66 @@ func (x *S2CTeams) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][Teams] %v", x)
 }
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) InviteTeam(teamID int64, inviteType int32) error {
+	body, err := proto.Marshal(&C2SInviteTeam{TeamId: teamID, UserId: 0, InviteType: inviteType})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][InviteTeam] team_id=%v invite_type=%v", teamID, inviteType)
+	return c.send(27109, body)
+}
+
+func (x *S2CInviteTeam) ID() uint16 {
+	return 27110
+}
+
+// Message S2CInviteTeam 27110
+func (x *S2CInviteTeam) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][InviteTeam] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) TeamInfo() error {
+	body, err := proto.Marshal(&C2STeamInfo{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][组队信息]")
+	return c.send(27103, body)
+}
+
+func (x *S2CTeamInfo) ID() uint16 {
+	return 27104
+}
+
+// Message S2CTeamInfo 27104
+func (x *S2CTeamInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][组队信息] tag=%v team=%v players=%v", x.Tag, x.Team, x.Players)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) LeaveTeam(teamID int64) error {
+	body, err := proto.Marshal(&C2SLeaveTeam{TeamId: teamID})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][退出组队]")
+	return c.send(27111, body)
+}
+
+func (x *S2CLeaveTeam) ID() uint16 {
+	return 27112
+}
+
+// Message S2CLeaveTeam 27112
+func (x *S2CLeaveTeam) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][退出组队] tag=%v func_id=%v", x.Tag, x.FuncId)
+}

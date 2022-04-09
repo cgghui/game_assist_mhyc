@@ -49,11 +49,11 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("JtIBzgpFCNL+6xkQARoG5peg5ZCNIgzlvIDlv4PlsLHlpb0o6NP4EzAFON/7uZIGSANQAVjq6OoOYJa26w5oxhlw2gJ6BVMzMjcwCkMI6sXVGRABGgnlsI/nmb3pvpkiBuW5vemDvSiSq/KIATAFOMv3uZIGSANQAVia6OoOYIK26w5ovxlwqAN6BVMzMjYzCkgIgobyGRABGgnlhZzlhZzpo54iDOS/ruS7meaIkOmtlCj46rs1MAU4uvy5kgZAAUgCWPbp6g5gqrbrDmjIGXCeA3oFUzMyNzIKRgjdktIZEAEaDOiAl+WtkOWwvuaxgSIG6JCn5a62KKyb8IYBMAU4g/i5kgZIA1ABWPbp6g5gtLbrDmi+GXCmA3oFUzMyNjI=")
+	code, err := base64.StdEncoding.DecodeString("AN5qRQgDEAIaBAgREAo=")
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &S2CGetProtectPlayer{}
+	var ma = &C2SYJFBGuanQiaTriggerEvent{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}

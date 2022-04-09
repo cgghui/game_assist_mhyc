@@ -155,6 +155,7 @@ func ListenMessageCall(ctx context.Context, hm HandleMessage, call func(data []b
 	}
 }
 
+// ListenMessageCallEx call 返回false退出监听
 func ListenMessageCallEx(hm HandleMessage, call func(data []byte) bool) {
 	channel := Receive.CreateChannel(hm)
 	defer channel.Close()
