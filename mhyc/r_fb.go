@@ -441,16 +441,16 @@ func FuBen(ctx context.Context) {
 		// 扫荡
 		Receive.Action(CLI.YJFBSweep)
 		_ = Receive.Wait(&S2CYJFBSweep{}, s3)
+		// 进入探险
+		//go func() {
+		//	_ = CLI.GetYJFBGuanQiaData(3, 2)
+		//}()
+		//data := &S2CGetYJFBGuanQiaData{}
+		//for _, g := range data.Grids {
+		//	if g.State == 1 {
 		//
-		go func() {
-			_ = CLI.GetYJFBGuanQiaData(3, 2)
-		}()
-		data := &S2CGetYJFBGuanQiaData{}
-		for _, g := range data.Grids {
-			if g.State == 1 {
-
-			}
-		}
+		//	}
+		//}
 		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
 	for {

@@ -121,6 +121,7 @@ func main() {
 		//go mhyc.XianDianXDXS()
 		//go mhyc.BossPersonal()
 		//go mhyc.BossVIP()
+		//go mhyc.BossXYCM()
 		//go mhyc.BossMulti()
 		//go mhyc.XuanShangBoss()
 		//go mhyc.BossHome()
@@ -129,8 +130,9 @@ func main() {
 		//go mhyc.BossXMD()
 		//go mhyc.BossHLTJ(ctx)
 		//go mhyc.KuaFu(ctx)
-		go mhyc.FuBen(ctx)
-		//go mhyc.HuoDong(ctx)
+		//go mhyc.FuBen(ctx)
+		go mhyc.HuoDongSBHS(ctx)
+		go mhyc.HuoDongBusiness(ctx)
 	}()
 
 	go func() {

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
+	"sort"
 	"time"
 )
 
@@ -23,26 +24,68 @@ func illusionSweep() time.Duration {
 }
 
 func yiJi() time.Duration {
-	//Receive.Action(CLI.YiJiInfo)
-	//var info S2CYiJiInfo
-	//_ = Receive.Wait(&info, s3)
-	//if len(info.Items) == 0 {
-	//	return time.Second
-	//}
-	//id := int32(0)
-	//for _, item := range info.Items {
-	//	if item.BossState == 1 {
-	//		id = item.Id
-	//		break
-	//	}
-	//}
-	//// 进入
-	//go func() {
-	//	_ = CLI.YiJiJoinScene(id)
-	//}()
-	//_ = Receive.Wait(&S2CYiJiJoinScene{}, s3)
-
-	return TomorrowDuration(RandMillisecond(30000, 30600))
+	Fight.Lock()
+	defer Fight.Unlock()
+	Receive.Action(CLI.YiJiInfo)
+	var info S2CYiJiInfo
+	_ = Receive.Wait(&info, s3)
+	if len(info.Items) == 0 {
+		return time.Second
+	}
+	timeList := make([]int64, 0)
+	id := int32(0)
+	for _, item := range info.Items {
+		if item.ReliveTimestamp > 0 {
+			timeList = append(timeList, item.ReliveTimestamp)
+		}
+		if item.BossState == 1 {
+			id = item.Id
+			break
+		}
+	}
+	if id == 0 {
+		sort.Slice(timeList, func(i, j int) bool {
+			return timeList[i] < timeList[j]
+		})
+		ttm := time.Unix(timeList[0], 0).Local()
+		cur := time.Now()
+		if cur.Before(ttm) {
+			return ttm.Add(time.Second).Sub(cur)
+		}
+		return ms500
+	}
+	// 进入
+	defer func() {
+		go func() {
+			_ = CLI.YiJiLeaveScene(id)
+		}()
+		_ = Receive.Wait(&S2CYiJiLeaveScene{}, s3)
+	}()
+	mc := make(chan *S2CMonsterEnterMap)
+	go func() {
+		go func() {
+			var monster S2CMonsterEnterMap
+			_ = Receive.Wait(&monster, s3)
+			mc <- &monster
+			close(mc)
+		}()
+		_ = CLI.YiJiJoinScene(id)
+	}()
+	var join S2CYiJiJoinScene
+	_ = Receive.Wait(&join, s3)
+	monster := <-mc
+	tc := time.NewTimer(ts0)
+	defer tc.Stop()
+	for range tc.C {
+		s, r := FightAction(monster.Id, 8)
+		if s == nil || r == nil || r.Win == 1 || s.Tag == 17002 {
+			break
+		}
+		tc.Reset(time.Second)
+	}
+	//
+	return ms500
+	//return TomorrowDuration(RandMillisecond(30000, 30600))
 }
 
 // KuaFu 跨服
@@ -61,6 +104,28 @@ func KuaFu(ctx context.Context) {
 			return
 		}
 	}
+}
+
+////////////////////////////////////////////////////////////
+
+// YiJiLeaveScene 离开遗迹场景
+func (c *Connect) YiJiLeaveScene(id int32) error {
+	body, err := proto.Marshal(&C2SYiJiLeaveScene{Id: id})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][离开遗迹场景] id=%v", id)
+	return c.send(25317, body)
+}
+
+func (x *S2CYiJiLeaveScene) ID() uint16 {
+	return 25318
+}
+
+// Message S2CYiJiLeaveScene Code:25318
+func (x *S2CYiJiLeaveScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][离开遗迹场景] tag=%v id=%v", x.Tag, x.Id)
 }
 
 ////////////////////////////////////////////////////////////

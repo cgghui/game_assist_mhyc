@@ -49,6 +49,25 @@ func BossVIP() {
 	}
 }
 
+// BossXYCM 降妖除魔
+func BossXYCM() {
+	t := time.NewTimer(ms100)
+	f := func() time.Duration {
+		for _, layer := range []int32{10, 20, 30, 40, 50} {
+			go func(layer int32) {
+				_ = CLI.RecLimitFightSpeedReward(layer)
+			}(layer)
+			_ = Receive.Wait(&S2CRecLimitFightSpeedReward{}, s3)
+		}
+		Receive.Action(CLI.RecLimitFightReward)
+		_ = Receive.Wait(&S2CRecLimitFightReward{}, s3)
+		return TomorrowDuration(RandMillisecond(600, 1800))
+	}
+	for range t.C {
+		t.Reset(f())
+	}
+}
+
 // BossMulti 多人BOSS
 func BossMulti() {
 	t := time.NewTimer(ms100)
@@ -71,7 +90,7 @@ func BossMulti() {
 			mn := time.Unix(RoleInfo.Get("MultiBoss_NextTime").Int64(), 0).Local().Add(time.Minute)
 			cur := time.Now()
 			if cur.Before(mn) {
-				return mn.Add(time.Minute).Sub(cur)
+				return mn.Add(time.Second).Sub(cur)
 			}
 		}
 		// 监听相关消息
@@ -97,7 +116,7 @@ func BossMulti() {
 				rt := time.Unix(item.ReliveTimestamp, 0).Local().Add(time.Minute)
 				cur := time.Now()
 				if cur.Before(rt) {
-					return rt.Add(time.Minute).Sub(cur)
+					return rt.Add(time.Second).Sub(cur)
 				}
 			}
 		}
@@ -113,11 +132,8 @@ func BossMulti() {
 		tc := time.NewTimer(0)
 		defer tc.Stop()
 		for range tc.C {
-			ret := &S2CStartFight{}
-			go func() {
-				_ = CLI.StartFight(&C2SStartFight{Id: enter.Id, Type: 8})
-			}()
-			if err := Receive.Wait(ret, s3); err != nil {
+			ret, _ := FightAction(enter.Id, 8)
+			if ret == nil {
 				return ms100
 			}
 			if ret.Tag == 4022 || ret.Tag == 17002 { // 逃跑
@@ -181,11 +197,7 @@ func XuanShangBoss() {
 		}()
 		_ = Receive.Wait(&S2CXuanShangBossJoinScene{}, s3)
 		// 开始战斗
-		go func() {
-			_ = CLI.StartFight(&C2SStartFight{Id: accept.BossID, Type: 8})
-		}()
-		_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
-		//
+		FightAction(accept.BossID, 8)
 		return ms500
 	}
 	for range t.C {
@@ -272,18 +284,15 @@ func BossHome() {
 			ttm := time.Unix(timeList[0], 0).Local()
 			cur := time.Now()
 			if cur.Before(ttm) {
-				return ttm.Add(s10).Sub(cur)
+				return ttm.Add(time.Second).Sub(cur)
 			}
 			return s30
 		}
 		// 打怪
 		for i := range monster {
 			for {
-				go func(i int) {
-					_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
-				}(i)
-				r := &S2CBattlefieldReport{}
-				if err := Receive.Wait(r, s6); err != nil { // 无战斗报告反馈
+				_, r := FightAction(monster[i].Id, 8)
+				if r == nil { // 无战斗报告反馈
 					return ms100
 				}
 				if r.Win == 1 {
@@ -318,7 +327,7 @@ func BossXLD() {
 		ttm := time.Unix(timeList[0], 0).Local()
 		cur := time.Now()
 		if cur.Before(ttm) {
-			return ttm.Add(s10).Sub(cur)
+			return ttm.Add(time.Second).Sub(cur)
 		}
 		bs := &S2CXLDBossSweep{}
 		Receive.Action(CLI.XLDBossSweep)
@@ -385,7 +394,7 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 			cur := time.Now()
 			brt := time.Unix(boss.ReliveTimestamp, 0).Local()
 			if cur.Before(brt) {
-				return brt.Add(ms100).Sub(cur)
+				return brt.Add(time.Second).Sub(cur)
 			}
 			break
 		}
@@ -465,21 +474,8 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 			}
 			// 开打
 			for {
-				go func(i int) {
-					_ = CLI.StartFight(&C2SStartFight{Id: monster[i].Id, Type: 8})
-				}(idx)
-				sfChan := make(chan *S2CStartFight)
-				go func() {
-					sf := &S2CStartFight{}
-					if err := Receive.Wait(sf, s3); err != nil {
-						sfChan <- sf
-					} else {
-						sfChan <- sf
-					}
-				}()
-				r := &S2CBattlefieldReport{}
-				_ = Receive.Wait(r, s3)
-				if s := <-sfChan; s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
+				s, r := FightAction(monster[idx].Id, 8)
+				if s == nil || r == nil || s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
 					break
 				}
 				if r.Win == 1 { // 斗报胜利
@@ -583,7 +579,7 @@ func BossHLTJ(ctx context.Context) {
 			ttm := time.Unix(ReviveList[0], 0).Local()
 			cur := time.Now()
 			if cur.Before(ttm) {
-				return ttm.Add(ms100).Sub(cur)
+				return ttm.Add(time.Second).Sub(cur)
 			}
 			return s60
 		}
@@ -593,7 +589,7 @@ func BossHLTJ(ctx context.Context) {
 		defer close(PveChan)
 		i := 0
 		for range tc.C {
-			if i > len(bossList.HLBossList) {
+			if i >= len(bossList.HLBossList) {
 				break
 			}
 			boss := bossList.HLBossList[i]
@@ -1213,4 +1209,46 @@ func (x *S2CGetHLBossList) ID() uint16 {
 func (x *S2CGetHLBossList) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][GetHLBossList] tag=%v hl_boss_list=%v", x.Tag, x.HLBossList)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) RecLimitFightSpeedReward(layer int32) error {
+	body, err := proto.Marshal(&C2SRecLimitFightSpeedReward{Layer: layer})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][RecLimitFightSpeedReward] layer=%v", layer)
+	return c.send(24707, body)
+}
+
+func (x *S2CRecLimitFightSpeedReward) ID() uint16 {
+	return 24708
+}
+
+// Message S2CRecLimitFightSpeedReward 24708
+func (x *S2CRecLimitFightSpeedReward) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RecLimitFightSpeedReward] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) RecLimitFightReward() error {
+	body, err := proto.Marshal(&C2SRecLimitFightReward{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][RecLimitFightReward]")
+	return c.send(24705, body)
+}
+
+func (x *S2CRecLimitFightReward) ID() uint16 {
+	return 24706
+}
+
+// Message S2CRecLimitFightReward 24706
+func (x *S2CRecLimitFightReward) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RecLimitFightReward] tag=%v %v", x.Tag, x)
 }

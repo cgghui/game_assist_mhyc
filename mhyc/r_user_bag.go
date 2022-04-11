@@ -100,6 +100,7 @@ func (u *userBag) Get(id int32) *ItemData {
 	return ret.(*ItemData)
 }
 
+const ts0 = 0
 const ms10 = 10 * time.Millisecond
 const ms100 = 100 * time.Millisecond
 const ms500 = 500 * time.Millisecond

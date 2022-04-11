@@ -175,3 +175,24 @@ func ListenMessageNotify(call HandleMessage, timeout ...time.Duration) <-chan st
 	}()
 	return notify
 }
+
+func FightAction(Id, Type int64) (*S2CStartFight, *S2CBattlefieldReport) {
+	c := make(chan *S2CStartFight)
+	defer close(c)
+	go func() {
+		sf := &S2CStartFight{}
+		if err := Receive.Wait(sf, s3); err != nil {
+			c <- nil
+		} else {
+			c <- sf
+		}
+	}()
+	go func() {
+		_ = CLI.StartFight(&C2SStartFight{Id: Id, Type: Type})
+	}()
+	r := &S2CBattlefieldReport{}
+	if err := Receive.Wait(r, s3); err != nil {
+		r = nil
+	}
+	return <-c, r
+}

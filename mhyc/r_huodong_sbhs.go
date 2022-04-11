@@ -30,28 +30,119 @@ func actSbhs() time.Duration {
 	if td := actSbhsTime(); td != 0 {
 		return td
 	}
+	Fight.Lock()
+	defer Fight.Unlock()
 	Receive.Action(CLI.GetWestExp)
 	var west S2CGetWestExp
 	if err := Receive.Wait(&west, s3); err != nil {
 		return ms500
 	}
-
-	return 0
+	if west.Tag == 819 {
+		return time.Minute
+	}
+	n := 0
+	for {
+		if west.I == 4 || west.I == 5 || n >= 10 {
+			break
+		}
+		Receive.Action(CLI.GetWestExpRef)
+		_ = Receive.Wait(&S2CGetWestExp{}, s3)
+		n++
+	}
+	Receive.Action(CLI.StartWestExp)
+	_ = Receive.Wait(&S2CStartWestExp{}, s3)
+	return time.Hour
 }
 
-// HuoDong 活动
-func HuoDong(ctx context.Context) {
+// actHsPlayer 护送玩家 拦截
+func actHsPlayer() time.Duration {
+	if td := actSbhsTime(); td != 0 {
+		return td
+	}
+	Fight.Lock()
+	defer Fight.Unlock()
+	Receive.Action(CLI.GetProtectPlayer)
+	var pp S2CGetProtectPlayer
+	if err := Receive.Wait(&pp, s3); err != nil {
+		return ms500
+	}
+	self := RoleInfo.Get("FightValue").Int64()
+	for _, player := range pp.List {
+		if player.Fv >= self {
+			continue
+		}
+		s, _ := FightActionRob(player.Uid)
+		if s == nil {
+			continue
+		}
+		if s.Tag == 809 {
+			break
+		}
+	}
+	return time.Hour
+}
+
+// HuoDongSBHS 活动<双倍护送>
+func HuoDongSBHS(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
-
+	t2 := time.NewTimer(ms100)
+	defer t2.Stop()
 	for {
 		select {
 		case <-t1.C:
 			t1.Reset(actSbhs())
+		case <-t2.C:
+			t2.Reset(actHsPlayer())
 		case <-ctx.Done():
 			return
 		}
 	}
+}
+
+////////////////////////////////////////////////////////////
+
+func FightActionRob(uid int32) (*S2CSendRob, *S2CBattlefieldReport) {
+	c := make(chan *S2CSendRob)
+	defer close(c)
+	go func() {
+		sf := &S2CSendRob{}
+		if err := Receive.Wait(sf, s3); err != nil {
+			c <- nil
+		} else {
+			c <- sf
+		}
+	}()
+	go func() {
+		_ = CLI.SendRob(uid)
+	}()
+	r := &S2CBattlefieldReport{}
+	if err := Receive.Wait(r, s3); err != nil {
+		r = nil
+	}
+	return <-c, r
+}
+
+////////////////////////////////////////////////////////////
+
+// SendRob 拦截
+func (c *Connect) SendRob(uid int32) error {
+	body, err := proto.Marshal(&C2SSendRob{U: uid})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][SendRob] user_id=%v", uid)
+	return c.send(476, body)
+}
+
+func (x *S2CSendRob) ID() uint16 {
+	return 477
+}
+
+// Message S2CSendRob Code:477
+func (x *S2CSendRob) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][SendRob] tag=%v", x.Tag)
 }
 
 ////////////////////////////////////////////////////////////
@@ -128,26 +219,4 @@ func (x *S2CStartWestExp) ID() uint16 {
 func (x *S2CStartWestExp) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][StartWestExp] tag=%v", x.Tag)
-}
-
-////////////////////////////////////////////////////////////
-
-// StartBusiness 跑商 动作
-func (c *Connect) StartBusiness() error {
-	body, err := proto.Marshal(&C2SStartBusiness{Id: 2})
-	if err != nil {
-		return err
-	}
-	log.Printf("[C][StartBusiness] id=2")
-	return c.send(23305, body)
-}
-
-func (x *S2CStartBusiness) ID() uint16 {
-	return 23306
-}
-
-// Message S2CStartBusiness Code:23306
-func (x *S2CStartBusiness) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StartBusiness] tag=%v", x.Tag)
 }
