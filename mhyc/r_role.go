@@ -244,6 +244,18 @@ func (x *S2CNewChatMsg) Message(data []byte) {
 
 ////////////////////////////////////////////////////////////
 
+func (x *S2CUpdateAmount) ID() uint16 {
+	return 11086
+}
+
+func (x *S2CUpdateAmount) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][UpdateAmount] tag=%v act_id=%v amount=%v", x.Tag, x.ActId, x.Amount)
+	return
+}
+
+////////////////////////////////////////////////////////////
+
 var RoleInfo = &roleInfo{
 	s: &sync.Map{},
 }
