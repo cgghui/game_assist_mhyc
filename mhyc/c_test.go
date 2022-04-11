@@ -49,16 +49,16 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("AN5qRQgDEAIaBAgREAo=")
+	code, err := base64.StdEncoding.DecodeString("AZFbBQpaCAkQARgKIAEoCzDHjs+SBjjHjs+SBkIICAEQx47PkgZCCAgKEMuOz5IGQggICxDPjs+SBkgCUgcIsbePARAEUgcIsrePARACUgcIs7ePARAHWKCNBmADgAEB")
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SYJFBGuanQiaTriggerEvent{}
+	var ma = &S2CBusinessData{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}
 	// type:8 id:385
-	t.Log(ma)
+	t.Log(ma) // 13936 8
 }
 
 func TestJson2PB(t *testing.T) {

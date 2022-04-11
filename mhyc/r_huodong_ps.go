@@ -14,14 +14,28 @@ func HuoDongBusiness(ctx context.Context) {
 	f1 := func() time.Duration {
 		Receive.Action(CLI.StartBusiness)
 		var r S2CStartBusiness
-		_ = Receive.Wait(&r, s3)
+		if err := Receive.Wait(&r, s3); err != nil {
+			return ms500
+		}
 		if r.Tag == 50401 {
 			Receive.Action(CLI.ContinueBusiness)
 			_ = Receive.Wait(&S2CContinueBusiness{}, s3)
 			return time.Minute
 		}
 		if r.Tag == 50402 {
-			TomorrowDuration(RandMillisecond(600, 1800))
+			return TomorrowDuration(RandMillisecond(600, 1800))
+		}
+		if r.Tag == 0 {
+			ListenMessageCallEx(&S2CBusinessData{}, func(data []byte) bool {
+				b := &S2CBusinessData{}
+				b.Message(data)
+				if b.Data.State == 1 {
+					// 领取奖励
+					Receive.Action(CLI.GetBusinessPrize)
+					_ = Receive.Wait(&S2CGetBusinessPrize{}, s3)
+				}
+				return b.Data.State != 1 // false cancel thread
+			})
 		}
 		return time.Hour
 	}
@@ -77,4 +91,37 @@ func (x *S2CStartBusiness) ID() uint16 {
 func (x *S2CStartBusiness) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][StartBusiness] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CBusinessData) ID() uint16 {
+	return 23301
+}
+
+// Message S2CBusinessData Code:23301
+func (x *S2CBusinessData) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][BusinessData] data=%v", x.Data)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) GetBusinessPrize() error {
+	body, err := proto.Marshal(&C2SGetBusinessPrize{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][GetBusinessPrize]")
+	return c.send(23311, body)
+}
+
+func (x *S2CGetBusinessPrize) ID() uint16 {
+	return 23312
+}
+
+// Message S2CGetBusinessPrize Code:23312
+func (x *S2CGetBusinessPrize) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetBusinessPrize] tag=%v", x.Tag)
 }
