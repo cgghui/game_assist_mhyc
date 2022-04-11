@@ -409,7 +409,7 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 		if c.Tag == 0 && c.XsdId == xsdID && c.CollId == bossID && c.CollState == 1 {
 			return true
 		}
-		// c.CollState == 1 已采
+		// c.CollState == 1 已采 // c.Tag == 57012 已有玩家采集
 		return false
 	})
 	return ms100
