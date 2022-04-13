@@ -27,11 +27,16 @@ func actSbhsTime() time.Duration {
 
 // actSbhs 双倍护送
 func actSbhs() time.Duration {
+	// 先尝试领奖
+	Receive.Action(CLI.GetWestPrize)
+	_ = Receive.Wait(&S2CGetWestPrize{}, s3)
+	//
 	if td := actSbhsTime(); td != 0 {
 		return td
 	}
 	Fight.Lock()
 	defer Fight.Unlock()
+	// 选择护送对象
 	Receive.Action(CLI.GetWestExp)
 	var west S2CGetWestExp
 	if err := Receive.Wait(&west, s3); err != nil {
@@ -50,7 +55,13 @@ func actSbhs() time.Duration {
 		n++
 	}
 	Receive.Action(CLI.StartWestExp)
-	_ = Receive.Wait(&S2CStartWestExp{}, s3)
+	r := &S2CStartWestExp{}
+	if _ = Receive.Wait(r, s3); r.Tag == 0 {
+		return time.Minute
+	}
+	if r.Tag == 822 { // 次数不足
+		return s60
+	}
 	return time.Hour
 }
 
@@ -121,6 +132,18 @@ func FightActionRob(uid int32) (*S2CSendRob, *S2CBattlefieldReport) {
 		r = nil
 	}
 	return <-c, r
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWestExp) ID() uint16 {
+	return 460
+}
+
+// Message S2CWestExp Code:460
+func (x *S2CWestExp) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WestExp] %v", x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -219,4 +242,26 @@ func (x *S2CStartWestExp) ID() uint16 {
 func (x *S2CStartWestExp) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][StartWestExp] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+// GetWestPrize 取奖
+func (c *Connect) GetWestPrize() error {
+	body, err := proto.Marshal(&C2SGetWestPrize{})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][GetWestPrize]")
+	return c.send(468, body)
+}
+
+func (x *S2CGetWestPrize) ID() uint16 {
+	return 469
+}
+
+// Message S2CGetWestPrize Code:469
+func (x *S2CGetWestPrize) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetWestPrize] tag=%v", x.Tag)
 }

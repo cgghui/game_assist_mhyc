@@ -401,7 +401,7 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	}
 	// 采集仙草
 	go func() {
-		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 0})
+		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 1})
 	}()
 	ListenMessageCallEx(&S2CXsdCollect{}, func(data []byte) bool {
 		c := &S2CXsdCollect{}
@@ -545,7 +545,9 @@ func BossHLTJ(ctx context.Context) {
 			_ = CLI.CreateTeam(&C2SCreateTeam{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(HltjID), Key4: 0})
 		}()
 		var ct S2CCreateTeam
-		_ = Receive.Wait(&ct, s3)
+		if err := Receive.Wait(&ct, s3); err != nil {
+			return ms500
+		}
 		defer func() {
 			go func() {
 				_ = CLI.LeaveTeam(ct.Team.TeamId)
@@ -631,6 +633,59 @@ func BossHLTJ(ctx context.Context) {
 			tc.Reset(ms500)
 		}
 		return s60
+	}
+	//
+	for {
+		select {
+		case <-t1.C:
+			t1.Reset(f1())
+		case <-ctx.Done():
+			return
+		}
+	}
+}
+
+func fightActionBDJJ(act func() error) (*S2CBangDanJJFight, *S2CBattlefieldReport) {
+	c := make(chan *S2CBangDanJJFight)
+	defer close(c)
+	go func() {
+		sf := &S2CBangDanJJFight{}
+		if err := Receive.Wait(sf, s3); err != nil {
+			c <- nil
+		} else {
+			c <- sf
+		}
+	}()
+	Receive.Action(act)
+	r := &S2CBattlefieldReport{}
+	if err := Receive.Wait(r, s3); err != nil {
+		r = nil
+	}
+	return <-c, r
+}
+
+func BossBDJJ(ctx context.Context) {
+	t1 := time.NewTimer(time.Second)
+	f1 := func() time.Duration {
+		Fight.Lock()
+		Fight.Unlock()
+		tc := time.NewTimer(ts0)
+		defer tc.Stop()
+		for range tc.C {
+			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
+			tc.Reset(ms500)
+			if f.Tag != 0 { // 60106 战斗次数不足
+				break
+			}
+		}
+		for range tc.C {
+			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
+			if f.Tag != 0 { // 60106 战斗次数不足
+				break
+			}
+			tc.Reset(ms500)
+		}
+		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
 	//
 	for {
@@ -863,6 +918,36 @@ func (c *Connect) XsdCollect(collect *C2SXsdCollect) error {
 	}
 	log.Println("[C][XsdCollect]")
 	return c.send(26245, body)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) C2SBangDanJJFight1() error {
+	body, err := proto.Marshal(&C2SBangDanJJFight{JJId: 1})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][BangDanJJFight] jj_id=1")
+	return c.send(29604, body)
+}
+
+func (c *Connect) C2SBangDanJJFight2() error {
+	body, err := proto.Marshal(&C2SBangDanJJFight{JJId: 2})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][BangDanJJFight] jj_id=2")
+	return c.send(29604, body)
+}
+
+func (x *S2CBangDanJJFight) ID() uint16 {
+	return 29609
+}
+
+// Message S2CBangDanJJFight 29609
+func (x *S2CBangDanJJFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][BangDanJJFight] tag=%v %v", x.Tag, x)
 }
 
 ////////////////////////////////////////////////////////////

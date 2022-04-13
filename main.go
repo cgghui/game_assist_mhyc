@@ -111,6 +111,9 @@ func main() {
 			go mhyc.ListenMessageCall(ctx, &mhyc.S2CUpdateAmount{}, func(data []byte) {
 				(&mhyc.S2CUpdateAmount{}).Message(data)
 			})
+			go mhyc.ListenMessageCall(ctx, &mhyc.S2CWestExp{}, func(data []byte) {
+				(&mhyc.S2CWestExp{}).Message(data)
+			})
 		}()
 
 		go mhyc.Everyday(ctx)
@@ -132,10 +135,15 @@ func main() {
 		go mhyc.BossXSD()
 		go mhyc.BossXMD()
 		go mhyc.BossHLTJ(ctx)
+		go mhyc.BossBDJJ(ctx)
 		go mhyc.KuaFu(ctx)
 		go mhyc.FuBen(ctx)
 		go mhyc.HuoDongSBHS(ctx)
 		go mhyc.HuoDongBusiness(ctx)
+		go mhyc.JJC(ctx)
+		go mhyc.WZZB(ctx)
+		go mhyc.HuoDongXS(ctx)
+		//go mhyc.ShenYu(ctx)
 	}()
 
 	go func() {

@@ -45,7 +45,7 @@ func EnterAnimalPark() {
 			items[ItemPet502] = item
 			n += items[ItemPet502].N
 		}
-		if n > 0 {
+		if n > 200 {
 			// 检测是否需要使用buff
 			isBuff := false
 			for _, buff := range ret.Buff {

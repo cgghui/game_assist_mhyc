@@ -12,6 +12,9 @@ func HuoDongBusiness(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
 	f1 := func() time.Duration {
+		Receive.Action(CLI.GetBusinessPrize)
+		_ = Receive.Wait(&S2CGetBusinessPrize{}, s3)
+		//
 		Receive.Action(CLI.StartBusiness)
 		var r S2CStartBusiness
 		if err := Receive.Wait(&r, s3); err != nil {
