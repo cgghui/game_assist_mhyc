@@ -10,6 +10,7 @@ import (
 	"log"
 	"os"
 	"os/signal"
+	"time"
 )
 
 func init() {
@@ -76,7 +77,18 @@ func main() {
 				(&mhyc.ItemFly{}).Message(data)
 			})
 			go mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
-				(&mhyc.S2CRoleTask{}).Message(data)
+				task := &mhyc.S2CRoleTask{}
+				task.Message(data)
+				for i := range task.Task {
+					go func(t, id int32) {
+						mhyc.Fight.Lock()
+						defer mhyc.Fight.Unlock()
+						go func(t, id int32) {
+							_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
+						}(t, id)
+						_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
+					}(task.Task[i].T, task.Task[i].Id)
+				}
 			})
 			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
 				(&mhyc.S2CBattlefieldReport{}).Message(data)
@@ -136,6 +148,7 @@ func main() {
 		go mhyc.BossXMD()
 		go mhyc.BossHLTJ(ctx)
 		go mhyc.BossBDJJ(ctx)
+		//go mhyc.WorldBoss(ctx)
 		go mhyc.KuaFu(ctx)
 		go mhyc.FuBen(ctx)
 		go mhyc.HuoDongSBHS(ctx)
@@ -143,7 +156,7 @@ func main() {
 		go mhyc.JJC(ctx)
 		go mhyc.WZZB(ctx)
 		go mhyc.HuoDongXS(ctx)
-		//go mhyc.ShenYu(ctx)
+		go mhyc.ShenYu(ctx)
 	}()
 
 	go func() {

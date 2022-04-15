@@ -110,6 +110,7 @@ const s10 = 10 * time.Second
 const s20 = 20 * time.Second
 const s30 = 30 * time.Second
 const s60 = 60 * time.Second
+const s90 = 90 * time.Second
 
 func (u *userBag) Wait(id int32, timeout time.Duration) *ItemData {
 	var err error

@@ -9,10 +9,10 @@ import (
 
 // ShenYu 神域
 func ShenYu(ctx context.Context) {
-	// 材料扫荡
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
 	f1 := func() time.Duration {
+		time.Sleep(s10)
 		Fight.Lock()
 		defer func() {
 			Receive.Action(CLI.LeaveShenYu)
@@ -28,6 +28,8 @@ func ShenYu(ctx context.Context) {
 		_ = Receive.Wait(&sy, s3)
 		//
 
+		//
+		time.Sleep(s60)
 		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
 

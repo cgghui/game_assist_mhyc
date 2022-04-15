@@ -7,19 +7,6 @@ import (
 )
 
 func StageFight() {
-	// 定时领取主线任务奖励
-	go func() {
-		t := time.NewTimer(ms100)
-		for range t.C {
-			h := &S2CGetHistoryTaskPrize{}
-			Receive.Action(CLI.GetHistoryTaskPrize)
-			if _ = Receive.Wait(h, s3); h.Tag == 0 {
-				t.Reset(ms100)
-				continue
-			}
-			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
-		}
-	}()
 	tm := time.NewTimer(ms500)
 	ff := func() {
 		Fight.Lock()
@@ -43,13 +30,12 @@ func StageFight() {
 		// 幸运转盘
 		tm.Reset(ms100)
 		for range tm.C {
-			r := &S2CStageDraw{}
 			Receive.Action(CLI.GetStageDraw)
-			if _ = Receive.Wait(r, s3); r.Tag == 0 {
-				tm.Reset(ms100)
-				continue
+			_ = Receive.Wait(&S2CStageDraw{}, s3)
+			if RoleInfo.Get("StageDrawTimes").Int64() <= 0 {
+				break
 			}
-			break
+			tm.Reset(ms100)
 		}
 		tm.Reset(RandMillisecond(8, 30))
 	}
@@ -80,16 +66,6 @@ func (c *Connect) GetStageDraw() error {
 	return c.send(118, body)
 }
 
-// GetHistoryTaskPrize 主线任务奖励
-func (c *Connect) GetHistoryTaskPrize() error {
-	body, err := proto.Marshal(DefineGetHistoryTaskPrize)
-	if err != nil {
-		return err
-	}
-	log.Println("[C][GetHistoryTaskPrize]")
-	return c.send(713, body)
-}
-
 ////////////////////////////////////////////////////////////
 
 func (x *S2CStageFight) ID() uint16 {
@@ -110,15 +86,4 @@ func (x *S2CStageDraw) ID() uint16 {
 func (x *S2CStageDraw) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][CStageDraw] tag=%v id=%v", x.Tag, x.Id)
-}
-
-////////////////////////////////////////////////////////////
-
-func (x *S2CGetHistoryTaskPrize) ID() uint16 {
-	return 714
-}
-
-func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetHistoryTaskPrize] tag=%v raw=%v", x.Tag, x)
 }

@@ -31,10 +31,58 @@ func Everyday(ctx context.Context) {
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
+				if ret.Tag == 5033 {
+					break
+				}
 			}
 			if s == len(task.Task) {
 				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
+			return RandMillisecond(60, 120)
+		}
+		for {
+			select {
+			case <-t.C:
+				t.Reset(f())
+			case <-ctx.Done():
+				return
+			}
+		}
+	}()
+	// 修仙 - 境界 任务
+	go func() {
+		t := time.NewTimer(time.Second)
+		defer t.Stop()
+		f := func() time.Duration {
+			Fight.Lock()
+			defer Fight.Unlock()
+			tc := time.NewTimer(ms10)
+			defer tc.Stop()
+			isReceive := false
+			for range tc.C {
+				isReceive = false
+				Receive.Action(CLI.RealmTask)
+				task := &S2CRealmTask{}
+				_ = Receive.Wait(task, s3)
+				for i, tk := range task.Tasks {
+					if tk.S != 1 {
+						continue
+					}
+					isReceive = true
+					go func(tid int32) {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 24, Multi: 1, TaskId: tid})
+					}(task.Tasks[i].Id)
+					_ = Receive.Wait(&S2CGetTaskPrize{}, s3)
+				}
+				if isReceive {
+					tc.Reset(ms100)
+					continue
+				}
+				break
+			}
+			// 突破
+			Receive.Action(CLI.RealmOverFulfil)
+			_ = Receive.Wait(&S2CRealmOverfulfil{}, s3)
 			return RandMillisecond(60, 120)
 		}
 		for {
@@ -67,6 +115,9 @@ func Everyday(ctx context.Context) {
 				_ = Receive.Wait(ret, s3)
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
+				}
+				if ret.Tag == 5033 {
+					break
 				}
 			}
 			if s == len(task.Task) {
@@ -108,6 +159,9 @@ func Everyday(ctx context.Context) {
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
+				if ret.Tag == 5033 {
+					break
+				}
 			}
 			if s == len(task.Task) {
 				return true
@@ -126,6 +180,62 @@ func Everyday(ctx context.Context) {
 			}
 		}
 	}()
+	// 我要变强
+	go func() {
+		t := time.NewTimer(time.Second)
+		defer t.Stop()
+		f := func() bool {
+			Fight.Lock()
+			defer Fight.Unlock()
+			s := 0
+			for i := 1; i <= 4; i++ {
+				ret := &S2CGetTaskPrize{}
+				go func(i int32) {
+					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 2, Multi: 1, TaskId: i})
+				}(int32(i))
+				_ = Receive.Wait(ret, s3)
+				if ret.Tag == 0 || ret.Tag == 5032 {
+					s++
+				}
+				if ret.Tag == 5033 {
+					break
+				}
+			}
+			if s == 4 {
+				return true
+			}
+			t.Reset(RandMillisecond(1800, 3600))
+			return false
+		}
+		for {
+			select {
+			case <-t.C:
+				if f() {
+					return
+				}
+			case <-ctx.Done():
+				return
+			}
+		}
+	}()
+	// 定时领取主线任务奖励
+	go func() {
+		t := time.NewTimer(ms100)
+		for range t.C {
+			h := &S2CGetHistoryTaskPrize{}
+			Receive.Action(CLI.GetHistoryTaskPrize)
+			if _ = Receive.Wait(h, s3); h.Tag == 0 {
+				t.Reset(ms100)
+				continue
+			}
+			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+		}
+	}()
+	// 仙缘副本
+	go ListenMessageCall(ctx, &S2CPartnerOnline{}, func(data []byte) {
+		Receive.Action(CLI.OneKeyWeddingIns)
+		_ = Receive.Wait(&S2COneKeyWeddingIns{}, s3)
+	})
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
@@ -221,6 +331,100 @@ func Everyday(ctx context.Context) {
 		}
 	}
 }
+
+////////////////////////////////////////////////////////////
+
+// OneKeyWeddingIns 仙缘 扫荡
+func (c *Connect) OneKeyWeddingIns() error {
+	body, err := proto.Marshal(&C2SOneKeyWeddingIns{})
+	if err != nil {
+		return err
+	}
+	return c.send(22360, body)
+}
+
+func (x *S2COneKeyWeddingIns) ID() uint16 {
+	return 22361
+}
+
+func (x *S2COneKeyWeddingIns) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][OneKeyWeddingIns] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CPartnerOnline) ID() uint16 {
+	return 22345
+}
+
+func (x *S2CPartnerOnline) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][PartnerOnline] user_id=%v nick=%v", x.UserId, x.Nick)
+}
+
+////////////////////////////////////////////////////////////
+
+// RealmOverFulfil 突破
+func (c *Connect) RealmOverFulfil() error {
+	body, err := proto.Marshal(&C2SRealmOverfulfil{})
+	if err != nil {
+		return err
+	}
+	return c.send(22004, body)
+}
+
+func (x *S2CRealmOverfulfil) ID() uint16 {
+	return 22005
+}
+
+func (x *S2CRealmOverfulfil) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RealmOverfulfil] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+// GetHistoryTaskPrize 主线任务奖励
+func (c *Connect) GetHistoryTaskPrize() error {
+	body, err := proto.Marshal(&C2SGetHistoryTaskPrize{TaskId: 0})
+	if err != nil {
+		return err
+	}
+	return c.send(713, body)
+}
+
+func (x *S2CGetHistoryTaskPrize) ID() uint16 {
+	return 714
+}
+
+func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetHistoryTaskPrize] tag=%v raw=%v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+// RealmTask 修仙 - 境界 任务
+func (c *Connect) RealmTask() error {
+	body, err := proto.Marshal(&C2SRealmTask{})
+	if err != nil {
+		return err
+	}
+	return c.send(22012, body)
+}
+
+func (x *S2CRealmTask) ID() uint16 {
+	return 22013
+}
+
+// Message S2CRealmTask 22013
+func (x *S2CRealmTask) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RealmTask] task=%v", x.Tasks)
+}
+
+////////////////////////////////////////////////////////////
 
 // ActGiftNewReceive 充值->1元秒杀->每日礼
 func (c *Connect) ActGiftNewReceive(act *C2SActGiftNewReceive) error {

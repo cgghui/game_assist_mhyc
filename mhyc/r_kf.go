@@ -78,7 +78,13 @@ func yiJi() time.Duration {
 	defer tc.Stop()
 	for range tc.C {
 		s, r := FightAction(monster.Id, 8)
-		if s == nil || r == nil || r.Win == 1 || s.Tag == 17002 {
+		if s == nil {
+			break
+		}
+		if s.Tag == 17002 {
+			break
+		}
+		if r != nil && r.Win == 1 {
 			break
 		}
 		tc.Reset(time.Second)

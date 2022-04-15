@@ -205,27 +205,82 @@ func XuanShangBoss() {
 	}
 }
 
-func BossGlobal() {
+// worldBossActTime 世界BOSS活动时间
+func worldBossActTime() time.Duration {
+	cur := time.Now()
+	actStartTime := []time.Time{
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 10, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 14, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 16, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 19, 30, 0, 0, time.Local).Add(ms500),
+	}
+	for _, ast := range actStartTime {
+		if cur.Before(ast) {
+			return ast.Sub(cur)
+		}
+		if cur.Before(ast.Add(10 * time.Minute)) {
+			return 0
+		}
+	}
+	return TomorrowDuration(3 * time.Hour)
+}
+
+// WorldBoss 世界BOSS
+func WorldBoss(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
+		if td := actSbhsTime(); td != 0 {
+			return td
+		}
 		Fight.Lock()
 		defer Fight.Unlock()
 		Receive.Action(CLI.BossGlobalJoinActive)
-		info := &S2CJoinActive{}
-		if err := Receive.Wait(info, s3); err != nil {
+		join := &S2CJoinActive{}
+		if err := Receive.Wait(join, s3); err != nil {
 			return ms100
 		}
-		if info.Tag != 0 {
+		if join.Tag != 0 {
 			return time.Second
 		}
-		go func() {
-			_ = CLI.StartFight(&C2SStartFight{Id: 385, Type: 8})
+		// 离开
+		defer func() {
+			go func() {
+				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 2})
+			}()
+			_ = Receive.Wait(&S2CLeaveActive{}, s3)
 		}()
-		_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
+		//
+		cx, cancel := context.WithCancel(ctx)
+		defer cancel()
+		go ListenMessageCall(cx, &S2CWorldBossLevel{}, func(data []byte) {
+			(&S2CWorldBossLevel{}).Message(data)
+		})
+		go ListenMessageCall(cx, &S2CWorldBossEnd{}, func(data []byte) {
+			(&S2CWorldBossEnd{}).Message(data)
+		})
+		//
+		tc := time.NewTimer(ms10)
+		defer tc.Stop()
+		for range tc.C {
+			s, r := FightAction(385, 8)
+			if s == nil {
+				tc.Reset(ms100)
+				continue
+			}
+			if r.Win == 1 {
+				break
+			}
+		}
 		return ms500
 	}
-	for range t.C {
-		t.Reset(f())
+	//
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
@@ -399,19 +454,33 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 			break
 		}
 	}
-	// 采集仙草
+	// 采集仙草 视探
 	go func() {
 		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 1})
 	}()
-	ListenMessageCallEx(&S2CXsdCollect{}, func(data []byte) bool {
-		c := &S2CXsdCollect{}
-		c.Message(data)
-		if c.Tag == 0 && c.XsdId == xsdID && c.CollId == bossID && c.CollState == 1 {
-			return true
-		}
-		// c.CollState == 1 已采 // c.Tag == 57012 已有玩家采集
-		return false
-	})
+	collect := &S2CXsdCollect{}
+	_ = Receive.Wait(collect, s3)
+	if collect.Tag == 0 && collect.CollState == 1 && RoleInfo.Get("UserId").Int64() != collect.CollUserId {
+		return s30
+	}
+	// 采集仙草 采集
+	go func() {
+		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 0})
+	}()
+	collect = &S2CXsdCollect{}
+	_ = Receive.Wait(collect, s90)
+	if field == "XsdXsdDayCollectTimes" {
+		go func() {
+			_ = CLI.RoutePath(&C2SRoutePath{MapId: 2555, FX: 13, FY: 24, TX: 38, TY: 73})
+		}()
+		_ = Receive.Wait(&S2CRoutePath{}, s3)
+	}
+	cur := time.Now()
+	brt := time.Unix(collect.FinishTimestamp, 0).Local()
+	if cur.Before(brt) {
+		<-time.After(brt.Add(ms100).Sub(cur))
+
+	}
 	return ms100
 }
 
@@ -680,6 +749,10 @@ func BossBDJJ(ctx context.Context) {
 		}
 		for range tc.C {
 			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
+			if f == nil {
+				tc.Reset(ms500)
+				continue
+			}
 			if f.Tag != 0 { // 60106 战斗次数不足
 				break
 			}
@@ -1336,4 +1409,49 @@ func (x *S2CRecLimitFightReward) ID() uint16 {
 func (x *S2CRecLimitFightReward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][RecLimitFightReward] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) RoutePath(p *C2SRoutePath) error {
+	body, err := proto.Marshal(p)
+	if err != nil {
+		return err
+	}
+	log.Println("[C][RoutePath]")
+	return c.send(154, body)
+}
+
+func (x *S2CRoutePath) ID() uint16 {
+	return 155
+}
+
+// Message S2CRoutePath 155
+func (x *S2CRoutePath) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][RoutePath] tag=%v map_id=%v points=%v", x.Tag, x.MapId, x.Points)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWorldBossLevel) ID() uint16 {
+	return 15017
+}
+
+// Message S2CWorldBossLevel 15017
+func (x *S2CWorldBossLevel) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WorldBossLevel] level=%v", x.Level)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWorldBossEnd) ID() uint16 {
+	return 15018
+}
+
+// Message S2CWorldBossEnd 15018
+func (x *S2CWorldBossEnd) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WorldBossEnd] tag=%v scene_close_time=%v", x.Tag, x.SceneCloseTime)
 }

@@ -140,21 +140,6 @@ func (c *Connect) CheckFight() error {
 	return c.send(65, body)
 }
 
-// RoutePath 主页 走来走去
-func (c *Connect) RoutePath() error {
-	body, err := proto.Marshal(&C2SRoutePath{
-		MapId: 33,
-		FX:    int32(RandInt64(1, 255)),
-		FY:    int32(RandInt64(1, 255)),
-		TX:    int32(RandInt64(1, 255)),
-		TY:    int32(RandInt64(1, 255)),
-	})
-	if err != nil {
-		return err
-	}
-	return c.send(154, body)
-}
-
 func (c *Connect) ChangeMap(m *C2SChangeMap) error {
 	body, err := proto.Marshal(m)
 	if err != nil {
@@ -186,15 +171,6 @@ func (c *Connect) ShopBuy(goods *C2SShopBuy) error {
 		return err
 	}
 	return c.send(432, body)
-}
-
-// RealmTask 修仙 - 境界 任务
-func (c *Connect) RealmTask() error {
-	body, err := proto.Marshal(&C2SRealmTask{})
-	if err != nil {
-		return err
-	}
-	return c.send(22012, body)
 }
 
 func (c *Connect) GetPetAMergeInfo() error {

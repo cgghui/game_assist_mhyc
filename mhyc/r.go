@@ -73,11 +73,6 @@ func (x *S2CCheckFight) Message(data []byte) {
 	log.Printf("[S][CheckFight] tag=%v next_time=%v", x.Tag, x.NextTime)
 }
 
-func (x *S2CRoutePath) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][RoutePath] tag=%v map_id=%v point=%v", x.Tag, x.MapId, x.Points)
-}
-
 func (x *S2CPlayerMove) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][PlayerMove] userid=%v p=%v", x.UserId, x.P)
@@ -254,20 +249,6 @@ func (x *S2CGetActTimestamp) Message(data []byte) {
 		return
 	}
 	log.Printf("recv: [GetActTimestamp] %v", x)
-	return
-}
-
-func (x *S2CRealmTask) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("recv: [RealmTask] %v", err)
-		return
-	}
-	for _, task := range x.Tasks {
-		if task.S == 1 {
-			_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 24, Multi: 1, TaskId: task.Id})
-		}
-	}
-	//log.Printf("recv: [RealmTask] %v", x)
 	return
 }
 
