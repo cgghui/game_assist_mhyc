@@ -160,7 +160,7 @@ func ListenMessageCallEx(hm HandleMessage, call func(data []byte) bool) {
 	channel := Receive.CreateChannel(hm)
 	defer channel.Close()
 	for data := range channel.Wait() {
-		if !call(data) { // call is false
+		if !call(data) { // call is false return
 			return
 		}
 	}

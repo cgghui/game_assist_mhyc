@@ -250,19 +250,33 @@ func WorldBoss(ctx context.Context) {
 			_ = Receive.Wait(&S2CLeaveActive{}, s3)
 		}()
 		//
-		cx, cancel := context.WithCancel(ctx)
-		defer cancel()
-		go ListenMessageCall(cx, &S2CWorldBossLevel{}, func(data []byte) {
-			(&S2CWorldBossLevel{}).Message(data)
-		})
-		go ListenMessageCall(cx, &S2CWorldBossEnd{}, func(data []byte) {
-			(&S2CWorldBossEnd{}).Message(data)
+		cx, end := context.WithCancel(ctx)
+		defer end()
+		//
+		monster := make(chan *S2CMonsterEnterMap)
+		defer close(monster)
+		go ListenMessageCallEx(&S2CMonsterEnterMap{}, func(data []byte) bool {
+			var enter S2CMonsterEnterMap
+			if err := proto.Unmarshal(data, &enter); err == nil {
+				monster <- &enter
+				return false
+			}
+			return true
 		})
 		//
+		go ListenMessageCall(cx, &S2CWorldBossEnd{}, func(data []byte) {
+			end()
+		})
+		go ListenMessageCall(cx, &S2CWorldBossLevel{}, func(data []byte) {
+			end()
+		})
+		//
+		boss := <-monster
 		tc := time.NewTimer(ms10)
 		defer tc.Stop()
+		// TODO: 不知道打怪过程，摇筛子
 		for range tc.C {
-			s, r := FightAction(385, 8)
+			s, r := FightAction(boss.Id, 8)
 			if s == nil {
 				tc.Reset(ms100)
 				continue
@@ -1454,4 +1468,16 @@ func (x *S2CWorldBossEnd) ID() uint16 {
 func (x *S2CWorldBossEnd) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][WorldBossEnd] tag=%v scene_close_time=%v", x.Tag, x.SceneCloseTime)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWorldBossCloseScene) ID() uint16 {
+	return 15019
+}
+
+// Message S2CWorldBossCloseScene 15019
+func (x *S2CWorldBossCloseScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WorldBossCloseScene] tag=%v", x.Tag)
 }

@@ -11,8 +11,8 @@ import (
 func actSbhsTime() time.Duration {
 	cur := time.Now()
 	actStartTime := []time.Time{
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 11, 30, 10, 0, time.Local),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 18, 30, 10, 0, time.Local),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 11, 30, 0, 0, time.Local).Add(s3),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 18, 30, 0, 0, time.Local).Add(s3),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {

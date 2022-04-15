@@ -26,6 +26,9 @@ func illusionSweep() time.Duration {
 func yiJi() time.Duration {
 	Fight.Lock()
 	defer Fight.Unlock()
+	if RoleInfo.Get("YiJiAdscTimes").Int64() <= 0 {
+		return TomorrowDuration(RandMillisecond(30000, 30600))
+	}
 	Receive.Action(CLI.YiJiInfo)
 	var info S2CYiJiInfo
 	_ = Receive.Wait(&info, s3)
@@ -91,7 +94,6 @@ func yiJi() time.Duration {
 	}
 	//
 	return ms500
-	//return TomorrowDuration(RandMillisecond(30000, 30600))
 }
 
 // KuaFu 跨服
