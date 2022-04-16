@@ -157,8 +157,8 @@ func main() {
 		//go mhyc.WZZB(ctx)
 		//go mhyc.HuoDongXS(ctx)
 		////go mhyc.ShenYu(ctx)
-		////go mhyc.JXSC(ctx)
-		go mhyc.HuoDongZJLDZ(ctx)
+		go mhyc.JXSC(ctx)
+		////go mhyc.HuoDongZJLDZ(ctx)
 	}()
 
 	go func() {

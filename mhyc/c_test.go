@@ -66,7 +66,7 @@ func TestDeBinaryCode2(t *testing.T) {
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SCityWarChoose{}
+	var ma = &C2SJoinActive{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}

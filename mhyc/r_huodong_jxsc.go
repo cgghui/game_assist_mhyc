@@ -29,6 +29,18 @@ func actJXSCTime() time.Duration {
 func jxsc() time.Duration {
 	Fight.Lock()
 	defer Fight.Unlock()
+	// 进入活动
+	go func() {
+		_ = CLI.JoinActive(&C2SJoinActive{AId: 5})
+	}()
+	_ = Receive.Wait(&S2CJoinActive{}, s3)
+	defer func() {
+		// 离开
+		go func() {
+			_ = CLI.LeaveActive(&C2SLeaveActive{AId: 5})
+		}()
+		_ = Receive.Wait(&S2CLeaveActive{}, s3)
+	}()
 	Receive.Action(CLI.JXSCKeyNum)
 	var info S2CJXSCKeyNum
 	if err := Receive.Wait(&info, s3); err != nil {
