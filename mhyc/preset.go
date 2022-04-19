@@ -7,48 +7,38 @@ import (
 	"time"
 )
 
-const DataRoot = "D:\\go\\game_assist_mhyc\\mhyc"
+const (
+	DataRoot  = "D:\\go\\game_assist_mhyc\\mhyc"
+	UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
 
-const UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
+	BossMultiID int32 = 9 // 多人BOSS
+	BossHomeID        = 8 // 跨服 - BOSS之家
 
-var DefineMailListOrdinary = &C2SMailList{MailType: 0} // 普通邮件列表
-var DefineMailListActivity = &C2SMailList{MailType: 1} // 活动邮件列表
+	// HltjID 1101 1102 1103 1104 1105
+	// HltjID 1201 1202 1203 1204 1205
+	HltjID      int32 = 1204 // 幻灵天界
+	HltjTeamRen       = 2    // 幻灵天界 参团至少人数
 
+	// 秘境探险
+	FuBenId   int32 = 3
+	GuanQiaId int32 = 2
+)
+
+var DefineMailListOrdinary = &C2SMailList{MailType: 0}                       // 普通邮件列表
+var DefineMailListActivity = &C2SMailList{MailType: 1}                       // 活动邮件列表
 var DefineGetMailAttachOrdinary = &C2SGetMailAttach{MailId: -1, MailType: 0} // 普通邮件附件 一键领取
 var DefineGetMailAttachActivity = &C2SGetMailAttach{MailId: -1, MailType: 1} // 活动邮件附件 一键领取
-
-var DefineDelMailOrdinary = &C2SDelMail{MailId: 0, MailType: 0} // 普通邮件 删除已读
-var DefineDelMailActivity = &C2SDelMail{MailId: 0, MailType: 1} // 活动邮件 删除已读
-
-var DefineGiftRechargeEveryDay = &C2SActGiftNewReceive{Gid: 311, Aid: 301} // 充值->1元秒杀->每日礼
-
-var DefineRespectL = &C2SRespect{Type: 0} // 排名—>本区榜->膜拜
-var DefineRespectG = &C2SRespect{Type: 1} // 排名—>跨服榜->膜拜
-
-var DefineVipDayGift = &C2SGetVipDayGift{} // SVIP 每日礼包
-
-var DefineGetActTask11002 = &C2SGetActTask{ActId: 11002} // 每日福利 -> 在线奖励
-
-var DefineLifeCardDayPrize = &C2SLifeCardDayPrize{} // 特权卡 -> 至尊卡
-
-var DefineSign = &C2SSign{} // 每日签到
-
-var DefineStageFight = &C2SStageFight{} // 闯关
-
-var DefineGetHistoryTaskPrize = &C2SGetHistoryTaskPrize{TaskId: 0} // 完成主线任务 - 领取奖励
-
-var DefineStageDraw = &C2SStageDraw{} // 幸运转盘
-
-var DefineShopBuyFree = &C2SShopBuy{GoodsId: 11001, Num: 1} // 商城 - 每日免费领的商品
-
-var SearchPet502 = &C2SSearchPet{ItemId: 502} // 寻找宠物 - 神兽号角
-var SearchPet501 = &C2SSearchPet{ItemId: 501} // 寻找宠物 - 高级
-var SearchPet500 = &C2SSearchPet{ItemId: 500} // 寻找宠物 - 初级
-
-var DefineClimbingTowerEnter5 = &C2SClimbingTowerEnter{TowerType: 5} // 副本 - 爬塔 - 剑魂塔 - 进入
-var DefineClimbingTowerFight5 = &C2SClimbingTowerFight{TowerType: 5} // 副本 - 爬塔 - 剑魂塔 - 战斗
-
-var DefineChangeMap33 = &C2SChangeMap{MapId: 33} // 切换地图 主图
+var DefineDelMailOrdinary = &C2SDelMail{MailId: 0, MailType: 0}              // 普通邮件 删除已读
+var DefineDelMailActivity = &C2SDelMail{MailId: 0, MailType: 1}              // 活动邮件 删除已读
+var DefineGiftRechargeEveryDay = &C2SActGiftNewReceive{Gid: 311, Aid: 301}   // 充值->1元秒杀->每日礼
+var DefineRespectL = &C2SRespect{Type: 0}                                    // 排名—>本区榜->膜拜
+var DefineRespectG = &C2SRespect{Type: 1}                                    // 排名—>跨服榜->膜拜
+var DefineVipDayGift = &C2SGetVipDayGift{}                                   // SVIP 每日礼包
+var DefineLifeCardDayPrize = &C2SLifeCardDayPrize{}                          // 特权卡 -> 至尊卡
+var DefineSign = &C2SSign{}                                                  // 每日签到
+var DefineStageFight = &C2SStageFight{}                                      // 闯关
+var DefineStageDraw = &C2SStageDraw{}                                        // 幸运转盘
+var DefineShopBuyFree = &C2SShopBuy{GoodsId: 11001, Num: 1}                  // 商城 - 每日免费领的商品
 
 func RandInt64(min, max int64) int64 {
 	if min < 0 {

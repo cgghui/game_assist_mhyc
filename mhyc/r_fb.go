@@ -437,21 +437,56 @@ func FuBen(ctx context.Context) {
 	defer t13.Stop()
 	f13 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
 		// 扫荡
 		Receive.Action(CLI.YJFBSweep)
 		_ = Receive.Wait(&S2CYJFBSweep{}, s3)
 		// 进入探险
-		//go func() {
-		//	_ = CLI.GetYJFBGuanQiaData(3, 2)
-		//}()
-		//data := &S2CGetYJFBGuanQiaData{}
-		//for _, g := range data.Grids {
-		//	if g.State == 1 {
+		go func() {
+			_ = CLI.GetYJFBGuanQiaData(FuBenId, GuanQiaId)
+		}()
+		data := &S2CGetYJFBGuanQiaData{}
+		_ = Receive.Wait(data, s3)
+		defer func() {
+			Receive.Action(CLI.GetYJFBData)
+			_ = Receive.Wait(&S2CGetYJFBData{}, s3)
+			Fight.Unlock()
+		}()
+		for _, g := range data.Grids {
+			if g.State == 1 && g.EventId != 0 {
+				go func() {
+					_ = CLI.YJFBGuanQiaMove(&C2SYJFBGuanQiaMove{
+						FuBenId:   FuBenId,
+						GuanQiaId: GuanQiaId,
+						TargetGrid: &YJFBGrid{
+							Y: g.Y,
+							X: g.X,
+						},
+					})
+				}()
+				_ = Receive.Wait(&S2CYJFBGuanQiaMove{}, s3)
+				go func() {
+					_ = CLI.YJFBGuanQiaTriggerEvent(&C2SYJFBGuanQiaTriggerEvent{
+						FuBenId:   FuBenId,
+						GuanQiaId: GuanQiaId,
+						TriggerGrid: &YJFBGrid{
+							Y: g.Y,
+							X: g.X,
+						},
+					})
+				}()
+				ret := &S2CYJFBGuanQiaTriggerEvent{}
+				_ = Receive.Wait(ret, s3)
+				if ret.Tag == 57212 {
+					go func() {
+						_ = CLI.WareHouseReceiveItem(1)
+					}()
+					_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+					return TomorrowDuration(RandMillisecond(1800, 3600))
+				}
+			}
+		}
 		//
-		//	}
-		//}
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		return RandMillisecond(120, 300)
 	}
 	for {
 		select {
@@ -879,4 +914,67 @@ func (x *S2CGetYJFBGuanQiaData) ID() uint16 {
 func (x *S2CGetYJFBGuanQiaData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][GetYJFBGuanQiaData] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) YJFBGuanQiaMove(m *C2SYJFBGuanQiaMove) error {
+	body, err := proto.Marshal(m)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][YJFBGuanQiaMove] fu_ben_id=%v guang_qia_id=%v x=%v y=%v", m.FuBenId, m.GuanQiaId, m.TargetGrid.X, m.TargetGrid.Y)
+	return c.send(27203, body)
+}
+
+func (x *S2CYJFBGuanQiaMove) ID() uint16 {
+	return 27204
+}
+
+// Message S2CYJFBGuanQiaMove 27204
+func (x *S2CYJFBGuanQiaMove) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][YJFBGuanQiaMove] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) YJFBGuanQiaTriggerEvent(e *C2SYJFBGuanQiaTriggerEvent) error {
+	body, err := proto.Marshal(e)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][YJFBGuanQiaTriggerEvent] fu_ben_id=%v guang_qia_id=%v x=%v y=%v", e.FuBenId, e.GuanQiaId, e.TriggerGrid.X, e.TriggerGrid.Y)
+	return c.send(27205, body)
+}
+
+func (x *S2CYJFBGuanQiaTriggerEvent) ID() uint16 {
+	return 27206
+}
+
+// Message S2CYJFBGuanQiaTriggerEvent 27206
+func (x *S2CYJFBGuanQiaTriggerEvent) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][YJFBGuanQiaTriggerEvent] tag=%v %v", x.Tag, x)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) GetYJFBData() error {
+	body, err := proto.Marshal(&C2SGetYJFBData{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][GetYJFBData]")
+	return c.send(27209, body)
+}
+
+func (x *S2CGetYJFBData) ID() uint16 {
+	return 27210
+}
+
+// Message S2CGetYJFBData 27210
+func (x *S2CGetYJFBData) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetYJFBData] tag=%v fb=%v", x.Tag, x.Fb)
 }

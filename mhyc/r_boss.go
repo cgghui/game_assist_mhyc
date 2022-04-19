@@ -8,13 +8,6 @@ import (
 	"time"
 )
 
-const BossMultiID = int32(9) // 多人BOSS
-const BossHomeID = 8         // 跨服 - BOSS之家
-
-// HltjID 1101 1102 1103 1104 1105
-// HltjID 1201 1202 1203 1204 1205
-const HltjID = int32(1204) // 幻灵天界
-
 // BossPersonal 个人BOSS
 func BossPersonal() {
 	t := time.NewTimer(ms100)
@@ -647,7 +640,7 @@ func BossHLTJ(ctx context.Context) {
 		var teamInfo S2CTeamInfo // 等待成员加入
 		ListenMessageCallEx(&S2CTeamInfo{}, func(data []byte) bool {
 			teamInfo.Message(data)
-			return len(teamInfo.Players) < 3
+			return len(teamInfo.Players) < HltjTeamRen
 		})
 		// 120402
 		ReviveList := make([]int64, 0)
