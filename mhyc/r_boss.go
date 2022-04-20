@@ -420,6 +420,13 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	if RoleInfo.Get(field).Int64() >= 3 {
 		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
+	//
+	if field == "XsdXsdDayCollectTimes" {
+		go func() {
+			_ = CLI.DropItems(39051)
+		}()
+		_ = Receive.Wait(&S2CGetDropItems{}, s3)
+	}
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
 	// 地图怪
