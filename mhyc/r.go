@@ -8,6 +8,7 @@ import (
 
 var CLI *Connect
 var Fight = &sync.Mutex{}
+var CloseConn bool
 
 //var PCK = map[uint16]HandleMessage{
 //	2:     &S2CLogin{},

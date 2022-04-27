@@ -33,6 +33,7 @@ func main() {
 	}
 
 	mhyc.CLI = cli
+	mhyc.CloseConn = false
 
 	go func() {
 
@@ -148,7 +149,7 @@ func main() {
 		go mhyc.BossXMD(ctx)
 		go mhyc.BossHLTJ(ctx)
 		go mhyc.BossBDJJ(ctx)
-		//go mhyc.WorldBoss(ctx)
+		go mhyc.WorldBoss(ctx)
 		go mhyc.KuaFu(ctx)
 		go mhyc.FuBen(ctx)
 		go mhyc.HuoDongSBHS(ctx)
@@ -158,7 +159,8 @@ func main() {
 		go mhyc.HuoDongXS(ctx)
 		//go mhyc.ShenYu(ctx)
 		//go mhyc.JXSC(ctx)
-		//go mhyc.HuoDongZJLDZ(ctx)
+		go mhyc.HuoDongZJLDZ(ctx)
+		go mhyc.Buy(ctx)
 	}()
 
 	go func() {
@@ -167,6 +169,7 @@ func main() {
 			if _, message, err = cli.Conn.ReadMessage(); err != nil {
 				cancel()
 				mhyc.Receive.Close()
+				mhyc.CloseConn = true
 				log.Println("read:", err)
 				return
 			}
@@ -174,6 +177,8 @@ func main() {
 			err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
 			if err != nil {
 				cancel()
+				mhyc.Receive.Close()
+				mhyc.CloseConn = true
 				log.Printf("recv: %v", err)
 				continue
 			}

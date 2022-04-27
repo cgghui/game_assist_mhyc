@@ -164,15 +164,6 @@ func (c *Connect) GetActTimestamp(act *C2SGetActTimestamp) error {
 	return c.send(1541, body)
 }
 
-// ShopBuy 商城购物
-func (c *Connect) ShopBuy(goods *C2SShopBuy) error {
-	body, err := proto.Marshal(goods)
-	if err != nil {
-		return err
-	}
-	return c.send(432, body)
-}
-
 func (c *Connect) GetPetAMergeInfo() error {
 	body, err := proto.Marshal(&C2SGetPetAMergeInfo{})
 	if err != nil {

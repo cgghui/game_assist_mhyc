@@ -47,6 +47,7 @@ func (r *receiveMessage) IsOpen() bool {
 ////////////////////////////////////////////////////////////////////////
 
 var ErrReceiveMessageTimeout = errors.New("receive message timeout")
+var ErrReceiveClose = errors.New("receive channel close")
 
 type receiveMessageBox struct {
 	ls []*receiveMessage
@@ -98,7 +99,10 @@ func (r *receiveMessageBox) WaitWithContext(ctx context.Context, call HandleMess
 		return nil
 	}
 	select {
-	case data := <-rm.wait:
+	case data, ok := <-rm.wait:
+		if ok == false {
+			return ErrReceiveClose
+		}
 		call.Message(data)
 		return nil
 	case <-ctx.Done():

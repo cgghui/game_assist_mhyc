@@ -23,6 +23,9 @@ func AFK(ctx context.Context) {
 				if err := Receive.Wait(info, s3); err != nil {
 					continue
 				}
+				if CloseConn {
+					return s3
+				}
 				if info.Coin <= 0 {
 					Receive.Action(CLI.AFKBuyTimes)
 					_ = Receive.Wait(buyTimes, s3)

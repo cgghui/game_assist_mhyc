@@ -231,17 +231,20 @@ func XuanShangBoss(ctx context.Context) {
 // worldBossActTime 世界BOSS活动时间
 func worldBossActTime() time.Duration {
 	cur := time.Now()
+	y := cur.Year()
+	m := cur.Month()
+	d := cur.Day()
 	actStartTime := []time.Time{
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 10, 30, 0, 0, time.Local).Add(ms500),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 14, 30, 0, 0, time.Local).Add(ms500),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 16, 30, 0, 0, time.Local).Add(ms500),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 19, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 10, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 14, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 16, 30, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 19, 30, 0, 0, time.Local).Add(ms500),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {
 			return ast.Sub(cur)
 		}
-		if cur.Before(ast.Add(10 * time.Minute)) {
+		if cur.Before(ast.Add(time.Minute)) {
 			return 0
 		}
 	}
@@ -252,7 +255,7 @@ func worldBossActTime() time.Duration {
 func WorldBoss(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
-		if td := actSbhsTime(); td != 0 {
+		if td := worldBossActTime(); td != 0 {
 			return td
 		}
 		Fight.Lock()
@@ -276,36 +279,45 @@ func WorldBoss(ctx context.Context) {
 		cx, end := context.WithCancel(ctx)
 		defer end()
 		//
-		monster := make(chan *S2CMonsterEnterMap)
-		defer close(monster)
-		go ListenMessageCallEx(&S2CMonsterEnterMap{}, func(data []byte) bool {
+		monster := make(chan *S2CMonsterEnterMap, 10)
+		go ListenMessageCall(cx, &S2CMonsterEnterMap{}, func(data []byte) {
+			defer close(monster)
 			var enter S2CMonsterEnterMap
 			if err := proto.Unmarshal(data, &enter); err == nil {
 				monster <- &enter
-				return false
 			}
-			return true
 		})
-		//
+		// 结束
 		go ListenMessageCall(cx, &S2CWorldBossEnd{}, func(data []byte) {
 			end()
 		})
-		go ListenMessageCall(cx, &S2CWorldBossLevel{}, func(data []byte) {
-			end()
+		// 等待 摇筛子
+		go ListenMessageCall(cx, &S2CWorldBossBreakShieldInfo{}, func(data []byte) {
+			r := &S2CWorldBossBreakShieldInfo{}
+			r.Message(data)
+			if r.MyState == 0 && r.MyPoints == 0 {
+				go func() {
+					go func() {
+						_ = CLI.WorldBossStakePoints(1)
+					}()
+					_ = Receive.Wait(&S2CWorldBossBreakShieldInfo{}, s3)
+				}()
+			}
 		})
 		//
-		boss := <-monster
 		tc := time.NewTimer(ms10)
 		defer tc.Stop()
-		// TODO: 不知道打怪过程，摇筛子
-		for range tc.C {
-			s, r := FightAction(boss.Id, 8)
-			if s == nil {
-				tc.Reset(ms100)
-				continue
-			}
-			if r.Win == 1 {
-				break
+		for boss := range monster {
+			tc.Reset(ms10)
+			for range tc.C {
+				s, r := FightAction(boss.Id, 8)
+				if s == nil {
+					tc.Reset(ms500)
+					continue
+				}
+				if r.Win == 1 {
+					break
+				}
 			}
 		}
 		return ms500
@@ -820,12 +832,18 @@ func BossBDJJ(ctx context.Context) {
 		for range tc.C {
 			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
 			tc.Reset(ms500)
+			if f == nil && CloseConn {
+				return s3
+			}
 			if f != nil && f.Tag != 0 { // 60106 战斗次数不足
 				break
 			}
 		}
 		for range tc.C {
 			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
+			if f == nil && CloseConn {
+				return s3
+			}
 			if f == nil {
 				tc.Reset(ms500)
 				continue
@@ -1543,4 +1561,38 @@ func (x *S2CWorldBossCloseScene) ID() uint16 {
 func (x *S2CWorldBossCloseScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][WorldBossCloseScene] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CWorldBossBreakShieldInfo) ID() uint16 {
+	return 15014
+}
+
+// Message S2CWorldBossBreakShieldInfo 15014
+func (x *S2CWorldBossBreakShieldInfo) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	t := time.Unix(x.OverTimestamp, 0).Local().Format("2006-01-02 15:04:05")
+	log.Printf("[S][WorldBossBreakShieldInfo] over_time=%v", t)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) WorldBossStakePoints(op int32) error {
+	body, err := proto.Marshal(&C2SWorldBossStakePoints{Op: op})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][WorldBossStakePoints] op=%d", op)
+	return c.send(15015, body)
+}
+
+func (x *S2CWorldBossStakePoints) ID() uint16 {
+	return 15016
+}
+
+// Message S2CWorldBossStakePoints 15016
+func (x *S2CWorldBossStakePoints) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WorldBossStakePoints] tag=%v state=%v points=%v", x.Tag, x.State, x.Points)
 }

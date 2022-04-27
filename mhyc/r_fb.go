@@ -382,6 +382,9 @@ func FuBen(ctx context.Context) {
 			}(i)
 			r := &S2CJungleHuntFight{}
 			_ = Receive.Wait(r, s3)
+			if r.Tag == 0 && r.Win == 0 && CloseConn {
+				return s3
+			}
 			if r.Tag == 58871 || r.Tag == 58851 { // 全体阵亡 已通关
 				break
 			}

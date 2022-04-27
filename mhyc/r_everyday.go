@@ -620,17 +620,6 @@ func (x *S2CSign) Message(data []byte) {
 
 ////////////////////////////////////////////////////////////
 
-func (x *S2CShopBuy) ID() uint16 {
-	return 433
-}
-
-func (x *S2CShopBuy) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ShopBuy] tag=%d %v", x.Tag, x)
-}
-
-////////////////////////////////////////////////////////////
-
 func (x *S2CTotalSignPrize) ID() uint16 {
 	return 22307
 }
