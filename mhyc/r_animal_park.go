@@ -1,6 +1,7 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
@@ -13,8 +14,9 @@ const (
 	ItemPet503 int32 = 503 // 金铲子
 )
 
-func EnterAnimalPark() {
+func EnterAnimalPark(ctx context.Context) {
 	t := time.NewTimer(ms10)
+	defer t.Stop()
 	f := func() {
 		Fight.Lock()
 		defer Fight.Unlock()
@@ -88,9 +90,14 @@ func EnterAnimalPark() {
 		Receive.Action(CLI.LeaveAnimalPark)
 		_ = Receive.Wait(&S2CLeaveAnimalPark{}, s3)
 	}
-	for range t.C {
-		f()
-		t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+	for {
+		select {
+		case <-t.C:
+			f()
+			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

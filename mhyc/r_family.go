@@ -1,6 +1,7 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
@@ -10,8 +11,9 @@ import (
 // [RoleInfo] FamilyJJC_TimesLeft 剩余次数
 // [RoleInfo] FamilyJJC_Times	  使用次数
 // [RoleInfo] FamilyJJC_Score	  积分
-func FamilyJJC() {
+func FamilyJJC(ctx context.Context) {
 	t := time.NewTimer(ms10)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
@@ -57,8 +59,13 @@ func FamilyJJC() {
 		}
 		return ms500
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

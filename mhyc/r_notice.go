@@ -106,6 +106,13 @@ func (r *receiveMessageBox) WaitWithContext(ctx context.Context, call HandleMess
 	}
 }
 
+func (r *receiveMessageBox) Close() {
+	for _, w := range r.ls {
+		close(w.wait)
+		w.Close()
+	}
+}
+
 func (r *receiveMessageBox) Notify(id uint16, data []byte) {
 	success := false
 	for _, w := range r.ls {

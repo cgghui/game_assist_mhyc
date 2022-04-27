@@ -1,14 +1,16 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
 // XianDianSSSL 仙宗 - 仙殿 - 神兽试炼
-func XianDianSSSL() {
+func XianDianSSSL(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		if RoleInfo.Get("SectGodAnimalChallenge").Int64() >= 35 {
 			curr := time.Now()
@@ -38,8 +40,13 @@ func XianDianSSSL() {
 		}
 		return RandMillisecond(86400, 115200)
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

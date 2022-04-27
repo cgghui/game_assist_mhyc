@@ -11,12 +11,12 @@ const (
 	DataRoot  = "D:\\go\\game_assist_mhyc\\mhyc"
 	UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
 
-	BossMultiID int32 = 9 // 多人BOSS
-	BossHomeID        = 8 // 跨服 - BOSS之家
+	BossMultiID int32 = 10 // 多人BOSS
+	BossHomeID        = 9  // 跨服 - BOSS之家
 
 	// HltjID 1101 1102 1103 1104 1105
 	// HltjID 1201 1202 1203 1204 1205
-	HltjID      int32 = 1204 // 幻灵天界
+	HltjID      int32 = 1304 // 幻灵天界
 	HltjTeamRen       = 2    // 幻灵天界 参团至少人数
 
 	// 秘境探险

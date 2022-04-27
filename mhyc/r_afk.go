@@ -1,18 +1,20 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
 // AFK 挂机
-func AFK() {
+func AFK(ctx context.Context) {
 	// 定时领取有尝奖励
 	go func() {
 		info := &S2CAFKGetBuyInfo{}
 		buyTimes := &S2CAFKBuyTimes{}
 		t := time.NewTimer(ms100)
+		defer t.Stop()
 		f := func() time.Duration {
 			Fight.Lock()
 			defer Fight.Unlock()
@@ -29,8 +31,13 @@ func AFK() {
 				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
 		}
-		for range t.C {
-			t.Reset(f())
+		for {
+			select {
+			case <-t.C:
+				t.Reset(f())
+			case <-ctx.Done():
+				return
+			}
 		}
 	}()
 	// 定时领取挂机奖励

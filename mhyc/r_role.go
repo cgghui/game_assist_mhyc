@@ -12,6 +12,27 @@ import (
 
 ////////////////////////////////////////////////////////////
 
+func (c *Connect) StartMove(m *C2SStartMove) error {
+	body, err := proto.Marshal(m)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][角色移动] P0:%d P1:%d", m.P[0], m.P[1])
+	return c.send(52, body)
+}
+
+func (x *S2CStartMove) ID() uint16 {
+	return 53
+}
+
+// Message S2CStartMove 53
+func (x *S2CStartMove) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][角色移动] tag=%v", x.Tag)
+}
+
+////////////////////////////////////////////////////////////
+
 // WareHouseReceiveItem 将仓库内的物品转至背包
 // 5 寻宝
 func (c *Connect) WareHouseReceiveItem(id int32) error {

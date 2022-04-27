@@ -3,6 +3,7 @@ package mhyc
 // 仙宗 - 仙殿 - 仙宗悬赏
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
@@ -10,8 +11,9 @@ import (
 )
 
 // XianDianXDXS - 仙殿 - 仙宗悬赏
-func XianDianXDXS() {
+func XianDianXDXS(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		task := &S2CPlayerXZXS{}
 		Receive.Action(CLI.PlayerXZXS)
@@ -57,8 +59,13 @@ func XianDianXDXS() {
 		}
 		return RandMillisecond(600, 900)
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

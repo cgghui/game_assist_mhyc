@@ -1,6 +1,7 @@
 package mhyc
 
 import (
+	"context"
 	"encoding/json"
 	"google.golang.org/protobuf/proto"
 	"io/ioutil"
@@ -9,8 +10,9 @@ import (
 )
 
 // XianDianXDSW 仙宗 - 仙殿 - 仙宗声望 // 晋升
-func XianDianXDSW() {
+func XianDianXDSW(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		if s := RoleInfo.SectPrestige(); s != nil && int(RoleInfo.Get("SectPrestigeVal").Int64()) >= s.Prestige {
 			Receive.Action(CLI.SectPrestigeLevelUp)
@@ -18,8 +20,13 @@ func XianDianXDSW() {
 		}
 		return RandMillisecond(60, 180) // 1 ~ 3 分钟
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

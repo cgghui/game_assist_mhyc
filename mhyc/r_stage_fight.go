@@ -1,13 +1,15 @@
 package mhyc
 
 import (
+	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
 )
 
-func StageFight() {
+func StageFight(ctx context.Context) {
 	tm := time.NewTimer(ms500)
+	defer tm.Stop()
 	ff := func() {
 		Fight.Lock()
 		defer Fight.Unlock()
@@ -15,7 +17,7 @@ func StageFight() {
 		for range tm.C {
 			Receive.Action(CLI.StageFight)
 			f := &S2CStageFight{}
-			if _ = Receive.Wait(f, s3); f.Tag == 31 || f.Tag == 9012 {
+			if _ = Receive.Wait(f, s3); f.Tag == 31 || f.Tag == 9012 || (f.Tag == 0 && f.Win == 0) {
 				break
 			}
 			if f.Tag == 17003 {
@@ -40,9 +42,15 @@ func StageFight() {
 		tm.Reset(RandMillisecond(8, 30))
 	}
 	tc := time.NewTimer(ms100)
-	for range tc.C {
-		ff()
-		tc.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+	defer tc.Stop()
+	for {
+		select {
+		case <-tc.C:
+			ff()
+			tc.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

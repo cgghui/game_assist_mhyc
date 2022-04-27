@@ -9,8 +9,9 @@ import (
 )
 
 // BossPersonal 个人BOSS
-func BossPersonal() {
+func BossPersonal(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		ret := &S2CBossPersonalSweep{}
 		Receive.Action(CLI.BossPersonalSweep)
@@ -20,14 +21,20 @@ func BossPersonal() {
 		}
 		return time.Minute
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
 // BossVIP 至尊BOSS
-func BossVIP() {
+func BossVIP(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		ret := &S2CBossVipSweep{}
 		Receive.Action(CLI.BossVipSweep)
@@ -37,14 +44,20 @@ func BossVIP() {
 		}
 		return time.Minute
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
 // BossXYCM 降妖除魔
-func BossXYCM() {
+func BossXYCM(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		for _, layer := range []int32{10, 20, 30, 40, 50} {
 			go func(layer int32) {
@@ -56,14 +69,20 @@ func BossXYCM() {
 		_ = Receive.Wait(&S2CRecLimitFightReward{}, s3)
 		return TomorrowDuration(RandMillisecond(600, 1800))
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
 // BossMulti 多人BOSS
-func BossMulti() {
+func BossMulti(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer func() {
@@ -137,14 +156,20 @@ func BossMulti() {
 		//
 		return ms100
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
 // XuanShangBoss 悬赏BOSS
-func XuanShangBoss() {
+func XuanShangBoss(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
@@ -193,8 +218,13 @@ func XuanShangBoss() {
 		FightAction(accept.BossID, 8)
 		return ms500
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
@@ -291,8 +321,9 @@ func WorldBoss(ctx context.Context) {
 	}
 }
 
-func BossHome() {
+func BossHome(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer func() {
@@ -364,19 +395,28 @@ func BossHome() {
 		}
 		return ms500
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
-func BossXLD() {
+func BossXLD(ctx context.Context) {
 	t := time.NewTimer(ms100)
+	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
 		info := &S2CXLDBossInfo{}
 		Receive.Action(CLI.XLDBossInfo)
 		if err := Receive.Wait(info, s3); err != nil {
+			return ms100
+		}
+		if len(info.Items) == 0 {
 			return ms100
 		}
 		var timeList = make([]int64, 0)
@@ -401,8 +441,13 @@ func BossXLD() {
 		}
 		return time.Second
 	}
-	for range t.C {
-		t.Reset(f())
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 
@@ -420,13 +465,6 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	if RoleInfo.Get(field).Int64() >= 3 {
 		return TomorrowDuration(RandMillisecond(30000, 30600))
 	}
-	//
-	if field == "XsdXsdDayCollectTimes" {
-		go func() {
-			_ = CLI.DropItems(39051)
-		}()
-		_ = Receive.Wait(&S2CGetDropItems{}, s3)
-	}
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
 	// 地图怪
@@ -434,8 +472,8 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	go monsterEnterMap(ctx, &monster)
 	// 怪信息
 	bossInfoChan := make(chan *S2CXsdBossInfo)
-	defer close(bossInfoChan)
 	go func() {
+		defer close(bossInfoChan)
 		info := &S2CXsdBossInfo{}
 		if err := Receive.Wait(info, s30); err != nil {
 			bossInfoChan <- nil
@@ -451,6 +489,21 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	if err := Receive.Wait(join, s30); err != nil {
 		return ms100
 	}
+	//
+	if field == "XsdXsdDayCollectTimes" {
+		go func() {
+			_ = CLI.DropItems(39051)
+		}()
+		_ = Receive.Wait(&S2CGetDropItems{}, s3)
+		go func() {
+			_ = CLI.StartMove(&C2SStartMove{P: []int32{13, 24}})
+		}()
+		_ = Receive.Wait(&S2CStartMove{}, s3)
+	}
+	if field == "XsdXmdDayCollectTimes" {
+
+	}
+	//
 	bossList := <-bossInfoChan // BOSS
 	if bossList == nil {
 		return ms100
@@ -488,6 +541,9 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 			_ = CLI.RoutePath(&C2SRoutePath{MapId: 2555, FX: 13, FY: 24, TX: 38, TY: 73})
 		}()
 		_ = Receive.Wait(&S2CRoutePath{}, s3)
+	}
+	if field == "XsdXmdDayCollectTimes" {
+
 	}
 	cur := time.Now()
 	brt := time.Unix(collect.FinishTimestamp, 0).Local()
@@ -572,7 +628,7 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 	return s3
 }
 
-func BossXSD() {
+func BossXSD(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	t2 := time.NewTimer(ms100)
 	defer t1.Stop()
@@ -583,11 +639,13 @@ func BossXSD() {
 			t1.Reset(bossBattleScene("XsdXsdDayFightTimes", 1, 1))
 		case <-t2.C:
 			t2.Reset(collectSC("XsdXsdDayCollectTimes", 1, 7))
+		case <-ctx.Done():
+			return
 		}
 	}
 }
 
-func BossXMD() {
+func BossXMD(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	t2 := time.NewTimer(ms100)
 	defer t1.Stop()
@@ -597,7 +655,9 @@ func BossXMD() {
 		case <-t1.C:
 			t1.Reset(bossBattleScene("XsdXmdDayFightTimes", 2, 1))
 		case <-t2.C:
-			t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
+		//t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
+		case <-ctx.Done():
+			return
 		}
 	}
 }
@@ -629,6 +689,9 @@ func BossHLTJ(ctx context.Context) {
 		}()
 		var ct S2CCreateTeam
 		if err := Receive.Wait(&ct, s3); err != nil {
+			return ms500
+		}
+		if ct.Team == nil {
 			return ms500
 		}
 		defer func() {
@@ -757,7 +820,7 @@ func BossBDJJ(ctx context.Context) {
 		for range tc.C {
 			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
 			tc.Reset(ms500)
-			if f.Tag != 0 { // 60106 战斗次数不足
+			if f != nil && f.Tag != 0 { // 60106 战斗次数不足
 				break
 			}
 		}
