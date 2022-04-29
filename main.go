@@ -21,13 +21,28 @@ func main() {
 	var cancel context.CancelFunc
 
 	tm := time.NewTimer(time.Millisecond)
+
+	reStart := func(r int) {
+		t := time.NewTicker(time.Second)
+		defer t.Stop()
+		for range t.C {
+			fmt.Printf("\r系统将在%d秒后，重新运行", r)
+			r--
+			if r == 0 {
+				tm.Reset(time.Millisecond)
+				fmt.Println("")
+				return
+			}
+		}
+	}
+
 	for range tm.C {
+
+		mhyc.Init()
 
 		ctx, cancel = context.WithCancel(context.Background())
 
 		wg := &sync.WaitGroup{}
-
-		mhyc.Init()
 
 		thread := func(f ...func()) {
 			for i := range f {
@@ -54,13 +69,13 @@ func main() {
 		session, err = mhyc.NewClient("549f82f51e9562594e5572e487585160", "19c3e57e2544f42b30b21104d24b2a94")
 		if err != nil {
 			log.Printf("session: %v", err)
-			tm.Reset(time.Minute)
+			go reStart(60)
 			continue
 		}
 		var cli *mhyc.Connect
 		if cli, err = session.Connect(ctx); err != nil {
 			log.Printf("connect: %v", err)
-			tm.Reset(time.Minute)
+			go reStart(60)
 			continue
 		}
 
@@ -101,6 +116,8 @@ func main() {
 					}
 				}
 			})
+			//
+			mhyc.Receive.Action(cli.LoginEnd)
 			//
 			thread(
 				func() {
@@ -251,21 +268,7 @@ func main() {
 		})
 
 		wg.Wait()
-
-		go func() {
-			r := 300
-			t := time.NewTicker(time.Second)
-			defer t.Stop()
-			for range t.C {
-				fmt.Printf("\r系统将在%d秒后，重新运行", r)
-				r--
-				if r == 0 {
-					tm.Reset(time.Millisecond)
-					fmt.Println("")
-					return
-				}
-			}
-		}()
+		go reStart(300)
 	}
 
 	interrupt := make(chan os.Signal, 1)
