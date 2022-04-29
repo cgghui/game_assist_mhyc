@@ -261,6 +261,7 @@ func main() {
 				r--
 				if r == 0 {
 					tm.Reset(time.Millisecond)
+					fmt.Println("")
 					return
 				}
 			}
