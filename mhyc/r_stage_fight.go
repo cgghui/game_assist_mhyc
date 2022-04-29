@@ -14,32 +14,43 @@ func StageFight(ctx context.Context) {
 		Fight.Lock()
 		defer Fight.Unlock()
 		// 闯关
-		for range tm.C {
-			Receive.Action(CLI.StageFight)
-			f := &S2CStageFight{}
-			if _ = Receive.Wait(f, s3); f.Tag == 31 || f.Tag == 9012 || (f.Tag == 0 && f.Win == 0) {
-				break
+		for {
+			select {
+			case <-tm.C:
+				Receive.Action(CLI.StageFight)
+				f := &S2CStageFight{}
+				if _ = Receive.Wait(f, s3); f.Tag == 31 || f.Tag == 9012 || (f.Tag == 0 && f.Win == 0) {
+					goto Lucky
+				}
+				if f.Tag == 17003 {
+					tm.Reset(time.Second)
+					break
+				}
+				if f.Tag == 0 {
+					_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
+				}
+				tm.Reset(ms100)
+			case <-ctx.Done():
+				return
 			}
-			if f.Tag == 17003 {
-				tm.Reset(time.Second)
-				continue
-			}
-			if f.Tag == 0 {
-				_ = Receive.Wait(&S2CBattlefieldReport{}, s3)
-			}
-			tm.Reset(ms100)
 		}
+	Lucky:
 		// 幸运转盘
 		tm.Reset(ms100)
-		for range tm.C {
-			Receive.Action(CLI.GetStageDraw)
-			_ = Receive.Wait(&S2CStageDraw{}, s3)
-			if RoleInfo.Get("StageDrawTimes").Int64() <= 0 {
-				break
+		for {
+			select {
+			case <-tm.C:
+				Receive.Action(CLI.GetStageDraw)
+				_ = Receive.Wait(&S2CStageDraw{}, s3)
+				if RoleInfo.Get("StageDrawTimes").Int64() <= 0 {
+					tm.Reset(RandMillisecond(8, 30))
+					return
+				}
+				tm.Reset(ms100)
+			case <-ctx.Done():
+				return
 			}
-			tm.Reset(ms100)
 		}
-		tm.Reset(RandMillisecond(8, 30))
 	}
 	tc := time.NewTimer(ms100)
 	defer tc.Stop()

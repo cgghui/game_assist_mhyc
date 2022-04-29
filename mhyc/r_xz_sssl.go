@@ -29,16 +29,20 @@ func XianDianSSSL(ctx context.Context) {
 		_ = Receive.Wait(&S2CJoinActive{}, s3)
 		k := time.NewTimer(ms100)
 		defer k.Stop()
-		for range k.C {
-			info := &S2CChallengeGodAnimal{}
-			Receive.Action(CLI.ChallengeGodAnimal)
-			_ = Receive.Wait(info, s3)
-			if info.Tag == 48025 {
-				break
+		for {
+			select {
+			case <-k.C:
+				info := &S2CChallengeGodAnimal{}
+				Receive.Action(CLI.ChallengeGodAnimal)
+				_ = Receive.Wait(info, s3)
+				if info.Tag == 48025 {
+					return RandMillisecond(86400, 115200)
+				}
+				k.Reset(ms500)
+			case <-ctx.Done():
+				return s3
 			}
-			k.Reset(ms500)
 		}
-		return RandMillisecond(86400, 115200)
 	}
 	for {
 		select {

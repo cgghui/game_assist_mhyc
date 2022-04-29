@@ -46,7 +46,7 @@ func FuBen(ctx context.Context) {
 	// 爬塔 宝石
 	t2 := time.NewTimer(ms100)
 	defer t2.Stop()
-	f2 := func() time.Duration {
+	f2 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -65,25 +65,31 @@ func FuBen(ctx context.Context) {
 		if enter.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			go func() {
-				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 1, Id: 0})
-			}()
-			r := &S2CClimbingTowerFight{}
-			if err := Receive.Wait(r, s3); err != nil {
-				return ms100
-			}
-			if r.Tag != 0 {
-				break
+			select {
+			case <-tm.C:
+				go func() {
+					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 1, Id: 0})
+				}()
+				r := &S2CClimbingTowerFight{}
+				if err := Receive.Wait(r, s3); err != nil {
+					return ms100
+				}
+				if r.Tag != 0 {
+					return ms100
+				}
+				tm.Reset(ms10)
+			case <-ctx.Done():
+				return s3
 			}
 		}
-
-		return ms100
 	}
 	// 爬塔 天仙
 	t3 := time.NewTimer(ms100)
 	defer t3.Stop()
-	f3 := func() time.Duration {
+	f3 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -102,24 +108,31 @@ func FuBen(ctx context.Context) {
 		if enter.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			go func() {
-				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 2, Id: 0})
-			}()
-			r := &S2CClimbingTowerFight{}
-			if err := Receive.Wait(r, s3); err != nil {
-				return ms100
-			}
-			if r.Tag != 0 {
-				break
+			select {
+			case <-tm.C:
+				go func() {
+					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 2, Id: 0})
+				}()
+				r := &S2CClimbingTowerFight{}
+				if err := Receive.Wait(r, s3); err != nil {
+					return ms100
+				}
+				if r.Tag != 0 {
+					return ms100
+				}
+				tm.Reset(ms10)
+			case <-ctx.Done():
+				return s3
 			}
 		}
-		return ms100
 	}
 	// 爬塔 战神
 	t4 := time.NewTimer(ms100)
 	defer t4.Stop()
-	f4 := func() time.Duration {
+	f4 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -138,24 +151,31 @@ func FuBen(ctx context.Context) {
 		if enter.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			go func() {
-				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 3, Id: 0})
-			}()
-			r := &S2CClimbingTowerFight{}
-			if err := Receive.Wait(r, s3); err != nil {
-				return ms100
-			}
-			if r.Tag != 0 {
-				break
+			select {
+			case <-tm.C:
+				go func() {
+					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 3, Id: 0})
+				}()
+				r := &S2CClimbingTowerFight{}
+				if err := Receive.Wait(r, s3); err != nil {
+					return ms100
+				}
+				if r.Tag != 0 {
+					return ms100
+				}
+				tm.Reset(ms10)
+			case <-ctx.Done():
+				return s3
 			}
 		}
-		return ms100
 	}
 	// 爬塔 仙童
 	t5 := time.NewTimer(ms100)
 	defer t5.Stop()
-	f5 := func() time.Duration {
+	f5 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -174,24 +194,31 @@ func FuBen(ctx context.Context) {
 		if enter.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			go func() {
-				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 4, Id: 0})
-			}()
-			r := &S2CClimbingTowerFight{}
-			if err := Receive.Wait(r, s3); err != nil {
-				return ms100
-			}
-			if r.Tag != 0 {
-				break
+			select {
+			case <-tm.C:
+				go func() {
+					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 4, Id: 0})
+				}()
+				r := &S2CClimbingTowerFight{}
+				if err := Receive.Wait(r, s3); err != nil {
+					return ms100
+				}
+				if r.Tag != 0 {
+					return ms100
+				}
+				tm.Reset(ms10)
+			case <-ctx.Done():
+				return s3
 			}
 		}
-		return ms100
 	}
 	// 爬塔 剑魂
 	t6 := time.NewTimer(ms100)
 	defer t6.Stop()
-	f6 := func() time.Duration {
+	f6 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer func() {
 			go func() {
@@ -210,18 +237,28 @@ func FuBen(ctx context.Context) {
 		if enter.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			go func() {
-				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 5, Id: 0})
-			}()
-			r := &S2CClimbingTowerFight{}
-			if err := Receive.Wait(r, s3); err != nil {
-				return ms100
+			select {
+			case <-tm.C:
+				go func() {
+					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 5, Id: 0})
+				}()
+				r := &S2CClimbingTowerFight{}
+				if err := Receive.Wait(r, s3); err != nil {
+					goto Next
+				}
+				if r.Tag != 0 {
+					goto Next
+				}
+				tm.Reset(ms10)
+			case <-ctx.Done():
+				return s3
 			}
-			if r.Tag != 0 {
-				break
-			}
+
 		}
+	Next:
 		// 分解
 		Receive.Action(CLI.SwordSoulResolveJH)
 		_ = Receive.Wait(&S2CSwordSoulResolve{}, s3)
@@ -364,44 +401,46 @@ func FuBen(ctx context.Context) {
 	// 仙林狩猎
 	t11 := time.NewTimer(ms100)
 	defer t11.Stop()
-	f11 := func() time.Duration {
+	f11 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
 		defer Fight.Unlock()
 		i := 1
 		ts := time.NewTimer(ms10)
 		defer ts.Stop()
-		for range ts.C {
-			if i >= 11 {
-				break
-			}
-			Receive.Action(CLI.JungleHuntData)
-			_ = Receive.Wait(&S2CJungleHuntData{}, s3)
-			//
-			go func(i int) {
-				_ = CLI.JungleHuntFight(&C2SJungleHuntFight{CpId: int32(i)})
-			}(i)
-			r := &S2CJungleHuntFight{}
-			_ = Receive.Wait(r, s3)
-			if r.Tag == 0 && r.Win == 0 && CloseConn {
+		for {
+			select {
+			case <-ts.C:
+				if i >= 11 {
+					goto Next
+				}
+				Receive.Action(CLI.JungleHuntData)
+				_ = Receive.Wait(&S2CJungleHuntData{}, s3)
+				//
+				go func(i int) {
+					_ = CLI.JungleHuntFight(&C2SJungleHuntFight{CpId: int32(i)})
+				}(i)
+				r := &S2CJungleHuntFight{}
+				_ = Receive.Wait(r, s3)
+				if r.Tag == 58871 || r.Tag == 58851 { // 全体阵亡 已通关
+					goto Next
+				}
+				// 尝试阵亡复活
+				// 第8层以下进行复活
+				if r.CpId <= 8 && r.Tag == 0 && r.Win == 0 && RoleInfo.Get("Coin4").Int64() > 1000 {
+					Receive.Action(CLI.JungleHuntTreat)
+					_ = Receive.Wait(&S2CJungleHuntTreat{}, s3)
+					ts.Reset(time.Second)
+					break
+				}
+				if (r.Tag == 0 && r.Win == 1) || r.Tag == 58851 {
+					i++
+				}
+				ts.Reset(time.Second)
+			case <-ctx.Done():
 				return s3
 			}
-			if r.Tag == 58871 || r.Tag == 58851 { // 全体阵亡 已通关
-				break
-			}
-			// 尝试阵亡复活
-			// 第8层以下进行复活
-			if r.CpId <= 8 && r.Tag == 0 && r.Win == 0 && RoleInfo.Get("Coin4").Int64() > 1000 {
-				Receive.Action(CLI.JungleHuntTreat)
-				_ = Receive.Wait(&S2CJungleHuntTreat{}, s3)
-				ts.Reset(time.Second)
-				continue
-			}
-			if (r.Tag == 0 && r.Win == 1) || r.Tag == 58851 {
-				i++
-			}
-			ts.Reset(time.Second)
-			continue
 		}
+	Next:
 		box := &S2CJungleHuntOpenBox{}
 		Receive.Action(CLI.JungleHuntOpenBox)
 		_ = Receive.Wait(&S2CJungleHuntOpenBox{}, s3)
@@ -496,15 +535,15 @@ func FuBen(ctx context.Context) {
 		case <-t1.C:
 			t1.Reset(f1())
 		case <-t2.C:
-			t2.Reset(f2())
+			t2.Reset(f2(ctx))
 		case <-t3.C:
-			t3.Reset(f3())
+			t3.Reset(f3(ctx))
 		case <-t4.C:
-			t4.Reset(f4())
+			t4.Reset(f4(ctx))
 		case <-t5.C:
-			t5.Reset(f5())
+			t5.Reset(f5(ctx))
 		case <-t6.C:
-			t6.Reset(f6())
+			t6.Reset(f6(ctx))
 		case <-t7.C:
 			t7.Reset(f7())
 		case <-t8.C:
@@ -514,7 +553,7 @@ func FuBen(ctx context.Context) {
 		case <-t10.C:
 			t10.Reset(f10())
 		case <-t11.C:
-			t11.Reset(f11())
+			t11.Reset(f11(ctx))
 		case <-t12.C:
 			t12.Reset(f12())
 		case <-t13.C:

@@ -10,6 +10,10 @@ import (
 var Receive *receiveMessageBox
 
 func init() {
+	Init()
+}
+
+func Init() {
 	Receive = &receiveMessageBox{
 		ls: make([]*receiveMessage, 0),
 	}
@@ -115,6 +119,7 @@ func (r *receiveMessageBox) Close() {
 		close(w.wait)
 		w.Close()
 	}
+
 }
 
 func (r *receiveMessageBox) Notify(id uint16, data []byte) {

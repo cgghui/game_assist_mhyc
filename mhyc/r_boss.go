@@ -106,7 +106,7 @@ func BossMulti(ctx context.Context) {
 			}
 		}
 		// 监听相关消息
-		ctx, cancel := context.WithCancel(context.Background())
+		cx, cancel := context.WithCancel(ctx)
 		defer cancel()
 		listens := []HandleMessage{
 			&S2CMultiBossGetDamageLog{},
@@ -114,7 +114,7 @@ func BossMulti(ctx context.Context) {
 			&S2CMultiBossInfo{},
 		}
 		for i := range listens {
-			go ListenMessage(ctx, listens[i])
+			go ListenMessage(cx, listens[i])
 		}
 		// 获取BOSS信息
 		info := &S2CMultiBossInfo{}
@@ -143,18 +143,21 @@ func BossMulti(ctx context.Context) {
 		// loop 战斗
 		tc := time.NewTimer(0)
 		defer tc.Stop()
-		for range tc.C {
-			ret, _ := FightAction(enter.Id, 8)
-			if ret == nil {
-				return ms100
+		for {
+			select {
+			case <-tc.C:
+				ret, _ := FightAction(enter.Id, 8)
+				if ret == nil {
+					return ms100
+				}
+				if ret.Tag == 4022 || ret.Tag == 17002 { // 逃跑
+					return ms100
+				}
+				tc.Reset(ms500)
+			case <-ctx.Done():
+				return s3
 			}
-			if ret.Tag == 4022 || ret.Tag == 17002 { // 逃跑
-				break
-			}
-			tc.Reset(ms500)
 		}
-		//
-		return ms100
 	}
 	for {
 		select {
@@ -309,14 +312,20 @@ func WorldBoss(ctx context.Context) {
 		defer tc.Stop()
 		for boss := range monster {
 			tc.Reset(ms10)
-			for range tc.C {
-				s, r := FightAction(boss.Id, 8)
-				if s == nil {
+			for {
+				select {
+				case <-tc.C:
+					s, r := FightAction(boss.Id, 8)
+					if s == nil || r == nil {
+						tc.Reset(ms500)
+						break
+					}
+					if r.Win == 1 {
+						return s3
+					}
 					tc.Reset(ms500)
-					continue
-				}
-				if r.Win == 1 {
-					break
+				case <-ctx.Done():
+					return s3
 				}
 			}
 		}
@@ -343,11 +352,11 @@ func BossHome(ctx context.Context) {
 			_ = Receive.Wait(&S2CBossHomeLeaveScene{}, s3)
 			Fight.Unlock()
 		}()
-		ctx, cancel := context.WithCancel(context.Background())
+		cx, cancel := context.WithCancel(ctx)
 		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go monsterEnterMap(ctx, &monster)
+		go monsterEnterMap(cx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CHomeBossInfo)
 		defer close(bossInfoChan)
@@ -394,15 +403,26 @@ func BossHome(ctx context.Context) {
 			return s30
 		}
 		// 打怪
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for i := range monster {
-			for {
-				_, r := FightAction(monster[i].Id, 8)
-				if r == nil { // 无战斗报告反馈
-					return ms100
+			tm.Reset(ms100)
+			r := func() bool {
+				for {
+					select {
+					case <-tm.C:
+						_, r := FightAction(monster[i].Id, 8)
+						if r == nil || r.Win == 1 {
+							return true
+						}
+						tm.Reset(ms100)
+					case <-ctx.Done():
+						return false
+					}
 				}
-				if r.Win == 1 {
-					break
-				}
+			}()
+			if !r {
+				break
 			}
 		}
 		return ms500
@@ -567,7 +587,7 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 }
 
 // bossBattleScene BOSS战斗场景
-func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
+func bossBattleScene(cx context.Context, field string, xsdID, bossID int32) time.Duration {
 	Fight.Lock()
 	defer func() {
 		go func() {
@@ -611,6 +631,8 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 		sort.Slice(HP, func(i, j int) bool {
 			return HP[i] > HP[j]
 		})
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for _, hp := range HP {
 			// 找到同等血量的怪
 			idx := -1
@@ -623,18 +645,28 @@ func bossBattleScene(field string, xsdID, bossID int32) time.Duration {
 			if idx == -1 {
 				continue
 			}
+			tm.Reset(ms100)
 			// 开打
-			for {
-				s, r := FightAction(monster[idx].Id, 8)
-				if s == nil || r == nil || s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
-					break
+			r := func() bool {
+				for {
+					select {
+					case <-tm.C:
+						s, r := FightAction(monster[idx].Id, 8)
+						if s == nil || r == nil || s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
+							return true
+						}
+						if r.Win == 1 { // 斗报胜利
+							return true
+						}
+						tm.Reset(RandMillisecond(1, 3))
+					case <-cx.Done():
+						return false
+					}
 				}
-				if r.Win == 1 { // 斗报胜利
-					break
-				}
-				time.Sleep(RandMillisecond(1, 3))
+			}()
+			if !r {
+				return s3
 			}
-			time.Sleep(RandMillisecond(1, 3))
 		}
 	}
 	return s3
@@ -648,7 +680,7 @@ func BossXSD(ctx context.Context) {
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(bossBattleScene("XsdXsdDayFightTimes", 1, 1))
+			t1.Reset(bossBattleScene(ctx, "XsdXsdDayFightTimes", 1, 1))
 		case <-t2.C:
 			t2.Reset(collectSC("XsdXsdDayCollectTimes", 1, 7))
 		case <-ctx.Done():
@@ -665,7 +697,7 @@ func BossXMD(ctx context.Context) {
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(bossBattleScene("XsdXmdDayFightTimes", 2, 1))
+			t1.Reset(bossBattleScene(ctx, "XsdXmdDayFightTimes", 2, 1))
 		case <-t2.C:
 		//t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
 		case <-ctx.Done():
@@ -748,49 +780,53 @@ func BossHLTJ(ctx context.Context) {
 		PveChan := make(chan *S2CStartFightHLPVE)
 		defer close(PveChan)
 		i := 0
-		for range tc.C {
-			if i >= len(bossList.HLBossList) {
-				break
-			}
-			boss := bossList.HLBossList[i]
-			if boss.Revive != 0 {
-				i++
-				tc.Reset(ms500)
-				continue
-			}
-			go func() {
-				go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
-					r := &S2CStartFightHLPVE{}
-					r.Message(data)
-					PveChan <- r
-					return false
-				})
-				_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
-			}()
-			r := &S2CBattlefieldReport{}
-			_ = Receive.Wait(r, s3)
-			p := <-PveChan
-			if p.Tag == 56713 { // 复活中
-				ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
-				cur := time.Now()
-				if cur.Before(ttm) {
-					return ttm.Add(time.Second).Sub(cur)
+		for {
+			select {
+			case <-tc.C:
+				if i >= len(bossList.HLBossList) {
+					return s60
 				}
+				boss := bossList.HLBossList[i]
+				if boss.Revive != 0 {
+					i++
+					tc.Reset(ms500)
+					break
+				}
+				go func() {
+					go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
+						r := &S2CStartFightHLPVE{}
+						r.Message(data)
+						PveChan <- r
+						return false
+					})
+					_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
+				}()
+				r := &S2CBattlefieldReport{}
+				_ = Receive.Wait(r, s3)
+				p := <-PveChan
+				if p.Tag == 56713 { // 复活中
+					ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
+					cur := time.Now()
+					if cur.Before(ttm) {
+						return ttm.Add(time.Second).Sub(cur)
+					}
+					return s3
+				}
+				if p.Tag == 56714 {
+					go func() {
+						_ = CLI.WareHouseReceiveItem(2)
+					}()
+					_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+					return TomorrowDuration(RandMillisecond(30000, 30600))
+				}
+				if r.Win == 1 && p.Tag == 0 {
+					i++
+				}
+				tc.Reset(ms500)
+			case <-ctx.Done():
 				return s3
 			}
-			if p.Tag == 56714 {
-				go func() {
-					_ = CLI.WareHouseReceiveItem(2)
-				}()
-				_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
-				return TomorrowDuration(RandMillisecond(30000, 30600))
-			}
-			if r.Win == 1 && p.Tag == 0 {
-				i++
-			}
-			tc.Reset(ms500)
 		}
-		return s60
 	}
 	//
 	for {
@@ -829,31 +865,35 @@ func BossBDJJ(ctx context.Context) {
 		Fight.Unlock()
 		tc := time.NewTimer(ts0)
 		defer tc.Stop()
-		for range tc.C {
-			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
-			tc.Reset(ms500)
-			if f == nil && CloseConn {
-				return s3
-			}
-			if f != nil && f.Tag != 0 { // 60106 战斗次数不足
-				break
-			}
-		}
-		for range tc.C {
-			f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
-			if f == nil && CloseConn {
-				return s3
-			}
-			if f == nil {
+		for {
+			select {
+			case <-tc.C:
+				f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
 				tc.Reset(ms500)
-				continue
+				if f == nil || (f != nil && f.Tag != 0) { // 60106 战斗次数不足
+					goto Next
+				}
+			case <-ctx.Done():
+				return s3
 			}
-			if f.Tag != 0 { // 60106 战斗次数不足
-				break
-			}
-			tc.Reset(ms500)
 		}
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+	Next:
+		for {
+			select {
+			case <-tc.C:
+				f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
+				if f == nil {
+					tc.Reset(ms500)
+					break
+				}
+				if f.Tag != 0 { // 60106 战斗次数不足
+					return TomorrowDuration(RandMillisecond(30000, 30600))
+				}
+				tc.Reset(ms500)
+			case <-ctx.Done():
+				return s3
+			}
+		}
 	}
 	//
 	for {

@@ -6,45 +6,76 @@ import (
 	"bytes"
 	"context"
 	"encoding/binary"
+	"fmt"
 	"github.com/cgghui/game_assist_mhyc/mhyc"
 	"log"
 	"os"
 	"os/signal"
+	"sync"
 	"time"
 )
 
-func init() {
-}
-
 func main() {
 
-	ctx, cancel := context.WithCancel(context.Background())
-	defer cancel()
+	var ctx context.Context
+	var cancel context.CancelFunc
 
-	var err error
-	var session *mhyc.Client
-	session, err = mhyc.NewClient("549f82f51e9562594e5572e487585160", "19c3e57e2544f42b30b21104d24b2a94")
-	if err != nil {
-		log.Fatal("session:", err)
-	}
-	var cli *mhyc.Connect
-	if cli, err = session.Connect(ctx); err != nil {
-		log.Fatal("connect:", err)
-	}
+	tm := time.NewTimer(time.Millisecond)
+	for range tm.C {
 
-	mhyc.CLI = cli
-	mhyc.CloseConn = false
+		ctx, cancel = context.WithCancel(context.Background())
 
-	go func() {
+		wg := &sync.WaitGroup{}
 
-		go mhyc.ListenMessage(ctx, &mhyc.Pong{})
+		mhyc.Init()
 
-		// 角色信息
-		func() {
+		thread := func(f ...func()) {
+			for i := range f {
+				wg.Add(1)
+				go func(i int) {
+					defer wg.Done()
+					f[i]()
+				}(i)
+			}
+		}
+
+		threadCtx := func(f ...func(ctx context.Context)) {
+			for i := range f {
+				wg.Add(1)
+				go func(i int) {
+					defer wg.Done()
+					f[i](ctx)
+				}(i)
+			}
+		}
+
+		var err error
+		var session *mhyc.Client
+		session, err = mhyc.NewClient("549f82f51e9562594e5572e487585160", "19c3e57e2544f42b30b21104d24b2a94")
+		if err != nil {
+			log.Printf("session: %v", err)
+			tm.Reset(time.Minute)
+			continue
+		}
+		var cli *mhyc.Connect
+		if cli, err = session.Connect(ctx); err != nil {
+			log.Printf("connect: %v", err)
+			tm.Reset(time.Minute)
+			continue
+		}
+
+		mhyc.CLI = cli
+
+		thread(func() {
+
+			thread(func() {
+				mhyc.ListenMessage(ctx, &mhyc.Pong{})
+			})
+
 			// role info
 			info := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
 			info.Call.Message(<-info.Wait())
-			go func() {
+			thread(func() {
 				defer info.Close()
 				for {
 					select {
@@ -54,12 +85,12 @@ func main() {
 						return
 					}
 				}
-			}()
+			})
 			// user bag
 			mhyc.Receive.Action(cli.UserBag)
 			ubag := mhyc.Receive.CreateChannel(&mhyc.S2CUserBag{})
 			ubag.Call.Message(<-ubag.Wait())
-			go func() {
+			thread(func() {
 				defer ubag.Close()
 				for {
 					select {
@@ -69,122 +100,172 @@ func main() {
 						return
 					}
 				}
-			}()
+			})
 			//
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
-				(&mhyc.S2CBagChange{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.ItemFly{}, func(data []byte) {
-				(&mhyc.ItemFly{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
-				task := &mhyc.S2CRoleTask{}
-				task.Message(data)
-				for i := range task.Task {
-					go func(t, id int32) {
-						mhyc.Fight.Lock()
-						defer mhyc.Fight.Unlock()
-						go func(t, id int32) {
-							_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
-						}(t, id)
-						_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
-					}(task.Task[i].T, task.Task[i].Id)
+			thread(
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
+						task := &mhyc.S2CRoleTask{}
+						task.Message(data)
+						for i := range task.Task {
+							thread(func() {
+								func(t, id int32) {
+									mhyc.Fight.Lock()
+									defer mhyc.Fight.Unlock()
+									go func(t, id int32) {
+										_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
+									}(t, id)
+									_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
+								}(task.Task[i].T, task.Task[i].Id)
+							})
+						}
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
+						(&mhyc.S2CBagChange{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.ItemFly{}, func(data []byte) {
+						(&mhyc.ItemFly{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
+						(&mhyc.S2CBattlefieldReport{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
+						(&mhyc.S2CTeamInstanceGetReport{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CServerTime{}, func(data []byte) {
+						(&mhyc.S2CServerTime{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CRedState{}, func(data []byte) {
+						(&mhyc.S2CRedState{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CStartFight{}, func(data []byte) {
+						(&mhyc.S2CStartFight{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CNotice{}, func(data []byte) {
+						(&mhyc.S2CNotice{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerEnterMap{}, func(data []byte) {
+						(&mhyc.S2CPlayerEnterMap{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerLeaveMap{}, func(data []byte) {
+						(&mhyc.S2CPlayerLeaveMap{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CChangeMap{}, func(data []byte) {
+						(&mhyc.S2CChangeMap{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CMonsterEnterMap{}, func(data []byte) {
+						(&mhyc.S2CMonsterEnterMap{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CUpdateAmount{}, func(data []byte) {
+						(&mhyc.S2CUpdateAmount{}).Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(ctx, &mhyc.S2CWestExp{}, func(data []byte) {
+						(&mhyc.S2CWestExp{}).Message(data)
+					})
+				},
+			)
+
+			threadCtx(
+				mhyc.Everyday,
+				mhyc.Mail,
+				mhyc.AFK,
+				mhyc.StageFight,
+				mhyc.FamilyJJC,
+				mhyc.EnterAnimalPark,
+				mhyc.XianDianXDSW,
+				mhyc.XianDianSSSL,
+				mhyc.XianDianXDXS,
+				mhyc.XuanShangBoss,
+				mhyc.BossPersonal,
+				mhyc.BossVIP,
+				mhyc.BossXYCM,
+				mhyc.BossMulti,
+				mhyc.BossHome,
+				mhyc.BossXLD,
+				mhyc.BossXSD,
+				mhyc.BossXMD,
+				mhyc.BossHLTJ,
+				mhyc.BossBDJJ,
+				mhyc.WorldBoss,
+				mhyc.KuaFu,
+				mhyc.FuBen,
+				mhyc.HuoDongSBHS,
+				mhyc.HuoDongBusiness,
+				mhyc.JJC,
+				mhyc.WZZB,
+				mhyc.HuoDongXS,
+				mhyc.HuoDongZJLDZ,
+				mhyc.Buy,
+			)
+			//go mhyc.ShenYu(ctx)
+			//go mhyc.JXSC(ctx)
+		})
+
+		thread(func() {
+			for {
+				var message []byte
+				if _, message, err = cli.Conn.ReadMessage(); err != nil {
+					cancel()
+					mhyc.Receive.Close()
+					log.Println("read:", err)
+					return
 				}
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
-				(&mhyc.S2CBattlefieldReport{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
-				(&mhyc.S2CTeamInstanceGetReport{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CServerTime{}, func(data []byte) {
-				(&mhyc.S2CServerTime{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CRedState{}, func(data []byte) {
-				(&mhyc.S2CRedState{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CStartFight{}, func(data []byte) {
-				(&mhyc.S2CStartFight{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CNotice{}, func(data []byte) {
-				(&mhyc.S2CNotice{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerEnterMap{}, func(data []byte) {
-				(&mhyc.S2CPlayerEnterMap{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerLeaveMap{}, func(data []byte) {
-				(&mhyc.S2CPlayerLeaveMap{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CChangeMap{}, func(data []byte) {
-				(&mhyc.S2CChangeMap{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CMonsterEnterMap{}, func(data []byte) {
-				(&mhyc.S2CMonsterEnterMap{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CUpdateAmount{}, func(data []byte) {
-				(&mhyc.S2CUpdateAmount{}).Message(data)
-			})
-			go mhyc.ListenMessageCall(ctx, &mhyc.S2CWestExp{}, func(data []byte) {
-				(&mhyc.S2CWestExp{}).Message(data)
-			})
+				var id uint16
+				err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
+				if err != nil {
+					cancel()
+					mhyc.Receive.Close()
+					log.Printf("recv: %v", err)
+					continue
+				}
+				mhyc.Receive.Notify(id, message[4:])
+			}
+		})
+
+		wg.Wait()
+
+		go func() {
+			r := 300
+			t := time.NewTicker(time.Second)
+			defer t.Stop()
+			for range t.C {
+				fmt.Printf("\r系统将在%d秒后，重新运行", r)
+				r--
+				if r == 0 {
+					tm.Reset(time.Millisecond)
+					return
+				}
+			}
 		}()
-
-		go mhyc.Everyday(ctx)
-		go mhyc.Mail(ctx)
-		go mhyc.AFK(ctx)
-		go mhyc.StageFight(ctx)
-		go mhyc.FamilyJJC(ctx)
-		go mhyc.EnterAnimalPark(ctx)
-		go mhyc.XianDianXDSW(ctx)
-		go mhyc.XianDianSSSL(ctx)
-		go mhyc.XianDianXDXS(ctx)
-		go mhyc.BossPersonal(ctx)
-		go mhyc.BossVIP(ctx)
-		go mhyc.BossXYCM(ctx)
-		go mhyc.BossMulti(ctx)
-		go mhyc.XuanShangBoss(ctx)
-		go mhyc.BossHome(ctx)
-		go mhyc.BossXLD(ctx)
-		go mhyc.BossXSD(ctx)
-		go mhyc.BossXMD(ctx)
-		go mhyc.BossHLTJ(ctx)
-		go mhyc.BossBDJJ(ctx)
-		go mhyc.WorldBoss(ctx)
-		go mhyc.KuaFu(ctx)
-		go mhyc.FuBen(ctx)
-		go mhyc.HuoDongSBHS(ctx)
-		go mhyc.HuoDongBusiness(ctx)
-		go mhyc.JJC(ctx)
-		go mhyc.WZZB(ctx)
-		go mhyc.HuoDongXS(ctx)
-		//go mhyc.ShenYu(ctx)
-		//go mhyc.JXSC(ctx)
-		go mhyc.HuoDongZJLDZ(ctx)
-		go mhyc.Buy(ctx)
-	}()
-
-	go func() {
-		for {
-			var message []byte
-			if _, message, err = cli.Conn.ReadMessage(); err != nil {
-				cancel()
-				mhyc.Receive.Close()
-				mhyc.CloseConn = true
-				log.Println("read:", err)
-				return
-			}
-			var id uint16
-			err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
-			if err != nil {
-				cancel()
-				mhyc.Receive.Close()
-				mhyc.CloseConn = true
-				log.Printf("recv: %v", err)
-				continue
-			}
-			mhyc.Receive.Notify(id, message[4:])
-		}
-	}()
+	}
 
 	interrupt := make(chan os.Signal, 1)
 	signal.Notify(interrupt, os.Interrupt)

@@ -51,17 +51,25 @@ func HuoDongXS(ctx context.Context) {
 		newI := int32(0)
 		newP := int32(0)
 		newN := ""
+		tx := time.NewTimer(ms10)
 		for i := int32(1); i <= 5; i++ {
 			info := &S2CGetAllIMInfo{}
 			for {
-				go func() {
-					_ = CLI.GetAllIMInfo(i)
-				}()
-				if err := Receive.Wait(info, s3); err != nil {
-					continue
+				select {
+				case <-tx.C:
+					go func() {
+						_ = CLI.GetAllIMInfo(i)
+					}()
+					if err := Receive.Wait(info, s3); err != nil {
+						tx.Reset(ms10)
+						break
+					}
+					goto Next
+				case <-ctx.Done():
+					return s3
 				}
-				break
 			}
+		Next:
 			isEnd := false
 			for _, player := range info.Players {
 				if player.UserId == ui {

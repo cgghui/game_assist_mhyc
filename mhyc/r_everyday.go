@@ -221,14 +221,19 @@ func Everyday(ctx context.Context) {
 	// 定时领取主线任务奖励
 	go func() {
 		t := time.NewTimer(ms100)
-		for range t.C {
-			h := &S2CGetHistoryTaskPrize{}
-			Receive.Action(CLI.GetHistoryTaskPrize)
-			if _ = Receive.Wait(h, s3); h.Tag == 0 {
-				t.Reset(ms100)
-				continue
+		for {
+			select {
+			case <-t.C:
+				h := &S2CGetHistoryTaskPrize{}
+				Receive.Action(CLI.GetHistoryTaskPrize)
+				if _ = Receive.Wait(h, s3); h.Tag == 0 {
+					t.Reset(ms100)
+					break
+				}
+				t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+			case <-ctx.Done():
+				return
 			}
-			t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
 		}
 	}()
 	// 仙缘副本

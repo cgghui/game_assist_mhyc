@@ -23,7 +23,7 @@ func illusionSweep() time.Duration {
 	return TomorrowDuration(RandMillisecond(30000, 30600))
 }
 
-func yiJi() time.Duration {
+func yiJi(ctx context.Context) time.Duration {
 	Fight.Lock()
 	defer Fight.Unlock()
 	if RoleInfo.Get("YiJiAdscTimes").Int64() <= 0 {
@@ -79,21 +79,24 @@ func yiJi() time.Duration {
 	monster := <-mc
 	tc := time.NewTimer(ts0)
 	defer tc.Stop()
-	for range tc.C {
-		s, r := FightAction(monster.Id, 8)
-		if s == nil {
-			break
+	for {
+		select {
+		case <-tc.C:
+			s, r := FightAction(monster.Id, 8)
+			if s == nil {
+				return ms500
+			}
+			if s.Tag == 17002 {
+				return ms500
+			}
+			if r != nil && r.Win == 1 {
+				return ms500
+			}
+			tc.Reset(time.Second)
+		case <-ctx.Done():
+			return s3
 		}
-		if s.Tag == 17002 {
-			break
-		}
-		if r != nil && r.Win == 1 {
-			break
-		}
-		tc.Reset(time.Second)
 	}
-	//
-	return ms500
 }
 
 // KuaFu 跨服
@@ -105,7 +108,7 @@ func KuaFu(ctx context.Context) {
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(yiJi())
+			t1.Reset(yiJi(ctx))
 		case <-t4.C:
 			t4.Reset(illusionSweep())
 		case <-ctx.Done():

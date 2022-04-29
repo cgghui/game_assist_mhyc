@@ -18,20 +18,26 @@ func AFK(ctx context.Context) {
 		f := func() time.Duration {
 			Fight.Lock()
 			defer Fight.Unlock()
+			tm := time.NewTimer(ms10)
+			defer tm.Stop()
 			for {
-				Receive.Action(CLI.AFKGetBuyInfo)
-				if err := Receive.Wait(info, s3); err != nil {
-					continue
-				}
-				if CloseConn {
+				select {
+				case <-tm.C:
+					Receive.Action(CLI.AFKGetBuyInfo)
+					if err := Receive.Wait(info, s3); err != nil {
+						tm.Reset(ms100)
+						break
+					}
+					if info.Coin <= 0 {
+						Receive.Action(CLI.AFKBuyTimes)
+						_ = Receive.Wait(buyTimes, s3)
+						tm.Reset(ms100)
+						break
+					}
+					return TomorrowDuration(RandMillisecond(30000, 30600))
+				case <-ctx.Done():
 					return s3
 				}
-				if info.Coin <= 0 {
-					Receive.Action(CLI.AFKBuyTimes)
-					_ = Receive.Wait(buyTimes, s3)
-					continue
-				}
-				return TomorrowDuration(RandMillisecond(30000, 30600))
 			}
 		}
 		for {
@@ -46,10 +52,15 @@ func AFK(ctx context.Context) {
 	// 定时领取挂机奖励
 	info := &S2CGetAFKPrize{}
 	t := time.NewTimer(ms100)
-	for range t.C {
-		Receive.Action(CLI.GetAFKPrize)
-		_ = Receive.Wait(info, s3)
-		t.Reset(RandMillisecond(60, 180)) // 1 ~ 3 分钟
+	for {
+		select {
+		case <-t.C:
+			Receive.Action(CLI.GetAFKPrize)
+			_ = Receive.Wait(info, s3)
+			t.Reset(RandMillisecond(60, 180)) // 1 ~ 3 分钟
+		case <-ctx.Done():
+			return
+		}
 	}
 }
 

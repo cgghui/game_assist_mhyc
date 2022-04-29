@@ -18,35 +18,42 @@ func FamilyJJC(ctx context.Context) {
 		Fight.Lock()
 		defer Fight.Unlock()
 		// 战斗
-		isEnd := false
+		end := false
+		tm := time.NewTimer(ms10)
+		defer tm.Stop()
 		for {
-			if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
-				if val.Int64() >= 10 {
-					isEnd = true
+			select {
+			case <-tm.C:
+				if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
+					if val.Int64() >= 10 {
+						end = true
+						goto Award
+					}
+				}
+				ret := &S2CFamilyJJCJoin{}
+				Receive.Action(CLI.FamilyJJCJoin)
+				if _ = Receive.Wait(ret, s3); ret.Tag == 0 {
+					go func() {
+						_ = CLI.FamilyJJCFight(ret)
+					}()
+					_ = Receive.Wait(&S2CFamilyJJCFight{}, s3)
+					tm.Reset(time.Second)
 					break
 				}
-			}
-			ret := &S2CFamilyJJCJoin{}
-			Receive.Action(CLI.FamilyJJCJoin)
-			_ = Receive.Wait(ret, s3)
-			if ret.Tag == 0 {
-				go func() {
-					_ = CLI.FamilyJJCFight(ret)
-				}()
-				_ = Receive.Wait(&S2CFamilyJJCFight{}, s3)
-				time.Sleep(time.Second)
-				continue
-			}
-			if ret.Tag == 17003 {
-				time.Sleep(time.Second)
-				continue
-			}
-			// end
-			if ret.Tag == 57606 {
-				isEnd = true
-				break
+				if ret.Tag == 17003 {
+					tm.Reset(time.Second)
+					break
+				}
+				// end
+				if ret.Tag == 57606 {
+					end = true
+					goto Award
+				}
+			case <-ctx.Done():
+				return s3
 			}
 		}
+	Award:
 		// 领取奖励
 		for i := 0; i < 4; i++ {
 			go func(i int) {
@@ -54,7 +61,7 @@ func FamilyJJC(ctx context.Context) {
 			}(i)
 			_ = Receive.Wait(&S2CFamilyJJCRecieveAward{}, s3)
 		}
-		if isEnd {
+		if end {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
 		return ms500
