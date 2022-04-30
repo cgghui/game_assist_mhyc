@@ -258,9 +258,9 @@ func worldBossActTime() time.Duration {
 func WorldBoss(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
-		//if td := worldBossActTime(); td != 0 {
-		//	return td
-		//}
+		if td := worldBossActTime(); td != 0 {
+			return td
+		}
 		Fight.Lock()
 		defer Fight.Unlock()
 		Receive.Action(CLI.BossGlobalJoinActive)
