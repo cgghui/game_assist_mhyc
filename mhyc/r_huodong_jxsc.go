@@ -2,6 +2,7 @@ package mhyc
 
 import (
 	"context"
+	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
@@ -12,7 +13,7 @@ func actJXSCTime() time.Duration {
 	cur := time.Now()
 	actStartTime := []time.Time{
 		time.Date(cur.Year(), cur.Month(), cur.Day(), 11, 00, 0, 0, time.Local).Add(s3),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 13, 00, 0, 0, time.Local).Add(s3),
+		time.Date(cur.Year(), cur.Month(), cur.Day(), 15, 00, 0, 0, time.Local).Add(s3),
 		time.Date(cur.Year(), cur.Month(), cur.Day(), 19, 00, 0, 0, time.Local).Add(s3),
 	}
 	for _, ast := range actStartTime {
@@ -26,7 +27,10 @@ func actJXSCTime() time.Duration {
 	return TomorrowDuration(3 * time.Hour)
 }
 
-func jxsc() time.Duration {
+func jxsc(ctx context.Context) time.Duration {
+	if td := actJXSCTime(); td != 0 {
+		return td
+	}
 	Fight.Lock()
 	defer Fight.Unlock()
 	// 进入活动
@@ -55,19 +59,22 @@ func jxsc() time.Duration {
 	if err := Receive.Wait(&S2CJXSCSkinChange{}, s3); err != nil {
 		return time.Second
 	}
-	monster := make(chan *S2CMonsterEnterMap, 50)
-	defer close(monster)
-	go ListenMessageCallEx(&S2CMonsterEnterMap{}, func(data []byte) bool {
-		var enter S2CMonsterEnterMap
-		if err := proto.Unmarshal(data, &enter); err == nil {
-			monster <- &enter
-			return false
-		}
-		return true
+	monster := make(chan *S2CMonsterEnterMap)
+	cx, cancel := context.WithTimeout(ctx, 13*time.Minute)
+	defer cancel()
+	go ListenMessageCall(cx, &S2CMonsterEnterMap{}, func(data []byte) {
+		enter := &S2CMonsterEnterMap{}
+		enter.Message(data)
+		monster <- enter
 	})
 	// TODO: 此地观查
 	for m := range monster {
-		FightAction(m.Id, 8)
+		go func() {
+			_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
+		}()
+		_ = Receive.Wait(&S2CStartMove{}, s3)
+		s, r := FightAction(m.Id, 8)
+		fmt.Println(s, r)
 	}
 	return ms500
 }
@@ -79,7 +86,7 @@ func JXSC(ctx context.Context) {
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(jxsc())
+			t1.Reset(jxsc(ctx))
 		case <-ctx.Done():
 			return
 		}

@@ -258,9 +258,9 @@ func worldBossActTime() time.Duration {
 func WorldBoss(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	f := func() time.Duration {
-		if td := worldBossActTime(); td != 0 {
-			return td
-		}
+		//if td := worldBossActTime(); td != 0 {
+		//	return td
+		//}
 		Fight.Lock()
 		defer Fight.Unlock()
 		Receive.Action(CLI.BossGlobalJoinActive)
@@ -327,6 +327,16 @@ func WorldBoss(ctx context.Context) {
 				case <-ctx.Done():
 					return s3
 				}
+			}
+		}
+
+		for i := int32(1); i <= 10; i++ {
+			go func(i int32) {
+				_ = CLI.WorldBossReachGoalGetPrize(i)
+			}(i)
+			ret := &S2CWorldBossReachGoalGetPrize{}
+			if err := Receive.Wait(ret, s3); err != nil || ret.Tag != 0 {
+				break
 			}
 		}
 		return ms500
@@ -526,15 +536,17 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 		go func() {
 			_ = CLI.DropItems(39051)
 		}()
-		_ = Receive.Wait(&S2CGetDropItems{}, s3)
-		go func() {
-			_ = CLI.StartMove(&C2SStartMove{P: []int32{13, 24}})
-		}()
-		_ = Receive.Wait(&S2CStartMove{}, s3)
 	}
 	if field == "XsdXmdDayCollectTimes" {
-
+		go func() {
+			_ = CLI.DropItems(39053)
+		}()
 	}
+	_ = Receive.Wait(&S2CGetDropItems{}, s3)
+	go func() {
+		_ = CLI.StartMove(&C2SStartMove{P: []int32{13, 24}})
+	}()
+	_ = Receive.Wait(&S2CStartMove{}, s3)
 	//
 	bossList := <-bossInfoChan // BOSS
 	if bossList == nil {
@@ -575,7 +587,10 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 		_ = Receive.Wait(&S2CRoutePath{}, s3)
 	}
 	if field == "XsdXmdDayCollectTimes" {
-
+		go func() {
+			_ = CLI.RoutePath(&C2SRoutePath{MapId: 2566, FX: 13, FY: 24, TX: 14, TY: 70})
+		}()
+		_ = Receive.Wait(&S2CRoutePath{}, s3)
 	}
 	cur := time.Now()
 	brt := time.Unix(collect.FinishTimestamp, 0).Local()
@@ -699,7 +714,7 @@ func BossXMD(ctx context.Context) {
 		case <-t1.C:
 			t1.Reset(bossBattleScene(ctx, "XsdXmdDayFightTimes", 2, 1))
 		case <-t2.C:
-		//t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
+			t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
 		case <-ctx.Done():
 			return
 		}
@@ -1635,4 +1650,25 @@ func (x *S2CWorldBossStakePoints) ID() uint16 {
 func (x *S2CWorldBossStakePoints) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][WorldBossStakePoints] tag=%v state=%v points=%v", x.Tag, x.State, x.Points)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) WorldBossReachGoalGetPrize(id int32) error {
+	body, err := proto.Marshal(&C2SWorldBossReachGoalGetPrize{Id: id})
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][WorldBossReachGoalGetPrize] id=%d", id)
+	return c.send(15012, body)
+}
+
+func (x *S2CWorldBossReachGoalGetPrize) ID() uint16 {
+	return 15013
+}
+
+// Message S2CWorldBossReachGoalGetPrize 15013
+func (x *S2CWorldBossReachGoalGetPrize) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][WorldBossReachGoalGetPrize] tag=%v", x.Tag)
 }

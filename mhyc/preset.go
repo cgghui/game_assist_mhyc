@@ -20,7 +20,7 @@ const (
 	HltjTeamRen       = 2    // 幻灵天界 参团至少人数
 
 	// 秘境探险
-	FuBenId   int32 = 3
+	FuBenId   int32 = 4
 	GuanQiaId int32 = 2
 )
 

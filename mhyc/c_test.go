@@ -62,11 +62,11 @@ func TestDeBinaryCode(t *testing.T) {
 }
 
 func TestDeBinaryCode2(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("AH0BsAjpBBAB") //EWFnIQiluQI=
+	code, err := base64.StdEncoding.DecodeString("BLRatAgBEgkIg6rTGRgKIAESCQjdlOMZGAsgARIHCKig8hkYAw==") //EWFnIQiluQI=
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SShopBuy{}
+	var ma = &S2CNearbyTarget{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}

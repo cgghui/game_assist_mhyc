@@ -235,6 +235,13 @@ func FuBen(ctx context.Context) {
 			return ms500
 		}
 		if enter.Tag != 0 {
+			// 分解
+			Receive.Action(CLI.SwordSoulResolveJH)
+			_ = Receive.Wait(&S2CSwordSoulResolve{}, s3)
+			// 每日奖励
+			Receive.Action(CLI.ClimbingTowerGetSwordSoulDayPrize)
+			_ = Receive.Wait(&S2CClimbingTowerGetSwordSoulDayPrize{}, s3)
+			//
 			return TomorrowDuration(RandMillisecond(30000, 30600))
 		}
 		tm := time.NewTimer(ms10)
@@ -493,37 +500,56 @@ func FuBen(ctx context.Context) {
 			_ = Receive.Wait(&S2CGetYJFBData{}, s3)
 			Fight.Unlock()
 		}()
-		for _, g := range data.Grids {
-			if g.State == 1 && g.EventId != 0 {
+		x := int32(1)
+		y := int32(1)
+		if data.PlayerGrid != nil {
+			x = data.PlayerGrid.X
+			y = data.PlayerGrid.Y
+		}
+		for ; x <= 21; x++ {
+			if y >= 22 {
+				y = 1
+			}
+			for ; y <= 21; y++ {
 				go func() {
 					_ = CLI.YJFBGuanQiaMove(&C2SYJFBGuanQiaMove{
-						FuBenId:   FuBenId,
-						GuanQiaId: GuanQiaId,
-						TargetGrid: &YJFBGrid{
-							Y: g.Y,
-							X: g.X,
-						},
+						FuBenId:    FuBenId,
+						GuanQiaId:  GuanQiaId,
+						TargetGrid: &YJFBGrid{Y: y, X: x},
 					})
 				}()
-				_ = Receive.Wait(&S2CYJFBGuanQiaMove{}, s3)
-				go func() {
-					_ = CLI.YJFBGuanQiaTriggerEvent(&C2SYJFBGuanQiaTriggerEvent{
-						FuBenId:   FuBenId,
-						GuanQiaId: GuanQiaId,
-						TriggerGrid: &YJFBGrid{
-							Y: g.Y,
-							X: g.X,
-						},
-					})
-				}()
-				ret := &S2CYJFBGuanQiaTriggerEvent{}
-				_ = Receive.Wait(ret, s3)
-				if ret.Tag == 57212 {
-					go func() {
-						_ = CLI.WareHouseReceiveItem(1)
-					}()
-					_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
-					return TomorrowDuration(RandMillisecond(1800, 3600))
+				move := &S2CYJFBGuanQiaMove{}
+				_ = Receive.Wait(move, s3)
+				if move.Tag != 0 || len(move.MovePath) == 0 {
+					continue
+				}
+				for _, mp := range move.MovePath {
+					if mp.MoveGrid.State == 1 && mp.MoveGrid.EventId != 0 {
+						go func() {
+							_ = CLI.YJFBGuanQiaMove(&C2SYJFBGuanQiaMove{
+								FuBenId:    FuBenId,
+								GuanQiaId:  GuanQiaId,
+								TargetGrid: &YJFBGrid{Y: mp.MoveGrid.Y, X: mp.MoveGrid.X},
+							})
+						}()
+						_ = Receive.Wait(&S2CYJFBGuanQiaMove{}, s3)
+						go func() {
+							_ = CLI.YJFBGuanQiaTriggerEvent(&C2SYJFBGuanQiaTriggerEvent{
+								FuBenId:     FuBenId,
+								GuanQiaId:   GuanQiaId,
+								TriggerGrid: &YJFBGrid{Y: mp.MoveGrid.Y, X: mp.MoveGrid.X},
+							})
+						}()
+						ret := &S2CYJFBGuanQiaTriggerEvent{}
+						_ = Receive.Wait(ret, s3)
+						if ret.Tag == 57212 {
+							go func() {
+								_ = CLI.WareHouseReceiveItem(1)
+							}()
+							_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+							return TomorrowDuration(RandMillisecond(1800, 3600))
+						}
+					}
 				}
 			}
 		}

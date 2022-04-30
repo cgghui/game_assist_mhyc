@@ -120,24 +120,27 @@ func main() {
 			mhyc.Receive.Action(cli.LoginEnd)
 			//
 			thread(
-				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
-						task := &mhyc.S2CRoleTask{}
-						task.Message(data)
-						for i := range task.Task {
-							thread(func() {
-								func(t, id int32) {
-									mhyc.Fight.Lock()
-									defer mhyc.Fight.Unlock()
-									go func(t, id int32) {
-										_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
-									}(t, id)
-									_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
-								}(task.Task[i].T, task.Task[i].Id)
-							})
-						}
-					})
-				},
+				//func() {
+				//	mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
+				//		task := &mhyc.S2CRoleTask{}
+				//		task.Message(data)
+				//		for i := range task.Task {
+				//			if task.Task[i].S != 1 {
+				//				continue
+				//			}
+				//			thread(func() {
+				//				func(t, id int32) {
+				//					mhyc.Fight.Lock()
+				//					defer mhyc.Fight.Unlock()
+				//					go func(t, id int32) {
+				//						_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
+				//					}(t, id)
+				//					_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
+				//				}(task.Task[i].T, task.Task[i].Id)
+				//			})
+				//		}
+				//	})
+				//},
 				func() {
 					mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
 						(&mhyc.S2CBagChange{}).Message(data)
@@ -241,9 +244,10 @@ func main() {
 				mhyc.HuoDongXS,
 				mhyc.HuoDongZJLDZ,
 				mhyc.Buy,
+				//mhyc.TJZC,
+				//mhyc.JXSC,
 			)
 			//go mhyc.ShenYu(ctx)
-			//go mhyc.JXSC(ctx)
 		})
 
 		thread(func() {
