@@ -278,7 +278,7 @@ func main() {
 				if _, message, err = cli.Conn.ReadMessage(); err != nil {
 					cancel()
 					mhyc.Receive.Close()
-					log.Println("read:", err)
+					log.Printf("read: %v", err)
 					return
 				}
 				var id uint16
