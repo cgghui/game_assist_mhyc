@@ -65,12 +65,12 @@ type HandleMessage interface {
 
 func (x *S2CSectIMSeizeReward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][SectIMSeizeReward] tag=%v %v", x.Tag, x)
+	log.Printf("[S][SectIMSeizeReward] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 func (x *S2CCheckFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][CheckFight] tag=%v next_time=%v", x.Tag, x.NextTime)
+	log.Printf("[S][CheckFight] tag=%v tag_msg=%s next_time=%v", x.Tag, GetTagMsg(x.Tag), x.NextTime)
 }
 
 func (x *S2CPlayerMove) Message(data []byte) {

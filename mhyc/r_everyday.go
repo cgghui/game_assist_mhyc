@@ -518,7 +518,7 @@ func (x *S2COneKeyWeddingIns) ID() uint16 {
 
 func (x *S2COneKeyWeddingIns) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][OneKeyWeddingIns] tag=%v", x.Tag)
+	log.Printf("[S][OneKeyWeddingIns] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -549,7 +549,7 @@ func (x *S2CRealmOverfulfil) ID() uint16 {
 
 func (x *S2CRealmOverfulfil) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][RealmOverfulfil] tag=%v", x.Tag)
+	log.Printf("[S][RealmOverfulfil] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -569,7 +569,7 @@ func (x *S2CGetHistoryTaskPrize) ID() uint16 {
 
 func (x *S2CGetHistoryTaskPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetHistoryTaskPrize] tag=%v raw=%v", x.Tag, x)
+	log.Printf("[S][GetHistoryTaskPrize] tag=%v tag_msg=%s raw=%v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -714,7 +714,7 @@ func (x *S2CActGiftNewReceive) ID() uint16 {
 // Message S2CActGiftNewReceive 12012
 func (x *S2CActGiftNewReceive) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ActGiftNewReceive] tag=%v aid=%v gid=%v", x.Tag, x.Aid, x.Gid)
+	log.Printf("[S][ActGiftNewReceive] tag=%v tag_msg=%s aid=%v gid=%v", x.Tag, GetTagMsg(x.Tag), x.Aid, x.Gid)
 }
 
 ////////////////////////////////////////////////////////////
@@ -726,7 +726,7 @@ func (x *S2CRespect) ID() uint16 {
 // Message S2CRespect 14
 func (x *S2CRespect) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][Respect] tag=%d type=%d prize=%v", x.Tag, x.Type, x.Prize)
+	log.Printf("[S][Respect] tag=%d tag_msg=%s type=%d prize=%v", x.Tag, GetTagMsg(x.Tag), x.Type, x.Prize)
 }
 
 ////////////////////////////////////////////////////////////
@@ -738,7 +738,7 @@ func (x *S2CGetVipDayGift) ID() uint16 {
 // Message S2CGetVipDayGift 137
 func (x *S2CGetVipDayGift) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetVipDayGift] tag=%d", x.Tag)
+	log.Printf("[S][GetVipDayGift] tag=%d tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -750,7 +750,7 @@ func (x *S2CActXunBaoDraw) ID() uint16 {
 // Message S2CActXunBaoDraw 11036
 func (x *S2CActXunBaoDraw) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ActXunBaoDraw] tag=%d %v", x.Tag, x)
+	log.Printf("[S][ActXunBaoDraw] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -762,7 +762,7 @@ func (x *S2CGetActXunBaoData) ID() uint16 {
 // Message S2CGetActXunBaoData 11034
 func (x *S2CGetActXunBaoData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetActXunBaoData] tag=%d %v", x.Tag, x)
+	log.Printf("[S][GetActXunBaoData] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -773,7 +773,7 @@ func (x *S2CLifeCardDayPrize) ID() uint16 {
 
 func (x *S2CLifeCardDayPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][LifeCardDayPrize] tag=%d", x.Tag)
+	log.Printf("[S][LifeCardDayPrize] tag=%d tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -784,7 +784,7 @@ func (x *S2CSign) ID() uint16 {
 
 func (x *S2CSign) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][Sign] tag=%d", x.Tag)
+	log.Printf("[S][Sign] tag=%d tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -795,7 +795,7 @@ func (x *S2CTotalSignPrize) ID() uint16 {
 
 func (x *S2CTotalSignPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][TotalSignPrize] tag=%d", x.Tag)
+	log.Printf("[S][TotalSignPrize] tag=%d tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -806,7 +806,7 @@ func (x *S2CGetActTask) ID() uint16 {
 
 func (x *S2CGetActTask) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetActTask] tag=%d %v", x.Tag, x)
+	log.Printf("[S][GetActTask] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -817,7 +817,7 @@ func (x *S2CWorship) ID() uint16 {
 
 func (x *S2CWorship) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][CWorship] tag=%v %v", x.Tag, x)
+	log.Printf("[S][CWorship] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -828,5 +828,5 @@ func (x *S2CGetTaskPrize) ID() uint16 {
 
 func (x *S2CGetTaskPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetTaskPrize] tag=%d %v", x.Tag, x)
+	log.Printf("[S][GetTaskPrize] tag=%d tag_msg=%s %v", GetTagMsg(x.Tag), x.Tag, x)
 }

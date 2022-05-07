@@ -300,6 +300,7 @@ func WorldBoss(ctx context.Context) {
 		if td := worldBossActTime(); td != 0 {
 			return td
 		}
+		StopAction()
 		Fight.Lock()
 		am := SetAction(ctx, "BOSS-世界BOSS")
 		defer func() {
@@ -1227,7 +1228,7 @@ func (x *S2CBangDanJJFight) ID() uint16 {
 // Message S2CBangDanJJFight 29609
 func (x *S2CBangDanJJFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BangDanJJFight] tag=%v %v", x.Tag, x)
+	log.Printf("[S][BangDanJJFight] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1239,7 +1240,7 @@ func (x *S2CBossPersonalSweep) ID() uint16 {
 // Message S2CBossPersonalSweep 605
 func (x *S2CBossPersonalSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BossPersonalSweep] tag=%v", x.Tag)
+	log.Printf("[S][BossPersonalSweep] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -1251,7 +1252,7 @@ func (x *S2CBossVipSweep) ID() uint16 {
 // Message S2CBossVipSweep 665
 func (x *S2CBossVipSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BossVipSweep] tag=%v", x.Tag)
+	log.Printf("[S][BossVipSweep] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -1263,7 +1264,7 @@ func (x *S2CMultiBossJoinScene) ID() uint16 {
 // Message S2CMultiBossJoinScene 1124
 func (x *S2CMultiBossJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][MultiBossJoinScene] tag=%v id=%v", x.Tag, x.Id)
+	log.Printf("[S][MultiBossJoinScene] tag=%v tag_msg=%s id=%v", x.Tag, GetTagMsg(x.Tag), x.Id)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1311,7 +1312,7 @@ func (x *S2CMultiBossLeaveScene) ID() uint16 {
 // Message S2CMultiBossPlayerInBoss 1126
 func (x *S2CMultiBossLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][MultiBossLeaveScene] tag=%v", x.Tag)
+	log.Printf("[S][MultiBossLeaveScene] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -1339,7 +1340,7 @@ func (x *S2CXuanShangBossRefresh) ID() uint16 {
 // Message S2CXuanShangBossRefresh 12456
 func (x *S2CXuanShangBossRefresh) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XuanShangBossRefresh] tag=%v xuan_shang_id=%v", x.Tag, x.XuanShangID)
+	log.Printf("[S][XuanShangBossRefresh] tag=%v tag_msg=%s xuan_shang_id=%v", x.Tag, GetTagMsg(x.Tag), x.XuanShangID)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1351,7 +1352,7 @@ func (x *S2CXuanShangBossAccept) ID() uint16 {
 // Message S2CXuanShangBossAccept 12458
 func (x *S2CXuanShangBossAccept) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XuanShangBossRefresh] tag=%v boss_id=%v", x.Tag, x.BossID)
+	log.Printf("[S][XuanShangBossRefresh] tag=%v tag_msg=%s boss_id=%v", x.Tag, GetTagMsg(x.Tag), x.BossID)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1363,7 +1364,7 @@ func (x *S2CXuanShangBossJoinScene) ID() uint16 {
 // Message S2CXuanShangBossJoinScene 12460
 func (x *S2CXuanShangBossJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XuanShangBossJoinScene] tag=%v boss_id=%v", x.Tag, x.BossID)
+	log.Printf("[S][XuanShangBossJoinScene] tag=%v tag_msg=%s boss_id=%v", x.Tag, GetTagMsg(x.Tag), x.BossID)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1375,7 +1376,7 @@ func (x *S2CXuanShangBossScoreReward) ID() uint16 {
 // Message S2CXuanShangBossScoreReward 12467
 func (x *S2CXuanShangBossScoreReward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XuanShangBossScoreReward] tag=%v score_reward=%v", x.Tag, x.ScoreRewardGet)
+	log.Printf("[S][XuanShangBossScoreReward] tag=%v tag_msg=%s score_reward=%v", x.Tag, GetTagMsg(x.Tag), x.ScoreRewardGet)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1387,7 +1388,7 @@ func (x *S2CBossHomeJoinScene) ID() uint16 {
 // Message S2CBossHomeJoinScene 15032
 func (x *S2CBossHomeJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BossHomeJoinScene] tag=%v home_id=%v", x.Tag, x.HomeId)
+	log.Printf("[S][BossHomeJoinScene] tag=%v tag_msg=%s home_id=%v", x.Tag, GetTagMsg(x.Tag), x.HomeId)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1423,7 +1424,7 @@ func (x *S2CXLDBossSweep) ID() uint16 {
 // Message S2CXLDBossSweep 26206
 func (x *S2CXLDBossSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XLDBossSweep] tag=%v", x.Tag)
+	log.Printf("[S][XLDBossSweep] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -1459,7 +1460,7 @@ func (x *S2CXsdBossJoinScene) ID() uint16 {
 // Message S2CXsdBossJoinScene 26234
 func (x *S2CXsdBossJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XsdBossJoinScene] tag=%v xsd_id=%v boss_id=%v", x.Tag, x.XsdId, x.BossId)
+	log.Printf("[S][XsdBossJoinScene] tag=%v tag_msg=%s xsd_id=%v boss_id=%v", x.Tag, GetTagMsg(x.Tag), x.XsdId, x.BossId)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1483,7 +1484,7 @@ func (x *S2CXsdCollect) ID() uint16 {
 // Message S2CXsdCollect 26246
 func (x *S2CXsdCollect) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XsdCollect] tag=%v %v", x.Tag, x)
+	log.Printf("[S][XsdCollect] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1495,7 +1496,7 @@ func (x *S2CBossHomeLeaveScene) ID() uint16 {
 // Message S2CBossHomeLeaveScene 15034
 func (x *S2CBossHomeLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][BossHomeLeaveScene] tag=%v %v", x.Tag, x)
+	log.Printf("[S][BossHomeLeaveScene] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1507,7 +1508,7 @@ func (x *S2CXsdBossLeaveScene) ID() uint16 {
 // Message S2CXsdBossLeaveScene 15034
 func (x *S2CXsdBossLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XsdBossLeaveScene] tag=%v %v", x.Tag, x)
+	log.Printf("[S][XsdBossLeaveScene] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1519,7 +1520,7 @@ func (x *S2CEnterHLFB) ID() uint16 {
 // Message S2CEnterHLFB 27134
 func (x *S2CEnterHLFB) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][EnterHLFB] tag=%v %v", x.Tag, x)
+	log.Printf("[S][EnterHLFB] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1531,7 +1532,7 @@ func (x *S2CLeaveHLFB) ID() uint16 {
 // Message S2CLeaveHLFB 27136
 func (x *S2CLeaveHLFB) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][LeaveHLFB] tag=%v %v", x.Tag, x)
+	log.Printf("[S][LeaveHLFB] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1552,7 +1553,7 @@ func (x *S2CStartFightHLPVE) ID() uint16 {
 // Message S2CStartFightHLPVE 27138
 func (x *S2CStartFightHLPVE) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StartFightHLPVE] tag=%v tag_p=%v boss_id=%v", x.Tag, x.TagP, x.BossId)
+	log.Printf("[S][StartFightHLPVE] tag=%v tag_msg=%s tag_p=%v boss_id=%v", x.Tag, GetTagMsg(x.Tag), x.TagP, x.BossId)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1573,7 +1574,7 @@ func (x *S2CGetHLBossList) ID() uint16 {
 // Message S2CGetHLBossList 27132
 func (x *S2CGetHLBossList) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetHLBossList] tag=%v hl_boss_list=%v", x.Tag, x.HLBossList)
+	log.Printf("[S][GetHLBossList] tag=%v tag_msg=%s hl_boss_list=%v", x.Tag, GetTagMsg(x.Tag), x.HLBossList)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1594,7 +1595,7 @@ func (x *S2CRecLimitFightSpeedReward) ID() uint16 {
 // Message S2CRecLimitFightSpeedReward 24708
 func (x *S2CRecLimitFightSpeedReward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][RecLimitFightSpeedReward] tag=%v %v", x.Tag, x)
+	log.Printf("[S][RecLimitFightSpeedReward] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1615,7 +1616,7 @@ func (x *S2CRecLimitFightReward) ID() uint16 {
 // Message S2CRecLimitFightReward 24706
 func (x *S2CRecLimitFightReward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][RecLimitFightReward] tag=%v %v", x.Tag, x)
+	log.Printf("[S][RecLimitFightReward] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1636,7 +1637,7 @@ func (x *S2CRoutePath) ID() uint16 {
 // Message S2CRoutePath 155
 func (x *S2CRoutePath) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][RoutePath] tag=%v map_id=%v points=%v", x.Tag, x.MapId, x.Points)
+	log.Printf("[S][RoutePath] tag=%v tag_msg=%s map_id=%v points=%v", x.Tag, GetTagMsg(x.Tag), x.MapId, x.Points)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1660,7 +1661,7 @@ func (x *S2CWorldBossEnd) ID() uint16 {
 // Message S2CWorldBossEnd 15018
 func (x *S2CWorldBossEnd) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][WorldBossEnd] tag=%v scene_close_time=%v", x.Tag, x.SceneCloseTime)
+	log.Printf("[S][WorldBossEnd] tag=%v tag_msg=%s scene_close_time=%v", x.Tag, GetTagMsg(x.Tag), x.SceneCloseTime)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1672,7 +1673,7 @@ func (x *S2CWorldBossCloseScene) ID() uint16 {
 // Message S2CWorldBossCloseScene 15019
 func (x *S2CWorldBossCloseScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][WorldBossCloseScene] tag=%v", x.Tag)
+	log.Printf("[S][WorldBossCloseScene] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -1706,7 +1707,7 @@ func (x *S2CWorldBossStakePoints) ID() uint16 {
 // Message S2CWorldBossStakePoints 15016
 func (x *S2CWorldBossStakePoints) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][WorldBossStakePoints] tag=%v state=%v points=%v", x.Tag, x.State, x.Points)
+	log.Printf("[S][WorldBossStakePoints] tag=%v tag_msg=%s state=%v points=%v", x.Tag, GetTagMsg(x.Tag), x.State, x.Points)
 }
 
 ////////////////////////////////////////////////////////////
@@ -1727,5 +1728,5 @@ func (x *S2CWorldBossReachGoalGetPrize) ID() uint16 {
 // Message S2CWorldBossReachGoalGetPrize 15013
 func (x *S2CWorldBossReachGoalGetPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][WorldBossReachGoalGetPrize] tag=%v", x.Tag)
+	log.Printf("[S][WorldBossReachGoalGetPrize] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

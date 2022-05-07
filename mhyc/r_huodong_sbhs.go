@@ -183,7 +183,7 @@ func (x *S2CSendRob) ID() uint16 {
 // Message S2CSendRob Code:477
 func (x *S2CSendRob) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][SendRob] tag=%v", x.Tag)
+	log.Printf("[S][SendRob] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -259,7 +259,7 @@ func (x *S2CStartWestExp) ID() uint16 {
 // Message S2CStartWestExp Code:475
 func (x *S2CStartWestExp) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StartWestExp] tag=%v", x.Tag)
+	log.Printf("[S][StartWestExp] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -281,5 +281,5 @@ func (x *S2CGetWestPrize) ID() uint16 {
 // Message S2CGetWestPrize Code:469
 func (x *S2CGetWestPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetWestPrize] tag=%v", x.Tag)
+	log.Printf("[S][GetWestPrize] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

@@ -65,7 +65,7 @@ func (x *S2CInviteTeam) ID() uint16 {
 // Message S2CInviteTeam 27110
 func (x *S2CInviteTeam) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][InviteTeam] tag=%v %v", x.Tag, x)
+	log.Printf("[S][InviteTeam] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -86,7 +86,7 @@ func (x *S2CTeamInfo) ID() uint16 {
 // Message S2CTeamInfo 27104
 func (x *S2CTeamInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][组队信息] tag=%v team=%v players=%v", x.Tag, x.Team, x.Players)
+	log.Printf("[S][组队信息] tag=%v tag_msg=%s team=%v players=%v", x.Tag, GetTagMsg(x.Tag), x.Team, x.Players)
 }
 
 ////////////////////////////////////////////////////////////
@@ -107,5 +107,5 @@ func (x *S2CLeaveTeam) ID() uint16 {
 // Message S2CLeaveTeam 27112
 func (x *S2CLeaveTeam) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][退出组队] tag=%v func_id=%v", x.Tag, x.FuncId)
+	log.Printf("[S][退出组队] tag=%v tag_msg=%s func_id=%v", x.Tag, GetTagMsg(x.Tag), x.FuncId)
 }

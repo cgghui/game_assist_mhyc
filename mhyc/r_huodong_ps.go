@@ -81,7 +81,7 @@ func (x *S2CContinueBusiness) ID() uint16 {
 // Message S2CContinueBusiness Code:23304
 func (x *S2CContinueBusiness) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ContinueBusiness] tag=%v", x.Tag)
+	log.Printf("[S][ContinueBusiness] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -103,7 +103,7 @@ func (x *S2CStartBusiness) ID() uint16 {
 // Message S2CStartBusiness Code:23306
 func (x *S2CStartBusiness) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StartBusiness] tag=%v", x.Tag)
+	log.Printf("[S][StartBusiness] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -136,5 +136,5 @@ func (x *S2CGetBusinessPrize) ID() uint16 {
 // Message S2CGetBusinessPrize Code:23312
 func (x *S2CGetBusinessPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetBusinessPrize] tag=%v", x.Tag)
+	log.Printf("[S][GetBusinessPrize] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

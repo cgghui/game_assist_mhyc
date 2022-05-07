@@ -167,7 +167,7 @@ func (x *S2CGetMailAttach) ID() uint16 {
 
 func (x *S2CGetMailAttach) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetMailAttach] tag=%v", x.Tag)
+	log.Printf("[S][GetMailAttach] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 	return
 }
 
@@ -179,7 +179,7 @@ func (x *S2CDelMail) ID() uint16 {
 
 func (x *S2CDelMail) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][DelMail] tag=%v", x.Tag)
+	log.Printf("[S][DelMail] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 	return
 }
 

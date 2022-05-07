@@ -61,7 +61,7 @@ func (x *S2CShenYuData) ID() uint16 {
 // Message S2CShenYuData 28271
 func (x *S2CShenYuData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ShenYuData] tag=%v season=%v first_reward=%v", x.Tag, x.Season, x.FirstReward)
+	log.Printf("[S][ShenYuData] tag=%v tag_msg=%s season=%v first_reward=%v", x.Tag, GetTagMsg(x.Tag), x.Season, x.FirstReward)
 }
 
 ////////////////////////////////////////////////////////////
@@ -82,7 +82,7 @@ func (x *S2CEnterShenYu) ID() uint16 {
 // Message S2CEnterShenYu 51002
 func (x *S2CEnterShenYu) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][进入神域] tag=%v %v", x.Tag, x)
+	log.Printf("[S][进入神域] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -103,5 +103,5 @@ func (x *S2CLeaveShenYu) ID() uint16 {
 // Message S2CLeaveShenYu 51004
 func (x *S2CLeaveShenYu) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][离开神域] tag=%v", x.Tag)
+	log.Printf("[S][离开神域] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

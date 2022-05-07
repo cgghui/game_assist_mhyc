@@ -764,7 +764,7 @@ func (x *S2CInstanceMaterialSweep) ID() uint16 {
 // Message S2CInstanceMaterialSweep 610
 func (x *S2CInstanceMaterialSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][InstanceMaterialSweep] tag=%v", x.Tag)
+	log.Printf("[S][InstanceMaterialSweep] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -776,7 +776,7 @@ func (x *S2CInstanceSLSweep) ID() uint16 {
 // Message S2CInstanceSLSweep 23016
 func (x *S2CInstanceSLSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][InstanceSLSweep] tag=%v", x.Tag)
+	log.Printf("[S][InstanceSLSweep] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -788,7 +788,7 @@ func (x *S2CClimbingTowerEnter) ID() uint16 {
 // Message S2CClimbingTowerEnter 22572
 func (x *S2CClimbingTowerEnter) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ClimbingTowerEnter] tag=%v tower_type=%v", x.Tag, x.TowerType)
+	log.Printf("[S][ClimbingTowerEnter] tag=%v tag_msg=%s tower_type=%v", x.Tag, GetTagMsg(x.Tag), x.TowerType)
 }
 
 ////////////////////////////////////////////////////////////
@@ -800,7 +800,7 @@ func (x *S2CClimbingTowerFight) ID() uint16 {
 // Message S2CClimbingTowerFight 22576
 func (x *S2CClimbingTowerFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ClimbingTowerFight] tag=%v id=%v tower_type=%v", x.Tag, x.Id, x.TowerType)
+	log.Printf("[S][ClimbingTowerFight] tag=%v tag_msg=%s id=%v tower_type=%v", x.Tag, GetTagMsg(x.Tag), x.Id, x.TowerType)
 }
 
 ////////////////////////////////////////////////////////////
@@ -812,7 +812,7 @@ func (x *S2CClimbingTowerLeave) ID() uint16 {
 // Message S2CClimbingTowerLeave 22574
 func (x *S2CClimbingTowerLeave) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ClimbingTowerLeave] tag=%v tower_type=%v", x.Tag, x.TowerType)
+	log.Printf("[S][ClimbingTowerLeave] tag=%v tag_msg=%s tower_type=%v", x.Tag, GetTagMsg(x.Tag), x.TowerType)
 }
 
 ////////////////////////////////////////////////////////////
@@ -824,7 +824,7 @@ func (x *S2CTeamInstanceMatching) ID() uint16 {
 // Message S2CTeamInstanceMatching 24403
 func (x *S2CTeamInstanceMatching) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][TeamInstanceMatching] tag=%v instance_type=%v players=%v", x.Tag, x.InstanceType, x.Players)
+	log.Printf("[S][TeamInstanceMatching] tag=%v tag_msg=%s instance_type=%v players=%v", x.Tag, GetTagMsg(x.Tag), x.InstanceType, x.Players)
 }
 
 ////////////////////////////////////////////////////////////
@@ -837,7 +837,7 @@ func (x *S2CTeamInstanceGetReport) ID() uint16 {
 func (x *S2CTeamInstanceGetReport) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	_ = CLI.EndFight(x.Report)
-	log.Printf("[S][TeamInstanceGetReport] tag=%v instance_type=%v players=%v", x.Tag, x.InstanceType, x.Index)
+	log.Printf("[S][TeamInstanceGetReport] tag=%v tag_msg=%s instance_type=%v players=%v", x.Tag, GetTagMsg(x.Tag), x.InstanceType, x.Index)
 }
 
 ////////////////////////////////////////////////////////////
@@ -849,7 +849,7 @@ func (x *S2CJungleHuntFight) ID() uint16 {
 // Message S2CJungleHuntFight 28704
 func (x *S2CJungleHuntFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][TeamInstanceGetReport] tag=%v", x.Tag)
+	log.Printf("[S][TeamInstanceGetReport] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -861,7 +861,7 @@ func (x *S2CJungleHuntTreat) ID() uint16 {
 // Message S2CJungleHuntTreat 28706
 func (x *S2CJungleHuntTreat) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JungleHuntTreat] tag=%v", x.Tag)
+	log.Printf("[S][JungleHuntTreat] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -873,7 +873,7 @@ func (x *S2CJungleHuntBattleArr) ID() uint16 {
 // Message S2CJungleHuntBattleArr 28724
 func (x *S2CJungleHuntBattleArr) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JungleHuntBattleArr] tag=%v", x.Tag)
+	log.Printf("[S][JungleHuntBattleArr] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -885,7 +885,7 @@ func (x *S2CJungleHuntOpenBox) ID() uint16 {
 // Message S2CJungleHuntOpenBox 28710
 func (x *S2CJungleHuntOpenBox) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JungleHuntOpenBox] tag=%v", x.Tag)
+	log.Printf("[S][JungleHuntOpenBox] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////

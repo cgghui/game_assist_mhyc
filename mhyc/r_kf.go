@@ -154,7 +154,7 @@ func (x *S2CYiJiLeaveScene) ID() uint16 {
 // Message S2CYiJiLeaveScene Code:25318
 func (x *S2CYiJiLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][离开遗迹场景] tag=%v id=%v", x.Tag, x.Id)
+	log.Printf("[S][离开遗迹场景] tag=%v tag_msg=%s id=%v", x.Tag, GetTagMsg(x.Tag), x.Id)
 }
 
 ////////////////////////////////////////////////////////////
@@ -176,7 +176,7 @@ func (x *S2CYiJiJoinScene) ID() uint16 {
 // Message S2CYiJiJoinScene Code:25316
 func (x *S2CYiJiJoinScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][进入遗迹场景] tag=%v id=%v", x.Tag, x.Id)
+	log.Printf("[S][进入遗迹场景] tag=%v tag_msg=%s id=%v", x.Tag, GetTagMsg(x.Tag), x.Id)
 }
 
 ////////////////////////////////////////////////////////////

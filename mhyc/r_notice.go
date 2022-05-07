@@ -99,6 +99,9 @@ func (r *receiveMessageBox) WaitWithContextOrTimeout(c context.Context, call Han
 	if len(timeout) == 0 {
 		return r.WaitWithContext(nil, call)
 	}
+	if c == nil {
+		return errors.New("cannot create context from nil parent")
+	}
 	ctx, cancel := context.WithTimeout(c, timeout[0])
 	defer cancel()
 	return r.WaitWithContext(ctx, call)
@@ -128,7 +131,8 @@ func (r *receiveMessageBox) Close() {
 		close(w.wait)
 		w.Close()
 	}
-
+	ActionManageList = make([]*ActionManage, 0)
+	ActionRunningHistoryList = make([]ActionRunHistory, 0)
 }
 
 func (r *receiveMessageBox) Notify(id uint16, data []byte) {

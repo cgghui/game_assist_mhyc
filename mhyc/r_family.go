@@ -126,7 +126,7 @@ func (x *S2CFamilyInfo) ID() uint16 {
 
 func (x *S2CFamilyInfo) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][FamilyInfo] tag=%v", x.Tag)
+	log.Printf("[S][FamilyInfo] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -137,7 +137,7 @@ func (x *S2CFamilyJJCJoin) ID() uint16 {
 
 func (x *S2CFamilyJJCJoin) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][FamilyJJCJoin] tag=%v", x.Tag)
+	log.Printf("[S][FamilyJJCJoin] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -148,7 +148,7 @@ func (x *S2CFamilyJJCFight) ID() uint16 {
 
 func (x *S2CFamilyJJCFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][FamilyJJCFight] tag=%v", x.Tag)
+	log.Printf("[S][FamilyJJCFight] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -159,5 +159,5 @@ func (x *S2CFamilyJJCRecieveAward) ID() uint16 {
 
 func (x *S2CFamilyJJCRecieveAward) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][FamilyJJCRecieveAward] tag=%v", x.Tag)
+	log.Printf("[S][FamilyJJCRecieveAward] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

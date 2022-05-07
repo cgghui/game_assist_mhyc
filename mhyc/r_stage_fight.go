@@ -90,7 +90,7 @@ func (x *S2CStageFight) ID() uint16 {
 
 func (x *S2CStageFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StagePrize] tag=%v win=%v", x.Tag, x.Win)
+	log.Printf("[S][StagePrize] tag=%v tag_msg=%s win=%v", x.Tag, GetTagMsg(x.Tag), x.Win)
 }
 
 ////////////////////////////////////////////////////////////
@@ -101,5 +101,5 @@ func (x *S2CStageDraw) ID() uint16 {
 
 func (x *S2CStageDraw) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][CStageDraw] tag=%v id=%v", x.Tag, x.Id)
+	log.Printf("[S][CStageDraw] tag=%v tag_msg=%s id=%v", x.Tag, GetTagMsg(x.Tag), x.Id)
 }

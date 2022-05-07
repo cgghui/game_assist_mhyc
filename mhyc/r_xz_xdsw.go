@@ -4,7 +4,6 @@ import (
 	"context"
 	"encoding/json"
 	"google.golang.org/protobuf/proto"
-	"io/ioutil"
 	"log"
 	"time"
 )
@@ -65,7 +64,7 @@ func (x *S2CSectPrestigeRecv) ID() uint16 {
 // Message S2CSectPrestigeRecv 19056
 func (x *S2CSectPrestigeRecv) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][SectPrestigeRecv] tag=%v", x.Tag)
+	log.Printf("[S][SectPrestigeRecv] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -77,7 +76,7 @@ func (x *S2CSectPrestigeLevelUp) ID() uint16 {
 // Message S2CSectPrestigeLevelUp 19054
 func (x *S2CSectPrestigeLevelUp) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][SectPrestigeLevelUp] tag=%v", x.Tag)
+	log.Printf("[S][SectPrestigeLevelUp] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -93,11 +92,7 @@ type SectPrestige struct {
 var sectPrestigeLS []SectPrestige
 
 func init() {
-	data, err := ioutil.ReadFile(DataRoot + "\\cfg_2\\Cfg_Sect_Prestige.json")
-	if err != nil {
-		panic(err)
-	}
-	if err = json.Unmarshal(data, &sectPrestigeLS); err != nil {
+	if err := json.Unmarshal(cfg2SectPrestige, &sectPrestigeLS); err != nil {
 		panic(err)
 	}
 }

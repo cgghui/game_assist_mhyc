@@ -125,7 +125,7 @@ func (x *S2CJJCList) ID() uint16 {
 // Message S2CJJCList Code:1102
 func (x *S2CJJCList) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JJCList] tag=%v role=%v", x.Tag, x.Roles)
+	log.Printf("[S][JJCList] tag=%v tag_msg=%s role=%v", x.Tag, GetTagMsg(x.Tag), x.Roles)
 }
 
 ////////////////////////////////////////////////////////////
@@ -147,7 +147,7 @@ func (x *S2CJJCFight) ID() uint16 {
 // Message S2CJJCFight Code:1104
 func (x *S2CJJCFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JJCFight] tag=%v %v", x.Tag, x)
+	log.Printf("[S][JJCFight] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -169,7 +169,7 @@ func (x *S2CJJCSweep) ID() uint16 {
 // Message S2CJJCSweep Code:1110
 func (x *S2CJJCSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JJCSweep] tag=%v %v", x.Tag, x)
+	log.Printf("[S][JJCSweep] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -191,7 +191,7 @@ func (x *S2CKingMatch) ID() uint16 {
 // Message S2CKingMatch Code:14003
 func (x *S2CKingMatch) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][KingMatch] tag=%v %v", x.Tag, x)
+	log.Printf("[S][KingMatch] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -213,5 +213,5 @@ func (x *S2CKingFight) ID() uint16 {
 // Message S2CKingFight Code:14005
 func (x *S2CKingFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][KingFight] tag=%v", x.Tag)
+	log.Printf("[S][KingFight] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

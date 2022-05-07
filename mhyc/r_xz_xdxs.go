@@ -139,7 +139,7 @@ func (x *S2CXZXSGetAllCanStartTask) ID() uint16 {
 // Message S2CXZXSGetTaskPrize 25408
 func (x *S2CXZXSGetAllCanStartTask) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XZXSGetAllCanStartTask] tag=%d %v", x.Tag, x)
+	log.Printf("[S][XZXSGetAllCanStartTask] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////
@@ -151,7 +151,7 @@ func (x *S2CXZXSGetTaskPrize) ID() uint16 {
 // Message S2CXZXSGetTaskPrize 25412
 func (x *S2CXZXSGetTaskPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][XZXSGetTaskPrize] tag=%d %v", x.Tag, x)
+	log.Printf("[S][XZXSGetTaskPrize] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
 
 ////////////////////////////////////////////////////////////

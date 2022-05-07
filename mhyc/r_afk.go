@@ -125,7 +125,7 @@ func (x *S2CGetAFKPrize) ID() uint16 {
 
 func (x *S2CGetAFKPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetAFKPrize] tag=%v", x.Tag)
+	log.Printf("[S][GetAFKPrize] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -136,5 +136,5 @@ func (x *S2CAFKBuyTimes) ID() uint16 {
 
 func (x *S2CAFKBuyTimes) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][AFKBuyTimes] tag=%v", x.Tag)
+	log.Printf("[S][AFKBuyTimes] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

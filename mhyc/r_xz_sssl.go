@@ -110,7 +110,7 @@ func (x *S2CChallengeGodAnimal) ID() uint16 {
 // Message S2CChallengeGodAnimal 19046
 func (x *S2CChallengeGodAnimal) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][ChallengeGodAnimal] tag=%v is_win=%v", x.Tag, x.IsWin)
+	log.Printf("[S][ChallengeGodAnimal] tag=%v tag_msg=%s is_win=%v", x.Tag, GetTagMsg(x.Tag), x.IsWin)
 }
 
 ////////////////////////////////////////////////////////////
@@ -122,5 +122,5 @@ func (x *S2CGodAnimalPassData) ID() uint16 {
 // Message S2CGodAnimalPassData 19050
 func (x *S2CGodAnimalPassData) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GodAnimalPassData] tag=%v %v", x.Tag, x)
+	log.Printf("[S][GodAnimalPassData] tag=%v tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }

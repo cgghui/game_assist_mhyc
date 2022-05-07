@@ -26,7 +26,7 @@ func (x *S2CStartMove) ID() uint16 {
 // Message S2CStartMove 53
 func (x *S2CStartMove) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][角色移动] tag=%v", x.Tag)
+	log.Printf("[S][角色移动] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -108,7 +108,7 @@ func (x *S2CChangeMap) ID() uint16 {
 // Message S2CChangeMap Code:51
 func (x *S2CChangeMap) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][切换地图] tag=%v id=%d x=%d y=%d", x.Tag, x.MapId, x.X, x.Y)
+	log.Printf("[S][切换地图] tag=%v tag_msg=%s id=%d x=%d y=%d", x.Tag, GetTagMsg(x.Tag), x.MapId, x.X, x.Y)
 }
 
 ////////////////////////////////////////////////////////////
@@ -157,7 +157,7 @@ func (x *S2CWareHouseReceiveItem) ID() uint16 {
 // Message S2CWareHouseReceiveItem Code:27306
 func (x *S2CWareHouseReceiveItem) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][WareHouseReceiveItem] tag=%v wh_id=%v", x.Tag, x.WhId)
+	log.Printf("[S][WareHouseReceiveItem] tag=%v tag_msg=%s wh_id=%v", x.Tag, GetTagMsg(x.Tag), x.WhId)
 }
 
 ////////////////////////////////////////////////////////////
@@ -169,7 +169,7 @@ func (x *S2CStartFight) ID() uint16 {
 // Message S2CStartFight Code:62
 func (x *S2CStartFight) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][StartFight] tag=%v", x.Tag)
+	log.Printf("[S][StartFight] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -263,7 +263,7 @@ func (x *S2CUpdateAmount) ID() uint16 {
 
 func (x *S2CUpdateAmount) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][UpdateAmount] tag=%v act_id=%v amount=%v", x.Tag, x.ActId, x.Amount)
+	log.Printf("[S][UpdateAmount] tag=%v tag_msg=%s act_id=%v amount=%v", x.Tag, GetTagMsg(x.Tag), x.ActId, x.Amount)
 	return
 }
 
@@ -357,7 +357,7 @@ type ActionManage struct {
 }
 
 func (a *ActionManage) End() {
-	if len(ActionRunningHistoryList) > 500 {
+	if len(ActionRunningHistoryList) > 200 {
 		ActionRunningHistoryList = ActionRunningHistoryList[1:]
 	}
 	ActionRunningHistoryList = append(ActionRunningHistoryList, ActionRunHistory{
@@ -368,19 +368,6 @@ func (a *ActionManage) End() {
 	a.Cancel()
 	a.Name = ""
 	a.Ctx = nil
-}
-
-func SetAction(ctx context.Context, name string) *ActionManage {
-	am := &ActionManage{Name: name, Sr: time.Now()}
-	am.Ctx, am.Cancel = context.WithCancel(ctx)
-	for i := range ActionManageList {
-		if ActionManageList[i].Name == "" && ActionManageList[i].Ctx == nil {
-			ActionManageList[i] = am
-			return am
-		}
-	}
-	ActionManageList = append(ActionManageList, am)
-	return am
 }
 
 func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Duration, next time.Duration)) time.Duration {
@@ -399,6 +386,25 @@ func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Dura
 		case <-a.Ctx.Done():
 			return RandMillisecond(60, 120)
 		}
+	}
+}
+
+func SetAction(ctx context.Context, name string) *ActionManage {
+	am := &ActionManage{Name: name, Sr: time.Now()}
+	am.Ctx, am.Cancel = context.WithCancel(ctx)
+	for i := range ActionManageList {
+		if ActionManageList[i].Name == "" && ActionManageList[i].Ctx == nil {
+			ActionManageList[i] = am
+			return am
+		}
+	}
+	ActionManageList = append(ActionManageList, am)
+	return am
+}
+
+func StopAction() {
+	for i := range ActionManageList {
+		ActionManageList[i].End()
 	}
 }
 

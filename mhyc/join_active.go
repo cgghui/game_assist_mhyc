@@ -32,7 +32,7 @@ func (x *S2CJoinActive) ID() uint16 {
 // Message S2CJoinActive 1508
 func (x *S2CJoinActive) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JoinActive] tag=%v aid=%v", x.Tag, x.AId)
+	log.Printf("[S][JoinActive] tag=%v tag_msg=%s aid=%v", x.Tag, GetTagMsg(x.Tag), x.AId)
 }
 
 ////////////////////////////////////////////////////////////
@@ -44,5 +44,5 @@ func (x *S2CLeaveActive) ID() uint16 {
 // Message S2CLeaveActive 1510
 func (x *S2CLeaveActive) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][LeaveActive] tag=%v aid=%v", x.Tag, x.AId)
+	log.Printf("[S][LeaveActive] tag=%v tag_msg=%s aid=%v", x.Tag, GetTagMsg(x.Tag), x.AId)
 }

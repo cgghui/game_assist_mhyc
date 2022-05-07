@@ -201,7 +201,7 @@ func (x *S2CEnterAnimalPark) ID() uint16 {
 
 func (x *S2CEnterAnimalPark) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][EnterAnimalPark] tag=%v pet=%v buff=%v", x.Tag, x.Pet, x.Buff)
+	log.Printf("[S][EnterAnimalPark] tag=%v tag_msg=%s pet=%v buff=%v", x.Tag, GetTagMsg(x.Tag), x.Pet, x.Buff)
 }
 
 ////////////////////////////////////////////////////////////
@@ -212,7 +212,7 @@ func (x *S2CSearchPet) ID() uint16 {
 
 func (x *S2CSearchPet) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][SearchPet] tag=%v pet=%v buff=%v", x.Tag, x.Pet, x.Buff)
+	log.Printf("[S][SearchPet] tag=%v tag_msg=%s pet=%v buff=%v", x.Tag, GetTagMsg(x.Tag), x.Pet, x.Buff)
 }
 
 ////////////////////////////////////////////////////////////
@@ -223,7 +223,7 @@ func (x *S2CAnimalParkGO) ID() uint16 {
 
 func (x *S2CAnimalParkGO) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][AnimalParkGO] tag=%v times=%v del_pets=%v", x.Tag, x.Times, x.DelPets)
+	log.Printf("[S][AnimalParkGO] tag=%v tag_msg=%s times=%v del_pets=%v", x.Tag, GetTagMsg(x.Tag), x.Times, x.DelPets)
 }
 
 ////////////////////////////////////////////////////////////
@@ -234,7 +234,7 @@ func (x *S2CLeaveAnimalPark) ID() uint16 {
 
 func (x *S2CLeaveAnimalPark) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][LeaveAnimalPark] tag=%v", x.Tag)
+	log.Printf("[S][LeaveAnimalPark] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
 
 ////////////////////////////////////////////////////////////
@@ -256,5 +256,5 @@ func (x *S2CAnimalParkCatch) ID() uint16 {
 
 func (x *S2CAnimalParkCatch) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][AnimalParkCatch] tag=%v pet_id=%v drop=%v", x.Tag, x.PetId, x.Drop)
+	log.Printf("[S][AnimalParkCatch] tag=%v tag_msg=%s pet_id=%v drop=%v", x.Tag, GetTagMsg(x.Tag), x.PetId, x.Drop)
 }
