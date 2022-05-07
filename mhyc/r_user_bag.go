@@ -92,6 +92,15 @@ func (u *userBag) Has(id int32) bool {
 	return ok
 }
 
+func (u *userBag) GetAll() (ret map[string]interface{}) {
+	ret = make(map[string]interface{})
+	u.s.Range(func(key, value interface{}) bool {
+		ret[key.(string)] = value
+		return true
+	})
+	return
+}
+
 func (u *userBag) Get(id int32) *ItemData {
 	ret, ok := u.s.Load(id)
 	if !ok {

@@ -43,7 +43,9 @@ func main() {
 				text = append(text, "current: "+am.Name+" running time: "+time.Since(am.Sr).String())
 			}
 			text = append(text, "-----------------------")
-			for _, am := range mhyc.ActionRunningHistoryList {
+			i := len(mhyc.ActionRunningHistoryList) - 1
+			for ; i >= 0; i-- {
+				am := mhyc.ActionRunningHistoryList[i]
 				text = append(text, am.RunningTime+" "+am.Name+" "+am.TakeUpTime.String())
 			}
 			ctt.String(http.StatusOK, strings.Join(text, "\n"))
@@ -51,6 +53,11 @@ func main() {
 
 		web.GET("/get_role_data", func(ctt *gin.Context) {
 			info := mhyc.RoleInfo.GetAll()
+			ctt.AsciiJSON(http.StatusOK, info)
+		})
+
+		web.GET("/get_user_bag_data", func(ctt *gin.Context) {
+			info := mhyc.UserBag.GetAll()
 			ctt.AsciiJSON(http.StatusOK, info)
 		})
 
