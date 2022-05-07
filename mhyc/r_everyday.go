@@ -828,5 +828,5 @@ func (x *S2CGetTaskPrize) ID() uint16 {
 
 func (x *S2CGetTaskPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][GetTaskPrize] tag=%d tag_msg=%s %v", GetTagMsg(x.Tag), x.Tag, x)
+	log.Printf("[S][GetTaskPrize] tag=%d tag_msg=%s %v", x.Tag, GetTagMsg(x.Tag), x)
 }
