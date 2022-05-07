@@ -55,7 +55,7 @@ func main() {
 		})
 
 		s := &http.Server{
-			Addr:         "127.0.0.1:9292",
+			Addr:         ":9292",
 			Handler:      web,
 			ReadTimeout:  time.Minute,
 			WriteTimeout: time.Minute,
