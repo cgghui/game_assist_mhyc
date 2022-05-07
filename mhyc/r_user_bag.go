@@ -112,7 +112,7 @@ const s30 = 30 * time.Second
 const s60 = 60 * time.Second
 const s90 = 90 * time.Second
 
-func (u *userBag) Wait(id int32, timeout time.Duration) *ItemData {
+func (u *userBag) Wait(id int32, timeout time.Duration, c context.Context) *ItemData {
 	var err error
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
@@ -120,6 +120,8 @@ func (u *userBag) Wait(id int32, timeout time.Duration) *ItemData {
 	for {
 		select {
 		case <-ctx.Done():
+			return nil
+		case <-c.Done():
 			return nil
 		case <-tm.C:
 			_ = CLI.UserBag()

@@ -2,7 +2,6 @@ package mhyc
 
 import (
 	"context"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"strconv"
@@ -16,30 +15,34 @@ func FuBen(ctx context.Context) {
 	defer t1.Stop()
 	f1 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-材料扫荡")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		//
 		isEnd := 0
 		//
 		ims := &S2CInstanceMaterialSweep{}
 		Receive.Action(CLI.InstanceMaterialSweep)
-		if _ = Receive.Wait(ims, s3); ims.Tag != 0 {
+		if _ = Receive.WaitWithContextOrTimeout(am.Ctx, ims, s3); ims.Tag != 0 {
 			isEnd += 1
 		}
 		//
 		isl1 := &S2CInstanceSLSweep{}
 		Receive.Action(CLI.InstanceSLSweep1)
-		if _ = Receive.Wait(isl1, s3); isl1.Tag != 0 {
+		if _ = Receive.WaitWithContextOrTimeout(am.Ctx, isl1, s3); isl1.Tag != 0 {
 			isEnd += 1
 		}
 		//
 		isl2 := &S2CInstanceSLSweep{}
 		Receive.Action(CLI.InstanceSLSweep2)
-		if _ = Receive.Wait(isl2, s3); isl2.Tag != 0 {
+		if _ = Receive.WaitWithContextOrTimeout(am.Ctx, isl2, s3); isl2.Tag != 0 {
 			isEnd += 1
 		}
 		//
 		if isEnd >= 3 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		return time.Second
 	}
@@ -48,232 +51,208 @@ func FuBen(ctx context.Context) {
 	defer t2.Stop()
 	f2 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-爬塔-宝石")
 		defer func() {
 			go func() {
 				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 1})
 			}()
-			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerLeave{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 1})
 		}()
-		if err := Receive.Wait(enter, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
 			return ms500
 		}
 		if enter.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				go func() {
-					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 1, Id: 0})
-				}()
-				r := &S2CClimbingTowerFight{}
-				if err := Receive.Wait(r, s3); err != nil {
-					return ms100
-				}
-				if r.Tag != 0 {
-					return ms100
-				}
-				tm.Reset(ms10)
-			case <-ctx.Done():
-				return s3
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 1, Id: 0})
+			}()
+			r := &S2CClimbingTowerFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
 			}
-		}
+			if r.Tag != 0 {
+				return 0, RandMillisecond(0, 3)
+			}
+			return ms10, 0
+		})
 	}
 	// 爬塔 天仙
 	t3 := time.NewTimer(ms100)
 	defer t3.Stop()
 	f3 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-爬塔-天仙")
 		defer func() {
 			go func() {
 				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 2})
 			}()
-			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerLeave{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 2})
 		}()
-		if err := Receive.Wait(enter, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
 			return ms500
 		}
 		if enter.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				go func() {
-					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 2, Id: 0})
-				}()
-				r := &S2CClimbingTowerFight{}
-				if err := Receive.Wait(r, s3); err != nil {
-					return ms100
-				}
-				if r.Tag != 0 {
-					return ms100
-				}
-				tm.Reset(ms10)
-			case <-ctx.Done():
-				return s3
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 2, Id: 0})
+			}()
+			r := &S2CClimbingTowerFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
 			}
-		}
+			if r.Tag != 0 {
+				return 0, RandMillisecond(0, 3)
+			}
+			return ms10, 0
+		})
 	}
 	// 爬塔 战神
 	t4 := time.NewTimer(ms100)
 	defer t4.Stop()
 	f4 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-爬塔-战神")
 		defer func() {
 			go func() {
 				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 3})
 			}()
-			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerLeave{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 3})
 		}()
-		if err := Receive.Wait(enter, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if enter.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				go func() {
-					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 3, Id: 0})
-				}()
-				r := &S2CClimbingTowerFight{}
-				if err := Receive.Wait(r, s3); err != nil {
-					return ms100
-				}
-				if r.Tag != 0 {
-					return ms100
-				}
-				tm.Reset(ms10)
-			case <-ctx.Done():
-				return s3
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 3, Id: 0})
+			}()
+			r := &S2CClimbingTowerFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
 			}
-		}
+			if r.Tag != 0 {
+				return 0, RandMillisecond(0, 3)
+			}
+			return ms10, 0
+		})
 	}
 	// 爬塔 仙童
 	t5 := time.NewTimer(ms100)
 	defer t5.Stop()
 	f5 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-爬塔-仙童")
 		defer func() {
 			go func() {
 				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 4})
 			}()
-			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerLeave{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 4})
 		}()
-		if err := Receive.Wait(enter, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if enter.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				go func() {
-					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 4, Id: 0})
-				}()
-				r := &S2CClimbingTowerFight{}
-				if err := Receive.Wait(r, s3); err != nil {
-					return ms100
-				}
-				if r.Tag != 0 {
-					return ms100
-				}
-				tm.Reset(ms10)
-			case <-ctx.Done():
-				return s3
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 4, Id: 0})
+			}()
+			r := &S2CClimbingTowerFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
 			}
-		}
+			if r.Tag != 0 {
+				return 0, RandMillisecond(0, 3)
+			}
+			return ms10, 0
+		})
 	}
 	// 爬塔 剑魂
 	t6 := time.NewTimer(ms100)
 	defer t6.Stop()
 	f6 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-爬塔-剑魂")
 		defer func() {
 			go func() {
 				_ = CLI.ClimbingTowerLeave(&C2SClimbingTowerLeave{TowerType: 5})
 			}()
-			_ = Receive.Wait(&S2CClimbingTowerLeave{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerLeave{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		enter := &S2CClimbingTowerEnter{}
 		go func() {
 			_ = CLI.ClimbingTowerEnter(&C2SClimbingTowerEnter{TowerType: 5})
 		}()
-		if err := Receive.Wait(enter, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if enter.Tag != 0 {
 			// 分解
 			Receive.Action(CLI.SwordSoulResolveJH)
-			_ = Receive.Wait(&S2CSwordSoulResolve{}, s3)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSwordSoulResolve{}, s3); err != nil {
+				return RandMillisecond(0, 3)
+			}
 			// 每日奖励
 			Receive.Action(CLI.ClimbingTowerGetSwordSoulDayPrize)
-			_ = Receive.Wait(&S2CClimbingTowerGetSwordSoulDayPrize{}, s3)
-			//
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				go func() {
-					_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 5, Id: 0})
-				}()
-				r := &S2CClimbingTowerFight{}
-				if err := Receive.Wait(r, s3); err != nil {
-					goto Next
-				}
-				if r.Tag != 0 {
-					goto Next
-				}
-				tm.Reset(ms10)
-			case <-ctx.Done():
-				return s3
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerGetSwordSoulDayPrize{}, s3); err != nil {
+				return RandMillisecond(0, 3)
 			}
-
+			//
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-	Next:
+		reTime := am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.ClimbingTowerFight(&C2SClimbingTowerFight{TowerType: 5, Id: 0})
+			}()
+			r := &S2CClimbingTowerFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
+			}
+			if r.Tag != 0 {
+				return 0, RandMillisecond(0, 3)
+			}
+			return ms10, 0
+		})
 		// 分解
 		Receive.Action(CLI.SwordSoulResolveJH)
-		_ = Receive.Wait(&S2CSwordSoulResolve{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSwordSoulResolve{}, s3)
 		// 每日奖励
 		Receive.Action(CLI.ClimbingTowerGetSwordSoulDayPrize)
-		_ = Receive.Wait(&S2CClimbingTowerGetSwordSoulDayPrize{}, s3)
-		//
-		return ms100
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CClimbingTowerGetSwordSoulDayPrize{}, s3)
+		return reTime
 	}
 	// 组队 灵气
 	t7 := time.NewTimer(ms100)
@@ -281,16 +260,20 @@ func FuBen(ctx context.Context) {
 	f7 := func() time.Duration {
 		id := int32(241)
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-组队-灵气")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		matching := &S2CTeamInstanceMatching{}
 		go func() {
 			_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
 		}()
-		if err := Receive.Wait(matching, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, matching, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if matching.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		go func() {
 			user := make([]int64, 0)
@@ -300,12 +283,15 @@ func FuBen(ctx context.Context) {
 			_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
 		}()
 		report := &S2CTeamInstanceGetReport{}
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		go func() {
 			_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
 		}()
-		_ = Receive.Wait(report, s3)
-		fmt.Println(report)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		return ms100
 	}
 	// 组队 进阶
@@ -314,13 +300,17 @@ func FuBen(ctx context.Context) {
 	f8 := func() time.Duration {
 		id := int32(242)
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-组队-进阶")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		matching := &S2CTeamInstanceMatching{}
 		go func() {
 			_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
 		}()
-		if err := Receive.Wait(matching, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, matching, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if matching.Tag != 0 {
 			return TomorrowDuration(RandMillisecond(30000, 30600))
@@ -333,12 +323,15 @@ func FuBen(ctx context.Context) {
 			_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
 		}()
 		report := &S2CTeamInstanceGetReport{}
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		go func() {
 			_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
 		}()
-		_ = Receive.Wait(report, s3)
-		fmt.Println(report)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		return ms100
 	}
 	// 组队 宠物装备
@@ -347,16 +340,20 @@ func FuBen(ctx context.Context) {
 	f9 := func() time.Duration {
 		id := int32(340)
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-组队-宠物装备")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		matching := &S2CTeamInstanceMatching{}
 		go func() {
 			_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
 		}()
-		if err := Receive.Wait(matching, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, matching, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if matching.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		go func() {
 			user := make([]int64, 0)
@@ -366,11 +363,15 @@ func FuBen(ctx context.Context) {
 			_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
 		}()
 		report := &S2CTeamInstanceGetReport{}
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		go func() {
 			_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
 		}()
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		return ms100
 	}
 	// 组队 星图
@@ -379,16 +380,20 @@ func FuBen(ctx context.Context) {
 	f10 := func() time.Duration {
 		id := int32(341)
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-组队-星图")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		matching := &S2CTeamInstanceMatching{}
 		go func() {
 			_ = CLI.TeamInstanceMatching(&C2STeamInstanceMatching{InstanceType: id})
 		}()
-		if err := Receive.Wait(matching, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, matching, s3); err != nil {
+			return RandMillisecond(0, 3)
 		}
 		if matching.Tag != 0 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		go func() {
 			user := make([]int64, 0)
@@ -398,11 +403,15 @@ func FuBen(ctx context.Context) {
 			_ = CLI.TeamInstanceStartFight(&C2STeamInstanceStartFight{InstanceType: id, UserIds: user})
 		}()
 		report := &S2CTeamInstanceGetReport{}
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		go func() {
 			_ = CLI.TeamInstanceGetReport(&C2STeamInstanceGetReport{InstanceType: id})
 		}()
-		_ = Receive.Wait(report, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, report, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		return ms100
 	}
 	// 仙林狩猎
@@ -410,96 +419,122 @@ func FuBen(ctx context.Context) {
 	defer t11.Stop()
 	f11 := func(ctx context.Context) time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
-		i := 1
-		ts := time.NewTimer(ms10)
-		defer ts.Stop()
-		for {
-			select {
-			case <-ts.C:
-				if i >= 11 {
-					goto Next
-				}
-				Receive.Action(CLI.JungleHuntData)
-				_ = Receive.Wait(&S2CJungleHuntData{}, s3)
-				//
-				go func(i int) {
-					_ = CLI.JungleHuntFight(&C2SJungleHuntFight{CpId: int32(i)})
-				}(i)
-				r := &S2CJungleHuntFight{}
-				_ = Receive.Wait(r, s3)
-				if r.Tag == 58871 || r.Tag == 58851 { // 全体阵亡 已通关
-					goto Next
-				}
-				// 尝试阵亡复活
-				// 第8层以下进行复活
-				if r.CpId <= 8 && r.Tag == 0 && r.Win == 0 && RoleInfo.Get("Coin4").Int64() > 1000 {
-					Receive.Action(CLI.JungleHuntTreat)
-					_ = Receive.Wait(&S2CJungleHuntTreat{}, s3)
-					ts.Reset(time.Second)
-					break
-				}
-				if (r.Tag == 0 && r.Win == 1) || r.Tag == 58851 {
-					i++
-				}
-				ts.Reset(time.Second)
-			case <-ctx.Done():
-				return s3
+		am := SetAction(ctx, "副本-仙林狩猎")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		nextFunc := func() time.Duration {
+			Receive.Action(CLI.JungleHuntOpenBox)
+			box := &S2CJungleHuntOpenBox{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJungleHuntOpenBox{}, s3); err != nil {
+				return RandMillisecond(0, 3)
 			}
+			if box.Tag != 0 {
+				return RandMillisecond(0, 3)
+			}
+			if RoleInfo.Get("JungleHunt_LeftResetTimes").Int64() <= 0 {
+				return TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			Receive.Action(CLI.JungleHuntReset)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJungleHuntReset{}, s3)
+			return RandMillisecond(0, 3)
 		}
-	Next:
-		box := &S2CJungleHuntOpenBox{}
-		Receive.Action(CLI.JungleHuntOpenBox)
-		_ = Receive.Wait(&S2CJungleHuntOpenBox{}, s3)
-		if box.Tag != 0 {
-			return ms100
-		}
-		if RoleInfo.Get("JungleHunt_LeftResetTimes").Int64() <= 0 {
-			return TomorrowDuration(18000)
-		}
-		Receive.Action(CLI.JungleHuntReset)
-		_ = Receive.Wait(&S2CJungleHuntReset{}, s3)
-		return ms100
+		i := 1
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= 11 {
+				return 0, nextFunc()
+			}
+			Receive.Action(CLI.JungleHuntData)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJungleHuntData{}, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
+			}
+			//
+			go func(i int) {
+				_ = CLI.JungleHuntFight(&C2SJungleHuntFight{CpId: int32(i)})
+			}(i)
+			r := &S2CJungleHuntFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(0, 3)
+			}
+			if r.Tag == 58871 || r.Tag == 58851 { // 全体阵亡 已通关
+				return 0, nextFunc()
+			}
+			// 尝试阵亡复活
+			// 第8层以下进行复活
+			if r.CpId <= 8 && r.Tag == 0 && r.Win == 0 && RoleInfo.Get("Coin4").Int64() > 1000 {
+				Receive.Action(CLI.JungleHuntTreat)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJungleHuntTreat{}, s3); err != nil {
+					return 0, RandMillisecond(0, 3)
+				}
+				return time.Second, 0
+			}
+			if (r.Tag == 0 && r.Win == 1) || r.Tag == 58851 {
+				i++
+			}
+			return time.Second, 0
+		})
 	}
 	// 快捷挖宝
 	t12 := time.NewTimer(ms100)
 	defer t12.Stop()
 	f12 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "副本-快捷挖宝")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		//
 		go func() {
 			_ = CLI.DigTreasure10Times(1)
 		}()
-		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CDigTreasure10Times{}, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
+		//
 		go func() {
 			_ = CLI.DigTreasure10Times(2)
 		}()
-		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CDigTreasure10Times{}, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
+		//
 		go func() {
 			_ = CLI.DigTreasure10Times(3)
 		}()
-		_ = Receive.Wait(&S2CDigTreasure10Times{}, s3)
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CDigTreasure10Times{}, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
+		//
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	// 秘境探险
 	t13 := time.NewTimer(ms10)
 	defer t13.Stop()
 	f13 := func() time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "副本-秘境探险")
+		defer func() {
+			Receive.Action(CLI.GetYJFBData)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetYJFBData{}, s3)
+			am.End()
+			Fight.Unlock()
+		}()
 		// 扫荡
 		Receive.Action(CLI.YJFBSweep)
-		_ = Receive.Wait(&S2CYJFBSweep{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CYJFBSweep{}, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
 		// 进入探险
 		go func() {
 			_ = CLI.GetYJFBGuanQiaData(FuBenId, GuanQiaId)
 		}()
 		data := &S2CGetYJFBGuanQiaData{}
-		_ = Receive.Wait(data, s3)
-		defer func() {
-			Receive.Action(CLI.GetYJFBData)
-			_ = Receive.Wait(&S2CGetYJFBData{}, s3)
-			Fight.Unlock()
-		}()
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, data, s3); err != nil {
+			return RandMillisecond(0, 3)
+		}
+		//
 		x := int32(1)
 		y := int32(1)
 		if data.PlayerGrid != nil {
@@ -519,7 +554,7 @@ func FuBen(ctx context.Context) {
 					})
 				}()
 				move := &S2CYJFBGuanQiaMove{}
-				_ = Receive.Wait(move, s3)
+				_ = Receive.WaitWithContextOrTimeout(am.Ctx, move, s3)
 				if move.Tag != 0 || len(move.MovePath) == 0 {
 					continue
 				}
@@ -532,7 +567,7 @@ func FuBen(ctx context.Context) {
 								TargetGrid: &YJFBGrid{Y: mp.MoveGrid.Y, X: mp.MoveGrid.X},
 							})
 						}()
-						_ = Receive.Wait(&S2CYJFBGuanQiaMove{}, s3)
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CYJFBGuanQiaMove{}, s3)
 						go func() {
 							_ = CLI.YJFBGuanQiaTriggerEvent(&C2SYJFBGuanQiaTriggerEvent{
 								FuBenId:     FuBenId,
@@ -541,12 +576,12 @@ func FuBen(ctx context.Context) {
 							})
 						}()
 						ret := &S2CYJFBGuanQiaTriggerEvent{}
-						_ = Receive.Wait(ret, s3)
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
 						if ret.Tag == 57212 {
 							go func() {
 								_ = CLI.WareHouseReceiveItem(1)
 							}()
-							_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+							_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CWareHouseReceiveItem{}, s3)
 							return TomorrowDuration(RandMillisecond(1800, 3600))
 						}
 					}

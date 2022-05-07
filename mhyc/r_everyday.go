@@ -15,30 +15,44 @@ func Everyday(ctx context.Context) {
 		defer t.Stop()
 		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
+			am := SetAction(ctx, "每日-在线时长奖励")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11002})
 			}()
-			_ = Receive.Wait(task, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, task, s3)
+			count := len(task.Task)
 			s := 0
-			for i := range task.Task {
-				ret := &S2CGetTaskPrize{}
+			i := 0
+			return am.RunAction(ctx, func() (time.Duration, time.Duration) {
 				go func(tid int32) {
 					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: tid})
 				}(task.Task[i].Id)
-				_ = Receive.Wait(ret, s3)
+				ret := &S2CGetTaskPrize{}
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+					return 0, RandMillisecond(30, 60)
+				}
+				// 任务完成或已完成
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
+				// 任务未完成
 				if ret.Tag == 5033 {
-					break
+					return 0, RandMillisecond(300, 600)
 				}
-			}
-			if s == len(task.Task) {
-				return TomorrowDuration(RandMillisecond(30000, 30600))
-			}
-			return RandMillisecond(60, 120)
+				i++
+				if i >= count {
+					if s == count {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+					}
+					return 0, RandMillisecond(300, 600)
+				}
+				return ms100, 0
+			})
 		}
 		for {
 			select {
@@ -55,35 +69,55 @@ func Everyday(ctx context.Context) {
 		defer t.Stop()
 		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
+			am := SetAction(ctx, "修仙-境界-任务")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
 			tc := time.NewTimer(ms10)
 			defer tc.Stop()
-			isReceive := false
-			for range tc.C {
-				isReceive = false
-				Receive.Action(CLI.RealmTask)
-				task := &S2CRealmTask{}
-				_ = Receive.Wait(task, s3)
-				for i, tk := range task.Tasks {
-					if tk.S != 1 {
-						continue
-					}
-					isReceive = true
-					go func(tid int32) {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 24, Multi: 1, TaskId: tid})
-					}(task.Tasks[i].Id)
-					_ = Receive.Wait(&S2CGetTaskPrize{}, s3)
+			i := 0
+			r := false
+			Receive.Action(CLI.RealmTask)
+			task := &S2CRealmTask{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, task, s3); err != nil {
+				return RandMillisecond(30, 60)
+			}
+			ReTime := am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				if i >= len(task.Tasks) {
+					loop = 0
+					next = RandMillisecond(600, 1800)
+					return
 				}
-				if isReceive {
-					tc.Reset(ms100)
-					continue
+				r = false
+				tk := task.Tasks[i]
+				if tk.S != 1 {
+					i++
+					loop = ms100
+					next = 0
+					return
 				}
-				break
+				r = true
+				go func(tid int32) {
+					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 24, Multi: 1, TaskId: tid})
+				}(task.Tasks[i].Id)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(30, 60)
+					return
+				}
+				i++
+				loop = ms100
+				next = 0
+				return
+			})
+			if r {
+				return ms100
 			}
 			// 突破
 			Receive.Action(CLI.RealmOverFulfil)
 			_ = Receive.Wait(&S2CRealmOverfulfil{}, s3)
-			return RandMillisecond(60, 120)
+			return ReTime
 		}
 		for {
 			select {
@@ -98,40 +132,55 @@ func Everyday(ctx context.Context) {
 	go func() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
-		f := func() bool {
+		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
-			task := &S2CGetActTask{}
+			am := SetAction(ctx, "等级大礼")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11011})
 			}()
-			_ = Receive.Wait(task, s3)
+			task := &S2CGetActTask{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, task, s3); err != nil {
+				return RandMillisecond(30, 60)
+			}
+			count := len(task.Task)
 			s := 0
-			for i := range task.Task {
-				ret := &S2CGetTaskPrize{}
+			i := 0
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 				go func(tid int32) {
 					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: tid})
 				}(task.Task[i].Id)
-				_ = Receive.Wait(ret, s3)
+				ret := &S2CGetTaskPrize{}
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(30, 60)
+					return
+				}
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
 				if ret.Tag == 5033 {
-					break
+					loop = 0
+					next = RandMillisecond(300, 600)
+					return
 				}
-			}
-			if s == len(task.Task) {
-				return true
-			}
-			t.Reset(time.Hour)
-			return false
+				i++
+				if i >= count {
+					if s == count {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+					}
+					return 0, RandMillisecond(300, 600)
+				}
+				return ms100, 0
+			})
 		}
 		for {
 			select {
 			case <-t.C:
-				if f() {
-					return
-				}
+				t.Reset(f())
 			case <-ctx.Done():
 				return
 			}
@@ -141,40 +190,55 @@ func Everyday(ctx context.Context) {
 	go func() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
-		f := func() bool {
+		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
+			am := SetAction(ctx, "战力大礼")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
 			task := &S2CGetActTask{}
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11012})
 			}()
-			_ = Receive.Wait(task, s3)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, task, s3); err != nil {
+				return RandMillisecond(30, 60)
+			}
+			count := len(task.Task)
 			s := 0
-			for i := range task.Task {
+			i := 0
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 				ret := &S2CGetTaskPrize{}
 				go func(tid int32) {
 					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: tid})
 				}(task.Task[i].Id)
-				_ = Receive.Wait(ret, s3)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(30, 60)
+					return
+				}
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
 				if ret.Tag == 5033 {
-					break
+					loop = 0
+					next = RandMillisecond(300, 600)
+					return
 				}
-			}
-			if s == len(task.Task) {
-				return true
-			}
-			t.Reset(TomorrowDuration(RandMillisecond(30000, 30600)))
-			return false
+				i++
+				if i >= count {
+					if s == count {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+					}
+					return 0, RandMillisecond(300, 600)
+				}
+				return ms100, 0
+			})
 		}
 		for {
 			select {
 			case <-t.C:
-				if f() {
-					return
-				}
+				t.Reset(f())
 			case <-ctx.Done():
 				return
 			}
@@ -184,35 +248,48 @@ func Everyday(ctx context.Context) {
 	go func() {
 		t := time.NewTimer(time.Second)
 		defer t.Stop()
-		f := func() bool {
+		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
+			am := SetAction(ctx, "我要变强")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
 			s := 0
-			for i := 1; i <= 4; i++ {
+			i := 1
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 				ret := &S2CGetTaskPrize{}
 				go func(i int32) {
 					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 2, Multi: 1, TaskId: i})
 				}(int32(i))
-				_ = Receive.Wait(ret, s3)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(30, 60)
+					return
+				}
 				if ret.Tag == 0 || ret.Tag == 5032 {
 					s++
 				}
 				if ret.Tag == 5033 {
-					break
+					loop = 0
+					next = RandMillisecond(300, 600)
+					return
 				}
-			}
-			if s == 4 {
-				return true
-			}
-			t.Reset(RandMillisecond(1800, 3600))
-			return false
+				i++
+				if i >= 5 {
+					loop = 0
+					next = RandMillisecond(1800, 3600)
+					return
+				}
+				loop = ms100
+				next = 0
+				return
+			})
 		}
 		for {
 			select {
 			case <-t.C:
-				if f() {
-					return
-				}
+				t.Reset(f())
 			case <-ctx.Done():
 				return
 			}
@@ -221,111 +298,198 @@ func Everyday(ctx context.Context) {
 	// 定时领取主线任务奖励
 	go func() {
 		t := time.NewTimer(ms100)
+		defer t.Stop()
+		f := func() time.Duration {
+			Fight.Lock()
+			am := SetAction(ctx, "主线任务奖励")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				h := &S2CGetHistoryTaskPrize{}
+				Receive.Action(CLI.GetHistoryTaskPrize)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, h, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(30, 60)
+					return
+				}
+				if h.Tag != 0 {
+					loop = 0
+					next = RandMillisecond(1800, 3600)
+					return
+				}
+				loop = ms100
+				next = 0
+				return
+			})
+		}
 		for {
 			select {
 			case <-t.C:
-				h := &S2CGetHistoryTaskPrize{}
-				Receive.Action(CLI.GetHistoryTaskPrize)
-				if _ = Receive.Wait(h, s3); h.Tag == 0 {
-					t.Reset(ms100)
-					break
-				}
-				t.Reset(RandMillisecond(1800, 3600)) // 30 ~ 60 分钟
+				t.Reset(f())
 			case <-ctx.Done():
 				return
 			}
 		}
 	}()
-	// 仙缘副本
+	// 仙缘副本 待仙缘上线 即该扫荡
 	go ListenMessageCall(ctx, &S2CPartnerOnline{}, func(data []byte) {
-		Receive.Action(CLI.OneKeyWeddingIns)
-		_ = Receive.Wait(&S2COneKeyWeddingIns{}, s3)
+		go func() {
+			Fight.Lock()
+			am := SetAction(ctx, "仙缘副本")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
+			am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				Receive.Action(CLI.OneKeyWeddingIns)
+				_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2COneKeyWeddingIns{}, s3)
+				return 0, 0
+			})
+		}()
 	})
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
-		// 充值->1元秒杀->每日礼
-		go func() {
-			_ = CLI.ActGiftNewReceive(DefineGiftRechargeEveryDay)
+		am := SetAction(ctx, "每日一次性任务")
+		defer func() {
+			am.End()
+			Fight.Unlock()
 		}()
-		_ = Receive.Wait(&S2CActGiftNewReceive{}, s3)
-		// 排名—>本区榜->膜拜
-		if RoleInfo.Get("Respect").Int64() == 0 {
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			// 充值->1元秒杀->每日礼
 			go func() {
-				_ = CLI.Respect(DefineRespectL)
+				_ = CLI.ActGiftNewReceive(DefineGiftRechargeEveryDay)
 			}()
-			_ = Receive.Wait(&S2CRespect{}, s3)
-		}
-		// 排名—>跨服榜->膜拜
-		if RoleInfo.Get("RespectUnion").Int64() == 0 {
-			go func() {
-				_ = CLI.Respect(DefineRespectG)
-			}()
-			_ = Receive.Wait(&S2CRespect{}, s3)
-		}
-		// SVIP 每日礼包
-		if RoleInfo.Get("VipDayGift").Int64() == 0 {
-			Receive.Action(CLI.GetVipDayGift)
-			_ = Receive.Wait(&S2CGetVipDayGift{}, s3)
-		}
-		// 寻宝
-		s := 0
-		for i := 1; i <= 8; i++ {
-			data := &S2CGetActXunBaoData{}
-			id := int32(i) + 500
-			go func(id int32) {
-				_ = CLI.GetActXunBaoData(&C2SGetActXunBaoData{ActId: id})
-			}(id)
-			_ = Receive.Wait(data, s3)
-			if data.HaveFreeTime == 1 {
-				go func(id int32) {
-					_ = CLI.XunBaoDraw(&C2SActXunBaoDraw{ActId: id, Type: 1, AutoBuy: 0})
-				}(id)
-				_ = Receive.Wait(&S2CActXunBaoDraw{}, s3)
-				s++
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CActGiftNewReceive{}, s3)
+			// 排名—>本区榜->膜拜
+			if RoleInfo.Get("Respect").Int64() == 0 {
+				go func() {
+					_ = CLI.Respect(DefineRespectL)
+				}()
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRespect{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
 			}
-		}
-		if s > 0 {
+			// 排名—>跨服榜->膜拜
+			if RoleInfo.Get("RespectUnion").Int64() == 0 {
+				go func() {
+					_ = CLI.Respect(DefineRespectG)
+				}()
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRespect{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// SVIP 每日礼包
+			if RoleInfo.Get("VipDayGift").Int64() == 0 {
+				Receive.Action(CLI.GetVipDayGift)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetVipDayGift{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 寻宝
+			s := 0
+			for i := 1; i <= 8; i++ {
+				data := &S2CGetActXunBaoData{}
+				id := int32(i) + 500
+				go func(id int32) {
+					_ = CLI.GetActXunBaoData(&C2SGetActXunBaoData{ActId: id})
+				}(id)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, data, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+				if data.HaveFreeTime == 1 {
+					go func(id int32) {
+						_ = CLI.XunBaoDraw(&C2SActXunBaoDraw{ActId: id, Type: 1, AutoBuy: 0})
+					}(id)
+					if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CActXunBaoDraw{}, s3); err != nil {
+						loop = 0
+						next = RandMillisecond(6, 10)
+						return
+					}
+					s++
+				}
+			}
+			if s > 0 {
+				go func() {
+					_ = CLI.WareHouseReceiveItem(5)
+				}()
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CWareHouseReceiveItem{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 特权卡 -> 至尊卡
+			if RoleInfo.Get("LifeCardDayPrize").Int64() == 0 {
+				Receive.Action(CLI.LifeCardDayPrize)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLifeCardDayPrize{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 每日签到
+			if RoleInfo.Get("HaveSign").Int64() == 0 {
+				Receive.Action(CLI.EverydaySign)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSign{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 签到 领取签到奖励 @TODO: 无法确定是否领取
+			for i := 1; i <= 4; i++ {
+				go func(i int) {
+					_ = CLI.TotalSignPrize(int32(i))
+				}(i)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CTotalSignPrize{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 商城购物 免费 @TODO: 无法确定是否领取
 			go func() {
-				_ = CLI.WareHouseReceiveItem(5)
+				_ = CLI.ShopBuy(DefineShopBuyFree)
 			}()
-			_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
-		}
-		// 特权卡 -> 至尊卡
-		if RoleInfo.Get("LifeCardDayPrize").Int64() == 0 {
-			Receive.Action(CLI.LifeCardDayPrize)
-			_ = Receive.Wait(&S2CLifeCardDayPrize{}, s3)
-		}
-		// 每日签到
-		if RoleInfo.Get("HaveSign").Int64() == 0 {
-			Receive.Action(CLI.EverydaySign)
-			_ = Receive.Wait(&S2CSign{}, s3)
-		}
-		// 签到 领取签到奖励 @TODO: 无法确定是否领取
-		for i := 1; i <= 4; i++ {
-			go func(i int) {
-				_ = CLI.TotalSignPrize(int32(i))
-			}(i)
-			_ = Receive.Wait(&S2CTotalSignPrize{}, s3)
-		}
-		// 商城购物 免费 @TODO: 无法确定是否领取
-		go func() {
-			_ = CLI.ShopBuy(DefineShopBuyFree)
-		}()
-		_ = Receive.Wait(&S2CShopBuy{}, s3)
-		// 膜拜 宗主
-		if RoleInfo.Get("SectWorship").Int64() == 0 {
-			Receive.Action(CLI.Worship)
-			_ = Receive.Wait(&S2CWorship{}, s3)
-		}
-		// 仙宗 - 仙殿 - 仙宗声望 -> 每日奉碌
-		if RoleInfo.Get("SectPrestigeRecv").Int64() == 0 {
-			Receive.Action(CLI.SectPrestigeRecv)
-			_ = Receive.Wait(&S2CSectPrestigeRecv{}, s3)
-		}
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3); err != nil {
+				loop = 0
+				next = RandMillisecond(6, 10)
+				return
+			}
+			// 膜拜 宗主
+			if RoleInfo.Get("SectWorship").Int64() == 0 {
+				Receive.Action(CLI.Worship)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CWorship{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			// 仙宗 - 仙殿 - 仙宗声望 -> 每日奉碌
+			if RoleInfo.Get("SectPrestigeRecv").Int64() == 0 {
+				Receive.Action(CLI.SectPrestigeRecv)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSectPrestigeRecv{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 10)
+					return
+				}
+			}
+			loop = 0
+			next = TomorrowDuration(RandMillisecond(1800, 3600))
+			return
+		})
 	}
 	for {
 		select {
@@ -537,7 +701,7 @@ func (c *Connect) GetTaskPrize(act *C2SGetTaskPrize) error {
 	if err != nil {
 		return err
 	}
-	log.Printf("[C][GetTaskPrize] task_id=%v", act.TaskId)
+	log.Printf("[C][GetTaskPrize] task_id=%v task_type=%v multi=%v", act.TaskId, act.TaskType, act.Multi)
 	return c.send(703, body)
 }
 

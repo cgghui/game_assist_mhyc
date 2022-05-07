@@ -52,7 +52,11 @@ func RandInt64(min, max int64) int64 {
 }
 
 func RandMillisecond(min, max int64) time.Duration {
-	min *= 1000
+	if min == 0 {
+		min = 100
+	} else {
+		min *= 1000
+	}
 	max *= 1000
 	return time.Duration(RandInt64(min, max)) * time.Millisecond
 }

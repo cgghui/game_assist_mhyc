@@ -17,20 +17,48 @@ const (
 func EnterAnimalPark(ctx context.Context) {
 	t := time.NewTimer(ms10)
 	defer t.Stop()
-	f := func() {
+	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
-		ret := &S2CEnterAnimalPark{}
+		am := SetAction(ctx, "抓捕宠物")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		// 进入
 		Receive.Action(CLI.EnterAnimalPark)
-		if err := Receive.Wait(ret, s10); err != nil {
-			return
+		ret := &S2CEnterAnimalPark{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s10); err != nil {
+			return RandMillisecond(6, 12)
 		}
+		defer func() {
+			Receive.Action(CLI.LeaveAnimalPark)
+			_ = Receive.Wait(&S2CLeaveAnimalPark{}, s3)
+		}()
 		if ret.Pet != nil {
-			for _, pet := range ret.Pet {
+			count := len(ret.Pet)
+			i := 0
+			r := am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				pet := ret.Pet[i]
 				go func(r *PasturePet) {
-					_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: r.Id, X: r.PointX, Y: r.PointY})
+					_ = CLI.AnimalParkGO(&C2SAnimalParkGO{
+						PetId: r.Id,
+						X:     r.PointX,
+						Y:     r.PointY,
+					})
 				}(pet)
-				_ = Receive.Wait(&S2CAnimalParkGO{}, s3)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CAnimalParkGO{}, s3); err != nil {
+					return 0, 0
+				}
+				i++
+				if i >= count {
+					loop = 0
+					next = time.Second
+					return
+				}
+				return ms100, 0
+			})
+			if r == 0 {
+				return RandMillisecond(6, 12)
 			}
 		}
 		var items = make(map[int32]*ItemData)
@@ -47,48 +75,72 @@ func EnterAnimalPark(ctx context.Context) {
 			items[ItemPet502] = item
 			n += items[ItemPet502].N
 		}
-		if n > 200 {
-			// 检测是否需要使用buff
-			isBuff := false
-			for _, buff := range ret.Buff {
-				if buff.BuffId == 2 {
-					isBuff = true
-					break
-				}
+		if n < 200 {
+			return RandMillisecond(1800, 3600)
+		}
+		// 检测是否需要使用buff
+		isBuff := false
+		for _, buff := range ret.Buff {
+			if buff.BuffId == 2 {
+				isBuff = true
+				break
 			}
-			// 使用【金铲子】buff
-			if !isBuff {
-				if item := UserBag.Wait(ItemPet503, s3); item != nil {
-					v := item
-					if v.N > 0 {
-						Receive.Action(func() error {
-							return CLI.SearchPet(&C2SSearchPet{ItemId: ItemPet503})
-						})
-						_ = Receive.Wait(&S2CSearchPet{}, s3)
+		}
+		// 使用【金铲子】buff
+		if !isBuff {
+			if item := UserBag.Wait(ItemPet503, s3, am.Ctx); item != nil {
+				v := item
+				if v.N > 0 {
+					Receive.Action(func() error {
+						return CLI.SearchPet(&C2SSearchPet{ItemId: ItemPet503})
+					})
+					if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSearchPet{}, s3); err != nil {
+						return RandMillisecond(6, 12)
 					}
-				}
-			}
-			for id, item := range items {
-				for i := 0; i < int(item.N); i++ {
-					// s
-					r := &S2CSearchPet{}
-					go func(id int32) {
-						_ = CLI.SearchPet(&C2SSearchPet{ItemId: id})
-					}(id)
-					_ = Receive.Wait(r, s3)
-					// a
-					if r.Pet == nil {
-						continue
-					}
-					go func(r *S2CSearchPet) {
-						_ = CLI.AnimalParkGO(&C2SAnimalParkGO{PetId: r.Pet.Id, X: r.Pet.PointX, Y: r.Pet.PointY})
-					}(r)
-					_ = Receive.Wait(&S2CAnimalParkGO{}, s3)
 				}
 			}
 		}
-		Receive.Action(CLI.LeaveAnimalPark)
-		_ = Receive.Wait(&S2CLeaveAnimalPark{}, s3)
+		props := make([]map[string]interface{}, 0)
+		for id, item := range items {
+			props = append(props, map[string]interface{}{"id": id, "item": item})
+		}
+		count := len(props)
+		i := 0
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			id := props[i]["id"].(int32)
+			item := props[i]["item"].(*ItemData)
+			am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				// s
+				go func(id int32) {
+					_ = CLI.SearchPet(&C2SSearchPet{ItemId: id})
+				}(id)
+				r := &S2CSearchPet{}
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err == nil && r.Pet != nil {
+					go func(r *S2CSearchPet) {
+						_ = CLI.AnimalParkGO(&C2SAnimalParkGO{
+							PetId: r.Pet.Id,
+							X:     r.Pet.PointX,
+							Y:     r.Pet.PointY,
+						})
+					}(r)
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CAnimalParkGO{}, s3)
+				}
+				item.N--
+				if item.N <= 0 {
+					return 0, 0
+				}
+				return ms100, 0
+			})
+			i++
+			if i >= count {
+				loop = 0
+				next = RandMillisecond(600, 1800)
+			} else {
+				loop = ms100
+				next = 0
+			}
+			return
+		})
 	}
 	for {
 		select {

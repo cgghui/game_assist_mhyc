@@ -8,62 +8,99 @@ import (
 )
 
 func Mail(ctx context.Context) {
-	f := func() {
-		list := &S2CMailList{}
-		// 普通邮件
-		go func() {
-			_ = CLI.MailList(DefineMailListOrdinary)
+	f := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "领取邮件附件")
+		defer func() {
+			am.End()
+			Fight.Unlock()
 		}()
-		_ = Receive.Wait(list, s3)
-		if len(list.MailList) > 0 {
-			if list.MailList[0].IsReceive == 1 && list.MailList[0].IsRead == 1 {
-				go func() {
-					_ = CLI.GetMailAttach(DefineGetMailAttachOrdinary)
-				}()
-				_ = Receive.Wait(&S2CGetMailAttach{}, s3)
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			list := &S2CMailList{}
+			// 普通邮件
+			go func() {
+				_ = CLI.MailList(DefineMailListOrdinary)
+			}()
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, list, s3); err != nil {
+				loop = 0
+				next = RandMillisecond(6, 15)
+				return
 			}
-			for _, mail := range list.MailList {
-				if mail.AttachInfo == nil && mail.AttachData == nil {
+			if len(list.MailList) > 0 {
+				if list.MailList[0].IsReceive == 1 && list.MailList[0].IsRead == 1 {
 					go func() {
-						_ = CLI.ReadMail(&C2SReadMail{MailId: mail.MailId, MailType: mail.MailType})
+						_ = CLI.GetMailAttach(DefineGetMailAttachOrdinary)
 					}()
-					_ = Receive.Wait(&S2CReadMail{}, s3)
+					if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetMailAttach{}, s3); err != nil {
+						loop = 0
+						next = RandMillisecond(6, 15)
+						return
+					}
+				}
+				count := len(list.MailList)
+				i := 0
+				am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+					mail := list.MailList[i]
+					if mail.AttachInfo == nil && mail.AttachData == nil {
+						go func() {
+							_ = CLI.ReadMail(&C2SReadMail{MailId: mail.MailId, MailType: mail.MailType})
+						}()
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CReadMail{}, s3)
+					}
+					i++
+					if i >= count {
+						return 0, 0
+					}
+					return ms10, 0
+				})
+				go func() {
+					_ = CLI.DelMail(DefineDelMailOrdinary)
+				}()
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CDelMail{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 15)
+					return
 				}
 			}
+			// 活动邮件
 			go func() {
-				_ = CLI.DelMail(DefineDelMailOrdinary)
+				_ = CLI.MailList(DefineMailListActivity)
 			}()
-			_ = Receive.Wait(&S2CDelMail{}, s3)
-		}
-		// 活动邮件
-		go func() {
-			_ = CLI.MailList(DefineMailListActivity)
-		}()
-		_ = Receive.Wait(list, s3)
-		if len(list.MailList) > 0 {
-			if list.MailList[0].IsReceive == 1 && list.MailList[0].IsRead == 1 {
-				go func() {
-					_ = CLI.GetMailAttach(DefineGetMailAttachActivity)
-				}()
-				_ = Receive.Wait(&S2CGetMailAttach{}, s3)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, list, s3); err != nil {
+				loop = 0
+				next = RandMillisecond(6, 15)
+				return
 			}
-			go func() {
-				_ = CLI.DelMail(DefineDelMailActivity)
-			}()
-			_ = Receive.Wait(&S2CDelMail{}, s3)
-		}
+			if len(list.MailList) > 0 {
+				if list.MailList[0].IsReceive == 1 && list.MailList[0].IsRead == 1 {
+					go func() {
+						_ = CLI.GetMailAttach(DefineGetMailAttachActivity)
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetMailAttach{}, s3)
+				}
+				// 忽略 阅读无附件的活动邮件
+				go func() {
+					_ = CLI.DelMail(DefineDelMailActivity)
+				}()
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CDelMail{}, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 15)
+					return
+				}
+			}
+			return 0, RandMillisecond(600, 1800)
+		})
 	}
 	// 监听新邮件
 	go ListenMessageCall(ctx, &S2CNewMail{}, func(_ []byte) {
-		f()
+		go f()
 	})
 	// 定时打开邮件
 	t := time.NewTimer(ms10)
 	for {
 		select {
 		case <-t.C:
-			f()
-			t.Reset(RandMillisecond(300, 600)) // 5 ~ 10 分钟
+			t.Reset(f())
 		case <-ctx.Done():
 			return
 		}

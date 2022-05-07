@@ -14,9 +14,15 @@ func XianDianXDSW(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "仙宗-仙殿-仙宗声望")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		if s := RoleInfo.SectPrestige(); s != nil && int(RoleInfo.Get("SectPrestigeVal").Int64()) >= s.Prestige {
 			Receive.Action(CLI.SectPrestigeLevelUp)
-			_ = Receive.Wait(&S2CSectPrestigeLevelUp{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSectPrestigeLevelUp{}, s3)
 		}
 		return RandMillisecond(60, 180) // 1 ~ 3 分钟
 	}

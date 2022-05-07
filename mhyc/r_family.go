@@ -16,55 +16,64 @@ func FamilyJJC(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
-		// 战斗
-		end := false
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for {
-			select {
-			case <-tm.C:
-				if val := RoleInfo.Get("FamilyJJC_Times"); val != nil {
-					if val.Int64() >= 10 {
-						end = true
-						goto Award
+		am := SetAction(ctx, "家族竞技")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if val := RoleInfo.Get("FamilyJJC_Times"); val != nil && val.Int64() >= 10 {
+				i := 0
+				return 0, am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+					go func(i int) {
+						_ = CLI.FamilyJJCRecieveAward(int32(i))
+					}(i)
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFamilyJJCRecieveAward{}, s3)
+					i++
+					if i >= 4 {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
 					}
-				}
-				ret := &S2CFamilyJJCJoin{}
-				Receive.Action(CLI.FamilyJJCJoin)
-				if _ = Receive.Wait(ret, s3); ret.Tag == 0 {
-					go func() {
-						_ = CLI.FamilyJJCFight(ret)
-					}()
-					_ = Receive.Wait(&S2CFamilyJJCFight{}, s3)
-					tm.Reset(time.Second)
-					break
-				}
-				if ret.Tag == 17003 {
-					tm.Reset(time.Second)
-					break
-				}
-				// end
-				if ret.Tag == 57606 {
-					end = true
-					goto Award
-				}
-			case <-ctx.Done():
-				return s3
+					return ms100, 0
+				})
 			}
-		}
-	Award:
-		// 领取奖励
-		for i := 0; i < 4; i++ {
-			go func(i int) {
-				_ = CLI.FamilyJJCRecieveAward(int32(i))
-			}(i)
-			_ = Receive.Wait(&S2CFamilyJJCRecieveAward{}, s3)
-		}
-		if end {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
-		}
-		return ms500
+			// 匹配
+			Receive.Action(CLI.FamilyJJCJoin)
+			ret := &S2CFamilyJJCJoin{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+				loop = 0
+				next = RandMillisecond(6, 10)
+				return
+			}
+			if ret.Tag == 17003 {
+				loop = RandMillisecond(10, 20)
+				next = 0
+				return
+			}
+			if ret.Tag == 57606 { // 挑战次数不足
+				i := 0
+				return 0, am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+					go func(i int) {
+						_ = CLI.FamilyJJCRecieveAward(int32(i))
+					}(i)
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFamilyJJCRecieveAward{}, s3)
+					i++
+					if i >= 4 {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+					}
+					return ms100, 0
+				})
+			}
+			// 战斗
+			go func() {
+				_ = CLI.FamilyJJCFight(ret)
+			}()
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFamilyJJCFight{}, s3); err != nil {
+				loop = 0
+				next = RandMillisecond(6, 10)
+				return
+			}
+			return time.Second, 0
+		})
 	}
 	for {
 		select {

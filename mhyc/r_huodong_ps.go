@@ -12,18 +12,28 @@ func HuoDongBusiness(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
 	f1 := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "活动-跑商")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.GetBusinessPrize)
-		_ = Receive.Wait(&S2CGetBusinessPrize{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetBusinessPrize{}, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		//
 		Receive.Action(CLI.StartBusiness)
 		var r S2CStartBusiness
-		if err := Receive.Wait(&r, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &r, s3); err != nil {
+			return RandMillisecond(0, 2)
 		}
 		if r.Tag == 50401 {
 			Receive.Action(CLI.ContinueBusiness)
-			_ = Receive.Wait(&S2CContinueBusiness{}, s3)
-			return time.Minute
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CContinueBusiness{}, s3); err != nil {
+				return RandMillisecond(0, 2)
+			}
+			return RandMillisecond(50, 60)
 		}
 		if r.Tag == 50402 {
 			return TomorrowDuration(RandMillisecond(600, 1800))
@@ -35,7 +45,7 @@ func HuoDongBusiness(ctx context.Context) {
 				if b.Data.State == 1 {
 					// 领取奖励
 					Receive.Action(CLI.GetBusinessPrize)
-					_ = Receive.Wait(&S2CGetBusinessPrize{}, s3)
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetBusinessPrize{}, s3)
 				}
 				return b.Data.State != 1 // false cancel thread
 			})

@@ -13,36 +13,35 @@ func XianDianSSSL(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		if RoleInfo.Get("SectGodAnimalChallenge").Int64() >= 35 {
-			curr := time.Now()
-			next := SelfWeekMonday(curr).Add(169 * time.Hour) // 168小时 = 7天
-			return next.Sub(curr)
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		Fight.Lock()
+		am := SetAction(ctx, "仙宗-仙殿-神兽试炼")
 		defer func() {
 			Receive.Action(CLI.LeaveActive100)
-			_ = Receive.Wait(&S2CLeaveActive{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		Receive.Action(CLI.GodAnimalPassData)
-		_ = Receive.Wait(&S2CGodAnimalPassData{}, s3)
-		Receive.Action(CLI.JoinActive100)
-		_ = Receive.Wait(&S2CJoinActive{}, s3)
-		k := time.NewTimer(ms100)
-		defer k.Stop()
-		for {
-			select {
-			case <-k.C:
-				info := &S2CChallengeGodAnimal{}
-				Receive.Action(CLI.ChallengeGodAnimal)
-				_ = Receive.Wait(info, s3)
-				if info.Tag == 48025 {
-					return RandMillisecond(86400, 115200)
-				}
-				k.Reset(ms500)
-			case <-ctx.Done():
-				return s3
-			}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGodAnimalPassData{}, s3); err != nil {
+			return RandMillisecond(3, 6)
 		}
+		Receive.Action(CLI.JoinActive100)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3); err != nil {
+			return RandMillisecond(3, 6)
+		}
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			Receive.Action(CLI.ChallengeGodAnimal)
+			info := &S2CChallengeGodAnimal{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
+				return 0, RandMillisecond(3, 6)
+			}
+			if info.Tag == 48025 {
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			return ms100, 0
+		})
 	}
 	for {
 		select {

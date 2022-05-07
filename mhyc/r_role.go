@@ -2,10 +2,8 @@ package mhyc
 
 import (
 	"context"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
-	"os"
 	"sync"
 	"time"
 )
@@ -74,8 +72,6 @@ func (c *Connect) RoleInfo() error {
 	return c.send(49, body)
 }
 
-var RIF, _ = os.OpenFile("./role_info_"+time.Now().Format("2006.01.02")+".txt", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0666)
-
 ////////////////////////////////////////////////////////////
 
 func (x *S2CRoleInfo) ID() uint16 {
@@ -92,16 +88,12 @@ func (x *S2CRoleInfo) Message(data []byte) {
 		if _, ok := AttrType[a.K]; !ok {
 			continue
 		}
-		log.Printf("[S][角色信息] %s\t%v", AttrType[a.K], a.V)
-		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[a.K], a.V))
 		RoleInfo.Set(AttrType[a.K], a.V)
 	}
 	for _, b := range x.B {
 		if _, ok := AttrType[b.K]; !ok {
 			continue
 		}
-		log.Printf("[S][角色信息] %s\t%v", AttrType[b.K], b.V)
-		_, _ = RIF.WriteString(fmt.Sprintf("%s\t%v\n", AttrType[b.K], b.V))
 		RoleInfo.Set(AttrType[b.K], b.V)
 	}
 	return
@@ -310,6 +302,15 @@ func (r *roleInfo) Has(name string) bool {
 	return ok
 }
 
+func (r *roleInfo) GetAll() (ret map[string]interface{}) {
+	ret = make(map[string]interface{})
+	r.s.Range(func(key, value interface{}) bool {
+		ret[key.(string)] = value
+		return true
+	})
+	return
+}
+
 func (r *roleInfo) Get(name string) *roleValue {
 	ret, ok := r.s.Load(name)
 	if !ok {
@@ -341,3 +342,65 @@ func (r *roleInfo) Wait(id int32, timeout time.Duration) *roleValue {
 		}
 	}
 }
+
+type ActionRunHistory struct {
+	Name        string        `json:"name"`
+	RunningTime string        `json:"running_time"`
+	TakeUpTime  time.Duration `json:"take_up_time"`
+}
+
+type ActionManage struct {
+	Name   string
+	Ctx    context.Context
+	Cancel context.CancelFunc
+	Sr     time.Time
+}
+
+func (a *ActionManage) End() {
+	if len(ActionRunningHistoryList) > 500 {
+		ActionRunningHistoryList = ActionRunningHistoryList[1:]
+	}
+	ActionRunningHistoryList = append(ActionRunningHistoryList, ActionRunHistory{
+		Name:        a.Name,
+		RunningTime: time.Now().Format("2006-01-02 15:04:05"),
+		TakeUpTime:  time.Since(a.Sr),
+	})
+	a.Cancel()
+	a.Name = ""
+	a.Ctx = nil
+}
+
+func SetAction(ctx context.Context, name string) *ActionManage {
+	am := &ActionManage{Name: name, Sr: time.Now()}
+	am.Ctx, am.Cancel = context.WithCancel(ctx)
+	for i := range ActionManageList {
+		if ActionManageList[i].Name == "" && ActionManageList[i].Ctx == nil {
+			ActionManageList[i] = am
+			return am
+		}
+	}
+	ActionManageList = append(ActionManageList, am)
+	return am
+}
+
+func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Duration, next time.Duration)) time.Duration {
+	tm := time.NewTimer(ms10)
+	defer tm.Stop()
+	for {
+		select {
+		case <-tm.C:
+			loop, next := run()
+			if loop == 0 {
+				return next
+			}
+			tm.Reset(loop)
+		case <-ctx.Done():
+			return RandMillisecond(60, 120)
+		case <-a.Ctx.Done():
+			return RandMillisecond(60, 120)
+		}
+	}
+}
+
+var ActionManageList = make([]*ActionManage, 0)
+var ActionRunningHistoryList = make([]ActionRunHistory, 0)

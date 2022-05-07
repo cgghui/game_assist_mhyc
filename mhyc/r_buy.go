@@ -12,15 +12,21 @@ func Buy(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
 	f1 := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "商城-折扣购买道具")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		go func() {
 			_ = CLI.ShopBuy(&C2SShopBuy{GoodsId: 616, Num: 5})
 		}()
-		_ = Receive.Wait(&S2CShopBuy{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3)
 		go func() {
 			_ = CLI.ShopBuy(&C2SShopBuy{GoodsId: 617, Num: 1})
 		}()
-		_ = Receive.Wait(&S2CShopBuy{}, s3)
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3)
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	for {
 		select {

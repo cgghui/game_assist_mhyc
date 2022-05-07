@@ -2,36 +2,50 @@ package mhyc
 
 import (
 	"context"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
 	"time"
 )
 
-func illusionSweep() time.Duration {
+func illusionSweep(ctx context.Context) time.Duration {
 	Fight.Lock()
-	defer Fight.Unlock()
-	for _, ir := range []int32{1, 2, 11} {
-		go func(ir int32) {
-			_ = CLI.IllusionSweep(&C2SIllusionSweep{IllusionType: ir})
-		}(ir)
+	am := SetAction(ctx, "跨服-幻境一键扫荡")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
+	irList := []int32{1, 2, 11}
+	i := 0
+	return am.RunAction(am.Ctx, func() (loop time.Duration, next time.Duration) {
+		if i >= len(irList) {
+			return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+		}
+		go func() {
+			_ = CLI.IllusionSweep(&C2SIllusionSweep{IllusionType: irList[i]})
+		}()
 		r := &S2CIllusionSweep{}
-		_ = Receive.Wait(r)
-		fmt.Println(r)
-	}
-	return TomorrowDuration(RandMillisecond(30000, 30600))
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, r, s10)
+		i++
+		return ms100, 0
+	})
 }
 
 func yiJi(ctx context.Context) time.Duration {
 	Fight.Lock()
-	defer Fight.Unlock()
+	am := SetAction(ctx, "跨服-遗迹之战")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
 	if RoleInfo.Get("YiJiAdscTimes").Int64() <= 0 {
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	Receive.Action(CLI.YiJiInfo)
 	var info S2CYiJiInfo
-	_ = Receive.Wait(&info, s3)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &info, s3); err != nil {
+		return RandMillisecond(1, 3)
+	}
 	if len(info.Items) == 0 {
 		return time.Second
 	}
@@ -47,6 +61,9 @@ func yiJi(ctx context.Context) time.Duration {
 		}
 	}
 	if id == 0 {
+		if len(timeList) == 0 {
+			return time.Second
+		}
 		sort.Slice(timeList, func(i, j int) bool {
 			return timeList[i] < timeList[j]
 		})
@@ -62,41 +79,42 @@ func yiJi(ctx context.Context) time.Duration {
 		go func() {
 			_ = CLI.YiJiLeaveScene(id)
 		}()
-		_ = Receive.Wait(&S2CYiJiLeaveScene{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CYiJiLeaveScene{}, s3)
 	}()
 	mc := make(chan *S2CMonsterEnterMap)
 	go func() {
 		go func() {
 			var monster S2CMonsterEnterMap
-			_ = Receive.Wait(&monster, s3)
-			mc <- &monster
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &monster, s3); err != nil {
+				mc <- nil
+			} else {
+				mc <- &monster
+			}
 			close(mc)
 		}()
 		_ = CLI.YiJiJoinScene(id)
 	}()
-	var join S2CYiJiJoinScene
-	_ = Receive.Wait(&join, s3)
-	monster := <-mc
-	tc := time.NewTimer(ts0)
-	defer tc.Stop()
-	for {
-		select {
-		case <-tc.C:
-			s, r := FightAction(monster.Id, 8)
-			if s == nil {
-				return ms500
-			}
-			if s.Tag == 17002 {
-				return ms500
-			}
-			if r != nil && r.Win == 1 {
-				return ms500
-			}
-			tc.Reset(time.Second)
-		case <-ctx.Done():
-			return s3
-		}
+	if mc == nil {
+		return RandMillisecond(0, 3)
 	}
+	var join S2CYiJiJoinScene
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &join, s3); err != nil {
+		return RandMillisecond(0, 3)
+	}
+	monster := <-mc
+	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+		s, r := FightAction(am.Ctx, monster.Id, 8)
+		if s == nil {
+			return 0, RandMillisecond(0, 3)
+		}
+		if s.Tag == 17002 {
+			return 0, RandMillisecond(0, 3)
+		}
+		if r != nil && r.Win == 1 {
+			return 0, RandMillisecond(0, 3)
+		}
+		return time.Second, 0
+	})
 }
 
 // KuaFu 跨服
@@ -110,7 +128,7 @@ func KuaFu(ctx context.Context) {
 		case <-t1.C:
 			t1.Reset(yiJi(ctx))
 		case <-t4.C:
-			t4.Reset(illusionSweep())
+			t4.Reset(illusionSweep(ctx))
 		case <-ctx.Done():
 			return
 		}

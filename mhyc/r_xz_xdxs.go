@@ -15,13 +15,19 @@ func XianDianXDXS(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
-		task := &S2CPlayerXZXS{}
+		Fight.Lock()
+		am := SetAction(ctx, "仙殿-仙宗悬赏")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.PlayerXZXS)
-		if err := Receive.Wait(task, s3); err != nil {
-			return time.Second
+		task := &S2CPlayerXZXS{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, task, s3); err != nil {
+			return RandMillisecond(3, 6)
 		}
 		if len(task.Tasks) == 0 {
-			return time.Unix(task.ResetTimestamp, 0).Local().Add(30 * time.Minute).Sub(time.Now())
+			return time.Unix(task.ResetTimestamp, 0).Local().Add(s30).Sub(time.Now())
 		}
 		PQ := false            // 需要一键派遣时为true
 		LS := make([]int64, 0) // 等领取或待接收任务
@@ -38,23 +44,26 @@ func XianDianXDXS(ctx context.Context) {
 			})
 			cur := time.Now()
 			ttm := time.Unix(LS[0], 0).Local()
-			// 一键领取时间到了
 			if cur.After(ttm) {
 				Receive.Action(CLI.XZXSGetTaskPrize)
-			} else {
-				time.AfterFunc(ttm.Sub(cur), func() { _ = CLI.XZXSGetTaskPrize() })
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXZXSGetTaskPrize{}, s30); err != nil {
+					return RandMillisecond(3, 6)
+				}
 			}
-			_ = Receive.Wait(&S2CXZXSGetTaskPrize{}, 24*time.Hour)
 		}
 		if PQ {
-			info := &S2CXZXSGetAllCanStartTask{}
 			Receive.Action(CLI.XZXSGetAllCanStartTask)
-			_ = Receive.Wait(info, s3)
+			info := &S2CXZXSGetAllCanStartTask{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
+				return RandMillisecond(3, 6)
+			}
 			if info.Tag == 0 && len(info.Data) > 0 {
 				go func() {
 					_ = CLI.XZXSOneKeyStartTask(info)
 				}()
-				_ = Receive.Wait(&S2CXZXSOneKeyStartTask{}, s30)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXZXSOneKeyStartTask{}, s30); err != nil {
+					return RandMillisecond(3, 6)
+				}
 			}
 		}
 		return RandMillisecond(600, 900)

@@ -27,15 +27,25 @@ func HuoDongZJLDZ(ctx context.Context) {
 		if td := actJZLDZTime(); td != 0 {
 			return td
 		}
+		Fight.Lock()
+		am := SetAction(ctx, "活动-家族领地战")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		week := time.Now().Weekday()
 		if is := week == time.Wednesday || week == time.Saturday; !is {
 			return TomorrowDuration(RandMillisecond(600, 1800))
 		}
 		Receive.Action(CLI.GetCityWarData)
 		data := &S2CCityWarData{}
-		_ = Receive.Wait(data, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, data, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		Receive.Action(CLI.GetCityWarChooseItem)
-		_ = Receive.Wait(&S2CGetCityWarChooseItem{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetCityWarChooseItem{}, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		roleFamilyId := RoleInfo.Get("FamilyId").String()
 		isWarChoose := false
 		for _, city := range data.Data.CityData {
@@ -55,20 +65,23 @@ func HuoDongZJLDZ(ctx context.Context) {
 		if isWarChoose {
 			return TomorrowDuration(RandMillisecond(600, 1800))
 		}
-		for _, city := range data.Data.CityData {
+		count := len(data.Data.CityData)
+		i := 0
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= count {
+				return 0, RandMillisecond(3, 6)
+			}
+			city := data.Data.CityData[i]
 			if city.CityState == 1 && len(city.Familys) == 0 {
 				go func() {
 					_ = CLI.CityWarChoose(city.CityId)
 				}()
-				_ = Receive.Wait(&S2CCityWarChoose{}, s3)
-				isWarChoose = true
-				break
+				_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CCityWarChoose{}, s3)
+				return 0, TomorrowDuration(RandMillisecond(600, 1800))
 			}
-		}
-		if isWarChoose {
-			return TomorrowDuration(RandMillisecond(600, 1800))
-		}
-		return RandMillisecond(10, 15)
+			i++
+			return ms10, 0
+		})
 	}
 	for {
 		select {

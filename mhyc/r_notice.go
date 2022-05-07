@@ -95,6 +95,15 @@ func (r *receiveMessageBox) Wait(call HandleMessage, timeout ...time.Duration) e
 	return r.WaitWithContext(ctx, call)
 }
 
+func (r *receiveMessageBox) WaitWithContextOrTimeout(c context.Context, call HandleMessage, timeout ...time.Duration) error {
+	if len(timeout) == 0 {
+		return r.WaitWithContext(nil, call)
+	}
+	ctx, cancel := context.WithTimeout(c, timeout[0])
+	defer cancel()
+	return r.WaitWithContext(ctx, call)
+}
+
 func (r *receiveMessageBox) WaitWithContext(ctx context.Context, call HandleMessage) error {
 	rm := r.CreateChannel(call)
 	defer rm.Close()
@@ -192,12 +201,12 @@ func ListenMessageNotify(call HandleMessage, timeout ...time.Duration) <-chan st
 	return notify
 }
 
-func FightAction(Id, Type int64) (*S2CStartFight, *S2CBattlefieldReport) {
+func FightAction(ctx context.Context, Id, Type int64) (*S2CStartFight, *S2CBattlefieldReport) {
 	c := make(chan *S2CStartFight)
 	defer close(c)
 	go func() {
 		sf := &S2CStartFight{}
-		if err := Receive.Wait(sf, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(ctx, sf, s3); err != nil {
 			c <- nil
 		} else {
 			c <- sf
@@ -207,7 +216,7 @@ func FightAction(Id, Type int64) (*S2CStartFight, *S2CBattlefieldReport) {
 		_ = CLI.StartFight(&C2SStartFight{Id: Id, Type: Type})
 	}()
 	r := &S2CBattlefieldReport{}
-	if err := Receive.Wait(r, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(ctx, r, s3); err != nil {
 		r = nil
 	}
 	return <-c, r

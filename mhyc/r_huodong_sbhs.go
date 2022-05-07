@@ -26,7 +26,7 @@ func actSbhsTime() time.Duration {
 }
 
 // actSbhs 双倍护送
-func actSbhs() time.Duration {
+func actSbhs(ctx context.Context) time.Duration {
 	// 先尝试领奖
 	Receive.Action(CLI.GetWestPrize)
 	_ = Receive.Wait(&S2CGetWestPrize{}, s3)
@@ -35,62 +35,80 @@ func actSbhs() time.Duration {
 		return td
 	}
 	Fight.Lock()
-	defer Fight.Unlock()
+	am := SetAction(ctx, "活动-双倍护送")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
 	// 选择护送对象
 	Receive.Action(CLI.GetWestExp)
 	var west S2CGetWestExp
-	if err := Receive.Wait(&west, s3); err != nil {
-		return ms500
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &west, s3); err != nil {
+		return RandMillisecond(0, 2)
 	}
 	if west.Tag == 819 {
-		return time.Minute
+		return RandMillisecond(50, 60)
 	}
 	n := 0
-	for {
+	am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 		if west.I == 4 || west.I == 5 || n >= 10 {
-			break
+			return 0, 0
 		}
 		Receive.Action(CLI.GetWestExpRef)
-		_ = Receive.Wait(&S2CGetWestExp{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetWestExp{}, s3)
 		n++
-	}
+		return ms100, 0
+	})
 	Receive.Action(CLI.StartWestExp)
 	r := &S2CStartWestExp{}
-	if _ = Receive.Wait(r, s3); r.Tag == 0 {
-		return time.Minute
+	if _ = Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); r.Tag == 0 {
+		return RandMillisecond(50, 60)
 	}
 	if r.Tag == 822 { // 次数不足
-		return s60
+		return RandMillisecond(50, 60)
 	}
-	return time.Hour
+	return RandMillisecond(1800, 3600)
 }
 
 // actHsPlayer 护送玩家 拦截
-func actHsPlayer() time.Duration {
+func actHsPlayer(ctx context.Context) time.Duration {
 	if td := actSbhsTime(); td != 0 {
 		return td
 	}
 	Fight.Lock()
-	defer Fight.Unlock()
+	am := SetAction(ctx, "活动-双倍护送[拦截]")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
 	Receive.Action(CLI.GetProtectPlayer)
 	var pp S2CGetProtectPlayer
-	if err := Receive.Wait(&pp, s3); err != nil {
-		return ms500
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &pp, s3); err != nil {
+		return RandMillisecond(0, 2)
 	}
 	self := RoleInfo.Get("FightValue").Int64()
-	for _, player := range pp.List {
-		if player.Fv >= self {
-			continue
+	count := len(pp.List)
+	i := 0
+	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+		if i >= count {
+			return 0, TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		s, _ := FightActionRob(player.Uid)
+		player := pp.List[i]
+		if player.Fv >= self {
+			i++
+			return ms100, 0
+		}
+		s, _ := FightActionRob(am.Ctx, player.Uid)
 		if s == nil {
-			continue
+			i++
+			return ms100, 0
 		}
 		if s.Tag == 809 {
-			break
+			return 0, RandMillisecond(3, 8)
 		}
-	}
-	return time.Hour
+		i++
+		return ms100, 0
+	})
 }
 
 // HuoDongSBHS 活动<双倍护送>
@@ -102,9 +120,9 @@ func HuoDongSBHS(ctx context.Context) {
 	for {
 		select {
 		case <-t1.C:
-			t1.Reset(actSbhs())
+			t1.Reset(actSbhs(ctx))
 		case <-t2.C:
-			t2.Reset(actHsPlayer())
+			t2.Reset(actHsPlayer(ctx))
 		case <-ctx.Done():
 			return
 		}
@@ -113,12 +131,12 @@ func HuoDongSBHS(ctx context.Context) {
 
 ////////////////////////////////////////////////////////////
 
-func FightActionRob(uid int32) (*S2CSendRob, *S2CBattlefieldReport) {
+func FightActionRob(ctx context.Context, uid int32) (*S2CSendRob, *S2CBattlefieldReport) {
 	c := make(chan *S2CSendRob)
 	defer close(c)
 	go func() {
 		sf := &S2CSendRob{}
-		if err := Receive.Wait(sf, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(ctx, sf, s3); err != nil {
 			c <- nil
 		} else {
 			c <- sf
@@ -128,7 +146,7 @@ func FightActionRob(uid int32) (*S2CSendRob, *S2CBattlefieldReport) {
 		_ = CLI.SendRob(uid)
 	}()
 	r := &S2CBattlefieldReport{}
-	if err := Receive.Wait(r, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(ctx, r, s3); err != nil {
 		r = nil
 	}
 	return <-c, r

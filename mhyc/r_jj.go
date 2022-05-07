@@ -12,10 +12,16 @@ func JJC(ctx context.Context) {
 	t1 := time.NewTimer(ms10)
 	f1 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "竞技-竞技场")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.JJCList)
 		ls := &S2CJJCList{}
-		_ = Receive.Wait(ls, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ls, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		targetId := int32(0)
 		targetRank := int32(0)
 		fv := RoleInfo.Get("FightValue").Int64()
@@ -43,14 +49,14 @@ func JJC(ctx context.Context) {
 		}
 		if targetId == 0 && targetRank == 0 {
 			Receive.Action(CLI.JJCSweep)
-			_ = Receive.Wait(&S2CJJCSweep{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJJCSweep{}, s3)
 			return RandMillisecond(60, 300)
 		}
 		go func() {
 			_ = CLI.JJCFight(targetId, targetRank)
 		}()
 		r := &S2CJJCFight{}
-		if _ = Receive.Wait(r, s3); r.Tag == 11002 {
+		if _ = Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); r.Tag == 11002 {
 			return RandMillisecond(60, 300)
 		}
 		return ms500
@@ -70,12 +76,20 @@ func WZZB(ctx context.Context) {
 	t1 := time.NewTimer(ms10)
 	f1 := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "竞技-王者争霸")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.KingMatch)
-		_ = Receive.Wait(&S2CKingMatch{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CKingMatch{}, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		Receive.Action(CLI.KingFight)
 		r := &S2CKingFight{}
-		_ = Receive.Wait(r, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		if r.Tag == 0 {
 			return ms500
 		}

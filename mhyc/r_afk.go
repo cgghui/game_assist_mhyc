@@ -11,34 +11,35 @@ import (
 func AFK(ctx context.Context) {
 	// 定时领取有尝奖励
 	go func() {
-		info := &S2CAFKGetBuyInfo{}
-		buyTimes := &S2CAFKBuyTimes{}
 		t := time.NewTimer(ms100)
 		defer t.Stop()
 		f := func() time.Duration {
 			Fight.Lock()
-			defer Fight.Unlock()
-			tm := time.NewTimer(ms10)
-			defer tm.Stop()
-			for {
-				select {
-				case <-tm.C:
-					Receive.Action(CLI.AFKGetBuyInfo)
-					if err := Receive.Wait(info, s3); err != nil {
-						tm.Reset(ms100)
-						break
-					}
-					if info.Coin <= 0 {
-						Receive.Action(CLI.AFKBuyTimes)
-						_ = Receive.Wait(buyTimes, s3)
-						tm.Reset(ms100)
-						break
-					}
-					return TomorrowDuration(RandMillisecond(30000, 30600))
-				case <-ctx.Done():
-					return s3
+			am := SetAction(ctx, "挂机-有尝奖励")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				Receive.Action(CLI.AFKGetBuyInfo)
+				info := &S2CAFKGetBuyInfo{}
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
+					loop = 0
+					next = RandMillisecond(6, 15)
+					return
 				}
-			}
+				if info.Coin <= 0 {
+					Receive.Action(CLI.AFKBuyTimes)
+					buyTimes := &S2CAFKBuyTimes{}
+					if err := Receive.WaitWithContextOrTimeout(am.Ctx, buyTimes, s3); err != nil {
+						loop = 0
+						next = RandMillisecond(6, 15)
+						return
+					}
+					return ms100, 0
+				}
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+			})
 		}
 		for {
 			select {
@@ -52,12 +53,24 @@ func AFK(ctx context.Context) {
 	// 定时领取挂机奖励
 	info := &S2CGetAFKPrize{}
 	t := time.NewTimer(ms100)
+	defer t.Stop()
+	f := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "挂机-定时领取挂机奖励")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			Receive.Action(CLI.GetAFKPrize)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, info, s3)
+			return 0, RandMillisecond(600, 1200)
+		})
+	}
 	for {
 		select {
 		case <-t.C:
-			Receive.Action(CLI.GetAFKPrize)
-			_ = Receive.Wait(info, s3)
-			t.Reset(RandMillisecond(60, 180)) // 1 ~ 3 分钟
+			t.Reset(f())
 		case <-ctx.Done():
 			return
 		}

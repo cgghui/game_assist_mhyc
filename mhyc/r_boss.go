@@ -13,13 +13,21 @@ func BossPersonal(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
-		ret := &S2CBossPersonalSweep{}
+		Fight.Lock()
+		am := SetAction(ctx, "BOSS-个人BOSS")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.BossPersonalSweep)
-		_ = Receive.Wait(ret, s3)
+		ret := &S2CBossPersonalSweep{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+			return RandMillisecond(3, 6)
+		}
 		if ret.Tag == 4055 { // end
 			return TomorrowDuration(RandMillisecond(600, 1800))
 		}
-		return time.Minute
+		return RandMillisecond(600, 900)
 	}
 	for {
 		select {
@@ -36,13 +44,21 @@ func BossVIP(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
-		ret := &S2CBossVipSweep{}
+		Fight.Lock()
+		am := SetAction(ctx, "BOSS-BossVIP")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.BossVipSweep)
-		_ = Receive.Wait(ret, s3)
+		ret := &S2CBossVipSweep{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+			return RandMillisecond(3, 6)
+		}
 		if ret.Tag == 4055 { // end
 			return TomorrowDuration(RandMillisecond(600, 1800))
 		}
-		return time.Minute
+		return RandMillisecond(600, 900)
 	}
 	for {
 		select {
@@ -59,15 +75,33 @@ func BossXYCM(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
-		for _, layer := range []int32{10, 20, 30, 40, 50} {
-			go func(layer int32) {
-				_ = CLI.RecLimitFightSpeedReward(layer)
-			}(layer)
-			_ = Receive.Wait(&S2CRecLimitFightSpeedReward{}, s3)
-		}
-		Receive.Action(CLI.RecLimitFightReward)
-		_ = Receive.Wait(&S2CRecLimitFightReward{}, s3)
-		return TomorrowDuration(RandMillisecond(600, 1800))
+		Fight.Lock()
+		am := SetAction(ctx, "BOSS-降妖除魔")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		i := 0
+		layer := []int32{10, 20, 30, 40, 50}
+		count := len(layer)
+		reTime := am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.RecLimitFightSpeedReward(layer[i])
+			}()
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRecLimitFightSpeedReward{}, s3); err != nil {
+				return 0, RandMillisecond(3, 6)
+			}
+			i++
+			if i >= count {
+				Receive.Action(CLI.RecLimitFightReward)
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRecLimitFightReward{}, s3); err != nil {
+					return 0, RandMillisecond(3, 6)
+				}
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			return ms100, 0
+		})
+		return reTime
 	}
 	for {
 		select {
@@ -85,18 +119,20 @@ func BossMulti(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "BOSS-多人BOSS")
 		defer func() {
 			go func() {
 				_ = CLI.MultiBossLeaveScene(&C2SMultiBossLeaveScene{Id: BossMultiID})
 			}()
-			_ = Receive.Wait(&S2CMultiBossLeaveScene{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CMultiBossLeaveScene{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		// 检测是否有挑战次数
 		if RoleInfo.Get("MultiBoss_Times").Int64() == 0 {
 			// 无
 			if RoleInfo.Get("MultiBoss_Add_Times").Int64() == 10 {
-				return TomorrowDuration(RandMillisecond(30000, 30600))
+				return TomorrowDuration(RandMillisecond(1800, 3600))
 			}
 			// 有
 			mn := time.Unix(RoleInfo.Get("MultiBoss_NextTime").Int64(), 0).Local().Add(time.Minute)
@@ -106,21 +142,15 @@ func BossMulti(ctx context.Context) {
 			}
 		}
 		// 监听相关消息
-		cx, cancel := context.WithCancel(ctx)
-		defer cancel()
-		listens := []HandleMessage{
-			&S2CMultiBossGetDamageLog{},
-			&S2CMultiBossLeaveScene{},
-			&S2CMultiBossInfo{},
-		}
+		listens := []HandleMessage{&S2CMultiBossGetDamageLog{}, &S2CMultiBossLeaveScene{}, &S2CMultiBossInfo{}}
 		for i := range listens {
-			go ListenMessage(cx, listens[i])
+			go ListenMessage(am.Ctx, listens[i])
 		}
 		// 获取BOSS信息
 		info := &S2CMultiBossInfo{}
 		Receive.Action(CLI.MultiBossInfo)
-		if err := Receive.Wait(info, s3); err != nil {
-			return ms100
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil || len(info.Items) == 0 {
+			return RandMillisecond(3, 6)
 		}
 		for _, item := range info.Items {
 			// 检测BOSS是否在冷却
@@ -132,32 +162,31 @@ func BossMulti(ctx context.Context) {
 				}
 			}
 		}
+		MonsterChan := make(chan *S2CMonsterEnterMap)
+		go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			defer close(MonsterChan)
+			var enter S2CMonsterEnterMap
+			if err := proto.Unmarshal(data, &enter); err == nil {
+				MonsterChan <- &enter
+			}
+		})
 		go func() {
 			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: BossMultiID})
 		}()
-		go func() {
-			_ = Receive.Wait(&S2CMultiBossJoinScene{}, s30)
-		}()
-		enter := &S2CMonsterEnterMap{}
-		_ = Receive.Wait(enter, s30)
-		// loop 战斗
-		tc := time.NewTimer(0)
-		defer tc.Stop()
-		for {
-			select {
-			case <-tc.C:
-				ret, _ := FightAction(enter.Id, 8)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CMultiBossJoinScene{}, s30)
+		for monster := range MonsterChan {
+			return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				ret, _ := FightAction(am.Ctx, monster.Id, 8)
 				if ret == nil {
-					return ms100
+					return 0, time.Second
 				}
 				if ret.Tag == 4022 || ret.Tag == 17002 { // 逃跑
-					return ms100
+					return 0, time.Second
 				}
-				tc.Reset(ms500)
-			case <-ctx.Done():
-				return s3
-			}
+				return ms500, 0
+			})
 		}
+		return time.Second
 	}
 	for {
 		select {
@@ -175,17 +204,23 @@ func XuanShangBoss(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "BOSS-悬赏BOSS")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		info := &S2CXuanShangBossInfo{}
 		Receive.Action(CLI.XuanShangBossInfo)
-		if err := Receive.Wait(info, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
 			return ms100
 		}
 		// 没有挑战次数
 		if info.LeftKillTimes <= 0 {
 			Receive.Action(CLI.XuanShangBossScoreReward)
-			_ = Receive.Wait(&S2CXuanShangBossScoreReward{}, s3)
-			return TomorrowDuration(30600 * time.Second)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXuanShangBossScoreReward{}, s3); err != nil {
+				return RandMillisecond(3, 6)
+			}
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
 		// BOSS级别小于3时，刷新BOSS级别
 		if info.XuanShangID <= 3 {
@@ -199,26 +234,30 @@ func XuanShangBoss(ctx context.Context) {
 				return ms500
 			}
 			// 有刷新次数
-			refresh := &S2CXuanShangBossRefresh{}
 			Receive.Action(CLI.XuanShangBossRefresh)
-			_ = Receive.Wait(refresh, s3)
+			refresh := &S2CXuanShangBossRefresh{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, refresh, s3); err != nil {
+				return RandMillisecond(3, 6)
+			}
 			if refresh.XuanShangID <= 3 { // 刷新后乃然低于3，退出重来
 				return ms100
 			}
 		}
 		// 接受悬赏
-		accept := &S2CXuanShangBossAccept{}
 		Receive.Action(CLI.XuanShangBossAccept)
-		if err := Receive.Wait(accept, s3); err != nil {
-			return ms100
+		accept := &S2CXuanShangBossAccept{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, accept, s3); err != nil {
+			return RandMillisecond(3, 6)
 		}
 		// 进入战场
 		go func() {
 			_ = CLI.XuanShangBossJoinScene(accept.BossID)
 		}()
-		_ = Receive.Wait(&S2CXuanShangBossJoinScene{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXuanShangBossJoinScene{}, s3); err != nil {
+			return RandMillisecond(3, 6)
+		}
 		// 开始战斗
-		FightAction(accept.BossID, 8)
+		FightAction(am.Ctx, accept.BossID, 8)
 		return ms500
 	}
 	for {
@@ -262,10 +301,14 @@ func WorldBoss(ctx context.Context) {
 			return td
 		}
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "BOSS-世界BOSS")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		Receive.Action(CLI.BossGlobalJoinActive)
 		join := &S2CJoinActive{}
-		if err := Receive.Wait(join, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
 			return ms100
 		}
 		if join.Tag != 0 {
@@ -276,14 +319,11 @@ func WorldBoss(ctx context.Context) {
 			go func() {
 				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 2})
 			}()
-			_ = Receive.Wait(&S2CLeaveActive{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
 		}()
 		//
-		cx, end := context.WithCancel(ctx)
-		defer end()
-		//
 		monster := make(chan *S2CMonsterEnterMap, 10)
-		go ListenMessageCall(cx, &S2CMonsterEnterMap{}, func(data []byte) {
+		go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
 			defer close(monster)
 			var enter S2CMonsterEnterMap
 			if err := proto.Unmarshal(data, &enter); err == nil {
@@ -291,11 +331,11 @@ func WorldBoss(ctx context.Context) {
 			}
 		})
 		// 结束
-		go ListenMessageCall(cx, &S2CWorldBossEnd{}, func(data []byte) {
-			end()
+		go ListenMessageCall(am.Ctx, &S2CWorldBossEnd{}, func(data []byte) {
+			am.Cancel()
 		})
 		// 等待 摇筛子
-		go ListenMessageCall(cx, &S2CWorldBossBreakShieldInfo{}, func(data []byte) {
+		go ListenMessageCall(am.Ctx, &S2CWorldBossBreakShieldInfo{}, func(data []byte) {
 			r := &S2CWorldBossBreakShieldInfo{}
 			r.Message(data)
 			if r.MyState == 0 && r.MyPoints == 0 {
@@ -303,43 +343,37 @@ func WorldBoss(ctx context.Context) {
 					go func() {
 						_ = CLI.WorldBossStakePoints(1)
 					}()
-					_ = Receive.Wait(&S2CWorldBossBreakShieldInfo{}, s3)
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CWorldBossBreakShieldInfo{}, s3)
 				}()
 			}
 		})
-		//
-		tc := time.NewTimer(ms10)
-		defer tc.Stop()
 		for boss := range monster {
-			tc.Reset(ms10)
-			for {
-				select {
-				case <-tc.C:
-					s, r := FightAction(boss.Id, 8)
-					if s == nil || r == nil {
-						tc.Reset(ms500)
-						break
-					}
-					if r.Win == 1 {
-						return s3
-					}
-					tc.Reset(ms500)
-				case <-ctx.Done():
-					return s3
+			am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+				s, r := FightAction(am.Ctx, boss.Id, 8)
+				if s == nil || r == nil {
+					return ms100, 0
 				}
-			}
+				if r.Win == 1 {
+					return 0, time.Second
+				}
+				return ms100, 0
+			})
+			break
 		}
-
-		for i := int32(1); i <= 10; i++ {
-			go func(i int32) {
+		i := int32(1)
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
 				_ = CLI.WorldBossReachGoalGetPrize(i)
-			}(i)
+			}()
 			ret := &S2CWorldBossReachGoalGetPrize{}
-			if err := Receive.Wait(ret, s3); err != nil || ret.Tag != 0 {
-				break
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
+				return 0, time.Second
 			}
-		}
-		return ms500
+			if ret.Tag != 0 {
+				return 0, time.Second
+			}
+			return ms100, 0
+		})
 	}
 	//
 	for {
@@ -357,50 +391,55 @@ func BossHome(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
+		am := SetAction(ctx, "BOSS-BOSS之家")
 		defer func() {
 			Receive.Action(CLI.BossHomeLeaveScene)
-			_ = Receive.Wait(&S2CBossHomeLeaveScene{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CBossHomeLeaveScene{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
-		cx, cancel := context.WithCancel(ctx)
-		defer cancel()
 		// 地图怪
 		monster := make([]*S2CMonsterEnterMap, 0)
-		go monsterEnterMap(cx, &monster)
+		go monsterEnterMap(am.Ctx, &monster)
 		// 怪信息
 		bossInfoChan := make(chan *S2CHomeBossInfo)
-		defer close(bossInfoChan)
 		go func() {
+			defer close(bossInfoChan)
 			info := &S2CHomeBossInfo{}
-			if err := Receive.Wait(info, s3); err != nil {
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
 				bossInfoChan <- nil
 			} else {
 				bossInfoChan <- info
 			}
 		}()
-		join := &S2CBossHomeJoinScene{}
 		Receive.Action(CLI.BossHomeJoinScene)
-		_ = Receive.Wait(join, s3)
+		join := &S2CBossHomeJoinScene{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
+			return RandMillisecond(3, 6)
+		}
 		bossInfo := <-bossInfoChan // 等待BOSS信息返回
 		// 挑战体力不足
 		if join.Tag == 4049 {
 			// 领取奖励，明天再战
 			Receive.Action(CLI.HomeBossReceiveTempBag)
-			_ = Receive.Wait(&S2CHomeBossReceiveTempBag{}, s3)
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CHomeBossReceiveTempBag{}, s3); err != nil {
+				return RandMillisecond(3, 6)
+			}
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
+		<-time.After(time.Second)
 		// 地图内无怪时
 		// 尝试等待所有怪冷却后再战
 		if len(monster) == 0 {
 			if bossInfo == nil {
-				return ms500
+				return RandMillisecond(3, 6)
 			}
 			var timeList = make([]int64, 0)
 			for _, info := range bossInfo.Items {
 				timeList = append(timeList, info.ReliveTimestamp)
 			}
 			if len(timeList) == 0 {
-				return s60
+				return RandMillisecond(30, 60)
 			}
 			sort.Slice(timeList, func(i, j int) bool {
 				return timeList[i] > timeList[j]
@@ -408,34 +447,27 @@ func BossHome(ctx context.Context) {
 			ttm := time.Unix(timeList[0], 0).Local()
 			cur := time.Now()
 			if cur.Before(ttm) {
-				return ttm.Add(time.Second).Sub(cur)
+				return ttm.Add(ms100).Sub(cur)
 			}
-			return s30
+			return RandMillisecond(20, 40)
 		}
 		// 打怪
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for i := range monster {
-			tm.Reset(ms100)
-			r := func() bool {
-				for {
-					select {
-					case <-tm.C:
-						_, r := FightAction(monster[i].Id, 8)
-						if r == nil || r.Win == 1 {
-							return true
-						}
-						tm.Reset(ms100)
-					case <-ctx.Done():
-						return false
-					}
-				}
-			}()
-			if !r {
-				break
+		count := len(monster)
+		i := 0
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			m := monster[i]
+			_, r := FightAction(am.Ctx, m.Id, 8)
+			if r == nil {
+				return 0, ms100
 			}
-		}
-		return ms500
+			if r.Win == 1 {
+				i++
+				if i >= count {
+					return 0, RandMillisecond(3, 6)
+				}
+			}
+			return ms100, 0
+		})
 	}
 	for {
 		select {
@@ -452,14 +484,15 @@ func BossXLD(ctx context.Context) {
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
-		defer Fight.Unlock()
+		am := SetAction(ctx, "BOSS-BOSS凶灵岛")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		info := &S2CXLDBossInfo{}
 		Receive.Action(CLI.XLDBossInfo)
-		if err := Receive.Wait(info, s3); err != nil {
-			return ms100
-		}
-		if len(info.Items) == 0 {
-			return ms100
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil || len(info.Items) == 0 {
+			return RandMillisecond(1, 3)
 		}
 		var timeList = make([]int64, 0)
 		for _, item := range info.Items {
@@ -471,17 +504,17 @@ func BossXLD(ctx context.Context) {
 		ttm := time.Unix(timeList[0], 0).Local()
 		cur := time.Now()
 		if cur.Before(ttm) {
-			return ttm.Add(time.Second).Sub(cur)
+			return ttm.Add(ms100).Sub(cur)
 		}
 		bs := &S2CXLDBossSweep{}
 		Receive.Action(CLI.XLDBossSweep)
-		if err := Receive.Wait(bs, s3); err != nil {
-			return ms100
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, bs, s3); err != nil {
+			return RandMillisecond(1, 3)
 		}
 		if bs.Tag == 57015 {
-			return TomorrowDuration(RandMillisecond(30000, 30600))
+			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		return time.Second
+		return RandMillisecond(1, 3)
 	}
 	for {
 		select {
@@ -494,24 +527,28 @@ func BossXLD(ctx context.Context) {
 }
 
 // collectSC 采集仙草
-func collectSC(field string, xsdID, bossID int32) time.Duration {
+func collectSC(ctx context.Context, field string, xsdID, bossID int32) time.Duration {
 	Fight.Lock()
+	name := ""
+	if field == "XsdXsdDayCollectTimes" {
+		name = "凶神岛"
+	}
+	if field == "XsdXmdDayCollectTimes" {
+		name = "凶冥岛"
+	}
+	am := SetAction(ctx, "BOSS-采集仙草-"+name)
 	defer func() {
 		go func() {
 			_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: xsdID, BossId: bossID})
 		}()
-		_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXsdBossLeaveScene{}, s3)
+		am.End()
 		Fight.Unlock()
 	}()
 	// 采集次数不足
 	if RoleInfo.Get(field).Int64() >= 3 {
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
-	ctx, cancel := context.WithCancel(context.Background())
-	defer cancel()
-	// 地图怪
-	monster := make([]*S2CMonsterEnterMap, 0)
-	go monsterEnterMap(ctx, &monster)
 	// 怪信息
 	bossInfoChan := make(chan *S2CXsdBossInfo)
 	go func() {
@@ -528,8 +565,8 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 	go func() {
 		_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: xsdID, BossId: bossID})
 	}()
-	if err := Receive.Wait(join, s30); err != nil {
-		return ms100
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s30); err != nil {
+		return time.Second
 	}
 	//
 	if field == "XsdXsdDayCollectTimes" {
@@ -542,11 +579,15 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 			_ = CLI.DropItems(39053)
 		}()
 	}
-	_ = Receive.Wait(&S2CGetDropItems{}, s3)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetDropItems{}, s3); err != nil {
+		return time.Second
+	}
 	go func() {
 		_ = CLI.StartMove(&C2SStartMove{P: []int32{13, 24}})
 	}()
-	_ = Receive.Wait(&S2CStartMove{}, s3)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3); err != nil {
+		return time.Second
+	}
 	//
 	bossList := <-bossInfoChan // BOSS
 	if bossList == nil {
@@ -570,7 +611,9 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 1})
 	}()
 	collect := &S2CXsdCollect{}
-	_ = Receive.Wait(collect, s3)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, collect, s3); err != nil {
+		return time.Second
+	}
 	if collect.Tag == 0 && collect.CollState == 1 && RoleInfo.Get("UserId").Int64() != collect.CollUserId {
 		return s30
 	}
@@ -579,52 +622,64 @@ func collectSC(field string, xsdID, bossID int32) time.Duration {
 		_ = CLI.XsdCollect(&C2SXsdCollect{XsdId: xsdID, CollId: bossID, CollAct: 0})
 	}()
 	collect = &S2CXsdCollect{}
-	_ = Receive.Wait(collect, s90)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, collect, s90); err != nil {
+		return time.Second
+	}
 	if field == "XsdXsdDayCollectTimes" {
 		go func() {
 			_ = CLI.RoutePath(&C2SRoutePath{MapId: 2555, FX: 13, FY: 24, TX: 38, TY: 73})
 		}()
-		_ = Receive.Wait(&S2CRoutePath{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRoutePath{}, s3); err != nil {
+			return time.Second
+		}
 	}
 	if field == "XsdXmdDayCollectTimes" {
 		go func() {
 			_ = CLI.RoutePath(&C2SRoutePath{MapId: 2566, FX: 13, FY: 24, TX: 14, TY: 70})
 		}()
-		_ = Receive.Wait(&S2CRoutePath{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CRoutePath{}, s3); err != nil {
+			return time.Second
+		}
 	}
 	cur := time.Now()
 	brt := time.Unix(collect.FinishTimestamp, 0).Local()
 	if cur.Before(brt) {
 		<-time.After(brt.Add(ms100).Sub(cur))
-
 	}
 	return ms100
 }
 
 // bossBattleScene BOSS战斗场景
-func bossBattleScene(cx context.Context, field string, xsdID, bossID int32) time.Duration {
+func bossBattleScene(ctx context.Context, field string, xsdID, bossID int32) time.Duration {
 	Fight.Lock()
+	name := ""
+	if field == "XsdXsdDayFightTimes" {
+		name = "凶神岛之战"
+	}
+	if field == "XsdXmdDayFightTimes" {
+		name = "凶冥岛之战"
+	}
+	am := SetAction(ctx, "BOSS-"+name)
 	defer func() {
 		go func() {
 			_ = CLI.XsdBossLeaveScene(&C2SXsdBossLeaveScene{XsdId: xsdID, BossId: bossID})
 		}()
-		_ = Receive.Wait(&S2CXsdBossLeaveScene{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CXsdBossLeaveScene{}, s3)
+		am.End()
 		Fight.Unlock()
 	}()
 	if RoleInfo.Get(field).Int64() <= 0 {
-		return TomorrowDuration(RandMillisecond(30000, 30600))
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
-	ctx, cancel := context.WithCancel(context.Background())
-	defer cancel()
 	// 地图怪
 	monster := make([]*S2CMonsterEnterMap, 0)
-	go monsterEnterMap(ctx, &monster)
+	go monsterEnterMap(am.Ctx, &monster)
 	// 怪信息
 	bossInfoChan := make(chan *S2CXsdBossInfo)
-	defer close(bossInfoChan)
 	go func() {
+		defer close(bossInfoChan)
 		info := &S2CXsdBossInfo{}
-		if err := Receive.Wait(info, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
 			bossInfoChan <- nil
 		} else {
 			bossInfoChan <- info
@@ -634,9 +689,12 @@ func bossBattleScene(cx context.Context, field string, xsdID, bossID int32) time
 	go func() {
 		_ = CLI.XsdBossJoinScene(&C2SXsdBossJoinScene{XsdId: xsdID, BossId: bossID})
 	}()
-	_ = Receive.Wait(join, s3)
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
+		return RandMillisecond(1, 3)
+	}
 	<-bossInfoChan // 等待BOSS信息返回
 	// 打怪
+	<-time.After(time.Second)
 	if len(monster) > 0 {
 		// 按怪的血量排序，优先攻击血量多的怪（奖励多些）
 		var HP = make([]int64, 0)
@@ -646,43 +704,36 @@ func bossBattleScene(cx context.Context, field string, xsdID, bossID int32) time
 		sort.Slice(HP, func(i, j int) bool {
 			return HP[i] > HP[j]
 		})
-		tm := time.NewTimer(ms10)
-		defer tm.Stop()
-		for _, hp := range HP {
+		count := len(HP)
+		i := 0
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= count {
+				return 0, time.Second
+			}
+			hp := HP[i]
 			// 找到同等血量的怪
 			idx := -1
-			for i, m := range monster {
+			for j, m := range monster {
 				if m.Hp == hp {
-					idx = i
+					idx = j
 					break
 				}
 			}
 			if idx == -1 {
-				continue
+				i++
+				return ms100, 0
 			}
-			tm.Reset(ms100)
-			// 开打
-			r := func() bool {
-				for {
-					select {
-					case <-tm.C:
-						s, r := FightAction(monster[idx].Id, 8)
-						if s == nil || r == nil || s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
-							return true
-						}
-						if r.Win == 1 { // 斗报胜利
-							return true
-						}
-						tm.Reset(RandMillisecond(1, 3))
-					case <-cx.Done():
-						return false
-					}
-				}
-			}()
-			if !r {
-				return s3
+			s, r := FightAction(am.Ctx, monster[idx].Id, 8)
+			if s == nil || r == nil || s.Tag == 57006 || s.Tag == 57005 || s.Tag == 57016 { // 凶兽未解锁//
+				i++
+				return ms100, 0
 			}
-		}
+			if r.Win == 1 { // 斗报胜利
+				i++
+				return ms100, 0
+			}
+			return ms100, 0
+		})
 	}
 	return s3
 }
@@ -697,7 +748,7 @@ func BossXSD(ctx context.Context) {
 		case <-t1.C:
 			t1.Reset(bossBattleScene(ctx, "XsdXsdDayFightTimes", 1, 1))
 		case <-t2.C:
-			t2.Reset(collectSC("XsdXsdDayCollectTimes", 1, 7))
+			t2.Reset(collectSC(ctx, "XsdXsdDayCollectTimes", 1, 7))
 		case <-ctx.Done():
 			return
 		}
@@ -714,7 +765,7 @@ func BossXMD(ctx context.Context) {
 		case <-t1.C:
 			t1.Reset(bossBattleScene(ctx, "XsdXmdDayFightTimes", 2, 1))
 		case <-t2.C:
-			t1.Reset(collectSC("XsdXmdDayCollectTimes", 2, 7))
+			t1.Reset(collectSC(ctx, "XsdXmdDayCollectTimes", 2, 7))
 		case <-ctx.Done():
 			return
 		}
@@ -724,45 +775,59 @@ func BossXMD(ctx context.Context) {
 func BossHLTJ(ctx context.Context) {
 	t1 := time.NewTimer(time.Second)
 	f1 := func() time.Duration {
+		if RoleInfo.Get("HLPower").Int64() <= 5 {
+			return TomorrowDuration(RandMillisecond(1800, 3600))
+		}
 		Fight.Lock()
+		am := SetAction(ctx, "BOSS-幻灵天界")
 		defer func() {
 			go func() {
 				_ = CLI.LeaveHLFB(&C2SLeaveHLFB{InsId: HltjID})
 			}()
-			_ = Receive.Wait(&S2CLeaveHLFB{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveHLFB{}, s3)
+			am.End()
 			Fight.Unlock()
 		}()
 		go func() {
 			_ = CLI.C2SGetHLBossList(HltjID)
 		}()
 		bossList := &S2CGetHLBossList{}
-		_ = Receive.Wait(bossList, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, bossList, s3); err != nil {
+			if RoleInfo.Get("HLPower").Int64() <= 5 {
+				return TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			return RandMillisecond(3, 6)
+		}
 		// 进入场景
 		go func() {
 			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: HltjID, Type: 2})
 		}()
-		_ = Receive.Wait(&S2CEnterHLFB{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CEnterHLFB{}, s3); err != nil {
+			return RandMillisecond(1, 3)
+		}
 		// 组队
 		go func() {
 			_ = CLI.CreateTeam(&C2SCreateTeam{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(HltjID), Key4: 0})
 		}()
 		var ct S2CCreateTeam
-		if err := Receive.Wait(&ct, s3); err != nil {
-			return ms500
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &ct, s3); err != nil {
+			return time.Second
 		}
 		if ct.Team == nil {
-			return ms500
+			return time.Second
 		}
 		defer func() {
 			go func() {
 				_ = CLI.LeaveTeam(ct.Team.TeamId)
 			}()
-			_ = Receive.Wait(&S2CLeaveTeam{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveTeam{}, s3)
 		}()
 		go func() {
 			_ = CLI.Teams(&C2STeams{IsCross: 1, FuncId: 14105, Key1: 1, Key2: int64(HltjID), Key4: 0})
 		}()
-		_ = Receive.Wait(&S2CTeams{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CTeams{}, s3); err != nil {
+			return RandMillisecond(1, 3)
+		}
 		go func() {
 			_ = CLI.InviteTeam(ct.Team.TeamId, 5)
 		}()
@@ -792,56 +857,52 @@ func BossHLTJ(ctx context.Context) {
 		}
 		tc := time.NewTimer(ms500)
 		defer tc.Stop()
-		PveChan := make(chan *S2CStartFightHLPVE)
-		defer close(PveChan)
 		i := 0
-		for {
-			select {
-			case <-tc.C:
-				if i >= len(bossList.HLBossList) {
-					return s60
-				}
-				boss := bossList.HLBossList[i]
-				if boss.Revive != 0 {
-					i++
-					tc.Reset(ms500)
-					break
-				}
-				go func() {
-					go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
-						r := &S2CStartFightHLPVE{}
-						r.Message(data)
-						PveChan <- r
-						return false
-					})
-					_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
-				}()
-				r := &S2CBattlefieldReport{}
-				_ = Receive.Wait(r, s3)
-				p := <-PveChan
-				if p.Tag == 56713 { // 复活中
-					ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
-					cur := time.Now()
-					if cur.Before(ttm) {
-						return ttm.Add(time.Second).Sub(cur)
-					}
-					return s3
-				}
-				if p.Tag == 56714 {
-					go func() {
-						_ = CLI.WareHouseReceiveItem(2)
-					}()
-					_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
-					return TomorrowDuration(RandMillisecond(30000, 30600))
-				}
-				if r.Win == 1 && p.Tag == 0 {
-					i++
-				}
-				tc.Reset(ms500)
-			case <-ctx.Done():
-				return s3
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= len(bossList.HLBossList) {
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
 			}
-		}
+			boss := bossList.HLBossList[i]
+			if boss.Revive != 0 {
+				i++
+				return ms500, 0
+			}
+			PveChan := make(chan *S2CStartFightHLPVE)
+			go func() {
+				go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
+					defer close(PveChan)
+					r := &S2CStartFightHLPVE{}
+					r.Message(data)
+					PveChan <- r
+					return false
+				})
+				_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
+			}()
+			r := &S2CBattlefieldReport{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(1, 3)
+			}
+			p := <-PveChan
+			if p.Tag == 56713 { // 复活中
+				ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
+				cur := time.Now()
+				if cur.Before(ttm) {
+					return ttm.Add(time.Second).Sub(cur), 0
+				}
+				return 0, RandMillisecond(3, 6)
+			}
+			if p.Tag == 56714 {
+				go func() {
+					_ = CLI.WareHouseReceiveItem(2)
+				}()
+				_ = Receive.Wait(&S2CWareHouseReceiveItem{}, s3)
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			if r.Win == 1 && p.Tag == 0 {
+				i++
+			}
+			return ms500, 0
+		})
 	}
 	//
 	for {
@@ -854,12 +915,12 @@ func BossHLTJ(ctx context.Context) {
 	}
 }
 
-func fightActionBDJJ(act func() error) (*S2CBangDanJJFight, *S2CBattlefieldReport) {
+func fightActionBDJJ(ctx context.Context, act func() error) (*S2CBangDanJJFight, *S2CBattlefieldReport) {
 	c := make(chan *S2CBangDanJJFight)
 	defer close(c)
 	go func() {
 		sf := &S2CBangDanJJFight{}
-		if err := Receive.Wait(sf, s3); err != nil {
+		if err := Receive.WaitWithContextOrTimeout(ctx, sf, s3); err != nil {
 			c <- nil
 		} else {
 			c <- sf
@@ -867,7 +928,7 @@ func fightActionBDJJ(act func() error) (*S2CBangDanJJFight, *S2CBattlefieldRepor
 	}()
 	Receive.Action(act)
 	r := &S2CBattlefieldReport{}
-	if err := Receive.Wait(r, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(ctx, r, s3); err != nil {
 		r = nil
 	}
 	return <-c, r
@@ -877,38 +938,34 @@ func BossBDJJ(ctx context.Context) {
 	t1 := time.NewTimer(time.Second)
 	f1 := func() time.Duration {
 		Fight.Lock()
-		Fight.Unlock()
-		tc := time.NewTimer(ts0)
-		defer tc.Stop()
-		for {
-			select {
-			case <-tc.C:
-				f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight1)
-				tc.Reset(ms500)
-				if f == nil || (f != nil && f.Tag != 0) { // 60106 战斗次数不足
-					goto Next
-				}
-			case <-ctx.Done():
-				return s3
+		am := SetAction(ctx, "BOSS-榜单竞技")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		reTime := am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			f, _ := fightActionBDJJ(am.Ctx, CLI.C2SBangDanJJFight1)
+			if f == nil {
+				return 0, RandMillisecond(1, 3)
 			}
-		}
-	Next:
-		for {
-			select {
-			case <-tc.C:
-				f, _ := fightActionBDJJ(CLI.C2SBangDanJJFight2)
-				if f == nil {
-					tc.Reset(ms500)
-					break
-				}
-				if f.Tag != 0 { // 60106 战斗次数不足
-					return TomorrowDuration(RandMillisecond(30000, 30600))
-				}
-				tc.Reset(ms500)
-			case <-ctx.Done():
-				return s3
+			if f.Tag != 0 { // 60106 战斗次数不足
+				return 0, 0
 			}
+			return ms500, 0
+		})
+		if reTime != 0 {
+			return reTime
 		}
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			f, _ := fightActionBDJJ(am.Ctx, CLI.C2SBangDanJJFight2)
+			if f == nil {
+				return 0, RandMillisecond(1, 3)
+			}
+			if f.Tag != 0 { // 60106 战斗次数不足
+				return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+			}
+			return ms500, 0
+		})
 	}
 	//
 	for {

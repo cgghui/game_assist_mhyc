@@ -8,17 +8,60 @@ import (
 	"encoding/binary"
 	"fmt"
 	"github.com/cgghui/game_assist_mhyc/mhyc"
+	"github.com/gin-gonic/gin"
 	"log"
+	"net/http"
 	"os"
 	"os/signal"
+	"strings"
 	"sync"
 	"time"
 )
+
+type Thread struct {
+	f func(ctx context.Context)
+}
 
 func main() {
 
 	var ctx context.Context
 	var cancel context.CancelFunc
+
+	go func() {
+
+		web := gin.New()
+
+		gin.DisableConsoleColor()
+		gin.SetMode(gin.ReleaseMode)
+
+		web.GET("/get_task_status", func(ctt *gin.Context) {
+			text := make([]string, 0)
+			for _, am := range mhyc.ActionManageList {
+				if am.Name == "" {
+					continue
+				}
+				text = append(text, "current: "+am.Name+" running time: "+time.Since(am.Sr).String())
+			}
+			text = append(text, "-----------------------")
+			for _, am := range mhyc.ActionRunningHistoryList {
+				text = append(text, am.RunningTime+" "+am.Name+" "+am.TakeUpTime.String())
+			}
+			ctt.String(http.StatusOK, strings.Join(text, "\n"))
+		})
+
+		web.GET("/get_role_data", func(ctt *gin.Context) {
+			info := mhyc.RoleInfo.GetAll()
+			ctt.AsciiJSON(http.StatusOK, info)
+		})
+
+		s := &http.Server{
+			Addr:         "127.0.0.1:9292",
+			Handler:      web,
+			ReadTimeout:  time.Minute,
+			WriteTimeout: time.Minute,
+		}
+		_ = s.ListenAndServe()
+	}()
 
 	tm := time.NewTimer(time.Millisecond)
 
@@ -120,27 +163,6 @@ func main() {
 			mhyc.Receive.Action(cli.LoginEnd)
 			//
 			thread(
-				//func() {
-				//	mhyc.ListenMessageCall(ctx, &mhyc.S2CRoleTask{}, func(data []byte) {
-				//		task := &mhyc.S2CRoleTask{}
-				//		task.Message(data)
-				//		for i := range task.Task {
-				//			if task.Task[i].S != 1 {
-				//				continue
-				//			}
-				//			thread(func() {
-				//				func(t, id int32) {
-				//					mhyc.Fight.Lock()
-				//					defer mhyc.Fight.Unlock()
-				//					go func(t, id int32) {
-				//						_ = cli.GetTaskPrize(&mhyc.C2SGetTaskPrize{TaskType: t, Multi: 1, TaskId: id})
-				//					}(t, id)
-				//					_ = mhyc.Receive.Wait(&mhyc.S2CGetTaskPrize{}, 3*time.Second)
-				//				}(task.Task[i].T, task.Task[i].Id)
-				//			})
-				//		}
-				//	})
-				//},
 				func() {
 					mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
 						(&mhyc.S2CBagChange{}).Message(data)

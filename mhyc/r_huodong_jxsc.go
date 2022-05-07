@@ -11,10 +11,13 @@ import (
 // actJXSCTime 极限生存时间
 func actJXSCTime() time.Duration {
 	cur := time.Now()
+	y := cur.Year()
+	m := cur.Month()
+	d := cur.Day()
 	actStartTime := []time.Time{
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 11, 00, 0, 0, time.Local).Add(s3),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 15, 00, 0, 0, time.Local).Add(s3),
-		time.Date(cur.Year(), cur.Month(), cur.Day(), 19, 00, 0, 0, time.Local).Add(s3),
+		time.Date(y, m, d, 11, 00, 0, 0, time.Local).Add(s3),
+		time.Date(y, m, d, 15, 00, 0, 0, time.Local).Add(s3),
+		time.Date(y, m, d, 19, 00, 0, 0, time.Local).Add(s3),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {
@@ -32,7 +35,11 @@ func jxsc(ctx context.Context) time.Duration {
 		return td
 	}
 	Fight.Lock()
-	defer Fight.Unlock()
+	am := SetAction(ctx, "HuoDongJXSC") // @TODO 代码未使用 am.RunAction 实现
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
 	// 进入活动
 	go func() {
 		_ = CLI.JoinActive(&C2SJoinActive{AId: 5})
@@ -73,7 +80,7 @@ func jxsc(ctx context.Context) time.Duration {
 			_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
 		}()
 		_ = Receive.Wait(&S2CStartMove{}, s3)
-		s, r := FightAction(m.Id, 8)
+		s, r := FightAction(am.Ctx, m.Id, 8)
 		fmt.Println(s, r)
 	}
 	return ms500

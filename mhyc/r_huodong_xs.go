@@ -27,20 +27,30 @@ func HuoDongXS(ctx context.Context) {
 		if td := actXSTime(); td != 0 {
 			return td
 		}
+		Fight.Lock()
+		am := SetAction(ctx, "活动-仙山争夺")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
 		// 仙宗信息
 		Receive.Action(CLI.SectInfo)
-		_ = Receive.Wait(&S2CSectInfo{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CSectInfo{}, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		// 进入活动
 		go func() {
 			_ = CLI.JoinActive(&C2SJoinActive{AId: 4})
 		}()
-		_ = Receive.Wait(&S2CJoinActive{}, s3)
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3); err != nil {
+			return RandMillisecond(0, 2)
+		}
 		defer func() {
 			// 离开
 			go func() {
 				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 4})
 			}()
-			_ = Receive.Wait(&S2CLeaveActive{}, s3)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
 		}()
 		//
 		ui := RoleInfo.Get("UserId").Int64()
@@ -51,25 +61,18 @@ func HuoDongXS(ctx context.Context) {
 		newI := int32(0)
 		newP := int32(0)
 		newN := ""
-		tx := time.NewTimer(ms10)
-		for i := int32(1); i <= 5; i++ {
-			info := &S2CGetAllIMInfo{}
-			for {
-				select {
-				case <-tx.C:
-					go func() {
-						_ = CLI.GetAllIMInfo(i)
-					}()
-					if err := Receive.Wait(info, s3); err != nil {
-						tx.Reset(ms10)
-						break
-					}
-					goto Next
-				case <-ctx.Done():
-					return s3
-				}
+		i := int32(1)
+		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= 6 {
+				return 0, RandMillisecond(60, 120)
 			}
-		Next:
+			go func() {
+				_ = CLI.GetAllIMInfo(i)
+			}()
+			info := &S2CGetAllIMInfo{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, info, s3); err != nil {
+				return 0, RandMillisecond(0, 2)
+			}
 			isEnd := false
 			for _, player := range info.Players {
 				if player.UserId == ui {
@@ -87,15 +90,17 @@ func HuoDongXS(ctx context.Context) {
 				}
 			}
 			if isEnd {
-				break
+				return 0, RandMillisecond(60, 120)
 			}
-		}
+			i++
+			return ms100, 0
+		})
 		if currentI == 0 && currentP == 0 {
 			go func() {
 				_ = CLI.SectIMSeize(newI, newP, newN)
 			}()
 			s := &S2CSectIMSeize{}
-			_ = Receive.Wait(s, s10)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, s, s10)
 		}
 		return RandMillisecond(60, 120)
 	}
