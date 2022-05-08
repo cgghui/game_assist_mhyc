@@ -294,12 +294,14 @@ func main() {
 					cancel()
 					mhyc.Receive.Close()
 					log.Printf("recv: %v", err)
-					continue
+					return
+				}
+				if id == 6 {
+					_ = cli.Conn.Close()
 				}
 				mhyc.Receive.Notify(id, message[4:])
 			}
 		})
-
 		wg.Wait()
 		go reStart(300)
 	}
