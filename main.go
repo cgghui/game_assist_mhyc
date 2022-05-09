@@ -24,9 +24,6 @@ type Thread struct {
 
 func main() {
 
-	var ctx context.Context
-	var cancel context.CancelFunc
-
 	go func() {
 
 		web := gin.New()
@@ -90,7 +87,7 @@ func main() {
 
 		mhyc.Init()
 
-		ctx, cancel = context.WithCancel(context.Background())
+		mhyc.CTX, mhyc.CancelFunc = context.WithCancel(context.Background())
 
 		wg := &sync.WaitGroup{}
 
@@ -109,7 +106,7 @@ func main() {
 				wg.Add(1)
 				go func(i int) {
 					defer wg.Done()
-					f[i](ctx)
+					f[i](mhyc.CTX)
 				}(i)
 			}
 		}
@@ -123,7 +120,7 @@ func main() {
 			continue
 		}
 		var cli *mhyc.Connect
-		if cli, err = session.Connect(ctx); err != nil {
+		if cli, err = session.Connect(mhyc.CTX); err != nil {
 			log.Printf("connect: %v", err)
 			go reStart(60)
 			continue
@@ -134,7 +131,7 @@ func main() {
 		thread(func() {
 
 			thread(func() {
-				mhyc.ListenMessage(ctx, &mhyc.Pong{})
+				mhyc.ListenMessage(mhyc.CTX, &mhyc.Pong{})
 			})
 
 			// role info
@@ -146,7 +143,7 @@ func main() {
 					select {
 					case data := <-info.Wait():
 						(&mhyc.S2CRoleInfo{}).Message(data)
-					case <-ctx.Done():
+					case <-mhyc.CTX.Done():
 						return
 					}
 				}
@@ -161,7 +158,7 @@ func main() {
 					select {
 					case data := <-ubag.Wait():
 						(&mhyc.S2CUserBag{}).Message(data)
-					case <-ctx.Done():
+					case <-mhyc.CTX.Done():
 						return
 					}
 				}
@@ -171,72 +168,72 @@ func main() {
 			//
 			thread(
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CBagChange{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CBagChange{}, func(data []byte) {
 						(&mhyc.S2CBagChange{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.ItemFly{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.ItemFly{}, func(data []byte) {
 						(&mhyc.ItemFly{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
 						(&mhyc.S2CBattlefieldReport{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
 						(&mhyc.S2CTeamInstanceGetReport{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CServerTime{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CServerTime{}, func(data []byte) {
 						(&mhyc.S2CServerTime{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CRedState{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CRedState{}, func(data []byte) {
 						(&mhyc.S2CRedState{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CStartFight{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CStartFight{}, func(data []byte) {
 						(&mhyc.S2CStartFight{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CNotice{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CNotice{}, func(data []byte) {
 						(&mhyc.S2CNotice{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerEnterMap{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CPlayerEnterMap{}, func(data []byte) {
 						(&mhyc.S2CPlayerEnterMap{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CPlayerLeaveMap{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CPlayerLeaveMap{}, func(data []byte) {
 						(&mhyc.S2CPlayerLeaveMap{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CChangeMap{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CChangeMap{}, func(data []byte) {
 						(&mhyc.S2CChangeMap{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CMonsterEnterMap{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CMonsterEnterMap{}, func(data []byte) {
 						(&mhyc.S2CMonsterEnterMap{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CUpdateAmount{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CUpdateAmount{}, func(data []byte) {
 						(&mhyc.S2CUpdateAmount{}).Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(ctx, &mhyc.S2CWestExp{}, func(data []byte) {
+					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CWestExp{}, func(data []byte) {
 						(&mhyc.S2CWestExp{}).Message(data)
 					})
 				},
@@ -283,7 +280,7 @@ func main() {
 			for {
 				var message []byte
 				if _, message, err = cli.Conn.ReadMessage(); err != nil {
-					cancel()
+					mhyc.CancelFunc()
 					mhyc.Receive.Close()
 					log.Printf("read: %v", err)
 					return
@@ -291,7 +288,7 @@ func main() {
 				var id uint16
 				err = binary.Read(bytes.NewBuffer(message[2:4]), binary.BigEndian, &id)
 				if err != nil {
-					cancel()
+					mhyc.CancelFunc()
 					mhyc.Receive.Close()
 					log.Printf("recv: %v", err)
 					return

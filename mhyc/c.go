@@ -16,6 +16,9 @@ import (
 	"time"
 )
 
+var CTX context.Context
+var CancelFunc context.CancelFunc
+
 type Client struct {
 	Token  string `json:"token"`
 	UserID int    `json:"user_id"`
@@ -303,6 +306,8 @@ func (c *Connect) send(code int, body []byte) error {
 	defer c.m.Unlock()
 	err = c.Conn.WriteMessage(websocket.BinaryMessage, buf.Bytes())
 	if err != nil && strings.Contains(err.Error(), "broken pipe") {
+		CancelFunc()
+		Receive.Close()
 		_ = c.Close()
 	}
 	return err
