@@ -140,7 +140,7 @@ func BossXYCMGo(ctx context.Context) {
 			Receive.Action(CLI.ChallengeLimitFight)
 			r := &S2CChallengeLimitFight{}
 			if err = Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
-				return 0, RandMillisecond(1, 3)
+				return 0, RandMillisecond(600, 1800)
 			}
 			if r.Tag == 0 {
 				return ms100, 0
