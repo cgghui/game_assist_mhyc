@@ -25,14 +25,13 @@ func JJC(ctx context.Context) {
 		targetId := int32(0)
 		targetRank := int32(0)
 		fv := RoleInfo.Get("FightValue").Int64()
+		rk := RoleInfo.Get("JJCRank").Int64()
 		for _, role := range ls.Roles {
 			ok := false
 			for _, a := range role.A {
-				if a.K == 9999 {
-					if fv > a.V {
-						ok = true
-						break
-					}
+				if a.K == 9999 && fv > a.V {
+					ok = true
+					break
 				}
 			}
 			if !ok {
@@ -44,6 +43,9 @@ func JJC(ctx context.Context) {
 					targetRank = int32(a.V)
 					break
 				}
+			}
+			if rk >= 100 && targetRank <= 3 {
+				continue
 			}
 			break
 		}
