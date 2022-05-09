@@ -44,26 +44,26 @@ func jxsc(ctx context.Context) time.Duration {
 	go func() {
 		_ = CLI.JoinActive(&C2SJoinActive{AId: 5})
 	}()
-	_ = Receive.Wait(&S2CJoinActive{}, s3)
+	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3)
 	defer func() {
 		// 离开
 		go func() {
 			_ = CLI.LeaveActive(&C2SLeaveActive{AId: 5})
 		}()
-		_ = Receive.Wait(&S2CLeaveActive{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
 	}()
 	Receive.Action(CLI.JXSCKeyNum)
 	var info S2CJXSCKeyNum
-	if err := Receive.Wait(&info, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &info, s3); err != nil {
 		return time.Second
 	}
 	Receive.Action(CLI.JXSCMyScore)
 	var my S2CJXSCMyScore
-	if err := Receive.Wait(&my, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &my, s3); err != nil {
 		return time.Second
 	}
 	Receive.Action(CLI.JXSCSkinChange)
-	if err := Receive.Wait(&S2CJXSCSkinChange{}, s3); err != nil {
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJXSCSkinChange{}, s3); err != nil {
 		return time.Second
 	}
 	monster := make(chan *S2CMonsterEnterMap)
@@ -79,7 +79,7 @@ func jxsc(ctx context.Context) time.Duration {
 		go func() {
 			_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
 		}()
-		_ = Receive.Wait(&S2CStartMove{}, s3)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
 		s, r := FightAction(am.Ctx, m.Id, 8)
 		fmt.Println(s, r)
 	}

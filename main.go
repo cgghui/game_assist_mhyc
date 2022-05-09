@@ -251,6 +251,7 @@ func main() {
 				mhyc.BossPersonal,
 				mhyc.BossVIP,
 				mhyc.BossXYCM,
+				mhyc.BossXYCMGo,
 				mhyc.BossMulti,
 				mhyc.BossHome,
 				mhyc.BossXLD,

@@ -70,13 +70,13 @@ func BossVIP(ctx context.Context) {
 	}
 }
 
-// BossXYCM 降妖除魔
+// BossXYCM 降妖除魔-奖励
 func BossXYCM(ctx context.Context) {
 	t := time.NewTimer(ms100)
 	defer t.Stop()
 	f := func() time.Duration {
 		Fight.Lock()
-		am := SetAction(ctx, "BOSS-降妖除魔")
+		am := SetAction(ctx, "BOSS-降妖除魔-奖励")
 		defer func() {
 			am.End()
 			Fight.Unlock()
@@ -102,6 +102,47 @@ func BossXYCM(ctx context.Context) {
 			return ms100, 0
 		})
 		return reTime
+	}
+	for {
+		select {
+		case <-t.C:
+			t.Reset(f())
+		case <-ctx.Done():
+			return
+		}
+	}
+}
+
+// BossXYCMGo 降妖除魔-战斗
+func BossXYCMGo(ctx context.Context) {
+	t := time.NewTimer(ms100)
+	defer t.Stop()
+	f := func() time.Duration {
+		Fight.Lock()
+		am := SetAction(ctx, "BOSS-降妖除魔-战斗")
+		go func() {
+			_ = CLI.JoinActive(&C2SJoinActive{AId: 101})
+		}()
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3)
+		defer func() {
+			go func() {
+				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 101})
+			}()
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
+			am.End()
+			Fight.Unlock()
+		}()
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			Receive.Action(CLI.ChallengeLimitFight)
+			r := &S2CChallengeLimitFight{}
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+				return 0, RandMillisecond(1, 3)
+			}
+			if r.Tag == 0 {
+				return ms100, 0
+			}
+			return 0, RandMillisecond(3000, 3600)
+		})
 	}
 	for {
 		select {
@@ -1729,4 +1770,25 @@ func (x *S2CWorldBossReachGoalGetPrize) ID() uint16 {
 func (x *S2CWorldBossReachGoalGetPrize) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][WorldBossReachGoalGetPrize] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) ChallengeLimitFight() error {
+	body, err := proto.Marshal(&C2SChallengeLimitFight{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][ChallengeLimitFight]")
+	return c.send(24703, body)
+}
+
+func (x *S2CChallengeLimitFight) ID() uint16 {
+	return 24704
+}
+
+// Message S2CChallengeLimitFight 24704
+func (x *S2CChallengeLimitFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][ChallengeLimitFight] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }
