@@ -6,7 +6,6 @@ import (
 	"bytes"
 	"context"
 	"encoding/binary"
-	"fmt"
 	"github.com/cgghui/game_assist_mhyc/mhyc"
 	"github.com/gin-gonic/gin"
 	"log"
@@ -73,11 +72,10 @@ func main() {
 		t := time.NewTicker(time.Second)
 		defer t.Stop()
 		for range t.C {
-			fmt.Printf("\r系统将在%d秒后，重新运行", r)
+			//fmt.Printf("\r系统将在%d秒后，重新运行", r)
 			r--
 			if r == 0 {
 				tm.Reset(time.Millisecond)
-				fmt.Println("")
 				return
 			}
 		}
