@@ -159,7 +159,9 @@ func ListenMessage(ctx context.Context, hm HandleMessage) {
 	for {
 		select {
 		case data := <-channel.Wait():
-			channel.Call.Message(data)
+			if data != nil {
+				channel.Call.Message(data)
+			}
 		case <-ctx.Done():
 			return
 		}
