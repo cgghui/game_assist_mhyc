@@ -10,7 +10,7 @@ import (
 
 const (
 	channelID = "7108"
-	serverID  = "300912"
+	serverID  = "300908"
 	areaID    = "303263"
 	areaID64  = int64(303263)
 	UUID      = "h51645175082697"
