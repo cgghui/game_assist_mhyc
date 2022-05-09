@@ -306,9 +306,9 @@ func (c *Connect) send(code int, body []byte) error {
 	defer c.m.Unlock()
 	err = c.Conn.WriteMessage(websocket.BinaryMessage, buf.Bytes())
 	if err != nil && strings.Contains(err.Error(), "broken pipe") {
+		_ = c.Close()
 		CancelFunc()
 		Receive.Close()
-		_ = c.Close()
 	}
 	return err
 }

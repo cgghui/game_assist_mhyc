@@ -295,6 +295,9 @@ func main() {
 				}
 				if id == 6 {
 					_ = cli.Conn.Close()
+					mhyc.CancelFunc()
+					mhyc.Receive.Close()
+					return
 				}
 				mhyc.Receive.Notify(id, message[4:])
 			}
