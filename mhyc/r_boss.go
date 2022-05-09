@@ -123,7 +123,8 @@ func BossXYCMGo(ctx context.Context) {
 		go func() {
 			_ = CLI.JoinActive(&C2SJoinActive{AId: 101})
 		}()
-		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3)
+		join := &S2CJoinActive{}
+		err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3)
 		defer func() {
 			go func() {
 				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 101})
@@ -132,10 +133,13 @@ func BossXYCMGo(ctx context.Context) {
 			am.End()
 			Fight.Unlock()
 		}()
+		if err != nil || join.Tag != 0 {
+			return RandMillisecond(3000, 3600)
+		}
 		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 			Receive.Action(CLI.ChallengeLimitFight)
 			r := &S2CChallengeLimitFight{}
-			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+			if err = Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
 				return 0, RandMillisecond(1, 3)
 			}
 			if r.Tag == 0 {
@@ -341,7 +345,6 @@ func WorldBoss(ctx context.Context) {
 		if td := worldBossActTime(); td != 0 {
 			return td
 		}
-		StopAction()
 		Fight.Lock()
 		am := SetAction(ctx, "BOSS-世界BOSS")
 		defer func() {
