@@ -24,11 +24,19 @@ func Everyday(ctx context.Context) {
 			go func() {
 				_ = CLI.GetActTask(&C2SGetActTask{ActId: 11002})
 			}()
-			_ = Receive.WaitWithContextOrTimeout(am.Ctx, task, s3)
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, task, s3); err != nil {
+				return RandMillisecond(30, 60)
+			}
 			count := len(task.Task)
 			s := 0
 			i := 0
 			return am.RunAction(ctx, func() (time.Duration, time.Duration) {
+				if i >= count {
+					if s == count {
+						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
+					}
+					return 0, RandMillisecond(300, 600)
+				}
 				go func(tid int32) {
 					_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 6, Multi: 1, TaskId: tid})
 				}(task.Task[i].Id)
@@ -45,12 +53,6 @@ func Everyday(ctx context.Context) {
 					return 0, RandMillisecond(300, 600)
 				}
 				i++
-				if i >= count {
-					if s == count {
-						return 0, TomorrowDuration(RandMillisecond(1800, 3600))
-					}
-					return 0, RandMillisecond(300, 600)
-				}
 				return ms100, 0
 			})
 		}

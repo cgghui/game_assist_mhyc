@@ -382,8 +382,18 @@ func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Dura
 			}
 			tm.Reset(loop)
 		case <-ctx.Done():
+			ActionRunningHistoryList = append(ActionRunningHistoryList, ActionRunHistory{
+				Name:        "主线程结束，等待重新启动",
+				RunningTime: time.Now().Format("2006-01-02 15:04:05"),
+				TakeUpTime:  time.Since(a.Sr),
+			})
 			return RandMillisecond(60, 120)
 		case <-a.Ctx.Done():
+			ActionRunningHistoryList = append(ActionRunningHistoryList, ActionRunHistory{
+				Name:        a.Name + " 任务中止，等待下次执行",
+				RunningTime: time.Now().Format("2006-01-02 15:04:05"),
+				TakeUpTime:  time.Since(a.Sr),
+			})
 			return RandMillisecond(60, 120)
 		}
 	}
