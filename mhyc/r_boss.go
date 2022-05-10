@@ -379,6 +379,9 @@ func WorldBoss(ctx context.Context) {
 		go ListenMessageCall(am.Ctx, &S2CWorldBossEnd{}, func(data []byte) {
 			am.Cancel()
 		})
+		go ListenMessageCall(am.Ctx, &S2CWorldBossCloseScene{}, func(data []byte) {
+			am.Cancel()
+		})
 		// 等待 摇筛子
 		go ListenMessageCall(am.Ctx, &S2CWorldBossBreakShieldInfo{}, func(data []byte) {
 			r := &S2CWorldBossBreakShieldInfo{}
