@@ -411,9 +411,14 @@ func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Dura
 	}
 }
 
-func SetAction(ctx context.Context, name string) *ActionManage {
+func SetAction(ctx context.Context, name string, timeout ...time.Duration) *ActionManage {
 	am := &ActionManage{Name: name, Sr: time.Now()}
-	am.Ctx, am.Cancel = context.WithCancel(ctx)
+	if len(timeout) == 0 {
+		am.Ctx, am.Cancel = context.WithCancel(ctx)
+	} else {
+		am.Ctx, am.Cancel = context.WithTimeout(ctx, timeout[0])
+	}
+
 	for i := range ActionManageList {
 		if ActionManageList[i].Name == "" && ActionManageList[i].Ctx == nil {
 			ActionManageList[i] = am

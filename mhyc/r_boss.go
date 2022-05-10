@@ -346,7 +346,7 @@ func WorldBoss(ctx context.Context) {
 			return td
 		}
 		Fight.Lock()
-		am := SetAction(ctx, "BOSS-世界BOSS")
+		am := SetAction(ctx, "BOSS-世界BOSS", 5*time.Minute)
 		defer func() {
 			am.End()
 			Fight.Unlock()
@@ -376,6 +376,9 @@ func WorldBoss(ctx context.Context) {
 			}
 		})
 		// 结束
+		go ListenMessageCall(am.Ctx, &S2CWorldBossEnd{}, func(data []byte) {
+			am.Cancel()
+		})
 		go ListenMessageCall(am.Ctx, &S2CWorldBossCloseScene{}, func(data []byte) {
 			am.Cancel()
 		})
