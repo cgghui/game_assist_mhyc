@@ -914,13 +914,15 @@ func BossHLTJ(ctx context.Context) {
 			}
 			PveChan := make(chan *S2CStartFightHLPVE)
 			go func() {
-				go ListenMessageCallEx(&S2CStartFightHLPVE{}, func(data []byte) bool {
-					defer close(PveChan)
-					r := &S2CStartFightHLPVE{}
-					r.Message(data)
+				defer close(PveChan)
+				r := &S2CStartFightHLPVE{}
+				if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
+					PveChan <- nil
+				} else {
 					PveChan <- r
-					return false
-				})
+				}
+			}()
+			go func() {
 				_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
 			}()
 			r := &S2CBattlefieldReport{}
@@ -928,6 +930,9 @@ func BossHLTJ(ctx context.Context) {
 				return 0, RandMillisecond(1, 3)
 			}
 			p := <-PveChan
+			if p == nil {
+				return 0, RandMillisecond(3, 6)
+			}
 			if p.Tag == 56713 { // 复活中
 				ttm := time.Unix(RoleInfo.Get("ReviveTime").Int64(), 0).Local()
 				cur := time.Now()
@@ -962,8 +967,8 @@ func BossHLTJ(ctx context.Context) {
 
 func fightActionBDJJ(ctx context.Context, act func() error) (*S2CBangDanJJFight, *S2CBattlefieldReport) {
 	c := make(chan *S2CBangDanJJFight)
-	defer close(c)
 	go func() {
+		defer close(c)
 		sf := &S2CBangDanJJFight{}
 		if err := Receive.WaitWithContextOrTimeout(ctx, sf, s3); err != nil {
 			c <- nil
