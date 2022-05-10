@@ -269,6 +269,18 @@ func (x *S2CUpdateAmount) Message(data []byte) {
 
 ////////////////////////////////////////////////////////////
 
+func (x *S2CPlayerMove) ID() uint16 {
+	return 54
+}
+
+func (x *S2CPlayerMove) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][PlayerMove] user_id=%v p=%v", x.UserId, x.P)
+	return
+}
+
+////////////////////////////////////////////////////////////
+
 var RoleInfo = &roleInfo{
 	s: &sync.Map{},
 }

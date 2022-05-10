@@ -81,6 +81,25 @@ func main() {
 		}
 	}
 
+	listenAction := []mhyc.HandleMessage{
+		&mhyc.S2CBagChange{},
+		&mhyc.ItemFly{},
+		&mhyc.S2CBattlefieldReport{},
+		&mhyc.S2CTeamInstanceGetReport{},
+		&mhyc.S2CServerTime{},
+		&mhyc.S2CRedState{},
+		&mhyc.S2CStartFight{},
+		&mhyc.S2CNotice{},
+		&mhyc.S2CPlayerEnterMap{},
+		&mhyc.S2CPlayerLeaveMap{},
+		&mhyc.S2CChangeMap{},
+		&mhyc.S2CMonsterEnterMap{},
+		&mhyc.S2CUpdateAmount{},
+		&mhyc.S2CWestExp{},
+		&mhyc.S2CHomeBossInfo{},
+		&mhyc.S2CPlayerMove{},
+	}
+
 	for range tm.C {
 
 		mhyc.Init()
@@ -127,10 +146,10 @@ func main() {
 		mhyc.CLI = cli
 
 		thread(func() {
+			mhyc.ListenMessage(mhyc.CTX, &mhyc.Pong{})
+		})
 
-			thread(func() {
-				mhyc.ListenMessage(mhyc.CTX, &mhyc.Pong{})
-			})
+		thread(func() {
 
 			// role info
 			info := mhyc.Receive.CreateChannel(&mhyc.S2CRoleInfo{})
@@ -166,73 +185,83 @@ func main() {
 			//
 			thread(
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CBagChange{}, func(data []byte) {
-						(&mhyc.S2CBagChange{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[0], func(data []byte) {
+						listenAction[0].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.ItemFly{}, func(data []byte) {
-						(&mhyc.ItemFly{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[1], func(data []byte) {
+						listenAction[1].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CBattlefieldReport{}, func(data []byte) {
-						(&mhyc.S2CBattlefieldReport{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[2], func(data []byte) {
+						listenAction[2].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CTeamInstanceGetReport{}, func(data []byte) {
-						(&mhyc.S2CTeamInstanceGetReport{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[3], func(data []byte) {
+						listenAction[3].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CServerTime{}, func(data []byte) {
-						(&mhyc.S2CServerTime{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[4], func(data []byte) {
+						listenAction[4].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CRedState{}, func(data []byte) {
-						(&mhyc.S2CRedState{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[5], func(data []byte) {
+						listenAction[5].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CStartFight{}, func(data []byte) {
-						(&mhyc.S2CStartFight{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[6], func(data []byte) {
+						listenAction[6].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CNotice{}, func(data []byte) {
-						(&mhyc.S2CNotice{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[7], func(data []byte) {
+						listenAction[7].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CPlayerEnterMap{}, func(data []byte) {
-						(&mhyc.S2CPlayerEnterMap{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[8], func(data []byte) {
+						listenAction[8].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CPlayerLeaveMap{}, func(data []byte) {
-						(&mhyc.S2CPlayerLeaveMap{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[9], func(data []byte) {
+						listenAction[9].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CChangeMap{}, func(data []byte) {
-						(&mhyc.S2CChangeMap{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[10], func(data []byte) {
+						listenAction[10].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CMonsterEnterMap{}, func(data []byte) {
-						(&mhyc.S2CMonsterEnterMap{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[11], func(data []byte) {
+						listenAction[11].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CUpdateAmount{}, func(data []byte) {
-						(&mhyc.S2CUpdateAmount{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[12], func(data []byte) {
+						listenAction[12].Message(data)
 					})
 				},
 				func() {
-					mhyc.ListenMessageCall(mhyc.CTX, &mhyc.S2CWestExp{}, func(data []byte) {
-						(&mhyc.S2CWestExp{}).Message(data)
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[13], func(data []byte) {
+						listenAction[13].Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[14], func(data []byte) {
+						listenAction[14].Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[15], func(data []byte) {
+						listenAction[15].Message(data)
 					})
 				},
 			)

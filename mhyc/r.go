@@ -73,11 +73,6 @@ func (x *S2CCheckFight) Message(data []byte) {
 	log.Printf("[S][CheckFight] tag=%v tag_msg=%s next_time=%v", x.Tag, GetTagMsg(x.Tag), x.NextTime)
 }
 
-func (x *S2CPlayerMove) Message(data []byte) {
-	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][PlayerMove] userid=%v p=%v", x.UserId, x.P)
-}
-
 func (x *S2CAutoMeltGain) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][AutoMeltGain] items=%v", x.Items)
