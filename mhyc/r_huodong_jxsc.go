@@ -14,15 +14,15 @@ func actJXSCTime() time.Duration {
 	m := cur.Month()
 	d := cur.Day()
 	actStartTime := []time.Time{
-		time.Date(y, m, d, 11, 00, 0, 0, time.Local).Add(s3),
-		time.Date(y, m, d, 15, 00, 0, 0, time.Local).Add(s3),
-		time.Date(y, m, d, 19, 00, 0, 0, time.Local).Add(s3),
+		time.Date(y, m, d, 11, 00, 0, 0, time.Local).Add(time.Second),
+		time.Date(y, m, d, 15, 00, 0, 0, time.Local).Add(time.Second),
+		time.Date(y, m, d, 19, 00, 0, 0, time.Local).Add(time.Second),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {
 			return ast.Sub(cur)
 		}
-		if cur.Before(ast.Add(10 * time.Minute)) {
+		if cur.Before(ast.Add(3 * time.Minute)) {
 			return 0
 		}
 	}
