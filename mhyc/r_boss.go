@@ -346,39 +346,23 @@ func WorldBoss(ctx context.Context) {
 			return td
 		}
 		Fight.Lock()
-		am := SetAction(ctx, "BOSS-世界BOSS", 5*time.Minute)
+		am := SetAction(ctx, "BOSS-世界BOSS", 3*time.Minute)
 		defer func() {
 			am.End()
 			Fight.Unlock()
 		}()
-		Receive.Action(CLI.BossGlobalJoinActive)
-		join := &S2CJoinActive{}
-		if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
-			return ms100
-		}
-		if join.Tag != 0 {
-			return time.Second
-		}
-		// 离开
-		defer func() {
-			go func() {
-				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 2})
-			}()
-			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
-		}()
-		//
-		monster := make(chan *S2CMonsterEnterMap, 10)
+		// 进入前提前准备
+		monster := make(chan *S2CMonsterEnterMap)
 		go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
 			defer close(monster)
 			var enter S2CMonsterEnterMap
 			if err := proto.Unmarshal(data, &enter); err == nil {
 				monster <- &enter
+			} else {
+				monster <- nil
 			}
 		})
 		// 结束
-		go ListenMessageCall(am.Ctx, &S2CWorldBossEnd{}, func(data []byte) {
-			am.Cancel()
-		})
 		go ListenMessageCall(am.Ctx, &S2CWorldBossCloseScene{}, func(data []byte) {
 			am.Cancel()
 		})
@@ -395,19 +379,36 @@ func WorldBoss(ctx context.Context) {
 				}()
 			}
 		})
-		for boss := range monster {
-			am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
-				s, r := FightAction(am.Ctx, boss.Id, 8)
-				if s == nil || r == nil {
-					return ms100, 0
-				}
-				if r.Win == 1 {
-					return 0, time.Second
-				}
-				return ms100, 0
-			})
-			break
+		// 进入世界BOSS
+		Receive.Action(CLI.BossGlobalJoinActive)
+		join := &S2CJoinActive{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
+			return ms100
 		}
+		if join.Tag != 0 {
+			return time.Second
+		}
+		// 离开
+		defer func() {
+			go func() {
+				_ = CLI.LeaveActive(&C2SLeaveActive{AId: 2})
+			}()
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveActive{}, s3)
+		}()
+		boss := <-monster
+		if boss == nil {
+			return ms300
+		}
+		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			s, r := FightAction(am.Ctx, boss.Id, 8)
+			if s == nil || r == nil {
+				return ms100, 0
+			}
+			if r.Win == 1 {
+				return 0, time.Second
+			}
+			return ms100, 0
+		})
 		i := int32(1)
 		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 			go func() {
@@ -415,10 +416,10 @@ func WorldBoss(ctx context.Context) {
 			}()
 			ret := &S2CWorldBossReachGoalGetPrize{}
 			if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3); err != nil {
-				return 0, time.Second
+				return 0, ms500
 			}
 			if ret.Tag != 0 {
-				return 0, time.Second
+				return 0, ms500
 			}
 			return ms100, 0
 		})

@@ -112,6 +112,7 @@ func (u *userBag) Get(id int32) *ItemData {
 const ts0 = 0
 const ms10 = 10 * time.Millisecond
 const ms100 = 100 * time.Millisecond
+const ms300 = 300 * time.Millisecond
 const ms500 = 500 * time.Millisecond
 const s3 = 3 * time.Second
 const s6 = 6 * time.Second
