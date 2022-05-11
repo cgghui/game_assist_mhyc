@@ -1,7 +1,5 @@
 package main
 
-// 仙宗 仙殿 仙宗悬赏
-
 import (
 	"bytes"
 	"context"
@@ -16,10 +14,6 @@ import (
 	"sync"
 	"time"
 )
-
-type Thread struct {
-	f func(ctx context.Context)
-}
 
 func main() {
 
@@ -293,13 +287,14 @@ func main() {
 				mhyc.FuBen,
 				mhyc.HuoDongSBHS,
 				mhyc.HuoDongBusiness,
-				mhyc.JJC,
-				mhyc.WZZB,
+				mhyc.HuoDongSSZN,
 				mhyc.HuoDongXS,
 				mhyc.HuoDongZJLDZ,
+				mhyc.JJC,
+				mhyc.WZZB,
 				mhyc.Buy,
+				mhyc.JXSC, //JXSC_Join_Times
 				//mhyc.TJZC,
-				//mhyc.JXSC,
 			)
 			//go mhyc.ShenYu(ctx)
 		})

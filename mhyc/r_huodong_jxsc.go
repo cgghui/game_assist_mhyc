@@ -2,7 +2,6 @@ package mhyc
 
 import (
 	"context"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"time"
@@ -35,11 +34,22 @@ func jxsc(ctx context.Context) time.Duration {
 		return td
 	}
 	Fight.Lock()
-	am := SetAction(ctx, "HuoDongJXSC") // @TODO 代码未使用 am.RunAction 实现
+	am := SetAction(ctx, "HuoDongJXSC", 20*time.Minute)
 	defer func() {
 		am.End()
 		Fight.Unlock()
 	}()
+	//
+	monster := make(chan *S2CMonsterEnterMap)
+	go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+		defer close(monster)
+		enter := &S2CMonsterEnterMap{}
+		enter.Message(data)
+		monster <- enter
+	})
+	go ListenMessageCall(am.Ctx, &S2CJXSCLeaveScene{}, func(_ []byte) {
+		am.End()
+	})
 	// 进入活动
 	go func() {
 		_ = CLI.JoinActive(&C2SJoinActive{AId: 5})
@@ -66,24 +76,25 @@ func jxsc(ctx context.Context) time.Duration {
 	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJXSCSkinChange{}, s3); err != nil {
 		return time.Second
 	}
-	monster := make(chan *S2CMonsterEnterMap)
-	cx, cancel := context.WithTimeout(ctx, 13*time.Minute)
-	defer cancel()
-	go ListenMessageCall(cx, &S2CMonsterEnterMap{}, func(data []byte) {
-		enter := &S2CMonsterEnterMap{}
-		enter.Message(data)
-		monster <- enter
-	})
 	// TODO: 此地观查
+	tm := time.NewTimer(time.Hour)
+	defer tm.Stop()
 	for m := range monster {
-		go func() {
-			_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
-		}()
-		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
-		s, r := FightAction(am.Ctx, m.Id, 8)
-		fmt.Println(s, r)
+		if m == nil {
+			break
+		}
+		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			go func() {
+				_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
+			}()
+			//_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
+			_, _ = FightAction(am.Ctx, m.Id, 8)
+			return 0, 0
+		})
+		tm.Reset(RandMillisecond(0, 3))
+		<-tm.C
 	}
-	return ms500
+	return RandMillisecond(1, 3)
 }
 
 // JXSC 跨服 极限生存
@@ -164,4 +175,25 @@ func (x *S2CJXSCSkinChange) ID() uint16 {
 func (x *S2CJXSCSkinChange) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][JXSCSkinChange] tag=%v id=%v", x.Tag, x.Id)
+}
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) JXSCLeaveScene() error {
+	body, err := proto.Marshal(&C2SJXSCLeaveScene{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][JXSCLeaveScene]")
+	return c.send(23209, body)
+}
+
+func (x *S2CJXSCLeaveScene) ID() uint16 {
+	return 23210
+}
+
+// Message S2CJXSCLeaveScene Code:23210
+func (x *S2CJXSCLeaveScene) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][JXSCLeaveScene] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

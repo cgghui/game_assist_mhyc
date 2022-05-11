@@ -37,9 +37,32 @@ func HuoDongSSZN(ctx context.Context) {
 		if td := actSbhsTime(); td != 0 {
 			return td
 		}
+		Fight.Lock()
+		am := SetAction(ctx, "本服灵兽园-神兽之怒")
+		defer func() {
+			am.End()
+			Fight.Unlock()
+		}()
+		// 进入
+		Receive.Action(CLI.EnterAnimalPark)
+		ret := &S2CEnterAnimalPark{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s10); err != nil {
+			return RandMillisecond(6, 12)
+		}
+		defer func() {
+			Receive.Action(CLI.LeaveAnimalPark)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CLeaveAnimalPark{}, s3)
+		}()
+		go func() {
+			_ = CLI.StartMove(&C2SStartMove{P: []int32{44, 41}})
+		}()
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3); err != nil {
+			return RandMillisecond(0, 1)
+		}
 		Receive.Action(CLI.FightBoss)
-		_ = Receive.Wait(&S2CFightBoss{}, s3)
-
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFightBoss{}, s3); err != nil {
+			return RandMillisecond(0, 1)
+		}
 		return time.Hour
 	}
 	for {

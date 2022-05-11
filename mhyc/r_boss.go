@@ -364,7 +364,7 @@ func WorldBoss(ctx context.Context) {
 		})
 		// 结束
 		go ListenMessageCall(am.Ctx, &S2CWorldBossCloseScene{}, func(data []byte) {
-			am.Cancel()
+			am.End()
 		})
 		// 等待 摇筛子
 		go ListenMessageCall(am.Ctx, &S2CWorldBossBreakShieldInfo{}, func(data []byte) {
@@ -476,7 +476,7 @@ func BossHome(ctx context.Context) {
 			}
 			return TomorrowDuration(RandMillisecond(1800, 3600))
 		}
-		<-time.After(time.Second)
+		<-time.After(2000 * time.Millisecond)
 		// 地图内无怪时
 		// 尝试等待所有怪冷却后再战
 		if len(monster) == 0 {
@@ -650,7 +650,7 @@ func collectSC(ctx context.Context, field string, xsdID, bossID int32) time.Dura
 			cur := time.Now()
 			brt := time.Unix(boss.ReliveTimestamp, 0).Local()
 			if cur.Before(brt) {
-				return brt.Add(time.Second).Sub(cur)
+				return brt.Add(ms100).Sub(cur)
 			}
 			break
 		}
@@ -916,24 +916,22 @@ func BossHLTJ(ctx context.Context) {
 				i++
 				return ms500, 0
 			}
-			PveChan := make(chan *S2CStartFightHLPVE)
+			retChan := make(chan *S2CStartFightHLPVE)
 			go func() {
-				defer close(PveChan)
+				defer close(retChan)
 				r := &S2CStartFightHLPVE{}
 				if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
-					PveChan <- nil
+					retChan <- nil
 				} else {
-					PveChan <- r
+					retChan <- r
 				}
 			}()
 			go func() {
 				_ = CLI.StartFightHLPVE(&C2SStartFightHLPVE{InsId: boss.InsId, BossId: int64(boss.Id)})
 			}()
 			r := &S2CBattlefieldReport{}
-			if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err != nil {
-				return 0, RandMillisecond(1, 3)
-			}
-			p := <-PveChan
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, r, s3)
+			p := <-retChan
 			if p == nil {
 				return 0, RandMillisecond(3, 6)
 			}
