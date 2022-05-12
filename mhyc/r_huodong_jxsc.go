@@ -4,6 +4,7 @@ import (
 	"context"
 	"google.golang.org/protobuf/proto"
 	"log"
+	"sync"
 	"time"
 )
 
@@ -29,10 +30,24 @@ func actJXSCTime() time.Duration {
 	return TomorrowDuration(3 * time.Hour)
 }
 
-func monsterIsLeave(ids *[]int64, id int64) bool {
-	for _, _id := range *ids {
+var monsterIDS = make([]int64, 0)
+var monsterMUX = &sync.Mutex{}
+
+func monsterIsLeave(id int64) bool {
+	for _, _id := range monsterIDS {
 		if _id == id {
 			return true
+		}
+	}
+	return false
+}
+
+func monsterLeaveRemove(id int64) bool {
+	monsterMUX.Lock()
+	defer monsterMUX.Unlock()
+	for i, _id := range monsterIDS {
+		if _id == id {
+			monsterIDS = append(monsterIDS[:i], monsterIDS[i+1:]...)
 		}
 	}
 	return false
@@ -49,21 +64,25 @@ func jxsc(ctx context.Context) time.Duration {
 		Fight.Unlock()
 	}()
 	//
-	monster := make(chan *S2CMonsterEnterMap)
+	monster := make(chan *S2CMonsterEnterMap, 100)
 	go func() {
 		defer close(monster)
 		ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
 			enter := &S2CMonsterEnterMap{}
 			enter.Message(data)
+			monsterLeaveRemove(enter.Id)
 			monster <- enter
 		})
 	}()
-	monsterLeave := make([]int64, 0)
+	//
+	monsterIDS = make([]int64, 0)
 	go func() {
 		ListenMessageCall(am.Ctx, &S2CMonsterLeaveMap{}, func(data []byte) {
+			monsterMUX.Lock()
+			defer monsterMUX.Unlock()
 			leave := &S2CMonsterLeaveMap{}
 			leave.Message(data)
-			monsterLeave = append(monsterLeave, leave.Id)
+			monsterIDS = append(monsterIDS, leave.Id)
 		})
 	}()
 	go ListenMessage(am.Ctx, &S2CJXSCMyScore{})
@@ -103,7 +122,7 @@ func jxsc(ctx context.Context) time.Duration {
 		if m == nil {
 			break
 		}
-		if monsterIsLeave(&monsterLeave, m.Id) {
+		if monsterIsLeave(m.Id) {
 			continue
 		}
 		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
