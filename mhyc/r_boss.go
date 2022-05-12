@@ -208,13 +208,15 @@ func BossMulti(ctx context.Context) {
 			}
 		}
 		MonsterChan := make(chan *S2CMonsterEnterMap)
-		go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+		go func() {
 			defer close(MonsterChan)
-			var enter S2CMonsterEnterMap
-			if err := proto.Unmarshal(data, &enter); err == nil {
-				MonsterChan <- &enter
-			}
-		})
+			ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+				var enter S2CMonsterEnterMap
+				if err := proto.Unmarshal(data, &enter); err == nil {
+					MonsterChan <- &enter
+				}
+			})
+		}()
 		go func() {
 			_ = CLI.MultiBossJoinScene(&C2SMultiBossJoinScene{Id: BossMultiID})
 		}()
@@ -353,15 +355,17 @@ func WorldBoss(ctx context.Context) {
 		}()
 		// 进入前提前准备
 		monster := make(chan *S2CMonsterEnterMap)
-		go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+		go func() {
 			defer close(monster)
-			var enter S2CMonsterEnterMap
-			if err := proto.Unmarshal(data, &enter); err == nil {
-				monster <- &enter
-			} else {
-				monster <- nil
-			}
-		})
+			ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+				var enter S2CMonsterEnterMap
+				if err := proto.Unmarshal(data, &enter); err == nil {
+					monster <- &enter
+				} else {
+					monster <- nil
+				}
+			})
+		}()
 		// 结束
 		go ListenMessageCall(am.Ctx, &S2CWorldBossCloseScene{}, func(data []byte) {
 			am.End()

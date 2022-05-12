@@ -94,14 +94,14 @@ func yiJi(ctx context.Context) time.Duration {
 		}()
 		_ = CLI.YiJiJoinScene(id)
 	}()
-	if mc == nil {
-		return RandMillisecond(0, 3)
-	}
 	var join S2CYiJiJoinScene
 	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &join, s3); err != nil {
 		return RandMillisecond(0, 3)
 	}
 	monster := <-mc
+	if monster == nil {
+		return RandMillisecond(0, 3)
+	}
 	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 		s, r := FightAction(am.Ctx, monster.Id, 8)
 		if s == nil {

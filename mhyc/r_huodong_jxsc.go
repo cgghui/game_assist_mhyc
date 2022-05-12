@@ -41,12 +41,14 @@ func jxsc(ctx context.Context) time.Duration {
 	}()
 	//
 	monster := make(chan *S2CMonsterEnterMap)
-	go ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+	go func() {
 		defer close(monster)
-		enter := &S2CMonsterEnterMap{}
-		enter.Message(data)
-		monster <- enter
-	})
+		ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
+			enter := &S2CMonsterEnterMap{}
+			enter.Message(data)
+			monster <- enter
+		})
+	}()
 	go ListenMessageCall(am.Ctx, &S2CJXSCLeaveScene{}, func(_ []byte) {
 		am.End()
 	})
