@@ -181,7 +181,19 @@ func (x *S2CMonsterEnterMap) ID() uint16 {
 // Message S2CMonsterEnterMap Code:59
 func (x *S2CMonsterEnterMap) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][MonsterEnterMap] id=%v", x.Id)
+	log.Printf("[S][MonsterEnterMap] id=%v x=%v y=%v", x.Id, x.Y, x.Y)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CMonsterLeaveMap) ID() uint16 {
+	return 60
+}
+
+// Message S2CMonsterEnterMap Code:60
+func (x *S2CMonsterLeaveMap) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][MonsterLeaveMap] id=%v", x.Id)
 }
 
 ////////////////////////////////////////////////////////////

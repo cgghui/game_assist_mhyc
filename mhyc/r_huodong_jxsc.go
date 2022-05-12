@@ -29,6 +29,15 @@ func actJXSCTime() time.Duration {
 	return TomorrowDuration(3 * time.Hour)
 }
 
+func monsterIsLeave(ids *[]int64, id int64) bool {
+	for _, _id := range *ids {
+		if _id == id {
+			return true
+		}
+	}
+	return false
+}
+
 func jxsc(ctx context.Context) time.Duration {
 	if td := actJXSCTime(); td != 0 {
 		return td
@@ -49,6 +58,15 @@ func jxsc(ctx context.Context) time.Duration {
 			monster <- enter
 		})
 	}()
+	monsterLeave := make([]int64, 0)
+	go func() {
+		ListenMessageCall(am.Ctx, &S2CMonsterLeaveMap{}, func(data []byte) {
+			leave := &S2CMonsterLeaveMap{}
+			leave.Message(data)
+			monsterLeave = append(monsterLeave, leave.Id)
+		})
+	}()
+	go ListenMessage(am.Ctx, &S2CJXSCMyScore{})
 	go ListenMessageCall(am.Ctx, &S2CJXSCLeaveScene{}, func(_ []byte) {
 		am.End()
 	})
@@ -85,10 +103,15 @@ func jxsc(ctx context.Context) time.Duration {
 		if m == nil {
 			break
 		}
+		if monsterIsLeave(&monsterLeave, m.Id) {
+			continue
+		}
 		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 			go func() {
 				_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
 			}()
+			tm.Reset(ms50)
+			<-tm.C
 			//_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
 			_, _ = FightAction(am.Ctx, m.Id, 8)
 			return 0, 0

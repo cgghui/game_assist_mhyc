@@ -78,15 +78,6 @@ func (x *S2CAutoMeltGain) Message(data []byte) {
 	log.Printf("[S][AutoMeltGain] items=%v", x.Items)
 }
 
-func (x *S2CMonsterLeaveMap) Message(data []byte) {
-	if err := proto.Unmarshal(data, x); err != nil {
-		log.Printf("[60][MonsterLeaveMap] %v", err)
-		return
-	}
-	log.Printf("[60][MonsterLeaveMap] %v", x)
-	return
-}
-
 func (x *S2CWeddingInsReport) Message(data []byte) {
 	if err := proto.Unmarshal(data, x); err != nil {
 		log.Printf("recv: [WeddingInsReport] %v", err)
