@@ -389,6 +389,9 @@ func WorldBoss(ctx context.Context) {
 		if err := Receive.WaitWithContextOrTimeout(am.Ctx, join, s3); err != nil {
 			return ms100
 		}
+		if join.Tag == 23002 {
+			return time.Minute
+		}
 		if join.Tag != 0 {
 			return time.Second
 		}
