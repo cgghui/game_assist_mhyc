@@ -348,7 +348,7 @@ func WorldBoss(ctx context.Context) {
 			return td
 		}
 		Fight.Lock()
-		am := SetAction(ctx, "BOSS-世界BOSS", 3*time.Minute)
+		am := SetAction(ctx, "BOSS-世界BOSS", 2*time.Minute)
 		defer func() {
 			am.End()
 			Fight.Unlock()

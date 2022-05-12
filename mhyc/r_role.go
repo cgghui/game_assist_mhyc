@@ -391,7 +391,6 @@ func (a *ActionManage) End() {
 	})
 	a.Cancel()
 	a.Name = ""
-	a.Ctx = nil
 }
 
 func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Duration, next time.Duration)) time.Duration {
@@ -414,7 +413,7 @@ func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Dura
 			return RandMillisecond(60, 120)
 		case <-a.Ctx.Done():
 			ActionRunningHistoryList = append(ActionRunningHistoryList, ActionRunHistory{
-				Name:        a.Name + " 任务中止，等待下次执行",
+				Name:        a.Name + " 任务中止",
 				RunningTime: time.Now().Format("2006-01-02 15:04:05"),
 				TakeUpTime:  time.Since(a.Sr),
 			})
@@ -432,7 +431,7 @@ func SetAction(ctx context.Context, name string, timeout ...time.Duration) *Acti
 	}
 
 	for i := range ActionManageList {
-		if ActionManageList[i].Name == "" && ActionManageList[i].Ctx == nil {
+		if ActionManageList[i].Name == "" {
 			ActionManageList[i] = am
 			return am
 		}
