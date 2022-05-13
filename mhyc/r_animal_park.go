@@ -3,6 +3,7 @@ package mhyc
 import (
 	"context"
 	"google.golang.org/protobuf/proto"
+	"io/ioutil"
 	"log"
 	"time"
 )
@@ -76,10 +77,15 @@ func EnterAnimalPark(ctx context.Context) {
 			n += items[ItemPet502].N
 		}
 		if n < 200 {
+			date := time.Now().Format("2006-01-02")
+			if b, err := ioutil.ReadFile("./AnimalParkSearch10.txt"); err == nil && date == string(b) {
+				return RandMillisecond(1800, 3600)
+			}
 			if item := UserBag.Get(ItemPet500); item != nil && item.N >= 10 {
 				c := 0
 				am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 					if c >= 10 {
+						_ = ioutil.WriteFile("./AnimalParkSearch10.txt", []byte(date), 0666)
 						return 0, 0
 					}
 					// s
