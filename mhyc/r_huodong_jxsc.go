@@ -33,7 +33,7 @@ func actJXSCTime() time.Duration {
 var monsterIDS = make([]int64, 0)
 var monsterMUX = &sync.Mutex{}
 
-func monsterIsLeave(id int64) bool {
+func monsterLeaveIn(id int64) bool {
 	for _, _id := range monsterIDS {
 		if _id == id {
 			return true
@@ -42,20 +42,36 @@ func monsterIsLeave(id int64) bool {
 	return false
 }
 
-func monsterLeaveRemove(id int64) bool {
+func monsterLeaveAdd(id int64) {
 	monsterMUX.Lock()
 	defer monsterMUX.Unlock()
-	for i, _id := range monsterIDS {
-		if _id == id {
-			monsterIDS = append(monsterIDS[:i], monsterIDS[i+1:]...)
+	monsterIDS = append(monsterIDS, id)
+}
+
+func monsterLeaveDel(id int64) bool {
+	monsterMUX.Lock()
+	defer monsterMUX.Unlock()
+	add := false
+	for {
+		add = false
+		for i, _id := range monsterIDS {
+			if _id == id {
+				add = true
+				monsterIDS = append(monsterIDS[:i], monsterIDS[i+1:]...)
+			}
+		}
+		if add == false {
+			return true
 		}
 	}
-	return false
 }
 
 func jxsc(ctx context.Context) time.Duration {
 	if td := actJXSCTime(); td != 0 {
 		return td
+	}
+	if RoleInfo.Get("JXSC_Join_Times").Int64() >= 4 {
+		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	Fight.Lock()
 	am := SetAction(ctx, "HuoDongJXSC", 20*time.Minute)
@@ -70,7 +86,7 @@ func jxsc(ctx context.Context) time.Duration {
 		ListenMessageCall(am.Ctx, &S2CMonsterEnterMap{}, func(data []byte) {
 			enter := &S2CMonsterEnterMap{}
 			enter.Message(data)
-			monsterLeaveRemove(enter.Id)
+			monsterLeaveDel(enter.Id)
 			monster <- enter
 		})
 	}()
@@ -78,11 +94,9 @@ func jxsc(ctx context.Context) time.Duration {
 	monsterIDS = make([]int64, 0)
 	go func() {
 		ListenMessageCall(am.Ctx, &S2CMonsterLeaveMap{}, func(data []byte) {
-			monsterMUX.Lock()
-			defer monsterMUX.Unlock()
 			leave := &S2CMonsterLeaveMap{}
 			leave.Message(data)
-			monsterIDS = append(monsterIDS, leave.Id)
+			monsterLeaveAdd(leave.Id)
 		})
 	}()
 	go ListenMessage(am.Ctx, &S2CJXSCMyScore{})
@@ -122,7 +136,8 @@ func jxsc(ctx context.Context) time.Duration {
 		if m == nil {
 			break
 		}
-		if monsterIsLeave(m.Id) {
+		if monsterLeaveIn(m.Id) {
+			log.Println("[S][monster] 怪兽离开 id=", m.Id, " x=", m.X, " y=", m.Y)
 			continue
 		}
 		am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {

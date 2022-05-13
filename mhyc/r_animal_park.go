@@ -76,6 +76,31 @@ func EnterAnimalPark(ctx context.Context) {
 			n += items[ItemPet502].N
 		}
 		if n < 200 {
+			if item := UserBag.Get(ItemPet500); item != nil && item.N >= 10 {
+				c := 0
+				am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+					if c >= 10 {
+						return 0, 0
+					}
+					// s
+					go func() {
+						_ = CLI.SearchPet(&C2SSearchPet{ItemId: ItemPet500})
+					}()
+					r := &S2CSearchPet{}
+					if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err == nil && r.Pet != nil {
+						go func(r *S2CSearchPet) {
+							_ = CLI.AnimalParkGO(&C2SAnimalParkGO{
+								PetId: r.Pet.Id,
+								X:     r.Pet.PointX,
+								Y:     r.Pet.PointY,
+							})
+						}(r)
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CAnimalParkGO{}, s3)
+					}
+					c++
+					return ms100, 0
+				})
+			}
 			return RandMillisecond(1800, 3600)
 		}
 		// 检测是否需要使用buff
