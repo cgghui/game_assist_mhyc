@@ -18,14 +18,22 @@ func Buy(ctx context.Context) {
 			am.End()
 			Fight.Unlock()
 		}()
+		//
 		go func() {
 			_ = CLI.ShopBuy(&C2SShopBuy{GoodsId: 616, Num: 5})
 		}()
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3)
+		//
 		go func() {
 			_ = CLI.ShopBuy(&C2SShopBuy{GoodsId: 617, Num: 1})
 		}()
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3)
+		//
+		go func() {
+			_ = CLI.ShopBuy(&C2SShopBuy{GoodsId: 8001, Num: 1})
+		}()
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CShopBuy{}, s3)
+		//
 		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	for {
