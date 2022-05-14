@@ -13,7 +13,7 @@ func actXSTime() time.Duration {
 	if cur.Before(ast) {
 		return ast.Sub(cur)
 	}
-	if cur.Before(ast.Add(240 * time.Minute)) {
+	if cur.Before(ast.Add(360 * time.Minute)) {
 		return 0
 	}
 	return TomorrowDuration(43203 * time.Second)
@@ -54,7 +54,7 @@ func HuoDongXS(ctx context.Context) {
 		}()
 		//
 		ui := RoleInfo.Get("UserId").Int64()
-		fv := RoleInfo.Get("FightValue").Int64()
+		fv := RoleInfo.Get("FightValue").Int64() + 100000000
 		//
 		currentI := int32(0)
 		currentP := int32(0)
