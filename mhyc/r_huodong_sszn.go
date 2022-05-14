@@ -14,9 +14,9 @@ func actSsznTime() time.Duration {
 	m := cur.Month()
 	d := cur.Day()
 	actStartTime := []time.Time{
-		time.Date(y, m, d, 11, 50, 0, 0, time.Local).Add(time.Second),
-		time.Date(y, m, d, 13, 50, 0, 0, time.Local).Add(time.Second),
-		time.Date(y, m, d, 17, 50, 0, 0, time.Local).Add(time.Second),
+		time.Date(y, m, d, 11, 50, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 13, 50, 0, 0, time.Local).Add(ms500),
+		time.Date(y, m, d, 17, 50, 0, 0, time.Local).Add(ms500),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {
@@ -34,7 +34,7 @@ func HuoDongSSZN(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	defer t1.Stop()
 	f1 := func() time.Duration {
-		if td := actSbhsTime(); td != 0 {
+		if td := actSsznTime(); td != 0 {
 			return td
 		}
 		Fight.Lock()
@@ -47,7 +47,7 @@ func HuoDongSSZN(ctx context.Context) {
 		Receive.Action(CLI.EnterAnimalPark)
 		ret := &S2CEnterAnimalPark{}
 		if err := Receive.WaitWithContextOrTimeout(am.Ctx, ret, s10); err != nil {
-			return RandMillisecond(6, 12)
+			return time.Second
 		}
 		defer func() {
 			Receive.Action(CLI.LeaveAnimalPark)
