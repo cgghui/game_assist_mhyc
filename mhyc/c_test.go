@@ -49,11 +49,11 @@ func TestS(t *testing.T) {
 }
 
 func TestDeBinaryCode(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("") //EWFnIQiluQI=
+	code, err := base64.StdEncoding.DecodeString("APtjCAgIEj8KNwjz4OMZEg7igJ/lsI/prZTlpbPYqhjEGSIG5bm96YO9KJjn6g4wqLXrDjjWmofwA0oFUzMyNjMQASABMAUSNAosCMm96hkSBuaVhea4ihjGGSID6b6ZKJro6g4wgrbrDji8g5qcAkoFUzMyNjMQASABMBY=") //EWFnIQiluQI=
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &S2CChallengeLimitFight{}
+	var ma = &S2CGetEntrustWallList{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}
@@ -62,11 +62,11 @@ func TestDeBinaryCode(t *testing.T) {
 }
 
 func TestDeBinaryCode2(t *testing.T) {
-	code, err := base64.StdEncoding.DecodeString("DsMBsAjBPhAB") //EWFnIQiluQI=
+	code, err := base64.StdEncoding.DecodeString("AKdjDQgIEMm96hk=") //EWFnIQiluQI=
 	if err != nil {
 		t.Error(err)
 	}
-	var ma = &C2SShopBuy{}
+	var ma = &C2SReceiveEntrust{}
 	if err = proto.Unmarshal(code[4:], ma); err != nil {
 		t.Error(err)
 	}

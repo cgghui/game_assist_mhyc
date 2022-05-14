@@ -541,6 +541,10 @@ func FuBen(ctx context.Context) {
 			x = data.PlayerGrid.X
 			y = data.PlayerGrid.Y
 		}
+		if x == 21 && y == 21 {
+			x = 1
+			y = 1
+		}
 		for ; x <= 21; x++ {
 			if y >= 22 {
 				y = 1

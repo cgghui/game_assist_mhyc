@@ -100,6 +100,7 @@ func jxsc(ctx context.Context) time.Duration {
 		})
 	}()
 	go ListenMessage(am.Ctx, &S2CJXSCMyScore{})
+	go ListenMessage(am.Ctx, &S2CJXSCStageChange{})
 	go ListenMessageCall(am.Ctx, &S2CJXSCLeaveScene{}, func(_ []byte) {
 		am.End()
 	})
@@ -255,4 +256,19 @@ func (x *S2CJXSCLeaveScene) ID() uint16 {
 func (x *S2CJXSCLeaveScene) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][JXSCLeaveScene] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CJXSCStageChange) ID() uint16 {
+	return 23202
+}
+
+// Message S2CJXSCStageChange Code:23202
+func (x *S2CJXSCStageChange) Message(data []byte) {
+	if err := proto.Unmarshal(data, x); err != nil {
+		return
+	}
+	t := time.Unix(x.EndTimestamp, 0).Local()
+	log.Printf("[S][JXSCStageChange] stage=%v end_timestamp=%s", x.Stage, t.Format("2006-01-02 15:04:05"))
 }

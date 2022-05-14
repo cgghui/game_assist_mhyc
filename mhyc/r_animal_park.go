@@ -94,6 +94,7 @@ func EnterAnimalPark(ctx context.Context) {
 					}()
 					r := &S2CSearchPet{}
 					if err := Receive.WaitWithContextOrTimeout(am.Ctx, r, s3); err == nil && r.Pet != nil {
+						c++
 						go func(r *S2CSearchPet) {
 							_ = CLI.AnimalParkGO(&C2SAnimalParkGO{
 								PetId: r.Pet.Id,
@@ -103,7 +104,6 @@ func EnterAnimalPark(ctx context.Context) {
 						}(r)
 						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CAnimalParkGO{}, s3)
 					}
-					c++
 					return ms100, 0
 				})
 			}
