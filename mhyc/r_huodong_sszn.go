@@ -59,11 +59,16 @@ func HuoDongSSZN(ctx context.Context) {
 		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3); err != nil {
 			return RandMillisecond(0, 1)
 		}
-		Receive.Action(CLI.FightBoss)
-		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFightBoss{}, s3); err != nil {
-			return RandMillisecond(0, 1)
-		}
-		return time.Hour
+		i := 0
+		return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+			if i >= 8 {
+				return 0, time.Hour
+			}
+			Receive.Action(CLI.FightBoss)
+			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CFightBoss{}, s3)
+			i++
+			return ms100, 0
+		})
 	}
 	for {
 		select {
