@@ -100,7 +100,12 @@ func jxsc(ctx context.Context) time.Duration {
 		})
 	}()
 	go ListenMessage(am.Ctx, &S2CJXSCMyScore{})
-	go ListenMessage(am.Ctx, &S2CJXSCStageChange{})
+	stage := int32(0)
+	go ListenMessageCall(am.Ctx, &S2CJXSCStageChange{}, func(data []byte) {
+		r := &S2CJXSCStageChange{}
+		r.Message(data)
+		stage = r.Stage
+	})
 	go ListenMessageCall(am.Ctx, &S2CJXSCLeaveScene{}, func(_ []byte) {
 		am.End()
 	})
@@ -145,10 +150,17 @@ func jxsc(ctx context.Context) time.Duration {
 			go func() {
 				_ = CLI.StartMove(&C2SStartMove{P: []int32{int32(m.X), int32(m.Y)}})
 			}()
+			//_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
 			tm.Reset(ms50)
 			<-tm.C
-			//_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CStartMove{}, s3)
-			_, _ = FightAction(am.Ctx, m.Id, 8)
+			if stage == 6 {
+				go func() {
+					_ = CLI.JXSCOpenBox(int32(m.Id))
+				}()
+				_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJXSCOpenBox{}, s3)
+			} else {
+				_, _ = FightAction(am.Ctx, m.Id, 8)
+			}
 			return 0, 0
 		})
 		tm.Reset(RandMillisecond(0, 3))
@@ -234,7 +246,7 @@ func (x *S2CJXSCSkinChange) ID() uint16 {
 // Message S2CJXSCSkinChange Code:23206
 func (x *S2CJXSCSkinChange) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
-	log.Printf("[S][JXSCSkinChange] tag=%v id=%v", x.Tag, x.Id)
+	log.Printf("[S][JXSCSkinChange] tag=%v tag_msg=%s id=%v", x.Tag, GetTagMsg(x.Tag), x.Id)
 }
 
 ////////////////////////////////////////////////////////////
@@ -271,4 +283,26 @@ func (x *S2CJXSCStageChange) Message(data []byte) {
 	}
 	t := time.Unix(x.EndTimestamp, 0).Local()
 	log.Printf("[S][JXSCStageChange] stage=%v end_timestamp=%s", x.Stage, t.Format("2006-01-02 15:04:05"))
+}
+
+////////////////////////////////////////////////////////////
+
+// JXSCOpenBox 开箱子
+func (c *Connect) JXSCOpenBox(id int32) error {
+	body, err := proto.Marshal(&C2SJXSCOpenBox{Id: id})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][JXSCOpenBox]")
+	return c.send(23213, body)
+}
+
+func (x *S2CJXSCOpenBox) ID() uint16 {
+	return 23214
+}
+
+// Message S2CJXSCOpenBox Code:23214
+func (x *S2CJXSCOpenBox) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][JXSCOpenBox] tag=%v tag_msg=%s", x.Tag, GetTagMsg(x.Tag))
 }

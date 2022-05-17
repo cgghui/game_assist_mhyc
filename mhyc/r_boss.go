@@ -829,7 +829,7 @@ func BossHLTJ(ctx context.Context) {
 	t1 := time.NewTimer(time.Second)
 	f1 := func() time.Duration {
 		if RoleInfo.Get("HLPower").Int64() <= 5 {
-			return TomorrowDuration(RandMillisecond(1800, 3600))
+			return TomorrowDuration(RandMillisecond(21660, 21700))
 		}
 		Fight.Lock()
 		am := SetAction(ctx, "BOSS-幻灵天界")
