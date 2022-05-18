@@ -422,6 +422,19 @@ func (a *ActionManage) RunAction(ctx context.Context, run func() (loop time.Dura
 	}
 }
 
+func (a *ActionManage) TimeWait(ctx context.Context, t *time.Timer) {
+	for {
+		select {
+		case <-t.C:
+			return
+		case <-ctx.Done():
+			return
+		case <-a.Ctx.Done():
+			return
+		}
+	}
+}
+
 func SetAction(ctx context.Context, name string, timeout ...time.Duration) *ActionManage {
 	am := &ActionManage{Name: name, Sr: time.Now()}
 	if len(timeout) == 0 {

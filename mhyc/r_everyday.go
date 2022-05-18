@@ -297,6 +297,34 @@ func Everyday(ctx context.Context) {
 			}
 		}
 	}()
+	// 神龙
+	go func() {
+		t := time.NewTimer(time.Second)
+		defer t.Stop()
+		f := func() time.Duration {
+			Fight.Lock()
+			am := SetAction(ctx, "神龙许愿")
+			defer func() {
+				am.End()
+				Fight.Unlock()
+			}()
+			go func() {
+				_ = CLI.XunBaoDraw(&C2SActXunBaoDraw{ActId: 8, Type: 54173385, AutoBuy: 0})
+			}()
+			if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CActXunBaoDraw{}, s3); err != nil {
+				return RandMillisecond(6, 10)
+			}
+			return TomorrowDuration(RandMillisecond(1800, 3600))
+		}
+		for {
+			select {
+			case <-t.C:
+				t.Reset(f())
+			case <-ctx.Done():
+				return
+			}
+		}
+	}()
 	// 定时领取主线任务奖励
 	go func() {
 		t := time.NewTimer(ms100)

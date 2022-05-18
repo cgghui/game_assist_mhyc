@@ -15,7 +15,7 @@ func illusionSweep(ctx context.Context) time.Duration {
 		am.End()
 		Fight.Unlock()
 	}()
-	irList := []int32{1, 2, 11}
+	irList := []int32{1, 2, 11, 21}
 	i := 0
 	return am.RunAction(am.Ctx, func() (loop time.Duration, next time.Duration) {
 		if i >= len(irList) {
@@ -124,10 +124,13 @@ func yiJiWT(ctx context.Context) time.Duration {
 		am.End()
 		Fight.Unlock()
 	}()
-	if RoleInfo.Get("YiJiDayBeEntrustedTimes").Int64() <= 0 {
+	a1 := RoleInfo.Get("YiJiDayBeEntrustedTimes").Int64()
+	a2 := RoleInfo.Get("YiJiBeEntrustedNum").Int64()
+	a3 := RoleInfo.Get("YiJiDayEntrustTimes").Int64()
+	if a1 == 0 && a2 == 0 && a3 == 0 {
 		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
-	if RoleInfo.Get("YiJiBeEntrustedNum").Int64() < 3 {
+	if a2 < 3 {
 		Receive.Action(CLI.GetEntrustWallList)
 		var list S2CGetEntrustWallList
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &list, s3)
@@ -140,7 +143,7 @@ func yiJiWT(ctx context.Context) time.Duration {
 				_ = Receive.WaitWithContextOrTimeout(am.Ctx, &rec, s3)
 			}
 		}
-		if RoleInfo.Get("YiJiBeEntrustedNum").Int64() <= 0 {
+		if a2 <= 0 {
 			return RandMillisecond(1, 3)
 		}
 	}
@@ -221,10 +224,134 @@ func yiJiWT(ctx context.Context) time.Duration {
 	})
 }
 
+func KFZZJZ(ctx context.Context) time.Duration {
+	Fight.Lock()
+	am := SetAction(ctx, "跨服-征战九州")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
+	Receive.Action(CLI.GetPrefectWarData)
+	data := S2CGetPrefectWarData{}
+	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &data, s3)
+	for _, item := range data.TabItems {
+		if item.TabId == 0 {
+			if item.CurCpId == 9 {
+				ttm := time.Unix(item.StateResetTimestamp, 0)
+				cur := time.Now()
+				if cur.Before(ttm) {
+					//
+					go func() {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 1})
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					//
+					go func() {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 2})
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					//
+					go func() {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 3})
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					//
+					go func() {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 4})
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					//
+					go func() {
+						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 5})
+					}()
+					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					//
+					return ttm.Add(ms100).Sub(cur)
+				}
+			}
+		}
+	}
+	go func() {
+		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: 1, Key2: 3, Key3: 36, Key4: 0, IsCross: 1, FightLimit: 0, FuncId: 829})
+	}()
+	var ct S2CCreateTeam
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &ct, s3); err != nil {
+		return RandMillisecond(1, 3)
+	}
+	tNext := time.NewTimer(s15)
+	defer tNext.Stop()
+	go ListenMessageCall(am.Ctx, &S2CTeamInfo{}, func(data []byte) {
+		info := &S2CTeamInfo{}
+		info.Message(data)
+		if len(info.Players) >= 3 {
+			tNext.Reset(ms10)
+		}
+	})
+	go ListenMessageCall(am.Ctx, &S2CDisbandTeam{}, func(_ []byte) {
+		am.End()
+	})
+	params := []C2SCommonShout{
+		{
+			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
+			Param2:    "829|1|3|0|3951",
+			NoticeId:  288,
+			ChannelId: 10003,
+		},
+		{
+			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
+			Param2:    "829|1|3|0|3939",
+			NoticeId:  288,
+			ChannelId: 10004,
+		},
+		{
+			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
+			Param2:    "829|1|3|0|3945",
+			NoticeId:  288,
+			ChannelId: 10005,
+		},
+		{
+			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
+			Param2:    "829|1|3|0|3951",
+			NoticeId:  288,
+			ChannelId: 10006,
+		},
+	}
+	i := 0
+	count := len(params)
+	am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+		if i >= count {
+			return 0, 0
+		}
+		go func(i int) {
+			_ = CLI.CommonShout(&params[i])
+		}(i)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CCommonShout{}, s3)
+		i++
+		return ms100, 0
+	})
+	am.TimeWait(ctx, tNext)
+	cp := int32(1)
+	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+		if cp >= 10 {
+			return 0, time.Minute
+		}
+		go func() {
+			_ = CLI.PrefectWarFight(&C2SPrefectWarFight{TabId: 0, BossId: 3, CpId: cp})
+		}()
+		tNext.Reset(9 * time.Second)
+		am.TimeWait(ctx, tNext)
+		Receive.Action(CLI.GetPrefectWarData)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetPrefectWarData{}, s3)
+		cp++
+		return s3, 0
+	})
+}
+
 // KuaFu 跨服
 func KuaFu(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	t2 := time.NewTimer(ms50)
+	t3 := time.NewTimer(ms100)
 	t4 := time.NewTimer(ms10)
 	defer t1.Stop()
 	defer t2.Stop()
@@ -235,6 +362,8 @@ func KuaFu(ctx context.Context) {
 			t1.Reset(yiJi(ctx))
 		case <-t2.C:
 			t2.Reset(yiJiWT(ctx))
+		case <-t3.C:
+			t3.Reset(KFZZJZ(ctx))
 		case <-t4.C:
 			t4.Reset(illusionSweep(ctx))
 		case <-ctx.Done():
@@ -395,4 +524,48 @@ func (x *S2CIllusionSweep) ID() uint16 {
 func (x *S2CIllusionSweep) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][IllusionSweep] %v", x)
+}
+
+////////////////////////////////////////////////////////////
+
+// PrefectWarFight 扫荡
+func (c *Connect) PrefectWarFight(f *C2SPrefectWarFight) error {
+	body, err := proto.Marshal(f)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][PrefectWarFight] boss_id=%v cp_id=%v tab_id=%v", f.BossId, f.CpId, f.TabId)
+	return c.send(28407, body)
+}
+
+func (x *S2CPrefectWarFight) ID() uint16 {
+	return 28408
+}
+
+// Message S2CPrefectWarFight Code:28408
+func (x *S2CPrefectWarFight) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][PrefectWarFight] tag=%v tag_msg=%s boss_id=%v cp_id=%v tab_id=%v", x.Tag, GetTagMsg(x.Tag), x.BossId, x.CpId, x.TabId)
+}
+
+////////////////////////////////////////////////////////////
+
+// GetPrefectWarData 扫荡
+func (c *Connect) GetPrefectWarData() error {
+	body, err := proto.Marshal(&C2SGetPrefectWarData{})
+	if err != nil {
+		return err
+	}
+	log.Println("[C][GetPrefectWarData]")
+	return c.send(28401, body)
+}
+
+func (x *S2CGetPrefectWarData) ID() uint16 {
+	return 28402
+}
+
+// Message S2CGetPrefectWarData Code:28402
+func (x *S2CGetPrefectWarData) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][GetPrefectWarData] tab_items=%v", x.TabItems)
 }

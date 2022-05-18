@@ -697,7 +697,8 @@ func collectSC(ctx context.Context, field string, xsdID, bossID int32) time.Dura
 	cur := time.Now()
 	brt := time.Unix(collect.FinishTimestamp, 0).Local()
 	if cur.Before(brt) {
-		<-time.After(brt.Add(ms100).Sub(cur))
+		tr := time.NewTimer(brt.Add(ms100).Sub(cur))
+		am.TimeWait(ctx, tr)
 	}
 	return ms100
 }

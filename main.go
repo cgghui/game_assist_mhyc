@@ -92,6 +92,7 @@ func main() {
 		&mhyc.S2CWestExp{},
 		&mhyc.S2CHomeBossInfo{},
 		&mhyc.S2CPlayerMove{},
+		&mhyc.S2CNewChatMsg{},
 	}
 
 	for range tm.C {
@@ -256,6 +257,11 @@ func main() {
 				func() {
 					mhyc.ListenMessageCall(mhyc.CTX, listenAction[15], func(data []byte) {
 						listenAction[15].Message(data)
+					})
+				},
+				func() {
+					mhyc.ListenMessageCall(mhyc.CTX, listenAction[16], func(data []byte) {
+						listenAction[16].Message(data)
 					})
 				},
 			)

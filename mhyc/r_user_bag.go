@@ -118,6 +118,7 @@ const ms500 = 500 * time.Millisecond
 const s3 = 3 * time.Second
 const s6 = 6 * time.Second
 const s10 = 10 * time.Second
+const s15 = 15 * time.Second
 const s20 = 20 * time.Second
 const s30 = 30 * time.Second
 const s60 = 60 * time.Second

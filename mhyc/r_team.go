@@ -109,3 +109,36 @@ func (x *S2CLeaveTeam) Message(data []byte) {
 	_ = proto.Unmarshal(data, x)
 	log.Printf("[S][退出组队] tag=%v tag_msg=%s func_id=%v", x.Tag, GetTagMsg(x.Tag), x.FuncId)
 }
+
+////////////////////////////////////////////////////////////
+
+func (c *Connect) CommonShout(comm *C2SCommonShout) error {
+	body, err := proto.Marshal(comm)
+	if err != nil {
+		return err
+	}
+	log.Printf("[C][CommonShout] notice_id=%d channel_id=%d", comm.NoticeId, comm.ChannelId)
+	return c.send(25751, body)
+}
+
+func (x *S2CCommonShout) ID() uint16 {
+	return 25752
+}
+
+// Message S2CCommonShout 25752
+func (x *S2CCommonShout) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][CommonShout] tag=%v tag_msg=%s  notice_id=%d channel_id=%d", x.Tag, GetTagMsg(x.Tag), x.NoticeId, x.ChannelId)
+}
+
+////////////////////////////////////////////////////////////
+
+func (x *S2CDisbandTeam) ID() uint16 {
+	return 27114
+}
+
+// Message S2CDisbandTeam 27114
+func (x *S2CDisbandTeam) Message(data []byte) {
+	_ = proto.Unmarshal(data, x)
+	log.Printf("[S][DisbandTeam] tag=%v tag_msg=%s func_id=%d", x.Tag, GetTagMsg(x.Tag), x.FuncId)
+}
