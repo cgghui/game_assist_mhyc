@@ -856,8 +856,12 @@ func BossHLTJ(ctx context.Context) {
 		go func() {
 			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: HltjID, Type: 2})
 		}()
-		if err := Receive.WaitWithContextOrTimeout(am.Ctx, &S2CEnterHLFB{}, s3); err != nil {
+		enter := &S2CEnterHLFB{}
+		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {
 			return RandMillisecond(1, 3)
+		}
+		if enter.Tag != 0 {
+			return RandMillisecond(15, 60)
 		}
 		// 组队
 		go func() {

@@ -45,6 +45,9 @@ func (r *receiveMessage) Open(id uint16, call HandleMessage) *receiveMessage {
 
 // IsOpen open true, close false
 func (r *receiveMessage) IsOpen() bool {
+	if r == nil {
+		return false
+	}
 	return r.id > 0 && r.running
 }
 
