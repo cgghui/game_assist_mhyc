@@ -234,8 +234,10 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	Receive.Action(CLI.GetPrefectWarData)
 	data := S2CGetPrefectWarData{}
 	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &data, s3)
+	cp := int32(0)
 	for _, item := range data.TabItems {
 		if item.TabId == 0 {
+			cp = item.CurCpId
 			if item.CurCpId == 9 {
 				ttm := time.Unix(item.StateResetTimestamp, 0)
 				cur := time.Now()
@@ -271,6 +273,7 @@ func KFZZJZ(ctx context.Context) time.Duration {
 			}
 		}
 	}
+	cp++
 	go func() {
 		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: 1, Key2: 3, Key3: 36, Key4: 0, IsCross: 1, FightLimit: 0, FuncId: 829})
 	}()
@@ -330,10 +333,8 @@ func KFZZJZ(ctx context.Context) time.Duration {
 		return ms100, 0
 	})
 	am.TimeWait(ctx, tNext)
-	cp := int32(1)
-	fail := 0
 	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
-		if cp >= 10 || fail >= 5 {
+		if cp >= 10 {
 			return 0, time.Minute
 		}
 		go func() {
@@ -342,7 +343,6 @@ func KFZZJZ(ctx context.Context) time.Duration {
 		ret := &S2CPrefectWarFight{}
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
 		if ret.Tag != 0 {
-			fail++
 			return time.Second, 0
 		}
 		tNext.Reset(9 * time.Second)
@@ -350,7 +350,6 @@ func KFZZJZ(ctx context.Context) time.Duration {
 		Receive.Action(CLI.GetPrefectWarData)
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetPrefectWarData{}, s3)
 		cp++
-		fail = 0
 		return s3, 0
 	})
 }
