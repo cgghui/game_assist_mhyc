@@ -2,11 +2,27 @@ package mhyc
 
 import (
 	"context"
+	"encoding/json"
+	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
 	"time"
 )
+
+type CfgPrefectWarBoss struct {
+	BossId int32
+	CpId   int32
+	Name   string
+}
+
+var cfgPrefectWarBossList []CfgPrefectWarBoss
+
+func init() {
+	if err := json.Unmarshal(cfg1PrefectWarBoss, &cfgPrefectWarBossList); err != nil {
+		panic(err)
+	}
+}
 
 func illusionSweep(ctx context.Context) time.Duration {
 	Fight.Lock()
@@ -234,10 +250,13 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	Receive.Action(CLI.GetPrefectWarData)
 	data := S2CGetPrefectWarData{}
 	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &data, s3)
+	bossId := int32(3)
 	cp := int32(0)
+	pt := int32(0)
 	for _, item := range data.TabItems {
 		if item.TabId == 0 {
 			cp = item.CurCpId
+			pt = item.PassTimes
 			if item.CurCpId == 9 {
 				ttm := time.Unix(item.StateResetTimestamp, 0)
 				cur := time.Now()
@@ -275,7 +294,7 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	}
 	cp++
 	go func() {
-		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: 1, Key2: 3, Key3: 36, Key4: 0, IsCross: 1, FightLimit: 0, FuncId: 829})
+		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: int64(cp), Key2: int64(bossId), Key3: int64(pt), Key4: 0, IsCross: 1, FightLimit: 0, FuncId: 829})
 	}()
 	var ct S2CCreateTeam
 	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &ct, s3); err != nil {
@@ -293,28 +312,37 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	go ListenMessageCall(am.Ctx, &S2CDisbandTeam{}, func(_ []byte) {
 		am.End()
 	})
+	name := ""
+	for _, boss := range cfgPrefectWarBossList {
+		if boss.BossId == bossId && boss.CpId == cp {
+			name = boss.Name
+			break
+		}
+	}
+	param1 := "<color=#46ff69>豪杰</c>·征战九州·" + name
+	param2 := fmt.Sprintf("%d|%d|%d|%d|%d", ct.Team.FuncId, ct.Team.Key1, ct.Team.Key2, 0, ct.Team.TeamId)
 	params := []C2SCommonShout{
 		{
-			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
-			Param2:    "829|1|3|0|3951",
+			Param1:    param1,
+			Param2:    param2,
 			NoticeId:  288,
 			ChannelId: 10003,
 		},
 		{
-			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
-			Param2:    "829|1|3|0|3939",
+			Param1:    param1,
+			Param2:    param2,
 			NoticeId:  288,
 			ChannelId: 10004,
 		},
 		{
-			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
-			Param2:    "829|1|3|0|3945",
+			Param1:    param1,
+			Param2:    param2,
 			NoticeId:  288,
 			ChannelId: 10005,
 		},
 		{
-			Param1:    "<color=#46ff69>豪杰</c>·征战九州·赤戎州",
-			Param2:    "829|1|3|0|3951",
+			Param1:    param1,
+			Param2:    param2,
 			NoticeId:  288,
 			ChannelId: 10006,
 		},
