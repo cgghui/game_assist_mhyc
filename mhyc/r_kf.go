@@ -331,18 +331,26 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	})
 	am.TimeWait(ctx, tNext)
 	cp := int32(1)
+	fail := 0
 	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
-		if cp >= 10 {
+		if cp >= 10 || fail >= 5 {
 			return 0, time.Minute
 		}
 		go func() {
 			_ = CLI.PrefectWarFight(&C2SPrefectWarFight{TabId: 0, BossId: 3, CpId: cp})
 		}()
+		ret := &S2CPrefectWarFight{}
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
+		if ret.Tag != 0 {
+			fail++
+			return time.Second, 0
+		}
 		tNext.Reset(9 * time.Second)
 		am.TimeWait(ctx, tNext)
 		Receive.Action(CLI.GetPrefectWarData)
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetPrefectWarData{}, s3)
 		cp++
+		fail = 0
 		return s3, 0
 	})
 }
