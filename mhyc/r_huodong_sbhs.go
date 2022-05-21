@@ -72,9 +72,6 @@ func actSbhs(ctx context.Context) time.Duration {
 
 // actHsPlayer 护送玩家 拦截
 func actHsPlayer(ctx context.Context) time.Duration {
-	if td := actSbhsTime(); td != 0 {
-		return td
-	}
 	Fight.Lock()
 	am := SetAction(ctx, "活动-双倍护送[拦截]")
 	defer func() {
@@ -84,7 +81,7 @@ func actHsPlayer(ctx context.Context) time.Duration {
 	Receive.Action(CLI.GetProtectPlayer)
 	var pp S2CGetProtectPlayer
 	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &pp, s3); err != nil {
-		return RandMillisecond(0, 2)
+		return RandMillisecond(3, 6)
 	}
 	self := RoleInfo.Get("FightValue").Int64()
 	count := len(pp.List)
