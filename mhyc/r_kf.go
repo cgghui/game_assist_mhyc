@@ -142,8 +142,8 @@ func yiJiWT(ctx context.Context) time.Duration {
 	}()
 	a1 := RoleInfo.Get("YiJiDayBeEntrustedTimes").Int64()
 	a2 := RoleInfo.Get("YiJiBeEntrustedNum").Int64()
-	a3 := RoleInfo.Get("YiJiDayEntrustTimes").Int64()
-	if a1 == 0 && a2 == 0 && a3 == 0 {
+	//a3 := RoleInfo.Get("YiJiDayEntrustTimes").Int64()
+	if a1 == 0 && a2 == 0 {
 		return TomorrowDuration(RandMillisecond(1800, 3600))
 	}
 	if a2 < 3 {
@@ -157,6 +157,9 @@ func yiJiWT(ctx context.Context) time.Duration {
 				}(i)
 				var rec S2CReceiveEntrust
 				_ = Receive.WaitWithContextOrTimeout(am.Ctx, &rec, s3)
+				if rec.Tag == 55510 {
+					break
+				}
 			}
 		}
 		if a2 <= 0 {

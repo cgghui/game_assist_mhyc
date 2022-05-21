@@ -309,7 +309,7 @@ func Everyday(ctx context.Context) {
 				Fight.Unlock()
 			}()
 			go func() {
-				_ = CLI.XunBaoDraw(&C2SActXunBaoDraw{ActId: 8, Type: 54173385, AutoBuy: 0})
+				_ = CLI.XunBaoDraw(&C2SActXunBaoDraw{ActId: 62001, Type: 1, AutoBuy: 0})
 			}()
 			_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CActXunBaoDraw{}, s3)
 			return TomorrowDuration(RandMillisecond(1800, 3600))

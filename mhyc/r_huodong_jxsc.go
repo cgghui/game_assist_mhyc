@@ -113,7 +113,11 @@ func jxsc(ctx context.Context) time.Duration {
 	go func() {
 		_ = CLI.JoinActive(&C2SJoinActive{AId: 5})
 	}()
-	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CJoinActive{}, s3)
+	join := &S2CJoinActive{}
+	_ = Receive.WaitWithContextOrTimeout(am.Ctx, join, s3)
+	if join.Tag == 50502 {
+		return TomorrowDuration(RandMillisecond(3600, 7200))
+	}
 	defer func() {
 		// 离开
 		go func() {
