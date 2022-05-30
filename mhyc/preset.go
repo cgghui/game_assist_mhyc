@@ -10,8 +10,8 @@ import (
 const (
 	UserAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.12(0x18000c28) NetType/WIFI Language/zh_CN"
 
-	BossMultiID int32 = 10 // 多人BOSS
-	BossHomeID        = 9  // 跨服 - BOSS之家
+	BossMultiID int32 = 11 // 多人BOSS
+	BossHomeID        = 10 // 跨服 - BOSS之家
 
 	// HltjID 1101 1102 1103 1104 1105
 	// HltjID 1201 1202 1203 1204 1205
