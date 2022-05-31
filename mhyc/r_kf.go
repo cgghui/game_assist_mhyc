@@ -373,6 +373,9 @@ func KFZZJZ(ctx context.Context) time.Duration {
 		}()
 		ret := &S2CPrefectWarFight{}
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
+		if ret.Tag == 58647 {
+			return 0, s30
+		}
 		if ret.Tag != 0 {
 			return time.Second, 0
 		}
