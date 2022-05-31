@@ -76,7 +76,7 @@ func EnterAnimalPark(ctx context.Context) {
 			items[ItemPet502] = item
 			n += items[ItemPet502].N
 		}
-		if n < 200 {
+		if n < 1000 {
 			date := time.Now().Format("2006-01-02")
 			if b, err := ioutil.ReadFile("./AnimalParkSearch10.txt"); err == nil && date == string(b) {
 				return RandMillisecond(1800, 3600)
