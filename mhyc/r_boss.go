@@ -854,7 +854,7 @@ func BossHLTJ(ctx context.Context) {
 		}
 		// 进入场景
 		go func() {
-			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: HltjID, Type: 3})
+			_ = CLI.EnterHLFB(&C2SEnterHLFB{InsId: HltjID, Type: HltjTP})
 		}()
 		enter := &S2CEnterHLFB{}
 		if err := Receive.WaitWithContextOrTimeout(am.Ctx, enter, s3); err != nil {

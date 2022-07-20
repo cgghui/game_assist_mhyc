@@ -919,12 +919,16 @@ func (x *S2CJungleHuntData) Message(data []byte) {
 ////////////////////////////////////////////////////////////
 
 func (c *Connect) SwordSoulResolveJH() error {
-	id := strconv.FormatInt(RoleInfo.Get("UserId").Int64(), 10) + "_88030"
-	body, err := proto.Marshal(&C2SSwordSoulResolve{ItemIds: []string{id}})
+	uid := strconv.FormatInt(RoleInfo.Get("UserId").Int64(), 10)
+	items := []string{
+		uid + "_229505",
+		uid + "_229506",
+	}
+	body, err := proto.Marshal(&C2SSwordSoulResolve{ItemIds: items})
 	if err != nil {
 		return err
 	}
-	log.Printf("[C][SwordSoulResolve] item_ids=%v", id)
+	log.Printf("[C][SwordSoulResolve] item_ids=%v", items)
 	return c.send(3205, body)
 }
 

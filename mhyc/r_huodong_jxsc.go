@@ -17,7 +17,7 @@ func actJXSCTime() time.Duration {
 	actStartTime := []time.Time{
 		//time.Date(y, m, d, 11, 00, 0, 0, time.Local).Add(time.Second),
 		time.Date(y, m, d, 15, 00, 0, 0, time.Local).Add(time.Second),
-		//time.Date(y, m, d, 19, 00, 0, 0, time.Local).Add(time.Second),
+		time.Date(y, m, d, 19, 00, 0, 0, time.Local).Add(time.Second),
 	}
 	for _, ast := range actStartTime {
 		if cur.Before(ast) {

@@ -15,8 +15,9 @@ const (
 
 	// HltjID 1101 1102 1103 1104 1105
 	// HltjID 1201 1202 1203 1204 1205
-	HltjID      int32 = 1404 // 幻灵天界
-	HltjTeamRen       = 2    // 幻灵天界 参团至少人数
+	HltjID      int32 = 1403 // 幻灵天界
+	HltjTP      int32 = 4
+	HltjTeamRen       = 2 // 幻灵天界 参团至少人数
 
 	// 秘境探险
 	FuBenId   int32 = 4

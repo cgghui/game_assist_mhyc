@@ -3,7 +3,6 @@ package mhyc
 import (
 	"context"
 	"encoding/json"
-	"fmt"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"sort"
@@ -243,7 +242,8 @@ func yiJiWT(ctx context.Context) time.Duration {
 	})
 }
 
-func KFZZJZ(ctx context.Context) time.Duration {
+// KFZZJZHJ 征战九州 - 豪杰
+func KFZZJZHJ(ctx context.Context) time.Duration {
 	Fight.Lock()
 	am := SetAction(ctx, "跨服-征战九州")
 	defer func() {
@@ -256,40 +256,26 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	bossId := int32(3)
 	cp := int32(0)
 	pt := int32(0)
+	tb := int32(0)
 	for _, item := range data.TabItems {
 		if item.TabId == 0 {
 			cp = item.CurCpId
 			pt = item.PassTimes
+			tb = item.TabId
 			if item.CurCpId == 9 {
 				ttm := time.Unix(item.StateResetTimestamp, 0)
 				cur := time.Now()
 				if cur.Before(ttm) {
-					//
-					go func() {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 1})
-					}()
-					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
-					//
-					go func() {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 2})
-					}()
-					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
-					//
-					go func() {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 3})
-					}()
-					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
-					//
-					go func() {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 4})
-					}()
-					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
-					//
-					go func() {
-						_ = CLI.GetTaskPrize(&C2SGetTaskPrize{TaskType: 44, Multi: 1, TaskId: 5})
-					}()
-					_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
-					//
+					for tid := 1; tid <= 5; tid++ {
+						go func() {
+							_ = CLI.GetTaskPrize(&C2SGetTaskPrize{
+								TaskType: 44,
+								Multi:    1,
+								TaskId:   int32(tid),
+							})
+						}()
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					}
 					return ttm.Add(ms100).Sub(cur)
 				}
 			}
@@ -297,79 +283,18 @@ func KFZZJZ(ctx context.Context) time.Duration {
 	}
 	cp++
 	go func() {
-		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: int64(cp), Key2: int64(bossId), Key3: int64(pt), Key4: 0, IsCross: 1, FightLimit: 0, FuncId: 829})
+		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: int64(cp), Key2: int64(bossId), Key3: int64(pt), Key4: int64(tb), IsCross: 1, FightLimit: 0, FuncId: 829})
 	}()
 	var ct S2CCreateTeam
 	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &ct, s3); err != nil {
 		return RandMillisecond(1, 3)
 	}
-	tNext := time.NewTimer(s15)
-	defer tNext.Stop()
-	go ListenMessageCall(am.Ctx, &S2CTeamInfo{}, func(data []byte) {
-		info := &S2CTeamInfo{}
-		info.Message(data)
-		if len(info.Players) >= 3 {
-			tNext.Reset(ms10)
-		}
-	})
-	go ListenMessageCall(am.Ctx, &S2CDisbandTeam{}, func(_ []byte) {
-		am.End()
-	})
-	name := ""
-	for _, boss := range cfgPrefectWarBossList {
-		if boss.BossId == bossId && boss.CpId == cp {
-			name = boss.Name
-			break
-		}
-	}
-	param1 := "<color=#46ff69>豪杰</c>·征战九州·" + name
-	param2 := fmt.Sprintf("%d|%d|%d|%d|%d", ct.Team.FuncId, ct.Team.Key1, ct.Team.Key2, 0, ct.Team.TeamId)
-	params := []C2SCommonShout{
-		{
-			Param1:    param1,
-			Param2:    param2,
-			NoticeId:  288,
-			ChannelId: 10003,
-		},
-		{
-			Param1:    param1,
-			Param2:    param2,
-			NoticeId:  288,
-			ChannelId: 10004,
-		},
-		{
-			Param1:    param1,
-			Param2:    param2,
-			NoticeId:  288,
-			ChannelId: 10005,
-		},
-		{
-			Param1:    param1,
-			Param2:    param2,
-			NoticeId:  288,
-			ChannelId: 10006,
-		},
-	}
-	i := 0
-	count := len(params)
-	am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
-		if i >= count {
-			return 0, 0
-		}
-		go func(i int) {
-			_ = CLI.CommonShout(&params[i])
-		}(i)
-		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CCommonShout{}, s3)
-		i++
-		return ms100, 0
-	})
-	am.TimeWait(ctx, tNext)
 	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
 		if cp >= 10 {
 			return 0, time.Minute
 		}
 		go func() {
-			_ = CLI.PrefectWarFight(&C2SPrefectWarFight{TabId: 0, BossId: 3, CpId: cp})
+			_ = CLI.PrefectWarFight(&C2SPrefectWarFight{TabId: tb, BossId: bossId, CpId: cp})
 		}()
 		ret := &S2CPrefectWarFight{}
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
@@ -379,8 +304,75 @@ func KFZZJZ(ctx context.Context) time.Duration {
 		if ret.Tag != 0 {
 			return time.Second, 0
 		}
-		tNext.Reset(9 * time.Second)
-		am.TimeWait(ctx, tNext)
+		Receive.Action(CLI.GetPrefectWarData)
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetPrefectWarData{}, s3)
+		cp++
+		return s3, 0
+	})
+}
+
+// KFZZJZSW 征战九州 - 神威
+func KFZZJZSW(ctx context.Context) time.Duration {
+	Fight.Lock()
+	am := SetAction(ctx, "跨服-征战九州")
+	defer func() {
+		am.End()
+		Fight.Unlock()
+	}()
+	Receive.Action(CLI.GetPrefectWarData)
+	data := S2CGetPrefectWarData{}
+	_ = Receive.WaitWithContextOrTimeout(am.Ctx, &data, s3)
+	bossId := int32(3)
+	cp := int32(0)
+	pt := int32(0)
+	tb := int32(0)
+	for _, item := range data.TabItems {
+		if item.TabId == 1 {
+			cp = item.CurCpId
+			pt = item.PassTimes
+			tb = item.TabId
+			if item.CurCpId == 9 {
+				ttm := time.Unix(item.StateResetTimestamp, 0)
+				cur := time.Now()
+				if cur.Before(ttm) {
+					for tid := 5; tid <= 10; tid++ {
+						go func() {
+							_ = CLI.GetTaskPrize(&C2SGetTaskPrize{
+								TaskType: 44,
+								Multi:    1,
+								TaskId:   int32(tid),
+							})
+						}()
+						_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetTaskPrize{}, s3)
+					}
+					return ttm.Add(ms100).Sub(cur)
+				}
+			}
+		}
+	}
+	cp++
+	go func() {
+		_ = CLI.CreateTeam(&C2SCreateTeam{Key1: int64(cp), Key2: int64(bossId), Key3: int64(pt), Key4: int64(tb), IsCross: 1, FightLimit: 0, FuncId: 829})
+	}()
+	var ct S2CCreateTeam
+	if err := Receive.WaitWithContextOrTimeout(am.Ctx, &ct, s3); err != nil {
+		return RandMillisecond(1, 3)
+	}
+	return am.RunAction(ctx, func() (loop time.Duration, next time.Duration) {
+		if cp >= 10 {
+			return 0, time.Minute
+		}
+		go func() {
+			_ = CLI.PrefectWarFight(&C2SPrefectWarFight{TabId: tb, BossId: bossId, CpId: cp})
+		}()
+		ret := &S2CPrefectWarFight{}
+		_ = Receive.WaitWithContextOrTimeout(am.Ctx, ret, s3)
+		if ret.Tag == 58647 {
+			return 0, s30
+		}
+		if ret.Tag != 0 {
+			return time.Second, 0
+		}
 		Receive.Action(CLI.GetPrefectWarData)
 		_ = Receive.WaitWithContextOrTimeout(am.Ctx, &S2CGetPrefectWarData{}, s3)
 		cp++
@@ -392,7 +384,8 @@ func KFZZJZ(ctx context.Context) time.Duration {
 func KuaFu(ctx context.Context) {
 	t1 := time.NewTimer(ms100)
 	t2 := time.NewTimer(ms50)
-	t3 := time.NewTimer(ms100)
+	t30 := time.NewTimer(ms100)
+	t31 := time.NewTimer(ms100)
 	t4 := time.NewTimer(ms10)
 	defer t1.Stop()
 	defer t2.Stop()
@@ -403,8 +396,10 @@ func KuaFu(ctx context.Context) {
 			t1.Reset(yiJi(ctx))
 		case <-t2.C:
 			t2.Reset(yiJiWT(ctx))
-		case <-t3.C:
-			t3.Reset(KFZZJZ(ctx))
+		case <-t30.C:
+			t30.Reset(KFZZJZHJ(ctx))
+		case <-t31.C:
+			t31.Reset(KFZZJZSW(ctx))
 		case <-t4.C:
 			t4.Reset(illusionSweep(ctx))
 		case <-ctx.Done():
